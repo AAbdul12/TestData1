@@ -1,0 +1,39 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	21540	            147/50 Ellenborough Street	24/02/2006	-	02/12/2005	$514,000	87858m	Full transfer	3	1	1	2	-	$514,000	84	-	Allhomes Record	-	-	-	-	-	-
+2006	5676	            78/50 Ellenborough Street	04/12/2006	-	14/11/2006	$510,000	87858m	Full transfer	3	1	1	2	-	$510,000	20	-	Allhomes Record	-	-	-	-	-	-
+2006	21476	            47/50 Ellenborough Street	16/01/2006	-	04/11/2005	$505,000	87858m	Full transfer	3	1	1	2	-	$505,000	73	-	Allhomes Record	-	-	-	-	-	-
+2006	3925	            46 Medworth Crescent	01/09/2006	-	16/08/2006	$330,000	-	Full transfer	2	1	1	1	-	$330,000	16	-	Allhomes Record	-	-	-	-	-	-
+2006	5022	            10/45 Goodchild Street	13/11/2006	-	06/10/2006	$320,000	6512m	Full transfer	2	1	-	-	-	$320,000	38	-	Allhomes Record	-	-	-	-	-	-
+2006	5002	            35/10 Goodchild Street	12/12/2006	-	27/09/2006	$287,500	-	Full transfer	2	1	-	1	-	$287,500	76	-	Allhomes Record	-	-	-	-	-	-
+2007	21988	            37 Fred Williams Crescent	27/10/2007	-	04/10/2007	$790,000	1162m	Full transfer	4	1	2	2	-	$790,000	23	-	Allhomes Record	-	-	-	-	-	-
+2007	21694	            85 Cossington Smith Crescent	15/03/2007	-	27/02/2007	$655,000	730m	Full transfer	4	1	2	2	-	$655,000	16	-	Allhomes Record	-	-	-	-	-	-
+2007	21921	            4 Dorrit Black Crescent	14/09/2007	-	23/08/2007	$630,000	612m	Full transfer	4	1	1	2	-	$630,000	22	-	Allhomes Record	-	-	-	-	$241,000	0.38
+2007	21871	            18 Dorrit Black Crescent	01/08/2007	-	04/07/2007	$457,500	631m	Full transfer	3	1	-	1	-	$457,500	28	-	Allhomes Record	-	-	-	-	-	-
+2007	21571	            3 Goodchild Street	14/12/2007	-	03/09/2007	$382,000	-	Full transfer	3	1	-	-	-	$382,000	102	-	Allhomes Record	-	-	-	-	-	-
+2007	21592	            41/12 Goodchild Street	16/11/2007	-	25/10/2007	$380,000	-	Full transfer	2	1	-	-	1	$380,000	22	-	Allhomes Record	-	-	-	-	-	-
+2007	21941	            26/9 McClintock Street	12/11/2007	-	05/09/2007	$330,000	-	Full transfer	2	1	-	1	-	$330,000	68	-	Allhomes Record	-	-	-	-	-	-
+2008	22536	            11/17 Fernyhough Crescent	20/10/2008	-	16/09/2008	$445,000	6104m	Full transfer	3	1	1	1	-	$445,000	34	-	Allhomes Record	-	-	-	-	-	-
+2008	23043	            27/21 Cossington Smith Crescent	29/08/2008	-	21/08/2008	$395,000	23038m	Full transfer	3	1	-	1	-	$395,000	8	-	Allhomes Record	-	-	-	-	-	-
+2008	22902	            24/21 Cossington Smith Cresecent	26/09/2008	-	24/04/2008	$372,000	23038m	Full transfer	3	1	-	1	-	$372,000	155	-	Allhomes Record	-	-	-	-	-	-
+2008	22444	            41/21 Cossington-Smith Crescent	26/07/2008	-	01/07/2008	$363,000	23038m	Full transfer	2	1	-	1	-	$363,000	25	-	Allhomes Record	-	-	-	-	-	-
+2008	22640	            14/45 Goodchild Street	10/04/2008	-	14/03/2008	$355,000	6512m	Full transfer	2	1	-	1	-	$355,000	27	-	Allhomes Record	-	-	-	-	-	-
+2008	22277	            13/45 Goodchild Street	21/01/2008	-	07/12/2007	$340,000	6512m	Full transfer	2	1	-	1	-	$340,000	45	-	Allhomes Record	-	-	-	-	-	-
+2008	22729	            10/1 Edwell Place	09/07/2008	-	18/04/2008	$325,000	5167m	Full transfer	2	1	-	-	1	$325,000	82	-	Allhomes Record	-	-	-	-	-	-
+2008	21604	            4/1 Edwell Place	03/01/2008	-	16/11/2007	$313,000	5167m	Full transfer	2	1	-	-	1	$313,000	48	-	Allhomes Record	-	-	-	-	-	-
+2009	23833	            74/50 Ellenborough Street	05/10/2009	-	16/09/2009	$581,000	87858m	Full transfer	3	1	1	2	-	$581,000	19	-	Allhomes Record	-	-	-	-	-	-
+2009	247263	            73/50 Ellenborough Street	17/12/2009	-	01/12/2009	$575,000	87858m	Full transfer	3	1	1	2	-	$575,000	16	-	Allhomes Record	-	-	-	-	$11,245,000	19.56
+2009	23692	            4 Thake Place	16/05/2009	-	24/04/2009	$501,000	731m	Full transfer	3	1	1	2	0	$501,000	22	-	Allhomes Record	-	-	-	-	-	-
+2009	23276	            26/21 Cossington Smith Crescent	26/03/2009	-	06/02/2009	$405,000	23038m	Full transfer	3	1	-	1	-	$405,000	48	-	Allhomes Record	-	-	-	-	-	-
+2009	23823	            33/10 Goodchild Street	02/10/2009	-	14/07/2009	$350,000	2797m	Full transfer	2	1	-	1	-	$350,000	80	-	Allhomes Record	-	-	-	-	-	-
+2009	23256	            50/21 Cossington Smith Crescent	16/02/2009	-	23/07/2008	$350,000	23038m	Full transfer	2	1	-	1	-	$350,000	208	-	Allhomes Record	-	-	-	-	-	-
+2010	257037	            57/50 Ellenborough Street	12/05/2010	-	21/04/2010	$632,500	87858m	Full transfer	3	1	1	2	-	$632,500	21	-	Allhomes Record	-	-	-	-	$11,245,000	17.78
+2010	264155	            3/21 Cossington Smith Crescent	28/06/2010	-	07/06/2010	$450,000	23038m	Full transfer	3	1	-	1	-	$450,000	21	-	Allhomes Record	-	-	-	-	$6,566,000	14.59
+2010	265753	            16/45 Goodchild Street	31/08/2010	-	08/07/2010	$415,000	325m	Full transfer	2	1	-	1	-	$415,000	54	-	Allhomes Record	-	-	-	-	$2,220,000	5.35
+2010	255272	            35/10 Goodchild Street	08/04/2010	-	05/02/2010	$389,000	2785m	Full transfer	2	1	-	1	-	$389,000	62	-	Allhomes Record	-	-	-	-	$1,230,000	3.16
+2011	299041	            35 Duterrau Crescent	23/07/2011	-	23/06/2011	$1,105,000	1262m	Full transfer	5	1	2	2	-	$1,105,000	30	-	Allhomes Record	-	-	-	-	$415,000	0.38
+2011	285645	            1/17 Fernyhough Crescent	13/04/2011	-	03/03/2011	$575,000	6104m	Full transfer	3	1	1	1	-	$575,000	41	-	Allhomes Record	-	-	-	-	$3,356,000	5.84
+2011	275461	38/12 Goodchild Street	07/02/2011	-	20/01/2011	$415,000	2797m	Full transfer	2	1	-	1	-	$415,000	18	-	Allhomes Record	-	-	-	-	-	-
+2011	279761	            1/1 Edwell Place	04/03/2011	-	09/02/2011	$385,000	5167m	Full transfer	2	1	-	1	-	$385,000	23	-	Allhomes Record	-	-	-	-	$2,378,000	6.18
+2015	447544	            31/11 McClintock Street	24/03/2015	-	26/02/2015	$398,000	4379m	Full transfer	2	1	0	1	0	$398,000	26	-	Allhomes Record	-	-	-	-	$2,272,000	5.71
+2017	510839	6/7 McClintock Street	21/12/2017	-	31/10/2017	$446,000	4861m	Full transfer	2	1	-	1	-	$446,000	51	-	Allhomes Record	-	-	-	-	$2,595,000	5.82
+2019	569644	            3 Fernyhough Crescent	01/10/2019	-	20/04/2019	$1,360,000	1209m	Full transfer	4	-	4	3	-	$1,360,000	164	-	Allhomes Record	358	-	-	-	$747,000	0.55
