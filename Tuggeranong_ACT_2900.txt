@@ -1,0 +1,11 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	168363	1 Isabella Drive	07/04/2006	11/08/2006	-	$951,000	29967m	Full transfer	-	-	-	-	-	$951,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234403	174 Old Tuggeranong Road	20/04/2007	09/05/2008	-	-	2392391m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2007	21906	             Tuggeranong Hyperdome The Hyperdome	12/10/2007	-	07/08/2007	-	-	Full transfer	-	-	-	-	-	-	66	-	Allhomes Record	-	-	-	-	-	-
+2008	22852	             Kids Rampage	15/05/2008	-	09/10/2007	$185,000	-	Full transfer	-	-	-	-	-	$185,000	219	-	Allhomes Record	352	-	-	-	-	-
+2009	238416	7839 Monaro Highway	04/03/2009	17/04/2009	-	$2,800,000	4063241m	Full transfer	-	-	-	-	-	$2,800,000	-	-	Government Record	-	-	-	Agriculture	-	-
+2009	238714	7845 Monaro Highway	04/03/2009	20/04/2009	-	$1,000,000	10936m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23377		02/02/2009	-	24/09/2008	$305,000	-	Full transfer	-	-	-	-	-	$305,000	131	-	Allhomes Record	-	-	-	-	-	-
+2011	288971	            SHOP9B Anketell Street	01/05/2011	-	20/09/2010	$815,000	-	Full transfer	-	10	-	-	-	$815,000	223	-	Allhomes Record	-	-	-	-	-	-
+2014	422463	174 Old Tuggeranong Road	15/04/2014	-	04/10/2013	$2,200,000	2391691m	Full transfer	5	2	-	2	-	$2,200,000	193	-	Allhomes Record	-	-	-	-	$204,500	0.09
+2016	491156	             7 Day Cafe Tuggeranong - Administrator Appointed	15/12/2016	-	11/11/2016	$1	-	Full transfer	-	-	-	-	-	$1	34	-	Allhomes Record	-	-	-	-	-	-
