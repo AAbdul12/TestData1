@@ -1,0 +1,6 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	1338	            12/55 James Smith Circuit	28/06/2006	-	10/03/2006	$320,000	-	Full transfer	3	1	1	1	-	$320,000	110	-	Allhomes Record	-	-	-	-	-	-
+2006	1121	            9 Kallista Place	14/06/2006	-	25/02/2006	$215,000	1148m	Full transfer	-	-	-	-	-	$215,000	109	-	Allhomes Record	-	-	-	-	-	-
+2007	21693	            4 Whiteley Street	20/04/2007	-	27/02/2007	$500,000	653m	Full transfer	4	1	1	2	-	$500,000	52	-	Allhomes Record	-	-	-	-	-	-
+2007	21807	            8 Midwood Court	29/06/2007	-	10/05/2007	$380,000	401m	Full transfer	3	1	1	2	-	$380,000	50	-	Allhomes Record	-	-	-	-	-	-
+2007	21839	            40 James Smith Circuit	28/09/2007	-	07/09/2007	$352,000	398m	Full transfer	3	1	-	2	-	$352,000	21	-	Allhomes Record	-	-	-	-	-	-
