@@ -1,0 +1,875 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	35609	50 Gamor Street	08/12/2006	08/01/2007	07/11/2006	$580,000	971m	Full transfer	4	1	2	2	3	$580,000	31	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.36
+2006	202600	94 Badimara Street	28/06/2006	04/08/2006	-	$485,000	1067m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203768	36 Alawa Street	28/07/2006	30/08/2006	-	$472,000	1028m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165390	5 Warrai Place	09/12/2006	16/02/2007	16/11/2006	$456,000	877m	Full transfer	4	1	1	4	-	$456,000	23	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.45
+2006	164959	19 Damala Street	25/08/2006	09/10/2006	-	$450,000	775m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228360	24 Garanya Street	31/01/2006	13/03/2006	12/01/2006	$440,000	931m	Full transfer	5	2	-	2	-	$440,000	19	-	Combined Record	-	-	-	Single residential dwelling	$181,000	0.41
+2006	228311	37 Yiman Street	09/06/2006	06/07/2006	23/02/2006	$430,000	708m	Full transfer	4	1	-	1	1	$430,000	106	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.46
+2006	168782	55 Yiman Street	01/09/2006	05/10/2006	21/07/2006	$430,000	834m	Full transfer	5	1	-	4	2	$430,000	42	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.47
+2006	228397	21 Burara Crescent	09/05/2006	06/07/2006	-	$425,000	750m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37548	16 Adinda Street	25/08/2006	22/09/2006	05/07/2006	$422,000	738m	Full transfer	5	1	1	-	3	$422,000	51	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.44
+2006	228257	5 Algan Street	09/06/2006	06/07/2006	-	$420,100	809m	Full transfer	-	-	-	-	-	$420,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	91632	4 Manu Place	13/11/2006	-	26/10/2006	$420,000	1001m	Full transfer	3	1	-	2	2	$420,000	18	-	Allhomes Record	-	-	-	-	$219,000	0.52
+2006	169294	3 Alura Place	11/12/2006	19/02/2007	24/11/2006	$420,000	808m	Full transfer	3	1	-	2	-	$420,000	17	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.5
+2006	37547	36 Nemarang Crescent	04/08/2006	21/09/2006	-	$417,000	730m	Full transfer	-	-	-	-	-	$417,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35006	4 Tiwi Place	24/05/2006	21/08/2006	-	$416,000	666m	Full transfer	-	-	-	-	-	$416,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228367	136 Badimara Street	15/02/2006	27/04/2006	21/01/2006	$416,000	940m	Full transfer	3	1	-	-	1	$416,000	25	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.44
+2006	34632	10 Nemarang Crescent	07/08/2006	27/09/2006	-	$415,000	829m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228342	14 Nemarang Crescent	10/02/2006	05/04/2006	-	$415,000	785m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228335	52 Nemarang Crescent	23/02/2006	26/04/2006	15/12/2005	$415,000	743m	Full transfer	4	1	1	-	2	$415,000	70	-	Combined Record	-	-	-	Single residential dwelling	$168,000	0.4
+2006	35674	18 Malara Street	24/11/2006	11/01/2007	28/09/2006	$410,000	939m	Full transfer	4	1	-	4	-	$410,000	57	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.51
+2006	228324	3 Bidia Place	05/05/2006	23/06/2006	17/03/2006	$408,000	967m	Full transfer	4	1	1	-	2	$408,000	49	-	Combined Record	-	-	-	Single residential dwelling	$177,000	0.43
+2006	169640	16 Yiman Street	09/08/2006	14/11/2006	27/04/2006	$400,000	765m	Full transfer	4	1	1	2	-	$400,000	104	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.52
+2006	165838	1 Burara Crescent	11/10/2006	24/11/2006	-	$400,000	847m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168470	42 Woralul Street	28/11/2006	22/01/2007	17/10/2006	$399,000	694m	Full transfer	3	1	-	1	1	$399,000	42	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.46
+2006	165354	21 Wambaya Crescent	20/12/2006	14/02/2007	08/12/2006	$395,660	747m	Full transfer	4	1	-	2	-	$395,660	12	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.51
+2006	34222	30 Nangor Street	20/10/2006	29/11/2006	-	$395,000	804m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228254	6 Malara Street	17/01/2006	07/03/2006	02/11/2005	$395,000	900m	Full transfer	4	1	-	-	3	$395,000	76	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.5
+2006	84184	35 Adinda Street	03/08/2006	-	07/07/2006	$395,000	673m	Full transfer	3	1	1	-	-	$395,000	27	-	Allhomes Record	-	-	-	-	$183,000	0.46
+2006	228398	15 Burara Crescent	27/03/2006	11/05/2006	22/02/2006	$390,000	835m	Full transfer	3	1	1	-	1	$390,000	33	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.53
+2006	228325	32 Dalabon Crescent	10/05/2006	14/07/2006	-	$387,000	812m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169641	23 Nemarang Crescent	30/08/2006	13/11/2006	-	$385,000	860m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169666	21 Woralul Street	06/11/2006	13/12/2006	-	$385,000	645m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203519	35 Adinda Street	02/08/2006	12/09/2006	-	$385,000	673m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	87846	16 Burara Crescent	02/11/2006	-	07/09/2006	$382,000	565m	Full transfer	3	1	1	2	-	$382,000	56	-	Allhomes Record	-	-	-	-	$732,000	1.92
+2006	13285	            8/95 Nemarang Crescent	02/11/2006	03/01/2007	-	$382,000	4595m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203769	31 Nangor Street	14/07/2006	28/08/2006	06/06/2006	$379,000	808m	Full transfer	3	1	1	1	-	$379,000	38	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.55
+2006	168373	2 Nangor Street	09/06/2006	10/08/2006	15/12/2005	$378,000	955m	Full transfer	3	1	-	-	1	$378,000	176	-	Combined Record	-	-	-	Single residential dwelling	$188,000	0.5
+2006	32401	34 Nangor Street	09/08/2006	08/11/2006	-	$377,500	707m	Full transfer	-	-	-	-	-	$377,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228296	51 Woralul Street	10/02/2006	27/04/2006	-	$362,500	676m	Full transfer	-	-	-	-	-	$362,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34010	31 Woralul Street	08/11/2006	20/12/2006	21/09/2006	$332,000	692m	Full transfer	3	1	-	-	2	$332,000	48	-	Combined Record	-	-	-	Single residential dwelling	$177,000	0.53
+2006	17386	            4/2 Burara Crescent	02/06/2006	06/07/2006	-	$330,000	4829m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	229510	43 Nangor Street	08/09/2006	25/10/2006	-	$327,300	711m	Full transfer	-	-	-	-	-	$327,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168510	6 Waramanga Place	21/11/2006	06/03/2007	16/10/2006	$325,000	225m	Full transfer	3	1	-	-	1	$325,000	36	-	Combined Record	-	-	-	Single residential dwelling	$135,000	0.42
+2006	228316	36 Badimara Street	24/02/2006	05/04/2006	-	$310,000	781m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	408613	20/16 Damala Street	08/12/2006	06/02/2007	09/11/2006	$283,000	7345m	Full transfer	2	1	-	1	-	$283,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	72478	22/16 Damala Street	11/02/2006	-	14/12/2005	$275,000	7345m	Full transfer	2	1	-	-	1	$275,000	59	-	Allhomes Record	-	-	-	-	$1,462,000	5.32
+2006	228379	22/16 Damala Street	08/02/2006	15/03/2006	-	$275,000	7345m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	228383	7/24 Damala Street	16/02/2006	17/03/2006	-	$275,000	10266m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37549	16/24 Damala Street	05/09/2006	20/09/2006	-	$265,000	10266m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	228321	10 Dalabon Crescent	21/04/2006	03/05/2006	-	$175,000	818m	Partial transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33799	15 Waramanga Place	14/09/2006	22/05/2007	-	$0	151m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2006	166323	60 Badimara Street	25/06/2006	01/08/2007	-	$0	905m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	9848	            1/2 Burara Crescent	07/02/2006	22/08/2007	-	$0	4829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168374	124 Badimara Street	08/08/2006	08/08/2006	-	-	968m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	465	            7/24 Dalamla Street	13/03/2006	-	16/01/2006	-	-	Full transfer	2	-	-	-	1	-	56	-	Allhomes Record	-	-	-	-	-	-
+2006	202601	20/16 Damala Street	23/04/2006	06/08/2006	-	-	7345m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	228323	6 Goa Place	13/03/2006	06/04/2006	-	-	866m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203770	43 Nangor Street	15/05/2006	01/09/2006	-	-	711m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228356	8 Yambina Crescent	06/02/2006	24/02/2006	-	-	901m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228358	12 Yambina Crescent	27/02/2006	25/05/2006	-	-	836m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232112	116 Badimara Street	22/02/2006	04/01/2008	-	-	974m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	901	            32 Dalabon Street	10/05/2006	-	09/02/2006	-	-	Full transfer	4	1	-	1	-	-	90	-	Allhomes Record	-	-	-	-	-	-
+2006	235228	11A Gamor Street	30/03/2006	12/03/2008	-	-	785m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228334	7 Nanda Place	26/06/2006	17/07/2006	-	-	764m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	104197	101 Nemarang Crescent	02/07/2007	-	02/06/2007	$517,500	1142m	Full transfer	4	1	1	1	-	$517,500	30	-	Allhomes Record	-	-	-	-	$289,000	0.56
+2007	202743	4 Yambina Crescent	18/08/2007	08/10/2007	-	$516,000	876m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166584	48 Nangor Street	05/06/2007	27/07/2007	03/05/2007	$515,000	795m	Full transfer	4	1	1	2	-	$515,000	33	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.39
+2007	230195	24 Dalabon Crescent	13/11/2007	02/02/2008	-	$510,000	790m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203252	27 Woralul Street	16/03/2007	31/05/2007	20/02/2007	$500,250	679m	Full transfer	4	1	1	1	-	$500,250	24	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.4
+2007	121811	3 Gabi Place	29/08/2007	26/09/2007	-	$485,000	717m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166456	61 Yiman Street	19/06/2007	02/08/2007	16/05/2007	$485,000	826m	Full transfer	3	1	-	1	1	$485,000	34	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.45
+2007	232346	3 Garanya Street	17/10/2007	10/12/2007	-	$480,000	838m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166261	19 Burara Crescent	16/07/2007	23/08/2007	-	$467,000	897m	Full transfer	-	-	-	-	-	$467,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202753	2 Iora Place	18/07/2007	09/10/2007	25/06/2007	$465,000	851m	Full transfer	4	1	-	1	-	$465,000	23	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.47
+2007	230898	3 Nangor Street	07/11/2007	05/12/2007	09/08/2007	$465,000	956m	Full transfer	4	1	1	1	-	$465,000	90	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.5
+2007	35965	113 Nemarang Crescent	30/04/2007	06/07/2007	-	$450,000	963m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	169362	38 Garanya Street	25/01/2007	22/02/2007	07/12/2006	$449,900	721m	Full transfer	3	1	-	-	2	$449,900	49	-	Combined Record	-	-	-	Single residential dwelling	$206,000	0.46
+2007	33710	29 Woralul Street	03/04/2007	24/05/2007	-	$448,000	654m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408615	6 Wambaya Crescent	28/09/2007	26/02/2007	15/06/2007	$441,000	751m	Full transfer	3	2	-	-	2	$441,000	105	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.5
+2007	318140	5 Yanda Street	04/07/2007	06/08/2007	-	$431,600	692m	Full transfer	-	-	-	-	-	$431,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18179	            8/2 Burara Crescent	21/12/2007	30/03/2008	-	$430,000	4829m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	10143	            1/2 Burara Crescent	28/07/2007	18/09/2007	-	$427,000	4829m	Full transfer	-	-	-	-	-	$427,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	105334	14 Burara Crescent	28/07/2007	-	30/06/2007	$427,000	-	Full transfer	3	1	1	-	2	$427,000	28	-	Allhomes Record	-	-	-	-	$805,000	1.89
+2007	164693	151 Nemarang Crescent	31/05/2007	11/07/2007	-	$425,000	747m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120104	40 Yanda Street	14/03/2007	20/04/2007	19/01/2007	$420,000	684m	Full transfer	3	1	-	2	-	$420,000	54	-	Combined Record	-	-	-	Single residential dwelling...	$199,000	0.47
+2007	169316	3 Galibal Street	16/01/2007	21/02/2007	-	$408,000	742m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	315031	68 Nemarang Crescent	12/10/2007	15/11/2007	-	$407,500	874m	Full transfer	-	-	-	-	-	$407,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121172	57 Nangor Street	06/07/2007	12/09/2007	14/06/2007	$407,000	778m	Full transfer	3	1	-	1	2	$407,000	22	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.53
+2007	164502	12 Larakia Street	04/04/2007	13/07/2007	16/03/2007	$406,000	835m	Full transfer	3	2	-	-	2	$406,000	19	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.49
+2007	231136	7 Yanda Street	25/08/2007	15/11/2007	30/07/2007	$400,000	760m	Full transfer	3	1	-	-	-	$400,000	26	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.54
+2007	166038	6 Adinda Street	22/06/2007	31/07/2007	-	$395,000	1114m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	9365	            7/95 Nemarang Crescent	11/05/2007	11/07/2007	-	$395,000	4595m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	101893	18 Burara Crescent	11/05/2007	-	26/04/2007	$395,000	-	Full transfer	3	1	-	2	-	$395,000	15	-	Allhomes Record	-	-	-	-	$805,000	2.04
+2007	408614	8 Yambina Crescent	03/09/2007	23/10/2007	-	$394,000	901m	Full transfer	-	-	-	-	-	$394,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18220	            4/95 Nemarang Crescent	14/12/2007	08/02/2008	-	$390,000	4595m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230769	116 Badimara Street	25/09/2007	04/01/2008	03/09/2007	$390,000	974m	Full transfer	3	1	-	-	-	$390,000	22	-	Combined Record	-	-	-	Single residential dwelling	$193,000	0.49
+2007	32605	21 Gamor Street	01/03/2007	29/03/2007	-	$385,000	785m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165000	132 Badimara Street	08/05/2007	26/06/2007	11/04/2007	$380,000	961m	Full transfer	3	1	-	1	-	$380,000	27	-	Combined Record	-	-	-	Single residential dwelling	$193,000	0.51
+2007	408611	4/16 Damala Street	02/11/2007	11/12/2007	20/09/2007	$355,000	7345m	Full transfer	3	1	-	-	1	$355,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	35334	1/8 Woralul Street	18/04/2007	08/06/2007	31/01/2007	$338,000	910m	Full transfer	3	1	-	-	1	$338,000	77	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	202659	17/24 Damala Street	29/08/2007	10/10/2007	-	$331,000	10266m	Full transfer	-	-	-	-	-	$331,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233132	25/24 Damala Street	22/10/2007	21/01/2008	-	$323,000	10266m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408612	22/16 Damala Street	19/10/2007	27/11/2007	05/10/2007	$320,000	7345m	Full transfer	2	1	-	-	1	$320,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	$1,462,000	4.57
+2007	408610	6/16 Damala Street	07/11/2007	11/12/2007	19/09/2007	$315,000	7345m	Full transfer	2	1	-	-	1	$315,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	120705	43 Woralul Street	07/02/2007	17/05/2007	-	$310,000	654m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408609	15/24 Damala Street	17/01/2007	20/02/2007	07/12/2006	$300,000	10266m	Full transfer	2	1	-	-	1	$300,000	41	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	232283	25 Nangor Street	28/11/2007	24/01/2008	-	$280,000	801m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167272	24/24 Damala Street	15/03/2007	08/05/2007	-	$265,000	10266m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	164711	18/16 Damala Street	02/05/2007	13/07/2007	-	$265,000	7345m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166397	2/100 Nemarang Crescent	10/07/2007	22/08/2007	-	$255,000	874m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408608	17 Malara Street	12/12/2007	30/01/2007	-	$210,000	690m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230086	2/1 Waramanga Place	09/11/2007	30/01/2008	-	$100,000	322m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2007	232642	19 Garanya Street	28/08/2007	21/11/2007	-	$13,200	632m	Full transfer	-	-	-	-	-	$13,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168908	4 Gamor Street	09/02/2007	21/03/2007	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166669	2 Iora Place	30/05/2007	22/08/2007	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232859	17 Malara Street	26/04/2007	15/11/2007	-	$0	690m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232951	2 Birbai Place	15/11/2007	19/12/2007	-	$0	765m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167489	136 Nemarang Crescent	24/07/2007	04/09/2007	-	$0	722m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35047	33 Gamor Street	17/04/2007	07/06/2007	-	$0	666m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232880	32 Adinda Street	27/07/2007	29/11/2007	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	104198	101A Nemarang Crescent	06/07/2007	-	02/06/2007	-	-	Full transfer	3	1	1	1	-	-	34	-	Allhomes Record	-	-	-	-	$289,000	-
+2007	244475	7 Alura Place	31/05/2007	08/07/2009	-	-	750m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233509	24 Malara Street	24/12/2007	04/06/2008	-	-	966m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18178	            8/2 Burara Crescent	10/10/2007	30/03/2008	-	-	4829m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233657	25/24 Damala Street	22/08/2007	21/01/2008	-	-	10266m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235227	6 Goa Place	15/12/2007	12/03/2008	-	-	866m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	239549	30 Galibal Street	02/03/2007	23/10/2008	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	36746	200 Badimara Street	27/05/2008	05/08/2008	-	$1,135,725	1873m	Full transfer	-	-	-	-	-	$1,135,725	-	-	Government Record	-	-	-	Veterinary hospital	-	-
+2008	240720	44 Garanya Street	05/11/2008	05/12/2008	13/09/2008	$625,000	892m	Full transfer	4	1	1	2	-	$625,000	53	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.41
+2008	234098	25 Damala Street	22/01/2008	23/06/2008	-	$600,000	1068m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242484	1 Garanya Street	05/09/2008	12/02/2009	-	$590,000	1007m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240034	6 Bolali Place	04/08/2008	14/10/2008	10/06/2008	$585,000	1106m	Full transfer	5	2	1	-	1	$585,000	55	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.48
+2008	320838	32 Garanya Street	02/02/2008	27/03/2008	-	$545,000	878m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241962	22 Nangor Street	18/12/2008	21/01/2009	30/10/2008	$527,000	716m	Full transfer	5	2	1	2	2	$527,000	49	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.44
+2008	241961	12 Malara Street	15/11/2008	20/01/2009	23/10/2008	$527,000	958m	Full transfer	4	1	2	-	2	$527,000	23	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.53
+2008	234584	32 Adinda Street	07/02/2008	06/05/2008	-	$525,000	688m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230607	53 Nangor Street	05/03/2008	22/04/2008	07/01/2008	$510,000	735m	Full transfer	4	1	-	1	2	$510,000	58	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.49
+2008	235862	35 Damala Street	13/03/2008	13/05/2008	25/01/2008	$495,000	822m	Full transfer	4	1	-	-	1	$495,000	48	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.51
+2008	240972	8 Badimara Street	15/10/2008	16/12/2008	05/06/2008	$492,000	762m	Full transfer	3	2	-	-	3	$492,000	132	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.45
+2008	236272	6 Goa Place	23/01/2008	20/05/2008	03/12/2007	$490,000	866m	Full transfer	3	1	-	1	-	$490,000	51	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2008	236557	32 Yanda Street	06/03/2008	16/04/2008	30/01/2008	$483,000	684m	Full transfer	4	1	1	2	-	$483,000	36	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.5
+2008	233381	7 Tiwi Place	02/05/2008	19/06/2008	17/03/2008	$478,500	767m	Full transfer	3	1	-	-	2	$478,500	46	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.55
+2008	238539	36 Galibal Street	31/07/2008	26/09/2008	09/07/2008	$473,500	845m	Full transfer	4	1	-	-	2	$473,500	22	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.56
+2008	321926	46 Gamor Street	13/03/2008	08/10/2008	-	$468,000	673m	Full transfer	-	-	-	-	-	$468,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238540	17 Woralul Street	08/08/2008	23/09/2008	30/07/2008	$465,000	722m	Full transfer	4	1	0	-	1	$465,000	9	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.53
+2008	237374	15 Burara Crescent	04/07/2008	22/08/2008	11/04/2008	$465,000	835m	Full transfer	3	1	1	-	-	$465,000	84	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.56
+2008	18051	            5/95 Nemarang Crescent	19/04/2008	23/06/2008	-	$460,200	4595m	Full transfer	-	-	-	-	-	$460,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	113885	5/22 Burara Crescent	19/04/2008	-	14/03/2008	$460,200	4595m	Full transfer	3	1	1	2	-	$460,200	36	-	Allhomes Record	-	-	-	-	$805,000	1.75
+2008	237009	39 Woralul Street	07/10/2008	08/01/2009	15/07/2008	$460,000	614m	Full transfer	4	1	-	-	2	$460,000	84	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.52
+2008	320667	35 Nangor Street	12/03/2008	18/06/2008	-	$460,000	800m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242028	19 Wambaya Crescent	25/09/2008	29/01/2009	10/06/2008	$455,000	694m	Full transfer	3	1	0	2	0	$455,000	107	-	Combined Record	-	-	-	Single residential dwelling...	$251,000	0.55
+2008	237985	38 Nemarang Crescent	11/08/2008	18/09/2008	10/04/2008	$447,000	847m	Full transfer	4	1	1	2	2	$447,000	123	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.5
+2008	230542	28 Galibal Street	16/07/2008	11/08/2008	-	$440,000	743m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229637	13 Yiman Street	05/06/2008	01/08/2008	27/05/2008	$440,000	804m	Full transfer	3	1	-	-	2	$440,000	9	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.6
+2008	24739	25 Yanda Street	02/06/2008	-	09/05/2008	$430,000	861m	Full transfer	3	1	-	1	-	$430,000	24	-	Allhomes Record	-	-	-	-	$265,000	0.62
+2008	240033	116 Nemarang Crescent	01/08/2008	14/10/2008	15/07/2008	$430,000	830m	Full transfer	3	1	-	2	2	$430,000	17	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.59
+2008	229636	15 Woralul Street	24/06/2008	28/07/2008	30/05/2008	$425,000	736m	Full transfer	3	2	-	-	2	$425,000	25	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.58
+2008	235659	16 Badimara Street	15/02/2008	27/03/2008	11/12/2007	$425,000	729m	Full transfer	3	1	-	-	2	$425,000	66	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.53
+2008	237488	122 Badimara Street	01/10/2008	10/12/2008	27/08/2008	$420,000	983m	Full transfer	3	1	-	1	-	$420,000	35	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.55
+2008	230543	22 Badimara Street	09/07/2008	15/08/2008	04/06/2008	$415,000	932m	Full transfer	3	1	-	1	-	$415,000	35	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.58
+2008	237654	37 Larakia Street	25/10/2008	20/02/2009	24/09/2008	$411,000	885m	Full transfer	3	2	-	-	2	$411,000	31	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.55
+2008	315254	60 Nangor Street	14/01/2008	28/02/2008	-	$410,000	832m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237487	116 Badimara Street	18/11/2008	12/12/2008	-	$400,000	974m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237486	62 Woralul Street	30/09/2008	08/12/2008	30/07/2008	$400,000	664m	Full transfer	3	1	-	-	1	$400,000	62	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.58
+2008	239216	7 Birbai Place	24/09/2008	05/11/2008	06/06/2008	$395,000	650m	Full transfer	3	1	-	-	2	$395,000	110	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.61
+2008	239449	14 Adinda Street	26/09/2008	17/11/2008	-	$385,000	800m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240973	24 Larakia Street	31/10/2008	18/12/2008	-	$378,000	764m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	64957	52 Nangor Street	15/07/2008	06/08/2008	08/04/2008	$375,000	840m	Full transfer	3	1	1	-	1	$375,000	98	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.69
+2008	233423	1/22 Larakia Street	05/03/2008	19/06/2008	-	$360,000	775m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233869	2/16 Damala Street	07/03/2008	30/04/2008	-	$344,500	7345m	Full transfer	-	-	-	-	-	$344,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229972	15/16 Damala Street	27/05/2008	31/07/2008	-	$336,000	7345m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233719	15/24 Damala Street	03/06/2008	30/06/2008	-	$332,000	10266m	Full transfer	-	-	-	-	-	$332,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237244	13/24 Damala Street	17/07/2008	18/08/2008	-	$330,000	10266m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231370	11/24 Damala Street	07/02/2008	17/04/2008	-	$327,000	10266m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22295	            11/24 Damala	18/02/2008	-	07/01/2008	$327,000	10266m	Full transfer	2	1	-	-	1	$327,000	42	-	Allhomes Record	-	-	-	-	$64,719	0.2
+2008	112073	24/16 Damala Street	05/03/2008	-	12/02/2008	$320,000	301m	Full transfer	2	1	-	-	1	$320,000	22	-	Allhomes Record	-	-	-	-	$61,143	0.19
+2008	17254	            2/22 Larakia Street	15/05/2008	24/06/2008	-	$290,000	775m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240389	38 Larakia Street	01/10/2008	25/11/2008	-	$180,000	755m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239581	14/16 Damala Street	01/07/2008	29/09/2008	-	$105,000	7345m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	347334	5/24 Damala Street	02/06/2008	03/11/2011	-	$0	10266m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	394822	            1/2 Burara Crescent	07/10/2008	11/04/2013	-	$0	4829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	249669	29 Gamor Street	01/08/2008	26/10/2009	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239824	38 Larakia Street	14/04/2008	30/09/2008	-	-	755m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241246	18 Gamor Street	21/12/2008	18/01/2009	-	-	780m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248345	26 Waramanga Place	14/12/2008	16/12/2009	-	-	178m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248342	4/1 Waramanga Place	14/12/2008	16/12/2009	-	-	322m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	243102	40 Yiman Street	13/07/2008	13/03/2009	-	-	764m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233382	2 Mara Place	23/02/2008	20/06/2008	-	-	974m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239550	41 Nemarang Crescent	13/08/2008	23/10/2008	-	-	779m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233718	15/24 Damala Street	28/03/2008	30/06/2008	-	-	10266m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	285995	2/24 Damala Street	14/01/2008	09/03/2011	-	-	10266m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	243392	4 Yanda Street	05/12/2008	17/03/2009	-	-	914m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	73576	114 Badimara Street	17/08/2008	25/08/2009	-	-	985m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246574	46 Badimara Street	04/08/2009	08/09/2009	15/01/2009	$750,000	872m	Full transfer	4	2	1	2	-	$750,000	201	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.3
+2009	120860	37 Damala Street	16/02/2009	-	14/11/2008	$575,000	847m	Full transfer	3	1	1	2	-	$575,000	94	-	Allhomes Record	-	-	-	-	$260,000	0.45
+2009	18727	            1/1 Burara Crescent	16/02/2009	29/04/2009	-	$575,000	847m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	123577	15A Burara Crescent	30/06/2009	-	18/02/2009	$520,000	835m	Full transfer	3	1	1	1	-	$520,000	132	-	Allhomes Record	-	-	-	-	$260,000	0.5
+2009	19577	            2/15 Burara Crescent	29/06/2009	06/08/2009	-	$520,000	835m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	255418	114 Nemarang Crescent	23/12/2009	29/03/2010	-	$520,000	813m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254130	25 Gamor Street	15/09/2009	08/02/2010	20/08/2009	$515,000	797m	Full transfer	3	1	0	1	0	$515,000	26	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.51
+2009	250176	1/15 Burara Crescent	30/06/2009	19/10/2009	26/02/2009	$512,000	835m	Full transfer	3	1	1	1	-	$512,000	124	-	Combined Record	-	-	-	Multiple unit dwelling	$260,000	0.51
+2009	242860	32 Dalabon Crescent	21/01/2009	06/03/2009	11/11/2008	$510,000	812m	Full transfer	4	1	-	2	-	$510,000	71	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.51
+2009	323179	1 Warrai Place	24/01/2009	19/03/2009	-	$480,000	844m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325505	3 Nanda Place	08/10/2009	18/02/2010	-	$475,000	747m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324961	21 Alawa Street	13/10/2009	24/11/2009	-	$475,000	725m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243666	120 Badimara Street	13/02/2009	02/04/2009	-	$470,000	985m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243101	28 Woralul Street	30/01/2009	13/03/2009	08/01/2009	$467,500	866m	Full transfer	3	1	-	-	2	$467,500	22	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.53
+2009	238422	56 Yiman Street	15/01/2009	14/04/2009	14/11/2008	$455,000	807m	Full transfer	4	1	1	-	2	$455,000	62	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.57
+2009	244824	20 Badimara Street	27/05/2009	29/06/2009	17/04/2009	$451,000	883m	Full transfer	3	1	-	1	-	$451,000	40	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.53
+2009	327436	5 Alura Place	06/10/2009	19/01/2010	-	$450,000	810m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250161	114 Badimara Street	10/10/2009	24/11/2009	17/09/2009	$446,000	985m	Full transfer	4	1	-	1	-	$446,000	23	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.52
+2009	238421	40 Yiman Street	04/03/2009	14/04/2009	-	$442,000	764m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244122	7 Nanda Place	10/11/2009	02/06/2009	25/06/2008	$438,000	764m	Full transfer	3	1	-	3	-	$438,000	503	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.55
+2009	249514	138 Badimara Street	18/08/2009	22/10/2009	-	$435,000	939m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242861	66 Woralul Street	03/02/2009	06/03/2009	12/12/2008	$435,000	693m	Full transfer	4	1	-	2	-	$435,000	53	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.55
+2009	254322	112 Nemarang Crescent	19/12/2009	16/02/2010	29/09/2009	$426,000	755m	Full transfer	3	1	1	1	-	$426,000	81	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.56
+2009	248297	151 Nemarang Crescent	10/06/2009	25/09/2009	-	$425,000	747m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323496	26 Wambaya Crescent	04/04/2009	11/06/2009	-	$422,000	1074m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	237655	22 Waramanga Place	15/01/2009	18/02/2009	09/10/2008	$420,000	178m	Full transfer	3	1	-	-	2	$420,000	98	-	Combined Record	-	-	-	Single residential dwelling	$158,000	0.38
+2009	244005	28 Garanya Street	13/03/2009	25/05/2009	-	$420,000	695m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249855	34 Malara Street	29/09/2009	12/11/2009	-	$415,000	782m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241633	18 Nagara Street	17/04/2009	22/05/2009	24/03/2009	$397,500	732m	Full transfer	2	1	-	1	-	$397,500	24	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.58
+2009	237769	18 Woralul Street	15/01/2009	18/02/2009	13/11/2008	$383,000	845m	Full transfer	3	1	1	-	2	$383,000	63	-	Combined Record	-	-	-	Single residential dwelling	$86,000	0.22
+2009	243505	9 Birbai Place	02/02/2009	24/03/2009	-	$362,000	721m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259819	9/24 Damala Street	28/11/2009	02/02/2010	-	$357,000	10266m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259818	4/24 Damala Street	08/12/2009	04/02/2010	-	$350,000	10266m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248143	38 Nangor Street	18/06/2009	16/09/2009	-	$348,000	685m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244817	16/24 Damala Street	22/05/2009	02/07/2009	-	$337,000	10266m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254323	26 Nagara Street	12/10/2009	21/02/2010	-	$237,500	921m	Full transfer	-	-	-	-	-	$237,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238625	13/16 Damala Street	19/01/2009	01/05/2009	-	$160,000	7345m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254129	18 Woralul Street	05/12/2009	10/02/2010	-	-	845m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246295	24/16 Damala Street	29/07/2009	03/09/2009	-	-	7345m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	273069	26 Garanya Street	30/11/2009	19/10/2010	-	-	910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250159	6 Malara Street	17/04/2009	24/11/2009	-	-	900m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	74861	20 Larakia Street	30/06/2009	24/08/2009	-	-	752m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244913	44 Woralul Street	02/05/2009	20/07/2009	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248142	10 Yiman Street	25/06/2009	16/09/2009	-	-	743m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258158	93 Nemarang Crescent	25/02/2010	06/05/2010	-	$700,000	2435m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2010	287388	25 Damala Street	10/11/2010	06/04/2011	-	$696,540	1068m	Full transfer	-	-	-	-	-	$696,540	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271141	65 Yiman Street	10/07/2010	13/09/2010	17/06/2010	$672,000	887m	Full transfer	4	1	1	1	2	$672,000	23	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.47
+2010	287389	1 Garanya Street	10/11/2010	06/04/2011	-	$656,640	1007m	Full transfer	-	-	-	-	-	$656,640	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273578	136 Nemarang Crescent	20/08/2010	15/10/2010	29/07/2010	$645,000	722m	Full transfer	4	1	1	2	1	$645,000	22	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.46
+2010	253263	2 Dalabon Crescent	23/03/2010	-	18/02/2010	$635,000	976m	Full transfer	5	2	1	-	2	$635,000	33	-	Allhomes Record	-	-	-	-	$278,000	0.44
+2010	280350	8 Tiwi Place	18/09/2010	08/12/2010	24/08/2010	$620,000	741m	Full transfer	4	1	-	1	-	$620,000	25	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.49
+2010	258338	13 Alawa Street	12/02/2010	05/05/2010	14/01/2010	$613,500	834m	Full transfer	4	1	1	-	2	$613,500	29	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.52
+2010	283895	18 Adinda Street	11/12/2010	21/02/2011	17/11/2010	$610,000	697m	Full transfer	4	1	1	-	1	$610,000	24	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.46
+2010	271882	10 Tiwi Place	01/12/2010	-	30/11/2010	$605,000	-	Full transfer	-	-	-	-	-	$605,000	1	-	Allhomes Record	-	-	-	-	$348,000	0.58
+2010	279137	10 Tiwi Place	06/12/2010	02/02/2011	-	$597,000	988m	Full transfer	-	-	-	-	-	$597,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329318	12 Garanya Street	09/10/2010	19/11/2010	-	$595,000	1027m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273469	12 Adinda Street	04/09/2010	25/10/2010	07/07/2010	$572,000	916m	Full transfer	3	1	1	1	-	$572,000	59	-	Combined Record	145	-	-	Single residential dwelling	$319,000	0.56
+2010	280682	21 Galibal Street	29/10/2010	22/12/2010	-	$561,000	828m	Full transfer	-	-	-	-	-	$561,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	284084	18 Nangor Street	09/10/2010	04/03/2011	16/09/2010	$560,000	694m	Full transfer	3	1	-	1	1	$560,000	23	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.4
+2010	273577	17 Woralul Street	21/08/2010	12/10/2010	29/07/2010	$555,000	722m	Full transfer	4	1	-	-	1	$555,000	23	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.54
+2010	271043	13 Yiman Street	31/07/2010	03/09/2010	29/06/2010	$555,000	804m	Full transfer	3	1	-	-	2	$555,000	32	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.57
+2010	287390	3 Garanya Street	10/11/2010	06/04/2011	-	$546,820	838m	Full transfer	-	-	-	-	-	$546,820	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329589	6 Badimara Street	30/10/2010	19/01/2011	06/10/2010	$545,000	764m	Full transfer	3	1	-	-	1	$545,000	24	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.58
+2010	258339	27 Garanya Street	13/03/2010	06/05/2010	15/02/2010	$540,000	973m	Full transfer	3	1	-	-	-	$540,000	26	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.62
+2010	267680	50 Nangor Street	13/05/2010	25/06/2010	-	$530,000	775m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254325	67 Nangor Street	18/01/2010	16/02/2010	11/12/2009	$525,000	813m	Full transfer	3	1	-	-	2	$525,000	38	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.58
+2010	327612	6 Adinda Street	16/04/2010	31/05/2010	-	$500,000	1114m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269251	7 Birbai Place	08/05/2010	25/06/2010	15/04/2010	$500,000	650m	Full transfer	3	1	-	-	1	$500,000	23	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.58
+2010	258695	1 Mara Place	29/01/2010	11/05/2010	12/12/2009	$500,000	995m	Full transfer	4	1	-	1	1	$500,000	48	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.7
+2010	258598	34 Adinda Street	05/03/2010	07/04/2010	28/01/2010	$495,000	709m	Full transfer	3	1	-	-	1	$495,000	36	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.55
+2010	273470	68 Woralul Street	11/09/2010	25/10/2010	18/08/2010	$485,000	699m	Full transfer	3	1	-	2	-	$485,000	24	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.59
+2010	269252	28 Waramanga Place	17/04/2010	27/06/2010	23/03/2010	$485,000	178m	Full transfer	3	1	-	1	1	$485,000	25	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.39
+2010	273442	70 Woralul Street	24/09/2010	03/11/2010	12/08/2010	$471,000	748m	Full transfer	3	1	-	2	1	$471,000	43	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.63
+2010	263415	22 Waramanga Place	19/06/2010	-	26/05/2010	$465,000	178m	Full transfer	3	1	-	-	2	$465,000	24	-	Allhomes Record	-	-	-	-	$190,000	0.41
+2010	326426	40 Waramanga Place	10/03/2010	21/04/2010	-	$448,000	181m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273579	2 Malara Street	26/08/2010	11/10/2010	03/08/2010	$438,000	744m	Full transfer	3	1	-	1	1	$438,000	23	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.62
+2010	330348	124 Nemarang Crescent	11/12/2010	28/02/2011	16/11/2010	$430,000	755m	Full transfer	3	1	1	-	2	$430,000	25	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.87
+2010	283603	2/16 Damala Street	17/12/2010	15/02/2011	-	$395,000	7345m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272997	15/24 Damala Street	24/08/2010	22/10/2010	-	$395,000	10266m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	285994	2/24 Damala Street	20/12/2010	09/03/2011	-	$385,000	10266m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	274177	8/16 Damala Street	08/10/2010	08/11/2010	-	$372,000	7345m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273913	16/16 Damala Street	17/09/2010	25/11/2010	-	$360,000	7345m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	268345	33/24 Damala Street	31/03/2010	08/07/2010	-	$164,150	10266m	Full transfer	-	-	-	-	-	$164,150	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263740	16 Yiman Street	31/05/2010	09/06/2010	-	-	765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273807	120 Nemarang Crescent	04/07/2010	09/11/2010	-	-	755m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273806	65 Nangor Street	24/10/2010	10/11/2010	-	-	771m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260214	4 Warrai Place	18/01/2010	19/05/2010	-	-	756m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	285793	5 Gabi Place	13/12/2010	15/03/2011	-	-	945m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287292	53 Adinda Street	23/08/2010	31/03/2011	-	-	940m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	297688	92 Nemarang Crescent	02/01/2010	29/06/2011	-	-	889m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270358	4 Bidia Place	28/05/2010	10/09/2010	-	-	887m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275796	28 Yanda Street	05/12/2010	07/01/2011	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260215	108 Badimara Street	04/01/2010	18/05/2010	-	-	1217m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338472	22 Nangor Street	09/08/2011	18/09/2011	08/06/2011	$665,000	716m	Full transfer	5	2	1	2	2	$665,000	62	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.5
+2011	365907	18 Wambaya Crescent	17/12/2011	27/02/2012	-	$620,000	939m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365574	32 Garanya Street	05/10/2011	24/02/2012	30/08/2011	$617,500	878m	Full transfer	4	2	-	2	-	$617,500	36	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.52
+2011	346523	134 Badimara Street	24/08/2011	15/11/2011	-	$602,500	951m	Full transfer	-	-	-	-	-	$602,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300669	2 Mara Place	09/06/2011	20/07/2011	17/05/2011	$597,500	974m	Full transfer	3	1	1	2	-	$597,500	23	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.64
+2011	365195	21 Yanda Street	07/12/2011	05/03/2012	02/11/2011	$590,000	822m	Full transfer	4	1	1	2	1	$590,000	35	-	Combined Record	159	-	-	Single residential dwelling	$382,000	0.65
+2011	292242	53 Adinda Street	05/02/2011	10/05/2011	21/12/2010	$590,000	940m	Full transfer	4	1	2	1	-	$590,000	46	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.61
+2011	333018	35 Nangor Street	24/06/2011	01/08/2011	-	$565,000	800m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331448	56 Gamor Street	16/04/2011	25/05/2011	24/03/2011	$562,000	868m	Full transfer	3	1	-	1	1	$562,000	23	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.62
+2011	297732	5 Burara Crescent	26/05/2011	01/07/2011	19/01/2011	$560,000	844m	Full transfer	3	1	-	-	2	$560,000	127	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.65
+2011	342390	10 Malara Street	23/08/2011	07/10/2011	20/07/2011	$555,000	855m	Full transfer	3	2	-	-	2	$555,000	34	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.68
+2011	296281	7 Damala Street	10/02/2011	02/06/2011	-	$546,720	906m	Full transfer	-	-	-	-	-	$546,720	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	330835	30 Nangor Street	04/03/2011	20/05/2011	10/01/2011	$538,000	804m	Full transfer	3	1	-	2	1	$538,000	53	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.7
+2011	336649	10 Bolali Place	22/07/2011	22/08/2011	16/06/2011	$537,000	863m	Full transfer	3	1	-	1	-	$537,000	36	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.7
+2011	347807	28 Garanya Street	23/09/2011	27/10/2011	13/07/2011	$525,000	695m	Full transfer	3	1	1	2	-	$525,000	72	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.66
+2011	346262	            17/93 Nemarang Crescent	12/12/2011	-	23/09/2011	$513,250	2435m	Full transfer	2	1	-	1	-	$513,250	80	-	Allhomes Record	-	-	-	-	$263,000	0.51
+2011	406870	            17/93 Nemarang Crescent	24/11/2011	13/08/2013	-	$513,250	2435m	Full transfer	-	-	-	-	-	$513,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	403461	            10/93 Nemarang Crescent	05/10/2011	03/07/2013	-	$509,900	2435m	Full transfer	-	-	-	-	-	$509,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	338474	66 Woralul Street	09/08/2011	13/09/2011	02/05/2011	$506,000	693m	Full transfer	4	1	-	2	-	$506,000	99	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.68
+2011	333015	21 Adinda Street	27/05/2011	01/08/2011	10/03/2011	$495,000	711m	Full transfer	3	1	-	1	2	$495,000	78	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.66
+2011	342432	62 Woralul Street	31/08/2011	12/10/2011	21/07/2011	$480,500	664m	Full transfer	3	1	-	-	2	$480,500	41	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.7
+2011	345306	4 Burara Crescent	25/11/2011	-	09/11/2011	$480,000	-	Full transfer	3	1	-	2	-	$480,000	16	-	Allhomes Record	-	-	-	-	$1,362,000	2.84
+2011	360509	            6/2 Burara Crescent	25/11/2011	23/01/2012	-	$480,000	4829m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	330912	110 Nemarang Crescent	14/02/2011	20/04/2011	-	$480,000	755m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331502	15 Woralul Street	21/03/2011	10/06/2011	20/12/2010	$478,000	736m	Full transfer	3	1	-	-	1	$478,000	91	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.75
+2011	340698	26 Yanda Street	06/08/2011	22/09/2011	07/07/2011	$475,000	702m	Full transfer	3	1	-	1	-	$475,000	30	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.75
+2011	296241	46 Nangor Street	09/04/2011	08/06/2011	-	$470,000	771m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296282	9 Damala Street	10/02/2011	02/06/2011	-	$458,280	759m	Full transfer	-	-	-	-	-	$458,280	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349929	114 Badimara Street	07/09/2011	05/12/2011	-	$457,500	985m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	403460	            11/93 Nemarang Crescent	25/08/2011	04/07/2013	-	$446,980	2435m	Full transfer	-	-	-	-	-	$446,980	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	404999	            14/93 Nemarang Crescent	27/09/2011	30/07/2013	-	$443,500	2435m	Full transfer	-	-	-	-	-	$443,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	403681	            12/93 Nemarang Crescent	15/08/2011	17/07/2013	-	$442,280	2435m	Full transfer	-	-	-	-	-	$442,280	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360641	46 Galibal Street	15/12/2011	30/01/2012	31/10/2011	$429,000	713m	Full transfer	3	1	-	-	1	$429,000	45	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.83
+2011	296318	4/24 Damala Street	27/04/2011	02/06/2011	-	$395,000	10266m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353904	20/24 Damala Street	14/11/2011	21/12/2011	01/09/2011	$395,000	10266m	Full transfer	2	1	-	-	1	$395,000	74	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	300451	21/16 Damala Street	03/06/2011	12/07/2011	-	$375,000	7345m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	293314	21/16 Damala Street	07/06/2011	-	10/05/2011	$375,000	7345m	Full transfer	2	1	-	-	1	$375,000	28	-	Allhomes Record	-	-	-	-	$2,172,000	5.79
+2011	287435	11/16 Damala Street	08/02/2011	31/03/2011	-	$365,000	7345m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	276114	11/16 Damala Street	07/02/2011	-	11/01/2011	$365,000	7345m	Full transfer	2	1	-	-	1	$365,000	27	-	Allhomes Record	-	-	-	-	$2,172,000	5.95
+2011	291508	6 Nagara Street	04/02/2011	14/04/2011	-	$350,000	798m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296319	2/37 Larakia Street	31/03/2011	02/06/2011	-	$302,500	885m	Full transfer	-	-	-	-	-	$302,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300452	            2/28 Wambaya Crescent	16/06/2011	11/07/2011	-	$300,000	769m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336077	3 Yanda Street	12/08/2011	07/09/2011	-	$293,333	664m	Full transfer	-	-	-	-	-	$293,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	279138	47 Woralul Street	12/01/2011	02/02/2011	-	$272,500	706m	Full transfer	-	-	-	-	-	$272,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368457	6 Warrai Place	25/10/2011	23/03/2012	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350426	4 Warrai Place	04/10/2011	12/12/2011	-	$0	756m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	455059	18A Yanda Street	03/05/2011	21/06/2015	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365192	            2/22 Larakia Street	17/11/2011	08/03/2012	-	$0	775m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	410210	20 Larakia Street	16/03/2011	10/09/2013	-	$0	752m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	392897	5 Yanda Street	15/07/2011	07/02/2013	-	$0	692m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287291	32 Nangor Street	21/01/2011	01/04/2011	-	-	715m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296115	25 Yiman Street	01/04/2011	24/05/2011	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296442	23 Nangor Street	05/03/2011	17/06/2011	-	-	816m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296283	68 Nemarang Crescent	15/03/2011	30/05/2011	-	-	874m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300183	3 Yanda Street	28/03/2011	06/07/2011	-	-	664m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340348	41 Larakia Street	20/07/2011	19/09/2011	-	-	775m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291310	46 Adinda Street	21/02/2011	10/05/2011	-	-	1106m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300128	26 Yanda Street	26/05/2011	13/07/2011	-	-	702m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287362	57 Woralul Street	31/01/2011	22/03/2011	-	-	715m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291507	2 Mara Place	03/02/2011	15/04/2011	-	-	974m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378828	14 Badimara Street	21/07/2012	27/08/2012	29/06/2012	$750,000	691m	Full transfer	5	1	2	2	-	$750,000	22	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.43
+2012	388396	4/25 Damala Street	28/03/2012	17/01/2013	-	$672,270	2912m	Full transfer	-	-	-	-	-	$672,270	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	389380	1/25 Damala Street	06/09/2012	24/01/2013	-	$665,145	2912m	Full transfer	-	-	-	-	-	$665,145	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373489	            4/1 Garanya Street	26/07/2012	-	27/07/2012	$655,000	1007m	Full transfer	3	1	1	2	-	$655,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	377331	            1/1 Garanya Street	06/09/2012	-	27/07/2012	$650,000	1007m	Full transfer	3	1	1	2	-	$650,000	41	-	Allhomes Record	-	-	-	-	$382,000	0.59
+2012	369771	16 Yiman Street	06/06/2012	-	11/05/2012	$640,000	765m	Full transfer	3	1	1	2	-	$640,000	26	-	Allhomes Record	-	-	-	-	$382,000	0.6
+2012	365193	12 Wambaya Crescent	04/02/2012	09/03/2012	05/01/2012	$640,000	743m	Full transfer	3	1	1	1	1	$640,000	30	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.57
+2012	388398	5 Goa Place	14/11/2012	14/01/2013	25/10/2012	$640,000	905m	Full transfer	5	2	1	2	-	$640,000	20	-	Combined Record	181	-	-	Single residential dwelling	$323,000	0.5
+2012	393073	11 Tiwi Place	17/11/2012	15/02/2013	24/10/2012	$637,000	725m	Full transfer	4	1	1	1	-	$637,000	24	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.52
+2012	389836	5/25 Damala Street	14/06/2012	29/01/2013	-	$620,000	2912m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373488	            5/1 Garanya Street	26/07/2012	-	27/07/2012	$620,000	1007m	Full transfer	3	1	1	1	-	$620,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	385909	21 Yiman Street	27/10/2012	11/12/2012	26/09/2012	$600,000	899m	Full transfer	4	1	-	2	-	$600,000	31	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.63
+2012	392894	3/25 Damala Street	29/11/2012	05/02/2013	-	$595,000	2912m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	392895	2/25 Damala Street	18/12/2012	05/02/2013	18/10/2012	$595,000	2912m	Full transfer	3	1	1	1	-	$595,000	61	-	Combined Record	-	-	-	Multiple unit dwelling	$1,900,000	3.19
+2012	387021	53 Nangor Street	03/08/2012	19/12/2012	28/06/2012	$581,000	735m	Full transfer	4	1	-	1	2	$581,000	36	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.62
+2012	372600	4 Warrai Place	16/01/2012	14/03/2012	10/11/2011	$575,000	756m	Full transfer	4	1	1	2	-	$575,000	67	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.66
+2012	371829	14 Nemarang Crescent	04/04/2012	28/05/2012	26/03/2012	$560,000	785m	Full transfer	4	1	1	1	1	$560,000	9	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.56
+2012	374869	148 Nemarang Crescent	11/05/2012	01/07/2012	24/04/2012	$550,000	761m	Full transfer	3	1	-	2	-	$550,000	17	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.68
+2012	393075	43 Woralul Street	04/12/2012	12/02/2013	09/11/2012	$550,000	654m	Full transfer	3	1	-	2	-	$550,000	25	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.63
+2012	388394	5 Malara Street	29/10/2012	14/01/2013	27/08/2012	$548,000	739m	Full transfer	3	1	-	-	2	$548,000	63	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.62
+2012	377245	34 Nemarang Crescent	25/05/2012	20/07/2012	23/03/2012	$540,000	723m	Full transfer	3	1	-	1	-	$540,000	63	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.59
+2012	383963	23 Alawa Street	04/10/2012	19/11/2012	30/09/2010	$537,000	725m	Full transfer	4	1	1	1	-	$537,000	735	-	Combined Record	135	-	-	Single residential dwelling	$358,000	0.67
+2012	376410	18 Yiman Street	28/06/2012	10/08/2012	13/06/2012	$535,000	744m	Full transfer	3	2	-	-	2	$535,000	15	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.68
+2012	368455	31 Nangor Street	17/02/2012	23/03/2012	31/01/2012	$532,000	808m	Full transfer	3	1	-	1	1	$532,000	17	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.72
+2012	393071	13 Gamor Street	08/12/2012	13/02/2013	30/10/2012	$530,000	785m	Full transfer	4	1	1	-	2	$530,000	39	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.72
+2012	375872	37 Nemarang Crescent	31/08/2012	-	14/08/2012	$520,100	899m	Full transfer	3	1	-	2	-	$520,100	17	-	Allhomes Record	-	-	-	-	$326,000	0.63
+2012	378422	             Gamor Street	12/10/2012	-	31/07/2012	$515,000	-	Full transfer	3	2	-	1	2	$515,000	73	-	Allhomes Record	139	-	-	-	-	-
+2012	388397	11A Gamor Street	12/10/2012	14/01/2013	-	$515,000	785m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384745	47 Nangor Street	03/03/2012	18/05/2012	09/02/2012	$505,000	712m	Full transfer	5	1	-	-	-	$505,000	23	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.71
+2012	383960	6 Warrai Place	15/10/2012	21/11/2012	30/08/2012	$500,000	748m	Full transfer	3	1	-	2	-	$500,000	46	-	Combined Record	131	-	-	Single residential dwelling	$366,000	0.73
+2012	379360	46 Gamor Street	20/07/2012	19/09/2012	-	$500,000	673m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371621	120 Badimara Street	21/04/2012	24/05/2012	27/03/2012	$499,000	985m	Full transfer	3	2	-	1	-	$499,000	25	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.67
+2012	377665	5 Nanda Place	18/09/2012	-	21/08/2012	$481,000	755m	Full transfer	3	1	-	1	-	$481,000	28	-	Allhomes Record	-	-	-	-	$346,000	0.72
+2012	394447	18 Larakia Street	21/11/2012	22/03/2013	-	$480,000	832m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386096	36 Adinda Street	27/09/2012	07/12/2012	-	$455,000	719m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373198	60 Nangor Street	03/05/2012	07/06/2012	-	$455,000	832m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	369336	24 Badimara Street	08/03/2012	16/04/2012	06/02/2012	$450,000	1037m	Full transfer	3	1	-	1	-	$450,000	31	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.76
+2012	403459	            8/93 Nemarang Crescent	27/07/2012	04/07/2013	-	$443,500	2435m	Full transfer	-	-	-	-	-	$443,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	403680	            13/93 Nemarang Crescent	13/11/2012	19/07/2013	-	$443,500	2435m	Full transfer	-	-	-	-	-	$443,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381541	            13/93 Nemarang Crescent	20/11/2012	-	18/09/2012	$443,500	2435m	Full transfer	2	1	-	1	-	$443,500	63	-	Allhomes Record	-	-	-	-	$1,700,000	3.83
+2012	404003	            4/93 Nemarang Crescent	08/03/2012	11/07/2013	-	$441,980	2435m	Full transfer	-	-	-	-	-	$441,980	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	383852	30 Galibal Street	15/09/2012	12/11/2012	22/08/2012	$440,000	738m	Full transfer	3	1	-	1	0	$440,000	24	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.81
+2012	403679	            5/93 Nemarang Crescent	24/04/2012	19/07/2013	-	$439,950	2435m	Full transfer	-	-	-	-	-	$439,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376768	4 Larakia Street	26/05/2012	02/08/2012	-	$435,000	1138m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378974	4 Larakia Street	28/05/2012	-	25/10/2012	$435,000	1138m	Full transfer	3	2	-	1	0	$435,000	-	-	Allhomes Record	-	-	-	-	$308,000	0.71
+2012	381028	1/8 Woralul Street	24/08/2012	02/10/2012	12/04/2012	$430,000	910m	Full transfer	3	1	-	-	1	$430,000	134	-	Combined Record	-	-	-	Multiple unit dwelling	$435,000	1.01
+2012	378826	6/24 Damala Street	03/07/2012	28/08/2012	02/07/2012	$422,500	10266m	Full transfer	3	1	-	0	1	$422,500	1	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	373838	1/35A Woralul Street	27/04/2012	18/06/2012	-	$420,000	821m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376409	52 Nangor Street	04/06/2012	06/08/2012	-	$420,000	840m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	363741	            35A Woralul Street	27/04/2012	-	01/12/2011	$420,000	-	Full transfer	3	1	-	-	1	$420,000	148	-	Allhomes Record	-	-	-	-	-	-
+2012	377663	            16/93 Nemarang Crescent	18/09/2012	-	22/08/2011	$406,000	2435m	Full transfer	1	1	-	1	-	$406,000	393	-	Allhomes Record	-	-	-	-	$1,700,000	4.19
+2012	404998	            16/93 Nemarang Crescent	12/09/2012	31/07/2013	-	$400,000	2435m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386911	1/95 Nemarang Crescent	16/11/2012	24/12/2012	-	$397,000	4595m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381455	95 Nemarang Crescent	16/11/2012	-	26/09/2012	$397,000	-	Full transfer	3	1	1	2	-	$397,000	51	-	Allhomes Record	-	-	-	-	$1,362,000	3.43
+2012	371619	13/24 Damala Street	16/04/2012	22/05/2012	06/03/2012	$382,000	10266m	Full transfer	2	1	-	-	1	$382,000	41	-	Combined Record	-	-	-	Multiple unit dwelling	$3,626,000	9.49
+2012	392893	19 Malara Street	26/11/2012	06/02/2013	-	$320,000	753m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383962	31 Galibal Street	10/08/2012	21/11/2012	-	$267,500	789m	Full transfer	-	-	-	-	-	$267,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	369037	13 Gamor Street	07/03/2012	04/04/2012	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	380593	18 Larakia Street	13/07/2012	12/10/2012	-	$0	832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	403463	16 Tiwi Place	25/11/2012	03/07/2013	-	$0	926m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372806	5 Alura Place	29/03/2012	01/05/2012	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384747	3 Yiman Street	11/04/2012	18/05/2012	-	$0	681m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	406696	29 Gamor Street	02/06/2012	27/08/2013	-	$0	800m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415055	21 Damala Street	10/08/2013	06/12/2013	10/07/2013	$810,000	902m	Full transfer	4	2	1	4	-	$810,000	31	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.44
+2013	413917	55 Nangor Street	21/09/2013	21/11/2013	28/08/2013	$686,000	756m	Full transfer	4	2	0	1	0	$686,000	24	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.54
+2013	421148	22 Nangor Street	19/09/2013	26/02/2014	14/11/2013	$680,000	716m	Full transfer	5	2	1	2	0	$680,000	-	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.48
+2013	406311	22 Nangor Street	20/09/2013	-	08/08/2013	$680,000	716m	Full transfer	5	2	1	2	0	$680,000	43	-	Allhomes Record	-	-	-	-	$328,000	0.48
+2013	403462	4/9 Damala Street	30/05/2013	02/07/2013	-	$670,000	1666m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	397461	            4/7 Damala Street	30/05/2013	-	18/04/2013	$670,000	-	Full transfer	4	1	1	2	-	$670,000	42	-	Allhomes Record	-	-	-	-	-	-
+2013	407444	14 Warrai Place	24/06/2013	03/09/2013	22/04/2013	$625,000	916m	Full transfer	5	3	1	2	0	$625,000	63	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.57
+2013	394448	8/25 Damala Street	13/02/2013	19/03/2013	22/11/2012	$617,500	2912m	Full transfer	3	1	1	2	-	$617,500	83	-	Combined Record	-	-	-	Multiple unit dwelling	$1,900,000	3.08
+2013	406695	27 Nemarang Crescent	25/07/2013	28/08/2013	-	$610,000	805m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396658	9 Waramanga Place	14/02/2013	26/04/2013	-	$600,000	301m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2013	401883	7/25 Damala Street	12/04/2013	04/06/2013	16/01/2013	$585,000	2912m	Full transfer	3	1	1	1	-	$585,000	86	-	Combined Record	-	-	-	Multiple unit dwelling	$1,900,000	3.25
+2013	410211	37 Malara Street	31/07/2013	09/09/2013	16/05/2013	$580,000	664m	Full transfer	4	1	1	-	1	$580,000	76	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.59
+2013	406186	12 Tiwi Place	16/09/2013	-	02/04/2013	$580,000	975m	Full transfer	4	2	-	2	-	$580,000	167	-	Allhomes Record	-	-	-	-	$339,000	0.58
+2013	412593	2/9 Damala Street	12/10/2013	06/11/2013	-	$575,000	1666m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	408371	            2/7 Damala Street	12/10/2013	-	06/06/2013	$575,000	0m	Full transfer	3	1	1	1	0	$575,000	128	-	Allhomes Record	-	-	-	-	-	-
+2013	401524	15 Garanya Street	16/03/2013	24/05/2013	24/01/2013	$575,000	732m	Full transfer	5	1	1	-	1	$575,000	51	-	Combined Record	172	-	-	Single residential dwelling	$351,000	0.61
+2013	407442	6/25 Damala Street	26/07/2013	06/09/2013	16/05/2013	$570,000	2912m	Full transfer	3	1	-	1	-	$570,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	$1,900,000	3.33
+2013	404371	16 Tiwi Place	14/08/2013	-	07/05/2013	$544,000	926m	Full transfer	5	1	1	-	2	$544,000	99	-	Allhomes Record	-	-	-	-	$339,000	0.62
+2013	394825	125 Nemarang Crescent	23/02/2013	10/04/2013	31/01/2013	$530,000	813m	Full transfer	4	1	-	1	0	$530,000	23	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.71
+2013	416741	120 Badimara Street	14/11/2013	02/01/2014	22/10/2013	$529,000	985m	Full transfer	3	2	-	1	-	$529,000	23	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.62
+2013	405528	17 Woralul Street	01/05/2013	05/08/2013	04/10/2012	$520,000	722m	Full transfer	4	1	-	-	1	$520,000	209	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.68
+2013	416276	46 Galibal Street	09/10/2013	16/12/2013	03/10/2013	$516,000	713m	Full transfer	3	1	0	0	0	$516,000	6	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.68
+2013	414365	46 Wambaya Crescent	18/09/2013	27/11/2013	15/08/2013	$515,000	898m	Full transfer	4	1	-	-	2	$515,000	34	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.73
+2013	405000	5 Wambaya Crescent	12/06/2013	31/07/2013	-	$515,000	755m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	391282	4/8 Burara Crescent	05/04/2013	-	20/02/2013	$510,000	4829m	Full transfer	3	1	1	2	-	$510,000	44	-	Allhomes Record	-	-	-	-	$1,362,000	2.67
+2013	402452	            4/2 Burara Crescent	05/04/2013	21/06/2013	-	$510,000	4829m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410214	29 Nemarang Crescent	27/06/2013	10/09/2013	02/05/2013	$505,000	813m	Full transfer	3	1	-	-	2	$505,000	56	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.63
+2013	415909	22 Badimara Street	21/10/2013	12/12/2013	27/08/2013	$500,000	932m	Full transfer	3	1	-	1	-	$500,000	55	-	Combined Record	104	-	-	Single residential dwelling	$339,000	0.68
+2013	389786	25 Dalabon Crescent	26/02/2013	-	15/01/2013	$500,000	675m	Full transfer	3	1	-	2	-	$500,000	42	-	Allhomes Record	-	-	-	-	$317,000	0.63
+2013	416270	4 Dalabon Crescent	29/08/2013	18/12/2013	-	$500,000	774m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394231	42 Galibal Street	11/02/2013	02/04/2013	09/10/2012	$499,000	767m	Full transfer	3	1	-	1	-	$499,000	125	-	Combined Record	108	-	-	Single residential dwelling	$368,000	0.74
+2013	419235	11 Malara Street	04/12/2013	14/02/2014	12/11/2013	$497,500	706m	Full transfer	3	1	0	1	0	$497,500	22	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.71
+2013	404526	58 Woralul Street	20/08/2013	-	11/06/2013	$490,000	749m	Full transfer	3	1	-	4	1	$490,000	70	-	Allhomes Record	-	-	-	-	$335,000	0.68
+2013	405120	56 Nemarang Crescent	12/06/2013	23/07/2013	-	$490,000	699m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410833	11 Adinda Street	19/07/2013	20/09/2013	29/05/2013	$485,000	714m	Full transfer	3	1	-	-	1	$485,000	51	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.72
+2013	538482	4 Nemarang Crescent	12/06/2013	24/07/2018	14/05/2013	$480,000	662m	Full transfer	3	1	-	1	-	$480,000	29	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.66
+2013	394823	140 Nemarang Crescent	15/02/2013	09/04/2013	09/10/2012	$472,500	702m	Full transfer	3	1	1	-	1	$472,500	129	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.74
+2013	416274	117 Nemarang Crescent	14/11/2013	18/12/2013	21/12/2012	$469,000	755m	Full transfer	3	1	0	2	0	$469,000	328	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.78
+2013	406419	49 Adinda Street	13/07/2013	-	12/06/2013	$468,000	932m	Full transfer	5	1	0	0	0	$468,000	31	-	Allhomes Record	-	-	-	-	$376,000	0.8
+2013	416272	4 Yiman Street	12/11/2013	20/12/2013	04/09/2013	$467,000	690m	Full transfer	3	1	-	-	1	$467,000	69	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.73
+2013	412595	10 Yambina Crescent	21/09/2013	06/11/2013	-	$461,000	853m	Full transfer	-	-	-	-	-	$461,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	395060	24 Yambina Crescent	24/04/2013	-	27/02/2013	$445,000	751m	Full transfer	3	1	-	1	-	$445,000	56	-	Allhomes Record	111	-	-	-	$317,000	0.71
+2013	404002	            9/93 Nemarang Crescent	12/04/2013	08/07/2013	-	$443,500	2435m	Full transfer	-	-	-	-	-	$443,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	393070	28 Larakia Street	23/01/2013	15/02/2013	-	$440,000	812m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406694	            2/93 Nemarang Crescent	02/05/2013	29/08/2013	-	$439,950	2435m	Full transfer	-	-	-	-	-	$439,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410213	            3/93 Nemarang Crescent	01/08/2013	13/09/2013	-	$439,500	2435m	Full transfer	-	-	-	-	-	$439,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	407441	            7/93 Nemarang Crescent	22/07/2013	04/09/2013	-	$435,000	2435m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	396843	18 Waramanga Place	17/05/2013	-	08/04/2013	$415,000	148m	Full transfer	3	1	1	-	1	$415,000	39	-	Allhomes Record	-	-	-	-	$224,000	0.54
+2013	413402	29/24 Damala Street	27/09/2013	13/11/2013	02/05/2013	$350,000	10266m	Full transfer	2	1	-	-	1	$350,000	148	-	Combined Record	-	-	-	Multiple unit dwelling	$3,626,000	10.36
+2013	412892	30 Garanya Street	20/08/2013	01/11/2013	-	$250,000	695m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	401885	25/24 Damala Street	23/04/2013	04/06/2013	-	$182,500	10266m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	422609	1/101 Nemarang Crescent	19/07/2013	25/03/2014	-	$0	1142m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	416269	2 Iora Place	07/05/2013	16/12/2013	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413919	39 Nemarang Crescent	03/10/2013	18/11/2013	-	$0	779m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419877	1 Goa Place	06/12/2013	07/02/2014	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421602	            2/2 Burara Crescent	25/12/2013	05/03/2014	-	$0	4829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	428384	6 Nemarang Crescent	08/11/2013	04/06/2014	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416271	12 Malara Street	05/11/2013	16/12/2013	-	$0	958m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410670	42 Nangor Street	23/05/2013	24/10/2013	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	447676	4 Adinda Street	02/05/2013	12/03/2015	-	$0	1137m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	448221	7 Adinda Street	23/09/2013	02/03/2015	-	$0	907m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	424452	10 Nagara Street	19/11/2013	22/04/2014	-	$0	709m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419237	139 Nemarang Crescent	09/10/2013	11/02/2014	-	$0	693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	401526	31 Alawa Street	02/04/2013	22/05/2013	-	$0	713m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	497024	34 Adinda Street	19/02/2013	08/02/2017	-	$0	709m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	495104	47 Woralul Street	09/08/2013	09/01/2017	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410216	18 Nangor Street	23/07/2013	12/09/2013	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	443985	49 Adinda Street	23/09/2013	29/01/2015	-	$0	932m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	420701	            3/7 Damala Street	24/03/2014	-	31/10/2013	$695,000	-	Full transfer	4	1	1	2	0	$695,000	144	-	Allhomes Record	-	-	-	-	-	-
+2014	429421	3/9 Damala Street	21/03/2014	17/06/2014	-	$695,000	1666m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442756	4 Gamor Street	14/11/2014	07/01/2015	04/09/2014	$675,000	737m	Full transfer	5	1	2	2	-	$675,000	71	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.53
+2014	422610	2 Warrai Place	14/02/2014	25/03/2014	20/11/2013	$670,000	1022m	Full transfer	5	1	1	2	0	$670,000	86	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.59
+2014	437742	4/25 Damala Street	06/07/2014	22/10/2014	12/06/2014	$665,000	2912m	Full transfer	3	1	1	2	0	$665,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$1,900,000	2.86
+2014	428383	2/1 Burara Crescent	07/03/2014	03/06/2014	-	$660,000	847m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	448617	24 Malara Street	18/12/2014	27/03/2015	20/11/2014	$660,000	966m	Full transfer	5	2	-	1	-	$660,000	28	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.57
+2014	440747	2 Dalabon Crescent	18/12/2014	-	17/09/2014	$655,000	976m	Full transfer	5	1	2	-	2	$655,000	92	-	Allhomes Record	-	-	-	-	$328,000	0.5
+2014	442274	30 Galibal Street	08/11/2014	23/12/2014	16/10/2014	$626,000	738m	Full transfer	3	1	1	4	1	$626,000	23	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.56
+2014	432866	14 Gamor Street	15/03/2014	15/08/2014	-	$620,000	1167m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440216	2 Nemarang Crescent	15/10/2014	19/11/2014	12/09/2014	$580,000	858m	Full transfer	3	2	1	2	-	$580,000	33	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.55
+2014	427708	37 Nangor Street	26/03/2014	12/05/2014	29/01/2014	$575,000	718m	Full transfer	4	1	1	3	2	$575,000	56	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.61
+2014	438822	3 Burara Crescent	18/09/2014	07/11/2014	10/09/2014	$570,000	815m	Full transfer	3	1	-	0	1	$570,000	8	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.63
+2014	424100	6 Nanda Place	14/03/2014	15/04/2014	11/11/2013	$560,000	666m	Full transfer	4	1	1	2	-	$560,000	123	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.57
+2014	438476	4 Manu Place	03/09/2014	29/10/2014	21/08/2014	$550,000	1002m	Full transfer	3	1	0	2	2	$550,000	13	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.72
+2014	443986	38 Alawa Street	15/11/2014	28/01/2015	23/10/2014	$535,000	1028m	Full transfer	4	1	1	0	1	$535,000	23	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.67
+2014	428385	39 Woralul Street	28/03/2014	03/06/2014	29/01/2014	$529,000	614m	Full transfer	4	1	-	-	2	$529,000	58	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.64
+2014	430426	            5/95 Nemarang Crescent	31/05/2014	04/07/2014	-	$525,000	4595m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	425449	5/22 Burara Crescent	08/06/2014	-	08/05/2014	$525,000	-	Full transfer	3	1	1	2	-	$525,000	31	-	Allhomes Record	144	-	-	-	-	-
+2014	428142	9 Larakia Street	13/03/2014	30/04/2014	05/02/2014	$510,000	773m	Full transfer	3	1	-	1	1	$510,000	36	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.61
+2014	433851	114 Badimara Street	18/07/2014	25/08/2014	10/02/2014	$508,000	985m	Full transfer	4	1	-	-	-	$508,000	158	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.65
+2014	422612	3 Alawa Street	14/02/2014	26/03/2014	01/11/2013	$500,000	661m	Full transfer	3	1	-	2	-	$500,000	105	-	Combined Record	119	-	-	Single residential dwelling	$340,000	0.68
+2014	436043	4 Wambaya Crescent	18/09/2014	25/09/2014	07/08/2014	$495,000	724m	Full transfer	3	1	-	1	-	$495,000	42	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.73
+2014	419069	11 Nagara Street	27/02/2014	-	27/11/2013	$490,000	830m	Full transfer	5	1	0	1	1	$490,000	92	-	Allhomes Record	-	-	-	-	$376,000	0.77
+2014	424480	            3/95 Nemarang Crescent	21/02/2014	04/04/2014	-	$475,000	4595m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	419193	26 Burara Crescent	21/02/2014	-	14/11/2013	$475,000	4595m	Full transfer	3	1	1	2	0	$475,000	99	-	Allhomes Record	-	-	-	-	$1,430,000	3.01
+2014	430428	10 Nagara Street	26/05/2014	03/07/2014	-	$470,000	709m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446184	29 Alawa Street	22/11/2014	16/02/2015	28/10/2014	$464,000	713m	Full transfer	3	1	-	1	-	$464,000	25	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.76
+2014	442369	3 Dalabon Crescent	10/10/2014	02/01/2015	02/09/2014	$450,000	638m	Full transfer	3	1	-	-	1	$450,000	38	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.7
+2014	448222	15 Woralul Street	20/12/2014	02/03/2015	04/09/2014	$445,000	736m	Full transfer	3	1	-	-	2	$445,000	107	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.79
+2014	442754	27 Dalabon Crescent	08/11/2014	08/01/2015	24/09/2014	$438,000	681m	Full transfer	3	1	-	-	2	$438,000	45	-	Combined Record	117	-	-	Single residential dwelling	$317,000	0.72
+2014	421147	6/93 Nemarang Crescent	28/01/2014	27/02/2014	-	$422,500	2435m	Full transfer	-	-	-	-	-	$422,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	417242	6/93 Nemarang Crescent	30/01/2014	-	28/02/2013	$422,500	0m	Full transfer	2	1	0	1	0	$422,500	336	-	Allhomes Record	-	-	-	-	$1,700,000	4.02
+2014	441393	28 Adinda Street	16/10/2014	08/12/2014	01/05/2014	$420,000	630m	Full transfer	3	1	-	-	1	$420,000	168	-	Combined Record	109	-	-	Single residential dwelling	$317,000	0.75
+2014	443641	3 Iora Place	14/10/2014	19/01/2015	-	$400,000	763m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438824	54 Nemarang Crescent	17/09/2014	06/11/2014	-	$400,000	711m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421603	15/93 Nemarang Crescent	04/02/2014	05/03/2014	05/09/2013	$395,000	2435m	Full transfer	1	1	0	0	0	$395,000	152	-	Combined Record	-	-	-	Multiple unit dwelling	$1,700,000	4.3
+2014	441389	5/24 Damala Street	14/10/2014	08/12/2014	19/06/2014	$368,000	10266m	Full transfer	2	1	0	0	1	$368,000	117	-	Combined Record	-	-	-	Multiple unit dwelling	$3,807,000	10.35
+2014	441391	9/16 Damala Street	31/10/2014	10/12/2014	02/10/2014	$350,000	7345m	Full transfer	2	1	-	1	0	$350,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	$2,856,000	8.16
+2014	441103	29 Alawa Street	05/06/2014	02/12/2014	-	$0	713m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430427	24 Nangor Street	26/04/2014	03/07/2014	-	$0	777m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	488107	3 Algan Street	13/03/2014	11/10/2016	-	$0	693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433853	15 Wambaya Crescent	26/05/2014	26/08/2014	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	444876	44 Alawa Street	12/12/2014	06/02/2015	-	$0	2047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	469076	145 Nemarang Crescent	30/11/2014	13/01/2016	-	$0	866m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426247	12 Warrai Place	10/03/2014	06/05/2014	-	$0	1274m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426628	115 Nemarang Crescent	18/03/2014	26/05/2014	06/02/2014	$0	780m	Full transfer	3	1	0	1	1	$0	40	-	Combined Record	-	-	-	Single residential dwelling	$368,000	8.16
+2014	443642	133 Nemarang Crescent	09/08/2014	21/01/2015	-	$0	1029m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426627	36 Waramanga Place	21/01/2014	27/05/2014	-	$0	223m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465166	18 Alawa Street	04/08/2015	04/11/2015	-	$900,000	1456m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465159	9 Iora Place	05/09/2015	02/11/2015	13/08/2015	$760,000	1381m	Full transfer	4	1	1	2	0	$760,000	23	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.57
+2015	453207	3 Manu Place	14/03/2015	29/05/2015	-	$750,000	814m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468552	8 Tiwi Place	07/11/2015	04/01/2016	07/10/2015	$725,000	741m	Full transfer	4	1	-	1	-	$725,000	31	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.52
+2015	451777	29 Yiman Street	13/03/2015	05/05/2015	04/02/2015	$675,000	715m	Full transfer	4	2	-	1	2	$675,000	37	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.56
+2015	466610	34 Alawa Street	21/05/2015	27/11/2015	06/05/2015	$660,000	1101m	Full transfer	4	1	-	2	-	$660,000	15	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.6
+2015	462870	8/25 Damala Street	14/08/2015	06/10/2015	02/06/2015	$660,000	2912m	Full transfer	3	1	1	2	-	$660,000	73	-	Combined Record	147	-	-	Multiple unit dwelling	$1,900,000	2.88
+2015	473304	17 Wambaya Crescent	04/12/2015	16/03/2016	17/11/2015	$655,000	694m	Full transfer	5	1	1	2	-	$655,000	17	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.57
+2015	450841	15 Yanda Street	21/02/2015	27/04/2015	-	$627,000	708m	Full transfer	-	-	-	-	-	$627,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464582	32 Garanya Street	01/08/2015	19/10/2015	30/06/2015	$612,000	878m	Full transfer	4	2	-	2	-	$612,000	32	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.55
+2015	457726	1/9 Damala Street	22/04/2015	16/07/2015	-	$610,000	1666m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449663	1/7 Damala Street	23/04/2015	-	15/08/2014	$610,000	-	Full transfer	3	1	1	0	1	$610,000	251	-	Allhomes Record	-	-	-	-	-	-
+2015	471355	17 Dalabon Crescent	22/12/2015	11/02/2016	01/12/2015	$600,000	721m	Full transfer	4	1	1	-	2	$600,000	21	-	Combined Record	129	-	-	Single residential dwelling	$345,000	0.57
+2015	459610	4 Nanda Place	08/07/2015	23/08/2015	16/06/2015	$595,000	697m	Full transfer	3	1	-	2	0	$595,000	22	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.56
+2015	458050	26 Yanda Street	06/06/2015	20/07/2015	13/05/2015	$590,000	702m	Full transfer	3	1	-	3	-	$590,000	24	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.63
+2015	469946	36 Nemarang Crescent	19/11/2015	01/02/2016	-	$580,000	730m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455065	56 Yiman Street	02/05/2015	18/06/2015	09/04/2015	$575,000	807m	Full transfer	4	1	1	0	2	$575,000	23	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.67
+2015	463875	5 Nemarang Crescent	31/10/2015	-	28/09/2015	$575,000	961m	Full transfer	3	1	1	-	1	$575,000	33	-	Allhomes Record	102	-	-	-	$374,000	0.65
+2015	465617	32 Adinda Street	09/09/2015	10/11/2015	06/05/2015	$570,000	688m	Full transfer	4	1	1	1	-	$570,000	126	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.59
+2015	467949	10 Dalabon Crescent	19/09/2015	14/12/2015	17/08/2015	$570,000	818m	Full transfer	3	1	-	2	-	$570,000	33	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.68
+2015	460061	19 Malara Street	04/07/2015	25/08/2015	09/06/2015	$560,000	753m	Full transfer	4	1	-	2	-	$560,000	25	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.69
+2015	455982	35 Damala Street	02/06/2015	09/07/2015	-	$555,000	822m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	478702	1 Manu Place	26/10/2015	24/05/2016	07/12/2015	$550,000	759m	Full transfer	3	1	-	0	1	$550,000	-	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.71
+2015	463392	28 Yanda Street	20/08/2015	12/10/2015	30/07/2015	$550,000	694m	Full transfer	3	1	0	1	2	$550,000	21	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.65
+2015	448607	27 Garanya Street	10/02/2015	26/03/2015	19/01/2015	$550,000	973m	Full transfer	3	1	-	-	-	$550,000	22	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.76
+2015	449773	16 Yambina Crescent	07/02/2015	10/04/2015	15/01/2015	$545,000	783m	Full transfer	3	1	0	1	1	$545,000	23	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.61
+2015	466615	1 Wambaya Crescent	16/10/2015	24/11/2015	03/09/2015	$541,000	756m	Full transfer	4	1	-	2	-	$541,000	43	-	Combined Record	140	-	-	Single residential dwelling	$358,000	0.66
+2015	465161	6 Badimara Street	10/09/2015	05/11/2015	30/07/2015	$535,000	764m	Full transfer	3	1	0	0	1	$535,000	42	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.61
+2015	452693	33 Larakia Street	31/01/2015	13/05/2015	07/01/2015	$533,000	813m	Full transfer	3	1	0	1	0	$533,000	24	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.67
+2015	450843	11 Wambaya Crescent	21/03/2015	01/05/2015	13/11/2014	$532,500	809m	Full transfer	3	1	0	1	0	$532,500	128	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.74
+2015	451767	57 Nangor Street	17/02/2015	07/05/2015	10/04/2015	$528,000	778m	Full transfer	3	1	-	1	0	$528,000	-	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.73
+2015	454679	18 Woralul Street	01/07/2015	-	08/09/2014	$510,000	845m	Full transfer	3	1	1	-	2	$510,000	296	-	Allhomes Record	-	-	-	-	$388,000	0.76
+2015	465173	28 Galibal Street	12/09/2015	05/11/2015	19/08/2015	$510,000	743m	Full transfer	3	1	-	2	-	$510,000	24	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.73
+2015	456438	8 Wambaya Crescent	13/05/2015	30/06/2015	-	$508,000	790m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452360	4 Adinda Street	14/03/2015	20/05/2015	-	$505,000	1137m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461931	36 Badimara Street	12/05/2015	25/09/2015	12/02/2015	$505,000	781m	Full transfer	3	1	0	0	1	$505,000	89	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.66
+2015	450845	18 Woralul Street	02/03/2015	28/04/2015	-	$505,000	845m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461153	14 Adinda Street	08/07/2015	31/08/2015	29/04/2015	$505,000	800m	Full transfer	3	1	-	-	1	$505,000	70	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.71
+2015	461147	9 Birbai Place	20/06/2015	31/08/2015	25/05/2015	$495,000	721m	Full transfer	3	1	-	-	1	$495,000	26	-	Combined Record	118	-	-	Single residential dwelling	$370,000	0.75
+2015	447861	2 Waramanga Place	02/02/2015	17/03/2015	04/09/2014	$487,000	351m	Full transfer	3	2	-	1	0	$487,000	151	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.54
+2015	451769	41 Larakia Street	06/03/2015	05/05/2015	12/01/2015	$480,000	775m	Full transfer	3	1	-	1	-	$480,000	53	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.75
+2015	469937	60 Woralul Street	20/10/2015	05/02/2016	22/09/2015	$461,000	751m	Full transfer	3	1	-	2	2	$461,000	28	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.77
+2015	452209	24 Yambina Crescent	22/05/2015	-	22/01/2015	$456,000	751m	Full transfer	3	1	-	1	-	$456,000	120	-	Allhomes Record	-	-	-	-	$334,000	0.73
+2015	448609	12 Yiman Street	05/02/2015	27/03/2015	10/09/2014	$450,000	744m	Full transfer	3	1	-	2	-	$450,000	148	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.84
+2015	460807	44 Waramanga Place	18/09/2015	-	22/06/2015	$450,000	205m	Full transfer	4	1	1	-	1	$450,000	88	-	Allhomes Record	-	-	-	-	$254,000	0.56
+2015	464603	30 Yiman Street	24/07/2015	20/10/2015	-	$440,000	694m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457735	            2/38A Woralul Street	21/05/2015	16/07/2015	-	$430,000	1178m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469074	1/24 Damala Street	15/12/2015	11/01/2016	19/11/2015	$390,000	10266m	Full transfer	2	1	-	-	1	$390,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	$3,807,000	9.76
+2015	455063	21/16 Damala Street	07/05/2015	16/06/2015	13/03/2015	$365,000	7345m	Full transfer	2	1	-	0	1	$365,000	55	-	Combined Record	-	-	-	Multiple unit dwelling	$2,856,000	7.82
+2015	469088	5/16 Damala Street	19/11/2015	14/01/2016	20/10/2015	$354,000	7345m	Full transfer	2	1	-	-	1	$354,000	30	-	Combined Record	75	-	-	Multiple unit dwelling	$2,856,000	8.07
+2015	455971	16/16 Damala Street	18/05/2015	10/07/2015	05/03/2015	$349,000	7345m	Full transfer	2	1	-	2	-	$349,000	74	-	Combined Record	-	-	-	Multiple unit dwelling	$2,856,000	8.18
+2015	466614	20/24 Damala Street	23/10/2015	23/11/2015	-	$345,000	10266m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461141	18/16 Damala Street	20/07/2015	31/08/2015	17/10/2014	$330,000	7345m	Full transfer	2	1	-	-	1	$330,000	276	-	Combined Record	-	-	-	Multiple unit dwelling	$2,856,000	8.65
+2015	452683	1/24 Damala Street	17/03/2015	13/05/2015	30/09/2014	$327,500	10266m	Full transfer	2	1	-	-	1	$327,500	168	-	Combined Record	-	-	-	Multiple unit dwelling	$3,807,000	11.62
+2015	451298	1/1 Waramanga Place	31/03/2015	23/04/2015	-	$210,000	322m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2015	471346	120 Badimara Street	12/12/2015	09/02/2016	17/11/2015	$0	985m	Full transfer	3	2	-	1	-	$0	25	-	Combined Record	-	-	-	Single residential dwelling	$345,000	11.62
+2015	465158	28 Malara Street	13/07/2015	03/11/2015	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474422	42 Alawa Street	15/09/2015	05/04/2016	-	$0	1123m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459122	124 Badimara Street	22/04/2015	12/08/2015	-	$0	968m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455981	103 Nemarang Crescent	04/06/2015	06/07/2015	-	$0	822m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	467705	35 Gamor Street	13/10/2015	21/12/2015	-	$0	756m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463397	23/16 Damala Street	05/06/2015	14/10/2015	-	$0	7345m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469936	20 Adinda Street	06/12/2015	05/02/2016	-	$0	707m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452685	22 Alawa Street	26/03/2015	17/05/2015	-	$0	1302m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452365	9 Burara Crescent	21/04/2015	21/05/2015	-	$0	853m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455058	31 Adinda Street	08/04/2015	18/06/2015	-	$0	673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462883	18 Alawa Street	12/03/2015	07/10/2015	-	$0	1456m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	477493	7 Mara Place	10/12/2015	13/05/2016	-	$0	987m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	476388	            3/2 Burara Crescent	01/10/2015	28/04/2016	-	$0	4829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464604	127 Nemarang Crescent	29/08/2015	19/10/2015	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	446183	20 Adinda Street	21/01/2015	19/02/2015	-	$0	707m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452695	16 Alawa Street	12/03/2015	17/05/2015	-	$0	1502m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473313	1 Yiman Street	29/12/2015	16/03/2016	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	491474	67 Nangor Street	30/11/2015	24/11/2016	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495532	5 Gamor Street	15/10/2016	01/02/2017	22/09/2016	$905,500	779m	Full transfer	5	3	0	3	0	$905,500	23	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.44
+2016	489298	2 Adinda Street	27/08/2016	18/10/2016	04/08/2016	$901,000	986m	Full transfer	6	2	1	2	2	$901,000	23	-	Combined Record	280	-	-	Single residential dwelling	$416,000	0.46
+2016	497426	16 Gamor Street	30/10/2016	21/02/2017	06/10/2016	$840,000	1176m	Full transfer	5	1	2	0	2	$840,000	24	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.43
+2016	498010	8 Iora Place	19/11/2016	15/02/2017	25/10/2016	$750,000	1495m	Full transfer	4	3	-	2	-	$750,000	25	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.58
+2016	495107	14 Garanya Street	29/10/2016	12/01/2017	05/10/2016	$740,000	799m	Full transfer	4	2	0	2	0	$740,000	24	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.52
+2016	480665	19 Damala Street	15/04/2016	30/06/2016	18/02/2016	$719,000	775m	Full transfer	4	2	-	2	0	$719,000	57	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.49
+2016	488383	            4/7 Damala Street	29/10/2016	-	06/10/2016	$710,000	759m	Full transfer	4	2	0	2	0	$710,000	23	-	Allhomes Record	-	-	-	-	$1,120,000	1.58
+2016	496910	4/9 Damala Street	29/10/2016	07/02/2017	-	$710,000	1666m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500296	53 Nemarang Crescent	07/12/2016	06/03/2017	03/11/2016	$700,000	1190m	Full transfer	5	1	1	2	-	$700,000	34	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.56
+2016	490600	8 Garanya Street	06/10/2016	15/11/2016	07/09/2016	$697,000	1057m	Full transfer	4	2	-	2	0	$697,000	29	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.57
+2016	484517	38 Alawa Street	18/06/2016	16/08/2016	25/05/2016	$695,000	1028m	Full transfer	4	2	-	0	1	$695,000	24	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.54
+2016	493253	1 Mara Place	14/10/2016	06/12/2016	13/06/2016	$685,000	995m	Full transfer	4	1	-	1	1	$685,000	123	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.63
+2016	489391	52 Yiman Street	10/09/2016	19/10/2016	07/07/2016	$680,000	781m	Full transfer	3	1	-	4	-	$680,000	65	-	Combined Record	148	-	-	Single residential dwelling	$358,000	0.53
+2016	500100	117 Nemarang Crescent	10/12/2016	08/03/2017	16/11/2016	$678,000	755m	Full transfer	3	1	0	2	0	$678,000	24	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.57
+2016	486140	7 Mara Place	23/07/2016	09/09/2016	28/06/2016	$672,000	987m	Full transfer	4	1	1	-	2	$672,000	25	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.64
+2016	498779	6 Alawa Street	26/11/2016	02/03/2017	10/11/2016	$669,000	849m	Full transfer	3	2	-	1	0	$669,000	16	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.59
+2016	491618	17 Gamor Street	13/08/2016	29/11/2016	05/07/2016	$655,000	833m	Full transfer	3	1	1	-	1	$655,000	39	-	Combined Record	139	-	-	Single residential dwelling	$396,000	0.6
+2016	500745	21 Galibal Street	08/10/2016	14/03/2017	15/09/2016	$655,000	828m	Full transfer	3	1	0	2	0	$655,000	23	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.6
+2016	484918	50 Galibal Street	06/07/2016	19/08/2016	16/06/2016	$645,000	794m	Full transfer	3	1	-	3	0	$645,000	20	-	Combined Record	145	-	-	Single residential dwelling	$388,000	0.6
+2016	483050	56 Badimara Street	08/04/2016	09/08/2016	09/03/2016	$640,000	1043m	Full transfer	4	2	-	2	1	$640,000	30	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.55
+2016	478686	34 Nemarang Crescent	16/04/2016	26/05/2016	15/03/2016	$625,000	723m	Full transfer	3	1	-	1	-	$625,000	32	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.52
+2016	475708	39 Nemarang Crescent	06/02/2016	13/04/2016	11/01/2016	$597,500	779m	Full transfer	3	1	-	4	-	$597,500	26	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.56
+2016	477481	120 Badimara Street	24/03/2016	11/05/2016	18/02/2016	$595,000	985m	Full transfer	3	2	-	1	-	$595,000	35	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.58
+2016	493915	32 Malara Street	17/09/2016	19/12/2016	24/08/2016	$590,000	865m	Full transfer	3	1	-	-	1	$590,000	24	-	Combined Record	106	-	-	Single residential dwelling	$395,000	0.67
+2016	475710	19 Wambaya Crescent	28/01/2016	11/04/2016	01/12/2015	$590,000	694m	Full transfer	3	1	-	2	-	$590,000	58	-	Combined Record	-	-	-	Single residential dwelling...	$374,000	0.63
+2016	477503	2/12 Alawa Street	24/03/2016	13/05/2016	03/02/2016	$575,000	1849m	Full transfer	3	1	1	2	-	$575,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	479408	54 Alawa Street	27/04/2016	10/06/2016	08/04/2016	$571,000	945m	Full transfer	3	1	-	2	-	$571,000	19	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.73
+2016	475863	7 Birbai Place	13/02/2016	18/04/2016	14/01/2016	$547,500	650m	Full transfer	3	1	0	0	2	$547,500	30	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.65
+2016	489381	15 Yiman Street	23/08/2016	17/10/2016	22/06/2016	$547,500	725m	Full transfer	4	1	0	2	0	$547,500	62	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.69
+2016	479809	34 Waramanga Place	01/07/2016	-	01/05/2016	$536,000	223m	Full transfer	4	1	1	-	1	$536,000	61	-	Allhomes Record	-	-	-	-	$254,000	0.47
+2016	482369	142 Nemarang Crescent	21/05/2016	28/07/2016	28/04/2016	$535,000	726m	Full transfer	3	1	0	1	1	$535,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.69
+2016	477491	36 Nangor Street	29/02/2016	10/05/2016	01/02/2016	$530,000	704m	Full transfer	3	1	-	1	-	$530,000	28	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.65
+2016	489025	1 Larakia Street	09/07/2016	28/10/2016	31/05/2016	$515,000	1095m	Full transfer	3	1	-	2	-	$515,000	39	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.65
+2016	477992	32 Wambaya Crescent	07/04/2016	18/05/2016	11/11/2015	$510,000	1102m	Full transfer	2	1	-	2	2	$510,000	148	-	Combined Record	95	-	-	Single residential dwelling	$357,000	0.7
+2016	497198	1/35A Woralul Street	05/10/2016	07/02/2017	-	$505,000	821m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486038	35A Woralul Street	05/10/2016	-	15/09/2016	$505,000	0m	Full transfer	3	1	-	0	1	$505,000	20	-	Allhomes Record	-	-	-	-	$427,000	0.85
+2016	474044	14 Nangor Street	12/04/2016	-	08/03/2016	$476,000	694m	Full transfer	-	-	-	-	-	$476,000	35	-	Allhomes Record	-	-	-	-	$340,000	0.71
+2016	472170	10 Waramanga Place	18/01/2016	22/02/2016	22/12/2015	$410,000	226m	Full transfer	3	1	1	-	1	$410,000	27	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.62
+2016	474145	100 Nemarang Crescent	15/04/2016	-	16/12/2015	$400,000	-	Full transfer	3	1	-	1	-	$400,000	121	-	Allhomes Record	-	-	-	-	$378,000	0.95
+2016	477991	2/22 Larakia Street	11/03/2016	16/05/2016	-	$380,000	775m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472078	22 Larakia Street	11/03/2016	-	12/11/2015	$380,000	-	Full transfer	2	1	-	2	-	$380,000	120	-	Allhomes Record	85	-	-	-	$692,000	1.82
+2016	476998	28/24 Damala Street	18/03/2016	05/05/2016	29/02/2016	$375,000	10266m	Full transfer	2	1	-	-	1	$375,000	18	-	Combined Record	79	-	-	Multiple unit dwelling	-	-
+2016	495841	13/24 Damala Street	17/10/2016	04/01/2017	15/06/2016	$351,000	10266m	Full transfer	2	1	0	0	1	$351,000	124	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	498467	2/37 Larakia Street	22/12/2016	14/02/2017	25/10/2016	$325,000	885m	Full transfer	1	1	-	-	1	$325,000	58	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	480174	2/100 Nemarang Crescent	19/04/2016	16/06/2016	-	$280,000	874m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474340	58 Yiman Street	19/04/2016	-	16/12/2015	$280,000	-	Full transfer	1	1	-	-	1	$280,000	125	-	Allhomes Record	-	-	-	-	$378,000	1.35
+2016	479417	4/1 Waramanga Place	16/04/2016	06/06/2016	-	$100,000	322m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2016	479930	28 Malara Street	07/06/2016	21/06/2016	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515627	38 Yanda Street	26/11/2016	17/07/2017	-	$0	684m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	577154	10 Birbai Place	06/06/2016	16/12/2019	-	$0	1159m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481228	28 Malara Street	04/07/2016	13/07/2016	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500116	2 Bolali Place	09/05/2016	08/03/2017	-	$0	1013m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	551387	8 Warrai Place	05/10/2016	15/11/2018	-	$0	819m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484461	4 Iora Place	20/04/2016	18/08/2016	-	$0	681m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478701	24 Gamor Street	04/03/2016	23/05/2016	-	$0	1145m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487314	29 Larakia Street	03/07/2016	19/09/2016	-	$0	784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492543	12 Waramanga Place	23/08/2016	12/12/2016	-	$0	339m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475718	31 Adinda Street	03/03/2016	13/04/2016	-	$0	673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487509	7 Yiman Street	13/05/2016	27/09/2016	-	$0	1222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496839	106 Nemarang Crescent	28/11/2016	06/02/2017	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475852	44 Adinda Street	06/01/2016	21/04/2016	-	$0	1146m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491351	3 Iora Place	07/09/2016	24/11/2016	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484216	24 Nemarang Crescent	25/06/2016	19/08/2016	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475717	28/24 Damala Street	23/01/2016	12/04/2016	-	$0	10266m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493270	34 Malara Street	18/08/2016	09/12/2016	-	$0	782m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488078	25 Yiman Street	18/07/2016	11/10/2016	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486732	64 Nemarang Crescent	16/07/2016	13/09/2016	-	$0	837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477994	48 Adinda Street	19/02/2016	16/05/2016	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481017	20 Nangor Street	17/03/2016	07/07/2016	-	$0	704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526885	26 Yiman Street	30/11/2017	11/03/2018	09/11/2017	$1,000,000	714m	Partial transfer	4	2	-	2	1	$1,000,000	21	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.38
+2017	524490	106 Badimara Street	11/11/2017	02/02/2018	13/12/2017	$860,000	1093m	Full transfer	5	3	-	2	0	$860,000	-	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.42
+2017	521071	15 Tiwi Place	07/12/2017	07/12/2017	-	$850,000	1130m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512801	44 Garanya Street	25/03/2017	25/05/2017	02/03/2017	$780,000	892m	Full transfer	4	2	-	2	0	$780,000	23	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.49
+2017	519238	22 Woralul Street	29/07/2017	13/10/2017	29/06/2017	$760,000	902m	Full transfer	4	2	-	0	2	$760,000	30	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.48
+2017	510184	22 Nagara Street	02/12/2017	-	09/11/2017	$760,000	-	Full transfer	4	2	0	2	0	$760,000	23	-	Allhomes Record	-	-	-	-	$349,000	0.46
+2017	515184	7 Yiman Street	08/04/2017	11/07/2017	16/03/2017	$751,000	1222m	Full transfer	4	2	-	0	2	$751,000	23	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.56
+2017	524728	10 Warrai Place	30/11/2017	01/02/2018	-	$750,000	1174m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509075	25 Yanda Street	01/11/2017	-	19/10/2017	$735,000	0m	Full transfer	3	1	-	2	0	$735,000	13	-	Allhomes Record	-	-	-	-	$400,000	0.54
+2017	521782	50 Galibal Street	10/09/2017	21/12/2017	11/08/2017	$727,500	794m	Full transfer	3	1	-	3	-	$727,500	30	-	Combined Record	125	-	-	Single residential dwelling	$393,000	0.54
+2017	526148	36 Galibal Street	09/12/2017	01/03/2018	16/11/2017	$727,500	845m	Full transfer	4	2	-	1	0	$727,500	23	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.55
+2017	504918	14 Nemarang Crescent	25/03/2017	02/05/2017	02/03/2017	$715,000	785m	Full transfer	4	1	1	1	1	$715,000	23	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.46
+2017	517700	47 Nangor Street	21/06/2017	21/08/2017	04/04/2017	$710,000	712m	Full transfer	4	2	-	-	1	$710,000	78	-	Combined Record	175	-	-	Single residential dwelling	$375,000	0.53
+2017	526289	19 Alawa Street	27/09/2017	28/02/2018	-	$690,000	707m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512274	27 Woralul Street	17/03/2017	16/05/2017	13/02/2017	$690,000	679m	Full transfer	4	1	1	1	-	$690,000	32	-	Combined Record	173	-	-	Single residential dwelling	$363,000	0.53
+2017	503551	7 Goa Place	11/02/2017	26/04/2017	19/01/2017	$685,000	962m	Full transfer	4	2	-	2	0	$685,000	23	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.61
+2017	521130	134 Badimara Street	21/08/2017	07/12/2017	08/01/2016	$680,000	951m	Full transfer	5	2	-	2	-	$680,000	591	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.51
+2017	512732	136 Badimara Street	25/03/2017	25/05/2017	02/03/2017	$676,000	940m	Full transfer	3	1	-	0	1	$676,000	23	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.52
+2017	502943	37 Nemarang Crescent	04/03/2017	11/04/2017	09/02/2017	$672,000	899m	Full transfer	3	1	-	2	0	$672,000	23	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.51
+2017	518179	38 Yanda Street	24/06/2017	28/08/2017	01/06/2017	$663,000	684m	Full transfer	3	1	-	1	0	$663,000	23	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.55
+2017	497436	123 Nemarang Crescent	18/01/2017	20/02/2017	24/11/2016	$660,000	813m	Full transfer	4	2	-	2	0	$660,000	55	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.61
+2017	512498	10 Yanda Street	25/03/2017	11/05/2017	02/03/2017	$650,000	840m	Full transfer	3	1	-	1	0	$650,000	23	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.59
+2017	512293	5 Malara Street	13/04/2017	19/05/2017	02/02/2017	$650,000	739m	Full transfer	4	1	0	0	2	$650,000	70	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.55
+2017	503252	28 Nemarang Crescent	25/02/2017	07/04/2017	30/01/2017	$640,000	817m	Full transfer	3	1	1	1	-	$640,000	26	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.53
+2017	517245	21 Alawa Street	24/06/2017	16/08/2017	09/06/2017	$626,000	725m	Full transfer	4	1	-	2	-	$626,000	15	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.6
+2017	523953	59 Nangor Street	06/11/2017	24/01/2018	-	$625,000	1235m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514334	68 Nemarang Crescent	11/05/2017	05/07/2017	14/03/2017	$620,000	874m	Full transfer	3	1	-	1	0	$620,000	58	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.55
+2017	507370	16 Nemarang Crescent	26/08/2017	-	03/08/2017	$613,000	0m	Full transfer	3	1	-	0	2	$613,000	23	-	Allhomes Record	-	-	-	-	$326,000	0.53
+2017	512905	12 Warrai Place	22/05/2017	22/05/2017	-	$600,000	1274m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496517	12 Warrai Place	07/03/2017	-	09/02/2017	$600,000	1277m	Full transfer	-	-	-	-	-	$600,000	26	-	Allhomes Record	-	-	-	-	$545,000	0.91
+2017	510149	20 Adinda Street	01/12/2017	-	09/11/2017	$580,000	0m	Full transfer	3	1	-	0	2	$580,000	22	-	Allhomes Record	-	-	-	-	$357,000	0.62
+2017	496516	48 Gamor Street	07/03/2017	-	09/02/2017	$580,000	796m	Full transfer	-	-	-	-	-	$580,000	26	-	Allhomes Record	-	-	-	-	$520,000	0.9
+2017	501980	36 Larakia Street	07/04/2017	-	09/02/2017	$580,000	752m	Full transfer	-	-	-	-	-	$580,000	57	-	Allhomes Record	-	-	-	-	$335,000	0.58
+2017	515881	107 Nemarang Crescent	05/06/2017	27/07/2017	02/05/2017	$580,000	821m	Full transfer	3	1	-	-	1	$580,000	34	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.68
+2017	528459	41 Woralul Street	30/11/2017	22/03/2018	21/09/2017	$575,000	634m	Full transfer	3	1	-	0	2	$575,000	70	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.63
+2017	514199	6 Woralul Street	22/04/2017	27/06/2017	30/03/2017	$555,000	929m	Full transfer	3	1	0	2	0	$555,000	23	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.72
+2017	519016	50 Badimara Street	05/10/2017	05/10/2017	21/04/2017	$555,000	874m	Full transfer	-	-	-	-	-	$555,000	167	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.61
+2017	523841	24 Larakia Street	14/12/2017	25/01/2018	-	$550,000	764m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502385	13 Tiwi Place	18/04/2017	18/04/2017	09/02/2017	$550,000	847m	Full transfer	-	-	-	-	-	$550,000	68	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.9
+2017	514108	31 Larakia Street	27/06/2017	27/06/2017	21/04/2017	$550,000	813m	Full transfer	-	-	-	-	-	$550,000	67	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.62
+2017	512059	32 Gamor Street	19/05/2017	19/05/2017	09/02/2017	$545,000	835m	Full transfer	-	-	-	-	-	$545,000	99	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.9
+2017	503890	20 Yanda Street	24/04/2017	24/04/2017	09/02/2017	$540,000	755m	Full transfer	-	-	-	-	-	$540,000	74	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.9
+2017	512253	36 Larakia Street	19/05/2017	19/05/2017	-	$533,000	755m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516032	30 Larakia Street	24/07/2017	24/07/2017	-	$530,000	815m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504313	30 Larakia Street	23/05/2017	-	21/04/2017	$530,000	809m	Full transfer	-	-	-	-	-	$530,000	32	-	Allhomes Record	-	-	-	-	$363,000	0.68
+2017	513988	12 Yanda Street	22/06/2017	22/06/2017	21/04/2017	$530,000	781m	Full transfer	-	-	-	-	-	$530,000	62	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.68
+2017	519154	15 Malara Street	09/10/2017	09/10/2017	-	$507,500	682m	Full transfer	-	-	-	-	-	$507,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506965	15 Malara Street	08/08/2017	-	07/07/2017	$507,500	0m	Full transfer	-	-	-	-	-	$507,500	32	-	Allhomes Record	-	-	-	-	$363,000	0.72
+2017	518761	40 Badimara Street	28/09/2017	28/09/2017	-	$500,000	792m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506196	40 Badimara Street	30/06/2017	-	21/04/2017	$500,000	790m	Full transfer	-	-	-	-	-	$500,000	70	-	Allhomes Record	-	-	-	-	$338,000	0.68
+2017	520567	9/93 Nemarang Crescent	08/09/2017	10/11/2017	01/08/2017	$475,000	2435m	Full transfer	2	1	-	1	-	$475,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$1,700,000	3.58
+2017	525783	12/93 Nemarang Crescent	01/12/2017	15/02/2018	-	$470,000	2435m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510156	12/93 Nemerang Crescent	01/12/2017	-	19/10/2017	$470,000	0m	Full transfer	2	1	-	1	-	$470,000	43	-	Allhomes Record	-	-	-	-	$331,000	0.7
+2017	520648	135 Nemarang Crescent	07/11/2017	08/11/2017	-	$450,000	1214m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500988	6/24 Damala Street	14/02/2017	30/03/2017	18/01/2017	$435,999	10266m	Full transfer	3	1	-	0	1	$435,999	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	497020	47 Woralul Street	15/01/2017	09/02/2017	-	$413,333	706m	Full transfer	-	-	-	-	-	$413,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526782	12/24 Damala Street	14/12/2017	05/03/2018	10/10/2017	$380,000	10266m	Full transfer	2	1	-	1	0	$380,000	65	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	506063	11/16 Damala Street	30/06/2017	-	16/01/2017	$367,500	145m	Full transfer	2	1	-	-	1	$367,500	165	-	Allhomes Record	79	-	-	-	-	-
+2017	577401	            11/16 Damala St	13/06/2017	-	15/01/2020	$367,500	145m	Full transfer	2	1	-	-	1	$367,500	-	-	Allhomes Record	-	-	-	-	-	-
+2017	507677	6 Wambaya Crescent	06/09/2017	-	25/12/2016	$350,000	751m	Full transfer	2	1	-	0	1	$350,000	255	-	Allhomes Record	88	-	-	-	$439,000	1.25
+2017	577395	6 Wambaya Crescent	24/08/2017	-	15/01/2020	$350,000	0m	Full transfer	2	1	-	-	1	$350,000	-	-	Allhomes Record	-	-	-	-	$439,000	1.25
+2017	522512	24/16 Damala Street	17/10/2017	10/01/2018	05/09/2017	$350,000	7345m	Full transfer	2	1	-	1	0	$350,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	501479	6/16 Damala Street	31/01/2017	24/03/2017	04/08/2016	$342,000	7345m	Full transfer	2	1	-	0	1	$342,000	180	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512984	1/93 Nemarang Crescent	11/04/2017	22/05/2017	19/05/2016	$332,000	2435m	Full transfer	1	1	0	1	0	$332,000	327	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	514692	31 Dalabon Crescent	08/05/2017	05/07/2017	-	$330,000	693m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	577405	6A Wambaya Crescent	24/08/2017	-	15/01/2020	$270,000	0m	Full transfer	1	1	-	1	-	$270,000	-	-	Allhomes Record	-	-	-	-	$439,000	1.63
+2017	507685	6A Wambaya Crescent	06/09/2017	-	25/12/2016	$270,000	751m	Full transfer	1	1	-	0	1	$270,000	255	-	Allhomes Record	56	-	-	-	$439,000	1.63
+2017	521840	11 Wambaya Crescent	23/08/2017	05/01/2018	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514274	2 Tiwi Place	11/05/2017	27/06/2017	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	540317	8 Nanda Place	24/01/2017	20/08/2018	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	553185	6 Mara Place	18/03/2017	04/02/2019	-	$0	1180m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520538	2 Garanya Street	05/10/2017	08/11/2017	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519324	9 Alura Place	02/06/2017	11/10/2017	-	$0	1005m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517731	2 Manu Place	05/05/2017	29/08/2017	-	$0	805m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520537	10 Warrai Place	27/04/2017	09/11/2017	-	$0	1174m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515042	53 Yiman Street	02/06/2017	03/07/2017	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513067	8 Nagara Street	08/05/2017	07/06/2017	-	$0	704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548464	42 Garanya Street	10/12/2017	20/12/2018	-	$0	691m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552387	38 Yiman Street	03/11/2018	21/01/2019	11/10/2018	$1,225,000	694m	Full transfer	4	3	-	2	-	$1,225,000	23	-	Combined Record	297	-	-	Single residential dwelling	$372,000	0.3
+2018	544154	5 Gabi Place	28/10/2018	-	20/09/2018	$995,000	0m	Full transfer	4	2	-	1	0	$995,000	38	-	Allhomes Record	-	-	-	-	$432,000	0.43
+2018	547401	9 Tiwi Place	27/09/2018	19/11/2018	03/09/2018	$955,000	689m	Full transfer	4	3	-	3	-	$955,000	24	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.41
+2018	546869	73 Nangor Street	16/05/2018	28/11/2018	19/03/2018	$890,000	774m	Full transfer	4	2	-	2	0	$890,000	58	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.41
+2018	543358	26 Nemarang Crescent	16/08/2018	05/10/2018	09/08/2018	$850,000	840m	Full transfer	3	2	-	2	-	$850,000	7	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.41
+2018	537410	5 Yiman Street	21/04/2018	09/07/2018	22/03/2018	$818,000	858m	Full transfer	7	4	-	2	0	$818,000	30	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.5
+2018	549181	12 Nagara Street	16/06/2018	24/12/2018	24/05/2018	$780,500	923m	Full transfer	4	2	-	2	1	$780,500	23	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.53
+2018	546861	            1/36 Larakia Street	08/10/2018	28/11/2018	-	$775,000	755m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542628	1/36 Larakia Street	13/09/2018	-	30/08/2018	$775,000	0m	Full transfer	4	2	-	1	1	$775,000	14	-	Allhomes Record	-	-	-	-	$533,000	0.69
+2018	532648	70 Badimara Street	08/03/2018	15/05/2018	27/11/2017	$756,000	761m	Full transfer	4	1	2	-	2	$756,000	101	-	Combined Record	198	-	-	Single residential dwelling	$339,000	0.45
+2018	550292	36 Galibal Street	06/11/2018	11/12/2018	06/09/2018	$750,000	845m	Full transfer	4	2	-	2	0	$750,000	61	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.55
+2018	530946	54 Nangor Street	10/02/2018	22/04/2018	18/01/2018	$746,000	706m	Full transfer	4	2	-	1	1	$746,000	23	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.48
+2018	552813	15 Garanya Street	19/12/2018	06/02/2019	23/11/2018	$742,000	732m	Full transfer	5	2	-	0	1	$742,000	26	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.52
+2018	528272	16 Tiwi Place	22/01/2018	23/03/2018	09/11/2017	$740,000	926m	Full transfer	4	2	-	0	2	$740,000	74	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.49
+2018	561605	18 Adinda Street	08/12/2018	05/02/2019	15/11/2018	$732,000	697m	Full transfer	4	2	-	0	1	$732,000	23	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.49
+2018	538299	114 Nemarang Crescent	01/06/2018	26/07/2018	04/04/2018	$725,500	813m	Full transfer	4	2	-	3	-	$725,500	58	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.54
+2018	560781	8 Badimara Street	15/12/2018	20/02/2019	22/11/2018	$722,500	762m	Full transfer	3	2	-	-	1	$722,500	23	-	Combined Record	190	-	-	Single residential dwelling	$339,000	0.47
+2018	554220	34 Nemarang Crescent	10/11/2018	26/02/2019	11/10/2018	$720,000	723m	Full transfer	3	1	-	1	0	$720,000	30	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.47
+2018	550907	32 Nangor Street	07/11/2018	10/01/2019	11/10/2018	$717,000	715m	Full transfer	3	1	-	2	0	$717,000	27	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.5
+2018	549772	61 Nangor Street	03/11/2018	17/12/2018	02/10/2018	$711,000	1050m	Full transfer	4	1	-	1	1	$711,000	32	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.61
+2018	538461	56 Gamor Street	16/05/2018	26/07/2018	19/04/2018	$707,000	868m	Full transfer	3	1	-	1	1	$707,000	27	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.53
+2018	552284	30 Malara Street	28/09/2018	25/01/2019	22/08/2018	$704,000	865m	Full transfer	6	1	1	2	-	$704,000	37	-	Combined Record	268	-	-	Single residential dwelling	$350,000	0.5
+2018	547377	3 Dalabon Crescent	06/10/2018	22/11/2018	13/09/2018	$695,000	638m	Full transfer	3	1	-	0	1	$695,000	23	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.5
+2018	533579	26 Yanda Street	20/03/2018	27/05/2018	01/03/2018	$677,000	702m	Full transfer	3	1	-	3	0	$677,000	19	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.57
+2018	550810	11 Adinda Street	17/11/2018	09/01/2019	25/10/2018	$675,000	714m	Full transfer	3	1	-	1	0	$675,000	23	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.57
+2018	528519	67 Nangor Street	08/01/2018	25/03/2018	29/11/2017	$660,000	813m	Full transfer	3	1	1	2	0	$660,000	40	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.6
+2018	549237	10 Woralul Street	06/10/2018	07/12/2018	-	$657,000	910m	Full transfer	-	-	-	-	-	$657,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530257	108 Nemarang Crescent	14/02/2018	11/04/2018	31/01/2018	$656,000	755m	Full transfer	3	1	-	2	-	$656,000	14	-	Combined Record	106	-	-	Single residential dwelling	$372,000	0.57
+2018	541182	3/25 Damala Street	04/07/2018	07/09/2018	13/06/2018	$645,000	2912m	Full transfer	3	2	-	1	0	$645,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	525139	12 Yambina Crescent	19/02/2018	-	18/01/2018	$640,000	0m	Full transfer	3	1	-	1	-	$640,000	32	-	Allhomes Record	-	-	-	-	$350,000	0.55
+2018	538739	4 Badimara Street	09/08/2018	-	29/11/2017	$630,000	-	Full transfer	3	2	-	-	2	$630,000	253	-	Allhomes Record	-	-	-	-	$339,000	0.54
+2018	547934	4A Badimara Street	09/08/2018	23/10/2018	-	$630,000	756m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538471	4 Nemarang Crescent	30/05/2018	24/07/2018	26/04/2018	$630,000	662m	Full transfer	3	1	-	1	-	$630,000	34	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.55
+2018	535819	31 Adinda Street	01/05/2018	24/06/2018	04/04/2018	$621,000	673m	Full transfer	3	1	1	-	3	$621,000	27	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.58
+2018	551953	2/25 Damala Street	10/12/2018	31/01/2019	05/10/2018	$620,000	2912m	Full transfer	3	2	-	1	-	$620,000	66	-	Combined Record	152	-	-	Multiple unit dwelling	$1,900,000	3.06
+2018	543927	44 Woralul Street	13/08/2018	09/10/2018	09/08/2018	$600,000	694m	Full transfer	3	1	-	2	1	$600,000	4	-	Combined Record	0	-	-	Single residential dwelling	$358,000	0.6
+2018	533864	            2/8 Woralul Street	19/04/2018	31/05/2018	-	$570,000	910m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	529965	8B Woralul Street	19/04/2018	-	24/01/2018	$570,000	-	Full transfer	3	1	1	2	-	$570,000	85	-	Allhomes Record	-	-	-	-	$467,000	0.82
+2018	526117	17 Larakia Street	06/03/2018	-	07/02/2018	$555,000	753m	Full transfer	3	1	-	0	1	$555,000	27	-	Allhomes Record	-	-	-	-	$339,000	0.61
+2018	538947	22 Nemarang Crescent	03/08/2018	03/08/2018	-	$550,000	894m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533103	22 Nemarang Crescent	04/06/2018	-	12/10/2017	$550,000	891m	Full transfer	-	-	-	-	-	$550,000	235	-	Allhomes Record	-	-	-	-	$346,000	0.63
+2018	542531	6 Dalabon Crescent	05/10/2018	-	09/02/2017	$525,000	777m	Full transfer	-	-	-	-	-	$525,000	603	-	Allhomes Record	-	-	-	-	$340,000	0.65
+2018	547637	1/8 Woralul Street	10/10/2018	29/11/2018	28/08/2018	$495,000	910m	Full transfer	3	1	-	-	1	$495,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	543635	3/93 Nemarang Crescent	30/07/2018	09/10/2018	-	$490,000	2435m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544143	14 Badimara Street	24/10/2018	-	21/04/2017	$480,000	689m	Full transfer	-	-	-	-	-	$480,000	551	-	Allhomes Record	-	-	-	-	$317,000	0.66
+2018	542895	2/93 Nemarang Crescent	06/08/2018	24/09/2018	16/02/2018	$462,000	2435m	Full transfer	2	1	-	1	0	$462,000	171	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	540258	8/93 Nemarang Crescent	26/06/2018	21/08/2018	08/02/2018	$455,000	2435m	Full transfer	2	1	-	2	0	$455,000	138	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	535629	7/24 Damala Street	03/05/2018	24/06/2018	21/03/2018	$388,000	10266m	Full transfer	2	1	-	-	1	$388,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	542132	15/24 Damala Street	31/07/2018	18/09/2018	13/06/2018	$381,000	10266m	Full transfer	2	1	-	0	1	$381,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551290	25/24 Damala Street	09/11/2018	10/01/2019	11/10/2018	$377,500	10266m	Full transfer	2	1	-	1	0	$377,500	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534962	18 Yiman Street	19/03/2018	12/06/2018	-	$375,000	744m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549499	52 Gamor Street	25/08/2018	30/10/2018	-	$0	761m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537463	46 Woralul Street	29/05/2018	12/07/2018	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550781	18/24 Damala Street	03/08/2018	10/01/2019	-	$0	10266m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549167	12 Nagara Street	15/06/2018	24/12/2018	-	$0	923m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543919	122 Nemarang Crescent	12/06/2018	09/10/2018	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544542	61 Nangor Street	16/05/2018	15/10/2018	-	$0	1050m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551708	3 Adinda Street	07/08/2018	09/01/2019	-	$0	1116m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	570114	23 Dalabon Crescent	14/07/2018	18/09/2019	-	$0	671m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544363	23 Galibal Street	19/06/2018	19/10/2018	-	$0	778m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539403	44 Woralul Street	08/05/2018	09/08/2018	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549193	40 Wambaya Crescent	10/09/2018	04/12/2018	-	$0	884m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527658	4 Wambaya Crescent	01/01/2018	15/03/2018	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549359	40 Gamor Street	13/07/2018	08/11/2018	-	$0	849m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555219	4 Yanda Street	08/09/2018	13/03/2019	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542510	10 Woralul Street	08/10/2018	-	13/09/2018	-	0m	Full transfer	3	1	-	2	1	-	25	-	Allhomes Record	-	-	-	-	$410,000	-
+2019	573628	15 Gamor Street	12/09/2019	08/11/2019	05/09/2019	$880,000	833m	Full transfer	4	3	-	1	0	$880,000	7	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.47
+2019	560718	106 Nemarang Crescent	11/02/2019	02/05/2019	23/01/2019	$840,500	790m	Full transfer	4	2	-	0	2	$840,500	19	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.44
+2019	573997	3 Adinda Street	02/12/2019	-	05/09/2019	$807,000	0m	Full transfer	5	3	-	1	1	$807,000	88	-	Allhomes Record	-	-	-	-	$473,000	0.59
+2019	576086	            1/31 Larakia Street	21/10/2019	04/12/2019	-	$800,000	813m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567897	            2/31 Larakia Street	19/06/2019	19/08/2019	-	$800,000	813m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573951	14 Alawa Street	30/11/2019	-	07/11/2019	$800,000	1657m	Full transfer	4	2	-	1	0	$800,000	23	-	Allhomes Record	-	-	-	-	$473,000	0.59
+2019	573400	31 Larakia Street	21/11/2019	-	21/03/2019	$800,000	406m	Full transfer	4	1	1	2	-	$800,000	245	-	Allhomes Record	-	-	-	-	$507,000	0.63
+2019	561041	6 Bolali Place	16/03/2019	03/05/2019	13/02/2019	$795,000	1106m	Full transfer	5	3	-	1	0	$795,000	31	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.54
+2019	559358	40 Garanya Street	14/02/2019	13/05/2019	30/01/2019	$770,000	696m	Full transfer	4	2	-	0	2	$770,000	15	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.48
+2019	575993	9 Alawa Street	22/10/2019	06/12/2019	05/09/2019	$750,000	738m	Full transfer	4	2	-	2	2	$750,000	47	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.56
+2019	572982	70 Badimara Street	26/09/2019	29/10/2019	-	$750,000	761m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567761	19 Nangor Street	19/07/2019	23/08/2019	17/04/2019	$750,000	954m	Full transfer	4	2	-	1	-	$750,000	93	-	Combined Record	207	-	-	Single residential dwelling	$432,000	0.58
+2019	574018	            2/36 Larakia Street	03/12/2019	-	12/11/2019	$749,000	0m	Full transfer	4	2	-	1	1	$749,000	21	-	Allhomes Record	-	-	-	-	-	-
+2019	571839	29 Gamor Street	11/11/2019	-	09/10/2019	$730,000	-	Full transfer	3	1	1	3	-	$730,000	33	-	Allhomes Record	-	-	-	-	$451,000	0.62
+2019	573486	25 Malara Street	22/11/2019	-	17/07/2019	$725,000	796m	Full transfer	4	2	-	2	0	$725,000	128	-	Allhomes Record	-	-	-	-	$442,000	0.61
+2019	571734	2 Nemarang Crescent	09/11/2019	-	17/10/2019	$715,000	858m	Full transfer	4	3	-	2	0	$715,000	23	-	Allhomes Record	-	-	-	-	$380,000	0.53
+2019	564863	3 Algan Street	08/05/2019	12/07/2019	21/03/2019	$715,000	693m	Full transfer	4	1	-	0	1	$715,000	48	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.5
+2019	572581	24 Garanya Street	10/10/2019	25/10/2019	-	$700,000	931m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560860	126 Badimara Street	04/04/2019	29/05/2019	05/02/2019	$699,000	964m	Full transfer	4	1	-	3	2	$699,000	58	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.51
+2019	569796	72 Woralul	08/10/2019	-	09/04/2019	$698,000	897m	Full transfer	4	3	-	0	3	$698,000	182	-	Allhomes Record	-	-	-	-	$431,000	0.62
+2019	555403	8 Warrai Place	01/02/2019	13/03/2019	13/12/2018	$687,500	819m	Full transfer	3	2	-	2	-	$687,500	50	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.6
+2019	564782	2 Alura Place	01/05/2019	12/07/2019	20/02/2019	$680,000	786m	Full transfer	4	2	-	-	2	$680,000	70	-	Combined Record	140	-	-	Single residential dwelling	$403,000	0.59
+2019	573569	20 Badimara Street	15/07/2019	05/11/2019	-	$680,000	883m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556332	17 Waramanga Place	18/01/2019	29/03/2019	-	$675,000	376m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	561410	36 Yanda Street	19/03/2019	15/05/2019	22/11/2018	$670,000	684m	Full transfer	3	1	-	1	0	$670,000	117	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.56
+2019	575200	9 Dalabon Crescent	30/09/2019	27/11/2019	-	$670,000	925m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	546668	7 Warrai Place	25/01/2019	-	16/10/2018	$667,000	820m	Full transfer	3	1	1	2	-	$667,000	101	-	Allhomes Record	-	-	-	-	$403,000	0.6
+2019	559271	53 Nangor Street	29/03/2019	14/05/2019	07/03/2019	$665,000	735m	Full transfer	4	1	-	1	1	$665,000	22	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.58
+2019	565374	95 Nemarang Crescent	08/08/2019	-	04/07/2019	$649,000	0m	Full transfer	3	2	-	0	2	$649,000	35	-	Allhomes Record	-	-	-	-	$1,430,000	2.2
+2019	569965	1/95 Nemarang Crescent	08/08/2019	19/09/2019	-	$649,000	4595m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563351	30 Nangor Street	17/04/2019	24/06/2019	28/02/2019	$640,000	804m	Full transfer	3	1	-	2	0	$640,000	48	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.63
+2019	573222	23 Dalabon Crescent	14/09/2019	31/10/2019	22/08/2019	$640,000	671m	Full transfer	3	1	-	1	-	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.54
+2019	571593	139 Nemarang Crescent	06/11/2019	-	17/10/2019	$625,000	693m	Full transfer	3	1	-	1	0	$625,000	20	-	Allhomes Record	-	-	-	-	$408,000	0.65
+2019	575920	12 Larakia Street	23/10/2019	06/12/2019	02/09/2019	$620,000	835m	Full transfer	3	2	-	0	2	$620,000	51	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.66
+2019	558330	7 Woralul Street	13/02/2019	01/05/2019	26/10/2018	$620,000	744m	Full transfer	3	1	-	4	-	$620,000	110	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.62
+2019	574638	66 Woralul Street	12/10/2019	20/11/2019	19/09/2019	$616,000	693m	Full transfer	4	1	-	2	0	$616,000	23	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.66
+2019	575765	9 Birbai Place	26/09/2019	07/12/2019	05/09/2019	$602,000	721m	Full transfer	3	1	-	0	0	$602,000	21	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.7
+2019	568371	26 Larakia Street	18/07/2019	26/08/2019	28/06/2019	$595,000	747m	Full transfer	3	1	-	1	-	$595,000	20	-	Combined Record	100	-	-	Single residential dwelling	$350,000	0.59
+2019	575120	42 Garanya Street	11/12/2019	-	23/09/2019	$595,000	-	Full transfer	3	1	-	-	1	$595,000	79	-	Allhomes Record	138	-	-	-	$408,000	0.69
+2019	555392	2/7 Burara Crescent	16/02/2019	14/03/2019	17/01/2019	$592,000	807m	Full transfer	3	2	-	0	1	$592,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	556677	10 Waramanga Place	16/02/2019	05/04/2019	15/01/2019	$575,000	226m	Full transfer	3	2	-	1	0	$575,000	32	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.46
+2019	560668	24 Nemarang Crescent	21/03/2019	13/05/2019	07/01/2019	$570,000	894m	Full transfer	3	1	-	0	2	$570,000	73	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.61
+2019	571394	            18 Yanda Street	30/10/2019	-	25/09/2019	$560,000	747m	Full transfer	-	-	-	-	-	$560,000	35	-	Allhomes Record	-	-	-	-	-	-
+2019	556360	11 Woralul Street	21/02/2019	28/03/2019	23/01/2019	$550,000	719m	Full transfer	3	1	-	-	-	$550,000	29	-	Combined Record	97	-	-	Single residential dwelling...	$384,000	0.7
+2019	556653	14 Waramanga Place	08/02/2019	02/04/2019	11/10/2018	$510,000	190m	Full transfer	3	2	-	0	1	$510,000	120	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.48
+2019	552333	14 Badimara Street	22/01/2019	22/01/2019	-	$480,000	691m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562461	1/37 Larakia Street	26/04/2019	14/06/2019	14/12/2018	$470,000	885m	Full transfer	3	1	-	0	1	$470,000	133	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	574572	14/93 Nemarang Crescent	08/10/2019	20/11/2019	19/09/2019	$460,000	2435m	Full transfer	2	1	-	2	0	$460,000	19	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	569431	16 Waramanga Place	02/08/2019	10/09/2019	01/05/2019	$445,000	148m	Full transfer	2	2	-	0	1	$445,000	93	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.55
+2019	567503	4/24 Damala Street	19/07/2019	21/08/2019	17/04/2019	$417,000	10266m	Full transfer	2	1	-	0	1	$417,000	93	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	564739	11/24 Damala Street	07/06/2019	15/07/2019	20/03/2019	$400,000	10266m	Full transfer	2	1	-	0	1	$400,000	79	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	565521	18/24 Damala Street	01/07/2019	26/07/2019	-	$385,000	10266m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566570	17/24 Damala Street	08/07/2019	05/08/2019	-	$380,000	10266m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574820	30/24 Damala Street	08/10/2019	15/11/2019	-	$380,000	10266m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	557523	1/7 Waramanga Place	27/03/2019	-	25/02/2019	$240,000	0m	Full transfer	-	-	-	-	-	$240,000	30	-	Allhomes Record	-	-	-	-	$190,000	0.79
+2019	559371	1/1 Waramanga Place	02/04/2019	13/05/2019	-	$240,000	322m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2019	562897	             Ctoc1556	03/07/2019	-	26/02/2019	$10,000	-	Full transfer	-	-	-	-	-	$10,000	127	-	Allhomes Record	-	-	-	-	-	-
+2019	563185	10 Badimara Street	22/05/2019	27/06/2019	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554127	7 Warrai Place	16/01/2019	25/02/2019	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557743	31 Nemarang Crescent	15/03/2019	18/04/2019	-	$0	911m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568124	5 Nagara Street	07/06/2019	28/08/2019	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
