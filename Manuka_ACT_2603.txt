@@ -1,0 +1,15 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2007	21616	            43 Flinders Way	08/05/2007	-	08/01/2007	$960,000	1071m	Full transfer	2	1	-	-	2	$960,000	120	-	Allhomes Record	-	-	-	-	-	-
+2007	21635	            29/18 Captain Cook Crescent	20/04/2007	-	23/01/2007	$347,500	-	Full transfer	1	1	-	1	-	$347,500	87	-	Allhomes Record	-	-	-	-	-	-
+2007	22665	            56/18 Captain Cook Crescent	12/07/2007	-	12/04/2007	$347,000	-	Full transfer	1	1	-	1	-	$347,000	91	-	Allhomes Record	-	-	-	-	-	-
+2008	22961	            39/18 Captain Cook Crescent	19/09/2008	-	05/06/2008	$360,000	8580m	Full transfer	1	1	-	1	-	$360,000	106	-	Allhomes Record	-	-	-	-	-	-
+2008	22940	            41/18 Captain Cook Crescent	03/12/2008	-	23/09/2008	$350,000	8580m	Full transfer	1	1	-	1	-	$350,000	71	-	Allhomes Record	-	-	-	-	-	-
+2009	23667	            37/13-15 Sturt Avenue	18/08/2009	-	06/07/2009	$365,000	-	Full transfer	2	1	-	1	-	$365,000	43	-	Allhomes Record	-	-	-	-	-	-
+2009	23577	            38/53 McMillan Crescent	17/07/2009	-	03/07/2009	$359,100	4972m	Full transfer	2	1	-	1	-	$359,100	14	-	Allhomes Record	-	-	-	-	-	-
+2014	420994	            29 Murray Crescent	27/03/2014	-	29/08/2013	$1,200,000	564m	Full transfer	-	4	-	-	-	$1,200,000	210	-	Allhomes Record	225	-	-	-	$571,000	0.48
+2014	432323	            16 Bougainville Street	18/08/2014	-	20/12/2011	$525,000	0m	Full transfer	-	0	-	-	-	$525,000	972	-	Allhomes Record	-	-	-	-	$1,361,000	2.59
+2015	444454	            3/16 Bougainville Street	16/02/2015	-	08/12/2014	$535,000	-	Full transfer	-	0	-	-	-	$535,000	70	-	Allhomes Record	-	-	-	-	-	-
+2017	510737	28/18 Captain Cook Crescent	06/12/2017	-	13/09/2017	$360,000	8580m	Full transfer	1	1	-	1	-	$360,000	84	-	Allhomes Record	-	-	-	-	$8,227,000	22.85
+2018	529872	6 Franklin Street	10/04/2018	-	24/01/2018	$54,000	-	Full transfer	-	-	-	-	-	$54,000	76	-	Allhomes Record	-	-	-	-	$4,184,000	77.48
+2019	557029	UPSTAIRS/8 Franklin Street	17/04/2019	-	30/09/2017	$189,000	-	Full transfer	-	-	-	-	-	$189,000	564	-	Allhomes Record	-	-	-	-	$4,184,000	22.14
+2019	558951	8 Franklin Street	10/04/2019	-	07/05/2018	$49,000	-	Full transfer	-	-	-	-	-	$49,000	338	-	Allhomes Record	-	-	-	-	$4,184,000	85.39
