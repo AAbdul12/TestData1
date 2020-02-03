@@ -1,0 +1,12 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	5016	            2 Decker Place	13/12/2006	-	04/10/2006	$740,000	903m	Full transfer	4	1	1	2	-	$740,000	70	-	Allhomes Record	-	-	-	-	$218,000	0.29
+2007	21977	            24 Sparkes Close	09/11/2007	-	17/10/2007	$800,000	1051m	Full transfer	5	1	2	2	-	$800,000	23	-	Allhomes Record	-	-	-	-	-	-
+2007	21667	            44 Nicklin Crescent	10/03/2007	-	13/02/2007	$610,000	766m	Full transfer	4	1	1	2	-	$610,000	25	-	Allhomes Record	-	-	-	-	$193,000	0.32
+2007	21674	            58 Nicklin Crescent	10/03/2007	-	14/02/2007	$525,000	877m	Full transfer	4	1	1	2	-	$525,000	24	-	Allhomes Record	-	-	-	-	-	-
+2008	23108	            21A Sparkes Close	08/11/2008	-	08/10/2008	$875,000	1341m	Full transfer	5	1	2	2	-	$875,000	31	-	Allhomes Record	-	-	-	-	$284,000	0.32
+2008	22264	            2 Stopford Crescent	07/03/2008	-	16/11/2007	$655,000	903m	Full transfer	4	1	2	2	-	$655,000	112	-	Allhomes Record	-	-	-	-	$208,000	0.32
+2010	271751	            22 Stopford Crescent	25/11/2010	-	27/10/2010	$885,000	882m	Full transfer	5	2	1	2	-	$885,000	29	-	Allhomes Record	277	-	-	-	$304,000	0.34
+2011	345382	            7 Luckins Place	26/11/2011	-	26/10/2011	$950,000	1225m	Full transfer	5	2	1	2	-	$950,000	31	-	Allhomes Record	-	-	-	-	$470,000	0.49
+2011	301271	57 Nicklin Crescent	08/08/2011	-	30/06/2011	$737,500	873m	Full transfer	5	1	2	2	-	$737,500	39	-	Allhomes Record	-	-	-	-	$377,000	0.51
+2011	343432	            24/45 Stopford Crescent	11/11/2011	-	06/10/2011	$542,000	16052m	Full transfer	4	1	1	2	-	$542,000	36	-	Allhomes Record	-	-	-	-	$185,000	0.34
+2012	377874	            5 Richter Close	25/09/2012	-	13/09/2012	$685,000	949m	Full transfer	4	1	1	2	-	$685,000	12	-	Allhomes Record	-	-	-	-	$396,000	0.58
