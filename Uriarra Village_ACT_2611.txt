@@ -1,0 +1,135 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2007	261912	21 Jim Bradley Crescent	03/12/2007	21/05/2010	-	$299,900	3067m	Full transfer	-	-	-	-	-	$299,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237493	17 Ritherdon Place	03/12/2007	11/12/2008	-	$259,900	2000m	Full transfer	-	-	-	-	-	$259,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	249575	59 Jim Bradley Crescent	21/12/2007	29/10/2009	-	$220,000	1509m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	241424	79 Jim Bradley Crescent	14/11/2007	05/05/2009	-	$190,000	1394m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237519	83 Jim Bradley Crescent	15/11/2007	11/12/2008	-	$185,000	1224m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	240987	33 Jim Bradley Crescent	31/10/2007	15/12/2008	-	-	3174m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241974	13 Jim Bradley Crescent	30/09/2008	20/01/2009	-	$329,900	4313m	Full transfer	-	-	-	-	-	$329,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237521	15 Jim Bradley Crescent	23/06/2008	09/12/2008	-	$317,900	3843m	Full transfer	-	-	-	-	-	$317,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240780	43 Jim Bradley Crescent	01/08/2008	17/12/2008	-	$294,900	2251m	Full transfer	-	-	-	-	-	$294,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241973	31 Jim Bradley Crescent	19/11/2008	19/01/2009	-	$275,000	3111m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241975	4 Shirley Taylor Place	04/08/2008	22/01/2009	-	$249,900	2200m	Full transfer	-	-	-	-	-	$249,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237522	2 Sue Watt Place	11/08/2008	10/12/2008	-	$239,900	2207m	Full transfer	-	-	-	-	-	$239,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237520	61 Jim Bradley Crescent	19/05/2008	09/12/2008	-	$229,900	1492m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237617	15 Ritherdon Place	28/03/2008	08/01/2009	-	$225,000	2000m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242505	2 Jim Bradley Crescent	16/07/2008	27/01/2009	-	$225,000	2011m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242888	7 Ritherdon Place	19/03/2008	23/02/2009	-	$224,900	2154m	Full transfer	-	-	-	-	-	$224,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	250051	51 Jim Bradley Crescent	11/03/2008	24/11/2009	-	$220,000	1858m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241155	5 Kelvin Street	29/11/2008	22/12/2008	-	$185,000	1049m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240988	28 Jim Bradley Crescent	15/10/2008	17/12/2008	-	$174,950	1430m	Full transfer	-	-	-	-	-	$174,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237618	24 Jim Bradley Crescent	04/09/2008	08/01/2009	-	$169,950	1310m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	22990	             Brindabella Road	30/10/2008	-	20/09/2008	$160,000	1044m	Full transfer	-	-	-	-	-	$160,000	40	-	Allhomes Record	-	-	-	-	-	-
+2008	242504	87 Jim Bradley Crescent	24/11/2008	27/01/2009	-	$160,000	1045m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242503	87 Jim Bradley Crescent	04/03/2008	27/01/2009	-	$150,000	1045m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240986	35 Jim Bradley Crescent	13/02/2008	17/12/2008	-	-	2629m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241166	77 Jim Bradley Crescent	08/02/2008	04/01/2009	-	-	1255m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	17722	            Mountain Creek Road	12/01/2008	30/03/2008	-	-	298480m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2009	254499	65 Jim Bradley Crescent	17/12/2009	02/03/2010	-	$410,000	1394m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254500	11 Jim Bradley Crescent	25/11/2009	04/03/2010	-	$389,900	5125m	Full transfer	-	-	-	-	-	$389,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	267585	45 Jim Bradley Crescent	27/11/2009	25/06/2010	-	$279,900	2251m	Full transfer	-	-	-	-	-	$279,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251636	27 Jim Bradley Crescent	11/11/2009	07/01/2010	-	$269,900	3060m	Full transfer	-	-	-	-	-	$269,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261836	17 Jim Bradley Crescent	28/10/2009	13/05/2010	-	$269,900	2932m	Full transfer	-	-	-	-	-	$269,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248060	47 Jim Bradley Crescent	23/06/2009	18/09/2009	-	$269,900	2250m	Full transfer	-	-	-	-	-	$269,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250053	7 Sue Watt Place	11/08/2009	25/11/2009	-	$239,900	2000m	Full transfer	-	-	-	-	-	$239,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249576	8 Sue Watt Place	27/05/2009	26/10/2009	-	$239,900	2020m	Full transfer	-	-	-	-	-	$239,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238916	3 Len Ryan Street	11/02/2009	28/04/2009	-	$229,900	2100m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249577	1 Sue Watt Place	24/06/2009	30/10/2009	-	$229,900	2038m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250052	6 Sue Watt Place	21/10/2009	26/11/2009	-	$225,000	2008m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251599	4 Sue Watt Place	30/09/2009	22/12/2009	-	$225,000	2008m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250054	3 Shirley Taylor Place	23/06/2009	25/11/2009	-	$214,900	2000m	Full transfer	-	-	-	-	-	$214,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251754	5 Len Ryan Street	21/07/2009	20/01/2010	-	$209,900	2100m	Full transfer	-	-	-	-	-	$209,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249139	9 Shirley Taylor Place	11/05/2009	28/09/2009	-	$199,900	2032m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258113	6 Jim Bradley Crescent	04/04/2009	03/05/2010	-	$199,900	2071m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260644	9 Ritherdon Place	19/11/2009	04/02/2010	-	$199,900	2152m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250055	16 Lance Bates Street	16/09/2009	23/11/2009	-	$195,900	2067m	Full transfer	-	-	-	-	-	$195,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	257245	8 Jim Bradley Crescent	03/07/2009	20/04/2010	-	$195,900	2294m	Full transfer	-	-	-	-	-	$195,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254502	1 Ritherdon Place	14/10/2009	02/03/2010	-	$192,000	2027m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249793	3 Ray Donnelly Street	20/06/2009	15/11/2009	-	$189,900	1285m	Full transfer	-	-	-	-	-	$189,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245040	5 Ritherdon Place	13/05/2009	17/07/2009	-	$189,900	2341m	Full transfer	-	-	-	-	-	$189,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	279192	13 Ritherdon Place	26/08/2009	02/02/2011	-	$189,000	2000m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249887	1 Len Ryan Street	10/09/2009	16/11/2009	-	$185,000	2251m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255587	7 Ray Donnelly Street	23/09/2009	23/03/2010	-	$181,000	1840m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238915	67 Jim Bradley Crescent	06/03/2009	01/05/2009	-	$175,000	1394m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243746	85 Jim Bradley Crescent	26/02/2009	17/03/2009	-	-	1072m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243747	49 Jim Bradley Crescent	26/02/2009	17/03/2009	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243745	89 Jim Bradley Crescent	26/02/2009	17/03/2009	-	-	1019m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	286016	25 Jim Bradley Crescent	15/12/2010	10/03/2011	24/11/2010	$422,000	3060m	Full transfer	3	1	-	2	-	$422,000	21	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2010	265404	87 Jim Bradley Crescent	02/08/2010	-	07/07/2010	$420,000	-	Full transfer	3	1	1	-	-	$420,000	26	-	Allhomes Record	-	-	-	-	-	-
+2010	287936	85 Jim Bradley Crescent	15/12/2010	23/03/2011	24/11/2010	$393,000	1072m	Full transfer	3	1	-	2	-	$393,000	21	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2010	263703	19 Jim Bradley Crescent	13/04/2010	07/06/2010	-	$290,000	2998m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271587	17 Jim Bradley Crescent	19/11/2010	-	29/09/2010	$285,000	-	Full transfer	-	-	-	-	-	$285,000	51	-	Allhomes Record	-	-	-	-	-	-
+2010	285987	29 Jim Bradley Crescent	07/10/2010	18/03/2011	-	$284,000	3091m	Full transfer	-	-	-	-	-	$284,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261835	39 Jim Bradley Crescent	02/03/2010	10/05/2010	-	$279,900	2251m	Full transfer	-	-	-	-	-	$279,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270168	37 Jim Bradley Crescent	26/03/2010	27/08/2010	-	$279,900	2252m	Full transfer	-	-	-	-	-	$279,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255775	29 Jim Bradley Crescent	27/01/2010	09/04/2010	-	$273,900	3091m	Full transfer	-	-	-	-	-	$273,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279193	8 Jim Bradley Crescent	28/10/2010	01/02/2011	-	$240,000	2294m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276730	8 Shirley Taylor Place	10/05/2010	22/07/2010	-	$239,000	2387m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261913	4 Lance Bates Street	22/03/2010	18/05/2010	-	$234,900	2278m	Full transfer	-	-	-	-	-	$234,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270374	5 Shirley Taylor Place	30/06/2010	16/09/2010	-	$234,900	2000m	Full transfer	-	-	-	-	-	$234,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272804	8 Ritherdon Place	22/04/2010	28/10/2010	-	$234,900	2000m	Full transfer	-	-	-	-	-	$234,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267765	6 Shirley Taylor Place	19/05/2010	08/07/2010	-	$234,900	2200m	Full transfer	-	-	-	-	-	$234,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267586	3 Sue Watt Place	30/03/2010	25/06/2010	-	$233,900	2000m	Full transfer	-	-	-	-	-	$233,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270120	5 Sue Watt Place	16/02/2010	20/08/2010	-	$233,900	2000m	Full transfer	-	-	-	-	-	$233,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270246	10 Ritherdon Place	05/05/2010	03/09/2010	-	$229,900	2000m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270425	6 Len Ryan Street	03/08/2010	24/09/2010	-	$219,900	2064m	Full transfer	-	-	-	-	-	$219,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267588	4 Len Ryan Street	15/04/2010	23/06/2010	-	$219,900	2064m	Full transfer	-	-	-	-	-	$219,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270064	22 Ray Donnelly Street	25/06/2010	10/08/2010	-	$214,900	2032m	Full transfer	-	-	-	-	-	$214,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277700	20 Ray Donnelly Street	11/05/2010	27/01/2011	-	$214,900	2029m	Full transfer	-	-	-	-	-	$214,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255776	14 Ritherdon Place	22/02/2010	07/04/2010	-	$214,900	2095m	Full transfer	-	-	-	-	-	$214,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267587	7 Shirley Taylor Place	17/03/2010	25/06/2010	-	$209,900	2000m	Full transfer	-	-	-	-	-	$209,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270002	4 Jim Bradley Crescent	28/05/2010	27/07/2010	-	$209,900	2021m	Full transfer	-	-	-	-	-	$209,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261914	3 Ritherdon Place	01/04/2010	20/05/2010	-	$204,900	2177m	Full transfer	-	-	-	-	-	$204,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270375	7 Len Ryan Street	30/06/2010	14/09/2010	-	$204,000	2088m	Full transfer	-	-	-	-	-	$204,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254501	11 Ritherdon Place	20/01/2010	02/03/2010	-	$199,900	2000m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270247	9 Ray Donnelly Street	12/07/2010	02/09/2010	-	$199,900	1828m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267698	15 Ritherdon Place	09/04/2010	28/06/2010	-	$190,000	2000m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348731	18 Ray Donnelly Street	02/12/2011	-	17/08/2011	$540,000	-	Full transfer	4	1	1	2	-	$540,000	107	-	Allhomes Record	-	-	-	-	-	-
+2011	289421	69 Jim Bradley Crescent	12/05/2011	-	23/03/2011	$410,000	1394m	Full transfer	3	1	-	2	-	$410,000	50	-	Allhomes Record	-	-	-	-	$215,000	0.52
+2011	332651	55 Jim Bradley Crescent	24/08/2011	-	27/07/2011	$404,000	2482m	Full transfer	3	1	-	2	-	$404,000	28	-	Allhomes Record	-	-	-	-	$242,000	0.6
+2011	293451	8 Ray Donnelly Street	08/06/2011	-	12/05/2011	$261,000	-	Full transfer	4	1	-	1	-	$261,000	27	-	Allhomes Record	-	-	-	-	-	-
+2011	293452	4 Ray Donnelly Street	08/06/2011	-	11/05/2011	$255,500	-	Full transfer	3	1	-	-	-	$255,500	28	-	Allhomes Record	-	-	-	-	-	-
+2011	293453	26 Jim Bradley Crescent	08/06/2011	-	11/05/2011	$252,500	-	Full transfer	3	1	-	-	-	$252,500	28	-	Allhomes Record	-	-	-	-	-	-
+2011	341391	7 Ritherdon Place	26/10/2011	-	03/06/2011	$230,000	-	Full transfer	-	-	-	-	-	$230,000	145	-	Allhomes Record	-	-	-	-	-	-
+2011	341946	28 Jim Bradley Crescent	28/10/2011	-	12/05/2011	$220,000	1430m	Full transfer	-	-	-	-	-	$220,000	169	-	Allhomes Record	-	-	-	-	$183,000	0.83
+2011	285913	12 Ritherdon Place	28/01/2011	10/03/2011	-	$209,900	2000m	Full transfer	-	-	-	-	-	$209,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	355192	7 Len Ryan Street	15/02/2012	-	28/03/2011	$672,000	-	Full transfer	5	1	1	3	-	$672,000	324	-	Allhomes Record	-	-	-	-	-	-
+2012	375509	3 Ritherdon Place	22/08/2012	-	13/06/2012	$599,000	2177m	Full transfer	4	1	1	2	-	$599,000	70	-	Allhomes Record	-	-	-	-	$219,000	0.37
+2012	382442	69 Jim Bradley Crescent	14/12/2012	-	08/11/2012	$460,000	1394m	Full transfer	3	1	-	2	-	$460,000	36	-	Allhomes Record	-	-	-	-	$204,000	0.44
+2012	381392	85 Jim Bradley Crescent	09/11/2012	-	08/11/2012	$450,000	1072m	Full transfer	3	1	-	2	-	$450,000	1	-	Allhomes Record	-	-	-	-	-	-
+2012	364932	22 Jim Bradley Crescent	09/05/2012	-	11/04/2012	$395,000	-	Full transfer	3	1	-	2	-	$395,000	28	-	Allhomes Record	-	-	-	-	-	-
+2013	395111	5 Kelvin Street	30/04/2013	-	25/02/2013	$592,500	1044m	Full transfer	4	1	1	3	-	$592,500	64	-	Allhomes Record	-	-	-	-	$188,000	0.32
+2013	412490	73 Jim Bradley Crescent	21/11/2013	-	25/07/2013	$404,000	1213m	Full transfer	3	1	-	2	-	$404,000	119	-	Allhomes Record	-	-	-	-	$204,000	0.5
+2013	409727	30 Jim Bradley Crescent	16/10/2013	-	19/09/2013	$404,000	1430m	Full transfer	3	1	-	2	-	$404,000	27	-	Allhomes Record	-	-	-	-	$172,000	0.43
+2014	435178	24 Jim Bradley Crescent	01/10/2014	-	31/01/2014	$600,000	1310m	Full transfer	4	1	1	2	-	$600,000	243	-	Allhomes Record	-	-	-	-	$178,000	0.3
+2014	426015	25 Jim Bradley Crescent	26/06/2014	-	25/02/2014	$462,500	3060m	Full transfer	3	1	-	2	-	$462,500	121	-	Allhomes Record	-	-	-	-	$283,000	0.61
+2014	420411	81 Jim Bradley Crescent	13/03/2014	-	12/02/2014	$365,000	1394m	Full transfer	3	1	-	1	2	$365,000	29	-	Allhomes Record	-	-	-	-	$194,000	0.53
+2014	436542	3 Shirley Taylor Place	16/08/2014	30/09/2014	16/07/2014	$0	2000m	Full transfer	5	2	1	0	0	$0	31	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.53
+2015	460823	19 Jim Bradley Crescent	18/09/2015	-	28/07/2015	$730,000	2998m	Full transfer	3	1	1	2	-	$730,000	52	-	Allhomes Record	-	-	-	-	$283,000	0.39
+2015	450694	83 Jim Bradley Crescent	08/05/2015	-	01/04/2015	$637,500	1224m	Full transfer	4	1	1	2	1	$637,500	37	-	Allhomes Record	-	-	-	-	$189,000	0.3
+2015	451688	26 Jim Bradley Crescent	18/05/2015	-	26/02/2015	$350,000	0m	Full transfer	3	1	-	0	0	$350,000	81	-	Allhomes Record	-	-	-	-	$178,000	0.51
+2016	481722	7 Len Ryan Street	13/08/2016	-	13/07/2016	$735,000	2087m	Full transfer	5	1	1	3	-	$735,000	31	-	Allhomes Record	-	-	-	-	$258,000	0.35
+2016	489608	9 Shirley Taylor Place	12/11/2016	-	21/07/2016	$720,000	0m	Full transfer	4	2	-	2	0	$720,000	114	-	Allhomes Record	-	-	-	-	$270,000	0.38
+2016	494860	9 Ray Donnelly Street	17/10/2016	10/01/2017	08/09/2016	$636,000	1828m	Full transfer	3	2	-	2	0	$636,000	39	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.39
+2016	482506	11 Jim Bradley Crescent	31/03/2016	26/07/2016	-	$0	5125m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496448	8 Sue Watt Place	06/03/2017	-	10/01/2017	$740,000	2020m	Full transfer	4	2	-	2	-	$740,000	55	-	Allhomes Record	-	-	-	-	$311,000	0.42
+2017	507209	10 Ritherdon Place	17/08/2017	-	24/04/2017	$720,000	2000m	Full transfer	4	1	1	2	-	$720,000	115	-	Allhomes Record	246	-	-	-	$285,000	0.4
+2017	505267	5 Kelvin Street	03/06/2017	-	02/02/2017	$692,000	1044m	Full transfer	4	3	-	2	0	$692,000	121	-	Allhomes Record	-	-	-	-	$234,000	0.34
+2017	496094	67 Jim Bradley Crescent	23/02/2017	-	26/10/2016	$575,000	0m	Full transfer	3	2	-	1	1	$575,000	120	-	Allhomes Record	-	-	-	-	$254,000	0.44
+2017	524978	6 Ray Donnelly Street	01/12/2017	02/02/2018	-	$530,000	1397m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507479	26 Jim Bradley Crescent	29/08/2017	-	20/07/2017	$520,000	0m	Full transfer	3	1	-	0	0	$520,000	40	-	Allhomes Record	-	-	-	-	$221,000	0.43
+2017	506054	81 Jim Bradley Crescent	30/06/2017	-	01/06/2017	$488,825	1394m	Full transfer	2	1	-	1	2	$488,825	29	-	Allhomes Record	-	-	-	-	$241,000	0.49
+2018	553183	43 Jim Bradley Crescent	19/12/2018	04/02/2019	02/11/2018	$860,000	2251m	Full transfer	4	2	-	2	0	$860,000	47	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.39
+2018	555273	4 Lance Bates Street	21/12/2018	15/03/2019	08/11/2018	$785,000	2278m	Full transfer	4	2	-	2	0	$785,000	43	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.36
+2018	536512	8 Sue Watt Place	15/03/2018	01/07/2018	-	$750,000	2020m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540213	11 Jim Bradley Crescent	01/07/2018	23/08/2018	05/05/2017	$710,000	5125m	Full transfer	3	2	-	2	0	$710,000	422	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.58
+2018	535799	30 Jim Bradley Crescent	26/03/2018	18/06/2018	18/01/2018	$650,000	1430m	Full transfer	4	2	-	2	0	$650,000	67	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.33
+2018	529020	5 Ritherdon Place	02/02/2018	27/03/2018	19/10/2017	$585,000	2341m	Full transfer	2	2	-	6	0	$585,000	106	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.46
+2018	536035	49 Jim Bradley Crescent	18/04/2018	24/06/2018	22/03/2018	$560,000	1858m	Full transfer	3	1	-	2	0	$560,000	27	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.51
+2018	511175	6 Ray Donnelly Street	23/01/2018	-	07/09/2017	$530,000	-	Full transfer	3	1	-	2	-	$530,000	138	-	Allhomes Record	-	-	-	-	$228,000	0.43
+2019	571926	8 Sue Watt Place	28/08/2019	09/10/2019	15/07/2019	$785,000	2020m	Full transfer	4	1	1	2	-	$785,000	44	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.4
+2019	566721	17 Ritherdon Place	05/03/2019	06/08/2019	-	$740,000	2000m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575532	23 Jim Bradley Crescent	14/12/2019	-	21/11/2019	$637,500	3059m	Full transfer	3	1	-	2	0	$637,500	23	-	Allhomes Record	-	-	-	-	$368,000	0.58
+2019	570135	4 Sue Watt Place	21/08/2019	25/09/2019	26/07/2019	$600,000	2008m	Full transfer	3	1	-	0	0	$600,000	26	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.5
+2019	565494	73 Jim Bradley Crescent	21/05/2019	24/07/2019	28/02/2019	$570,000	1213m	Full transfer	3	1	-	2	0	$570,000	82	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.45
+2019	560648	69 Jim Bradley Crescent	11/04/2019	28/05/2019	21/01/2019	$567,000	1394m	Full transfer	3	1	-	2	0	$567,000	80	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.45
