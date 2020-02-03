@@ -1,0 +1,976 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	169133	2 Albany Street	28/09/2006	07/02/2007	-	$6,000,000	5208m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Restaurant	-	-
+2006	10405	            2/2 Albany Street	28/09/2006	07/02/2007	-	$6,000,000	5208m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Restaurant	-	-
+2006	409315	            0/2 Albany Street	28/09/2006	07/02/2007	-	$6,000,000	5208m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Restaurant	-	-
+2006	10404	            1/2 Albany Street	28/09/2006	07/02/2007	-	$6,000,000	5208m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Restaurant	-	-
+2006	168679	120 Wollongong Street	12/05/2006	05/10/2006	-	$5,000,000	7071m	Full transfer	-	-	-	-	-	$5,000,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	169774	38 Collie Street	29/09/2006	12/12/2006	-	$3,300,000	1333m	Full transfer	-	-	-	-	-	$3,300,000	-	-	Government Record	-	-	-	Shop	-	-
+2006	213294	116 Wollongong Street	08/05/2006	21/07/2006	-	$3,200,000	5436m	Full transfer	-	-	-	-	-	$3,200,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	213373	64 Collie Street	24/02/2006	15/07/2006	-	$2,035,000	1571m	Full transfer	-	-	-	-	-	$2,035,000	-	-	Government Record	-	-	-	Office	-	-
+2006	169030	1/18 Wollongong Street	19/12/2006	09/02/2007	-	$1,850,000	1486m	Full transfer	-	-	-	-	-	$1,850,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	169084	2/18 Wollongong Street	19/12/2006	09/02/2007	-	$1,850,000	1486m	Full transfer	-	-	-	-	-	$1,850,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	169107	3/18 Wollongong Street	19/12/2006	09/02/2007	-	$1,850,000	1486m	Full transfer	-	-	-	-	-	$1,850,000	-	-	Government Record	-	-	-	Personal service	-	-
+2006	169031	4/18 Wollongong Street	19/12/2006	09/02/2007	-	$1,850,000	1486m	Full transfer	-	-	-	-	-	$1,850,000	-	-	Government Record	-	-	-	Shop	-	-
+2006	37312	26 Maryborough Street	16/08/2006	22/09/2006	-	$1,650,000	3344m	Full transfer	-	-	-	-	-	$1,650,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2006	165585	14 Ipswich Street	22/11/2006	29/01/2007	-	$1,480,000	2318m	Full transfer	-	-	-	-	-	$1,480,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	37313	31 Collie Street	11/09/2006	21/09/2006	-	$1,400,000	1486m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	213377	7 Wiluna Street	03/03/2006	04/05/2006	-	$1,400,000	4164m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	213234	1 Lyell Street	07/02/2006	26/05/2006	-	$1,350,000	2031m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	33228	10 Wollongong Street	09/11/2006	28/02/2007	-	$1,350,000	1486m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Shop	-	-
+2006	119523	64 Barrier Street	19/09/2006	30/10/2006	-	$1,330,000	1674m	Full transfer	-	-	-	-	-	$1,330,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	169514	15 Kembla Street	18/09/2006	13/11/2006	-	$1,300,000	1394m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	13210	            1/39 Collie Street	11/05/2006	02/08/2006	-	$1,250,000	7262m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	202461	14 Ipswich Street	26/05/2006	04/08/2006	-	$1,250,000	2318m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213289	2/39 Collie Street	25/01/2006	15/05/2006	-	$1,237,500	7262m	Full transfer	-	-	-	-	-	$1,237,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	230612	15 Barrier Street	24/05/2006	24/04/2008	-	$1,160,000	10174m	Full transfer	-	-	-	-	-	$1,160,000	-	-	Government Record	-	-	-	Liquid fuel depot	-	-
+2006	213205	281 Canberra Avenue	06/03/2006	05/04/2006	-	$1,150,000	2174m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	169515	141 Gladstone Street	26/09/2006	14/11/2006	-	$1,000,000	2044m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	213246	48 Barrier Street	13/04/2006	27/04/2006	-	$1,000,000	1500m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	165482	40 Kembla Street	11/12/2006	02/02/2007	-	$900,000	1394m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	169102	27 Isa Street	29/09/2006	08/02/2007	-	$875,000	1951m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	14749	            46 Collie Street	24/04/2006	25/05/2006	-	$800,000	5693m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Office	-	-
+2006	120310	13 Isa Street	08/12/2006	20/04/2007	-	$784,000	1951m	Full transfer	-	-	-	-	-	$784,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	202460	20 Collie Street	16/01/2006	06/08/2006	-	$750,000	1239m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	213200	1/34 Geelong Street	29/06/2006	01/08/2006	-	$737,000	2555m	Full transfer	-	-	-	-	-	$737,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	166989	14 Geelong Street	09/06/2006	26/07/2006	-	$715,000	1219m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	120328	15 Isa Street	08/12/2006	19/04/2007	-	$676,000	1951m	Full transfer	-	-	-	-	-	$676,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	213247	10 Barrier Street	16/03/2006	02/05/2006	-	$675,000	1911m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	120163	1/133 Gladstone Street	26/02/2006	20/04/2007	-	$630,000	4497m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2006	169076	25 Isa Street	27/09/2006	08/02/2007	-	$610,000	1951m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	10412	            4/79 Wollongong Street	14/09/2006	07/02/2007	-	$592,900	1654m	Full transfer	-	-	-	-	-	$592,900	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	165386	2/8 Wiluna Street	06/12/2006	16/02/2007	-	$570,000	3330m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	213345	2/43 Tennant Street	31/03/2006	08/06/2006	-	$520,000	6840m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	34466	3/79 Wollongong Street	15/08/2006	26/09/2006	-	$510,000	1654m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	213347	1/129 Gladstone Street	06/06/2006	10/07/2006	-	$460,000	5586m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2006	165343	9 Isa Street	22/12/2006	12/02/2007	-	$450,000	697m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	35687	14/90 Barrier Street	16/11/2006	11/01/2007	-	$440,000	20917m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34731	9/171 Newcastle Street	21/02/2006	23/08/2006	-	$410,000	1655m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Industry	-	-
+2006	203400	7 Whyalla Street	28/08/2006	12/09/2006	-	$400,000	2959m	Partial transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	174	            5/79 Wollongong Street	13/09/2006	04/12/2006	-	$385,000	1654m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	213225	5/90 Barrier Street	10/05/2006	20/06/2006	-	$365,000	20917m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34032	15/90 Barrier Street	12/12/2006	20/12/2006	-	$350,000	20917m	Partial transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	35667	10/83 Gladstone Street	13/12/2006	11/01/2007	-	$330,000	2017m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Service trades	-	-
+2006	213202	2/4 Geelong Street	12/05/2006	16/06/2006	-	$330,000	2076m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	212733	1/79 Wollongong Street	28/04/2006	05/06/2006	-	$320,000	1654m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	212734	2/79 Wollongong Street	28/04/2006	05/06/2006	-	$320,000	1654m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	34316	3/65 Kembla Street	13/04/2006	27/11/2006	-	$312,000	1394m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	119660	14/90 Barrier Street	18/09/2006	30/10/2006	-	$275,000	20917m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213259	3/57 Kembla Street	02/06/2006	25/07/2006	-	$265,000	1394m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	34467	5/74 Townsville Street	14/08/2006	28/09/2006	-	$260,000	1858m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2006	213253	4/105 Newcastle Street	15/02/2006	30/03/2006	-	$250,250	26102m	Full transfer	-	-	-	-	-	$250,250	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	213281	4/60 Kembla Street	28/03/2006	31/05/2006	-	$239,710	2202m	Full transfer	-	-	-	-	-	$239,710	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	213310	4/74 Townsville Street	25/05/2006	20/07/2006	-	$235,000	1858m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2006	212740	3/60 Kembla Street	28/03/2006	31/05/2006	-	$233,505	2202m	Full transfer	-	-	-	-	-	$233,505	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	119509	4/65 Kembla Street	13/04/2006	05/11/2006	-	$218,000	1394m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	32914	7/53 Townsville Street	10/11/2006	05/12/2006	-	$205,000	1858m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2006	164860	6/196 Gladstone Street	29/08/2006	13/10/2006	-	$187,000	1858m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	119636	1/41 Townsville Street	24/08/2006	31/10/2006	-	$187,000	1858m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	9631	            9/63 Wollongong Street	18/10/2006	20/11/2006	-	$180,000	2360m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	213260	4/57 Kembla Street	15/06/2006	20/07/2006	-	$175,000	1394m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	34011	115 Gladstone Street	10/11/2006	21/12/2006	-	$170,000	2542m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2006	169085	7/61 Townsville Street	14/12/2006	09/02/2007	-	$157,500	2590m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2006	213221	12/18 Whyalla Street	16/06/2006	01/08/2006	-	$150,000	4485m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	10218	28/8 Gladstone Street	20/06/2006	11/08/2006	-	$110,000	10124m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	213271	3/83 Wollongong Street	01/06/2006	26/07/2006	-	$100,000	2230m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	213282	5/60 Kembla Street	23/03/2006	31/05/2006	-	$86,785	2202m	Full transfer	-	-	-	-	-	$86,785	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	284	            7/63 Wollongong Street	30/06/2006	29/11/2006	-	$70,000	2360m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	232753	119 Gladstone Street	29/10/2006	13/11/2007	-	$0	2766m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Warehouse	-	-
+2006	33223	14 Maryborough Street	20/10/2006	27/02/2007	-	$0	1626m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	169276	211 Newcastle Street	21/12/2006	22/02/2007	-	$0	123753m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2006	9607	            3/63 Wollongong Street	12/09/2006	15/02/2007	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	9606	            14/63 Wollongong Street	12/09/2006	15/02/2007	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	5355	8/8 Gladstone Street	06/06/2006	16/05/2007	-	$0	10124m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2006	36575	20 Isa Street	07/09/2006	07/09/2006	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2006	36576	73 Newcastle Street	13/07/2006	07/09/2006	-	-	1860m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2006	213285	52 Kembla Street	08/05/2006	22/06/2006	-	-	1394m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2006	14735	            39/63 Wollongong Street	02/05/2006	02/05/2006	-	-	2360m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2006	213342	5/51 Tennant Street	04/04/2006	28/04/2006	-	-	2322m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2006	213374	5 Tennant Street	21/03/2006	21/03/2006	-	-	4703m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office	-	-
+2006	37582	2/41 Townsville Street	10/08/2006	16/10/2006	-	-	1858m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2007	230864	189 Gladstone Street	05/07/2007	04/12/2007	30/04/2007	$6,100,000	10646m	Full transfer	-	-	-	-	-	$6,100,000	66	-	Combined Record	-	-	-	Retail	$1,649,000	0.27
+2007	232922	23 Barrier Street	30/11/2007	08/01/2008	-	$6,000,000	8272m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Service trades	-	-
+2007	36880	5 Leeton Street	18/04/2007	16/07/2007	-	$5,850,000	6328m	Full transfer	-	-	-	-	-	$5,850,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	168038	179 Gladstone Street	30/07/2007	15/10/2007	-	$5,000,000	13823m	Full transfer	-	-	-	-	-	$5,000,000	-	-	Government Record	-	-	-	Service trades	-	-
+2007	166533	110 Tennant Street	04/04/2007	22/08/2007	-	$4,100,000	3663m	Full transfer	-	-	-	-	-	$4,100,000	-	-	Government Record	-	-	-	National association office	-	-
+2007	121490	32 Barrier Street	06/06/2007	27/08/2007	-	$3,000,000	3226m	Full transfer	-	-	-	-	-	$3,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	167071	156 Gladstone Street	01/02/2007	10/04/2007	-	$2,500,000	3969m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2007	203203	76 Newcastle Street	16/02/2007	31/05/2007	-	$2,000,000	2166m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	235418	74 Collie Street	03/08/2007	12/03/2008	-	$1,908,500	5995m	Full transfer	-	-	-	-	-	$1,908,500	-	-	Government Record	-	-	-	Office	-	-
+2007	232128	75 Collie Street	09/10/2007	05/12/2007	-	$1,727,000	1471m	Full transfer	-	-	-	-	-	$1,727,000	-	-	Government Record	-	-	-	Household appliances	-	-
+2007	235154	10 Wollongong Street	04/09/2007	06/02/2008	-	$1,500,000	1486m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	166319	10 Wiluna Street	15/06/2007	31/07/2007	-	$1,350,000	2829m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	232608	5 Isa Street	28/03/2007	20/11/2007	-	$1,320,000	2648m	Full transfer	-	-	-	-	-	$1,320,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	236535	18 Pirie Street	02/07/2007	16/04/2008	-	$1,300,000	697m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	236536	20 Pirie Street	02/07/2007	16/04/2008	-	$1,300,000	697m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	37123	13 Lyell Street	01/05/2007	19/07/2007	-	$1,250,000	1998m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	164531	49 Tennant Street	05/06/2007	11/07/2007	-	$1,200,000	2196m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	166559	44 Barrier Street	18/06/2007	25/07/2007	-	$1,100,000	1467m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	166188	43 Collie Street	13/06/2007	02/08/2007	-	$1,100,000	1486m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	120728	7 Kembla Street	20/03/2007	15/05/2007	-	$1,050,000	1394m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	166873	73 Tennant Street	24/07/2007	02/08/2007	-	$1,000,000	2377m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	232427	70 Townsville Street	19/11/2007	15/01/2008	-	$1,000,000	1486m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2007	203208	61 Tennant Street	04/04/2007	01/06/2007	-	$990,000	2432m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	234298	16/65 Tennant Street	26/06/2007	11/06/2008	-	$940,500	4772m	Full transfer	-	-	-	-	-	$940,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	37053	1 Lithgow Street	22/06/2007	16/07/2007	-	$910,000	2438m	Partial transfer	-	-	-	-	-	$910,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	167788	66 Townsville Street	25/06/2007	04/10/2007	-	$860,000	1765m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2007	164740	9 Townsville Street	28/06/2007	13/07/2007	-	$855,000	1830m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	235671	11 Wiluna Street	30/05/2007	25/03/2008	-	$855,000	3571m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	232584	32 Kembla Street	12/06/2007	28/11/2007	-	$855,000	1394m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	166441	13 Wollongong Street	15/06/2007	26/07/2007	-	$800,000	1524m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	232421	3 Lyell Street	14/11/2007	18/01/2008	-	$770,000	1998m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	166872	62 Townsville Street	13/04/2007	02/08/2007	-	$765,000	1765m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2007	36471	11 Kembla Street	14/05/2007	03/07/2007	-	$750,000	1394m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Travel agency	-	-
+2007	233032	2/43 Tennant Street	31/07/2007	04/12/2007	-	$750,000	6840m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	121286	1/151 Newcastle Street	20/06/2007	12/09/2007	-	$690,000	2050m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	37136	68 Kembla Street	15/06/2007	17/07/2007	-	$690,000	1254m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	236005	13/157 Gladstone Street	27/07/2007	19/11/2007	-	$650,000	8450m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	234646	14/157 Gladstone Street	27/07/2007	19/11/2007	-	$650,000	8450m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	250513	            4/96 Newcastle Street	10/10/2007	30/11/2009	-	$643,500	8283m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	168135	5 Lyell Street	27/07/2007	17/10/2007	-	$600,000	813m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	37124	28 Isa Street	27/06/2007	20/07/2007	-	$510,000	813m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	234374	1/26 Geelong Street	04/05/2007	11/12/2007	-	$500,000	1219m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	35419	4/26 Geelong Street	03/03/2007	22/06/2007	-	$495,000	1219m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	35559	3/26 Geelong Street	03/03/2007	22/06/2007	-	$495,000	1219m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	239699	4/16 Geelong Street	06/12/2007	27/10/2008	-	$481,250	2796m	Full transfer	-	-	-	-	-	$481,250	-	-	Government Record	-	-	-	Industry	-	-
+2007	164472	3/129 Gladstone Street	31/05/2007	09/07/2007	-	$475,000	5586m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2007	237082	3/16 Geelong Street	14/12/2007	08/12/2008	-	$423,500	2796m	Full transfer	-	-	-	-	-	$423,500	-	-	Government Record	-	-	-	Industry	-	-
+2007	165014	8 Lyell Street	11/05/2007	26/06/2007	-	$420,000	813m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	121456	8/145 Gladstone Street	07/03/2007	02/05/2007	-	$396,000	8450m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	233063	8/157 Gladstone Street	24/09/2007	04/12/2007	-	$390,000	8450m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2007	164350	29/105 Newcastle Street	01/06/2007	11/07/2007	-	$371,800	26102m	Full transfer	-	-	-	-	-	$371,800	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	233325	3/57 Kembla Street	19/11/2007	13/12/2007	-	$360,000	1394m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	235917	1/171 Newcastle Street	22/08/2007	21/11/2007	-	$346,500	1655m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Industry	-	-
+2007	165947	2/157 Gladstone Street	02/07/2007	09/08/2007	-	$335,000	8450m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2007	235939	5/1 Yallourn Street	29/10/2007	25/11/2007	-	$325,000	2086m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	233003	6/8 Gladstone Street	14/11/2007	04/01/2008	-	$300,000	10124m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	164660	8/105 Newcastle Street	18/06/2007	13/07/2007	-	$265,000	26102m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	166359	1 Lithgow Street	05/07/2007	08/08/2007	-	$227,500	2438m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	230739	9/157 Gladstone Street	12/12/2007	19/02/2008	-	$225,000	8450m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Retail	-	-
+2007	121102	2/73 Collie Street	20/08/2007	12/09/2007	-	$220,000	2245m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	234481	15/171 Newcastle Street	25/09/2007	25/11/2007	-	$210,000	1655m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Industry	-	-
+2007	234402	7/49 Townsville Street	07/11/2007	13/12/2007	-	$200,000	1858m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	236059	2/57 Kembla Street	31/07/2007	18/11/2007	-	$200,000	1394m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	238185	5/43 Tennant Street	16/11/2007	07/04/2009	-	$200,000	6840m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	235891	1/57 Kembla Street	31/07/2007	18/11/2007	-	$200,000	1394m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	35036	8/61 Townsville Street	02/04/2007	06/06/2007	-	$170,000	2590m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	120495	9/200 Gladstone Street	05/04/2007	15/05/2007	-	$155,000	1858m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	120364	7/200 Gladstone Street	05/04/2007	15/05/2007	-	$155,000	1858m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	202832	4/196 Gladstone Street	26/04/2007	13/06/2007	-	$150,000	1858m	Partial transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	122070	18/105 Newcastle Street	23/08/2007	25/09/2007	-	$132,500	26102m	Full transfer	-	-	-	-	-	$132,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	120337	16/63 Wollongong Street	21/02/2007	20/04/2007	-	$115,000	2360m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2007	164661	3/83 Wollongong Street	12/06/2007	13/07/2007	-	$0	2230m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	232617	100 Barrier Street	23/10/2007	27/11/2007	-	$0	3892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2007	70471	2/41 Townsville Street	15/12/2007	08/04/2008	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2007	233533	2/49 Townsville Street	26/05/2007	28/04/2008	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2007	233532	1/49 Townsville Street	26/05/2007	28/04/2008	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	153971	40 Collie Street	18/01/2008	11/04/2008	-	$5,500,000	5414m	Full transfer	-	-	-	-	-	$5,500,000	-	-	Government Record	-	-	-	General industry	-	-
+2008	233563	26 Maryborough Street	11/01/2008	01/05/2008	-	$2,025,000	3344m	Full transfer	-	-	-	-	-	$2,025,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2008	238053	133 Newcastle Street	01/08/2008	09/09/2008	-	$2,000,000	1655m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	241344	47 Kembla Street	01/10/2008	08/05/2009	-	$1,950,000	2044m	Full transfer	-	-	-	-	-	$1,950,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	229713	11 Collie Street	20/05/2008	01/08/2008	-	$1,750,000	1502m	Full transfer	-	-	-	-	-	$1,750,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	236537	4 Ipswich Street	14/02/2008	14/04/2008	-	$1,600,000	1769m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	241899	4 Yallourn Street	19/12/2008	21/01/2009	-	$1,600,000	6194m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2008	230614	78 Townsville Street	28/02/2008	24/04/2008	-	$1,500,000	2387m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2008	242805	16 Nyrang Street	31/12/2008	05/03/2009	-	$1,155,000	8677m	Full transfer	-	-	-	-	-	$1,155,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2008	230613	68 Barrier Street	04/01/2008	23/04/2008	-	$1,150,000	1738m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	242280	10 Barrier Street	19/11/2008	06/02/2009	-	$990,000	1911m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	244937	7 Lithgow Street	30/04/2008	15/07/2009	-	$905,000	2238m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	118798	10 Barrier Street	21/11/2008	-	02/10/2008	$900,000	1911m	Full transfer	-	-	-	-	-	$900,000	50	-	Allhomes Record	-	-	-	-	$561,000	0.62
+2008	230439	13 Yallourn Street	01/07/2008	15/08/2008	-	$900,000	1323m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	240667	26 Barrier Street	13/06/2008	05/12/2008	-	$700,000	945m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	236316	8/43 Tennant Street	21/02/2008	02/04/2008	-	$700,000	6840m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	236981	27/105 Newcastle Street	28/10/2008	05/01/2009	-	$643,500	26102m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Industry	-	-
+2008	240293	2/16 Geelong Street	25/09/2008	25/11/2008	-	$632,500	2796m	Full transfer	-	-	-	-	-	$632,500	-	-	Government Record	-	-	-	Industry	-	-
+2008	22710	            UNIT27 Molonglo Mall, Newcaste Street	28/10/2008	-	02/10/2008	$585,000	-	Full transfer	-	-	-	-	-	$585,000	26	-	Allhomes Record	-	-	-	-	-	-
+2008	237825	11/145 Gladstone Street	25/06/2008	16/09/2008	-	$522,500	8450m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	22821	             Wollongong Street	03/11/2008	-	02/05/2008	$515,000	2230m	Full transfer	-	2	-	-	-	$515,000	185	-	Allhomes Record	-	-	-	-	$863,000	1.68
+2008	234297	13/65 Tennant Street	14/03/2008	12/06/2008	-	$510,000	4772m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	231830	2/26 Geelong Street	11/04/2008	30/06/2008	-	$500,000	1219m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	233994	2/129 Gladstone Street	09/05/2008	24/06/2008	-	$470,000	5586m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2008	241838	4/164 Gladstone Street	28/10/2008	20/01/2009	-	$368,500	1858m	Full transfer	-	-	-	-	-	$368,500	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2008	17612	            4/14 Kembla Street	11/06/2008	28/07/2008	-	$340,600	2799m	Full transfer	-	-	-	-	-	$340,600	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	22718	            UNIT4 164 Gladstone Street	28/10/2008	-	02/10/2008	$335,000	-	Full transfer	-	-	-	-	-	$335,000	26	-	Allhomes Record	-	-	-	-	-	-
+2008	239624	3/60 Kembla Street	13/08/2008	15/10/2008	-	$330,000	2202m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	240443	10/59 Townsville Street	13/08/2008	22/09/2008	-	$295,000	2590m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	241021	3/83 Wollongong Street	11/11/2008	23/12/2008	-	$295,000	2230m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	240444	2/51 Tennant Street	18/08/2008	24/09/2008	-	$275,000	2322m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	230714	1/83 Gladstone Street	26/02/2008	14/04/2008	-	$240,000	2017m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Service trades	-	-
+2008	237671	8/83 Wollongong Street	10/12/2008	18/02/2009	-	$236,500	2230m	Full transfer	-	-	-	-	-	$236,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	240442	1/16 Geelong Street	19/02/2008	23/09/2008	-	$231,000	2796m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Industry	-	-
+2008	237826	9/157 Gladstone Street	01/07/2008	19/09/2008	-	$227,500	8450m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Retail	-	-
+2008	241022	4/83 Wollongong Street	11/11/2008	23/12/2008	-	$220,000	2230m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	236520	2/74 Townsville Street	31/03/2008	21/04/2008	-	$215,000	1858m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2008	230715	2/83 Gladstone Street	26/02/2008	14/04/2008	-	$190,000	2017m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Service trades	-	-
+2008	230716	3/83 Gladstone Street	26/02/2008	14/04/2008	-	$190,000	2017m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Service trades	-	-
+2008	233534	14/145 Gladstone Street	05/03/2008	30/04/2008	-	$180,000	8450m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	18241	            34/63 Wollongong Street	05/02/2008	19/03/2008	-	$154,000	2360m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2008	240796	9/83 Gladstone Street	06/11/2008	16/12/2008	-	$154,000	2017m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Service trades	-	-
+2008	17936	            3/96 Newcastle Street	26/02/2008	02/06/2008	-	$136,400	8283m	Partial transfer	-	-	-	-	-	$136,400	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	237229	10/1 Yallourn Street	01/05/2008	21/08/2008	-	$128,571	2086m	Full transfer	-	-	-	-	-	$128,571	-	-	Government Record	-	-	-	Industry	-	-
+2008	17755	30/8 Gladstone Street	21/05/2008	04/07/2008	-	$120,000	10124m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	17756	31/8 Gladstone Street	21/05/2008	04/07/2008	-	$120,000	10124m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	18909	20/8 Gladstone Street	03/09/2008	27/10/2008	-	$105,000	10124m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	439554	8/145 Gladstone Street	07/12/2008	12/11/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	353498	11/145 Gladstone Street	07/12/2008	12/01/2012	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	234269	3 Yallourn Street	03/03/2008	08/05/2008	-	-	2142m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	239006	8/1 Yallourn Street	23/09/2008	05/11/2008	-	-	2086m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	240504	80 Barrier Street	09/09/2008	24/09/2008	-	-	1938m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	241182	2/151 Newcastle Street	06/06/2008	12/01/2009	-	-	2050m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	241215	7 Isa Street	06/06/2008	12/01/2009	-	-	697m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	246134	19 Lyell Street	17/08/2008	25/08/2009	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	239005	7/1 Yallourn Street	23/09/2008	05/11/2008	-	-	2086m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	238052	301 Canberra Avenue	25/05/2008	09/09/2008	-	-	4333m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Residential	-	-
+2008	283283	36 Maryborough Street	11/11/2008	02/03/2011	-	-	1669m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2008	239958	28 Pirie Street	15/07/2008	14/10/2008	-	-	697m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2008	242611	2/41 Townsville Street	07/10/2008	03/03/2009	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2008	230320	100 Newcastle Street	10/06/2008	08/08/2008	-	-	2765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2009	254534	100 Newcastle Street	11/11/2009	01/03/2010	-	$3,650,000	2765m	Full transfer	-	-	-	-	-	$3,650,000	-	-	Government Record	-	-	-	Industry	-	-
+2009	254026	75 Collie Street	04/12/2009	14/02/2010	-	$1,500,000	1471m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Household appliances	-	-
+2009	251436	172 Gladstone Street	16/11/2009	19/01/2010	-	$1,400,000	1858m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Builders supplies	-	-
+2009	250090	8 Pirie Street	05/11/2009	29/11/2009	-	$1,210,000	697m	Full transfer	-	-	-	-	-	$1,210,000	-	-	Government Record	-	-	-	Industry	-	-
+2009	241531	105 Gladstone Street	03/03/2009	15/05/2009	-	$1,200,000	9240m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2009	241693	9 Yallourn Street	03/04/2009	21/05/2009	-	$1,106,500	3213m	Full transfer	-	-	-	-	-	$1,106,500	-	-	Government Record	-	-	-	Industry	-	-
+2009	254025	44 Kembla Street	10/12/2009	11/02/2010	-	$1,050,000	1394m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Retail	-	-
+2009	253764	7/43 Tennant Street	11/12/2009	16/02/2010	-	$687,500	6840m	Full transfer	-	-	-	-	-	$687,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	253763	6/43 Tennant Street	11/12/2009	16/02/2010	-	$687,500	6840m	Full transfer	-	-	-	-	-	$687,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	251283	             Tennant Street	12/12/2009	-	16/07/2009	$625,000	6840m	Full transfer	-	-	-	-	-	$625,000	149	-	Allhomes Record	-	-	-	-	$1,746,000	2.79
+2009	261932	26 Lyell Street	01/09/2009	21/05/2010	-	$625,000	813m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Industry	-	-
+2009	248571	2/164 Gladstone Street	11/08/2009	07/10/2009	-	$500,000	1858m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2009	248570	1/164 Gladstone Street	11/08/2009	07/10/2009	-	$500,000	1858m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2009	250562	9/90 Barrier Street	15/09/2009	10/12/2009	-	$480,000	20917m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	274216	3/18 Maryborough Street	03/04/2009	09/11/2010	-	$477,000	1792m	Full transfer	-	-	-	-	-	$477,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2009	250563	8/55 Townsville Street	01/09/2009	09/12/2009	-	$341,000	1858m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2009	19505	            2/63 Wollongong Street	28/04/2009	18/06/2009	-	$330,000	2360m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2009	123985	55 Wollongong Street	29/04/2009	-	02/03/2009	$330,000	1830m	Full transfer	-	1	-	-	-	$330,000	58	-	Allhomes Record	-	-	-	-	-	-
+2009	245049	4/47 Tennant Street	14/05/2009	18/06/2009	-	$308,000	2199m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	247953	2/47 Tennant Street	02/07/2009	16/09/2009	-	$286,000	2199m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	19059	35/8 Gladstone Street	27/03/2009	15/05/2009	-	$265,000	10124m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Retail	-	-
+2009	259321	11/43 Tennant Street	18/12/2009	17/03/2010	-	$255,000	6840m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	248667	7/105 Newcastle Street	26/08/2009	19/10/2009	-	$245,000	26102m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Retail	-	-
+2009	247722	3/196 Gladstone Street	26/08/2009	13/10/2009	-	$200,000	1858m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2009	248840	4/34 Geelong Street	18/06/2009	06/11/2009	-	$186,250	2555m	Full transfer	-	-	-	-	-	$186,250	-	-	Government Record	-	-	-	Retail	-	-
+2009	248838	3/34 Geelong Street	18/06/2009	06/11/2009	-	$186,250	2555m	Full transfer	-	-	-	-	-	$186,250	-	-	Government Record	-	-	-	Retail	-	-
+2009	248837	3/34 Geelong Street	01/07/2009	06/11/2009	-	$186,250	2555m	Full transfer	-	-	-	-	-	$186,250	-	-	Government Record	-	-	-	Retail	-	-
+2009	248839	4/34 Geelong Street	01/07/2009	06/11/2009	-	$186,250	2555m	Full transfer	-	-	-	-	-	$186,250	-	-	Government Record	-	-	-	Retail	-	-
+2009	251574	            40/63 Wollongong Street	25/06/2009	14/01/2010	-	$179,300	2360m	Full transfer	-	-	-	-	-	$179,300	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2009	19289	26/8 Gladstone Street	28/04/2009	25/05/2009	-	$175,000	10124m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Retail	-	-
+2009	23701	            40/59-61 Wollongong Street	27/08/2009	-	04/12/2008	$163,000	-	Full transfer	-	-	-	-	-	$163,000	266	-	Allhomes Record	-	-	-	-	-	-
+2009	19060	            39/63 Wollongong Street	16/02/2009	15/05/2009	-	$143,000	2360m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2009	379904	67 Gladstone Street	31/10/2009	12/09/2012	-	$98,750	6774m	Full transfer	-	-	-	-	-	$98,750	-	-	Government Record	-	-	-	Camping supplies store	-	-
+2009	273771	3/57 Kembla Street	31/12/2009	10/11/2010	-	-	1394m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2009	255746	5 Albany Street	20/07/2009	31/03/2010	-	-	1765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2009	246265	22/105 Newcastle Street	17/07/2009	31/08/2009	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	259962	14/145 Gladstone Street	22/03/2009	01/04/2010	-	-	8450m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2009	244936	4 Whyalla Street	14/01/2009	13/07/2009	-	-	2780m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2010	263714	100 Barrier Street	01/03/2010	10/06/2010	-	$33,000,000	3892m	Full transfer	-	-	-	-	-	$33,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	263715	116 Tennant Street	01/03/2010	10/06/2010	-	$33,000,000	3613m	Full transfer	-	-	-	-	-	$33,000,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2010	263656	26 Albany Street	31/03/2010	01/06/2010	-	$4,700,000	14077m	Full transfer	-	-	-	-	-	$4,700,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2010	422836	            36/63 Wollongong Street	01/06/2010	28/03/2014	-	$2,500,000	2360m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2010	414079	            35/63 Wollongong Street	01/06/2010	20/11/2013	-	$2,500,000	2360m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2010	297616	            138 Gladstone Street	13/07/2010	01/07/2011	-	$2,400,000	11979m	Full transfer	-	-	-	-	-	$2,400,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2010	280694	74 Collie Street	28/07/2010	22/12/2010	-	$2,100,000	5995m	Full transfer	-	-	-	-	-	$2,100,000	-	-	Government Record	-	-	-	Office	-	-
+2010	279181	27 Yallourn Street	01/10/2010	02/02/2011	-	$1,826,000	2857m	Full transfer	-	-	-	-	-	$1,826,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	283282	61 Tennant Street	01/11/2010	03/03/2011	-	$1,750,000	2432m	Full transfer	-	-	-	-	-	$1,750,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2010	270385	116 Gladstone Street	22/04/2010	17/09/2010	-	$1,705,000	6002m	Full transfer	-	-	-	-	-	$1,705,000	-	-	Government Record	-	-	-	General industry	-	-
+2010	273853	119 Gladstone Street	20/10/2010	14/11/2010	-	$1,425,000	2766m	Full transfer	-	-	-	-	-	$1,425,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2010	266152	15-17 Kembla Street	22/09/2010	-	04/06/2010	$1,350,000	-	Full transfer	-	-	-	-	-	$1,350,000	110	-	Allhomes Record	-	-	-	-	-	-
+2010	279180	15 Kembla Street	22/09/2010	31/01/2011	-	$1,350,000	1394m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2010	272825	5 Collie Street	24/09/2010	20/10/2010	-	$1,270,000	1476m	Full transfer	-	-	-	-	-	$1,270,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	283389	32 Geelong Street	27/10/2010	16/02/2011	-	$1,250,000	2845m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	271778	            B9/S89 Gladstone Street	17/11/2010	-	26/11/2010	$1,200,000	0m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	271766	            B4/S90 Gladstone Street	26/11/2010	-	26/11/2010	$1,180,000	0m	Full transfer	-	-	-	-	-	$1,180,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	274113	5 Bodalla Place	21/04/2010	30/11/2010	-	$1,100,000	1371m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Office	-	-
+2010	274738	            B8/S89 Gladstone Street	26/11/2010	-	26/11/2010	$1,000,000	0m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	337252	            B1/S90 Gladstone Street	17/11/2010	-	21/09/2011	$960,000	-	Full transfer	-	-	-	-	-	$960,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	274739	            B3/S90 Gladstone Street	26/11/2010	-	26/11/2010	$930,000	0m	Full transfer	-	-	-	-	-	$930,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	380022	20 Collie Street	29/10/2010	-	26/10/2012	$865,000	0m	Full transfer	-	-	-	-	-	$865,000	-	-	Allhomes Record	-	-	-	-	$510,000	0.59
+2010	274024	20 Collie Street	14/10/2010	22/11/2010	-	$865,000	1239m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	296529	            4/96 Newcastle Street	23/12/2010	31/05/2011	-	$841,500	8283m	Full transfer	-	-	-	-	-	$841,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2010	277565	25 Isa Street	09/12/2010	20/01/2011	-	$816,000	1951m	Full transfer	-	-	-	-	-	$816,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	273950	5/16 Geelong Street	24/09/2010	24/11/2010	-	$770,000	2796m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	287922	15 Lyell Street	02/09/2010	21/03/2011	02/08/2010	$725,000	1998m	Full transfer	-	-	-	-	-	$725,000	31	-	Combined Record	-	-	-	Industry	$472,000	0.65
+2010	286020	121 Newcastle Street	24/12/2010	18/03/2011	-	$700,000	2145m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	296411	            5/151 Newcastle Street	25/05/2010	26/05/2011	-	$695,000	2050m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	266942	             The Coffee Club Dfo	20/10/2010	-	21/07/2010	$645,000	-	Full transfer	-	-	-	-	-	$645,000	91	-	Allhomes Record	-	-	-	-	-	-
+2010	273949	1/184 Gladstone Street	12/07/2010	22/11/2010	-	$638,000	1858m	Full transfer	-	-	-	-	-	$638,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2010	333483	3/26 Geelong Street	21/12/2010	05/08/2011	-	$525,000	1219m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	333482	4/26 Geelong Street	21/12/2010	05/08/2011	-	$525,000	1219m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	260173	1/26 Geelong Street	25/02/2010	17/05/2010	-	$495,000	1219m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	259961	9/18 Whyalla Street	24/02/2010	14/04/2010	-	$420,000	4485m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	259960	10/18 Whyalla Street	24/02/2010	14/04/2010	-	$420,000	4485m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	263522	2/65 Kembla Street	18/03/2010	01/06/2010	-	$329,400	1394m	Full transfer	-	-	-	-	-	$329,400	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2010	274097	5/74 Townsville Street	15/10/2010	18/11/2010	-	$308,000	1858m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2010	269425	1/16 Geelong Street	28/06/2010	28/07/2010	-	$286,000	2796m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	269734	17/171 Newcastle Street	05/08/2010	30/08/2010	-	$280,000	1655m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	265682	12/18 Whyalla Street	04/08/2010	-	07/06/2010	$270,000	4485m	Full transfer	-	-	-	-	-	$270,000	58	-	Allhomes Record	-	-	-	-	$1,550,000	5.74
+2010	265361	             Geelong Street	15/03/2010	-	29/03/2010	$270,000	-	Full transfer	-	1	-	-	-	$270,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	273145	8/83 Wollongong Street	31/08/2010	15/10/2010	-	$269,500	2230m	Full transfer	-	-	-	-	-	$269,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2010	269486	11/8 Gladstone Street	28/06/2010	09/08/2010	-	$255,000	10124m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Retail	-	-
+2010	275646	10/105 Newcastle Street	30/11/2010	12/01/2011	-	$250,000	26102m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2010	253837	8/82 Townsville Street	21/01/2010	28/02/2010	-	$250,000	2476m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	276635	13/171 Newcastle Street	16/05/2010	23/07/2010	-	$210,000	1655m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Industry	-	-
+2010	255462	            7/63 Wollongong Street	11/02/2010	22/03/2010	-	$165,000	2360m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2010	267361	8/83 Gladstone Street	21/05/2010	25/06/2010	-	$160,000	2017m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Service trades	-	-
+2010	263288	8/83 Gladstone Street	15/06/2010	-	30/03/2010	$160,000	2017m	Full transfer	-	-	-	-	-	$160,000	77	-	Allhomes Record	-	-	-	-	$779,000	4.87
+2010	297585	16/63 Wollongong Street	15/11/2010	28/06/2011	-	$75,000	2360m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2010	387685	26 Lyell Street	03/12/2010	07/01/2013	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2010	372722	63 Tennant Street	12/05/2010	11/04/2012	-	$0	2092m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2010	371740	16/18 Whyalla Street	01/10/2010	24/05/2012	-	$0	4485m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2010	269872	12/18 Whyalla Street	03/08/2010	15/09/2010	-	-	4485m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2010	268555	9/196 Gladstone Street	23/02/2010	28/06/2010	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	344140	1 Leeton Street	05/07/2011	18/10/2011	-	$3,450,000	4441m	Full transfer	-	-	-	-	-	$3,450,000	-	-	Government Record	-	-	-	Scientific research establi...	-	-
+2011	370808	11 Albany Street	01/07/2011	01/05/2012	-	$3,150,000	6850m	Full transfer	-	-	-	-	-	$3,150,000	-	-	Government Record	-	-	-	Commercial centre uses	-	-
+2011	353827	301 Canberra Avenue	28/05/2011	16/01/2012	10/05/2011	$2,310,000	4333m	Full transfer	-	-	-	-	-	$2,310,000	18	-	Combined Record	-	-	-	Residential	$1,165,000	0.5
+2011	347200	86 Barrier Street	29/08/2011	10/11/2011	-	$2,100,000	2015m	Full transfer	-	-	-	-	-	$2,100,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	347993	77 Newcastle Street	25/08/2011	27/10/2011	-	$1,760,000	1858m	Full transfer	-	-	-	-	-	$1,760,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	365716	100 Gladstone Street	26/09/2011	24/02/2012	-	$1,600,000	1490m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2011	359797	35 Wollongong Street	16/09/2011	03/02/2012	-	$1,500,000	1561m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	336159	32 Gladstone Street	15/07/2011	29/08/2011	-	$1,425,000	1226m	Full transfer	-	-	-	-	-	$1,425,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	347593	5 Albany Street	29/09/2011	03/11/2011	-	$1,400,000	1765m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2011	359798	14 Whyalla Street	21/12/2011	30/01/2012	-	$1,320,000	3600m	Full transfer	-	-	-	-	-	$1,320,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	372723	167 Newcastle Street	10/05/2011	13/04/2012	-	$1,272,727	1655m	Full transfer	-	-	-	-	-	$1,272,727	-	-	Government Record	-	-	-	Industry	-	-
+2011	366042	43 Collie Street	16/12/2011	28/02/2012	-	$1,211,711	1486m	Full transfer	-	-	-	-	-	$1,211,711	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	369159	11 Wiluna Street	12/12/2011	03/04/2012	-	$1,200,000	3571m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	337268	            B1/S88 Gladstone Street	08/06/2011	-	21/09/2011	$1,200,000	-	Full transfer	-	-	-	-	-	$1,200,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	353499	5 Isa Street	31/10/2011	12/01/2012	-	$1,100,000	2648m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	284903	            B3S89 Newcastle Street	06/04/2011	-	13/01/2011	$1,100,000	0m	Full transfer	-	-	-	-	-	$1,100,000	83	-	Allhomes Record	-	-	-	-	-	-
+2011	347595	2/27 Yallourn Street	13/04/2011	01/11/2011	-	$1,017,500	2857m	Full transfer	-	-	-	-	-	$1,017,500	-	-	Government Record	-	-	-	Retail	-	-
+2011	347596	1/27 Yallourn Street	13/04/2011	01/11/2011	-	$1,017,500	2857m	Full transfer	-	-	-	-	-	$1,017,500	-	-	Government Record	-	-	-	Retail	-	-
+2011	366043	24 Geelong Street	22/12/2011	01/03/2012	-	$1,000,000	1219m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	354312	14/105 Newcastle Street	12/08/2011	19/12/2011	-	$907,500	26102m	Full transfer	-	-	-	-	-	$907,500	-	-	Government Record	-	-	-	Personal service	-	-
+2011	350068	            24/291 Canberra Avenue	02/09/2011	05/12/2011	-	$870,188	10758m	Full transfer	-	-	-	-	-	$870,188	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	373108	5 Yallourn Street	18/08/2011	26/04/2012	-	$858,000	1404m	Full transfer	-	-	-	-	-	$858,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	284891	            B1S89 Newcastle Street	06/04/2011	-	13/01/2011	$850,000	0m	Full transfer	-	-	-	-	-	$850,000	83	-	Allhomes Record	-	-	-	-	-	-
+2011	299642	            B7/S89 Gladstone Street	14/07/2011	-	02/05/2011	$815,000	0m	Full transfer	-	-	-	-	-	$815,000	73	-	Allhomes Record	-	-	-	-	-	-
+2011	336234	17 Geelong Street	15/06/2011	07/09/2011	-	$815,000	3508m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	347994	27 Isa Street	11/08/2011	30/10/2011	-	$792,000	1951m	Full transfer	-	-	-	-	-	$792,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	490349	62 Townsville Street	01/09/2011	31/10/2016	-	$765,000	1765m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2011	296589	            14/291 Canberra Avenue	16/05/2011	14/06/2011	-	$749,700	10758m	Full transfer	-	-	-	-	-	$749,700	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296410	            5/151 Newcastle Street	21/04/2011	26/05/2011	-	$710,000	2050m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	337270	            B2/S90 Gladstone Street	09/06/2011	-	21/09/2011	$710,000	-	Full transfer	-	-	-	-	-	$710,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	455656	            B2/S88 Gladstone Street	08/06/2011	-	28/07/2015	$700,000	0m	Full transfer	-	-	-	-	-	$700,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	296588	            15/291 Canberra Avenue	16/05/2011	14/06/2011	-	$681,345	10758m	Full transfer	-	-	-	-	-	$681,345	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	455650	            B6/S89 Gladstone Street	03/07/2011	-	28/07/2015	$675,000	0m	Full transfer	-	-	-	-	-	$675,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	336279	2/171 Newcastle Street	29/07/2011	05/09/2011	-	$640,000	1655m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	365717	            23/291 Canberra Avenue	11/11/2011	21/02/2012	-	$622,380	10758m	Full transfer	-	-	-	-	-	$622,380	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	284902	            B2S89 Newcastle Street	06/04/2011	-	13/01/2011	$620,000	0m	Full transfer	-	-	-	-	-	$620,000	83	-	Allhomes Record	-	-	-	-	-	-
+2011	286441	            B4S89 Gladstone Street	22/03/2011	-	13/01/2011	$610,000	0m	Full transfer	-	-	-	-	-	$610,000	68	-	Allhomes Record	-	-	-	-	-	-
+2011	333480	1/47 Tennant Street	30/06/2011	05/08/2011	-	$605,000	2199m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	286451	            B5S89 Gladstone Street	22/03/2011	-	13/01/2011	$600,000	0m	Full transfer	-	-	-	-	-	$600,000	68	-	Allhomes Record	-	-	-	-	-	-
+2011	347594	8/27 Yallourn Street	06/09/2011	31/10/2011	-	$583,000	2857m	Full transfer	-	-	-	-	-	$583,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	291685	1/4 Geelong Street	31/03/2011	10/05/2011	-	$560,000	2076m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	300207	283 Canberra Avenue	02/02/2011	04/07/2011	-	$501,425	3949m	Full transfer	-	-	-	-	-	$501,425	-	-	Government Record	-	-	-	Industry	-	-
+2011	291444	            1/49 Wollongong Street	28/01/2011	04/05/2011	-	$500,000	1942m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	336160	24 Isa Street	29/06/2011	01/09/2011	-	$495,000	813m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	383899	4/66 Maryborough Street	09/11/2011	08/11/2012	-	$430,000	3716m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	455666	            UNIT4/66-70 Maryborough Street	18/10/2011	-	28/07/2015	$430,000	0m	Full transfer	-	-	-	-	-	$430,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	455668	            UNIT6/66-70 Maryborough Street	17/11/2011	-	28/07/2015	$425,000	0m	Full transfer	-	-	-	-	-	$425,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	455667	            UNIT5/66-70 Maryborough Street	17/11/2011	-	28/07/2015	$425,000	0m	Full transfer	-	-	-	-	-	$425,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	400219	            6/9 Beaconsfield Street	15/12/2011	04/06/2013	-	$395,000	6000m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	400218	            7/9 Beaconsfield Street	31/03/2011	04/06/2013	-	$385,000	6000m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347199	52 Kembla Street	16/09/2011	08/11/2011	-	$366,666	1394m	Full transfer	-	-	-	-	-	$366,666	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	376585	6/27 Yallourn Street	23/12/2011	10/08/2012	-	$357,500	2857m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Retail	-	-
+2011	402301	            5/9 Beaconsfield Street	29/06/2011	24/06/2013	-	$350,000	6000m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	283647	1/82 Townsville Street	10/01/2011	15/02/2011	-	$349,800	2476m	Full transfer	-	-	-	-	-	$349,800	-	-	Government Record	-	-	-	Industry	-	-
+2011	333481	            4/79 Wollongong Street	01/07/2011	04/08/2011	-	$345,600	1654m	Full transfer	-	-	-	-	-	$345,600	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2011	340485	5/59 Tennant Street	29/08/2011	20/09/2011	-	$338,000	2317m	Full transfer	-	-	-	-	-	$338,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	340486	4/16 Isa Street	05/08/2011	22/09/2011	-	$269,500	1998m	Full transfer	-	-	-	-	-	$269,500	-	-	Government Record	-	-	-	Industry	-	-
+2011	383420	7/66 Maryborough Street	09/12/2011	12/11/2012	-	$269,000	3716m	Full transfer	-	-	-	-	-	$269,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	455669	            UNIT7/66-70 Maryborough Street	24/08/2011	-	28/07/2015	$269,000	0m	Full transfer	-	-	-	-	-	$269,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	297617	10 Geelong Street	02/02/2011	01/07/2011	-	$226,532	2796m	Partial transfer	-	-	-	-	-	$226,532	-	-	Government Record	-	-	-	Industry	-	-
+2011	291500	2/83 Gladstone Street	16/03/2011	20/04/2011	-	$209,500	2017m	Full transfer	-	-	-	-	-	$209,500	-	-	Government Record	-	-	-	Service trades	-	-
+2011	335821	4/34 Geelong Street	20/06/2011	10/08/2011	-	$190,000	2555m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	335823	3/34 Geelong Street	20/06/2011	10/08/2011	-	$190,000	2555m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	335824	3/34 Geelong Street	08/07/2011	10/08/2011	-	$190,000	2555m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	335822	4/34 Geelong Street	08/07/2011	10/08/2011	-	$190,000	2555m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	291499	3/83 Gladstone Street	16/03/2011	20/04/2011	-	$178,500	2017m	Full transfer	-	-	-	-	-	$178,500	-	-	Government Record	-	-	-	Service trades	-	-
+2011	370047	            11/66 Maryborough Street	31/10/2011	29/03/2012	-	$148,500	3716m	Full transfer	-	-	-	-	-	$148,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	342107	24/8 Gladstone Street	05/09/2011	12/10/2011	-	$145,000	10124m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Retail	-	-
+2011	455671	            UNIT9/66-70 Maryborough Street	07/11/2011	-	28/07/2015	$135,000	0m	Full transfer	-	-	-	-	-	$135,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	360881	            11/66-70 Maryborough Street	30/08/2011	-	31/05/2011	$135,000	0m	Full transfer	-	-	-	-	-	$135,000	91	-	Allhomes Record	-	-	-	-	-	-
+2011	369161	10/66 Maryborough Street	11/11/2011	03/04/2012	-	$132,500	3716m	Full transfer	-	-	-	-	-	$132,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2011	455672	            10/66-70 Maryborough Street	30/08/2011	-	28/07/2015	$132,500	0m	Full transfer	-	-	-	-	-	$132,500	-	-	Allhomes Record	-	-	-	-	-	-
+2011	291582	20/105 Newcastle Street	31/01/2011	13/04/2011	-	$120,000	26102m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Industry	-	-
+2011	376638	3/61 Townsville Street	19/09/2011	24/07/2012	-	$0	2590m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	371603	1/112 Wollongong Street	20/12/2011	06/06/2012	-	$0	1626m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	365378	96 Maryborough Street	08/12/2011	07/03/2012	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2011	371602	2/112 Wollongong Street	20/12/2011	06/06/2012	-	$0	1626m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	371958	2/73 Collie Street	31/07/2011	31/05/2012	-	$0	2245m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	371601	            3/112 Wollongong Street	20/12/2011	06/06/2012	-	$0	1626m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	372881	            2/96 Newcastle Street	03/08/2011	04/05/2012	-	$0	8283m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2011	336157	16 Mildura Street	07/06/2011	29/08/2011	-	-	21100m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2011	336158	7 Leeton Street	07/06/2011	29/08/2011	-	-	4447m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	380196	2/114 Gladstone Street	30/08/2012	-	19/07/2010	$13,000,000	4700m	Full transfer	-	-	-	-	-	$13,000,000	773	-	Allhomes Record	-	-	-	-	$507,000	0.04
+2012	387297	120 Wollongong Street	02/08/2012	17/12/2012	-	$6,525,000	7071m	Full transfer	-	-	-	-	-	$6,525,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	395378	            1/30 Ipswich Street	19/10/2012	15/04/2013	-	$4,400,000	6867m	Full transfer	-	-	-	-	-	$4,400,000	-	-	Government Record	-	-	-	Office	-	-
+2012	379454	8 Albany Street	27/07/2012	19/09/2012	-	$3,400,000	5971m	Full transfer	-	-	-	-	-	$3,400,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2012	396492	21 Quilpie Crescent	15/08/2012	22/04/2013	-	$2,502,500	1610m	Full transfer	-	-	-	-	-	$2,502,500	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2012	379905	131 Wollongong Street	19/06/2012	13/09/2012	-	$2,500,000	2127m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2012	388581	10 Ipswich Street	31/07/2012	16/01/2013	-	$2,000,000	2905m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2012	383900	73 Newcastle Street	13/07/2012	09/11/2012	-	$1,755,000	1860m	Full transfer	-	-	-	-	-	$1,755,000	-	-	Government Record	-	-	-	Industry	-	-
+2012	379907	36 Geelong Street	19/06/2012	16/09/2012	-	$1,750,000	3516m	Full transfer	-	-	-	-	-	$1,750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	404944	6 Ipswich Street	02/11/2012	07/08/2013	-	$1,545,500	2148m	Full transfer	-	-	-	-	-	$1,545,500	-	-	Government Record	-	-	-	Industry	-	-
+2012	395377	155 Newcastle Street	31/10/2012	16/04/2013	-	$1,510,000	1655m	Full transfer	-	-	-	-	-	$1,510,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	380382	155 Newcastle Street	02/11/2012	-	01/06/2012	$1,490,000	1655m	Full transfer	-	-	-	-	-	$1,490,000	154	-	Allhomes Record	710	-	-	-	$909,000	0.61
+2012	379453	11 Wiluna Street	27/06/2012	21/09/2012	-	$1,402,500	3571m	Full transfer	-	-	-	-	-	$1,402,500	-	-	Government Record	-	-	-	Industry	-	-
+2012	389942	96 Maryborough Street	25/09/2012	29/01/2013	-	$1,335,000	1858m	Full transfer	-	-	-	-	-	$1,335,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2012	379179	114 Gladstone Street	31/07/2012	04/09/2012	-	$1,300,000	4700m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	General industry	-	-
+2012	386021	8 Pirie Street	25/07/2012	11/12/2012	-	$1,300,000	697m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Industry	-	-
+2012	382619	9 Quilpie Crescent	22/08/2012	29/11/2012	-	$990,000	2247m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2012	386223	17 Cessnock Street	22/08/2012	05/12/2012	-	$990,000	2717m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2012	365377	21 Wollongong Street	06/02/2012	09/03/2012	-	$950,000	1673m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2012	355961	             Workin' Gear - Sold By Brindabella Business Brokers	20/02/2012	-	09/09/2011	$800,000	-	Full transfer	-	-	-	-	-	$800,000	164	-	Allhomes Record	-	-	-	-	-	-
+2012	383421	28 Barrier Street	05/10/2012	12/11/2012	20/04/2012	$778,000	1862m	Full transfer	-	-	-	-	-	$778,000	168	-	Combined Record	668	-	-	Industry	$471,000	0.61
+2012	374065	13/65 Tennant Street	04/05/2012	20/06/2012	-	$770,000	4772m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	387684	8/43 Tennant Street	12/10/2012	07/01/2013	-	$709,500	6840m	Full transfer	-	-	-	-	-	$709,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	380061	41-45 Tennant Street	17/10/2012	-	01/06/2012	$655,000	-	Full transfer	-	-	-	-	-	$655,000	138	-	Allhomes Record	384	-	-	-	-	-
+2012	382621	            5/79 Wollongong Street	10/10/2012	26/11/2012	-	$654,500	1654m	Full transfer	-	-	-	-	-	$654,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2012	386224	28 Lyell Street	25/10/2012	06/12/2012	-	$600,000	813m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Industry	-	-
+2012	379906	            1/291 Canberra Avenue	29/06/2012	13/09/2012	-	$539,000	10758m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	455665	            UNIT3/66-70 Maryborough Street	10/08/2012	-	28/07/2015	$477,855	0m	Full transfer	-	-	-	-	-	$477,855	-	-	Allhomes Record	-	-	-	-	-	-
+2012	455660	            4/57-59 Kembla Street	17/12/2012	-	28/07/2015	$475,000	0m	Full transfer	-	-	-	-	-	$475,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	382632	            21/291 Canberra Avenue	14/09/2012	30/11/2012	-	$467,387	10758m	Full transfer	-	-	-	-	-	$467,387	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	372882	            19/291 Canberra Avenue	04/04/2012	01/05/2012	-	$442,500	10758m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	455593	            UNIT1/66-70 Maryborough Street	12/04/2012	-	25/07/2015	$430,000	0m	Full transfer	-	-	-	-	-	$430,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	406786	            13/9 Beaconsfield Street	21/11/2012	03/09/2013	-	$430,000	6000m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	371604	            1/66 Maryborough Street	30/04/2012	04/06/2012	-	$430,000	3716m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	394188	6/66 Maryborough Street	21/03/2012	04/04/2013	-	$425,000	3716m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	386020	2/66 Maryborough Street	09/11/2012	11/12/2012	-	$420,000	3716m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	376268	15/90 Barrier Street	30/05/2012	16/07/2012	-	$415,000	20917m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376584	15/43 Tennant Street	16/05/2012	10/08/2012	-	$400,000	6840m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	394369	1/105 Newcastle Street	28/11/2012	27/03/2013	-	$385,000	26102m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	375515	13/169 Newcastle Street	23/08/2012	-	30/07/2012	$275,000	-	Full transfer	-	-	-	-	-	$275,000	24	-	Allhomes Record	117	-	-	-	-	-
+2012	380037	10/169 Newcastle Street	23/10/2012	-	24/08/2012	$218,000	-	Full transfer	-	-	-	-	-	$218,000	60	-	Allhomes Record	90	-	-	-	-	-
+2012	382631	10/171 Newcastle Street	23/10/2012	26/11/2012	-	$210,000	1655m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Industry	-	-
+2012	387891	1/15 Yallourn Street	28/08/2012	03/01/2013	-	$208,750	3104m	Full transfer	-	-	-	-	-	$208,750	-	-	Government Record	-	-	-	Industry	-	-
+2012	455670	            UNIT8/66-70 Maryborough Street	21/05/2012	-	28/07/2015	$165,000	0m	Full transfer	-	-	-	-	-	$165,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	365376	5/106 Gladstone Street	01/02/2012	05/03/2012	-	$157,500	1729m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Retail	-	-
+2012	358141	             White Dove Bridal - Sold By Brindabella Business Brokers	13/03/2012	-	14/11/2011	$155,000	-	Full transfer	-	-	-	-	-	$155,000	120	-	Allhomes Record	-	-	-	-	-	-
+2012	413357	20 Collie Street	30/06/2012	04/11/2013	-	$150,000	1239m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Retail	-	-
+2012	369160	            9/66 Maryborough Street	09/02/2012	02/04/2012	-	$148,500	3716m	Full transfer	-	-	-	-	-	$148,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	379704	            37/63 Wollongong Street	05/05/2012	28/08/2012	-	$135,000	2360m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2012	379703	            38/63 Wollongong Street	05/05/2012	28/08/2012	-	$135,000	2360m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2012	380006	             Wollongong St	19/10/2012	-	24/07/2012	$80,000	-	Full transfer	-	-	-	-	-	$80,000	87	-	Allhomes Record	-	-	-	-	-	-
+2012	372531	            1/55 Framemaker	01/02/2012	-	21/09/2010	$75,000	813m	Full transfer	-	-	-	-	-	$75,000	498	-	Allhomes Record	-	-	-	-	$492,000	6.56
+2012	393249	8/1 Yallourn Street	04/09/2012	05/02/2013	-	$0	2086m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	386016	4/18 Wollongong Street	25/09/2012	13/12/2012	-	$0	1486m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shop	-	-
+2012	393248	84 Gladstone Street	18/01/2012	08/02/2013	-	$0	1463m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2012	376912	28 Geelong Street	04/06/2012	01/08/2012	-	$0	2796m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	386019	1/18 Wollongong Street	25/09/2012	13/12/2012	-	$0	1486m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	393250	7/1 Yallourn Street	04/09/2012	05/02/2013	-	$0	2086m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	404357	            13/63 Wollongong Street	07/07/2012	19/07/2013	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2012	386018	2/18 Wollongong Street	25/09/2012	13/12/2012	-	$0	1486m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	396493	69 Tennant Street	18/01/2012	24/04/2013	-	$0	2462m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2012	453459	84 Newcastle Street	14/11/2012	28/05/2015	-	$0	2319m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2012	404358	            12/63 Wollongong Street	07/07/2012	19/07/2013	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2012	410458	7/1 Yallourn Street	15/09/2012	11/09/2013	-	$0	2086m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2012	402568	9 Wollongong Street	03/11/2012	21/06/2013	-	$0	1804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2012	386017	3/18 Wollongong Street	25/09/2012	13/12/2012	-	$0	1486m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Personal service	-	-
+2013	396496	            3/30 Ipswich Street	22/01/2013	23/04/2013	-	$5,148,000	6867m	Full transfer	-	-	-	-	-	$5,148,000	-	-	Government Record	-	-	-	Office	-	-
+2013	428257	13 Tennant Street	23/12/2013	21/05/2014	-	$4,800,000	8287m	Full transfer	-	-	-	-	-	$4,800,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2013	406245	            WHOLE/7-11 Tennant Street	02/09/2013	-	13/02/2013	$2,475,000	0m	Full transfer	-	-	-	-	-	$2,475,000	201	-	Allhomes Record	-	-	-	-	-	-
+2013	415656	7 Tennant Street	06/09/2013	10/12/2013	-	$2,475,000	5861m	Full transfer	-	-	-	-	-	$2,475,000	-	-	Government Record	-	-	-	Service trades	-	-
+2013	413083	81 Newcastle Street	02/08/2013	29/10/2013	-	$1,925,000	1730m	Full transfer	-	-	-	-	-	$1,925,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	406244	101-103 Newcastle Street	14/08/2013	-	20/04/2012	$1,900,000	-	Full transfer	-	-	-	-	-	$1,900,000	481	-	Allhomes Record	864	-	-	-	$919,000	0.48
+2013	400720	101 Newcastle Street	26/02/2013	28/05/2013	-	$1,900,000	2174m	Full transfer	-	-	-	-	-	$1,900,000	-	-	Government Record	-	-	-	Finance,credit organisation	-	-
+2013	402302	80 Gladstone Street	01/05/2013	25/06/2013	-	$1,870,000	1870m	Full transfer	-	-	-	-	-	$1,870,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	404945	27 Iron Knob Street	23/04/2013	05/08/2013	-	$1,650,000	5586m	Full transfer	-	-	-	-	-	$1,650,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2013	432472	39 Kembla Street	17/12/2013	05/08/2014	-	$1,600,000	2044m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	421779	92 Maryborough Street	26/09/2013	20/02/2014	-	$1,260,000	1858m	Full transfer	-	-	-	-	-	$1,260,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	411418	173 Gladstone Street	15/08/2013	24/10/2013	-	$1,086,050	2887m	Full transfer	-	-	-	-	-	$1,086,050	-	-	Government Record	-	-	-	Retail	-	-
+2013	404946	24 Lithgow Street	14/04/2013	06/08/2013	-	$858,000	2360m	Full transfer	-	-	-	-	-	$858,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	406657	7 Yallourn Street	19/03/2013	22/08/2013	-	$650,000	1292m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	410456	1/184 Gladstone Street	26/08/2013	11/09/2013	-	$643,500	1858m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2013	429793	17 Wollongong Street	15/08/2013	25/06/2014	-	$589,750	1673m	Full transfer	-	-	-	-	-	$589,750	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	406243	1/184 Gladstone Street	04/09/2013	-	15/05/2013	$585,000	0m	Full transfer	-	-	-	-	-	$585,000	112	-	Allhomes Record	-	-	-	-	$704,000	1.2
+2013	413081	            5/129 Gladstone Street	12/09/2013	31/10/2013	-	$544,500	5586m	Full transfer	-	-	-	-	-	$544,500	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2013	418177	68 Barrier Street	27/05/2013	21/01/2014	-	$535,000	1738m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	419513	11/291 Canberra Avenue	16/12/2013	07/02/2014	-	$532,000	10758m	Full transfer	-	-	-	-	-	$532,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394520	            3/63 Wollongong Street	14/01/2013	21/03/2013	-	$480,000	2360m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2013	394190	4/57 Kembla Street	21/02/2013	04/04/2013	-	$475,000	1394m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	422837	19 Lyell Street	22/11/2013	24/03/2014	-	$450,000	813m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	410454	            14/9 Beaconsfield Street	14/06/2013	10/09/2013	-	$430,000	6000m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394189	5/66 Maryborough Street	21/03/2013	05/04/2013	-	$425,000	3716m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2013	400220	            3/9 Beaconsfield Street	30/01/2013	04/06/2013	-	$418,000	6000m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413358	3/8 Gladstone Street	05/09/2013	08/11/2013	-	$412,500	10124m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Retail	-	-
+2013	413494	20 Collie Street	01/07/2013	15/11/2013	-	$400,000	1239m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Retail	-	-
+2013	405063	            11/9 Beaconsfield Street	21/05/2013	29/07/2013	-	$390,000	6000m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406289	1/74 Townsville Street	18/06/2013	-	18/06/2013	$385,000	0m	Full transfer	-	-	-	-	-	$385,000	-	-	Allhomes Record	-	-	-	-	$716,000	1.86
+2013	428610	8/157 Gladstone Street	01/07/2013	06/06/2014	-	$365,000	8450m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2013	418176	2/8 Gladstone Street	27/11/2013	23/01/2014	-	$365,000	10124m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Retail	-	-
+2013	419447	2/1 Yallourn Street	17/12/2013	13/02/2014	-	$360,000	2086m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	405064	12/27 Yallourn Street	19/04/2013	30/07/2013	-	$346,500	2857m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Retail	-	-
+2013	415179	9/9 Beaconsfield Street	01/11/2013	04/12/2013	-	$346,500	6000m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394971	1/60 Kembla Street	28/02/2013	12/04/2013	-	$345,000	2202m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	404233	            10/9 Beaconsfield Street	04/06/2013	01/07/2013	-	$345,000	6000m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395376	3/60 Kembla Street	28/02/2013	16/04/2013	-	$340,000	2202m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	391478	            TENANCY12/27 Yallourn Street	10/04/2013	-	25/10/2012	$315,000	0m	Full transfer	-	-	-	-	-	$315,000	167	-	Allhomes Record	-	-	-	-	$578,000	1.83
+2013	408042	13/27 Yallourn Street	28/06/2013	15/08/2013	-	$313,500	2857m	Full transfer	-	-	-	-	-	$313,500	-	-	Government Record	-	-	-	Retail	-	-
+2013	414305	6/76 Townsville Street	12/12/2013	-	18/01/2013	$295,000	1857m	Full transfer	-	-	-	-	-	$295,000	328	-	Allhomes Record	-	-	-	-	$716,000	2.43
+2013	404234	14/145 Gladstone Street	07/06/2013	05/07/2013	-	$290,000	8450m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2013	399387	            TENANCY13/27 Yallourn Street	27/06/2013	-	04/09/2012	$285,000	0m	Full transfer	-	-	-	-	-	$285,000	296	-	Allhomes Record	-	-	-	-	$578,000	2.03
+2013	419512	6/74 Townsville Street	11/12/2013	05/02/2014	-	$280,000	1858m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2013	400719	8/105 Newcastle Street	09/04/2013	30/05/2013	-	$280,000	26102m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2013	426526	            16/24 Iron Knob Street	08/11/2013	07/05/2014	-	$275,000	4825m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Office	-	-
+2013	404356	4/196 Gladstone Street	21/06/2013	16/07/2013	-	$231,000	1858m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	413082	5/196 Gladstone Street	26/09/2013	31/10/2013	-	$195,000	1858m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	420727	            UNITS35AND36/53-65 Wollongong Street	25/06/2013	-	25/03/2014	$190,000	0m	Full transfer	-	-	-	-	-	$190,000	-	-	Allhomes Record	-	-	-	-	-	-
+2013	390676	7/285 Canberra Avenue	03/03/2013	-	14/02/2013	$175,000	0m	Full transfer	-	-	-	-	-	$175,000	17	-	Allhomes Record	-	-	-	-	$303,000	1.73
+2013	408043	8/1 Yallourn Street	07/06/2013	13/08/2013	-	$160,000	2086m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	410457	7/1 Yallourn Street	24/07/2013	11/09/2013	-	$160,000	2086m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Industry	-	-
+2013	396495	23/8 Gladstone Street	21/03/2013	24/04/2013	-	$146,000	10124m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Retail	-	-
+2013	411420	            4/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411425	26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411423	1/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411421	            3/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411422	            2/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411424	            0/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	411419	            5/26 Maryborough Street	13/09/2013	24/10/2013	-	$100,000	3344m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2013	396147	             A & D Automotive Services	15/05/2013	-	22/05/2012	$50,000	-	Full transfer	-	-	-	-	-	$50,000	358	-	Allhomes Record	-	-	-	-	-	-
+2013	558465	7/55 Townsville Street	12/07/2013	03/05/2019	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2013	445129	9 Wollongong Street	01/11/2013	02/02/2015	-	$0	1804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	405294	173 Gladstone Street	28/03/2013	23/07/2013	-	$0	2887m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2013	445128	9 Wollongong Street	11/02/2013	06/02/2015	-	$0	1804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	400721	3/18 Whyalla Street	19/02/2013	28/05/2013	-	$0	4485m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2013	400722	2/18 Whyalla Street	19/02/2013	28/05/2013	-	$0	4485m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2013	480963	110 Gladstone Street	19/02/2013	08/07/2016	-	$0	1598m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	405295	17 Wollongong Street	28/03/2013	23/07/2013	-	$0	1673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2013	410455	7/55 Townsville Street	24/05/2013	09/09/2013	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2013	396494	80 Gladstone Street	09/01/2013	24/04/2013	-	$0	1870m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	424882	44-46 Maryborough Street	21/03/2014	-	13/03/2014	$10,340,000	0m	Full transfer	-	-	-	-	-	$10,340,000	8	-	Allhomes Record	-	-	-	-	$516,000	0.05
+2014	436782	2/30 Ipswich Street	12/08/2014	10/10/2014	-	$3,500,000	6867m	Full transfer	-	-	-	-	-	$3,500,000	-	-	Government Record	-	-	-	Office	-	-
+2014	434383	60 Gladstone Street	11/06/2014	03/09/2014	-	$3,150,000	2883m	Full transfer	-	-	-	-	-	$3,150,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	436780	134 Gladstone Street	04/08/2014	07/10/2014	21/02/2014	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	164	-	Combined Record	2797	-	-	Retail	$1,031,000	0.52
+2014	436776	3/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	436775	4/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	436779	            0/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	436778	1/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	436774	5/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	436777	2/134 Gladstone Street	04/08/2014	07/10/2014	-	$2,000,000	4670m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	431122	8 Yallourn Street	16/06/2014	16/07/2014	-	$1,950,000	6746m	Full transfer	-	-	-	-	-	$1,950,000	-	-	Government Record	-	-	-	Residential	-	-
+2014	432471	5/96 Newcastle Street	03/07/2014	07/08/2014	-	$1,650,000	8283m	Full transfer	-	-	-	-	-	$1,650,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	431933	17-19 Townsville Street	06/02/2014	-	29/01/2014	$1,595,000	0m	Full transfer	-	-	-	-	-	$1,595,000	8	-	Allhomes Record	-	-	-	-	$549,000	0.34
+2014	432998	17 Townsville Street	14/03/2014	13/08/2014	-	$1,450,000	1858m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	435736	10 Goolwa Place	25/06/2014	16/09/2014	-	$1,150,000	2538m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2014	447217	22 Geelong Street	19/11/2014	23/02/2015	-	$1,150,000	2796m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	417447	             Deja Vu Canberra	05/02/2014	-	23/12/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	44	-	Allhomes Record	-	-	-	-	-	-
+2014	428258	44 Maryborough Street	16/04/2014	22/05/2014	-	$940,000	1672m	Full transfer	-	-	-	-	-	$940,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	428259	80 Barrier Street	06/03/2014	21/05/2014	-	$900,000	1938m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	427189	            13/24 Iron Knob Street	28/04/2014	12/05/2014	-	$890,000	4825m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Office	-	-
+2014	427190	            12/24 Iron Knob Street	28/04/2014	12/05/2014	-	$890,000	4825m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Office	-	-
+2014	431829	4 Pirie	30/06/2014	-	17/03/2014	$792,000	0m	Full transfer	-	-	-	-	-	$792,000	105	-	Allhomes Record	-	-	-	-	$384,000	0.48
+2014	437913	4 Pirie Street	30/06/2014	20/10/2014	-	$720,000	1951m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	442937	8 Geelong Street	16/09/2014	06/01/2015	-	$700,000	1219m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	439550	6/24 Iron Knob Street	18/07/2014	13/11/2014	-	$687,500	4825m	Full transfer	-	-	-	-	-	$687,500	-	-	Government Record	-	-	-	Office	-	-
+2014	439551	5/24 Iron Knob Street	18/07/2014	13/11/2014	-	$687,500	4825m	Full transfer	-	-	-	-	-	$687,500	-	-	Government Record	-	-	-	Office	-	-
+2014	436632	5/100 Maryborough Street	05/09/2014	05/10/2014	-	$650,000	3119m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	432153	            2/26 Maryborough Street	16/05/2014	31/07/2014	-	$595,000	3344m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2014	437912	7/24 Iron Knob Street	29/08/2014	22/10/2014	-	$550,000	4825m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Office	-	-
+2014	437911	8/24 Iron Knob Street	29/08/2014	22/10/2014	-	$550,000	4825m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Office	-	-
+2014	428611	1/96 Gladstone Street	28/03/2014	03/06/2014	-	$520,000	1626m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	447215	2/71 Tennant Street	15/10/2014	26/02/2015	-	$517,000	2312m	Full transfer	-	-	-	-	-	$517,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	424589	1/9 Beaconsfield Street	17/02/2014	14/04/2014	-	$489,500	6000m	Full transfer	-	-	-	-	-	$489,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435737	17/9 Beaconsfield Street	17/02/2014	16/09/2014	-	$473,000	6000m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430738	            10/24 Iron Knob Street	06/06/2014	02/07/2014	-	$473,000	4825m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Office	-	-
+2014	430737	            11/24 Iron Knob Street	06/06/2014	02/07/2014	-	$473,000	4825m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Office	-	-
+2014	446800	4/43 Tennant Street	09/12/2014	10/02/2015	-	$450,000	6840m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	445127	2/24 Iron Knob Street	22/09/2014	04/02/2015	-	$415,000	4825m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Office	-	-
+2014	439553	1/24 Iron Knob Street	18/07/2014	12/11/2014	-	$399,000	4825m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Office	-	-
+2014	430739	1/171 Newcastle Street	22/04/2014	01/07/2014	-	$385,000	1655m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	447763	14/9 Beaconsfield Street	22/12/2014	12/03/2015	-	$380,000	6000m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426527	            15/24 Iron Knob Street	14/01/2014	06/05/2014	-	$374,000	4825m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Office	-	-
+2014	449311	2/83 Wollongong Street	03/12/2014	01/04/2015	-	$374,000	2230m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	438647	2/8 Gladstone Street	29/07/2014	28/10/2014	-	$360,000	10124m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	447216	1/71 Tennant Street	15/10/2014	26/02/2015	-	$346,500	2312m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	421073	5/145 Gladstone Street	21/01/2014	13/03/2014	-	$335,500	8450m	Full transfer	-	-	-	-	-	$335,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	446799	4/24 Iron Knob Street	03/11/2014	09/02/2015	-	$335,000	4825m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Office	-	-
+2014	431590	12 Isa Street	30/06/2014	21/07/2014	-	$330,000	813m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	445126	3/24 Iron Knob Street	22/09/2014	06/02/2015	-	$315,000	4825m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Office	-	-
+2014	416174	            TENANCY16/27 Yallourn Street	20/01/2014	-	04/09/2012	$310,000	0m	Full transfer	-	-	-	-	-	$310,000	503	-	Allhomes Record	-	-	-	-	$549,000	1.77
+2014	431121	7/106 Gladstone Street	07/04/2014	14/07/2014	-	$275,000	1729m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	427188	            9/24 Iron Knob Street	31/03/2014	15/05/2014	-	$247,500	4825m	Full transfer	-	-	-	-	-	$247,500	-	-	Government Record	-	-	-	Office	-	-
+2014	442936	5/96 Gladstone Street	26/09/2014	09/01/2015	-	$245,000	1626m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	442935	6/96 Gladstone Street	26/09/2014	08/01/2015	-	$245,000	1626m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	429039	1/200 Gladstone Street	06/02/2014	11/06/2014	-	$240,000	1858m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	426528	28/8 Gladstone Street	08/04/2014	07/05/2014	-	$235,000	10124m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	426779	5/61 Townsville Street	09/04/2014	30/05/2014	-	$220,000	2590m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2014	429038	2/200 Gladstone Street	06/02/2014	11/06/2014	-	$220,000	1858m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	439552	19/24 Iron Knob Street	23/09/2014	14/11/2014	-	$215,000	4825m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Office	-	-
+2014	426780	6/58 Wollongong Street	15/04/2014	29/05/2014	-	$209,000	1905m	Full transfer	-	-	-	-	-	$209,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	443782	27/8 Gladstone Street	13/11/2014	21/01/2015	-	$192,500	10124m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Retail	-	-
+2014	419054	            UNIT6/52-58 Wollongong Street	26/02/2014	-	26/02/2013	$190,000	0m	Full transfer	-	-	-	-	-	$190,000	365	-	Allhomes Record	-	-	-	-	-	-
+2014	423519	            UNIT6/56-58 Wollongong Street	26/02/2014	-	23/04/2014	$190,000	0m	Full transfer	-	-	-	-	-	$190,000	-	-	Allhomes Record	-	-	-	-	-	-
+2014	427652	2/16 Isa Street	13/02/2014	28/04/2014	-	$190,000	1998m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	420498	            UNIT2/16 Isa Street	21/01/2014	-	17/03/2014	$190,000	0m	Full transfer	-	-	-	-	-	$190,000	-	-	Allhomes Record	-	-	-	-	$448,000	2.36
+2014	429794	15 Lyell Street	07/03/2014	26/06/2014	-	$175,000	1998m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2014	436025	UNIT7/63-65 Wollongong	14/08/2014	-	28/10/2013	$165,000	0m	Full transfer	-	-	-	-	-	$165,000	290	-	Allhomes Record	-	-	-	-	$2,024,000	12.27
+2014	444070	8/83 Gladstone Street	05/12/2014	28/01/2015	-	$152,000	2017m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Service trades	-	-
+2014	440359	            12/63 Wollongong Street	16/10/2014	20/11/2014	-	$135,000	2360m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2014	427651	            13/63 Wollongong Street	13/03/2014	30/04/2014	-	$132,000	2360m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2014	417346	            UNIT13/53-63 Wollongong Street	03/02/2014	-	14/11/2013	$120,000	0m	Full transfer	-	-	-	-	-	$120,000	81	-	Allhomes Record	-	-	-	-	-	-
+2014	454055	4/79 Gladstone Street	15/09/2014	04/06/2015	-	$15,183	1913m	Full transfer	-	-	-	-	-	$15,183	-	-	Government Record	-	-	-	Retail	-	-
+2014	428255	15/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	428256	1/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	439555	104 Gladstone Street	16/05/2014	11/11/2014	-	$0	4352m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shop	-	-
+2014	428250	9/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	443808	8 Geelong Street	07/03/2014	14/01/2015	-	$0	1219m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2014	428252	18/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	428251	2/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	445131	1/4 Geelong Street	24/11/2014	02/02/2015	-	$0	2076m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2014	436633	22 Barrier Street	30/04/2014	02/10/2014	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	428253	17/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	429792	192 Gladstone Street	21/01/2014	25/06/2014	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2014	486492	5/83 Gladstone Street	17/06/2014	14/09/2016	-	$0	2017m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Service trades	-	-
+2014	429546	18/63 Wollongong Street	22/02/2014	18/06/2014	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2014	445130	2/4 Geelong Street	24/11/2014	02/02/2015	-	$0	2076m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2014	426781	17 Wollongong Street	19/02/2014	28/05/2014	-	$0	1673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2014	428254	16/145 Gladstone Street	03/04/2014	23/05/2014	-	$0	8450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	486502	4/83 Gladstone Street	17/06/2014	14/09/2016	-	$0	2017m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Service trades	-	-
+2014	439556	            7/63 Wollongong Street	17/09/2014	13/11/2014	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2015	473801	12 Dalby Street	27/11/2015	23/03/2016	-	$42,200,000	26582m	Full transfer	-	-	-	-	-	$42,200,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2015	468205	74 Mildura Street	22/09/2015	15/12/2015	-	$15,000,000	30846m	Full transfer	-	-	-	-	-	$15,000,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2015	455222	13 Townsville Street	08/05/2015	17/06/2015	-	$13,000,000	1871m	Full transfer	-	-	-	-	-	$13,000,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	467006	7 Leeton Street	04/08/2015	02/12/2015	-	$4,300,000	4447m	Full transfer	-	-	-	-	-	$4,300,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	474652	20 Whyalla Street	28/08/2015	07/04/2016	-	$4,300,000	3356m	Full transfer	-	-	-	-	-	$4,300,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2015	471662	38 Collie Street	30/10/2015	19/02/2016	-	$2,777,500	1333m	Full transfer	-	-	-	-	-	$2,777,500	-	-	Government Record	-	-	-	Shop	-	-
+2015	457468	67 Gladstone Street	12/05/2015	07/07/2015	-	$2,500,000	6774m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Camping supplies store	-	-
+2015	475991	68 Wollongong Street	21/08/2015	22/04/2016	-	$2,200,000	2658m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	476677	16 Ipswich Street	01/12/2015	27/04/2016	-	$2,100,000	20572m	Full transfer	-	-	-	-	-	$2,100,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	466979	110 Tennant Street	09/04/2015	01/12/2015	-	$2,000,000	3663m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	National association office	-	-
+2015	472843	74 Collie Street	25/02/2015	08/03/2016	-	$1,980,000	5995m	Full transfer	-	-	-	-	-	$1,980,000	-	-	Government Record	-	-	-	Office	-	-
+2015	470853	71 Wollongong Street	22/12/2015	11/02/2016	-	$1,870,000	2230m	Full transfer	-	-	-	-	-	$1,870,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	470846	            1/39 Collie Street	09/09/2015	10/02/2016	-	$1,800,000	7262m	Full transfer	-	-	-	-	-	$1,800,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	464864	47 Kembla Street	01/09/2015	21/10/2015	-	$1,782,000	2044m	Full transfer	-	-	-	-	-	$1,782,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	465132	64 Barrier Street	05/08/2015	30/10/2015	-	$1,515,000	1674m	Full transfer	-	-	-	-	-	$1,515,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	453043	13-15 Townsville	13/04/2015	-	02/08/2014	$1,430,000	0m	Full transfer	-	-	-	-	-	$1,430,000	254	-	Allhomes Record	-	-	-	-	-	-
+2015	476687	21 Townsville Street	14/12/2015	26/04/2016	-	$1,382,700	1858m	Full transfer	-	-	-	-	-	$1,382,700	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2015	470845	2/39 Collie Street	09/09/2015	10/02/2016	-	$1,200,000	7262m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	452544	44 Barrier Street	31/03/2015	19/05/2015	-	$1,116,500	1467m	Full transfer	-	-	-	-	-	$1,116,500	-	-	Government Record	-	-	-	Retail	-	-
+2015	470847	30 Geelong Street	04/12/2015	11/02/2016	-	$1,000,000	2845m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	465746	1/8 Wiluna Street	11/09/2015	10/11/2015	-	$865,000	3330m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	466400	            14/291 Canberra Avenue	18/03/2015	16/11/2015	-	$830,000	10758m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468768	            3/76 Barrier Street	28/08/2015	04/01/2016	-	$770,000	1858m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	466405	            15/291 Canberra Avenue	18/03/2015	16/11/2015	-	$720,000	10758m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467007	            18/291 Canberra Avenue	18/08/2015	02/12/2015	-	$673,500	10758m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463531	77 Newcastle Street	20/08/2015	12/10/2015	-	$616,000	1858m	Full transfer	-	-	-	-	-	$616,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	458986	1/145 Gladstone Street	15/06/2015	07/08/2015	-	$600,000	8450m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	486592	            1/3 Beaconsfield Street	13/03/2015	15/09/2016	-	$535,900	2203m	Full transfer	-	-	-	-	-	$535,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487288	            2/3 Beaconsfield Street	13/03/2015	21/09/2016	-	$534,290	2203m	Full transfer	-	-	-	-	-	$534,290	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462751	 Gladstone Street	27/08/2015	-	04/04/2013	$517,000	0m	Full transfer	-	-	-	-	-	$517,000	875	-	Allhomes Record	-	-	-	-	$481,000	0.93
+2015	449880	4/17 Yallourn Street	13/02/2015	09/04/2015	-	$500,000	5446m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	466406	2/34 Geelong Street	25/09/2015	20/11/2015	-	$495,000	2555m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	457475	27/105 Newcastle Street	27/05/2015	06/07/2015	-	$495,000	26102m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	471674	9/27 Yallourn Street	23/12/2015	15/02/2016	-	$480,000	2857m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	459851	5/66 Maryborough Street	10/06/2015	18/08/2015	-	$450,000	3716m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	460764	UNIT27/105-119 Newcastle Street	15/04/2015	-	16/09/2015	$450,000	0m	Full transfer	-	-	-	-	-	$450,000	-	-	Allhomes Record	-	-	-	-	$2,273,000	5.05
+2015	458773	UNIT1/26 Geelong	20/04/2015	-	27/03/2015	$440,000	0m	Full transfer	-	-	-	-	-	$440,000	24	-	Allhomes Record	-	-	-	-	$349,000	0.79
+2015	458105	2/145 Gladstone Street	18/06/2015	23/07/2015	-	$430,000	8450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	464858	1/79 Gladstone Street	23/09/2015	21/10/2015	-	$413,000	1913m	Full transfer	-	-	-	-	-	$413,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	463975	9 Beaconsfield Street	04/11/2015	-	04/06/2015	$412,000	6000m	Full transfer	-	-	-	-	-	$412,000	153	-	Allhomes Record	-	-	-	-	$1,283,000	3.11
+2015	471664	5/14 Kembla Street	04/12/2015	18/02/2016	-	$396,000	2799m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	467646	1/74 Townsville Street	07/10/2015	-	28/07/2015	$385,000	0m	Full transfer	-	-	-	-	-	$385,000	71	-	Allhomes Record	-	-	-	-	-	-
+2015	470842	1/74 Townsville Street	19/11/2015	11/02/2016	-	$385,000	1858m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2015	548340	5/83 Wollongong Street	11/05/2015	06/11/2018	-	$360,000	2230m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	451641	13/9 Beaconsfield Street	14/05/2015	-	18/02/2015	$353,000	6000m	Full transfer	-	-	-	-	-	$353,000	85	-	Allhomes Record	-	-	-	-	$1,283,000	3.63
+2015	461554	1/79 Gladstone Street	30/06/2015	09/09/2015	-	$280,000	1913m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	468198	5/83 Wollongong Street	22/09/2015	17/12/2015	-	$276,000	2230m	Full transfer	-	-	-	-	-	$276,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	458721	            UNIT2/15 Yallourn Street	11/05/2015	-	24/08/2015	$210,000	0m	Full transfer	-	-	-	-	-	$210,000	-	-	Allhomes Record	-	-	-	-	$467,000	2.22
+2015	459854	6/196 Gladstone Street	20/05/2015	18/08/2015	-	$205,000	1858m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	461532	5/49 Townsville Street	28/07/2015	10/09/2015	-	$200,000	1858m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	470094	6/61 Townsville Street	12/08/2015	01/02/2016	-	$195,000	2590m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2015	451612	8/66 Maryborough Street	24/02/2015	-	30/01/2015	$192,500	0m	Full transfer	-	-	-	-	-	$192,500	25	-	Allhomes Record	-	-	-	-	$1,031,000	5.36
+2015	461713	9/196 Gladstone Street	29/07/2015	15/09/2015	-	$185,000	1858m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	453466	8/66 Maryborough Street	09/04/2015	29/05/2015	-	$175,000	3716m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	459855	24/8 Gladstone Street	06/07/2015	20/08/2015	-	$170,500	10124m	Full transfer	-	-	-	-	-	$170,500	-	-	Government Record	-	-	-	Retail	-	-
+2015	451086	6/1 Yallourn Street	17/02/2015	29/04/2015	-	$165,000	2086m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Industry	-	-
+2015	450587	UNIT24/8 Gladstone Street	01/05/2015	-	04/05/2015	$155,000	0m	Full transfer	-	-	-	-	-	$155,000	-	-	Allhomes Record	-	-	-	-	$3,263,000	21.05
+2015	471673	6/83 Gladstone Street	10/11/2015	15/02/2016	-	$140,000	2017m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Service trades	-	-
+2015	471663	7/83 Gladstone Street	10/11/2015	15/02/2016	-	$140,000	2017m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Service trades	-	-
+2015	461062	5/102 Gladstone Street	21/09/2015	-	06/04/2015	$120,000	3741m	Full transfer	-	1	-	-	-	$120,000	168	-	Allhomes Record	-	-	-	-	$741,000	6.18
+2015	473618	UNIT2/3 Pirie Street	12/12/2015	-	13/08/2014	$80,000	1858m	Full transfer	-	-	-	-	-	$80,000	486	-	Allhomes Record	-	-	-	-	$600,000	7.5
+2015	517138	            4/96 Newcastle Street	24/09/2015	31/07/2017	-	$0	8283m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2015	473811	6 Lyell Street	30/09/2015	24/03/2016	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2015	458478	13/9 Beaconsfield Street	08/05/2015	28/07/2015	-	$0	6000m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460248	            24/291 Canberra Avenue	19/03/2015	28/08/2015	-	$0	10758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	473810	4 Lyell Street	30/09/2015	23/03/2016	-	$0	3057m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2015	473406	10 Goolwa Place	09/11/2015	16/03/2016	-	$0	2538m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2015	486244	4/54 Townsville Street	12/05/2015	06/09/2016	-	$0	1486m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2016	499668	21 Barrier Street	20/12/2016	06/03/2017	-	$9,100,000	10032m	Full transfer	-	-	-	-	-	$9,100,000	-	-	Government Record	-	-	-	Service trades	-	-
+2016	512794	1 Cessnock Street	18/10/2016	22/05/2017	-	$4,850,000	3824m	Full transfer	-	-	-	-	-	$4,850,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2016	502836	34 Isa Street	22/12/2016	10/04/2017	-	$3,125,000	3705m	Full transfer	-	-	-	-	-	$3,125,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2016	477651	177 Gladstone Street	18/03/2016	13/05/2016	-	$3,000,000	11823m	Full transfer	-	-	-	-	-	$3,000,000	-	-	Government Record	-	-	-	Shop	-	-
+2016	486143	119 Wollongong Street	22/06/2016	06/09/2016	20/05/2016	$2,150,000	2230m	Full transfer	-	-	-	-	-	$2,150,000	33	-	Combined Record	-	-	-	Shand goods,antique dealer,...	$668,000	0.31
+2016	478999	13-15 Wiluna Street	05/05/2016	-	29/03/2016	$2,100,000	0m	Full transfer	-	-	-	-	-	$2,100,000	37	-	Allhomes Record	-	-	-	-	$650,000	0.31
+2016	517941	4 Yallourn Street	01/09/2016	28/08/2017	-	$2,000,000	6194m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2016	513270	121 Newcastle Street	23/12/2016	08/06/2017	-	$1,980,000	2145m	Full transfer	-	-	-	-	-	$1,980,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	501460	8 Beaconsfield Street	21/12/2016	20/03/2017	-	$1,980,000	5350m	Full transfer	-	-	-	-	-	$1,980,000	-	-	Government Record	-	-	-	Office	-	-
+2016	479280	22 Wollongong Street	08/04/2016	30/05/2016	-	$1,700,000	2159m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	489448	16 Whyalla Street	01/09/2016	18/10/2016	-	$1,320,000	3600m	Full transfer	-	-	-	-	-	$1,320,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	499953	8 Ipswich Street	22/12/2016	07/03/2017	-	$1,260,000	2526m	Full transfer	-	-	-	-	-	$1,260,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	486601	13 Wiluna Street	11/05/2016	14/09/2016	-	$1,155,000	2917m	Full transfer	-	-	-	-	-	$1,155,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	501405	15 Lyell Street	22/12/2016	21/03/2017	-	$1,100,000	1998m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	500153	18/145 Gladstone Street	15/11/2016	06/03/2017	-	$1,050,000	8450m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	499871	17/145 Gladstone Street	15/11/2016	06/03/2017	-	$1,050,000	8450m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	495265	17 Wollongong Street	18/10/2016	18/01/2017	-	$977,500	1673m	Full transfer	-	-	-	-	-	$977,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2016	476321	50-52 Townsville Street	23/05/2016	-	23/05/2016	$900,000	0m	Full transfer	-	-	-	-	-	$900,000	-	-	Allhomes Record	-	-	-	-	$370,000	0.41
+2016	484978	            1/11 Bodalla Place	07/06/2016	18/08/2016	-	$874,500	1824m	Full transfer	-	-	-	-	-	$874,500	-	-	Government Record	-	-	-	Office	-	-
+2016	488456	 Gladstone Street	30/09/2016	-	18/08/2015	$860,000	0m	Full transfer	-	-	-	-	-	$860,000	409	-	Allhomes Record	-	-	-	-	$704,000	0.82
+2016	495848	1/164 Gladstone Street	18/10/2016	04/01/2017	-	$860,000	1858m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2016	495917	2/164 Gladstone Street	18/10/2016	04/01/2017	-	$860,000	1858m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2016	486636	9/145 Gladstone Street	27/07/2016	16/09/2016	-	$726,000	8450m	Full transfer	-	-	-	-	-	$726,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	514138	2/43 Tennant Street	16/05/2016	28/06/2017	-	$700,000	6840m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	499278	169 Newcastle Street	31/10/2016	-	18/02/2014	$620,000	0m	Full transfer	-	-	-	-	-	$620,000	986	-	Allhomes Record	-	-	-	-	-	-
+2016	503057	2/171 Newcastle Street	13/12/2016	06/04/2017	-	$620,000	1655m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	486651	            3/3 Beaconsfield Street	08/06/2016	12/09/2016	-	$588,500	2203m	Full transfer	-	-	-	-	-	$588,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480552	             Beaconsfield Street	10/06/2016	-	08/04/2016	$535,000	0m	Full transfer	-	-	-	-	-	$535,000	63	-	Allhomes Record	-	-	-	-	-	-
+2016	497083	19 Lyell Street	30/09/2016	10/02/2017	-	$440,000	813m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	496675	100 Maryborough Street	12/08/2016	-	11/05/2016	$420,000	0m	Full transfer	-	-	-	-	-	$420,000	93	-	Allhomes Record	-	-	-	-	$533,000	1.27
+2016	495564	4/100 Maryborough Street	30/09/2016	03/02/2017	-	$420,000	3119m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2016	487121	12/9 Beaconsfield Street	04/08/2016	19/09/2016	-	$407,000	6000m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	504905	9/9 Beaconsfield Street	04/11/2016	04/05/2017	27/05/2016	$401,500	6000m	Full transfer	-	-	-	-	-	$401,500	161	-	Combined Record	158	-	-	Multiple unit dwelling	-	-
+2016	478280	2/26 Geelong Street	30/03/2016	22/05/2016	-	$400,000	1219m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	484259	1/83 Gladstone Street	11/04/2016	17/08/2016	-	$400,000	2017m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Service trades	-	-
+2016	498720	8/8-24 Gladstone Street	13/12/2016	-	13/12/2016	$390,000	0m	Full transfer	-	-	-	-	-	$390,000	-	-	Allhomes Record	-	-	-	-	-	-
+2016	493983	5/43 Tennant Street	12/05/2016	23/12/2016	-	$385,000	6840m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	489152	2/5 Wiluna Street	10/06/2016	18/10/2016	-	$375,000	2322m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	495258	2/8 Gladstone Street	22/11/2016	18/01/2017	-	$319,000	10124m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	486545	5/83 Gladstone Street	29/06/2016	14/09/2016	-	$310,000	2017m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Service trades	-	-
+2016	486503	4/83 Gladstone Street	29/06/2016	14/09/2016	-	$310,000	2017m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Service trades	-	-
+2016	499101	26 Barrier Street	01/12/2016	27/02/2017	-	$300,000	945m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Industry	-	-
+2016	498448	7/105 Newcastle Street	09/12/2016	16/02/2017	-	$270,000	26102m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	513506	2/79 Wollongong Street	15/12/2016	02/06/2017	-	$270,000	1654m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2016	513607	1/79 Wollongong Street	15/12/2016	02/06/2017	-	$270,000	1654m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2016	494020	9/24 Iron Knob Street	03/11/2016	20/12/2016	-	$260,000	4825m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Office	-	-
+2016	487321	13/18 Whyalla Street	13/05/2016	22/09/2016	-	$240,000	4485m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	486200	4/54 Townsville Street	18/08/2016	06/09/2016	-	$227,150	1486m	Full transfer	-	-	-	-	-	$227,150	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2016	478279	5/51 Tennant Street	22/03/2016	17/05/2016	-	$208,000	2322m	Full transfer	-	-	-	-	-	$208,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	558570	7/55 Townsville Street	12/02/2016	03/05/2019	-	$183,500	1858m	Full transfer	-	-	-	-	-	$183,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2016	476688	11/66 Maryborough Street	16/03/2016	28/04/2016	-	$181,500	3716m	Full transfer	-	-	-	-	-	$181,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	474651	19/8 Gladstone Street	20/01/2016	05/04/2016	-	$175,000	10124m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	479548	4/79 Gladstone Street	08/04/2016	08/06/2016	-	$150,000	1913m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	476177	            79-81 Gladstone Street	01/02/2016	-	25/11/2015	$150,000	0m	Full transfer	-	-	-	-	-	$150,000	68	-	Allhomes Record	-	-	-	-	-	-
+2016	476678	            12/63 Wollongong Street	24/03/2016	28/04/2016	-	$135,000	2360m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2016	494109	            40/63 Wollongong Street	03/11/2016	20/12/2016	-	$112,500	2360m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2016	491090	            53-65 Wollongong Street	01/04/2016	-	24/05/2016	$112,500	0m	Full transfer	-	-	-	-	-	$112,500	-	-	Allhomes Record	-	-	-	-	-	-
+2016	492486	8/196 Gladstone Street	04/07/2016	16/12/2016	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2016	493345	33 Quilpie Crescent	29/06/2016	08/12/2016	-	$0	1822m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2016	515007	            4/79 Wollongong Street	13/10/2016	05/07/2017	-	$0	1654m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2016	500567	            7/63 Wollongong Street	22/12/2016	16/03/2017	-	$0	2360m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2016	497915	101 Tennant Street	21/07/2016	22/02/2017	-	$0	10102m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2016	500684	337 Canberra Avenue	21/12/2016	16/03/2017	-	$0	68843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2016	492859	7/196 Gladstone Street	04/07/2016	16/12/2016	-	$0	1858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2017	519139	101 Tennant Street	05/07/2017	11/10/2017	-	$17,000,000	10102m	Full transfer	-	-	-	-	-	$17,000,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2017	551715	14 Tennant Street	19/12/2017	09/01/2019	-	$8,000,000	102110m	Full transfer	-	-	-	-	-	$8,000,000	-	-	Government Record	-	-	-	Cement,cement products,mnfg...	-	-
+2017	519909	204 Gladstone Street	07/07/2017	20/10/2017	-	$5,200,000	1857m	Full transfer	-	-	-	-	-	$5,200,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	528123	15 Albany Street	30/11/2017	19/03/2018	-	$3,800,000	2973m	Full transfer	-	-	-	-	-	$3,800,000	-	-	Government Record	-	-	-	Sportsgoods,bicycle,toy store	-	-
+2017	516375	21 Quilpie Crescent	28/06/2017	10/08/2017	-	$2,750,000	1610m	Full transfer	-	-	-	-	-	$2,750,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2017	518321	36 Iron Knob Street	30/03/2017	04/09/2017	-	$2,750,000	4852m	Full transfer	-	-	-	-	-	$2,750,000	-	-	Government Record	-	-	-	Office	-	-
+2017	521587	28 Gladstone Street	28/08/2017	18/12/2017	-	$2,200,000	1942m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	Office	-	-
+2017	522331	97 Newcastle Street	18/09/2017	14/12/2017	-	$2,050,000	2149m	Full transfer	-	-	-	-	-	$2,050,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	524050	10 Ipswich Street	28/11/2017	22/01/2018	-	$1,980,000	2905m	Full transfer	-	-	-	-	-	$1,980,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	513207	28 Kembla Street	07/04/2017	06/06/2017	-	$1,980,000	1951m	Full transfer	-	-	-	-	-	$1,980,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2017	511070	10 Ipswich Street	16/10/2017	-	22/09/2017	$1,800,000	0m	Full transfer	-	-	-	-	-	$1,800,000	24	-	Allhomes Record	-	-	-	-	$864,000	0.48
+2017	519465	155 Newcastle Street	11/08/2017	13/10/2017	-	$1,420,000	1655m	Full transfer	-	-	-	-	-	$1,420,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	516359	17 Townsville Street	06/04/2017	10/08/2017	-	$1,130,000	1858m	Full transfer	-	-	-	-	-	$1,130,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	524036	18 Geelong Street	06/07/2017	24/01/2018	-	$1,100,000	1739m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Shop	-	-
+2017	517196	55 Collie Street	14/03/2017	31/07/2017	-	$1,000,000	1854m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2017	526900	10/145 Gladstone Street	29/11/2017	06/03/2018	-	$929,500	8450m	Full transfer	-	-	-	-	-	$929,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	549290	12 Quilpie Crescent	22/03/2017	03/12/2018	-	$780,000	2591m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2017	493500	1/75-81 Wollongong Street	17/01/2017	-	18/10/2016	$560,000	1654m	Full transfer	-	-	-	-	-	$560,000	91	-	Allhomes Record	-	-	-	-	$659,000	1.18
+2017	524075	22/105 Newcastle Street	25/10/2017	22/01/2018	-	$500,000	26102m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	526298	20/9 Beaconsfield Street	22/12/2017	26/02/2018	-	$485,000	6000m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526825	3/66 Maryborough Street	21/12/2017	06/03/2018	-	$478,500	3716m	Full transfer	-	-	-	-	-	$478,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	534718	3/1 Yallourn Street	19/10/2017	07/06/2018	-	$470,000	2086m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	503244	7/157 Gladstone Street	24/02/2017	05/04/2017	-	$456,500	8450m	Full transfer	-	-	-	-	-	$456,500	-	-	Government Record	-	-	-	Shop	-	-
+2017	526008	9/9 Beaconsfield Street	28/11/2017	14/02/2018	-	$415,000	6000m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515818	9/171 Newcastle Street	13/06/2017	24/07/2017	-	$415,000	1655m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	504865	2/9 Beaconsfield Street	24/03/2017	02/05/2017	-	$412,500	6000m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506326	UNIT1/24 Iron Knob Street	11/07/2017	-	13/02/2017	$400,000	0m	Full transfer	-	-	-	-	-	$400,000	148	-	Allhomes Record	-	-	-	-	$1,300,000	3.25
+2017	520028	1/24 Iron Knob Street	10/08/2017	16/10/2017	-	$400,000	4825m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Office	-	-
+2017	514985	2/106 Gladstone Street	29/03/2017	07/07/2017	-	$396,000	1729m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	504328	8-24 Gladstone Street	24/05/2017	-	03/09/2015	$395,000	0m	Full transfer	-	-	-	-	-	$395,000	629	-	Allhomes Record	-	-	-	-	$3,263,000	8.26
+2017	503855	8/8 Gladstone Street	16/03/2017	28/04/2017	-	$390,000	10124m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	503693	8/8-24 Gladstone Street	07/04/2017	-	26/04/2016	$390,000	0m	Full transfer	-	-	-	-	-	$390,000	346	-	Allhomes Record	-	-	-	-	-	-
+2017	521514	6/16 Isa Street	30/05/2017	19/12/2017	-	$385,000	1998m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	521406	5/16 Isa Street	30/05/2017	19/12/2017	-	$385,000	1998m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	523516	18/9 Beaconsfield Street	24/02/2017	16/01/2018	-	$380,000	6000m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	502099	2/9 Beaconsfield Street	27/03/2017	-	01/02/2017	$375,000	6000m	Full transfer	-	1	-	-	-	$375,000	54	-	Allhomes Record	157	-	-	-	-	-
+2017	517877	10/90 Barrier Street	20/06/2017	28/08/2017	-	$374,000	20917m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524128	15/8 Gladstone Street	08/11/2017	23/01/2018	-	$363,000	10124m	Full transfer	-	-	-	-	-	$363,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	502038	UNIT2/108 Gladstone Street	28/04/2017	-	27/02/2017	$300,000	0m	Full transfer	-	-	-	-	-	$300,000	60	-	Allhomes Record	-	-	-	-	$604,000	2.01
+2017	526158	19 Isa Street	26/10/2017	27/02/2018	-	$300,000	697m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	516251	13/145 Gladstone Street	03/07/2017	08/08/2017	-	$270,000	8450m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	505319	UNIT8/82-84 Townsville Street	06/06/2017	-	01/04/2016	$250,000	0m	Full transfer	-	-	-	-	-	$250,000	431	-	Allhomes Record	-	-	-	-	$953,000	3.81
+2017	514180	1/106 Gladstone Street	29/03/2017	27/06/2017	-	$242,000	1729m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	492332	UNIT9/82-84 Townsville Street	10/01/2017	-	01/04/2016	$240,000	0m	Full transfer	-	-	-	-	-	$240,000	284	-	Allhomes Record	-	-	-	-	$953,000	3.97
+2017	498201	9/82 Townsville Street	23/01/2017	13/02/2017	-	$240,000	2476m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Industry	-	-
+2017	501916	UNIT1/108 Gladstone Street	21/04/2017	-	27/02/2017	$220,000	0m	Full transfer	-	-	-	-	-	$220,000	53	-	Allhomes Record	-	-	-	-	$604,000	2.75
+2017	512150	4/18 Whyalla Street	12/04/2017	15/05/2017	-	$215,000	4485m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	527706	11/66 Maryborough Street	27/11/2017	13/03/2018	-	$214,500	3716m	Full transfer	-	-	-	-	-	$214,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2017	510088	66 Maryborough Street	09/11/2017	-	28/04/2017	$195,000	0m	Full transfer	-	-	-	-	-	$195,000	195	-	Allhomes Record	-	-	-	-	$1,031,000	5.29
+2017	504965	7/49 Townsville Street	30/03/2017	05/05/2017	-	$185,000	1858m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2017	506446	            UNIT11/18 Whyalla Street	14/07/2017	-	28/06/2017	$185,000	0m	Full transfer	-	-	-	-	-	$185,000	16	-	Allhomes Record	-	-	-	-	-	-
+2017	518237	32/8 Gladstone Street	14/07/2017	29/08/2017	-	$160,000	10124m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Retail	-	-
+2017	503694	5/8-24 Gladstone Street	24/04/2017	-	07/11/2016	$30,000	10124m	Full transfer	-	-	-	-	-	$30,000	168	-	Allhomes Record	-	-	-	-	-	-
+2017	518582	1/5 Wiluna Street	07/02/2017	06/09/2017	-	$0	2322m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2017	517656	3 Albany Street	21/08/2017	21/08/2017	-	$0	2146m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2017	517858	3/5 Wiluna Street	07/02/2017	29/08/2017	-	$0	2322m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2017	521566	13 Wollongong Street	03/11/2017	20/12/2017	-	$0	1524m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2017	549246	115 Gladstone Street	29/10/2017	03/12/2018	-	$0	2542m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industrial trades	-	-
+2017	520092	76 Kembla Street	25/05/2017	26/10/2017	-	$0	1446m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2017	507281	            155 Newcastle St	21/08/2017	-	07/07/2017	-	0m	Full transfer	-	-	-	-	-	-	45	-	Allhomes Record	-	-	-	-	-	-
+2018	538450	80 Mildura Street	02/05/2018	29/07/2018	-	$11,500,000	5256m	Full transfer	-	-	-	-	-	$11,500,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2018	547981	5 Leeton Street	12/06/2018	22/10/2018	-	$6,300,000	6328m	Full transfer	-	-	-	-	-	$6,300,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	548630	138 Gladstone Street	28/09/2018	15/01/2019	-	$6,020,000	11979m	Full transfer	-	-	-	-	-	$6,020,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2018	532744	1/30 Ipswich Street	23/03/2018	14/05/2018	-	$5,725,000	6867m	Full transfer	-	-	-	-	-	$5,725,000	-	-	Government Record	-	-	-	Office	-	-
+2018	547880	139 Canberra Avenue	31/08/2018	24/10/2018	-	$4,600,000	3243m	Full transfer	-	-	-	-	-	$4,600,000	-	-	Government Record	-	-	-	Measuring,profess,scientifi...	-	-
+2018	532696	2/30 Ipswich Street	22/03/2018	14/05/2018	-	$4,075,000	6867m	Full transfer	-	-	-	-	-	$4,075,000	-	-	Government Record	-	-	-	Office	-	-
+2018	536087	126 Gladstone Street	20/04/2018	20/06/2018	-	$2,850,000	4613m	Full transfer	-	-	-	-	-	$2,850,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2018	556105	6 Ipswich Street	13/12/2018	28/03/2019	-	$2,299,000	2148m	Full transfer	-	-	-	-	-	$2,299,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	548027	            3/76 Barrier Street	15/08/2018	22/11/2018	-	$1,850,000	1858m	Full transfer	-	-	-	-	-	$1,850,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	535758	5/17 Dalby Street	04/04/2018	20/06/2018	-	$1,710,800	4482m	Full transfer	-	-	-	-	-	$1,710,800	-	-	Government Record	-	-	-	Warehouse	-	-
+2018	543841	            1/22 Kembla Street	05/07/2018	11/10/2018	-	$1,480,000	2314m	Full transfer	-	-	-	-	-	$1,480,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2018	543731	7/22 Kembla Street	05/07/2018	11/10/2018	-	$1,480,000	2314m	Full transfer	-	-	-	-	-	$1,480,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2018	537859	20 Kembla Street	25/06/2018	-	18/12/2017	$1,480,000	0m	Full transfer	-	-	-	-	-	$1,480,000	189	-	Allhomes Record	-	-	-	-	$523,000	0.35
+2018	543624	8/22 Kembla Street	05/07/2018	11/10/2018	-	$1,480,000	2314m	Full transfer	-	-	-	-	-	$1,480,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2018	541444	2/17 Yallourn Street	20/07/2018	03/09/2018	-	$1,466,100	5446m	Full transfer	-	-	-	-	-	$1,466,100	-	-	Government Record	-	-	-	Industry	-	-
+2018	550124	13 Townsville Street	05/11/2018	11/12/2018	-	$1,460,000	1871m	Full transfer	-	-	-	-	-	$1,460,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	547883	49 Tennant Street	20/07/2018	23/10/2018	-	$1,350,000	2196m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	548339	15 Kembla Street	04/10/2018	06/11/2018	-	$1,300,000	1394m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	534293	5 Yallourn Street	03/04/2018	05/06/2018	-	$1,070,000	1404m	Full transfer	-	-	-	-	-	$1,070,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	540609	4 Lyell Street	06/08/2018	20/08/2018	-	$1,050,000	3057m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	552955	15/105 Newcastle Street	22/08/2018	06/02/2019	-	$1,000,000	26102m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	511877	13 Yallourn Street	12/02/2018	-	06/06/2017	$995,000	0m	Full transfer	-	-	-	-	-	$995,000	251	-	Allhomes Record	-	-	-	-	$333,000	0.33
+2018	550654	44 Maryborough Street	05/11/2018	11/12/2018	-	$950,000	1672m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	542883	50 Townsville Street	17/07/2018	26/09/2018	-	$885,000	1765m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	General industry	-	-
+2018	538537	23 Yallourn Street	29/06/2018	23/07/2018	-	$880,000	2856m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	548951	7 Kembla Street	17/08/2018	16/01/2019	28/06/2018	$780,000	1394m	Full transfer	-	-	-	-	-	$780,000	50	-	Combined Record	-	-	-	Shand goods,antique dealer,...	$466,000	0.6
+2018	549339	16/65 Tennant Street	17/09/2018	05/11/2018	-	$700,000	4772m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	546831	2/8 Wiluna Street	13/11/2018	02/01/2019	-	$695,000	3330m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	550004	112 Gladstone Street	24/10/2018	11/12/2018	-	$680,000	1889m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Motor cycle dealer	-	-
+2018	535552	1/83 Wollongong Street	23/03/2018	21/06/2018	-	$649,000	2230m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	548977	19 Lyell Street	01/08/2018	15/01/2019	-	$600,000	813m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	549770	1/96 Gladstone Street	12/10/2018	17/12/2018	-	$599,000	1626m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	555897	            2/291 Canberra Avenue	24/08/2018	19/03/2019	-	$564,545	10758m	Full transfer	-	-	-	-	-	$564,545	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542183	1/54 Townsville Street	09/02/2018	18/09/2018	-	$550,000	1486m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Personal service	-	-
+2018	528729	6/83 Wollongong Street	17/01/2018	19/03/2018	-	$540,000	2230m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	542159	3/80 Newcastle Street	14/08/2018	20/09/2018	-	$510,000	2209m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	544480	8/27 Yallourn Street	08/06/2018	17/10/2018	-	$495,000	2857m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	544910	9 Beaconsfield Street	12/11/2018	-	04/06/2018	$480,000	0m	Full transfer	-	-	-	-	-	$480,000	161	-	Allhomes Record	-	-	-	-	$1,283,000	2.67
+2018	548256	3/100 Maryborough Street	13/09/2018	08/11/2018	-	$462,000	3119m	Full transfer	-	-	-	-	-	$462,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	540255	6 Lyell Street	06/08/2018	20/08/2018	-	$450,000	813m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	547252	11/9 Beaconsfield Street	05/11/2018	03/01/2019	-	$447,500	6000m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552222	1/105 Newcastle Street	16/11/2018	21/01/2019	-	$445,500	26102m	Full transfer	-	-	-	-	-	$445,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	546368	1 Pirie Street	10/10/2018	-	20/06/2017	$434,500	0m	Full transfer	-	-	-	-	-	$434,500	477	-	Allhomes Record	-	-	-	-	$3,114,000	7.17
+2018	526722	UNIT1/24 Iron Knob Street	06/02/2018	-	01/08/2016	$400,000	0m	Full transfer	-	-	-	-	-	$400,000	554	-	Allhomes Record	-	-	-	-	$1,300,000	3.25
+2018	550331	10/83 Gladstone Street	03/12/2018	11/01/2019	10/05/2018	$395,000	2017m	Full transfer	-	-	-	-	-	$395,000	207	-	Combined Record	-	-	-	Service trades	-	-
+2018	551966	2/90 Barrier Street	14/12/2018	29/01/2019	-	$395,000	20917m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541332	15/24 Iron Knob Street	04/07/2018	06/09/2018	-	$391,600	4825m	Full transfer	-	-	-	-	-	$391,600	-	-	Government Record	-	-	-	Office	-	-
+2018	543768	4/9 Beaconsfield Street	22/08/2018	09/10/2018	-	$380,000	6000m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546696	5/8 Gladstone Street	31/10/2018	03/01/2019	-	$360,000	10124m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	537784	UNIT15/24 Iron Knob Street	04/07/2018	-	22/12/2017	$356,000	0m	Full transfer	-	-	-	-	-	$356,000	194	-	Allhomes Record	-	-	-	-	$1,300,000	3.65
+2018	553792	67 Kembla	22/11/2018	-	04/09/2018	$320,000	0m	Full transfer	-	-	-	-	-	$320,000	79	-	Allhomes Record	-	-	-	-	$3,263,000	10.2
+2018	548333	10/105 Newcastle Street	09/07/2018	06/11/2018	-	$308,000	26102m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	545400	169 Newcastle Street	09/08/2018	-	13/04/2018	$305,000	0m	Full transfer	-	-	-	-	-	$305,000	118	-	Allhomes Record	-	-	-	-	-	-
+2018	547260	3/171 Newcastle Street	02/11/2018	03/01/2019	-	$305,000	1655m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	541891	3/164 Gladstone Street	29/06/2018	11/09/2018	15/05/2018	$300,000	1858m	Full transfer	-	2	-	-	-	$300,000	45	-	Combined Record	-	-	-	Car,truck dealers new,used ...	-	-
+2018	539297	105-119 Newcastle Street	29/05/2018	-	17/05/2018	$280,000	0m	Full transfer	-	-	-	-	-	$280,000	12	-	Allhomes Record	-	-	-	-	$2,871,220	10.25
+2018	536508	3/17 Dalby Street	04/04/2018	25/06/2018	-	$277,200	4482m	Full transfer	-	-	-	-	-	$277,200	-	-	Government Record	-	-	-	Warehouse	-	-
+2018	535845	1/17 Dalby Street	04/04/2018	20/06/2018	-	$271,600	4482m	Full transfer	-	-	-	-	-	$271,600	-	-	Government Record	-	-	-	Warehouse	-	-
+2018	535590	4/17 Dalby Street	04/04/2018	20/06/2018	-	$271,600	4482m	Full transfer	-	-	-	-	-	$271,600	-	-	Government Record	-	-	-	Warehouse	-	-
+2018	536402	2/17 Dalby Street	04/04/2018	25/06/2018	-	$268,800	4482m	Full transfer	-	-	-	-	-	$268,800	-	-	Government Record	-	-	-	Warehouse	-	-
+2018	529918	145 Newcastle Street	25/01/2018	-	25/09/2017	$260,000	0m	Full transfer	-	-	-	-	-	$260,000	122	-	Allhomes Record	-	-	-	-	$1,208,000	4.65
+2018	550023	            2/143 Newcastle Street	05/10/2018	11/12/2018	-	$260,000	1968m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	532172	7/143 Newcastle Street	29/03/2018	08/05/2018	-	$260,000	1968m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	541393	1/17 Yallourn Street	20/07/2018	03/09/2018	-	$247,000	5446m	Full transfer	-	-	-	-	-	$247,000	-	-	Government Record	-	-	-	Industry	-	-
+2018	548770	8/22 Kembla Street	08/11/2018	15/01/2019	-	$230,000	2314m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2018	533591	6/196 Gladstone Street	21/03/2018	23/05/2018	-	$210,000	1858m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	538103	14/171 Newcastle Street	20/04/2018	16/07/2018	-	$188,100	1655m	Full transfer	-	-	-	-	-	$188,100	-	-	Government Record	-	-	-	Industry	-	-
+2018	534370	11/83 Wollongong Street	04/04/2018	04/06/2018	-	$187,000	2230m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	534292	11/18 Whyalla Street	09/04/2018	05/06/2018	-	$185,000	4485m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	551039	6/49 Townsville Street	06/12/2018	09/01/2019	-	$170,500	1858m	Full transfer	-	-	-	-	-	$170,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	547186	3/196 Gladstone Street	21/11/2018	22/11/2018	-	$165,000	1858m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	552060	            8/63 Wollongong Street	28/09/2018	30/01/2019	-	$145,000	2360m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2018	542354	20/8 Gladstone Street	25/06/2018	18/09/2018	-	$145,000	10124m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Retail	-	-
+2018	552427	            14/63 Wollongong Street	03/12/2018	21/01/2019	-	$130,000	2360m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2018	541562	12 Dalby Street	10/09/2018	-	30/04/2018	$120,000	-	Full transfer	-	-	-	-	-	$120,000	133	-	Allhomes Record	-	-	-	-	$6,185,000	51.54
+2018	539112	            34/63 Wollongong Street	24/06/2018	01/08/2018	-	$100,000	2360m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2018	529683	            39/63 Wollongong Street	09/02/2018	08/04/2018	-	$85,000	2360m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2018	542983	FIRSTFLOOR/32 Kembla Street	15/10/2018	-	16/10/2017	$1	0m	Full transfer	-	-	-	-	-	$1	364	-	Allhomes Record	-	-	-	-	-	-
+2018	525594	9 Beaconsfield Street	05/03/2018	-	05/10/2017	$1	0m	Full transfer	-	-	-	-	-	$1	151	-	Allhomes Record	-	-	-	-	$1,283,000	1283000.0
+2018	555631	74 Collie Street	17/12/2018	21/03/2019	-	$0	5995m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2018	542775	11 Collie Street	19/03/2018	26/09/2018	-	$0	1502m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	541730	7/1 Yallourn Street	01/07/2018	11/09/2018	-	$0	2086m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2018	546880	20 Barrier Street	08/05/2018	30/11/2018	-	$0	1111m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2018	543172	5/24 Iron Knob Street	10/04/2018	05/10/2018	-	$0	4825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2018	542759	15 Collie Street	19/03/2018	26/09/2018	-	$0	1906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2018	540324	1/27 Yallourn Street	07/06/2018	22/08/2018	-	$0	2857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2018	559540	13 Yallourn Street	21/12/2018	13/05/2019	-	$0	1323m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2018	563152	88 Gladstone Street	07/08/2018	17/06/2019	-	$0	3461m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2019	559418	64 Collie Street	18/04/2019	13/05/2019	-	$17,000,000	7601m	Full transfer	-	-	-	-	-	$17,000,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2019	566712	            1/39 Collie Street	17/07/2019	09/08/2019	-	$5,480,000	7262m	Full transfer	-	-	-	-	-	$5,480,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	566717	2/39 Collie Street	17/07/2019	09/08/2019	-	$5,480,000	7262m	Full transfer	-	-	-	-	-	$5,480,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	559239	107 Wollongong Street	15/04/2019	13/05/2019	-	$1,770,000	2230m	Full transfer	-	-	-	-	-	$1,770,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	562597	9 Yallourn Street	05/03/2019	12/06/2019	27/10/2018	$1,750,000	3213m	Full transfer	-	-	-	-	-	$1,750,000	129	-	Combined Record	-	-	-	Industry	$482,000	0.28
+2019	573713	8 Yallourn Street	17/10/2019	08/11/2019	-	$1,600,000	6746m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Residential	-	-
+2019	557319	47 Kembla Street	04/04/2019	09/04/2019	-	$1,550,000	2044m	Full transfer	-	-	-	-	-	$1,550,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	567903	1/18 Wollongong Street	27/06/2019	22/08/2019	-	$1,500,000	1486m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	567509	3/18 Wollongong Street	27/06/2019	22/08/2019	-	$1,500,000	1486m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Personal service	-	-
+2019	557740	13 Townsville Street	17/01/2019	16/04/2019	-	$1,460,000	1871m	Full transfer	-	-	-	-	-	$1,460,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	553784	15-17 Kembla Street	01/03/2019	-	15/05/2017	$1,350,000	0m	Full transfer	-	-	-	-	-	$1,350,000	655	-	Allhomes Record	-	-	-	-	$466,000	0.35
+2019	564843	9 Townsville Street	27/06/2019	08/07/2019	-	$1,190,000	1830m	Full transfer	-	-	-	-	-	$1,190,000	-	-	Government Record	-	-	-	Retail	-	-
+2019	570884	115 Gladstone Street	06/06/2019	03/10/2019	-	$1,050,000	2542m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2019	557299	84 Gladstone Street	25/03/2019	08/04/2019	05/09/2018	$1,050,000	1463m	Full transfer	-	-	-	-	-	$1,050,000	201	-	Combined Record	-	-	-	Retail;pers-service,eat & d...	$466,000	0.44
+2019	565064	22 Geelong Street	23/05/2019	12/07/2019	-	$1,000,000	2796m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	557361	            2/11 Bodalla Place	14/03/2019	12/04/2019	-	$1,000,000	1824m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Office	-	-
+2019	565598	7 Kembla Street	28/05/2019	25/07/2019	-	$980,000	1394m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	563188	44 Maryborough Street	25/03/2019	28/06/2019	-	$950,000	1672m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	555737	            15/291 Canberra Avenue	15/01/2019	22/03/2019	-	$883,500	10758m	Full transfer	-	-	-	-	-	$883,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574051	46-48 Townsville Street	25/11/2019	-	31/07/2019	$840,000	1765m	Full transfer	-	-	-	-	-	$840,000	117	-	Allhomes Record	-	-	-	-	$370,000	0.44
+2019	575746	46 Townsville Street	27/09/2019	07/12/2019	-	$840,000	1765m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2019	555655	            14/291 Canberra Avenue	15/01/2019	22/03/2019	-	$766,500	10758m	Full transfer	-	-	-	-	-	$766,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567844	            1 Beaconsfield Street	01/08/2019	21/08/2019	-	$750,000	2251m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+2019	569478	26 Barrier Street	19/09/2019	-	02/05/2019	$720,000	944m	Full transfer	-	-	-	-	-	$720,000	140	-	Allhomes Record	-	-	-	-	$435,000	0.6
+2019	570370	26 Barrier Street	28/06/2019	24/09/2019	-	$720,000	945m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	573444	26 Barrier Street	14/11/2019	-	28/03/2019	$720,000	944m	Full transfer	-	-	-	-	-	$720,000	231	-	Allhomes Record	-	-	-	-	$435,000	0.6
+2019	572039	4 Isa Street	19/06/2019	09/10/2019	-	$710,000	1998m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	559471	            4/96 Newcastle Street	01/03/2019	13/05/2019	-	$700,000	8283m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	560010	            3/96 Newcastle Street	07/05/2019	20/05/2019	-	$700,000	8283m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	576719	8/24 Iron Knob Street	24/10/2019	12/12/2019	-	$650,000	4825m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Office	-	-
+2019	573833	             Ironknob Street	02/10/2019	-	02/09/2019	$650,000	0m	Full transfer	-	-	-	-	-	$650,000	30	-	Allhomes Record	-	-	-	-	-	-
+2019	576432	7/24 Iron Knob Street	24/10/2019	12/12/2019	-	$650,000	4825m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Office	-	-
+2019	568901	3/151 Newcastle Street	20/08/2019	03/09/2019	-	$632,500	2050m	Full transfer	-	-	-	-	-	$632,500	-	-	Government Record	-	-	-	Industry	-	-
+2019	563847	1/57 Kembla Street	30/05/2019	04/07/2019	-	$585,000	1394m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	564091	2/57 Kembla Street	30/05/2019	04/07/2019	-	$585,000	1394m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	573242	            2/3 Beaconsfield Street	10/09/2019	29/10/2019	-	$580,000	2203m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575912	            1/291 Canberra Avenue	22/11/2019	07/12/2019	-	$550,000	10758m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	577051	            UNIT1/2 Yallourn Street	20/12/2019	-	17/07/2019	$550,000	0m	Full transfer	-	-	-	-	-	$550,000	156	-	Allhomes Record	-	-	-	-	-	-
+2019	559990	6/24 Iron Knob Street	19/03/2019	23/05/2019	-	$480,000	4825m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Office	-	-
+2019	553088	12/1 Yallourn Street	08/01/2019	07/02/2019	-	$425,000	2086m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	558017	8 Gladstone Street	10/05/2019	-	05/07/2018	$415,000	0m	Full transfer	-	-	-	-	-	$415,000	309	-	Allhomes Record	-	-	-	-	$3,263,000	7.86
+2019	559989	1/8 Gladstone Street	09/04/2019	23/05/2019	-	$415,000	10124m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Retail	-	-
+2019	576579	1/100 Maryborough Street	04/09/2019	11/12/2019	-	$411,000	3119m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	572543	7/14 Kembla Street	27/06/2019	22/10/2019	-	$385,000	2799m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	552487	8 Gladstone Street	07/02/2019	-	07/07/2018	$370,000	0m	Full transfer	-	-	-	-	-	$370,000	215	-	Allhomes Record	-	-	-	-	$3,263,000	8.82
+2019	555571	35/8 Gladstone Street	29/01/2019	19/03/2019	-	$352,000	10124m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Retail	-	-
+2019	560987	25 Isa Street	06/02/2019	20/02/2019	-	$350,000	1951m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	572199	15/18 Whyalla Street	11/09/2019	18/10/2019	-	$330,000	4485m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Retail	-	-
+2019	556842	8/18 Whyalla Street	01/03/2019	03/04/2019	-	$302,500	4485m	Full transfer	-	-	-	-	-	$302,500	-	-	Government Record	-	-	-	Retail	-	-
+2019	553793	8 Gladstone Street	01/03/2019	-	26/10/2017	$300,000	0m	Full transfer	-	-	-	-	-	$300,000	491	-	Allhomes Record	-	-	-	-	$3,263,000	10.88
+2019	569564	            15/18 Whyalla	31/07/2019	-	08/06/2019	$300,000	0m	Full transfer	-	-	-	-	-	$300,000	53	-	Allhomes Record	-	-	-	-	-	-
+2019	570534	14/8 Gladstone Street	23/08/2019	23/09/2019	14/06/2019	$297,000	10124m	Full transfer	-	-	-	-	-	$297,000	70	-	Combined Record	116	-	-	Retail	-	-
+2019	563166	7/82 Townsville Street	17/04/2019	18/06/2019	-	$286,000	2476m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	573088	            11/82 Townsville Street	20/09/2019	01/11/2019	-	$220,000	2476m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Industry	-	-
+2019	567641	            1/22 Kembla Street	05/07/2019	22/08/2019	-	$210,000	2314m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2019	566740	9/61 Townsville Street	27/06/2019	09/08/2019	-	$192,500	2590m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	563400	            2/22 Kembla Street	12/04/2019	27/06/2019	-	$192,400	2314m	Full transfer	-	-	-	-	-	$192,400	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2019	560016	4/49 Townsville Street	03/05/2019	21/05/2019	-	$190,000	1858m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	562094	49-51 Townsville Street	25/06/2019	-	28/11/2018	$190,000	0m	Full transfer	-	-	-	-	-	$190,000	209	-	Allhomes Record	-	-	-	-	$641,000	3.37
+2019	569015	6/80 Newcastle Street	17/07/2019	03/09/2019	-	$183,700	2209m	Full transfer	-	-	-	-	-	$183,700	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	574895	4/80 Newcastle Street	02/08/2019	22/11/2019	-	$180,000	2209m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	576073	5/80 Newcastle Street	30/09/2019	05/12/2019	-	$170,000	2209m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2019	572318	19/63 Wollongong Street	16/08/2019	17/10/2019	-	$137,500	2360m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2019	568308	            11/63 Wollongong Street	22/07/2019	26/08/2019	-	$107,500	2360m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2019	558257	7/55 Townsville Street	18/04/2019	03/05/2019	-	$85,000	1858m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	573831	3 Pirie Street	31/10/2019	-	09/08/2019	$30,000	-	Full transfer	-	-	-	-	-	$30,000	83	-	Allhomes Record	-	-	-	-	$600,000	20.0
+2019	565003	8 Albany Street	17/06/2019	08/07/2019	-	$0	5971m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industrial trades	-	-
