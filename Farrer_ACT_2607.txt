@@ -1,0 +1,1113 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	120333	103 Hawkesbury Crescent	14/10/2006	20/04/2007	14/09/2006	$1,290,000	2762m	Full transfer	7	1	3	3	-	$1,290,000	30	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.4
+2006	165670	100 Hawkesbury Crescent	01/07/2006	21/11/2006	01/06/2006	$1,175,000	1331m	Full transfer	4	1	2	4	-	$1,175,000	30	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.34
+2006	318020	67 Hawkesbury Crescent	19/12/2006	16/02/2007	-	$862,500	1534m	Full transfer	-	-	-	-	-	$862,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212244	34 Custance Street	09/03/2006	15/06/2006	10/02/2006	$765,000	1043m	Full transfer	5	2	1	2	-	$765,000	27	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.5
+2006	165063	31 Custance Street	01/11/2006	15/02/2007	11/10/2006	$755,000	1033m	Full transfer	3	2	1	2	1	$755,000	21	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.41
+2006	212219	6 Woodgate Street	29/04/2006	20/06/2006	06/04/2006	$742,500	1197m	Full transfer	4	1	1	4	-	$742,500	23	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.44
+2006	409323	17 Hawkesbury Crescent	10/11/2006	15/02/2007	06/10/2006	$695,000	1053m	Full transfer	4	2	-	2	-	$695,000	35	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.51
+2006	307821	20 Gluyas Street	08/07/2006	14/11/2006	-	$660,000	914m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37652	24 Wagga Street	18/09/2006	22/10/2006	-	$660,000	871m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165671	164 Hawkesbury Crescent	10/10/2006	23/11/2006	-	$650,000	1146m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212207	19 McAlpine Place	21/02/2006	06/04/2006	22/12/2005	$649,000	1299m	Full transfer	4	1	1	2	-	$649,000	61	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.43
+2006	32776	22 Steinwedel Street	20/12/2006	26/03/2007	-	$640,000	1024m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37301	33 Steinwedel Street	11/08/2006	22/09/2006	-	$635,000	1592m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37627	148 Lambrigg Street	15/09/2006	16/10/2006	11/08/2006	$629,000	877m	Full transfer	4	1	2	2	-	$629,000	35	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.41
+2006	169016	102 Lambrigg Street	09/12/2006	07/02/2007	-	$619,000	978m	Full transfer	-	-	-	-	-	$619,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203395	31 Waite Street	04/08/2006	15/09/2006	07/04/2006	$610,000	1184m	Full transfer	3	1	1	2	-	$610,000	119	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.47
+2006	212185	19 Hagelthorn Street	01/05/2006	15/06/2006	10/01/2006	$605,000	968m	Full transfer	4	1	1	2	-	$605,000	111	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.43
+2006	212123	52 Pridham Street	10/02/2006	09/05/2006	-	$600,000	906m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34722	58 Drevermann Street	02/06/2006	24/08/2006	-	$586,000	831m	Full transfer	-	-	-	-	-	$586,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	166980	153 Lambrigg Street	16/05/2006	24/07/2006	-	$575,000	1168m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202444	29 Waite Street	10/05/2006	04/08/2006	19/04/2006	$540,000	1184m	Full transfer	3	1	1	1	-	$540,000	21	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.54
+2006	307674	6 Hagelthorn Street	02/12/2006	08/02/2007	-	$535,000	844m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203018	12 Dookie Street	16/08/2006	04/01/2007	08/06/2006	$530,000	846m	Full transfer	4	1	1	2	-	$530,000	69	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.41
+2006	212130	5 Moodie Street	21/03/2006	30/05/2006	-	$530,000	789m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169501	13 Wenholz Street	16/10/2006	17/11/2006	-	$529,000	957m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	13406	            Farrer Place	19/06/2006	01/09/2006	-	$525,000	412m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2006	310835	15 Spafford Crescent	31/05/2006	12/07/2006	-	$522,000	873m	Full transfer	-	-	-	-	-	$522,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34118	12 Cameron Street	07/10/2006	28/11/2006	13/09/2006	$520,000	840m	Full transfer	3	1	1	2	-	$520,000	24	-	Combined Record	-	-	-	Single residential dwelling	$244,000	0.47
+2006	165590	53 Spafford Crescent	30/11/2006	30/01/2007	-	$520,000	812m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212223	99 Hawkesbury Crescent	30/03/2006	24/05/2006	-	$500,000	2065m	Partial transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212248	2 Drevermann Street	30/03/2006	26/05/2006	-	$499,000	906m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203602	54 Lambrigg Street	07/07/2006	28/08/2006	19/05/2006	$490,000	942m	Full transfer	4	1	1	-	1	$490,000	49	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.4
+2006	32921	30 Muresk Street	18/10/2006	06/12/2006	16/08/2006	$475,000	1110m	Full transfer	3	1	1	-	-	$475,000	63	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.71
+2006	212186	7 Hagelthorn Street	25/05/2006	18/07/2006	18/01/2006	$475,000	940m	Full transfer	4	2	-	-	1	$475,000	127	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.53
+2006	203050	59 Pridham Street	17/11/2006	05/01/2007	15/09/2006	$470,000	831m	Full transfer	3	1	-	1	-	$470,000	63	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.52
+2006	212184	18 Hawkesbury Crescent	03/02/2006	16/03/2006	26/08/2005	$456,000	1019m	Full transfer	4	1	-	-	1	$456,000	161	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.67
+2006	212128	57 Pridham Street	17/01/2006	31/03/2006	11/11/2005	$455,000	767m	Full transfer	3	1	-	1	1	$455,000	67	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.51
+2006	212175	127 Lambrigg Street	27/04/2006	25/07/2006	27/03/2006	$442,500	1153m	Full transfer	3	1	-	1	-	$442,500	31	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.45
+2006	36207	16 Lambrigg Street	01/12/2006	06/07/2007	27/10/2006	$438,000	968m	Full transfer	4	1	1	-	2	$438,000	35	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.51
+2006	14634	            Farrer Place	22/02/2006	04/04/2006	-	$437,500	516m	Full transfer	-	-	-	-	-	$437,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	203600	53 Lambrigg Street	26/05/2006	30/08/2006	-	$430,000	1104m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2006	212075	30 Pridham Street	13/05/2006	27/06/2006	10/02/2006	$426,000	920m	Full transfer	3	2	1	1	-	$426,000	92	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.45
+2006	34446	53 Pridham Street	27/07/2006	29/09/2006	14/06/2006	$425,000	688m	Full transfer	3	1	-	1	1	$425,000	43	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.52
+2006	33563	34 Gluyas Street	03/11/2006	18/12/2006	-	$410,000	742m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229474	32 Hagelthorn Street	07/09/2006	25/10/2006	18/08/2006	$400,000	670m	Full transfer	3	1	-	1	-	$400,000	20	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.56
+2006	302785	32 Gluyas Street	09/09/2006	18/10/2006	-	$398,000	748m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212177	14 Cheel Place	30/01/2006	21/02/2006	24/11/2005	$390,000	824m	Partial transfer	4	1	-	-	1	$390,000	67	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.55
+2006	165669	1 Pudney Street	18/10/2006	22/11/2006	-	$390,000	883m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212117	4 Potts Place	23/02/2006	05/04/2006	-	$335,000	849m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	32511	1/30 Gatton Street	14/12/2006	26/03/2007	28/11/2006	$302,500	1968m	Full transfer	2	1	-	-	1	$302,500	16	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	17	            2/5 Marshall Street	19/09/2006	07/11/2006	-	$287,500	1011m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	191	            1/5 Marshall Street	29/09/2006	05/12/2006	-	$285,000	1011m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	10416	            2/32C Marshall Street	12/12/2006	08/02/2007	-	$245,500	1098m	Full transfer	-	-	-	-	-	$245,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34445	7/35 Marshall Street	15/08/2006	26/09/2006	19/07/2006	$243,000	1275m	Full transfer	2	1	-	-	1	$243,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	203340	4/34 Gatton Street	13/11/2006	16/01/2007	-	$242,000	2441m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	4363	            2/33 Marshall Street	08/12/2006	-	08/09/2006	$240,000	1287m	Full transfer	2	1	-	-	1	$240,000	91	-	Allhomes Record	-	-	-	-	-	-
+2006	37591	9/32 Gatton Street	04/08/2006	17/10/2006	21/07/2006	$239,000	2228m	Full transfer	2	1	-	-	1	$239,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	212094	3/34 Gatton Street	19/05/2006	20/07/2006	-	$233,500	2441m	Full transfer	-	-	-	-	-	$233,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203347	3/44 Spafford Crescent	15/09/2006	17/01/2007	01/09/2006	$232,500	1999m	Full transfer	2	1	-	-	1	$232,500	14	-	Combined Record	-	-	-	Multiple unit dwelling	$637	0.0
+2006	301	            1/33E Marshall Street	18/08/2006	25/09/2006	10/07/2006	$232,000	1287m	Full transfer	2	1	-	-	1	$232,000	39	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	32107	5/9 Farrer Place	03/10/2006	07/11/2006	-	$220,000	1865m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	212104	11/9 Farrer Place	26/02/2006	05/04/2006	-	$165,000	1865m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	72065	11/9 Farrer Place	27/02/2006	-	07/12/2005	$165,000	-	Full transfer	1	1	-	1	-	$165,000	82	-	Allhomes Record	-	-	-	-	-	-
+2006	212105	2/9 Farrer Place	04/05/2006	16/06/2006	-	$165,000	1865m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169500	212 Beasley Street	25/10/2006	14/11/2006	-	$133,333	1003m	Partial transfer	-	-	-	-	-	$133,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232705	47 Hawkesbury Crescent	03/02/2006	21/11/2007	-	$0	1371m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165167	12 Werribee Crescent	20/12/2006	16/02/2007	-	$0	838m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165564	18 Cameron Street	17/11/2006	02/02/2007	-	$0	751m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	560640	2 Moodie Street	07/04/2006	28/05/2019	-	$0	707m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168925	12 Hawkesbury Crescent	24/08/2006	22/03/2007	-	$0	686m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232887	6 Gluyas Street	12/12/2006	08/11/2007	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203141	17 Roseworthy Crescent	15/10/2006	05/01/2007	-	$0	1457m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	91408	32B Marshall Street	12/12/2006	-	25/10/2006	-	1098m	Full transfer	2	1	-	-	1	-	48	-	Allhomes Record	-	-	-	-	$483,000	-
+2006	212103	53 Lambrigg Street	23/01/2006	02/06/2006	-	-	1104m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2006	37300	22 Waite Street	06/02/2006	21/09/2006	-	-	762m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36566	16 Cameron Street	04/06/2006	07/09/2006	-	-	772m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212085	29 Gatton Street	26/01/2006	05/07/2006	-	-	713m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229490	24 Hagelthorn Street	12/10/2006	24/10/2006	-	-	786m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212106	5/9 Farrer Place	17/03/2006	30/06/2006	-	-	1865m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168674	18 Hawkesbury Crescent	17/07/2006	08/10/2006	-	-	1019m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203601	35 Lambrigg Street	24/05/2006	28/08/2006	-	-	766m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212135	1 Watt Place	05/03/2006	30/03/2006	-	-	1337m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	212158	3 Johnson Place	27/01/2006	27/01/2006	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	83698	5B Marshall Street	09/10/2006	-	29/06/2006	-	1011m	Full transfer	2	1	-	-	1	-	102	-	Allhomes Record	-	-	-	-	$235,000	-
+2006	168230	18 Waite Street	11/06/2006	08/08/2006	-	-	736m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	235002	2/120 Lambrigg Street	12/08/2006	07/02/2008	-	-	1852m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	3701	            5/9 Valley Court, Farrer Place	06/10/2006	-	21/07/2006	-	-	Full transfer	2	1	-	-	1	-	77	-	Allhomes Record	-	-	-	-	-	-
+2006	212180	20 Cheel Place	31/03/2006	26/05/2006	-	-	942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203599	6/44 Spafford Crescent	17/08/2006	28/08/2006	-	-	1999m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235065	89 Hawkesbury Crescent	17/11/2007	04/02/2008	19/10/2007	$1,080,000	2171m	Full transfer	5	3	1	3	-	$1,080,000	29	-	Combined Record	-	-	-	Single residential dwelling	$547,000	0.51
+2007	166434	77 Hawkesbury Crescent	31/05/2007	25/07/2007	-	$1,050,000	2038m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166787	136 Hawkesbury Crescent	22/06/2007	14/08/2007	10/05/2007	$950,000	891m	Full transfer	6	2	1	3	-	$950,000	43	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.47
+2007	168129	125 Hawkesbury Crescent	15/08/2007	17/10/2007	-	$900,000	1496m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	25287	19 Cameron Street	08/12/2007	-	02/11/2007	$815,000	857m	Full transfer	4	1	1	2	-	$815,000	36	-	Allhomes Record	-	-	-	-	$340,000	0.42
+2007	231012	32 Hawkesbury Crescent	27/10/2007	10/12/2007	05/10/2007	$788,000	763m	Full transfer	4	2	1	2	-	$788,000	22	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.45
+2007	231191	53 Spafford Crescent	01/12/2007	17/01/2008	-	$785,000	812m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235066	41 Drevermann Street	08/12/2007	07/02/2008	-	$780,000	808m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236729	36 Waite Street	23/11/2007	02/04/2008	16/11/2007	$710,000	780m	Full transfer	4	1	2	1	2	$710,000	7	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.41
+2007	24938	164 Hawkesbury Crescent	19/12/2007	-	05/10/2007	$695,000	1146m	Full transfer	4	1	1	2	-	$695,000	75	-	Allhomes Record	-	-	-	-	$333,000	0.48
+2007	32627	57 Hawkesbury Crescent	08/02/2007	27/03/2007	28/12/2006	$695,000	1300m	Full transfer	4	1	1	-	-	$695,000	42	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.69
+2007	235281	5 Moodie Street	27/10/2007	19/03/2008	-	$626,500	789m	Full transfer	-	-	-	-	-	$626,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36260	1 Prior Place	05/05/2007	03/07/2007	23/03/2007	$607,500	811m	Full transfer	3	1	1	-	1	$607,500	43	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.6
+2007	166253	13 McAlpine Place	30/05/2007	22/08/2007	04/04/2007	$600,000	1099m	Full transfer	4	1	1	2	-	$600,000	56	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.5
+2007	203215	16 Longerenong Street	23/04/2007	30/05/2007	30/03/2007	$587,500	633m	Full transfer	4	1	1	1	-	$587,500	24	-	Combined Record	-	-	-	Single residential dwelling	$203,000	0.35
+2007	235148	15 Muresk Street	23/11/2007	08/02/2008	-	$585,000	1166m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202818	16 Wagga Street	03/04/2007	13/06/2007	01/02/2007	$572,500	867m	Full transfer	4	1	1	2	-	$572,500	61	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.56
+2007	231266	27 Gatton Street	12/10/2007	25/11/2007	12/09/2007	$570,000	954m	Full transfer	3	1	1	2	-	$570,000	30	-	Combined Record	-	-	-	Single residential dwelling	$237,000	0.42
+2007	121885	38 Lambrigg Street	31/07/2007	25/09/2007	10/04/2007	$558,000	687m	Full transfer	4	2	1	2	-	$558,000	112	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.46
+2007	315552	4 Hagelthorn Street	21/08/2007	18/04/2009	-	$550,000	866m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36017	10 Dookie Street	04/04/2007	06/07/2007	24/02/2007	$548,000	860m	Full transfer	4	2	-	-	2	$548,000	39	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.45
+2007	202838	27 Roseworthy Crescent	21/04/2007	15/06/2007	21/03/2007	$545,000	974m	Full transfer	3	1	-	-	2	$545,000	31	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.56
+2007	121767	16 Spafford Crescent	30/06/2007	31/08/2007	-	$541,000	890m	Full transfer	-	-	-	-	-	$541,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409326	6 Spafford Crescent	10/08/2007	26/10/2007	21/06/2007	$530,000	850m	Full transfer	3	1	-	2	1	$530,000	50	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.46
+2007	36842	14 Woodgate Street	10/07/2007	20/07/2007	-	$530,000	1004m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121928	30 Pridham Street	03/08/2007	25/09/2007	14/07/2007	$520,000	920m	Full transfer	3	1	1	-	1	$520,000	20	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.42
+2007	164345	12 Wenholz Street	25/01/2007	12/03/2007	08/01/2007	$515,000	682m	Full transfer	5	2	-	-	2	$515,000	17	-	Combined Record	-	-	-	Medium density dwelling	$218,500	0.42
+2007	167822	14 Gatton Street	22/06/2007	19/09/2007	07/06/2007	$515,000	846m	Full transfer	3	1	1	-	1	$515,000	15	-	Combined Record	-	-	-	Single residential dwelling	$237,000	0.46
+2007	168484	102 Pridham Street	12/01/2007	05/03/2007	16/11/2006	$510,000	846m	Full transfer	3	1	1	2	-	$510,000	57	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.55
+2007	230848	144 Lambrigg Street	18/08/2007	04/12/2007	12/07/2007	$490,000	929m	Full transfer	4	1	-	2	1	$490,000	37	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.6
+2007	318261	29 Moodie Street	19/01/2007	09/03/2007	-	$482,000	824m	Full transfer	-	-	-	-	-	$482,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165945	3 Waite Street	07/03/2007	09/08/2007	09/02/2007	$480,000	1301m	Full transfer	2	1	1	-	2	$480,000	26	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.59
+2007	167317	18 Spafford Crescent	09/03/2007	07/05/2007	01/02/2007	$480,000	974m	Full transfer	3	1	-	2	2	$480,000	36	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.58
+2007	107812	33 Pridham Street	15/09/2007	-	24/08/2007	$460,000	708m	Full transfer	3	1	-	1	-	$460,000	22	-	Allhomes Record	-	-	-	-	$256,000	0.56
+2007	202796	8 Sutton Place	24/08/2007	08/10/2007	-	$445,000	786m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230276	104 Lambrigg Street	03/11/2007	21/02/2008	12/10/2007	$430,000	1025m	Full transfer	3	1	-	-	1	$430,000	22	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.57
+2007	5315	            2/7 Crane Place	13/03/2007	17/04/2007	-	$418,000	1369m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167815	25 Pridham Street	27/04/2007	17/09/2007	-	$375,000	769m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235415	26 Roseworthy Crescent	09/10/2007	12/03/2008	-	$375,000	846m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230851	5 Southee Place	16/10/2007	05/12/2007	07/09/2007	$359,500	358m	Full transfer	3	1	1	-	2	$359,500	39	-	Combined Record	-	-	-	Medium density dwelling	$228,000	0.63
+2007	10267	            8/188A Beasley Street	07/02/2007	08/03/2007	-	$282,500	5031m	Full transfer	-	-	-	-	-	$282,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	236765	5/35 Marshall Street	10/07/2007	19/12/2007	-	$275,000	1275m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	10228	            2/33E Marshall Street	10/01/2007	23/01/2007	-	$240,000	1287m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120466	3/9 Farrer Place	22/02/2007	15/05/2007	-	$175,000	1865m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230757	21 Marshall Street	20/12/2007	22/02/2008	-	$89,000	921m	Full transfer	-	-	-	-	-	$89,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	169419	8 Moodie Street	07/01/2007	20/02/2007	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	537	            3/198A Beasley Street	06/06/2007	06/07/2007	-	$0	6500m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	165015	3 Mullen Place	17/04/2007	29/06/2007	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35079	150 Lambrigg Street	02/05/2007	07/06/2007	-	$0	929m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409324	14 Lambrigg Street	15/12/2007	26/02/2007	-	$0	975m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232670	10 Custance Street	12/10/2007	18/11/2007	-	$0	767m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	240494	186 Beasley Street	25/11/2007	26/09/2008	-	-	1045m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202893	8 Gluyas Street	13/06/2007	13/06/2007	-	-	934m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235149	24 Muresk Street	14/11/2007	05/02/2008	-	-	851m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237147	14 Gluyas Street	12/03/2007	10/12/2008	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236134	94 Lambrigg Street	25/02/2007	13/05/2008	-	-	992m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	95283	2A Lambrigg Street	07/02/2007	-	04/01/2007	-	-	Full transfer	2	1	-	-	1	-	34	-	Allhomes Record	-	-	-	-	$1,396,000	-
+2007	235147	9 Gluyas Street	18/12/2007	08/02/2008	-	-	840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	229767	42 Drevermann Street	01/10/2007	31/07/2008	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	239554	9 Mullen Place	19/09/2007	07/10/2008	-	-	950m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	291216	7 Waite Street	31/08/2007	20/04/2011	-	-	877m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	239754	210 Beasley Street	01/10/2007	03/10/2008	-	-	810m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236133	34 Prescott Street	13/02/2008	15/05/2008	22/10/2007	$1,300,000	1908m	Full transfer	4	1	2	2	-	$1,300,000	114	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.3
+2008	239867	77 Hawkesbury Crescent	28/06/2008	09/10/2008	28/05/2008	$1,165,000	2038m	Full transfer	5	1	2	3	-	$1,165,000	31	-	Combined Record	-	-	-	Single residential dwelling	$608,000	0.52
+2008	229843	1 Molineaux Place	12/05/2008	25/07/2008	26/03/2008	$865,000	1574m	Full transfer	4	1	1	-	2	$865,000	47	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.54
+2008	114133	132 Hawkesbury Crescent	18/06/2008	-	22/05/2008	$730,000	821m	Full transfer	4	3	1	2	0	$730,000	27	-	Allhomes Record	-	-	-	-	$531,000	0.73
+2008	240495	46 Hawkesbury Crescent	16/04/2008	22/09/2008	13/02/2008	$715,000	1017m	Full transfer	4	1	2	2	1	$715,000	63	-	Combined Record	-	-	-	Single residential dwelling	$489,000	0.68
+2008	230438	236 Beasley Street	15/04/2008	12/08/2008	30/03/2008	$669,500	1000m	Full transfer	5	1	1	2	0	$669,500	16	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.39
+2008	240155	72 Hawkesbury Crescent	19/09/2008	28/10/2008	11/04/2008	$635,000	1081m	Full transfer	4	1	1	2	-	$635,000	161	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.81
+2008	239868	4 Valder Place	23/09/2008	09/10/2008	22/07/2008	$630,000	912m	Full transfer	4	1	1	2	-	$630,000	63	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.82
+2008	236373	27 Waite Street	24/04/2008	13/05/2008	-	$620,000	1330m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230978	1 Woodgate Street	17/04/2008	20/06/2008	-	$560,500	979m	Full transfer	-	-	-	-	-	$560,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238040	27 Steinwedel Street	16/07/2008	11/09/2008	28/02/2008	$558,000	1197m	Full transfer	4	1	1	-	2	$558,000	139	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.81
+2008	237047	10 Drevermann Street	12/11/2008	08/01/2009	08/05/2008	$555,000	855m	Full transfer	3	1	1	2	-	$555,000	188	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.7
+2008	18926	            Farrer Place	30/06/2008	15/10/2008	-	$550,000	412m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	238041	88 Lambrigg Street	01/08/2008	08/09/2008	-	$540,000	917m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	114705	2 Prescott Street	01/08/2008	-	06/06/2008	$540,000	917m	Full transfer	4	1	1	2	2	$540,000	56	-	Allhomes Record	-	-	-	-	$245,000	0.45
+2008	234171	1/143A Lambrigg Street	21/01/2008	06/05/2008	08/11/2007	$522,500	1275m	Full transfer	3	1	1	2	-	$522,500	74	-	Combined Record	-	-	-	Multiple unit dwelling	$379,000	0.73
+2008	240657	39 Spafford Crescent	06/11/2008	03/12/2008	28/04/2008	$522,000	747m	Full transfer	4	1	1	2	-	$522,000	192	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.59
+2008	241889	42 Pridham Street	11/12/2008	20/01/2009	26/11/2008	$520,000	892m	Full transfer	4	1	1	1	-	$520,000	15	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.55
+2008	236223	10 Sutton Place	03/04/2008	22/05/2008	28/02/2008	$511,000	830m	Full transfer	4	1	1	-	2	$511,000	35	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.43
+2008	241126	1 Cameron Street	18/11/2008	04/01/2009	24/09/2008	$510,000	847m	Full transfer	3	1	-	-	1	$510,000	55	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.57
+2008	233630	13 Waite Street	12/03/2008	29/04/2008	13/12/2007	$505,000	901m	Full transfer	3	1	-	-	1	$505,000	90	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.67
+2008	236132	46 Lambrigg Street	10/04/2008	15/05/2008	11/02/2008	$498,500	1069m	Full transfer	3	1	-	2	-	$498,500	59	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.59
+2008	237148	14 Gluyas Street	01/10/2008	10/12/2008	04/06/2008	$490,000	869m	Full transfer	4	1	1	3	-	$490,000	119	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.58
+2008	242391	127 Lambrigg Street	13/01/2008	10/02/2009	11/11/2008	$482,000	1153m	Full transfer	3	1	-	1	-	$482,000	-	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.64
+2008	320115	35 Moodie Street	13/06/2008	23/07/2008	-	$435,000	801m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239370	8 Parry Place	06/09/2008	20/11/2008	05/08/2008	$433,000	412m	Full transfer	3	1	-	1	-	$433,000	32	-	Combined Record	-	-	-	Medium density dwelling	$220,000	0.51
+2008	239950	56 Pridham Street	02/09/2008	14/10/2008	20/05/2008	$410,000	906m	Full transfer	3	2	-	2	-	$410,000	105	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.71
+2008	18745	            3/188A Beasley Street	11/09/2008	06/11/2008	-	$380,000	5031m	Partial transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	117157	190 Beasley Street	11/09/2008	-	20/08/2008	$380,000	5031m	Full transfer	3	1	-	-	1	$380,000	22	-	Allhomes Record	-	-	-	-	$1,640,000	4.32
+2008	22379	            11/1 Lambrigg Street	03/04/2008	-	07/03/2008	$375,000	6500m	Full transfer	3	1	-	-	1	$375,000	27	-	Allhomes Record	-	-	-	-	$1,396,000	3.72
+2008	17935	            3/198A Beasley Street	03/04/2008	04/06/2008	-	$375,000	6500m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18183	            13/188A Beasley Street	16/01/2008	25/03/2008	-	$304,500	5031m	Full transfer	-	-	-	-	-	$304,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18132	            2/32C Marshall Street	28/03/2008	07/05/2008	-	$291,000	1098m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24127	32B Marshall Street	28/03/2008	-	31/03/2008	$291,000	1098m	Full transfer	2	1	0	-	1	$291,000	-	-	Allhomes Record	-	-	-	-	$624,000	2.14
+2008	237081	4/35 Marshall Street	06/11/2008	08/12/2008	-	$290,000	1275m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	122660	3/35 Marshall Street	28/05/2008	05/08/2008	-	$280,000	1275m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22692	            3/35C Marshall Street	28/05/2008	-	14/04/2008	$280,000	1275m	Full transfer	2	1	-	-	1	$280,000	44	-	Allhomes Record	-	-	-	-	$701,000	2.5
+2008	234843	1/8 Longerenong Street	06/02/2008	27/03/2008	-	$256,000	1491m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	422876	8 Olliff Place	03/02/2008	28/03/2014	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237149	3 Mullen Place	11/10/2008	10/12/2008	-	-	733m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248563	            1/32C Marshall Street	14/06/2008	01/10/2009	-	-	1098m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	244049	3 Wagga Street	01/12/2008	05/06/2009	-	-	825m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229766	101 Hawkesbury Crescent	27/06/2008	29/07/2008	-	-	2178m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240415	8 Gatton Street	20/11/2008	18/12/2008	-	-	759m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236374	124 Hawkesbury Crescent	26/04/2008	14/05/2008	-	-	1106m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237315	4 Sutton Place	07/07/2008	21/08/2008	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18972	            1/188A Beasley Street	05/09/2008	17/12/2008	-	-	5031m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	243429	3 Hawkesbury Crescent	22/12/2008	23/03/2009	-	-	1071m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240337	47 Roseworthy Crescent	22/09/2008	27/11/2008	-	-	856m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236224	132 Hawkesbury Crescent	30/11/2008	20/05/2008	-	-	821m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240493	4 Gatton Street	23/08/2008	25/09/2008	-	-	799m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232273	7 Mullen Place	15/01/2008	22/01/2008	-	-	1104m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250067	63 Hawkesbury Crescent	17/10/2009	24/11/2009	15/09/2009	$1,412,000	1685m	Full transfer	5	2	1	2	-	$1,412,000	32	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.41
+2009	254650	139 Hawkesbury Crescent	07/11/2009	10/03/2010	08/10/2009	$1,255,000	1548m	Full transfer	5	2	1	2	-	$1,255,000	30	-	Combined Record	-	-	-	Single residential dwelling	$656,000	0.52
+2009	245310	14 Hawkesbury Crescent	23/06/2009	28/07/2009	15/04/2009	$895,500	809m	Full transfer	5	1	2	2	-	$895,500	69	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.47
+2009	262547	88 Pridham Street	21/10/2009	10/01/2010	30/09/2009	$785,000	1129m	Full transfer	4	1	2	-	2	$785,000	21	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.55
+2009	252083	130 Hawkesbury Crescent	02/12/2009	11/01/2010	05/11/2009	$780,000	788m	Full transfer	4	1	1	2	-	$780,000	27	-	Combined Record	-	-	-	Single residential dwelling	$558,000	0.72
+2009	262555	3 Cameron Street	18/12/2009	15/02/2010	18/11/2009	$775,000	1051m	Full transfer	5	2	1	2	-	$775,000	30	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.48
+2009	118078	140 Hawkesbury Crescent	09/04/2009	-	12/09/2008	$745,000	926m	Full transfer	3	2	1	2	-	$745,000	209	-	Allhomes Record	-	-	-	-	$558,000	0.75
+2009	254185	21 Pudney Street	12/12/2009	15/02/2010	19/11/2009	$735,000	835m	Full transfer	4	1	1	2	1	$735,000	23	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.57
+2009	262558	232 Beasley Street	17/10/2009	03/02/2010	15/09/2009	$728,000	1025m	Full transfer	5	1	1	1	1	$728,000	32	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.38
+2009	258448	24 Steinwedel Street	24/10/2009	23/04/2010	01/10/2009	$725,000	1041m	Full transfer	4	1	1	2	-	$725,000	23	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.67
+2009	254374	18 Drevermann Street	30/11/2009	24/02/2010	15/10/2009	$710,000	892m	Full transfer	3	1	1	-	2	$710,000	46	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.62
+2009	245793	100 Pridham Street	04/04/2009	13/08/2009	12/03/2009	$700,000	972m	Full transfer	4	1	1	2	0	$700,000	23	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.61
+2009	247817	50 Drevermann Street	11/09/2009	16/10/2009	03/09/2009	$695,000	962m	Full transfer	4	1	1	-	2	$695,000	8	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.59
+2009	250068	236 Beasley Street	16/10/2009	25/11/2009	15/09/2009	$690,000	1000m	Full transfer	5	1	1	2	-	$690,000	31	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.4
+2009	241331	150 Hawkesbury Crescent	08/04/2009	06/05/2009	14/01/2009	$680,000	1060m	Full transfer	6	1	1	2	-	$680,000	84	-	Combined Record	-	-	-	Single residential dwelling	$532,000	0.78
+2009	262559	246 Beasley Street	01/12/2009	27/01/2010	11/11/2009	$670,000	998m	Full transfer	4	2	-	-	2	$670,000	20	-	Combined Record	-	-	-	Single residential dwelling...	$308,000	0.46
+2009	244158	164 Hawkesbury Crescent	20/04/2009	09/06/2009	18/02/2009	$660,000	1146m	Full transfer	4	1	-	2	-	$660,000	61	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.63
+2009	251759	30 Hawkesbury Crescent	09/11/2009	18/01/2010	11/08/2009	$653,000	755m	Full transfer	4	1	1	2	-	$653,000	90	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.68
+2009	120620	1 Werribee Crescent	14/04/2009	-	12/11/2008	$651,500	1185m	Full transfer	4	1	1	2	-	$651,500	153	-	Allhomes Record	-	-	-	-	$375,000	0.58
+2009	262554	18 Prescott Street	26/11/2009	02/03/2010	12/11/2009	$650,000	865m	Full transfer	4	1	-	2	-	$650,000	14	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.59
+2009	246117	23 Pudney Street	17/07/2009	24/08/2009	01/07/2009	$650,000	861m	Full transfer	4	1	1	2	-	$650,000	16	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.75
+2009	280718	11 Spafford Crescent	24/12/2009	07/12/2010	-	$650,000	1263m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	326872	56 Drevermann Street	09/11/2009	25/01/2010	-	$650,000	831m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23851	2 Mullen Place	18/09/2009	-	13/05/2009	$650,000	969m	Full transfer	4	1	1	2	-	$650,000	128	-	Allhomes Record	-	-	-	-	$280,000	0.43
+2009	244524	3 Wagga Street	16/05/2009	02/07/2009	16/04/2009	$645,500	825m	Full transfer	6	2	1	1	2	$645,500	30	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.58
+2009	262549	12 Werribee Crescent	04/11/2009	07/02/2010	12/08/2009	$640,000	838m	Full transfer	4	1	1	1	2	$640,000	84	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.52
+2009	248192	2 Mullen Place	18/08/2009	23/09/2009	-	$638,000	969m	Full transfer	-	-	-	-	-	$638,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238763	27 Cameron Street	27/02/2009	30/04/2009	04/09/2008	$620,000	898m	Full transfer	4	1	1	2	0	$620,000	176	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.69
+2009	262548	10 Custance Street	21/09/2009	08/02/2010	05/05/2009	$612,500	767m	Full transfer	4	1	1	2	-	$612,500	139	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.66
+2009	241330	152 Lambrigg Street	19/03/2009	08/05/2009	13/02/2009	$595,000	1008m	Full transfer	3	1	1	1	1	$595,000	34	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.68
+2009	245552	16 Cheel Place	30/01/2009	03/08/2009	14/10/2008	$585,000	848m	Full transfer	4	1	1	2	-	$585,000	108	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.55
+2009	246337	33 Spafford Crescent	27/06/2009	03/09/2009	29/05/2009	$582,000	998m	Full transfer	4	1	1	2	-	$582,000	29	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.58
+2009	243430	3 Hawkesbury Crescent	09/02/2009	23/03/2009	14/10/2008	$580,000	1071m	Full transfer	4	1	1	2	-	$580,000	118	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.67
+2009	238761	24 Gatton Street	26/03/2009	01/05/2009	27/02/2009	$560,000	1062m	Full transfer	3	1	0	1	0	$560,000	27	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.53
+2009	244523	12 Spafford Crescent	02/05/2009	29/06/2009	23/03/2009	$557,500	751m	Full transfer	4	1	1	-	2	$557,500	40	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.56
+2009	250621	4 Moodie Street	19/09/2009	01/12/2009	25/08/2009	$555,000	740m	Full transfer	3	1	-	-	2	$555,000	25	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.59
+2009	248191	96 Lambrigg Street	11/08/2009	21/09/2009	19/02/2009	$546,000	966m	Full transfer	4	1	1	2	2	$546,000	173	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.56
+2009	238762	2 Crowe Place	26/03/2009	29/04/2009	-	$539,500	820m	Full transfer	-	-	-	-	-	$539,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325432	24 Lambrigg Street	18/12/2009	16/02/2010	-	$530,000	743m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259283	3/120 Lambrigg Street	04/02/2009	24/03/2010	-	$530,000	1852m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245633	100 Lambrigg Street	10/07/2009	20/08/2009	09/06/2009	$524,000	966m	Full transfer	4	1	1	-	1	$524,000	31	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.59
+2009	324837	19 Marshall Street	10/10/2009	17/11/2009	-	$515,000	843m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248073	25 Spafford Crescent	14/08/2009	18/09/2009	03/07/2009	$505,000	642m	Full transfer	3	1	-	2	-	$505,000	42	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.63
+2009	249903	3 Hagelthorn Street	15/07/2009	16/11/2009	-	$500,000	846m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	321635	4 Olliff Place	21/02/2009	21/04/2009	-	$495,000	1083m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	322494	33 Custance Street	28/03/2009	05/05/2009	-	$485,000	892m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246116	22 Hagelthorn Street	18/07/2009	26/08/2009	25/06/2009	$480,000	996m	Full transfer	4	1	-	2	-	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.67
+2009	242389	14 Potts Place	06/01/2009	10/02/2009	14/10/2008	$480,000	1142m	Full transfer	3	1	1	2	-	$480,000	84	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.62
+2009	244048	32 Pridham Street	05/03/2009	05/06/2009	04/02/2009	$475,000	948m	Full transfer	3	1	1	4	-	$475,000	29	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.58
+2009	243012	8 Custance Street	05/02/2009	12/03/2009	13/01/2009	$465,000	804m	Full transfer	3	1	1	4	2	$465,000	23	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.7
+2009	324126	45 Lambrigg Street	29/05/2009	03/09/2009	-	$447,000	854m	Full transfer	-	-	-	-	-	$447,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242390	68 Lambrigg Street	13/01/2009	10/02/2009	13/06/2008	$445,000	803m	Full transfer	3	1	-	1	-	$445,000	214	-	Combined Record	-	-	-	Single residential dwelling	$287,000	0.64
+2009	245551	200 Beasley Street	10/06/2009	03/08/2009	29/05/2009	$430,000	969m	Full transfer	3	1	1	2	-	$430,000	12	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.69
+2009	245550	26 Gatton Street	23/06/2009	03/08/2009	-	$420,000	768m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243431	3 Mullen Place	23/02/2009	27/03/2009	-	$399,250	733m	Full transfer	-	-	-	-	-	$399,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324339	3 Parry Place	27/07/2009	25/09/2009	-	$398,000	256m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	250750	7 Parry Place	07/09/2009	09/12/2009	-	$395,000	253m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	323617	5 Bruce Place	01/07/2009	24/07/2009	-	$385,000	421m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	23373	            13/5 Lambrigg Street	25/03/2009	-	21/01/2009	$378,500	-	Full transfer	-	-	-	-	-	$378,500	63	-	Allhomes Record	-	-	-	-	-	-
+2009	18715	            2/198A Beasley Street	20/04/2009	29/04/2009	-	$378,500	6500m	Full transfer	-	-	-	-	-	$378,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246264	7/44 Spafford Crescent	03/06/2009	03/09/2009	-	$346,500	1999m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248830	2/34 Gatton Street	28/07/2009	06/11/2009	-	$339,950	2441m	Full transfer	-	-	-	-	-	$339,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	126259	2/44 Spafford Crescent	03/06/2009	-	29/04/2009	$330,000	1999m	Full transfer	-	-	-	-	-	$330,000	35	-	Allhomes Record	-	-	-	-	-	-
+2009	140924	1/33 Marshall Street	24/08/2009	-	26/05/2009	$325,000	1287m	Full transfer	2	1	0	-	1	$325,000	90	-	Allhomes Record	-	-	-	-	-	-
+2009	248662	            1/33E Marshall Street	24/08/2009	22/10/2009	-	$325,000	1287m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241447	2/32 Gatton Street	09/04/2009	15/05/2009	-	$323,000	2228m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	120927	32B Gatton Street	09/04/2009	-	19/11/2008	$323,000	-	Full transfer	2	1	-	-	1	$323,000	141	-	Allhomes Record	-	-	-	-	-	-
+2009	19390	            12/188A Beasley Street	28/05/2009	08/07/2009	-	$300,000	5031m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244393	12/9 Farrer Place	04/05/2009	06/07/2009	-	$280,000	1865m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23371	            12/6 Longeranong St	19/05/2009	-	02/04/2009	$280,000	1865m	Full transfer	2	1	-	-	1	$280,000	47	-	Allhomes Record	-	-	-	-	-	-
+2009	246016	2/9 Farrer Place	30/06/2009	26/08/2009	-	$219,000	1865m	Full transfer	-	-	-	-	-	$219,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	257184	            1/32C Marshall Street	23/10/2009	21/04/2010	-	$180,000	1098m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248565	            7/198A Beasley Street	12/03/2009	06/10/2009	-	$121,667	6500m	Partial transfer	-	-	-	-	-	$121,667	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	373128	17 Pridham Street	09/11/2009	23/04/2012	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255597	8 Werribee Crescent	13/10/2009	23/03/2010	-	-	1047m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244157	2 Steinwedel Street	09/04/2009	10/06/2009	-	-	926m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243932	11 Prescott Street	30/09/2009	27/05/2009	-	-	803m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255783	15 Hawkesbury Crescent	20/12/2009	07/04/2010	-	-	1041m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251641	44 Pridham Street	09/08/2009	07/01/2010	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254710	14 Molineaux Place	16/07/2009	17/03/2010	-	-	1136m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246503	5 Southee Place	24/05/2009	08/09/2009	-	-	358m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	241890	4 Crowe Place	13/01/2009	20/01/2009	-	-	904m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258120	6 Mullen Place	22/12/2009	03/05/2010	-	-	870m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19693	            Farrer Place	10/07/2009	26/08/2009	-	-	516m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2009	242677	9 Valder Place	30/01/2009	26/02/2009	-	-	1460m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260169	1/8 Longerenong Street	29/11/2009	20/05/2010	-	-	1491m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249904	134 Hawkesbury Crescent	29/07/2009	17/11/2009	-	-	880m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277881	73 Hawkesbury Crescent	06/11/2010	19/01/2011	23/09/2010	$1,350,000	2361m	Full transfer	5	1	1	2	-	$1,350,000	44	-	Combined Record	-	-	-	Single residential dwelling	$717,000	0.53
+2010	327638	18 Hawkesbury Crescent	10/04/2010	07/06/2010	-	$1,305,000	1019m	Full transfer	-	-	-	-	-	$1,305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	284018	55 Hawkesbury Crescent	13/10/2010	16/02/2011	16/09/2010	$1,126,000	1271m	Full transfer	4	2	1	2	-	$1,126,000	27	-	Combined Record	-	-	-	Single residential dwelling	$661,000	0.59
+2010	269111	74 Hawkesbury Crescent	20/04/2010	21/06/2010	25/03/2010	$1,055,000	1431m	Full transfer	4	2	1	2	-	$1,055,000	26	-	Combined Record	-	-	-	Single residential dwelling	$594,000	0.56
+2010	268063	14 Molineaux Place	12/04/2010	25/06/2010	-	$882,500	1136m	Full transfer	-	-	-	-	-	$882,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258449	7 Molineaux Place	26/02/2010	22/04/2010	08/12/2009	$860,000	1058m	Full transfer	5	2	2	4	-	$860,000	80	-	Combined Record	-	-	-	Single residential dwelling	$511,000	0.59
+2010	328732	1 Pye Place	02/08/2010	10/09/2010	08/07/2010	$854,000	1044m	Full transfer	4	1	1	2	-	$854,000	25	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.66
+2010	276782	38 Drevermann Street	07/05/2010	20/07/2010	07/04/2010	$850,000	1008m	Full transfer	5	1	2	-	2	$850,000	30	-	Combined Record	-	-	-	Single residential dwelling	$511,000	0.6
+2010	329990	39 Steinwedel Street	15/07/2010	06/12/2010	10/06/2010	$849,000	1036m	Full transfer	4	1	1	2	-	$849,000	35	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.53
+2010	276783	13 Cheel Place	29/05/2010	22/07/2010	24/04/2010	$845,000	843m	Full transfer	5	1	1	-	2	$845,000	35	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.48
+2010	258644	154 Lambrigg Street	25/02/2010	11/05/2010	19/11/2009	$835,000	902m	Full transfer	4	1	1	1	-	$835,000	98	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.54
+2010	286072	32 Moodie Street	15/12/2010	11/03/2011	25/11/2010	$835,000	974m	Full transfer	4	2	-	1	-	$835,000	20	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.6
+2010	258255	24 Cameron Street	20/02/2010	06/05/2010	23/03/2010	$811,000	1349m	Full transfer	4	1	1	2	1	$811,000	-	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.55
+2010	257899	20 Spafford Crescent	05/06/2010	-	13/05/2010	$805,000	1022m	Full transfer	4	1	1	2	-	$805,000	23	-	Allhomes Record	-	-	-	-	$388,000	0.48
+2010	273549	24 Wagga Street	28/08/2010	19/10/2010	05/08/2010	$795,000	871m	Full transfer	4	1	1	0	2	$795,000	23	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.58
+2010	327777	96 Pridham Street	20/03/2010	23/06/2010	-	$785,000	1007m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263899	13 McAlpine Place	19/03/2010	02/06/2010	20/01/2010	$760,000	1099m	Full transfer	4	2	-	2	-	$760,000	58	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.55
+2010	273660	18 Gatton Street	06/09/2010	13/10/2010	08/04/2010	$740,000	985m	Full transfer	6	3	-	-	3	$740,000	151	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.43
+2010	255782	8 Werribee Crescent	24/02/2010	07/04/2010	-	$725,000	1047m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263898	20 Werribee Crescent	09/03/2010	01/06/2010	16/02/2010	$722,000	965m	Full transfer	4	1	1	1	1	$722,000	21	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.44
+2010	492144	8 Werribee Street	26/02/2010	-	24/12/2016	$700,000	0m	Full transfer	5	3	1	0	2	$700,000	-	-	Allhomes Record	-	-	-	-	$367,000	0.52
+2010	332996	15 Wagga Street	20/12/2010	01/08/2011	20/09/2010	$670,000	923m	Full transfer	4	1	1	1	-	$670,000	91	-	Combined Record	-	-	-	Single residential dwelling	$463,000	0.69
+2010	329900	17 Gatton Street	15/12/2010	02/02/2011	-	$667,500	985m	Full transfer	-	-	-	-	-	$667,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	257785	39 Spafford Crescent	29/05/2010	-	05/05/2010	$642,000	747m	Full transfer	4	1	1	2	1	$642,000	24	-	Allhomes Record	-	-	-	-	$354,000	0.55
+2010	284019	53 Pridham Street	20/10/2010	16/02/2011	01/10/2010	$640,000	688m	Full transfer	3	1	-	1	1	$640,000	19	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.55
+2010	272829	42 Pridham Street	16/09/2010	21/10/2010	-	$630,000	892m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329899	1 Cameron Street	30/11/2010	02/02/2011	-	$629,950	847m	Full transfer	-	-	-	-	-	$629,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	265095	28 Dookie Street	06/08/2010	-	07/07/2010	$625,000	957m	Full transfer	4	1	-	2	2	$625,000	30	-	Allhomes Record	171	-	-	-	$316,000	0.51
+2010	286123	6 Spafford Crescent	20/10/2010	15/03/2011	20/09/2010	$610,000	850m	Full transfer	3	1	-	-	2	$610,000	30	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.56
+2010	286122	52 Longerenong Street	01/12/2010	17/03/2011	03/11/2010	$605,000	825m	Full transfer	4	1	1	1	-	$605,000	28	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.5
+2010	279494	64/22 Marshall Street	15/12/2010	-	02/12/2010	$595,000	-	Full transfer	3	1	1	1	-	$595,000	13	-	Allhomes Record	-	-	-	-	-	-
+2010	261844	5 Adam Place	19/02/2010	14/05/2010	-	$582,000	925m	Full transfer	-	-	-	-	-	$582,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263900	15 Prescott Street	05/02/2010	02/06/2010	07/01/2010	$580,000	836m	Full transfer	3	1	1	2	-	$580,000	29	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.7
+2010	273515	14 Spafford Crescent	17/09/2010	26/10/2010	19/08/2010	$578,500	811m	Full transfer	3	1	-	1	-	$578,500	29	-	Combined Record	116	-	-	Single residential dwelling	$354,000	0.61
+2010	258447	186 Beasley Street	17/03/2010	13/04/2010	10/02/2010	$559,000	1045m	Full transfer	4	1	1	1	1	$559,000	35	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.56
+2010	270383	81 Pridham Street	27/04/2010	16/09/2010	-	$550,000	810m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276784	9 Moodie Street	24/05/2010	20/07/2010	08/04/2010	$550,000	986m	Full transfer	3	1	-	1	1	$550,000	46	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.65
+2010	251354	3/120 Lambrigg Street	04/02/2010	-	08/12/2009	$530,000	1852m	Full transfer	3	1	1	-	2	$530,000	58	-	Allhomes Record	-	-	-	-	-	-
+2010	270430	34 Gluyas Street	24/05/2010	20/09/2010	-	$485,000	742m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329695	30 Gluyas Street	03/12/2010	19/01/2011	-	$485,000	738m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	286009	1/30 Gatton Street	09/12/2010	07/03/2011	-	$420,000	1968m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273036	8/32 Gatton Street	22/09/2010	18/10/2010	-	$364,000	2228m	Full transfer	-	-	-	-	-	$364,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	259282	7/34 Gatton Street	16/02/2010	22/03/2010	-	$364,000	2441m	Full transfer	-	-	-	-	-	$364,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273952	3/32C Marshall Street	25/10/2010	25/11/2010	-	$360,000	1098m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266180	            32H Gatton Street	22/09/2010	-	01/09/2010	$360,000	2228m	Full transfer	2	1	-	-	1	$360,000	21	-	Allhomes Record	-	-	-	-	-	-
+2010	266901	3/32 Marshall Street	25/10/2010	-	15/09/2010	$360,000	1098m	Full transfer	2	1	-	-	1	$360,000	40	-	Allhomes Record	-	-	-	-	-	-
+2010	252583	5/8 Longerenong Street	27/02/2010	-	14/01/2010	$340,000	1491m	Full transfer	2	1	-	-	1	$340,000	44	-	Allhomes Record	-	-	-	-	-	-
+2010	267355	1/8 Longerenong Street	03/05/2010	21/06/2010	-	$280,000	1491m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277442	3/9 Farrer Place	09/12/2010	19/01/2011	-	$240,000	1865m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280764	32 Spafford Crescent	23/08/2010	16/12/2010	-	$80,000	1208m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	386249	40 Muresk Street	03/10/2010	06/12/2012	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	354575	14 Steinwedel Street	02/03/2010	16/01/2012	-	$0	941m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	431605	57 Spafford Crescent	14/06/2010	24/07/2014	-	$0	862m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274031	18 Muresk Street	17/06/2010	24/11/2010	-	-	1251m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260172	2 Crowe Place	09/03/2010	21/05/2010	-	-	820m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275842	52 Longerenong Street	31/08/2010	12/01/2011	-	-	825m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272882	122 Hawkesbury Crescent	21/08/2010	03/11/2010	-	-	1214m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291275	11 Steinwedel Street	29/12/2010	16/05/2011	-	-	999m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279213	19 Wagga Street	20/11/2010	02/02/2011	-	-	977m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270431	28 Prescott Street	06/09/2010	23/09/2010	-	-	971m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273860	15 Spafford Crescent	22/07/2010	10/11/2010	-	-	873m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	257254	28 Werribee Crescent	19/02/2010	21/04/2010	-	-	851m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354347	12 Molineaux Place	13/10/2011	19/12/2011	31/08/2011	$1,080,000	1025m	Full transfer	5	1	1	2	-	$1,080,000	43	-	Combined Record	-	-	-	Single residential dwelling	$702,000	0.65
+2011	354349	6 Wagga Street	09/11/2011	19/12/2011	03/11/2011	$990,000	927m	Full transfer	4	1	2	2	-	$990,000	6	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.46
+2011	331409	129 Hawkesbury Crescent	28/03/2011	30/05/2011	28/01/2011	$925,000	1215m	Full transfer	4	1	1	6	-	$925,000	59	-	Combined Record	-	-	-	Single residential dwelling	$753,000	0.81
+2011	292320	13 Molineaux Place	09/03/2011	10/05/2011	13/04/2011	$920,000	1005m	Full transfer	4	1	1	-	2	$920,000	-	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.59
+2011	354351	75 Hawkesbury Crescent	18/11/2011	22/12/2011	04/02/2011	$915,000	1879m	Full transfer	4	1	1	3	-	$915,000	287	-	Combined Record	205	-	-	Single residential dwelling	$772,000	0.84
+2011	360006	44 Hawkesbury Crescent	19/11/2011	24/01/2012	26/10/2011	$877,000	848m	Full transfer	5	2	1	1	1	$877,000	24	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.67
+2011	368596	14 Steinwedel Street	17/12/2011	23/03/2012	-	$862,500	941m	Full transfer	-	-	-	-	-	$862,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300231	39 Waite Street	16/05/2011	21/07/2011	-	$855,500	1211m	Full transfer	-	-	-	-	-	$855,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353545	59 Pridham Street	01/12/2011	11/01/2012	11/07/2011	$855,000	831m	Full transfer	5	1	2	2	-	$855,000	143	-	Combined Record	267	-	-	Single residential dwelling	$425,000	0.5
+2011	331853	17 Custance Street	13/05/2011	15/07/2011	-	$835,000	748m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	286121	17 Wagga Street	28/01/2011	18/03/2011	28/10/2010	$820,000	997m	Full transfer	4	1	1	2	-	$820,000	92	-	Combined Record	191	-	-	Single residential dwelling	$517,000	0.63
+2011	340404	            Farrer Place	08/06/2011	21/09/2011	-	$810,000	592m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	296990	11 Gatton Street	28/03/2011	07/06/2011	12/11/2010	$800,000	813m	Full transfer	4	1	2	2	-	$800,000	136	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.53
+2011	300587	46 Hawkesbury Crescent	09/06/2011	13/07/2011	27/01/2011	$790,000	1017m	Full transfer	4	1	2	2	1	$790,000	133	-	Combined Record	-	-	-	Single residential dwelling	$620,000	0.78
+2011	330980	15 Cameron Street	24/03/2011	19/05/2011	-	$790,000	882m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300701	1 Molineaux Place	07/06/2011	20/07/2011	05/10/2010	$775,000	1574m	Full transfer	4	1	1	-	2	$775,000	245	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.76
+2011	346830	17 McAlpine Place	01/09/2011	23/11/2011	24/08/2011	$770,000	997m	Full transfer	4	1	1	2	-	$770,000	8	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.59
+2011	346828	13 Woodgate Street	14/10/2011	15/11/2011	01/07/2011	$760,000	967m	Full transfer	4	1	1	-	2	$760,000	105	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.66
+2011	297721	17 Cameron Street	18/03/2011	01/07/2011	13/04/2010	$750,000	946m	Full transfer	4	1	1	2	-	$750,000	339	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.69
+2011	333322	52 Pridham Street	25/06/2011	25/07/2011	03/06/2011	$740,000	906m	Full transfer	4	1	1	2	-	$740,000	22	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.5
+2011	337071	2 Roseworthy Crescent	25/03/2011	07/09/2011	02/02/2011	$735,000	903m	Full transfer	4	2	1	2	-	$735,000	51	-	Combined Record	-	-	-	Residential	$367,000	0.5
+2011	297047	18 Steinwedel Street	27/03/2011	15/06/2011	17/02/2011	$729,000	943m	Full transfer	3	1	1	1	1	$729,000	38	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.81
+2011	287853	13 Potts Place	04/02/2011	29/03/2011	15/11/2010	$720,000	809m	Full transfer	5	2	1	-	1	$720,000	81	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.48
+2011	292096	28 Moodie Street	01/02/2011	04/05/2011	15/11/2010	$715,000	941m	Full transfer	3	1	-	1	-	$715,000	78	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.73
+2011	292195	58 Drevermann Street	09/03/2011	16/05/2011	17/02/2011	$710,000	831m	Full transfer	3	1	1	2	-	$710,000	20	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.69
+2011	366061	14 Pudney Street	27/08/2011	29/02/2012	28/07/2011	$695,000	1071m	Full transfer	5	1	1	2	-	$695,000	30	-	Combined Record	182	-	-	Single residential dwelling	$508,000	0.73
+2011	344601	10 Moodie Street	16/11/2011	-	19/10/2011	$683,700	882m	Full transfer	3	1	1	-	-	$683,700	28	-	Allhomes Record	-	-	-	-	$426,000	0.62
+2011	292197	3 Werribee Crescent	31/03/2011	20/05/2011	06/10/2010	$660,000	1017m	Full transfer	3	1	1	-	1	$660,000	176	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.68
+2011	333082	16 Cheel Place	15/06/2011	01/08/2011	-	$660,000	848m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	332995	244 Beasley Street	06/05/2011	02/08/2011	-	$655,000	1046m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283924	46 Lambrigg Street	18/01/2011	23/02/2011	09/12/2010	$645,000	1069m	Full transfer	3	1	-	2	-	$645,000	40	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.58
+2011	333085	22 Waite Street	13/05/2011	01/08/2011	09/02/2011	$640,000	762m	Full transfer	3	1	-	2	-	$640,000	93	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.67
+2011	350085	9 Werribee Crescent	06/10/2011	05/12/2011	29/08/2011	$640,000	811m	Full transfer	4	1	-	1	1	$640,000	38	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.63
+2011	360719	3 Sutton Place	12/12/2011	30/01/2012	-	$637,500	1058m	Full transfer	-	-	-	-	-	$637,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	330908	6 Olliff Place	26/02/2011	29/04/2011	-	$627,500	1048m	Full transfer	-	-	-	-	-	$627,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336535	            1/64 Lambrigg Street	29/06/2011	17/08/2011	-	$612,500	906m	Full transfer	-	-	-	-	-	$612,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353547	25 Gatton Street	19/08/2011	10/01/2012	-	$612,000	1047m	Full transfer	-	-	-	-	-	$612,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296911	18 Spafford Crescent	30/03/2011	15/06/2011	02/12/2010	$610,000	974m	Full transfer	3	1	-	2	2	$610,000	118	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.7
+2011	300585	256 Beasley Street	18/05/2011	15/07/2011	23/03/2011	$600,000	1101m	Full transfer	3	1	-	1	1	$600,000	56	-	Combined Record	159	-	-	Single residential dwelling	$389,000	0.65
+2011	360715	5 Cheel Place	13/12/2011	02/02/2012	17/11/2011	$595,000	762m	Full transfer	3	1	-	-	1	$595,000	26	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.63
+2011	348039	4 Moodie Street	13/09/2011	25/10/2011	-	$592,000	740m	Full transfer	-	-	-	-	-	$592,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331966	13 Waite Street	08/06/2011	19/07/2011	-	$585,000	901m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348037	            2/64 Lambrigg Street	12/09/2011	24/10/2011	-	$560,500	906m	Full transfer	-	-	-	-	-	$560,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347236	55 Pridham Street	06/10/2011	08/11/2011	25/08/2011	$550,000	741m	Full transfer	3	1	-	1	-	$550,000	42	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.71
+2011	360720	11 Potts Place	26/11/2011	02/02/2012	02/11/2011	$545,000	889m	Full transfer	3	1	1	-	1	$545,000	24	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.63
+2011	384927	4 Custance Street	10/12/2011	15/05/2012	11/11/2011	$525,000	853m	Full transfer	2	1	1	-	1	$525,000	29	-	Combined Record	115	-	-	Single residential dwelling	$389,000	0.74
+2011	297048	121 Lambrigg Street	10/05/2011	15/06/2011	12/04/2011	$520,000	970m	Full transfer	4	1	-	-	1	$520,000	28	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.72
+2011	337043	31 Pridham Street	09/08/2011	05/09/2011	17/05/2011	$491,000	794m	Full transfer	3	1	-	-	1	$491,000	84	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.76
+2011	333084	24 Dookie Street	05/06/2011	02/08/2011	-	$487,000	981m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360717	            2/7 Crane Place	09/12/2011	03/02/2012	-	$485,000	1369m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346292	5 Crane Place	09/12/2011	-	01/09/2011	$485,000	1369m	Full transfer	3	1	1	1	-	$485,000	99	-	Allhomes Record	-	-	-	-	$482,000	0.99
+2011	292125	11 Potts Place	05/03/2011	29/04/2011	09/02/2011	$448,500	889m	Full transfer	4	1	-	2	-	$448,500	24	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.76
+2011	349371	3 Aird Place	14/12/2011	-	28/10/2011	$430,000	762m	Full transfer	3	1	-	2	-	$430,000	47	-	Allhomes Record	-	-	-	-	$360,000	0.84
+2011	353544	            1/28 Longerenong Street	30/11/2011	12/01/2012	-	$425,000	814m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	348203	            1A Marshall Street	13/12/2011	-	15/11/2011	$412,500	587m	Full transfer	2	1	-	-	1	$412,500	28	-	Allhomes Record	-	-	-	-	$135,000	0.33
+2011	360005	            230 Beasley Street	13/12/2011	23/01/2012	-	$412,500	587m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354354	3 Cheel Place	19/09/2011	19/12/2011	-	$400,000	955m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348041	4/8 Longerenong Street	25/05/2011	25/10/2011	-	$380,000	1491m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	338456	            12/198A Beasley Street	05/08/2011	18/09/2011	-	$373,000	6500m	Full transfer	-	-	-	-	-	$373,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	301631	            12/196A Beasley Street	26/08/2011	-	13/05/2011	$365,000	6500m	Full transfer	2	1	-	-	2	$365,000	105	-	Allhomes Record	-	-	-	-	$117,260	0.32
+2011	287473	7/35 Marshall Street	04/02/2011	29/03/2011	-	$360,000	1275m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347633	            13/188A Beasley Street	15/09/2011	01/11/2011	-	$360,000	5031m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	335262	8/2 Lambrigg Street	15/09/2011	-	22/06/2011	$360,000	-	Full transfer	2	1	-	-	1	$360,000	85	-	Allhomes Record	-	-	-	-	-	-
+2011	296414	3/44 Spafford Crescent	08/04/2011	26/05/2011	-	$355,000	1999m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	285064	            32G Gatton Street	07/04/2011	-	10/01/2011	$345,000	2228m	Full transfer	2	1	-	-	1	$345,000	87	-	Allhomes Record	-	-	-	-	$1,136,000	3.29
+2011	291277	7/32 Gatton Street	07/04/2011	20/05/2011	-	$345,000	2228m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	332783	2/49 Lambrigg Street	23/06/2011	29/07/2011	18/05/2011	$325,000	1088m	Full transfer	2	1	-	-	1	$325,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	340491	            1/24 Longerenong Street	08/08/2011	22/09/2011	-	$230,000	1092m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	279493	64/22 Marshall Street	15/02/2011	-	02/12/2010	$199,000	-	Full transfer	1	1	-	1	-	$199,000	75	-	Allhomes Record	-	-	-	-	-	-
+2011	353543	11 Woodgate Street	19/12/2011	13/01/2012	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347632	68 Hawkesbury Crescent	15/02/2011	31/10/2011	-	$0	1050m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354353	14 Sutton Place	07/06/2011	21/12/2011	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360714	3 Valder Place	02/12/2011	30/01/2012	-	$0	2068m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348040	27 Lambrigg Street	08/09/2011	24/10/2011	-	$0	754m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	382657	40 Wagga Street	25/04/2011	13/11/2012	-	$0	922m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344182	87 Hawkesbury Crescent	11/06/2011	18/10/2011	-	$0	2323m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	381133	4 Pye Place	02/08/2011	04/10/2012	-	$0	1448m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346832	4 Cameron Street	05/08/2011	21/11/2011	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365745	48 Wagga Street	26/10/2011	21/02/2012	-	$0	1030m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	376033	1 Betche Place	21/12/2011	30/07/2012	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368837	15 Woodgate Street	29/03/2011	18/04/2012	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350084	12 Woodgate Street	14/08/2011	05/12/2011	-	$0	1089m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360368	58 Lambrigg Street	08/12/2011	15/02/2012	-	$0	902m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	394990	9 Prescott Street	23/12/2011	08/04/2013	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342180	94 Lambrigg Street	20/05/2011	12/10/2011	-	-	992m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287331	121 Lambrigg Street	24/02/2011	29/03/2011	-	-	970m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340323	14 Pudney Street	30/01/2011	26/09/2011	-	-	1071m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387330	34 Prescott Street	09/11/2012	19/12/2012	06/09/2012	$1,410,000	1908m	Full transfer	4	1	2	2	-	$1,410,000	64	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.35
+2012	389554	125 Hawkesbury Crescent	11/12/2012	23/01/2013	-	$1,110,000	1496m	Full transfer	-	-	-	-	-	$1,110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388611	8 Woodgate Street	15/11/2012	15/01/2013	24/10/2012	$1,050,000	1181m	Full transfer	4	2	1	2	-	$1,050,000	22	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.55
+2012	386246	144 Hawkesbury Crescent	20/10/2012	04/12/2012	26/09/2012	$975,000	983m	Full transfer	4	2	1	3	-	$975,000	24	-	Combined Record	-	-	-	Single residential dwelling	$673,000	0.69
+2012	389552	31 Steinwedel Street	01/12/2012	25/01/2013	08/11/2012	$845,000	1503m	Full transfer	5	1	2	2	-	$845,000	23	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.7
+2012	388609	132 Hawkesbury Crescent	09/11/2012	18/01/2013	29/02/2012	$830,000	821m	Full transfer	4	2	1	2	-	$830,000	254	-	Combined Record	-	-	-	Single residential dwelling	$673,000	0.81
+2012	376071	12 Woodgate Street	02/06/2012	06/08/2012	10/05/2012	$800,000	1089m	Full transfer	4	1	1	2	-	$800,000	23	-	Combined Record	-	-	-	Single residential dwelling	$561,000	0.7
+2012	392093	5 Prior Place	15/12/2012	06/03/2013	22/11/2012	$800,000	841m	Full transfer	5	2	1	2	-	$800,000	23	-	Combined Record	-	-	-	Single residential dwelling...	$652,000	0.82
+2012	359251	104 Hawkesbury Crescent	23/03/2012	-	10/01/2012	$800,000	1251m	Full transfer	4	1	1	-	3	$800,000	73	-	Allhomes Record	224	-	-	-	$681,000	0.85
+2012	376031	32 Hawkesbury Crescent	22/05/2012	03/08/2012	30/11/2011	$795,000	763m	Full transfer	4	2	1	1	1	$795,000	174	-	Combined Record	-	-	-	Single residential dwelling	$535,000	0.67
+2012	376668	4 Hawkesbury Crescent	16/06/2012	23/07/2012	-	$765,000	851m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371999	20 Steinwedel Street	27/03/2012	28/05/2012	17/11/2011	$750,000	985m	Full transfer	5	2	2	4	-	$750,000	131	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.79
+2012	382800	10 Pudney Street	11/02/2012	07/05/2012	12/01/2012	$745,000	1101m	Full transfer	4	2	1	2	-	$745,000	30	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.61
+2012	373215	11 Marshall Street	23/04/2012	06/06/2012	19/12/2011	$735,000	925m	Full transfer	4	1	1	2	-	$735,000	126	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.49
+2012	382798	148 Lambrigg Street	24/02/2012	07/05/2012	17/11/2011	$730,000	877m	Full transfer	4	1	2	2	-	$730,000	99	-	Combined Record	216	-	-	Single residential dwelling	$452,000	0.62
+2012	374611	10 Gluyas Street	30/04/2012	26/06/2012	19/10/2011	$730,000	910m	Full transfer	6	2	1	2	-	$730,000	194	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.49
+2012	360366	9 Molineaux Place	12/01/2012	13/02/2012	28/07/2011	$720,000	991m	Full transfer	5	1	1	2	-	$720,000	168	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.75
+2012	370231	1 Hawkesbury Crescent	09/06/2012	-	17/05/2012	$720,000	1041m	Full transfer	3	1	1	2	-	$720,000	23	-	Allhomes Record	-	-	-	-	$446,000	0.62
+2012	374607	7 Wenholz Street	19/05/2012	27/06/2012	26/04/2012	$715,000	1366m	Full transfer	4	1	1	2	-	$715,000	23	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.64
+2012	393199	4 Wagga Street	09/11/2012	15/02/2013	18/10/2012	$690,000	880m	Full transfer	3	1	1	-	1	$690,000	22	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.62
+2012	368122	30 Hawkesbury Crescent	31/05/2012	-	03/02/2012	$685,000	755m	Full transfer	4	1	1	2	-	$685,000	118	-	Allhomes Record	-	-	-	-	$535,000	0.78
+2012	380693	14 Gatton Street	30/07/2012	11/10/2012	11/04/2012	$660,000	846m	Full transfer	4	1	1	-	1	$660,000	110	-	Combined Record	156	-	-	Single residential dwelling	$360,000	0.55
+2012	373752	7 Cheel Place	19/04/2012	14/06/2012	14/02/2012	$632,500	777m	Full transfer	3	2	-	2	-	$632,500	65	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.59
+2012	384925	10 Werribee Crescent	05/04/2012	17/05/2012	06/02/2012	$610,000	783m	Full transfer	4	1	2	2	-	$610,000	59	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.66
+2012	400256	3 Waite Street	21/05/2012	07/06/2013	05/03/2012	$606,500	1301m	Full transfer	3	1	1	1	-	$606,500	77	-	Combined Record	152	-	-	Single residential dwelling	$426,000	0.7
+2012	391631	32 Waite Street	10/12/2012	20/02/2013	31/08/2012	$605,000	776m	Full transfer	3	1	1	-	2	$605,000	101	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.74
+2012	392095	27 Spafford Crescent	07/12/2012	07/03/2013	07/09/2012	$600,000	984m	Full transfer	4	1	-	1	-	$600,000	91	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.74
+2012	382803	81 Pridham Street	20/02/2012	09/05/2012	17/01/2012	$580,000	810m	Full transfer	3	1	-	-	1	$580,000	34	-	Combined Record	130	-	-	Single residential dwelling	$393,000	0.68
+2012	363702	133 Lambrigg Street	27/04/2012	-	12/01/2012	$560,000	1080m	Full transfer	4	1	-	1	-	$560,000	106	-	Allhomes Record	110	-	-	-	$403,000	0.72
+2012	384929	10 Potts Place	02/04/2012	15/05/2012	-	$559,000	742m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382658	27 Lambrigg Street	28/09/2012	12/11/2012	31/01/2012	$540,000	754m	Full transfer	4	1	-	1	-	$540,000	241	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.66
+2012	379728	11 Waite Street	28/07/2012	30/08/2012	05/07/2012	$540,000	850m	Full transfer	3	1	1	1	1	$540,000	23	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.79
+2012	379923	9 Pridham Street	07/08/2012	13/09/2012	-	$535,000	714m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393201	12 Potts Place	12/12/2012	12/02/2013	19/10/2012	$520,000	856m	Full transfer	3	1	-	-	2	$520,000	54	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.64
+2012	370573	24 Werribee Crescent	22/06/2012	-	31/05/2012	$517,500	860m	Full transfer	3	1	-	2	-	$517,500	22	-	Allhomes Record	-	-	-	-	$347,000	0.67
+2012	371233	34 Gluyas Street	30/06/2012	-	02/07/2012	$500,000	0m	Full transfer	3	1	-	0	0	$500,000	-	-	Allhomes Record	-	-	-	-	$342,000	0.68
+2012	371222	1/32 Gluyas Street	30/06/2012	-	02/07/2012	$500,000	0m	Full transfer	3	1	-	0	0	$500,000	-	-	Allhomes Record	-	-	-	-	$357,000	0.71
+2012	372911	5 Bruce Place	02/04/2012	30/04/2012	-	$495,000	421m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	365401	14 Sutton Place	10/02/2012	09/03/2012	-	$445,000	747m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374933	3 Bruce Place	02/08/2012	-	04/07/2012	$442,000	351m	Full transfer	3	1	1	0	1	$442,000	29	-	Allhomes Record	-	-	-	-	$333,000	0.75
+2012	378593	192 Beasley Street	18/10/2012	-	06/09/2012	$430,000	5031m	Full transfer	3	1	-	-	1	$430,000	42	-	Allhomes Record	-	-	-	-	$2,263,000	5.26
+2012	388614	            5/188A Beasley Street	18/10/2012	17/01/2013	-	$430,000	5031m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	364071	9 Parry Place	01/05/2012	-	19/03/2012	$425,000	256m	Full transfer	3	1	-	1	-	$425,000	43	-	Allhomes Record	-	-	-	-	$333,000	0.78
+2012	365092	23 Gluyas Street	08/02/2012	16/03/2012	17/01/2012	$410,000	878m	Full transfer	4	-	-	-	2	$410,000	22	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.82
+2012	373750	1 Marshall Street	21/02/2012	12/06/2012	-	$410,000	420m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377422	            8A/2 Lambrigg Street	07/09/2012	-	01/07/2012	$370,000	88m	Full transfer	2	1	-	0	2	$370,000	68	-	Allhomes Record	-	-	-	-	$2,263,000	6.12
+2012	376073	2/49 Lambrigg Street	29/06/2012	06/08/2012	17/04/2012	$370,000	1088m	Full transfer	2	1	-	-	1	$370,000	73	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	364754	            2/2A Lambrigg Street	08/05/2012	-	16/02/2012	$365,000	5031m	Full transfer	2	1	-	-	1	$365,000	82	-	Allhomes Record	-	-	-	-	$150,104	0.41
+2012	365746	3/32C Marshall Street	03/01/2012	20/02/2012	07/09/2011	$345,000	1098m	Full transfer	2	1	-	-	1	$345,000	118	-	Combined Record	-	-	-	Multiple unit dwelling	$686,000	1.99
+2012	375763	6/30 Gatton Street	30/08/2012	-	28/06/2012	$330,000	-	Full transfer	1	1	-	-	1	$330,000	63	-	Allhomes Record	63	-	-	-	-	-
+2012	382181	2/33 Marshall Street	06/12/2012	-	05/07/2012	$324,000	1287m	Full transfer	2	1	-	1	-	$324,000	154	-	Allhomes Record	-	-	-	-	$861,000	2.66
+2012	387703	            2/33E Marshall Street	06/12/2012	11/01/2013	-	$324,000	1287m	Full transfer	-	-	-	-	-	$324,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	395414	12 Moodie Street	12/12/2012	16/04/2013	-	$302,500	864m	Full transfer	-	-	-	-	-	$302,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387702	            14/188A Beasley Street	07/09/2012	07/01/2013	-	$0	5031m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	442218	6 Prior Place	16/07/2012	17/12/2014	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379924	22 Waite Street	13/07/2012	13/09/2012	-	$0	762m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376076	8 Waite Place	06/06/2012	09/08/2012	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400759	45 Waite Street	10/11/2012	31/05/2013	-	$0	1539m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378780	42 Drevermann Street	18/07/2012	06/09/2012	17/05/2012	$0	872m	Full transfer	4	1	1	2	-	$0	62	-	Combined Record	-	-	-	Single residential dwelling	$543,000	2.66
+2012	382802	44 Hawkesbury Crescent	03/02/2012	10/05/2012	-	$0	848m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388613	55 Spafford Crescent	09/11/2012	16/01/2013	-	$0	1069m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	369187	8 Drevermann Street	18/02/2012	03/04/2012	24/01/2012	$0	855m	Full transfer	5	1	1	2	-	$0	25	-	Combined Record	232	-	-	Single residential dwelling	$490,000	2.66
+2012	386250	12 Moodie Street	11/05/2012	07/12/2012	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383110	5 Prior Place	19/08/2012	27/11/2012	-	$0	841m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2012	371998	9 Parry Place	26/01/2012	29/05/2012	-	$0	256m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	386248	40 Muresk Street	03/10/2012	07/12/2012	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400452	54 Pridham Street	18/01/2012	21/05/2013	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368597	40 Lambrigg Street	09/02/2012	21/03/2012	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376075	17 Marshall Street	06/07/2012	10/08/2012	-	$0	897m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	501605	14 Cameron Street	25/10/2012	21/03/2017	-	$0	795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400446	102 Lambrigg Street	20/12/2012	21/05/2013	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382660	40 Pridham Street	26/04/2012	13/11/2012	-	$0	934m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	485771	26 Waite Street	25/06/2012	01/09/2016	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374606	16 Molineaux Place	07/03/2012	26/06/2012	-	$0	1571m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376282	256 Beasley Street	10/05/2012	16/07/2012	-	$0	1101m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374609	3 Aird Place	27/03/2012	27/06/2012	01/03/2012	$0	762m	Full transfer	3	1	-	2	-	$0	26	-	Combined Record	-	-	-	Single residential dwelling	$360,000	2.66
+2013	394281	16 Drevermann Street	31/01/2013	02/04/2013	22/01/2013	$1,300,000	892m	Full transfer	4	2	1	2	-	$1,300,000	9	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.39
+2013	400449	19 Roseworthy Crescent	10/04/2013	21/05/2013	08/02/2013	$1,057,000	1456m	Full transfer	7	2	3	-	2	$1,057,000	61	-	Combined Record	443	-	-	Single residential dwelling	$517,000	0.49
+2013	406804	119 Hawkesbury Crescent	27/06/2013	05/09/2013	29/03/2013	$1,050,000	1853m	Full transfer	4	2	1	2	1	$1,050,000	90	-	Combined Record	-	-	-	Single residential dwelling	$884,000	0.84
+2013	408052	75 Hawkesbury Crescent	24/06/2013	21/08/2013	-	$982,500	1879m	Full transfer	-	-	-	-	-	$982,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411442	10 Wagga Street	10/09/2013	24/10/2013	24/07/2013	$975,000	1429m	Full transfer	4	2	-	0	2	$975,000	48	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.51
+2013	397735	80 Hawkesbury Crescent	18/03/2013	09/05/2013	-	$905,000	1529m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411120	3 Mullen Place	20/06/2013	16/09/2013	13/05/2013	$905,000	733m	Full transfer	4	2	1	2	-	$905,000	38	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.37
+2013	400447	11 Cheel Place	15/04/2013	22/05/2013	28/02/2013	$895,000	1381m	Full transfer	4	1	1	2	-	$895,000	46	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.49
+2013	402581	10 Custance Street	01/05/2013	21/06/2013	20/09/2012	$880,000	767m	Full transfer	4	1	2	2	-	$880,000	223	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.56
+2013	403555	33 Steinwedel Street	29/05/2013	02/07/2013	07/03/2013	$876,000	1592m	Full transfer	4	2	1	2	-	$876,000	83	-	Combined Record	-	-	-	Single residential dwelling	$620,000	0.71
+2013	405322	            25B Gatton Street	14/06/2013	25/07/2013	-	$860,000	533m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419569	104 Lambrigg Street	16/12/2013	04/02/2014	-	$840,000	1025m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	391087	1/25 Gatton Street	02/04/2013	-	28/02/2013	$830,000	496m	Full transfer	4	1	1	2	-	$830,000	33	-	Allhomes Record	-	-	-	-	$407,000	0.49
+2013	416968	56 Longerenong Street	22/10/2013	16/12/2013	-	$808,200	1008m	Full transfer	-	-	-	-	-	$808,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417833	3 Cameron Street	14/11/2013	13/01/2014	26/09/2013	$805,000	1051m	Full transfer	5	2	1	-	2	$805,000	49	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.55
+2013	395412	25 Hawkesbury Crescent	09/01/2013	19/04/2013	25/10/2012	$800,000	1120m	Full transfer	4	3	-	2	-	$800,000	76	-	Combined Record	-	-	-	Single residential dwelling	$599,000	0.75
+2013	409940	32 Moodie Street	28/10/2013	-	31/07/2013	$780,000	974m	Full transfer	5	3	-	1	-	$780,000	89	-	Allhomes Record	243	-	-	-	$555,000	0.71
+2013	413109	31 Woodgate Street	21/09/2013	31/10/2013	27/08/2013	$775,000	817m	Full transfer	4	1	1	-	2	$775,000	25	-	Combined Record	226	-	-	Single residential dwelling	$517,000	0.67
+2013	411844	25 Drevermann Street	02/07/2013	14/10/2013	03/05/2013	$770,000	1032m	Full transfer	4	1	1	-	2	$770,000	60	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.71
+2013	419478	67 Pridham Street	25/11/2013	11/02/2014	27/09/2013	$760,000	781m	Full transfer	5	1	1	-	3	$760,000	59	-	Combined Record	213	-	-	Single residential dwelling	$404,000	0.53
+2013	406806	11 Marshall Street	22/06/2013	02/09/2013	30/05/2013	$737,500	925m	Full transfer	4	1	1	2	-	$737,500	23	-	Combined Record	206	-	-	Single residential dwelling	$360,000	0.49
+2013	394551	92 Pridham Street	08/02/2013	18/03/2013	31/10/2012	$737,500	1059m	Full transfer	4	1	1	-	2	$737,500	100	-	Combined Record	171	-	-	Single residential dwelling	$517,000	0.7
+2013	403778	27 Gatton Street	24/04/2013	16/07/2013	21/02/2013	$722,000	954m	Full transfer	4	1	1	2	-	$722,000	62	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.5
+2013	404969	4 Watt Place	12/03/2013	07/08/2013	25/10/2012	$701,750	1296m	Full transfer	4	1	1	2	-	$701,750	138	-	Combined Record	177	-	-	Single residential dwelling	$461,000	0.66
+2013	394549	102 Pridham Street	04/02/2013	18/03/2013	29/10/2012	$700,000	846m	Full transfer	3	1	1	2	2	$700,000	98	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.61
+2013	395622	32 Prescott Street	03/05/2013	-	02/04/2013	$685,000	1089m	Full transfer	4	1	1	2	-	$685,000	31	-	Allhomes Record	197	-	-	-	$461,000	0.67
+2013	397733	26 Prescott Street	23/02/2013	08/05/2013	30/01/2013	$681,000	952m	Full transfer	4	1	1	2	-	$681,000	24	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.72
+2013	393641	            18A/18B Wenholz Street	15/04/2013	-	22/11/2012	$680,000	-	Full transfer	5	2	-	-	3	$680,000	144	-	Allhomes Record	-	-	-	-	-	-
+2013	399071	106 Pridham Street	19/06/2013	-	21/02/2013	$670,000	734m	Full transfer	4	2	-	2	0	$670,000	118	-	Allhomes Record	-	-	-	-	$389,000	0.58
+2013	410492	6 Johnson Place	06/06/2013	10/09/2013	09/05/2013	$658,000	1007m	Full transfer	3	1	1	2	-	$658,000	28	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.59
+2013	412736	20 Wenholz Street	30/08/2013	04/11/2013	-	$657,500	771m	Full transfer	-	-	-	-	-	$657,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	414502	52 Lambrigg Street	01/10/2013	27/11/2013	05/09/2013	$639,000	1043m	Full transfer	4	1	1	-	2	$639,000	26	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.56
+2013	421709	29 Spafford Crescent	23/12/2013	05/03/2014	12/11/2013	$623,000	1115m	Full transfer	4	1	1	1	-	$623,000	41	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.73
+2013	397736	18 Wenholz Street	07/03/2013	10/05/2013	-	$620,000	686m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	407026	156 Lambrigg Street	05/07/2013	15/08/2013	-	$610,000	993m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415685	130 Lambrigg Street	05/10/2013	12/12/2013	11/09/2013	$607,000	1020m	Full transfer	3	1	1	1	1	$607,000	24	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.7
+2013	405317	21 Hagelthorn Street	25/05/2013	23/07/2013	30/04/2013	$595,000	1012m	Full transfer	3	1	-	2	1	$595,000	25	-	Combined Record	128	-	-	Single residential dwelling	$461,000	0.77
+2013	407025	14 Wenholz Street	25/06/2013	14/08/2013	-	$592,500	635m	Full transfer	-	-	-	-	-	$592,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	413505	24 Pridham Street	06/09/2013	14/11/2013	14/08/2013	$571,500	1016m	Full transfer	3	1	-	1	1	$571,500	23	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.58
+2013	415688	24 Dookie Street	31/10/2013	11/12/2013	-	$570,000	981m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404967	34 Werribee Crescent	21/06/2013	06/08/2013	03/05/2013	$560,000	838m	Full transfer	3	1	-	-	2	$560,000	49	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.62
+2013	388301	133 Lambrigg Street	09/02/2013	-	02/01/2013	$560,000	1080m	Full transfer	4	1	-	1	-	$560,000	38	-	Allhomes Record	-	-	-	-	$403,000	0.72
+2013	405320	13 Pridham Street	09/05/2013	22/07/2013	23/02/2013	$555,000	668m	Full transfer	3	1	-	1	2	$555,000	75	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.59
+2013	411441	7 Parry Place	06/08/2013	22/10/2013	-	$535,000	253m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	411444	4 Aird Place	04/09/2013	23/10/2013	12/08/2013	$521,000	740m	Full transfer	3	1	-	2	0	$521,000	23	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.71
+2013	402317	1 Potts Place	28/02/2013	26/06/2013	31/01/2013	$520,000	876m	Full transfer	3	1	-	1	-	$520,000	28	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.64
+2013	407027	34 Pridham Street	07/06/2013	12/08/2013	10/01/2013	$500,000	976m	Full transfer	3	1	1	-	1	$500,000	148	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.68
+2013	405319	8 Cheel Place	03/06/2013	24/07/2013	-	$479,500	1048m	Full transfer	-	-	-	-	-	$479,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	418596	4 Potts Place	02/12/2013	31/01/2014	-	$475,000	849m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	414094	            2/10 Hagelthorn Street	09/10/2013	18/11/2013	-	$447,500	842m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	412461	1/10 Hagelthorn Street	22/11/2013	-	23/10/2013	$440,000	842m	Full transfer	3	1	-	1	-	$440,000	30	-	Allhomes Record	-	-	-	-	$481,000	1.09
+2013	411122	117 Lambrigg Street	21/08/2013	20/09/2013	04/07/2013	$440,000	464m	Full transfer	3	2	-	-	1	$440,000	48	-	Combined Record	-	-	-	Medium density dwelling	$333,000	0.76
+2013	415690	4/30 Gatton Street	12/10/2013	12/12/2013	11/09/2013	$420,000	1968m	Full transfer	3	2	-	-	1	$420,000	31	-	Combined Record	141	-	-	Multiple unit dwelling	$1,137,000	2.71
+2013	414504	4/8 Longerenong Street	01/10/2013	29/11/2013	21/11/2013	$410,000	1491m	Full transfer	2	2	0	0	0	$410,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	$243,576	0.59
+2013	394991	            7/188A Beasley Street	15/02/2013	12/04/2013	-	$400,000	5031m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410087	6/34 Gatton Street	18/06/2013	-	02/11/2013	$385,000	0m	Full transfer	2	1	-	0	1	$385,000	-	-	Allhomes Record	-	-	-	-	$1,906,000	4.95
+2013	393644	            4/2 Lambrigg Street	16/04/2013	-	06/11/2012	$353,000	-	Full transfer	2	1	-	-	1	$353,000	161	-	Allhomes Record	97	-	-	-	-	-
+2013	400756	            9/188A Beasley Street	16/04/2013	28/05/2013	-	$353,000	5031m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413111	4/49 Lambrigg Street	12/08/2013	01/11/2013	16/05/2013	$329,000	1088m	Full transfer	2	1	-	-	1	$329,000	88	-	Combined Record	85	-	-	Multiple unit dwelling	-	-
+2013	394285	4/9 Farrer Place	22/02/2013	02/04/2013	-	$302,000	1865m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	416969	6/35 Marshall Street	27/11/2013	17/12/2013	05/06/2013	$295,000	1275m	Full transfer	2	1	-	-	1	$295,000	175	-	Combined Record	-	-	-	Multiple unit dwelling	$1,137,000	3.85
+2013	400757	7/30 Gatton Street	28/03/2013	28/05/2013	11/12/2012	$285,000	1968m	Full transfer	1	1	-	-	1	$285,000	107	-	Combined Record	-	-	-	Multiple unit dwelling	$1,137,000	3.99
+2013	404481	7/9 Farrer Place	16/08/2013	-	30/04/2013	$210,000	-	Full transfer	1	1	-	-	1	$210,000	108	-	Allhomes Record	-	-	-	-	-	-
+2013	457055	            1/188A Beasley Street	28/12/2013	22/06/2015	-	$0	5031m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414501	134 Lambrigg Street	28/02/2013	26/11/2013	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427212	22 Prescott Street	19/05/2013	16/05/2014	-	$0	922m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419570	1 Custance Street	01/12/2013	03/02/2014	-	$0	926m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416967	51 Hawkesbury Crescent	15/07/2013	19/12/2013	-	$0	1095m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406674	16 Pridham Street	08/07/2013	22/08/2013	-	$0	728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427213	83 Hawkesbury Crescent	25/07/2013	16/05/2014	-	$0	2675m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400755	38 Hawkesbury Crescent	19/02/2013	28/05/2013	-	$0	1014m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	449904	10 Molineaux Place	02/05/2013	07/04/2015	-	$0	1116m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	447240	35 Hawkesbury Crescent	14/02/2013	23/02/2015	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400451	45 Pridham Street	10/04/2013	21/05/2013	-	$0	720m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	414506	30 Waite Street	12/11/2013	29/11/2013	-	$0	745m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415689	4 Betche Place	27/09/2013	12/12/2013	-	$0	911m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430301	71 Hawkesbury Crescent	02/04/2014	07/07/2014	31/01/2014	$1,400,000	2134m	Full transfer	5	1	2	4	-	$1,400,000	61	-	Combined Record	316	-	-	Single residential dwelling	$739,000	0.53
+2014	442979	100 Hawkesbury Crescent	27/09/2014	06/01/2015	02/09/2014	$1,295,000	1331m	Full transfer	4	2	1	4	-	$1,295,000	25	-	Combined Record	-	-	-	Single residential dwelling	$694,000	0.54
+2014	441707	2 Farrer Place	06/11/2014	11/12/2014	-	$1,200,000	592m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2014	430773	3 Crowe Place	12/05/2014	03/07/2014	07/05/2014	$1,100,000	841m	Full transfer	5	2	1	2	-	$1,100,000	5	-	Combined Record	296	-	-	Single residential dwelling	$456,000	0.41
+2014	445196	23 Marshall Street	22/11/2014	03/02/2015	23/10/2014	$990,000	1227m	Full transfer	4	1	1	4	-	$990,000	30	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.35
+2014	438680	145 Hawkesbury Crescent	01/10/2014	29/10/2014	-	$970,000	1749m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429565	132 Hawkesbury Crescent	08/05/2014	17/06/2014	23/04/2014	$950,000	821m	Full transfer	4	2	1	2	-	$950,000	15	-	Combined Record	286	-	-	Single residential dwelling	$665,000	0.7
+2014	445192	14 Molineaux Place	03/12/2014	03/02/2015	22/01/2015	$942,500	1136m	Full transfer	5	2	-	2	0	$942,500	-	-	Combined Record	-	-	-	Single residential dwelling	$665,000	0.71
+2014	435768	7 Betche Place	06/08/2014	18/09/2014	24/06/2014	$888,888	766m	Full transfer	5	1	2	2	-	$888,888	43	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.5
+2014	441281	26 Custance Street	18/10/2014	05/12/2014	12/09/2014	$870,000	1077m	Full transfer	4	1	1	2	-	$870,000	36	-	Combined Record	-	-	-	Single residential dwelling	$706,000	0.81
+2014	428274	93 Hawkesbury Crescent	04/04/2014	20/05/2014	06/02/2014	$860,000	1794m	Full transfer	4	1	1	2	-	$860,000	57	-	Combined Record	-	-	-	Single residential dwelling	$797,000	0.93
+2014	447238	46 Hawkesbury Crescent	29/11/2014	27/02/2015	23/10/2014	$850,000	1017m	Full transfer	4	3	-	2	1	$850,000	37	-	Combined Record	-	-	-	Single residential dwelling	$613,000	0.72
+2014	434396	42 Custance Street	12/07/2014	02/09/2014	17/06/2014	$846,500	1022m	Full transfer	6	2	1	2	1	$846,500	25	-	Combined Record	-	-	-	Single residential dwelling	$613,000	0.72
+2014	429820	22 Prescott Street	17/05/2014	26/06/2014	24/04/2014	$840,000	922m	Full transfer	5	2	1	4	0	$840,000	23	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.58
+2014	448850	24 Wagga Street	22/12/2014	23/03/2015	-	$830,000	871m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	457880	            3/56 Longerenong Street	04/04/2014	14/07/2015	-	$820,000	1008m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440137	4 Hagelthorn Street	31/05/2014	24/11/2014	07/05/2014	$815,000	866m	Full transfer	5	2	1	3	2	$815,000	24	-	Combined Record	225	-	-	Single residential dwelling	$456,000	0.56
+2014	426798	31 Hawkesbury Crescent	14/04/2014	28/05/2014	19/03/2014	$810,000	890m	Full transfer	4	1	1	0	2	$810,000	26	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.73
+2014	435763	11 Cameron Street	13/08/2014	18/09/2014	30/07/2014	$769,000	781m	Full transfer	5	3	-	2	0	$769,000	14	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.65
+2014	435762	26 Custance Street	27/05/2014	16/09/2014	-	$755,000	1077m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421352	164 Hawkesbury Crescent	21/01/2014	27/02/2014	06/01/2014	$752,500	1146m	Full transfer	5	1	-	2	-	$752,500	15	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.66
+2014	423985	34 Waite Street	10/02/2014	31/03/2014	-	$750,000	670m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426797	7 Hawkesbury Crescent	17/04/2014	30/05/2014	-	$750,000	1001m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441705	152 Lambrigg Street	29/10/2014	09/12/2014	07/10/2014	$725,000	1008m	Full transfer	3	1	1	1	1	$725,000	22	-	Combined Record	310	-	-	Single residential dwelling	$484,000	0.67
+2014	435766	30 Hawkesbury Crescent	28/08/2014	18/09/2014	01/07/2014	$695,000	755m	Full transfer	4	1	1	2	-	$695,000	58	-	Combined Record	-	-	-	Single residential dwelling	$529,000	0.76
+2014	446841	34 Spafford Crescent	12/11/2014	10/02/2015	11/09/2014	$671,000	962m	Full transfer	3	1	0	2	0	$671,000	62	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.55
+2014	439584	15 Prescott Street	07/10/2014	12/11/2014	03/10/2014	$670,000	836m	Full transfer	3	1	1	2	-	$670,000	4	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.66
+2014	438985	150 Lambrigg Street	12/09/2014	06/11/2014	01/09/2014	$650,000	929m	Full transfer	4	1	1	2	-	$650,000	11	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.7
+2014	443504	4 Raw Place	20/11/2014	14/01/2015	30/10/2014	$650,000	1158m	Full transfer	-	-	-	-	-	$650,000	21	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.7
+2014	440507	60 Lambrigg Street	12/12/2014	-	27/11/2014	$638,000	901m	Full transfer	4	1	2	2	-	$638,000	15	-	Allhomes Record	214	-	-	-	$343,000	0.54
+2014	431138	25 Spafford Crescent	19/05/2014	14/07/2014	07/05/2014	$610,000	642m	Full transfer	3	1	-	1	-	$610,000	12	-	Combined Record	134	-	-	Single residential dwelling	$398,000	0.65
+2014	426795	5 Crowe Place	22/03/2014	27/05/2014	25/02/2014	$602,000	714m	Full transfer	3	1	-	-	2	$602,000	25	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.74
+2014	418781	157 Lambrigg Street	15/02/2014	-	22/01/2014	$600,000	934m	Full transfer	4	1	0	2	0	$600,000	24	-	Allhomes Record	-	-	-	-	$566,000	0.94
+2014	422874	            56 Hawkesbury Crescent	15/02/2014	24/03/2014	-	$600,000	934m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	445194	78 Lambrigg Street	06/12/2014	06/02/2015	06/11/2014	$596,000	791m	Full transfer	4	1	-	1	-	$596,000	30	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.62
+2014	438681	57 Spafford Crescent	25/08/2014	28/10/2014	18/07/2014	$595,000	862m	Full transfer	4	1	1	-	1	$595,000	38	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.58
+2014	443509	6 Spafford Crescent	03/12/2014	14/01/2015	28/08/2014	$585,000	850m	Full transfer	3	1	0	2	2	$585,000	97	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.63
+2014	440367	5 Werribee Crescent	15/10/2014	19/11/2014	25/09/2014	$585,000	958m	Full transfer	3	1	1	2	-	$585,000	20	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.72
+2014	441283	74 Pridham Street	25/10/2014	05/12/2014	10/09/2014	$573,000	1077m	Full transfer	3	1	-	-	1	$573,000	45	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.82
+2014	423295	27 Dookie Street	17/02/2014	19/03/2014	-	$572,500	874m	Full transfer	-	-	-	-	-	$572,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428643	17 Pridham Street	26/04/2014	03/06/2014	03/04/2014	$562,000	925m	Full transfer	4	2	-	2	0	$562,000	23	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.59
+2014	420684	61/22 Marshall Street	12/02/2014	-	04/09/2013	$560,000	-	Full transfer	2	1	1	1	-	$560,000	161	-	Allhomes Record	100	-	-	-	-	-
+2014	443506	7 Moodie Street	19/12/2014	13/01/2015	21/10/2014	$560,000	811m	Full transfer	3	1	-	-	1	$560,000	59	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.69
+2014	428645	40 Pridham Street	15/02/2014	04/06/2014	20/01/2014	$520,000	934m	Full transfer	3	1	-	4	-	$520,000	26	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.68
+2014	426563	14 Waite Place	20/03/2014	07/05/2014	23/10/2013	$499,000	871m	Full transfer	3	1	-	-	1	$499,000	148	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.84
+2014	430771	134 Lambrigg Street	15/05/2014	03/07/2014	08/04/2014	$485,000	813m	Full transfer	3	1	-	1	0	$485,000	37	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.82
+2014	438685	3 Aird Place	24/09/2014	29/10/2014	-	$479,000	762m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423298	32 Gluyas Street	01/02/2014	19/03/2014	09/12/2013	$457,500	748m	Full transfer	3	1	-	-	2	$457,500	54	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.77
+2014	423296	34 Gluyas Street	01/02/2014	19/03/2014	09/12/2013	$457,500	742m	Full transfer	3	1	-	-	-	$457,500	54	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.74
+2014	422875	3 Bruce Place	21/01/2014	27/03/2014	-	$440,000	351m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	422877	7/44 Spafford Crescent	28/01/2014	26/03/2014	08/01/2014	$372,500	1999m	Full transfer	2	1	-	-	1	$372,500	20	-	Combined Record	-	-	-	Multiple unit dwelling	$1,194,000	3.21
+2014	424360	11/34 Gatton Street	27/02/2014	08/04/2014	10/12/2013	$370,000	2441m	Full transfer	2	1	-	-	1	$370,000	79	-	Combined Record	-	-	-	Multiple unit dwelling	$1,906,000	5.15
+2014	438686	1/30 Gatton Street	22/09/2014	30/10/2014	16/06/2014	$330,000	1968m	Full transfer	2	1	-	-	1	$330,000	98	-	Combined Record	-	-	-	Multiple unit dwelling	$1,194,000	3.62
+2014	437592	7/34 Gatton Street	04/09/2014	15/10/2014	25/06/2014	$325,000	2441m	Full transfer	2	1	-	-	1	$325,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	$1,906,000	5.86
+2014	439586	3/35 Marshall Street	30/09/2014	14/11/2014	25/08/2014	$315,000	1275m	Full transfer	2	1	-	-	1	$315,000	36	-	Combined Record	96	-	-	Multiple unit dwelling	$1,194,000	3.79
+2014	439349	2B/32 Marshall Street	01/12/2014	-	02/10/2014	$298,000	1098m	Full transfer	2	1	-	-	1	$298,000	60	-	Allhomes Record	104	-	-	-	$904,000	3.03
+2014	443508	            2/32C Marshall Street	01/12/2014	15/01/2015	-	$298,000	1098m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	439588	3/10 Longerenong Street	29/08/2014	14/11/2014	06/05/2014	$275,000	1113m	Full transfer	2	1	-	-	2	$275,000	115	-	Combined Record	-	-	-	Multiple unit dwelling	$880,000	3.2
+2014	447241	35 Hawkesbury Crescent	07/11/2014	23/02/2015	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448332	11 McAlpine Place	30/10/2014	03/03/2015	-	$0	950m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438987	9 Johnson Place	25/08/2014	06/11/2014	21/07/2014	$0	1041m	Full transfer	3	1	2	-	2	$0	35	-	Combined Record	-	-	-	Single residential dwelling	$368,000	3.2
+2014	437591	34 Roseworthy Crescent	19/08/2014	15/10/2014	-	$0	878m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427211	16 Drevermann Street	07/03/2014	12/05/2014	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431137	20 Waite Street	23/05/2014	14/07/2014	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438683	43 Moodie Street	08/06/2014	29/10/2014	-	$0	844m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435765	8 Pudney Street	01/07/2014	16/09/2014	-	$0	1139m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	555634	35 Muresk Street	09/09/2014	20/03/2019	-	$0	1285m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438984	10 Drevermann Street	02/06/2014	07/11/2014	-	$0	855m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448331	7 Steinwedel Street	13/03/2014	02/03/2015	-	$0	989m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	575702	24 Muresk Street	12/05/2014	07/12/2019	-	$0	851m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427676	46 Lambrigg Street	26/02/2014	01/05/2014	-	$0	1069m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436204	45 Muresk Street	25/03/2014	23/09/2014	-	$0	1001m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436648	145 Hawkesbury Crescent	06/06/2014	30/09/2014	-	$0	1749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	478833	167 Hawkesbury Crescent	05/03/2014	24/05/2016	-	$0	1156m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446840	45 Roseworthy Crescent	06/11/2014	13/02/2015	-	$0	966m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442219	7 Moodie Street	03/10/2014	16/12/2014	-	$0	811m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432497	3/10 Longerenong Street	06/04/2014	06/08/2014	-	$0	1113m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426562	51 Spafford Crescent	11/03/2014	07/05/2014	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451948	91 Hawkesbury Crescent	16/03/2015	05/05/2015	10/01/2015	$1,300,000	2045m	Full transfer	5	3	1	2	-	$1,300,000	65	-	Combined Record	-	-	-	Single residential dwelling...	$797,000	0.61
+2015	473153	31 Steinwedel Street	14/11/2015	02/03/2016	20/10/2015	$1,200,000	1503m	Full transfer	5	2	2	2	-	$1,200,000	25	-	Combined Record	-	-	-	Single residential dwelling	$583,000	0.49
+2015	468791	118 Hawkesbury Crescent	13/11/2015	06/01/2016	17/09/2015	$1,165,000	1396m	Full transfer	4	1	1	2	-	$1,165,000	57	-	Combined Record	195	-	-	Single residential dwelling	$739,000	0.63
+2015	466429	16 Molineaux Place	26/09/2015	17/11/2015	26/08/2015	$1,150,000	1571m	Full transfer	4	2	1	2	-	$1,150,000	31	-	Combined Record	-	-	-	Single residential dwelling	$634,000	0.55
+2015	462374	19 McAlpine Place	17/10/2015	-	28/09/2015	$1,150,000	1299m	Full transfer	4	2	-	2	-	$1,150,000	19	-	Allhomes Record	-	-	-	-	$484,000	0.42
+2015	463174	45 Muresk Street	13/06/2015	06/10/2015	21/05/2015	$1,075,000	1001m	Full transfer	4	1	1	2	0	$1,075,000	23	-	Combined Record	-	-	-	Single residential dwelling	$634,000	0.59
+2015	459882	15 McAlpine Place	03/07/2015	18/08/2015	13/05/2015	$1,030,000	923m	Full transfer	5	1	2	3	-	$1,030,000	51	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.43
+2015	457053	154 Lambrigg Street	31/03/2015	23/06/2015	05/03/2015	$997,000	902m	Full transfer	4	1	1	1	0	$997,000	26	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.49
+2015	454080	3 Valder Place	02/04/2015	01/06/2015	24/02/2015	$970,000	2068m	Full transfer	5	3	1	0	3	$970,000	37	-	Combined Record	-	-	-	Single residential dwelling	$745,000	0.77
+2015	464913	9 Wenholz Street	28/08/2015	20/10/2015	23/07/2015	$965,000	1205m	Full transfer	4	1	1	2	0	$965,000	36	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.46
+2015	461295	28 Muresk Street	13/06/2015	31/08/2015	20/05/2015	$905,000	1130m	Full transfer	4	1	1	2	-	$905,000	24	-	Combined Record	-	-	-	Single residential dwelling	$583,000	0.64
+2015	444457	7 Custance Street	14/02/2015	-	07/01/2015	$900,000	790m	Full transfer	4	1	1	2	1	$900,000	38	-	Allhomes Record	202	-	-	-	$484,000	0.54
+2015	461558	4 Molineaux Place	29/06/2015	10/09/2015	06/05/2015	$867,000	1234m	Full transfer	4	1	1	2	-	$867,000	54	-	Combined Record	-	-	-	Single residential dwelling	$694,000	0.8
+2015	454549	30 Cameron Street	25/06/2015	-	26/05/2015	$840,000	867m	Full transfer	6	3	-	2	-	$840,000	30	-	Allhomes Record	-	-	-	-	$613,000	0.73
+2015	461573	            18 Custance Street	25/06/2015	07/09/2015	-	$840,000	867m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473826	23 Hagelthorn Street	15/12/2015	22/03/2016	01/09/2015	$810,000	839m	Full transfer	5	3	-	2	-	$810,000	105	-	Combined Record	249	-	-	Single residential dwelling	$456,000	0.56
+2015	465385	129 Lambrigg Street	24/09/2015	05/11/2015	15/09/2015	$810,000	1053m	Full transfer	4	2	-	2	0	$810,000	9	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.46
+2015	463915	7 Steinwedel Street	02/11/2015	-	19/03/2015	$780,000	989m	Full transfer	5	1	1	1	1	$780,000	228	-	Allhomes Record	-	-	-	-	$613,000	0.79
+2015	447775	67 Pridham Street	17/01/2015	09/03/2015	18/12/2014	$767,000	781m	Full transfer	4	1	1	0	2	$767,000	30	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.52
+2015	461286	144 Lambrigg Street	22/05/2015	31/08/2015	-	$760,000	929m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	443857	43 Moodie Street	07/01/2015	20/01/2015	-	$750,000	844m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450387	1 Werribee Crescent	23/02/2015	14/04/2015	-	$740,000	1185m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452558	150 Lambrigg Street	08/04/2015	21/05/2015	-	$740,000	929m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450708	56B Longerenong Street	09/05/2015	-	15/04/2015	$725,000	-	Full transfer	3	1	1	2	-	$725,000	24	-	Allhomes Record	-	-	-	-	$720,000	0.99
+2015	458115	2/56 Longerenong Street	09/05/2015	21/07/2015	-	$725,000	1008m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	471692	186 Beasley Street	05/11/2015	17/02/2016	15/10/2015	$725,000	1045m	Full transfer	4	1	1	2	1	$725,000	21	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.47
+2015	463184	12 Spafford Crescent	18/07/2015	08/10/2015	27/05/2015	$712,500	751m	Full transfer	4	1	1	-	2	$712,500	52	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.52
+2015	470878	30 Pridham Street	31/10/2015	10/02/2016	08/10/2015	$710,000	920m	Full transfer	3	1	1	0	1	$710,000	23	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.46
+2015	463176	8 Moodie Street	12/06/2015	08/10/2015	15/04/2015	$700,000	755m	Full transfer	4	2	-	2	-	$700,000	58	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.55
+2015	456620	26 Dookie Street	10/04/2015	02/07/2015	-	$675,000	962m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463183	61 Spafford Crescent	04/09/2015	08/10/2015	-	$670,000	872m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463553	1/143A Lambrigg Street	28/08/2015	12/10/2015	-	$645,000	1275m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457896	1/56 Longerenong Street	03/03/2015	16/07/2015	-	$641,000	1008m	Full transfer	-	-	-	-	-	$641,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464901	8 Ward Place	31/07/2015	20/10/2015	07/05/2015	$635,000	1181m	Full transfer	3	1	1	2	0	$635,000	85	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.66
+2015	472360	68 Lambrigg Street	28/11/2015	24/02/2016	19/10/2015	$628,000	803m	Full transfer	3	1	-	-	1	$628,000	40	-	Combined Record	128	-	-	Single residential dwelling	$343,000	0.55
+2015	456618	11 McAlpine Place	09/05/2015	30/06/2015	16/04/2015	$625,000	950m	Full transfer	4	2	-	4	0	$625,000	23	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.71
+2015	464915	22 Wagga Street	07/09/2015	21/10/2015	13/08/2015	$620,000	831m	Full transfer	3	1	1	2	0	$620,000	25	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.79
+2015	469369	32 Hagelthorn Street	27/11/2015	14/01/2016	11/11/2015	$610,000	670m	Full transfer	3	1	-	1	-	$610,000	16	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.63
+2015	460285	10 Cameron Street	14/07/2015	27/08/2015	16/04/2015	$603,000	788m	Full transfer	4	1	-	1	0	$603,000	89	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.7
+2015	471690	30 Lambrigg Street	01/12/2015	17/02/2016	17/09/2015	$595,000	872m	Full transfer	3	2	-	0	0	$595,000	75	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.65
+2015	449902	8 Olliff Place	28/02/2015	10/04/2015	14/01/2015	$595,000	780m	Full transfer	3	1	-	1	-	$595,000	45	-	Combined Record	116	-	-	Single residential dwelling	$447,000	0.75
+2015	451108	14 Spafford Crescent	12/03/2015	01/05/2015	-	$575,000	811m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459285	14 Hagelthorn Street	27/06/2015	12/08/2015	01/06/2015	$567,000	880m	Full transfer	3	1	0	0	1	$567,000	26	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.63
+2015	445908	2/120 Lambrigg Street	06/03/2015	-	29/11/2014	$512,000	0m	Full transfer	3	2	-	0	2	$512,000	97	-	Allhomes Record	-	-	-	-	$716,000	1.4
+2015	448333	30 Gluyas Street	12/01/2015	02/03/2015	-	$495,000	738m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	445674	13/5 Lambrigg Street	04/03/2015	-	28/01/2015	$385,000	-	Full transfer	3	1	-	-	1	$385,000	35	-	Allhomes Record	-	-	-	-	$2,376,000	6.17
+2015	451451	            2/198A Beasley Street	04/03/2015	22/04/2015	-	$385,000	6500m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	459897	6/44 Spafford Crescent	25/06/2015	17/08/2015	21/05/2015	$360,000	1999m	Full transfer	2	1	-	0	1	$360,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	$1,194,000	3.32
+2015	452132	1/188 Beasley Street	22/05/2015	-	28/01/2015	$357,000	-	Full transfer	3	1	-	-	1	$357,000	114	-	Allhomes Record	-	-	-	-	$2,376,000	6.66
+2015	457515	            1/188A Beasley Street	22/05/2015	07/07/2015	-	$357,000	5031m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470891	2/32 Gatton Street	16/12/2015	10/02/2016	-	$330,000	2228m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467248	32B Gatton Street	16/12/2015	-	27/08/2015	$330,000	-	Full transfer	2	1	-	-	1	$330,000	111	-	Allhomes Record	68	-	-	-	$1,497,000	4.54
+2015	444547	6/34 Gatton Street	18/02/2015	-	16/01/2015	$310,000	222m	Full transfer	2	1	-	1	0	$310,000	33	-	Allhomes Record	-	-	-	-	$1,906,000	6.15
+2015	476002	12 Moodie Street	23/11/2015	18/04/2016	-	$300,000	864m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472372	2/10 Longerenong Street	18/11/2015	24/02/2016	-	$290,000	1113m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449055	1/10 Longerenong Street	08/04/2015	-	11/10/2014	$200,000	1113m	Full transfer	1	1	-	-	1	$200,000	179	-	Allhomes Record	-	-	-	-	$880,000	4.4
+2015	449905	1/10 Longerenong Street	24/02/2015	10/04/2015	-	$200,000	1113m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468228	6 Sutton Place	29/10/2015	15/12/2015	09/10/2015	$0	851m	Full transfer	3	1	0	2	0	$0	20	-	Combined Record	-	-	-	Single residential dwelling	$325,000	4.4
+2015	482561	12 Dookie Street	04/04/2015	26/07/2016	-	$0	846m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474673	56 Lambrigg Street	17/10/2015	04/04/2016	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	469368	5 Wagga Street	24/11/2015	13/01/2016	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464912	1 Pye Place	14/01/2015	21/10/2015	-	$0	1044m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461565	38 Drevermann Street	16/07/2015	10/09/2015	-	$0	1008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474662	30 Wagga Street	07/12/2015	05/04/2016	-	$0	875m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451107	5/9 Farrer Place	18/03/2015	30/04/2015	-	$0	1865m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466716	13 Wenholz Street	14/09/2015	23/11/2015	-	$0	957m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	497667	35 Waite Street	18/11/2015	20/02/2017	-	$0	1331m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457881	1 Johnson Place	20/05/2015	13/07/2015	20/03/2015	$0	995m	Full transfer	3	2	-	2	0	$0	61	-	Combined Record	-	-	-	Single residential dwelling	$343,000	4.4
+2015	463171	25 Custance Street	21/08/2015	09/10/2015	29/07/2015	$0	909m	Full transfer	4	1	1	2	-	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$529,000	4.4
+2015	456626	9 Dookie Street	30/04/2015	01/07/2015	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	481024	38 Hawkesbury Crescent	07/11/2015	07/07/2016	-	$0	1014m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	479291	13 Hagelthorn Street	22/12/2015	30/05/2016	-	$0	917m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472362	9 Roseworthy Crescent	02/09/2015	22/02/2016	-	$0	1029m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	513222	35 Custance Street	07/02/2015	09/06/2017	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451961	18 Gatton Street	09/03/2015	04/05/2015	-	$0	985m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	482381	163 Hawkesbury Crescent	03/12/2015	26/07/2016	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499854	97 Hawkesbury Crescent	03/12/2016	08/03/2017	09/11/2016	$1,310,000	1953m	Full transfer	5	2	1	4	0	$1,310,000	24	-	Combined Record	-	-	-	Single residential dwelling	$810,000	0.62
+2016	502742	83 Hawkesbury Crescent	03/12/2016	11/04/2017	03/11/2016	$1,310,000	2675m	Full transfer	6	2	2	6	1	$1,310,000	30	-	Combined Record	-	-	-	Single residential dwelling	$797,000	0.61
+2016	487164	100 Pridham Street	11/08/2016	20/09/2016	08/02/2016	$1,300,000	972m	Full transfer	5	1	2	2	-	$1,300,000	185	-	Combined Record	324	-	-	Single residential dwelling	$535,000	0.41
+2016	468963	14 Cheel Place	29/01/2016	-	21/11/2015	$1,190,000	824m	Full transfer	4	1	1	4	-	$1,190,000	69	-	Allhomes Record	-	-	-	-	$386,000	0.32
+2016	476745	6 Wagga Street	24/02/2016	27/04/2016	02/02/2016	$1,175,000	927m	Full transfer	4	2	1	2	-	$1,175,000	22	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.4
+2016	495745	18 Spafford Crescent	17/09/2016	02/02/2017	30/08/2016	$1,090,000	974m	Full transfer	4	1	1	2	-	$1,090,000	18	-	Combined Record	253	-	-	Single residential dwelling	$440,000	0.4
+2016	477172	16 Waite Place	12/03/2016	04/05/2016	11/02/2016	$1,060,000	919m	Full transfer	4	2	1	1	1	$1,060,000	30	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.42
+2016	497288	13 Hawkesbury Crescent	12/11/2016	08/02/2017	19/10/2016	$1,030,000	1098m	Full transfer	4	2	-	2	0	$1,030,000	24	-	Combined Record	-	-	-	Single residential dwelling	$581,000	0.56
+2016	503053	113 Hawkesbury Crescent	13/12/2016	10/04/2017	03/11/2016	$1,030,000	1222m	Full transfer	3	1	1	2	-	$1,030,000	40	-	Combined Record	217	-	-	Single residential dwelling	$705,000	0.68
+2016	483632	146 Hawkesbury Crescent	08/06/2016	10/08/2016	05/05/2016	$960,000	993m	Full transfer	4	1	1	2	-	$960,000	34	-	Combined Record	167	-	-	Single residential dwelling	$697,000	0.73
+2016	515716	3 Cameron Street	04/07/2016	20/07/2017	-	$955,000	1051m	Full transfer	-	-	-	-	-	$955,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490735	12 Prescott Street	07/09/2016	15/11/2016	13/07/2016	$935,000	1016m	Full transfer	5	1	1	2	-	$935,000	56	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.54
+2016	479298	7 Cameron Street	02/04/2016	01/06/2016	09/03/2016	$925,000	1514m	Full transfer	3	1	1	4	1	$925,000	24	-	Combined Record	217	-	-	Single residential dwelling	$526,000	0.57
+2016	522213	5 Cameron Street	26/05/2016	12/12/2017	-	$915,000	1118m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479289	167 Hawkesbury Crescent	16/04/2016	31/05/2016	17/03/2016	$905,000	1156m	Full transfer	4	1	1	2	-	$905,000	30	-	Combined Record	168	-	-	Single residential dwelling	$510,000	0.56
+2016	494993	9 Spafford Crescent	11/10/2016	11/01/2017	29/09/2016	$890,000	1230m	Full transfer	4	1	1	2	1	$890,000	12	-	Combined Record	179	-	-	Single residential dwelling	$417,000	0.47
+2016	490653	3 Moodie Street	27/09/2016	18/11/2016	15/09/2016	$881,000	768m	Full transfer	4	3	-	4	0	$881,000	12	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.46
+2016	498239	2 Mullen Place	13/12/2016	15/02/2017	24/11/2016	$880,000	969m	Full transfer	4	1	1	2	0	$880,000	19	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.4
+2016	498313	86 Lambrigg Street	17/11/2016	16/02/2017	08/09/2016	$880,000	812m	Full transfer	4	2	-	2	0	$880,000	70	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.44
+2016	517829	54 Lambrigg Street	14/11/2016	28/08/2017	-	$830,000	942m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501680	22 Wagga Street	15/12/2016	23/03/2017	24/11/2016	$825,000	831m	Full transfer	3	2	-	2	0	$825,000	21	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.62
+2016	494866	21 Custance Street	24/09/2016	11/01/2017	31/08/2016	$820,000	897m	Full transfer	5	2	-	2	-	$820,000	24	-	Combined Record	247	-	-	Single residential dwelling	$563,000	0.69
+2016	484548	246 Beasley Street	16/07/2016	19/08/2016	16/06/2016	$817,000	998m	Full transfer	4	2	0	2	2	$817,000	30	-	Combined Record	-	-	-	Single residential dwelling...	$386,000	0.47
+2016	477705	9 Cheel Place	03/02/2016	10/05/2016	03/11/2015	$815,000	751m	Full transfer	4	2	-	2	0	$815,000	92	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.49
+2016	475486	149 Lambrigg Street	12/02/2016	13/04/2016	11/11/2015	$810,000	1226m	Full transfer	4	2	-	1	-	$810,000	93	-	Combined Record	156	-	-	Single residential dwelling	$478,000	0.59
+2016	473146	162 Hawkesbury Crescent	28/01/2016	01/03/2016	-	$800,000	1011m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494048	5 Wenholz Street	24/09/2016	20/12/2016	01/09/2016	$800,000	1008m	Full transfer	4	1	2	-	1	$800,000	23	-	Combined Record	180	-	-	Single residential dwelling	$462,000	0.58
+2016	493783	39 Spafford Crescent	02/11/2016	20/12/2016	15/09/2016	$796,000	747m	Full transfer	4	1	1	-	2	$796,000	48	-	Combined Record	166	-	-	Single residential dwelling	$402,000	0.51
+2016	480995	38 Hawkesbury Crescent	23/04/2016	07/07/2016	31/03/2016	$791,000	1014m	Full transfer	4	2	-	2	-	$791,000	23	-	Combined Record	150	-	-	Single residential dwelling	$574,000	0.73
+2016	487544	34A Spafford Crescent	15/10/2016	-	27/08/2016	$775,000	-	Full transfer	3	1	1	-	2	$775,000	49	-	Allhomes Record	-	-	-	-	$386,000	0.5
+2016	500546	            2/34 Spafford Crescent	15/10/2016	14/03/2017	-	$775,000	962m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497338	4 Werribee Crescent	04/11/2016	07/02/2017	29/09/2016	$775,000	783m	Full transfer	4	1	1	2	-	$775,000	36	-	Combined Record	150	-	-	Single residential dwelling	$440,000	0.57
+2016	497248	52 Lambrigg Street	21/10/2016	10/02/2017	-	$770,000	1043m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496966	4 Olliff Place	03/12/2016	08/02/2017	09/11/2016	$752,500	1083m	Full transfer	3	1	-	2	0	$752,500	24	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.63
+2016	493062	32 Wagga Street	17/09/2016	07/12/2016	23/03/2016	$750,000	875m	Full transfer	5	2	-	2	0	$750,000	178	-	Combined Record	170	-	-	Single residential dwelling	$535,000	0.71
+2016	497633	4 Pudney Street	17/11/2016	23/02/2017	10/11/2016	$750,000	939m	Full transfer	3	1	-	2	-	$750,000	7	-	Combined Record	117	-	-	Single residential dwelling	$468,000	0.62
+2016	493296	20 Moodie Street	23/09/2016	07/12/2016	18/08/2016	$735,000	651m	Full transfer	4	2	-	2	0	$735,000	36	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.55
+2016	485780	234 Beasley Street	03/06/2016	01/09/2016	-	$720,000	1005m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481484	7 Moodie Street	30/07/2016	-	20/06/2016	$711,000	811m	Full transfer	3	1	-	-	-	$711,000	40	-	Allhomes Record	-	-	-	-	$406,000	0.57
+2016	477368	41 Pridham Street	28/05/2016	-	05/05/2016	$710,000	730m	Full transfer	3	1	1	0	1	$710,000	23	-	Allhomes Record	-	-	-	-	$406,000	0.57
+2016	514695	61 Spafford Crescent	03/12/2016	06/07/2017	10/11/2016	$710,000	426m	Full transfer	3	1	1	0	1	$710,000	23	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.47
+2016	474674	94 Pridham Street	05/02/2016	06/04/2016	17/11/2015	$705,000	1058m	Full transfer	3	2	-	1	1	$705,000	80	-	Combined Record	-	-	-	Single residential dwelling	$535,000	0.76
+2016	487204	40 Wagga Street	13/08/2016	22/09/2016	21/07/2016	$700,000	922m	Full transfer	4	3	-	2	0	$700,000	23	-	Combined Record	-	-	-	Single residential dwelling	$563,000	0.8
+2016	485242	13 Hagelthorn Street	09/07/2016	19/08/2016	15/06/2016	$685,000	917m	Full transfer	3	1	-	-	1	$685,000	24	-	Combined Record	117	-	-	Single residential dwelling	$402,000	0.59
+2016	482518	12 Dookie Street	28/05/2016	26/07/2016	02/02/2016	$680,000	846m	Full transfer	4	1	1	-	2	$680,000	116	-	Combined Record	185	-	-	Single residential dwelling	$391,000	0.57
+2016	481852	46 Longerenong Street	12/05/2016	21/07/2016	-	$675,100	880m	Full transfer	-	-	-	-	-	$675,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478310	46 Lambrigg Street	05/03/2016	17/05/2016	09/12/2015	$671,000	1069m	Full transfer	3	1	-	2	-	$671,000	87	-	Combined Record	129	-	-	Single residential dwelling	$386,000	0.58
+2016	477453	32 Cameron Street	31/05/2016	-	22/04/2016	$660,000	810m	Full transfer	-	-	-	-	-	$660,000	39	-	Allhomes Record	-	-	-	-	$644,000	0.98
+2016	473141	2 Drevermann Street	21/01/2016	01/03/2016	31/08/2015	$659,000	906m	Full transfer	3	3	-	2	0	$659,000	143	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.63
+2016	495895	5 Cheel Place	15/10/2016	04/01/2017	22/09/2016	$657,000	762m	Full transfer	3	1	-	-	2	$657,000	23	-	Combined Record	107	-	-	Single residential dwelling	$386,000	0.59
+2016	495731	10 Roseworthy Crescent	15/11/2016	03/02/2017	06/10/2016	$640,000	861m	Full transfer	3	1	0	0	1	$640,000	40	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.72
+2016	487253	22 Wenholz Street	29/07/2016	21/09/2016	-	$636,000	750m	Full transfer	-	-	-	-	-	$636,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	481483	             Wenholz Street	29/07/2016	-	07/04/2016	$636,000	-	Full transfer	5	2	-	-	2	$636,000	113	-	Allhomes Record	171	-	-	-	$337,000	0.53
+2016	480062	13 Waite Street	30/04/2016	21/06/2016	07/04/2016	$611,000	901m	Full transfer	3	1	0	0	1	$611,000	23	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.72
+2016	480754	31 Pridham Street	07/04/2016	01/07/2016	11/03/2016	$600,000	794m	Full transfer	3	1	-	1	0	$600,000	27	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.64
+2016	481823	25 Woodgate Street	05/03/2016	20/07/2016	07/12/2015	$577,000	1039m	Full transfer	2	1	-	-	-	$577,000	89	-	Combined Record	109	-	-	Single residential dwelling	$417,000	0.72
+2016	475482	3 Bruce Place	09/02/2016	12/04/2016	-	$546,000	351m	Full transfer	-	-	-	-	-	$546,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	488290	9 Sutton Place	05/08/2016	07/10/2016	30/06/2016	$545,000	882m	Full transfer	3	1	-	2	-	$545,000	36	-	Combined Record	94	-	-	Single residential dwelling	$370,000	0.68
+2016	484774	1 Bruce Place	24/03/2016	26/08/2016	24/02/2016	$545,000	662m	Full transfer	3	2	-	0	0	$545,000	29	-	Combined Record	-	-	-	Medium density dwelling	$359,000	0.66
+2016	478309	14 Sutton Place	06/04/2016	16/05/2016	-	$515,000	747m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492544	            1/5 Marshall Street	08/10/2016	12/12/2016	-	$461,000	1011m	Full transfer	-	-	-	-	-	$461,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486370	5B Marshall Street	08/10/2016	-	13/09/2016	$461,000	1011m	Full transfer	2	1	0	1	0	$461,000	25	-	Allhomes Record	-	-	-	-	$420,000	0.91
+2016	530111	48 Lambrigg Street	13/12/2016	12/04/2018	-	$375,625	1201m	Full transfer	-	-	-	-	-	$375,625	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474924	196 Beasley Street	03/05/2016	-	02/02/2016	$345,000	0m	Full transfer	2	1	-	0	1	$345,000	91	-	Allhomes Record	-	-	-	-	$2,376,000	6.89
+2016	495528	5/8 Longerenong Street	28/11/2016	02/02/2017	29/09/2016	$335,000	1491m	Full transfer	2	1	-	0	1	$335,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	477184	            1/32C Marshall Street	04/03/2016	03/05/2016	-	$310,000	1098m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	470650	1/32 Marshall Street	04/03/2016	-	25/09/2014	$310,000	-	Full transfer	2	1	0	0	1	$310,000	526	-	Allhomes Record	-	-	-	-	$904,000	2.92
+2016	498099	5/35 Marshall Street	27/10/2016	16/02/2017	31/08/2016	$278,000	1275m	Full transfer	2	1	-	-	1	$278,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	493073	2/9 Farrer Place	12/10/2016	09/12/2016	11/08/2016	$222,000	1865m	Full transfer	1	1	-	0	1	$222,000	62	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	503285	14 Waite Place	12/08/2016	06/04/2017	-	$189,000	871m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477700	2 Roseworthy Crescent	02/03/2016	10/05/2016	-	$90,000	903m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Residential	-	-
+2016	490090	30 Prescott Street	30/09/2016	10/11/2016	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	541807	6 Drevermann Street	11/12/2016	14/09/2018	-	$0	856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488024	46 Drevermann Street	23/04/2016	14/10/2016	-	$0	964m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	517414	26 Wagga Street	14/03/2016	25/08/2017	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	523639	16 Muresk Street	24/10/2016	16/01/2018	-	$0	1109m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499602	163 Hawkesbury Crescent	12/12/2016	09/03/2017	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493157	17 Waite Street	30/07/2016	05/12/2016	-	$0	1402m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495332	10 Prescott Street	27/09/2016	02/02/2017	-	$0	1305m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	565077	25 Moodie Street	13/05/2016	11/07/2019	-	$0	696m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478318	10 Johnson Place	13/02/2016	20/05/2016	-	$0	663m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Residential	-	-
+2016	532659	10 Spafford Crescent	15/10/2016	15/05/2018	-	$0	866m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495199	46 Pridham Street	11/08/2016	18/01/2017	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	519954	1 Betche Place	27/11/2016	16/10/2017	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497844	20 Hagelthorn Street	30/11/2016	22/02/2017	-	$0	986m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477704	2 Crowe Place	26/02/2016	13/05/2016	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514205	26 Steinwedel Street	18/02/2017	29/06/2017	18/01/2017	$1,250,000	1187m	Full transfer	5	2	-	2	0	$1,250,000	31	-	Combined Record	-	-	-	Single residential dwelling	$667,000	0.53
+2017	512670	47 Muresk Street	06/03/2017	08/05/2017	08/03/2017	$1,230,000	1568m	Full transfer	5	2	-	0	2	$1,230,000	-	-	Combined Record	-	-	-	Single residential dwelling	$675,000	0.55
+2017	520011	3 Crowe Place	26/08/2017	19/10/2017	03/08/2017	$1,225,000	841m	Full transfer	5	2	1	4	0	$1,225,000	23	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.43
+2017	528847	7 Woodgate Street	29/11/2017	22/03/2018	15/11/2017	$1,150,000	889m	Full transfer	5	4	-	6	0	$1,150,000	14	-	Combined Record	-	-	-	Single residential dwelling	$571,000	0.5
+2017	528766	15 Muresk Street	18/11/2017	22/03/2018	25/10/2017	$1,090,000	1166m	Full transfer	4	2	-	2	-	$1,090,000	24	-	Combined Record	191	-	-	Single residential dwelling	$455,000	0.42
+2017	508628	27 Cameron Street	14/10/2017	-	19/09/2017	$1,065,000	898m	Full transfer	4	3	-	2	1	$1,065,000	25	-	Allhomes Record	-	-	-	-	$584,000	0.55
+2017	500717	35 Waite Street	20/01/2017	15/03/2017	28/10/2016	$1,060,000	1331m	Full transfer	5	2	1	2	-	$1,060,000	84	-	Combined Record	-	-	-	Single residential dwelling	$571,000	0.54
+2017	523886	94 Pridham Street	04/11/2017	24/01/2018	11/10/2017	$1,042,500	1058m	Full transfer	4	3	-	1	1	$1,042,500	24	-	Combined Record	-	-	-	Single residential dwelling	$584,000	0.56
+2017	515476	31 Moodie Street	13/05/2017	14/07/2017	19/04/2017	$1,017,000	776m	Full transfer	4	2	-	0	3	$1,017,000	24	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.43
+2017	502683	3 Crane Place	10/02/2017	10/04/2017	22/08/2016	$995,000	936m	Full transfer	4	2	-	2	0	$995,000	172	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.48
+2017	526300	18 Molineaux Place	16/12/2017	01/03/2018	21/11/2017	$977,500	1358m	Full transfer	4	2	-	2	0	$977,500	25	-	Combined Record	-	-	-	Single residential dwelling	$680,000	0.7
+2017	512904	130 Hawkesbury Crescent	28/03/2017	26/05/2017	30/06/2016	$975,000	788m	Full transfer	4	1	1	2	-	$975,000	271	-	Combined Record	294	-	-	Single residential dwelling	$760,000	0.78
+2017	501172	32 Hawkesbury Crescent	23/01/2017	28/03/2017	07/11/2016	$960,000	763m	Full transfer	4	2	1	2	-	$960,000	77	-	Combined Record	203	-	-	Single residential dwelling	$604,000	0.63
+2017	509769	8 Moodie Street	18/11/2017	-	26/10/2017	$960,000	755m	Full transfer	4	2	-	2	0	$960,000	23	-	Allhomes Record	-	-	-	-	$443,000	0.46
+2017	546790	6 Valder Place	09/08/2017	02/01/2019	-	$950,000	961m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519218	2 Cameron Street	15/07/2017	10/10/2017	22/06/2017	$920,000	864m	Full transfer	4	1	1	2	-	$920,000	23	-	Combined Record	207	-	-	Single residential dwelling	$407,000	0.44
+2017	512959	41 Hawkesbury Crescent	26/05/2017	26/05/2017	-	$910,000	928m	Full transfer	-	-	-	-	-	$910,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498668	41 Hawkesbury Crescent	20/03/2017	-	17/02/2017	$910,000	923m	Full transfer	-	-	-	-	-	$910,000	31	-	Allhomes Record	-	-	-	-	$820,000	0.9
+2017	516790	68 Hawkesbury Crescent	28/04/2017	02/08/2017	05/04/2017	$890,000	1050m	Full transfer	4	2	-	3	-	$890,000	23	-	Combined Record	-	-	-	Single residential dwelling	$736,000	0.83
+2017	504566	5 Hawkesbury Crescent	29/05/2017	-	21/04/2017	$880,000	1169m	Full transfer	-	-	-	-	-	$880,000	38	-	Allhomes Record	-	-	-	-	$510,000	0.58
+2017	509822	15 Dookie Street	22/11/2017	-	12/10/2017	$880,000	986m	Full transfer	-	-	-	-	-	$880,000	41	-	Allhomes Record	-	-	-	-	$384,000	0.44
+2017	498677	33 Lambrigg Street	20/03/2017	-	17/02/2017	$875,000	1087m	Full transfer	-	-	-	-	-	$875,000	31	-	Allhomes Record	-	-	-	-	$795,000	0.91
+2017	512278	33 Lambrigg Street	19/05/2017	19/05/2017	-	$875,000	1091m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525039	4 Watt Place	18/09/2017	30/01/2018	31/08/2017	$870,000	1296m	Full transfer	4	2	-	2	0	$870,000	18	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.6
+2017	507751	244 Beasley Street	09/09/2017	-	17/08/2017	$870,000	-	Full transfer	4	2	-	2	2	$870,000	23	-	Allhomes Record	189	-	-	-	$421,000	0.48
+2017	519199	6 Werribee Crescent	08/07/2017	11/10/2017	15/06/2017	$861,000	970m	Full transfer	4	2	0	1	1	$861,000	23	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.53
+2017	501344	56 Drevermann Street	10/01/2017	28/03/2017	16/11/2016	$860,000	831m	Full transfer	4	1	1	4	0	$860,000	55	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.61
+2017	509287	20 Dookie Street	04/11/2017	-	12/10/2017	$855,000	-	Full transfer	4	2	-	2	-	$855,000	23	-	Allhomes Record	133	-	-	-	$427,000	0.5
+2017	507766	60 Hawkesbury Crescent	09/09/2017	-	23/08/2017	$850,000	0m	Full transfer	3	2	-	2	0	$850,000	17	-	Allhomes Record	-	-	-	-	$604,000	0.71
+2017	502438	26 Pridham Street	04/02/2017	19/04/2017	12/01/2017	$848,000	920m	Full transfer	4	2	-	2	0	$848,000	23	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.48
+2017	529497	11 Wenholz Street	09/12/2017	05/04/2018	16/11/2017	$845,000	813m	Full transfer	4	2	-	1	0	$845,000	23	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.52
+2017	526190	5 Werribee Crescent	10/11/2017	28/02/2018	01/11/2017	$840,000	958m	Full transfer	4	2	-	2	-	$840,000	9	-	Combined Record	137	-	-	Single residential dwelling	$481,000	0.57
+2017	516691	32 Longerenong Street	18/05/2017	04/08/2017	12/04/2017	$839,200	811m	Full transfer	6	2	-	3	-	$839,200	36	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.46
+2017	520492	10 Woodgate Street	08/11/2017	08/11/2017	-	$828,000	1102m	Full transfer	-	-	-	-	-	$828,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506998	10 Woodgate Street	08/08/2017	-	07/07/2017	$828,000	0m	Full transfer	-	-	-	-	-	$828,000	32	-	Allhomes Record	-	-	-	-	$554,000	0.67
+2017	513293	19 Prescott Street	23/03/2017	05/06/2017	02/11/2016	$825,000	780m	Full transfer	7	2	-	1	-	$825,000	141	-	Combined Record	146	-	-	Single residential dwelling	$504,000	0.61
+2017	530687	34 Wagga Street	11/11/2017	18/04/2018	19/10/2017	$815,000	1154m	Full transfer	4	2	-	2	-	$815,000	23	-	Combined Record	172	-	-	Single residential dwelling	$480,000	0.59
+2017	528294	4 Steinwedel Street	29/11/2017	19/03/2018	15/09/2017	$810,000	768m	Full transfer	4	1	1	2	-	$810,000	75	-	Combined Record	-	-	-	Single residential dwelling	$680,000	0.84
+2017	522646	19 Wagga Street	23/09/2017	11/01/2018	31/08/2017	$810,000	977m	Full transfer	4	2	-	0	2	$810,000	23	-	Combined Record	-	-	-	Single residential dwelling	$584,000	0.72
+2017	501453	11 Cameron Street	10/02/2017	21/03/2017	10/11/2016	$805,000	781m	Full transfer	5	3	-	2	-	$805,000	92	-	Combined Record	-	-	-	Single residential dwelling	$571,000	0.71
+2017	518002	142 Lambrigg Street	31/05/2017	29/08/2017	20/04/2017	$800,000	940m	Full transfer	4	1	1	2	-	$800,000	41	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.57
+2017	502643	54 Longerenong Street	10/03/2017	13/04/2017	15/12/2016	$800,000	977m	Full transfer	6	3	-	2	0	$800,000	85	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.49
+2017	498669	22 Pridham Street	20/03/2017	-	17/02/2017	$800,000	1783m	Full transfer	-	-	-	-	-	$800,000	31	-	Allhomes Record	-	-	-	-	$321,000	0.4
+2017	512951	22 Pridham Street	26/05/2017	26/05/2017	-	$800,000	1789m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514141	12 Woodgate Street	30/06/2017	30/06/2017	21/04/2017	$800,000	1089m	Full transfer	-	-	-	-	-	$800,000	70	-	Combined Record	-	-	-	Single residential dwelling	$554,000	0.69
+2017	526202	5 Roseworthy Crescent	08/11/2017	26/02/2018	19/10/2017	$774,650	1121m	Full transfer	4	2	0	1	0	$774,650	20	-	Combined Record	-	-	-	Single residential dwelling	$504,000	0.65
+2017	518107	24 Pridham Street	20/07/2017	28/08/2017	11/05/2017	$769,000	1016m	Full transfer	4	1	-	1	1	$769,000	70	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.53
+2017	498693	238 Beasley Street	20/03/2017	-	17/02/2017	$767,000	1106m	Full transfer	-	-	-	-	-	$767,000	31	-	Allhomes Record	-	-	-	-	$695,000	0.91
+2017	512265	238 Beasley Street	19/05/2017	19/05/2017	-	$767,000	1108m	Full transfer	-	-	-	-	-	$767,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516202	54 Pridham Street	29/05/2017	24/07/2017	15/02/2017	$760,000	906m	Full transfer	5	2	1	2	-	$760,000	103	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.55
+2017	517817	13 Wenholz Street	01/06/2017	28/08/2017	22/08/2016	$755,000	957m	Partial transfer	4	3	-	0	2	$755,000	283	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.58
+2017	522341	9 Wagga Street	13/12/2017	13/12/2017	-	$750,000	922m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507787	9 Wagga Street	08/09/2017	-	07/07/2017	$750,000	0m	Full transfer	-	-	-	-	-	$750,000	63	-	Allhomes Record	-	-	-	-	$502,000	0.67
+2017	529218	254 Beasley Street	03/12/2017	27/03/2018	09/11/2017	$743,000	1054m	Full transfer	4	1	-	1	0	$743,000	24	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.59
+2017	512313	1/56 Longerenong Street	02/03/2017	16/05/2017	-	$740,000	1008m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	496302	56A Longerenong Street	02/03/2017	-	16/02/2017	$740,000	0m	Full transfer	3	2	-	2	0	$740,000	14	-	Allhomes Record	-	-	-	-	$720,000	0.97
+2017	503438	30 Pridham Street	18/02/2017	05/04/2017	19/01/2017	$730,000	920m	Full transfer	3	2	-	0	1	$730,000	30	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.56
+2017	512283	20 Spafford Crescent	17/05/2017	17/05/2017	-	$730,000	1022m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519883	            1/64 Lambrigg Street	21/02/2017	22/10/2017	-	$720,000	906m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504650	23 Woodgate Street	01/06/2017	-	21/04/2017	$720,000	809m	Full transfer	-	-	-	-	-	$720,000	41	-	Allhomes Record	-	-	-	-	$539,000	0.75
+2017	496064	64A Lambrigg Street	21/02/2017	-	02/02/2017	$720,000	906m	Full transfer	3	2	0	2	0	$720,000	19	-	Allhomes Record	-	-	-	-	$542,000	0.75
+2017	517198	23 Woodgate Street	31/07/2017	31/07/2017	-	$720,000	814m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525845	10 Johnson Place	18/11/2017	12/02/2018	26/10/2017	$720,000	663m	Full transfer	3	2	-	2	0	$720,000	23	-	Combined Record	-	-	-	Residential	$421,000	0.58
+2017	498667	20 Spafford Crescent	20/03/2017	-	17/02/2017	$720,000	1018m	Full transfer	-	-	-	-	-	$720,000	31	-	Allhomes Record	-	-	-	-	$421,000	0.58
+2017	526877	49 Spafford Crescent	16/12/2017	09/03/2018	-	$715,000	978m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520265	4 Cameron Street	29/07/2017	02/11/2017	06/07/2017	$710,000	738m	Full transfer	4	1	1	-	2	$710,000	23	-	Combined Record	160	-	-	Single residential dwelling	$439,000	0.62
+2017	523485	18 Wagga Street	09/09/2017	21/01/2018	15/08/2017	$710,000	1307m	Full transfer	4	1	-	2	0	$710,000	25	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.68
+2017	498716	11 Gluyas Street	20/03/2017	-	17/02/2017	$700,000	1163m	Full transfer	-	-	-	-	-	$700,000	31	-	Allhomes Record	-	-	-	-	$394,000	0.56
+2017	523250	4 Roseworthy Crescent	01/11/2017	18/01/2018	06/10/2017	$700,000	894m	Full transfer	3	1	1	1	-	$700,000	26	-	Combined Record	117	-	-	Single residential dwelling	$480,000	0.69
+2017	513099	11 Gluyas Street	06/06/2017	06/06/2017	-	$700,000	1164m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513071	19 Werribee Crescent	09/06/2017	09/06/2017	-	$700,000	1035m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498672	23 Gatton Street	20/03/2017	-	17/02/2017	$700,000	1005m	Full transfer	-	-	-	-	-	$700,000	31	-	Allhomes Record	-	-	-	-	$373,000	0.53
+2017	513310	27 Gluyas Street	31/03/2017	05/06/2017	21/03/2017	$700,000	795m	Full transfer	4	1	1	2	2	$700,000	10	-	Combined Record	168	-	-	Single residential dwelling	$382,000	0.55
+2017	512281	23 Gatton Street	19/05/2017	19/05/2017	-	$700,000	1010m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502858	            1/34 Spafford Crescent	10/02/2017	12/04/2017	-	$686,500	962m	Full transfer	-	-	-	-	-	$686,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494529	34 Spafford Crescent	10/02/2017	-	26/10/2016	$686,000	-	Full transfer	3	1	-	-	2	$686,000	107	-	Allhomes Record	120	-	-	-	$386,000	0.56
+2017	498710	8 Gluyas Street	21/03/2017	-	17/02/2017	$685,000	0m	Full transfer	-	-	-	-	-	$685,000	32	-	Allhomes Record	-	-	-	-	$620,000	0.91
+2017	512254	8 Gluyas Street	19/05/2017	19/05/2017	-	$685,000	934m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507449	11 Gatton Street	25/08/2017	-	17/02/2017	$670,000	0m	Full transfer	-	-	-	-	-	$670,000	189	-	Allhomes Record	-	-	-	-	$420,000	0.63
+2017	519330	11 Gatton Street	13/10/2017	13/10/2017	-	$670,000	813m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509348	57 Pridham Street	28/10/2017	-	17/02/2017	$660,000	765m	Full transfer	-	-	-	-	-	$660,000	253	-	Allhomes Record	-	-	-	-	$456,000	0.69
+2017	512243	36 Spafford Crescent	17/05/2017	17/05/2017	-	$660,000	841m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499207	36 Spafford Crescent	20/03/2017	-	17/02/2017	$660,000	840m	Full transfer	-	-	-	-	-	$660,000	31	-	Allhomes Record	-	-	-	-	$368,000	0.56
+2017	521362	19 Marshall Street	26/09/2017	20/12/2017	-	$650,000	843m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519899	9 Gluyas Street	20/10/2017	20/10/2017	17/02/2017	$635,000	840m	Full transfer	-	-	-	-	-	$635,000	245	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.56
+2017	518318	1 Aird Place	04/07/2017	06/09/2017	-	$630,000	837m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508708	11 Spafford Crescent	19/10/2017	-	07/09/2017	$610,000	0m	Full transfer	4	2	-	0	0	$610,000	42	-	Allhomes Record	-	-	-	-	$455,000	0.75
+2017	515958	            8/188A Beasley Street	08/05/2017	27/07/2017	-	$363,000	5031m	Full transfer	-	-	-	-	-	$363,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503633	            2A/2 Lambrigg Street	08/05/2017	-	30/03/2017	$363,000	0m	Full transfer	2	1	-	0	1	$363,000	39	-	Allhomes Record	-	-	-	-	-	-
+2017	510445	196 Beasley Street	07/12/2017	-	08/11/2017	$354,000	0m	Full transfer	2	1	-	0	2	$354,000	29	-	Allhomes Record	-	-	-	-	$2,376,000	6.71
+2017	524795	96 Lambrigg Street	20/09/2017	29/01/2018	-	$350,000	966m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501723	            13/198A Beasley Street	14/02/2017	22/03/2017	-	$345,000	6500m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494583	198 Beasley Street	14/02/2017	-	12/01/2017	$345,000	0m	Full transfer	2	1	-	0	1	$345,000	33	-	Allhomes Record	-	-	-	-	$2,376,000	6.89
+2017	525007	6/34 Gatton Street	09/11/2017	01/02/2018	20/10/2017	$315,000	2441m	Full transfer	2	1	-	1	-	$315,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	503539	3/35 Marshall Street	09/02/2017	27/04/2017	07/12/2016	$315,000	1275m	Full transfer	2	1	-	0	1	$315,000	64	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	516512	7/32 Gatton Street	26/06/2017	08/08/2017	09/05/2017	$300,000	2228m	Full transfer	2	1	-	-	1	$300,000	48	-	Combined Record	85	-	-	Multiple unit dwelling	$1,497,000	4.99
+2017	513727	10 Gluyas Street	18/01/2017	02/06/2017	-	$260,000	910m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517736	            7/198A Beasley Street	05/04/2017	29/08/2017	-	$136,667	6500m	Full transfer	-	-	-	-	-	$136,667	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494317	4 Farrer Place	06/02/2017	-	14/09/2015	$90,000	-	Full transfer	-	-	-	-	-	$90,000	511	-	Allhomes Record	-	-	-	-	-	-
+2017	517052	240 Beasley Street	19/06/2017	02/08/2017	-	$0	988m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	540982	15 Hawkesbury Crescent	07/10/2017	30/08/2018	-	$0	1041m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504863	22 Moodie Street	27/02/2017	02/05/2017	-	$0	709m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528872	24 Spafford Crescent	11/10/2017	29/03/2018	-	$0	1054m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504932	4 Crane Place	09/03/2017	01/05/2017	14/02/2017	$0	979m	Full transfer	4	1	-	1	0	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$480,000	4.99
+2017	523393	49 Spafford Crescent	14/09/2017	18/01/2018	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524427	116 Hawkesbury Crescent	24/10/2017	22/01/2018	-	$0	1492m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530446	68 Pridham Street	23/11/2017	10/04/2018	-	$0	1215m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530230	            14 Longerenong Street	31/07/2017	13/04/2018	-	$0	446m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515142	1 Crowe Place	19/04/2017	11/07/2017	-	$0	960m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518842	10 Johnson Place	10/03/2017	12/09/2017	-	$0	663m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Residential	-	-
+2017	536274	7 Waite Street	05/12/2017	26/06/2018	-	$0	877m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520428	53 Spafford Crescent	20/10/2017	08/11/2017	-	$0	812m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	527649	7 Ward Place	31/12/2017	13/03/2018	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514747	10 Pudney Street	27/04/2017	03/07/2017	-	$0	1101m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520934	6 Valder Place	22/05/2017	01/12/2017	-	$0	961m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521026	44 Pridham Street	20/04/2017	30/11/2017	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515159	57 Pridham Street	14/07/2017	14/07/2017	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534666	57 Hawkesbury Crescent	17/02/2018	04/06/2018	17/08/2017	$1,490,000	1300m	Full transfer	4	2	-	2	-	$1,490,000	184	-	Combined Record	-	-	-	Single residential dwelling	$697,000	0.47
+2018	541376	16 Drevermann Street	09/06/2018	04/09/2018	17/05/2018	$1,350,000	892m	Full transfer	4	3	0	2	0	$1,350,000	23	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.44
+2018	534586	5 Valder Place	21/02/2018	05/06/2018	03/10/2017	$1,310,000	1974m	Full transfer	4	1	2	-	2	$1,310,000	141	-	Combined Record	-	-	-	Single residential dwelling	$908,000	0.69
+2018	560825	29 Steinwedel Street	15/09/2018	10/12/2018	22/08/2018	$1,225,000	1369m	Full transfer	4	3	-	2	-	$1,225,000	24	-	Combined Record	300	-	-	Single residential dwelling	$716,000	0.58
+2018	552906	157 Hawkesbury Crescent	10/11/2018	05/02/2019	15/10/2018	$1,210,000	1258m	Full transfer	5	3	-	2	0	$1,210,000	26	-	Combined Record	-	-	-	Single residential dwelling	$767,000	0.63
+2018	540592	118 Hawkesbury Crescent	07/06/2018	21/08/2018	13/04/2018	$1,200,000	1396m	Full transfer	4	2	-	2	-	$1,200,000	55	-	Combined Record	196	-	-	Single residential dwelling	$879,000	0.73
+2018	538945	137 Hawkesbury Crescent	26/05/2018	30/07/2018	03/05/2018	$1,195,000	1465m	Full transfer	5	2	0	3	0	$1,195,000	23	-	Combined Record	-	-	-	Single residential dwelling	$797,000	0.67
+2018	537403	8 Gluyas Street	24/04/2018	09/07/2018	28/03/2018	$1,175,000	934m	Full transfer	4	1	2	2	-	$1,175,000	27	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.55
+2018	554599	            1/12 Woodgate Street	12/11/2018	04/03/2019	-	$1,160,000	1089m	Full transfer	-	-	-	-	-	$1,160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559282	9 Molineaux Place	20/12/2018	13/05/2019	-	$1,151,000	991m	Full transfer	-	-	-	-	-	$1,151,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536127	31 Drevermann Street	07/04/2018	18/06/2018	08/03/2018	$1,150,000	954m	Full transfer	5	2	1	2	0	$1,150,000	30	-	Combined Record	-	-	-	Single residential dwelling	$640,000	0.56
+2018	550966	144 Hawkesbury Crescent	05/10/2018	09/01/2019	21/08/2018	$1,150,000	983m	Full transfer	4	3	-	3	-	$1,150,000	45	-	Combined Record	-	-	-	Single residential dwelling	$792,000	0.69
+2018	548543	47 Hawkesbury Crescent	10/11/2018	20/12/2018	18/10/2018	$1,132,000	1371m	Full transfer	4	2	-	2	0	$1,132,000	23	-	Combined Record	-	-	-	Single residential dwelling	$634,000	0.56
+2018	556805	            2/9 Wagga Street	28/06/2018	03/04/2019	-	$1,100,000	922m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540523	5 Steinwedel Street	27/06/2018	21/08/2018	18/05/2018	$1,050,000	927m	Full transfer	4	2	0	2	1	$1,050,000	40	-	Combined Record	-	-	-	Single residential dwelling	$721,000	0.69
+2018	561341	            2/12 Woodgate Street	21/11/2018	20/02/2019	-	$1,050,000	1089m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535032	31 Pridham Street	13/04/2018	12/06/2018	31/01/2018	$960,000	794m	Full transfer	4	2	-	2	0	$960,000	72	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.46
+2018	528262	22 Prescott Street	17/01/2018	23/03/2018	-	$960,000	922m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539631	35 Drevermann Street	02/06/2018	07/08/2018	10/05/2018	$955,000	1111m	Full transfer	5	3	0	2	0	$955,000	23	-	Combined Record	-	-	-	Single residential dwelling	$640,000	0.67
+2018	552914	151 Lambrigg Street	06/12/2018	04/02/2019	-	$940,000	1245m	Full transfer	-	-	-	-	-	$940,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511819	19 Pudney Street	10/02/2018	-	18/01/2018	$940,000	0m	Full transfer	4	2	-	2	0	$940,000	23	-	Allhomes Record	-	-	-	-	$595,000	0.63
+2018	544370	68 Pridham Street	01/09/2018	19/10/2018	09/08/2018	$925,000	1215m	Full transfer	4	2	-	0	3	$925,000	23	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.59
+2018	549983	32 Moodie Street	18/10/2018	10/12/2018	30/08/2018	$920,000	974m	Full transfer	4	2	1	1	-	$920,000	49	-	Combined Record	243	-	-	Single residential dwelling	$652,000	0.71
+2018	541725	15 Hawkesbury Crescent	16/07/2018	14/09/2018	06/06/2018	$915,000	1041m	Full transfer	4	2	-	1	1	$915,000	40	-	Combined Record	-	-	-	Single residential dwelling	$581,000	0.63
+2018	538309	14 Moodie Street	02/06/2018	24/07/2018	12/04/2018	$915,000	810m	Full transfer	5	3	-	2	0	$915,000	51	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.52
+2018	552352	106 Pridham Street	20/11/2018	25/01/2019	06/09/2018	$895,000	734m	Full transfer	5	2	-	0	2	$895,000	75	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.51
+2018	560788	24 Wagga Street	20/12/2018	20/02/2019	08/11/2018	$895,000	871m	Full transfer	4	2	-	1	-	$895,000	42	-	Combined Record	194	-	-	Single residential dwelling	$595,000	0.66
+2018	538973	            3/167 Hawkesbury Crescent	27/03/2018	02/08/2018	-	$892,000	1156m	Full transfer	-	-	-	-	-	$892,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539098	            2/167 Hawkesbury Crescent	27/03/2018	02/08/2018	-	$892,000	1156m	Full transfer	-	-	-	-	-	$892,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525781	15 Dookie Street	15/02/2018	15/02/2018	-	$880,000	991m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	556063	2 Crane Place	12/12/2018	28/03/2019	-	$860,000	948m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547706	1 Crowe Place	10/10/2018	30/11/2018	05/09/2018	$855,000	960m	Full transfer	4	1	-	2	2	$855,000	35	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.68
+2018	561371	9 McAlpine Place	15/12/2018	05/02/2019	22/11/2018	$830,000	815m	Full transfer	5	2	-	0	2	$830,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.6
+2018	540578	5 Spafford Crescent	23/06/2018	22/08/2018	31/05/2018	$825,000	838m	Full transfer	4	2	-	0	2	$825,000	23	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.53
+2018	533920	42 Pridham Street	20/03/2018	30/05/2018	11/01/2018	$822,500	892m	Full transfer	4	1	1	-	2	$822,500	68	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.52
+2018	538625	6 Pudney Street	01/06/2018	25/07/2018	-	$810,000	962m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533031	22 Spafford Crescent	02/06/2018	-	10/05/2018	$800,000	0m	Full transfer	4	2	-	2	0	$800,000	23	-	Allhomes Record	-	-	-	-	$525,000	0.66
+2018	538493	38 Lambrigg Street	07/06/2018	26/07/2018	17/05/2018	$795,000	687m	Full transfer	4	3	-	2	0	$795,000	21	-	Combined Record	-	-	-	Single residential dwelling	$461,000	0.58
+2018	536490	27 Spafford Crescent	16/05/2018	28/06/2018	18/04/2018	$780,000	984m	Full transfer	4	1	-	1	-	$780,000	28	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.67
+2018	548582	15 Pudney Street	07/11/2018	17/12/2018	-	$770,000	770m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529580	200 Beasley Street	16/02/2018	08/04/2018	09/10/2017	$750,000	969m	Full transfer	3	1	1	1	1	$750,000	130	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.56
+2018	538664	52 Longerenong Street	19/05/2018	23/07/2018	19/04/2018	$750,000	825m	Full transfer	4	2	-	1	0	$750,000	30	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.52
+2018	525489	33 Moodie Street	03/03/2018	-	09/01/2018	$740,000	735m	Full transfer	4	1	2	-	2	$740,000	53	-	Allhomes Record	-	-	-	-	$457,000	0.62
+2018	560815	47 Roseworthy Crescent	14/11/2018	05/02/2019	25/10/2018	$703,000	856m	Full transfer	3	1	-	1	0	$703,000	20	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.63
+2018	547904	            1/34 Spafford Crescent	19/07/2018	26/10/2018	-	$690,000	962m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539777	34 Spafford Crescent	25/08/2018	-	01/08/2018	$690,000	480m	Full transfer	3	1	-	2	0	$690,000	24	-	Allhomes Record	-	-	-	-	$568,000	0.82
+2018	532700	10 Spafford Crescent	04/05/2018	15/05/2018	-	$660,000	866m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532351	8 Sutton Place	19/01/2018	13/05/2018	07/12/2017	$631,000	786m	Full transfer	3	1	-	2	1	$631,000	43	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.63
+2018	540641	210 Beasley Street	02/07/2018	22/08/2018	26/04/2018	$630,000	810m	Full transfer	4	2	-	0	1	$630,000	67	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.67
+2018	555676	18 Pridham Street	01/12/2018	20/03/2019	09/11/2018	$580,000	774m	Full transfer	3	1	-	2	2	$580,000	22	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.67
+2018	528622	212 Beasley Street	15/01/2018	25/03/2018	-	$500,000	1003m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532235	            1/5 Marshall Street	21/03/2018	08/05/2018	-	$487,500	1011m	Full transfer	-	-	-	-	-	$487,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527206	5B Marshall Street	27/02/2018	-	19/02/2018	$487,500	0m	Full transfer	2	1	-	0	1	$487,500	8	-	Allhomes Record	-	-	-	-	$420,000	0.86
+2018	537344	5A Marshall Street	28/06/2018	-	22/06/2018	$460,000	0m	Full transfer	2	1	-	1	0	$460,000	6	-	Allhomes Record	-	-	-	-	$420,000	0.91
+2018	541365	            2/5 Marshall Street	17/07/2018	06/09/2018	-	$460,000	1011m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541625	13/5 Lambrigg Street	26/09/2018	-	23/08/2018	$435,000	6500m	Full transfer	3	1	-	0	1	$435,000	34	-	Allhomes Record	-	-	-	-	$2,376,000	5.46
+2018	549769	            2/198A Beasley Street	26/09/2018	17/12/2018	-	$435,000	6500m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	561299	4/30 Gatton Street	20/12/2018	27/02/2019	08/11/2018	$425,000	1968m	Full transfer	3	2	-	0	1	$425,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534234	7/44 Spafford Crescent	22/06/2018	-	25/03/2018	$410,000	1999m	Full transfer	2	1	-	-	1	$410,000	89	-	Allhomes Record	109	-	-	-	-	-
+2018	553558	            1/32C Marshall Street	21/12/2018	06/02/2019	-	$365,000	1098m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	526721	49/E Lambrigg Street	19/03/2018	-	30/11/2017	$345,000	0m	Full transfer	2	1	-	0	1	$345,000	109	-	Allhomes Record	-	-	-	-	$904,000	2.62
+2018	533613	5/49 Lambrigg Street	19/03/2018	21/05/2018	-	$345,000	1088m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	554192	134 Hawkesbury Crescent	18/12/2018	27/02/2019	-	$325,150	880m	Full transfer	-	-	-	-	-	$325,150	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554567	1/32 Gatton Street	21/12/2018	04/03/2019	-	$315,000	2228m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533900	3/9 Farrer Place	23/02/2018	31/05/2018	19/01/2018	$240,000	1865m	Full transfer	1	1	-	1	-	$240,000	35	-	Combined Record	49	-	-	Multiple unit dwelling	$1,997,000	8.32
+2018	572290	38 Waite Street	28/07/2018	16/10/2019	-	$0	969m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548432	18 Hawkesbury Crescent	19/05/2018	08/11/2018	19/04/2018	$0	1019m	Full transfer	4	2	-	4	0	$0	30	-	Combined Record	-	-	-	Single residential dwelling	$629,000	8.32
+2018	553353	23 Marshall Street	08/09/2018	12/02/2019	-	$0	1227m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531554	8 Olliff Place	01/03/2018	24/04/2018	02/05/2017	$0	780m	Full transfer	4	2	-	2	0	$0	303	-	Combined Record	-	-	-	Single residential dwelling	$532,000	8.32
+2018	548120	22 Werribee Crescent	05/11/2018	15/01/2019	-	$0	922m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553475	7 Werribee Crescent	14/11/2018	12/02/2019	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541283	14 Valder Place	10/04/2018	07/09/2018	-	$0	2959m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547090	14 Valder Place	11/10/2018	22/11/2018	-	$0	2959m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554195	18 Pridham Street	24/05/2018	26/02/2019	-	$0	774m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563137	1/7 Crane Place	28/10/2018	20/06/2019	-	$0	1369m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	564004	9 Roseworthy Crescent	26/11/2018	01/07/2019	-	$0	1029m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546064	32A Marshall Street	21/12/2018	-	09/11/2018	-	0m	Full transfer	2	1	-	1	0	-	42	-	Allhomes Record	-	-	-	-	$904,000	-
+2019	570460	100 Pridham Street	06/07/2019	27/09/2019	13/06/2019	$1,340,000	972m	Full transfer	5	3	-	2	-	$1,340,000	23	-	Combined Record	-	-	-	Single residential dwelling	$608,000	0.45
+2019	563907	147 Hawkesbury Crescent	04/05/2019	02/07/2019	11/04/2019	$1,260,000	1491m	Full transfer	5	3	-	2	0	$1,260,000	23	-	Combined Record	-	-	-	Single residential dwelling	$705,000	0.56
+2019	562516	72 Hawkesbury Crescent	28/03/2019	12/06/2019	17/01/2019	$1,250,000	1081m	Full transfer	4	3	-	4	0	$1,250,000	70	-	Combined Record	-	-	-	Single residential dwelling	$767,000	0.61
+2019	575981	24 Muresk Street	30/10/2019	07/12/2019	19/08/2019	$1,210,000	851m	Full transfer	5	3	-	2	-	$1,210,000	72	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.49
+2019	575751	52 Hawkesbury Crescent	30/10/2019	07/12/2019	17/07/2019	$1,197,000	954m	Full transfer	5	4	-	2	0	$1,197,000	105	-	Combined Record	-	-	-	Single residential dwelling	$674,000	0.56
+2019	559410	23 Marshall Street	03/04/2019	15/05/2019	-	$1,185,000	1227m	Full transfer	-	-	-	-	-	$1,185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572825	8 Molineaux Place	31/08/2019	21/10/2019	01/08/2019	$1,125,000	1250m	Full transfer	5	3	-	2	0	$1,125,000	30	-	Combined Record	-	-	-	Single residential dwelling	$826,000	0.73
+2019	562448	7 Valder Place	06/04/2019	14/06/2019	14/03/2019	$1,090,000	1745m	Full transfer	4	2	-	2	0	$1,090,000	23	-	Combined Record	-	-	-	Single residential dwelling	$908,000	0.83
+2019	554749	14 Drevermann Street	18/03/2019	-	19/02/2019	$1,040,000	0m	Full transfer	4	3	-	3	0	$1,040,000	27	-	Allhomes Record	-	-	-	-	$608,000	0.58
+2019	558532	25 Wagga Street	26/02/2019	02/05/2019	25/01/2019	$1,035,000	908m	Full transfer	4	2	-	2	0	$1,035,000	32	-	Combined Record	-	-	-	Single residential dwelling	$629,000	0.61
+2019	567270	35 Muresk Street	31/05/2019	13/08/2019	28/03/2019	$1,018,000	1285m	Full transfer	5	3	-	2	-	$1,018,000	64	-	Combined Record	-	-	-	Single residential dwelling	$695,000	0.68
+2019	559845	20 Hawkesbury Crescent	01/03/2019	24/05/2019	-	$1,012,500	745m	Full transfer	-	-	-	-	-	$1,012,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558064	20 Hawkesbury Crescent	10/05/2019	-	14/02/2019	$1,012,500	0m	Full transfer	4	2	-	2	-	$1,012,500	85	-	Allhomes Record	-	-	-	-	$598,000	0.59
+2019	575077	            20A Spafford Crescent	11/12/2019	-	03/10/2019	$1,000,000	0m	Full transfer	4	2	-	2	0	$1,000,000	69	-	Allhomes Record	-	-	-	-	-	-
+2019	569879	8 Prescott Street	30/07/2019	18/09/2019	18/07/2019	$1,000,000	1841m	Full transfer	4	3	-	2	1	$1,000,000	12	-	Combined Record	-	-	-	Single residential dwelling	$652,000	0.65
+2019	558256	53 Lambrigg Street	22/03/2019	01/05/2019	-	$1,000,000	1104m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2019	571404	29 Roseworthy Crescent	31/10/2019	-	10/10/2019	$1,000,000	1155m	Full transfer	4	3	-	0	2	$1,000,000	21	-	Allhomes Record	-	-	-	-	$576,000	0.58
+2019	576460	            1/9 Gluyas Street	01/10/2019	10/12/2019	-	$985,000	840m	Full transfer	-	-	-	-	-	$985,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563909	60 Drevermann Street	24/04/2019	02/07/2019	24/01/2019	$980,000	831m	Full transfer	6	4	-	3	0	$980,000	90	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.59
+2019	566605	62 Hawkesbury Crescent	28/06/2019	08/08/2019	13/06/2019	$950,000	1116m	Full transfer	4	2	-	2	0	$950,000	15	-	Combined Record	-	-	-	Single residential dwelling	$708,000	0.75
+2019	562155	5 Hawkesbury Crescent	01/04/2019	04/06/2019	-	$950,000	1173m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565506	32 Muresk Street	29/05/2019	25/07/2019	14/03/2019	$945,000	853m	Full transfer	5	3	-	2	2	$945,000	76	-	Combined Record	-	-	-	Single residential dwelling	$695,000	0.74
+2019	573189	11 McAlpine Place	17/09/2019	29/10/2019	22/08/2019	$925,000	950m	Full transfer	4	2	-	4	0	$925,000	26	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.57
+2019	569282	16 Dookie Street	01/08/2019	10/09/2019	21/11/2018	$910,000	1189m	Full transfer	5	2	-	2	0	$910,000	253	-	Combined Record	264	-	-	Single residential dwelling	$445,000	0.49
+2019	576339	12 Prescott Street	12/03/2019	09/12/2019	-	$900,000	1016m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563485	24 Gatton Street	13/05/2019	25/06/2019	19/02/2019	$900,000	1062m	Full transfer	5	3	-	1	0	$900,000	83	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.47
+2019	576244	16 Lambrigg Street	18/12/2019	-	10/10/2019	$900,000	0m	Full transfer	4	2	-	2	0	$900,000	69	-	Allhomes Record	-	-	-	-	$457,000	0.51
+2019	575611	22 Muresk Street	01/11/2019	07/12/2019	11/09/2019	$900,000	1058m	Full transfer	4	2	-	4	2	$900,000	51	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.6
+2019	555729	10 Dookie Street	12/02/2019	22/03/2019	01/11/2018	$875,000	860m	Full transfer	4	2	-	2	0	$875,000	103	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.51
+2019	567093	            11B Gluyas Street	04/09/2019	-	16/04/2019	$850,000	1164m	Full transfer	4	2	-	2	0	$850,000	141	-	Allhomes Record	-	-	-	-	-	-
+2019	573139	            2/11 Gluyas Street	03/09/2019	01/11/2019	-	$850,000	1164m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572475	40 Longerenong Street	16/11/2019	-	24/10/2019	$850,000	901m	Full transfer	4	2	-	2	2	$850,000	23	-	Allhomes Record	-	-	-	-	$392,000	0.46
+2019	558252	21 Gatton Street	16/01/2019	02/05/2019	-	$845,000	1076m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571767	48 Drevermann Street	11/11/2019	-	16/10/2019	$840,000	0m	Full transfer	3	2	-	2	0	$840,000	26	-	Allhomes Record	-	-	-	-	$579,000	0.69
+2019	575008	9 Roseworthy Crescent	15/09/2019	21/11/2019	25/08/2019	$840,000	1029m	Full transfer	4	2	-	2	-	$840,000	21	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.65
+2019	571909	48 Custance Street	24/05/2019	11/10/2019	24/04/2019	$840,000	896m	Full transfer	4	1	1	2	-	$840,000	30	-	Combined Record	-	-	-	Single residential dwelling	$729,000	0.87
+2019	563006	34 Hagelthorn Street	18/04/2019	20/06/2019	17/01/2019	$827,500	872m	Full transfer	5	2	-	2	0	$827,500	91	-	Combined Record	-	-	-	Single residential dwelling	$532,000	0.64
+2019	574650	            1/36A Spafford Crescent	26/02/2019	19/11/2019	-	$818,263	841m	Full transfer	-	-	-	-	-	$818,263	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569759	36 Spafford Crescent	07/10/2019	-	19/12/2018	$817,000	-	Full transfer	4	1	1	2	-	$817,000	292	-	Allhomes Record	166	-	-	-	$620,000	0.76
+2019	574947	            2/36A Spafford Crescent	04/10/2019	18/11/2019	-	$817,000	841m	Full transfer	-	-	-	-	-	$817,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	553712	36 Spafford Crescent	26/02/2019	-	19/11/2018	$815,000	-	Full transfer	4	1	1	2	-	$815,000	99	-	Allhomes Record	166	-	-	-	$620,000	0.76
+2019	556757	            1/167 Hawkesbury Crescent	08/03/2019	04/04/2019	-	$810,000	1156m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572858	3 McAlpine Place	12/09/2019	25/10/2019	08/05/2019	$800,000	769m	Full transfer	4	2	-	2	0	$800,000	127	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.59
+2019	559042	2/33 Lambrigg Street	03/05/2019	-	18/10/2018	$799,000	-	Full transfer	4	2	-	2	-	$799,000	197	-	Allhomes Record	145	-	-	-	$828,000	1.04
+2019	562182	19 Spafford Crescent	23/02/2019	03/06/2019	31/01/2019	$796,000	987m	Full transfer	4	2	-	4	0	$796,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.63
+2019	574804	126 Lambrigg Street	09/08/2019	12/11/2019	-	$795,000	1027m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568978	29 Moodie Street	25/07/2019	04/09/2019	05/07/2019	$790,000	824m	Full transfer	4	2	-	0	1	$790,000	20	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.56
+2019	558583	128 Lambrigg Street	19/03/2019	02/05/2019	30/10/2018	$780,000	901m	Full transfer	3	2	-	0	2	$780,000	140	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.61
+2019	576415	20 Roseworthy Crescent	06/11/2019	12/12/2019	31/10/2019	$777,000	932m	Full transfer	4	2	-	0	2	$777,000	6	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.68
+2019	564026	36 Pridham Street	18/04/2019	01/07/2019	06/03/2019	$771,000	989m	Full transfer	4	2	-	2	-	$771,000	43	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.55
+2019	570285	2 Moodie Street	19/08/2019	27/09/2019	03/06/2019	$755,000	707m	Full transfer	4	1	-	-	1	$755,000	77	-	Combined Record	168	-	-	Single residential dwelling	$461,000	0.61
+2019	561700	2 Watt Place	21/02/2019	13/05/2019	07/02/2019	$750,000	1252m	Full transfer	3	1	-	0	0	$750,000	14	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.72
+2019	567235	123 Lambrigg Street	08/07/2019	12/08/2019	14/05/2019	$742,000	802m	Full transfer	3	1	-	0	2	$742,000	55	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.59
+2019	570509	12 Dookie Street	18/07/2019	23/09/2019	21/02/2019	$740,000	846m	Full transfer	4	2	-	2	-	$740,000	147	-	Combined Record	185	-	-	Single residential dwelling	$445,000	0.6
+2019	572105	24 Dookie Street	14/11/2019	-	18/09/2019	$740,000	981m	Full transfer	3	1	-	1	-	$740,000	57	-	Allhomes Record	108	-	-	-	$439,000	0.59
+2019	555839	4 Potts Place	05/02/2019	19/03/2019	-	$730,000	849m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	575380	7 Potts Place	30/10/2019	27/11/2019	-	$690,500	943m	Full transfer	-	-	-	-	-	$690,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556996	11 Marshall Street	12/04/2019	-	08/02/2019	$690,000	924m	Full transfer	-	-	-	-	-	$690,000	63	-	Allhomes Record	-	-	-	-	$356,000	0.52
+2019	571847	11 Spafford Crescent	12/11/2019	-	08/08/2019	$690,000	0m	Full transfer	4	2	-	0	0	$690,000	96	-	Allhomes Record	-	-	-	-	$474,000	0.69
+2019	565595	25 Woodgate Street	15/05/2019	25/07/2019	-	$675,000	1039m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554952	12 Werribee Crescent	25/03/2019	-	08/02/2019	$655,000	834m	Full transfer	-	-	-	-	-	$655,000	45	-	Allhomes Record	-	-	-	-	$415,000	0.63
+2019	566308	9 Pridham Street	27/06/2019	02/08/2019	21/06/2019	$635,500	714m	Full transfer	4	2	-	0	1	$635,500	6	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.61
+2019	573266	4 Custance Street	05/09/2019	30/10/2019	07/08/2019	$635,000	853m	Full transfer	2	1	1	-	1	$635,000	29	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.72
+2019	571696	34 Gluyas Street	08/11/2019	-	10/10/2019	$605,000	0m	Full transfer	3	1	-	0	0	$605,000	29	-	Allhomes Record	-	-	-	-	$402,000	0.66
+2019	571695	32 Gluyas Street	08/11/2019	-	10/10/2019	$605,000	0m	Full transfer	3	1	-	0	0	$605,000	29	-	Allhomes Record	-	-	-	-	$421,000	0.7
+2019	573684	30 Gluyas Street	30/08/2019	07/11/2019	18/07/2019	$602,000	738m	Full transfer	3	1	-	-	-	$602,000	43	-	Combined Record	97	-	-	Single residential dwelling	$421,000	0.7
+2019	568758	30 Gluyas Street	02/09/2019	-	28/03/2019	$602,000	0m	Full transfer	3	1	-	0	0	$602,000	158	-	Allhomes Record	-	-	-	-	$421,000	0.7
+2019	557216	            2A/2A Lambrigg Street	01/05/2019	-	17/04/2019	$399,000	-	Full transfer	2	1	-	2	-	$399,000	14	-	Allhomes Record	98	-	-	-	$398,000	1.0
+2019	565091	            8/188A Beasley Street	01/05/2019	09/07/2019	-	$399,000	5031m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572535	3/10 Longerenong Street	19/11/2019	-	01/10/2019	$375,000	0m	Full transfer	2	1	-	0	3	$375,000	49	-	Allhomes Record	-	-	-	-	-	-
+2019	566049	9/32 Gatton Street	01/07/2019	02/08/2019	29/05/2019	$335,000	2228m	Full transfer	2	1	-	0	1	$335,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	562192	2/8 Longerenong Street	11/04/2019	03/06/2019	19/02/2019	$327,500	1491m	Full transfer	1	1	-	0	1	$327,500	51	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	546118	32A Gatton Street	07/01/2019	-	08/08/2018	$315,000	0m	Full transfer	2	1	-	0	1	$315,000	152	-	Allhomes Record	-	-	-	-	$1,497,000	4.75
+2019	574083	1/10 Longerenong Street	05/12/2019	-	01/03/2018	$258,500	0m	Full transfer	1	1	-	0	2	$258,500	644	-	Allhomes Record	-	-	-	-	-	-
+2019	562514	1/8 Longerenong Street	24/04/2019	12/06/2019	20/03/2018	$250,000	1491m	Full transfer	1	1	-	1	-	$250,000	400	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	572106	7 Potts Place	15/11/2019	-	04/10/2019	$1	943m	Full transfer	3	1	-	1	-	$1	42	-	Allhomes Record	129	-	-	-	$392,000	392000.0
+2019	558203	123 Lambrigg Street	16/01/2019	02/05/2019	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558216	7 Valder Place	24/01/2019	02/05/2019	-	$0	1745m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565037	25 Moodie Street	09/05/2019	11/07/2019	-	$0	696m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562535	43 Drevermann Street	01/04/2019	12/06/2019	-	$0	808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566204	17 Woodgate Street	22/05/2019	02/08/2019	-	$0	1223m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565045	121 Hawkesbury Crescent	07/05/2019	08/07/2019	-	$0	1626m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562400	40 Muresk Street	13/02/2019	05/06/2019	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557857	7 Potts Place	15/01/2019	16/04/2019	-	$0	943m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565556	14 Prescott Street	13/04/2019	26/07/2019	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	553428	12 Drevermann Street	01/01/2019	11/02/2019	-	$0	1155m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564747	48 Custance Street	20/02/2019	12/07/2019	-	$0	896m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
