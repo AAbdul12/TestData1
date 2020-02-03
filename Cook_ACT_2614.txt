@@ -1,0 +1,1189 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	203578	7 Bussell Crescent	04/08/2006	31/08/2006	-	$692,500	967m	Full transfer	-	-	-	-	-	$692,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36550	28 Cook Place	04/08/2006	05/09/2006	-	$590,000	479m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	168664	57 Mackellar Crescent	11/08/2006	05/10/2006	20/07/2006	$520,000	1094m	Full transfer	3	2	-	2	-	$520,000	22	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.61
+2006	209165	64 Templeton Street	15/02/2006	31/03/2006	28/01/2006	$510,000	804m	Full transfer	4	-	-	2	-	$510,000	18	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.47
+2006	165652	74 Mackellar Crescent	17/07/2006	20/11/2006	-	$500,000	851m	Partial transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165651	21 Dwyer Street	13/10/2006	20/11/2006	-	$475,000	719m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165328	48 Redfern Street	27/11/2006	15/02/2007	-	$475,000	797m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165223	40 Templeton Street	13/12/2006	16/02/2007	-	$473,000	732m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229524	21 Booth Crescent	24/08/2006	23/10/2006	13/07/2006	$471,000	849m	Full transfer	4	2	-	2	-	$471,000	42	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.62
+2006	37604	87 Mackellar Crescent	01/09/2006	19/10/2006	14/08/2006	$470,000	914m	Full transfer	4	1	1	2	-	$470,000	18	-	Combined Record	-	-	-	Single residential dwelling	$287,000	0.61
+2006	209153	31 Skinner Street	07/03/2006	30/05/2006	20/01/2006	$460,000	737m	Full transfer	4	2	-	1	-	$460,000	46	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.55
+2006	209164	21 Henry Street	24/02/2006	05/04/2006	13/01/2006	$450,000	737m	Full transfer	4	1	1	-	2	$450,000	42	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.52
+2006	34694	42 Henry Street	06/07/2006	25/08/2006	06/06/2006	$443,000	1093m	Full transfer	4	1	1	-	2	$443,000	30	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.61
+2006	165236	3 Moss Street	21/12/2006	16/02/2007	-	$440,000	682m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	65944	82 Wybalena Grove	24/03/2006	-	15/09/2005	$435,000	-	Full transfer	4	1	1	-	1	$435,000	190	-	Allhomes Record	-	-	-	-	$9,760,000	22.44
+2006	14472	            82/1 Wybalena Grove	24/03/2006	11/05/2006	-	$435,000	114795m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	209194	78 Mackellar Crescent	30/03/2006	03/05/2006	02/02/2006	$412,500	719m	Full transfer	3	1	1	-	-	$412,500	56	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.62
+2006	168421	13 Clisby Close	12/11/2006	23/01/2007	19/10/2006	$397,000	929m	Full transfer	3	1	-	1	1	$397,000	24	-	Combined Record	-	-	-	Single residential dwelling	$237,000	0.6
+2006	229478	54 Lyttleton Crescent	28/08/2006	26/10/2006	02/08/2006	$394,000	811m	Full transfer	3	1	-	1	-	$394,000	26	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.55
+2006	34312	20 Vickery Street	06/09/2006	30/11/2006	16/08/2006	$391,000	737m	Full transfer	3	1	-	2	-	$391,000	21	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.59
+2006	209172	8 Oakes Street	19/06/2006	20/07/2006	24/03/2006	$387,550	805m	Full transfer	3	1	1	-	2	$387,550	87	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.65
+2006	169232	20 Grylls Crescent	19/12/2006	21/02/2007	08/12/2006	$380,000	826m	Full transfer	3	1	-	1	-	$380,000	11	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.55
+2006	34693	1 Clisby Close	11/08/2006	22/08/2006	-	$380,000	1085m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	209214	37 Biffin Street	29/03/2006	10/05/2006	01/03/2006	$380,000	989m	Full transfer	3	1	1	-	2	$380,000	28	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.62
+2006	14464	            70/1 Wybalena Grove	02/03/2006	11/04/2006	-	$375,000	114795m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	75392	70 Wybalena Grove	02/03/2006	-	10/02/2006	$375,000	-	Full transfer	3	1	-	-	-	$375,000	20	-	Allhomes Record	-	-	-	-	$9,760,000	26.03
+2006	203577	2 Clisby Close	21/06/2006	29/08/2006	12/05/2006	$370,000	1074m	Full transfer	3	1	-	1	-	$370,000	40	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.64
+2006	14463	            66/1 Wybalena Grove	28/02/2006	13/04/2006	-	$370,000	114795m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	90587	30 Teague Street	15/12/2006	-	17/10/2006	$365,000	-	Full transfer	3	1	1	2	-	$365,000	59	-	Allhomes Record	-	-	-	-	$1,236,000	3.39
+2006	9617	            6/138 Dexter Street	15/12/2006	31/01/2007	-	$365,000	6577m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	209287	9 Cross Street	04/04/2006	11/05/2006	-	$360,000	585m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	209177	72 Templeton Street	27/03/2006	15/06/2006	08/11/2005	$355,000	309m	Full transfer	3	1	1	1	-	$355,000	139	-	Combined Record	-	-	-	Medium density dwelling	$144,000	0.41
+2006	78434	18 Wybalena Grove	02/08/2006	-	28/03/2006	$352,500	-	Full transfer	2	1	-	-	1	$352,500	127	-	Allhomes Record	-	-	-	-	$9,760,000	27.69
+2006	9523	            18/1 Wybalena Grove	02/08/2006	10/10/2006	-	$352,500	114795m	Full transfer	-	-	-	-	-	$352,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	14452	            45/1 Wybalena Grove	29/03/2006	23/05/2006	-	$349,000	114795m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	88783	130 Dexter Street	25/10/2006	-	19/09/2006	$335,000	-	Full transfer	3	1	1	-	2	$335,000	36	-	Allhomes Record	-	-	-	-	$867,000	2.59
+2006	209139	35 Atkinson Street	11/02/2006	10/05/2006	-	$335,000	673m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	209200	7 Biffin Street	02/03/2006	02/05/2006	09/02/2006	$333,000	694m	Full transfer	4	1	-	2	-	$333,000	21	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.6
+2006	71354	45 Wybalena Grove	29/03/2006	-	25/11/2005	$331,550	-	Full transfer	2	1	-	-	1	$331,550	124	-	Allhomes Record	-	-	-	-	$9,760,000	29.44
+2006	299	            5/122 Dexter Street	07/08/2006	26/09/2006	-	$324,000	5078m	Full transfer	-	-	-	-	-	$324,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	9390	            54/1 Wybalena Grove	22/06/2006	14/08/2006	-	$322,250	114795m	Full transfer	-	-	-	-	-	$322,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	81288	54 Wybalena Grove	27/06/2006	-	18/05/2006	$320,000	-	Full transfer	2	1	-	-	-	$320,000	40	-	Allhomes Record	-	-	-	-	$9,760,000	30.5
+2006	483128	3 Kumm Place	15/08/2006	09/08/2016	-	$320,000	398m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	37279	14 Kumm Place	28/07/2006	21/09/2006	-	$319,000	320m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	164109	7/1 Sexton Street	19/06/2006	17/08/2006	20/04/2006	$317,000	5663m	Full transfer	3	1	-	2	-	$317,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	209271	91 Lyttleton Crescent	30/03/2006	15/06/2006	-	$316,400	371m	Full transfer	-	-	-	-	-	$316,400	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	14493	            14/154 Dexter Street	05/04/2006	29/05/2006	-	$315,500	9119m	Full transfer	-	-	-	-	-	$315,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165653	1 Kumm Place	13/10/2006	20/11/2006	-	$315,000	443m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	77733	15/16 Sexton Street	29/04/2006	-	05/04/2006	$313,500	10197m	Full transfer	2	1	-	1	-	$313,500	24	-	Allhomes Record	-	-	-	-	-	-
+2006	209243	15/16 Sexton Street	29/03/2006	15/07/2006	-	$313,500	10197m	Full transfer	-	-	-	-	-	$313,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	300	            14/76 Dexter Street	15/08/2006	29/09/2006	-	$310,000	10560m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	82475	98 Dexter Street	15/08/2006	-	07/06/2006	$310,000	531m	Full transfer	2	1	-	1	-	$310,000	69	-	Allhomes Record	-	-	-	-	$1,708,000	5.51
+2006	119528	9/70 Bourne Street	19/10/2006	31/10/2006	-	$308,500	16640m	Full transfer	-	-	-	-	-	$308,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	85804	9/70 Bourne Street	20/09/2006	-	07/08/2006	$308,500	16640m	Full transfer	2	1	-	1	-	$308,500	44	-	Allhomes Record	-	-	-	-	-	-
+2006	13324	            13/41 Dugdale Street	01/09/2006	13/09/2006	-	$305,000	8460m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	83162	49 Dugdale Street	14/08/2006	-	19/06/2006	$305,000	-	Full transfer	3	1	-	1	-	$305,000	56	-	Allhomes Record	-	-	-	-	$1,465,000	4.8
+2006	32085	25/70 Bourne Street	30/08/2006	07/11/2006	-	$304,500	16640m	Full transfer	-	-	-	-	-	$304,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	14437	            28/1 Wybalena Grove	01/03/2006	06/04/2006	-	$300,500	114795m	Full transfer	-	-	-	-	-	$300,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	74775	28 Wybalena Grove	02/03/2006	-	03/02/2006	$300,500	928m	Full transfer	2	1	-	-	-	$300,500	27	-	Allhomes Record	-	-	-	-	$9,760,000	32.48
+2006	229575	117 Mackellar Crescent	21/09/2006	23/10/2006	-	$300,000	735m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	209245	17/16 Sexton Street	01/06/2006	31/07/2006	-	$295,000	10197m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	209229	13/3 Sexton Street	02/03/2006	05/04/2006	03/02/2006	$295,000	12004m	Full transfer	2	1	-	1	-	$295,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	501	            2/57 Biffin Street	21/11/2006	11/01/2007	-	$290,000	4634m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	17315	            2/45 Biffin Street	08/09/2006	25/10/2006	-	$288,500	4473m	Full transfer	-	-	-	-	-	$288,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	86901	47 Biffin Street	08/09/2006	-	23/08/2006	$288,500	-	Full transfer	2	1	-	-	1	$288,500	16	-	Allhomes Record	-	-	-	-	$713,000	2.47
+2006	209260	16/70 Bourne Street	25/05/2006	10/07/2006	-	$270,000	16640m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	209221	188 Dexter Street	17/01/2006	02/02/2006	-	$267,500	451m	Full transfer	-	-	-	-	-	$267,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	209135	2/38 Templeton Street	14/03/2006	28/04/2006	-	$262,000	732m	Full transfer	-	-	-	-	-	$262,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	74786	2/38 Templeton Street	15/03/2006	-	03/02/2006	$262,000	732m	Full transfer	3	1	-	-	1	$262,000	40	-	Allhomes Record	-	-	-	-	-	-
+2006	164110	1/26 Dexter Street	26/06/2006	15/08/2006	-	$135,000	4346m	Partial transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168398	4 Dwyer Street	13/12/2006	23/01/2007	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	167623	57 Lyttleton Crescent	22/12/2006	05/10/2007	-	$0	775m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32435	44 Dwyer Street	30/08/2006	29/03/2007	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232846	70 Henry Street	25/10/2006	01/11/2007	-	$0	669m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169151	17 Cambridge Street	24/12/2006	19/02/2007	-	$0	917m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	121715	1 Henry Street	17/01/2006	28/08/2007	-	$0	860m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	10265	            65/1 Wybalena Grove	11/12/2006	09/03/2007	-	$0	114795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	232298	32 Henry Street	12/12/2006	29/12/2007	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	248	            1/6 Clisby Close	22/11/2006	22/05/2007	-	$0	990m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	119720	70 Mackellar Crescent	14/06/2006	05/11/2006	-	-	848m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37278	101 Dexter Street	29/06/2006	18/09/2006	-	-	367m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	164838	20 Grylls Crescent	14/07/2006	09/10/2006	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165649	1 Skinner Street	18/09/2006	24/11/2006	-	-	723m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	236211	17 Grylls Crescent	25/11/2006	23/05/2008	-	-	770m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164834	28 Templeton Street	22/08/2006	12/10/2006	-	-	813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164836	19 Henry Street	25/09/2006	10/10/2006	-	-	737m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164835	36 Henry Street	19/09/2006	11/10/2006	-	-	770m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	209269	9 Tilden Place	12/02/2006	18/07/2006	-	-	383m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	164108	3 Skene Street	05/04/2006	20/08/2006	-	-	850m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	209230	13/3 Sexton Street	05/01/2006	07/03/2006	-	-	12004m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	209121	8 Templeton Street	12/04/2006	15/07/2006	-	-	988m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	18259	            3/74 Bourne Street	15/02/2006	04/01/2009	-	-	3688m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	4355	             Templeton Street	13/12/2006	-	06/09/2006	-	-	Full transfer	6	2	-	-	2	-	98	-	Allhomes Record	-	-	-	-	-	-
+2006	209171	8 Oakes Street	28/01/2006	10/05/2006	-	-	805m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165650	32 Henry Street	25/09/2006	23/11/2006	-	-	978m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164837	9 Henry Street	25/09/2006	10/10/2006	-	-	817m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	14481	            5/45 Biffin Street	10/04/2006	30/06/2006	-	-	4473m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230793	62 Skinner Street	17/11/2007	03/01/2008	-	$807,000	1157m	Full transfer	-	-	-	-	-	$807,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203253	66 Skinner Street	24/03/2007	01/06/2007	26/02/2007	$620,000	1240m	Full transfer	4	1	1	2	-	$620,000	26	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.61
+2007	121150	29 Skinner Street	11/07/2007	12/09/2007	25/05/2007	$558,500	737m	Full transfer	4	2	-	-	2	$558,500	47	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.5
+2007	232252	27 Mackellar Crescent	27/10/2007	05/12/2007	-	$547,000	906m	Full transfer	-	-	-	-	-	$547,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	25340	13 Booth Crescent	01/12/2007	-	08/11/2007	$535,000	980m	Full transfer	4	1	1	-	-	$535,000	23	-	Allhomes Record	-	-	-	-	$336,000	0.63
+2007	235613	44 Dwyer Street	07/11/2007	28/02/2008	11/10/2007	$517,500	738m	Full transfer	4	1	1	1	1	$517,500	27	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.54
+2007	409433	46 Templeton Street	16/06/2007	30/10/2007	25/05/2007	$507,000	732m	Full transfer	3	1	-	-	1	$507,000	22	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.51
+2007	121177	5 Henry Street	14/08/2007	12/09/2007	13/06/2007	$493,000	821m	Full transfer	4	1	1	1	1	$493,000	62	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.46
+2007	235614	13 Biffin Street	15/12/2007	25/02/2008	18/03/2005	$485,000	727m	Full transfer	4	-	1	-	-	$485,000	1002	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.41
+2007	167389	24 Mackellar Crescent	10/03/2007	10/05/2007	15/02/2007	$485,000	726m	Full transfer	3	-	1	-	-	$485,000	23	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.58
+2007	236727	70 Henry Street	19/12/2007	03/04/2008	-	$482,000	669m	Full transfer	-	-	-	-	-	$482,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119768	51 Dwyer Street	14/02/2007	02/04/2007	-	$480,000	1052m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234926	10 Dwyer Street	17/12/2007	08/02/2008	23/10/2007	$470,000	731m	Full transfer	3	1	-	1	-	$470,000	55	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.57
+2007	231287	31 Molloy Crescent	29/09/2007	26/11/2007	07/09/2007	$460,000	919m	Full transfer	4	1	1	2	1	$460,000	22	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.5
+2007	96663	48 Bourne Street	21/02/2007	-	30/01/2007	$445,000	-	Full transfer	3	1	1	2	-	$445,000	22	-	Allhomes Record	-	-	-	-	$3,995,000	8.98
+2007	91	            18/28 Bourne Street	20/02/2007	28/03/2007	-	$445,000	27008m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167936	41 Cambridge Street	02/08/2007	19/09/2007	16/07/2007	$440,000	906m	Full transfer	3	1	-	-	1	$440,000	17	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.53
+2007	166053	16 Atkinson Street	20/06/2007	02/08/2007	09/05/2007	$440,000	910m	Full transfer	4	1	-	1	-	$440,000	42	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.63
+2007	232431	34 Atkinson Street	16/11/2007	16/01/2008	-	$435,100	725m	Full transfer	-	-	-	-	-	$435,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121528	42 Redfern Street	01/08/2007	30/08/2007	-	$435,000	790m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	37025	5 Aston Crescent	07/06/2007	20/07/2007	-	$433,000	700m	Full transfer	-	-	-	-	-	$433,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	99753	28 Teague Street	19/04/2007	-	15/03/2007	$430,000	6577m	Full transfer	4	1	-	2	-	$430,000	35	-	Allhomes Record	-	-	-	-	$1,360,000	3.16
+2007	35292	37 Dwyer Street	11/05/2007	04/06/2007	-	$430,000	787m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	106372	5 Teague Street	15/08/2007	-	20/07/2007	$430,000	550m	Full transfer	3	1	1	-	1	$430,000	26	-	Allhomes Record	-	-	-	-	$534,000	1.24
+2007	25480	31 Wybalena Grove	21/12/2007	-	20/11/2007	$430,000	-	Full transfer	2	1	-	-	1	$430,000	31	-	Allhomes Record	-	-	-	-	$10,736,000	24.97
+2007	9561	            7/138 Dexter Street	19/04/2007	25/06/2007	-	$430,000	6577m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	18372	            4/178 Dexter Street	15/08/2007	18/11/2007	-	$430,000	2726m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	16294	            31/1 Wybalena Grove	21/12/2007	08/04/2008	-	$430,000	114795m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120043	6 Oakes Street	02/03/2007	17/04/2007	06/02/2007	$430,000	862m	Full transfer	3	1	-	2	-	$430,000	24	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.65
+2007	33474	29 Molloy Crescent	30/03/2007	24/05/2007	14/02/2007	$428,000	921m	Full transfer	3	1	1	2	-	$428,000	44	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.54
+2007	231297	24 Skinner Street	24/10/2007	27/11/2007	04/09/2007	$427,000	681m	Full transfer	3	1	-	-	1	$427,000	50	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.65
+2007	214	            34/28 Bourne Street	07/03/2007	22/05/2007	-	$425,000	27008m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	32752	27 Molloy Crescent	16/02/2007	29/03/2007	18/01/2007	$425,000	963m	Full transfer	3	1	-	-	1	$425,000	29	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.55
+2007	33743	76 Lyttleton Crescent	31/03/2007	22/05/2007	07/03/2007	$422,000	775m	Full transfer	3	1	1	2	-	$422,000	24	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.55
+2007	169449	67 Dexter Street	19/01/2007	23/02/2007	17/11/2006	$420,000	376m	Full transfer	6	2	1	1	1	$420,000	63	-	Combined Record	-	-	-	Medium density dwelling	$161,000	0.38
+2007	409390	16 Aston Crescent	06/07/2007	25/09/2007	21/05/2007	$412,000	712m	Full transfer	3	1	-	-	1	$412,000	46	-	Combined Record	-	-	-	Single residential dwelling	$212,000	0.51
+2007	119858	52 Redfern Street	08/02/2007	02/04/2007	25/10/2006	$409,950	830m	Full transfer	4	1	1	2	-	$409,950	106	-	Combined Record	-	-	-	Single residential dwelling	$207,000	0.5
+2007	100278	2 Wybalena Grove	14/04/2007	-	23/03/2007	$391,000	-	Full transfer	3	1	1	-	1	$391,000	22	-	Allhomes Record	-	-	-	-	$10,736,000	27.46
+2007	13260	            2/1 Wybalena Grove	14/04/2007	13/06/2007	-	$391,000	114795m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	381	            16/154 Dexter Street	15/03/2007	08/06/2007	-	$385,000	9119m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167778	10 Tilden Place	16/07/2007	03/10/2007	23/05/2007	$385,000	408m	Full transfer	3	-	-	2	-	$385,000	54	-	Combined Record	-	-	-	Medium density dwelling	$152,000	0.39
+2007	17943	            13/1 Wybalena Grove	13/11/2007	29/12/2007	-	$380,000	114795m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230829	74 Templeton Street	01/11/2007	03/12/2007	11/10/2007	$380,000	330m	Full transfer	3	1	1	1	-	$380,000	21	-	Combined Record	-	-	-	Medium density dwelling	$159,000	0.42
+2007	232443	25 Dwyer Street	29/11/2007	17/01/2008	-	$380,000	791m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18684	            4/122 Dexter Street	14/12/2007	17/04/2009	-	$380,000	5078m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	653	            99/1 Wybalena Grove	22/02/2007	17/07/2007	-	$375,000	114795m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	91891	99 Wybalena Grove	21/02/2007	-	30/10/2006	$375,000	-	Full transfer	3	1	-	-	1	$375,000	114	-	Allhomes Record	-	-	-	-	$10,736,000	28.63
+2007	409431	39 Atkinson Street	01/09/2007	29/10/2007	09/08/2007	$375,000	694m	Full transfer	3	1	-	1	-	$375,000	23	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.6
+2007	107494	103 Wybalena Grove	08/09/2007	-	17/08/2007	$362,000	-	Full transfer	2	1	-	-	1	$362,000	22	-	Allhomes Record	-	-	-	-	$10,736,000	29.66
+2007	409429	            103/1 Wybalena Grove	08/09/2007	24/10/2007	-	$362,000	114795m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	406	            20/154 Dexter Street	17/04/2007	10/06/2007	-	$358,000	9119m	Full transfer	-	-	-	-	-	$358,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230085	3/30 Lyttleton Crescent	23/11/2007	30/01/2008	-	$357,000	1572m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	98919	24 Teague Street	17/04/2007	-	02/03/2007	$357,000	-	Full transfer	3	1	1	2	-	$357,000	46	-	Allhomes Record	-	-	-	-	$1,936,000	5.42
+2007	97029	14 Teague Street	13/03/2007	-	02/02/2007	$345,000	-	Full transfer	3	1	-	1	1	$345,000	39	-	Allhomes Record	-	-	-	-	$1,936,000	5.61
+2007	396	            15/154 Dexter Street	13/03/2007	08/06/2007	-	$345,000	9119m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	230946	12 Dugdale Street	06/10/2007	21/01/2008	13/09/2007	$341,000	495m	Full transfer	2	1	-	1	-	$341,000	23	-	Combined Record	-	-	-	Medium density dwelling	$186,000	0.55
+2007	92948	22 Wybalena Grove	23/02/2007	-	14/11/2006	$340,000	-	Full transfer	2	1	-	1	-	$340,000	101	-	Allhomes Record	-	-	-	-	$10,736,000	31.58
+2007	5474	            22/1 Wybalena Grove	23/02/2007	04/05/2007	-	$340,000	114795m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202779	13/16 Sexton Street	16/08/2007	09/10/2007	-	$340,000	10197m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	648	            91/1 Wybalena Grove	28/02/2007	18/07/2007	-	$337,500	114795m	Full transfer	-	-	-	-	-	$337,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	94042	91 Wybalena Grove	01/03/2007	-	30/11/2006	$337,500	-	Full transfer	2	1	-	-	2	$337,500	91	-	Allhomes Record	-	-	-	-	$10,736,000	31.81
+2007	32625	77 Dexter Street	12/02/2007	27/03/2007	-	$326,000	376m	Full transfer	-	-	-	-	-	$326,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	230141	6 Vallance Place	18/09/2007	30/01/2008	-	$325,000	452m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	409413	17/2 Sexton Street	20/10/2007	19/12/2007	04/10/2007	$322,000	9762m	Full transfer	2	1	1	1	-	$322,000	16	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	90891	50 Dexter Street	15/01/2007	-	18/10/2006	$310,000	363m	Full transfer	3	1	-	2	-	$310,000	89	-	Allhomes Record	-	-	-	-	$1,264,000	4.08
+2007	120002	14/2 Sexton Street	09/02/2007	02/04/2007	18/01/2007	$310,000	9762m	Full transfer	2	1	1	1	-	$310,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	10413	            1/72 Dexter Street	15/01/2007	07/02/2007	-	$310,000	7156m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35973	18/3 Sexton Street	18/05/2007	06/07/2007	21/03/2007	$310,000	12004m	Full transfer	2	1	-	1	-	$310,000	58	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	106279	7/42 Dexter Street	11/08/2007	-	18/07/2007	$307,000	-	Full transfer	2	1	-	1	-	$307,000	24	-	Allhomes Record	-	-	-	-	-	-
+2007	103638	24 Dexter Street	10/08/2007	-	25/05/2007	$305,000	-	Full transfer	2	1	-	-	1	$305,000	77	-	Allhomes Record	-	-	-	-	$1,164,000	3.82
+2007	409411	11/70 Bourne Street	12/04/2007	06/06/2007	15/03/2007	$299,000	16640m	Full transfer	2	1	-	1	-	$299,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	120506	11/2 Dexter Street	11/04/2007	16/05/2007	-	$295,000	4593m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	98892	16 Dexter Street	11/04/2007	-	01/03/2007	$295,000	-	Full transfer	2	1	-	-	1	$295,000	41	-	Allhomes Record	-	-	-	-	$1,164,000	3.95
+2007	168085	2/2 Dexter Street	20/06/2007	15/10/2007	-	$295,000	4593m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	95240	66 Dexter Street	16/02/2007	-	28/12/2006	$292,000	-	Full transfer	2	1	-	1	-	$292,000	50	-	Allhomes Record	-	-	-	-	$1,264,000	4.33
+2007	10368	            9/72 Dexter Street	16/02/2007	20/03/2007	-	$292,000	7156m	Full transfer	-	-	-	-	-	$292,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409412	23/2 Sexton Street	28/03/2007	06/07/2007	02/02/2007	$290,000	9762m	Full transfer	2	1	1	1	-	$290,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	166822	24/2 Sexton Street	11/07/2007	23/08/2007	-	$280,000	9762m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167847	7/2 Dexter Street	10/08/2007	19/09/2007	-	$274,500	4593m	Full transfer	-	-	-	-	-	$274,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35340	19/2 Sexton Street	02/05/2007	18/06/2007	21/02/2007	$270,000	9762m	Full transfer	2	1	1	1	-	$270,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	232574	26 Cook Place	21/09/2007	15/11/2007	-	$240,000	149m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	236635	23 Biffin Street	21/11/2007	14/04/2008	-	$200,000	737m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	634	            90/1 Wybalena Grove	18/07/2007	18/07/2007	-	$57,500	114795m	Full transfer	-	-	-	-	-	$57,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166553	22 Cook Place	13/06/2007	25/07/2007	-	$50,000	149m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	167359	11 Booth Crescent	22/02/2007	08/05/2007	-	$0	996m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168091	31 Mackellar Crescent	14/08/2007	16/10/2007	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165926	8 Tipper Place	08/07/2007	06/08/2007	-	$0	433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	482981	3 Lyttleton Crescent	07/01/2007	09/08/2016	-	$0	856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409430	8 Moss Street	25/06/2007	31/10/2007	-	$0	1690m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165994	36 Skinner Street	27/07/2007	23/08/2007	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	9841	            9/138 Dexter Street	02/01/2007	10/08/2007	-	$0	6577m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166744	42 Redfern Street	05/03/2007	02/08/2007	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	6312	            7/26 Dexter Street	11/08/2007	07/11/2007	-	$0	4346m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	9671	            7/26 Dexter Street	29/01/2007	07/08/2007	-	$0	4346m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233547	15 Atkinson Street	04/07/2007	04/05/2008	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21968	            27 McKellar Crescent	27/10/2007	-	20/09/2007	-	906m	Full transfer	4	1	-	2	1	-	37	-	Allhomes Record	-	-	-	-	-	-
+2007	239155	12 Grylls Crescent	17/08/2007	05/11/2008	-	-	739m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	238018	32 Skinner Street	19/10/2007	11/09/2008	-	-	756m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234862	48 Henry Street	09/07/2007	27/03/2008	-	-	817m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32471	17 Ellis Place	29/03/2007	29/03/2007	-	-	927m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	242937	24 Redfern Street	29/07/2007	11/03/2009	-	-	815m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322706	13 Oakes Street	07/11/2008	31/01/2009	-	$645,000	926m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241878	7 Dwyer Street	06/11/2008	19/01/2009	09/10/2008	$638,000	750m	Full transfer	3	1	1	2	0	$638,000	28	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.47
+2008	236118	32 Moss Street	01/03/2008	14/05/2008	31/03/2008	$630,000	920m	Full transfer	3	1	2	2	0	$630,000	-	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.66
+2008	236418	9 Moss Street	24/04/2008	21/05/2008	06/02/2008	$565,000	788m	Full transfer	4	1	2	2	0	$565,000	78	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.56
+2008	209272	67 Skinner Street	15/05/2008	28/07/2008	27/03/2008	$560,000	963m	Partial transfer	3	1	1	1	-	$560,000	49	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.62
+2008	236362	32 Henry Street	16/02/2008	02/04/2008	-	$525,000	978m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	111242	32 Henry Street 	16/02/2008	-	21/01/2008	$525,000	978m	Full transfer	3	1	1	2	-	$525,000	26	-	Allhomes Record	-	-	-	-	$334,000	0.64
+2008	22912	            66 Mackellar Crescent, *new Price*	04/09/2008	-	28/05/2008	$510,000	825m	Full transfer	3	1	1	-	1	$510,000	99	-	Allhomes Record	-	-	-	-	$346,000	0.68
+2008	233740	5 Skene Street	02/06/2008	03/07/2008	10/04/2008	$495,000	907m	Full transfer	3	1	1	2	0	$495,000	53	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.67
+2008	237134	36 Grylls Crescent	24/09/2008	09/12/2008	28/08/2008	$490,000	706m	Full transfer	3	1	-	-	1	$490,000	27	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.52
+2008	233739	10 Clisby Close	13/05/2008	03/07/2008	23/04/2008	$490,000	1060m	Full transfer	4	1	1	2	-	$490,000	20	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.59
+2008	230313	9 Lyttleton Crescent	28/06/2008	05/08/2008	27/05/2008	$477,500	918m	Full transfer	3	1	1	2	2	$477,500	32	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.53
+2008	234071	6 Oakes Street	14/03/2008	23/06/2008	11/04/2008	$477,000	862m	Full transfer	3	1	0	1	0	$477,000	-	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.66
+2008	237916	15 Clisby Close	06/05/2008	19/09/2008	03/04/2008	$475,000	1141m	Full transfer	3	1	-	2	-	$475,000	33	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.62
+2008	168478	1 Skinner Street	29/02/2008	08/04/2008	16/01/2008	$475,000	723m	Full transfer	3	1	-	-	1	$475,000	44	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.56
+2008	240325	7 Moss Street	23/09/2008	27/11/2008	-	$470,000	765m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232765	29 Biffin Street	05/04/2008	29/05/2008	11/03/2008	$467,500	738m	Full transfer	4	1	-	1	-	$467,500	25	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.57
+2008	239690	1/91 Dexter Street	19/07/2008	27/10/2008	-	$465,000	4366m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	54566	12 Kumm Place	16/01/2008	08/04/2008	04/09/2007	$460,000	320m	Full transfer	3	1	1	1	-	$460,000	134	-	Combined Record	-	-	-	Medium density dwelling	$227,000	0.49
+2008	233741	44 Lyttleton Crescent	15/03/2008	30/06/2008	13/04/2008	$452,000	903m	Full transfer	3	1	0	2	0	$452,000	-	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.58
+2008	235465	5 Tilden Place	06/02/2008	20/03/2008	12/01/2008	$452,000	437m	Full transfer	3	1	1	2	-	$452,000	25	-	Combined Record	-	-	-	Medium density dwelling	$171,000	0.38
+2008	241121	7 Clisby Close	24/11/2008	04/01/2009	-	$440,000	858m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233430	13 Aston Crescent	03/04/2008	18/06/2008	05/03/2008	$438,000	731m	Full transfer	3	1	-	-	1	$438,000	29	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.6
+2008	121582	93 Wybalena Grove	23/12/2008	-	08/12/2008	$432,000	114795m	Full transfer	2	1	-	2	-	$432,000	15	-	Allhomes Record	-	-	-	-	$12,615,000	29.2
+2008	18618	            93/1 Wybalena Grove	23/12/2008	16/02/2009	-	$432,000	114795m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237033	14 Mackellar Crescent	07/11/2008	08/01/2009	21/08/2008	$425,000	713m	Full transfer	3	1	-	-	2	$425,000	78	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.69
+2008	237309	27 Atkinson Street	07/07/2008	19/08/2008	07/05/2008	$421,000	673m	Full transfer	3	1	-	1	1	$421,000	61	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.6
+2008	18743	            3/1 Wybalena Grove	29/09/2008	09/11/2008	-	$412,000	114795m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233250	3 Cross Street	02/06/2008	01/07/2008	-	$410,000	528m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	241204	10 Aston Crescent	18/11/2008	14/01/2009	07/10/2008	$405,000	749m	Full transfer	3	1	-	-	-	$405,000	42	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.61
+2008	24572	34 Teague Street	15/05/2008	-	27/04/2008	$398,000	6577m	Full transfer	3	1	1	2	-	$398,000	18	-	Allhomes Record	-	-	-	-	$1,598,000	4.02
+2008	17995	            8/138 Dexter Street	15/05/2008	27/06/2008	-	$398,000	6577m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240790	6/2 Sexton Street	29/09/2008	18/12/2008	-	$396,000	9762m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230658	2 Kumm Place	17/03/2008	16/04/2008	-	$395,000	413m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	236212	9 Henry Street	01/02/2008	21/05/2008	-	$390,000	817m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18502	            13/1 Wybalena Grove	10/07/2008	01/09/2008	-	$389,900	114795m	Full transfer	-	-	-	-	-	$389,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	114728	13 Wybalena Grove	10/07/2008	-	10/06/2008	$389,900	114795m	Full transfer	2	1	-	-	-	$389,900	30	-	Allhomes Record	-	-	-	-	$12,615,000	32.35
+2008	237035	23 Teague Street	28/11/2008	06/01/2009	09/07/2008	$383,000	541m	Full transfer	3	1	-	1	-	$383,000	142	-	Combined Record	-	-	-	Medium density dwelling	$209,000	0.55
+2008	113967	26/70 Bourne Street	17/04/2008	-	17/03/2008	$380,000	-	Full transfer	3	1	-	1	-	$380,000	31	-	Allhomes Record	-	-	-	-	-	-
+2008	230039	26/70 Bourne Street	16/04/2008	28/05/2008	-	$380,000	16640m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24361	168 Dexter Street	05/05/2008	-	15/04/2008	$375,000	9119m	Full transfer	3	1	-	1	-	$375,000	20	-	Allhomes Record	-	-	-	-	$2,275,000	6.07
+2008	17907	            8/154 Dexter Street	05/05/2008	17/06/2008	-	$375,000	9119m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	17610	            3/72 Dexter Street	17/06/2008	29/07/2008	-	$375,000	7156m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239854	5 Kumm Place	05/09/2008	07/10/2008	30/06/2008	$375,000	370m	Full transfer	3	1	0	1	0	$375,000	67	-	Combined Record	-	-	-	Medium density dwelling	$209,000	0.56
+2008	18845	            5/122 Dexter Street	30/08/2008	07/10/2008	-	$374,000	5078m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	116614	5/132 Dexter Street	30/08/2008	-	01/08/2008	$374,000	5078m	Full transfer	3	1	1	-	2	$374,000	29	-	Allhomes Record	-	-	-	-	$1,121,000	3.0
+2008	111452	128 Dexter Street 	20/02/2008	-	29/01/2008	$359,000	482m	Full transfer	2	1	-	1	-	$359,000	22	-	Allhomes Record	-	-	-	-	$1,121,000	3.12
+2008	17980	            7/122 Dexter Street	20/02/2008	14/04/2008	-	$359,000	5078m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234164	20/2 Sexton Street	28/03/2008	05/05/2008	-	$355,000	9762m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231453	12/72 Dexter Street	18/03/2008	07/05/2008	19/02/2008	$350,000	7156m	Full transfer	2	1	-	2	-	$350,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	$1,485,000	4.24
+2008	235352	11/3 Sexton Street	02/02/2008	19/03/2008	-	$346,000	12004m	Full transfer	-	-	-	-	-	$346,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237667	12/70 Bourne Street	22/12/2008	19/02/2009	-	$345,250	16640m	Full transfer	-	-	-	-	-	$345,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230053	14/16 Sexton Street	19/06/2008	30/07/2008	-	$345,000	10197m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	17609	            10/76 Dexter Street	03/07/2008	29/07/2008	-	$345,000	10560m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	114815	86 Dexter Street	03/07/2008	-	12/06/2008	$345,000	531m	Full transfer	2	1	-	-	1	$345,000	21	-	Allhomes Record	-	-	-	-	$2,208,000	6.4
+2008	22387	            UNIT14/16 Sexton Street	19/06/2008	-	29/05/2008	$345,000	4592m	Full transfer	2	1	-	1	-	$345,000	21	-	Allhomes Record	-	-	-	-	$1,368,000	3.97
+2008	17749	            7/72 Dexter Street	14/01/2008	18/02/2008	-	$341,000	7156m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22240	            10/2-24 Dexter Street	01/07/2008	-	14/05/2008	$327,000	-	Full transfer	2	1	-	-	1	$327,000	48	-	Allhomes Record	-	-	-	-	-	-
+2008	235750	76 Templeton Street	05/01/2008	27/03/2008	21/10/2004	$322,000	309m	Full transfer	3	1	1	1	-	$322,000	1171	-	Combined Record	-	-	-	Medium density dwelling	$151,000	0.47
+2008	239660	7/16 Sexton Street	29/08/2008	22/10/2008	-	$315,000	10197m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18744	            5/74 Bourne Street	19/09/2008	05/11/2008	-	$315,000	3688m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240437	9/41 Dugdale Street	26/08/2008	25/09/2008	24/04/2008	$310,000	8460m	Full transfer	2	1	-	1	-	$310,000	124	-	Combined Record	-	-	-	Multiple unit dwelling	$1,894,000	6.11
+2008	242009	2/2 Dexter Street	24/12/2008	27/01/2009	-	$310,000	4593m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	120253	4/2 Dexter Street	24/12/2008	-	31/10/2008	$310,000	4593m	Full transfer	2	1	-	1	-	$310,000	54	-	Allhomes Record	-	-	-	-	$1,368,000	4.41
+2008	230382	10/70 Bourne Street	17/07/2008	11/08/2008	-	$305,000	16640m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	117969	55 Dugdale Street	06/11/2008	-	10/09/2008	$300,000	540m	Full transfer	2	1	-	1	-	$300,000	57	-	Allhomes Record	-	-	-	-	$1,894,000	6.31
+2008	18969	            4/41 Dugdale Street	06/11/2008	21/12/2008	-	$300,000	8460m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233980	25 Grylls Crescent	02/04/2008	05/05/2008	-	$242,500	763m	Full transfer	-	-	-	-	-	$242,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18644	            14/76 Dexter Street	18/08/2008	15/09/2008	-	$150,000	10560m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238019	5 Kumm Place	23/03/2008	09/09/2008	-	-	370m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	243537	64 Skinner Street	06/09/2008	30/03/2009	-	-	1198m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238017	17 Henry Street	10/03/2008	11/09/2008	-	-	737m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237034	66 Mackellar Crescent	03/09/2008	07/01/2009	-	-	825m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242659	18 Templeton Street	02/06/2008	26/02/2009	-	-	770m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242995	11 Teague Street	30/09/2008	10/03/2009	-	-	585m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	19280	            13/72 Dexter Street	21/08/2008	01/04/2009	-	-	7156m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238324	16 Kumm Place	09/07/2008	14/04/2009	-	-	365m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	238564	4/70 Bourne Street	03/10/2008	25/04/2009	-	-	16640m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238322	15 Vickery Street	20/08/2008	16/04/2009	-	-	737m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18497	            2/6 Clisby Close	11/08/2008	04/09/2008	-	-	990m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	275850	51 Cambridge Street	12/08/2008	13/01/2011	-	-	1245m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	257244	4 Molloy Crescent	15/09/2008	20/04/2010	-	-	949m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	17906	            4/1 Wybalena Grove	27/05/2008	20/06/2008	-	-	114795m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236092	8/70 Bourne Street	10/04/2008	19/05/2008	-	-	16640m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	235000	9 Dwyer Street	24/01/2008	08/02/2008	-	-	758m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	81310	9 Lyttleton Crescent	06/04/2008	23/07/2008	-	-	918m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239934	52 Redfern Street	01/03/2008	14/10/2008	-	-	830m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238323	2 Mackellar Crescent	20/08/2008	16/04/2009	-	-	927m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240847	8 Tilden Place	23/09/2008	21/12/2008	-	-	441m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	229988	24 Henry Street	27/06/2008	16/07/2008	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	138159	44 Lyttleton Crescent	23/11/2009	-	02/09/2009	$1,147,000	450m	Full transfer	3	1	1	-	2	$1,147,000	82	-	Allhomes Record	-	-	-	-	$274,000	0.24
+2009	262435	8 Booth Crescent	02/09/2009	30/03/2010	06/08/2009	$845,000	1544m	Full transfer	4	1	2	2	-	$845,000	27	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.59
+2009	245531	1/66 Templeton Street	09/05/2009	03/08/2009	16/04/2009	$720,000	789m	Full transfer	6	2	0	2	0	$720,000	23	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.43
+2009	262428	8 Clisby Close	26/11/2009	08/02/2010	07/11/2009	$640,000	1121m	Full transfer	3	1	1	1	-	$640,000	19	-	Combined Record	178	-	-	Single residential dwelling	$300,000	0.47
+2009	248421	20 Oakes Street	04/11/2009	16/12/2009	08/10/2009	$616,000	715m	Full transfer	3	1	1	-	2	$616,000	27	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.54
+2009	249574	55 Skinner Street	16/09/2009	30/10/2009	19/08/2009	$602,000	725m	Full transfer	3	1	1	2	-	$602,000	28	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.59
+2009	245088	3 Skene Street	01/04/2009	19/06/2009	06/02/2009	$590,000	850m	Full transfer	4	1	1	1	0	$590,000	54	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.59
+2009	257308	            2/44 Lyttleton Crescent	12/10/2009	20/04/2010	-	$585,000	903m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	262429	27 Grylls Crescent	16/10/2009	29/01/2010	09/10/2009	$570,000	806m	Full transfer	4	1	1	-	1	$570,000	7	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.48
+2009	262433	16 Oakes Street	25/11/2009	25/01/2010	08/10/2009	$570,000	844m	Full transfer	3	1	1	-	1	$570,000	48	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.58
+2009	259942	1/44 Lyttleton Crescent	23/11/2009	22/04/2010	-	$562,000	903m	Full transfer	-	-	-	-	-	$562,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238243	26 Henry Street	04/02/2009	06/04/2009	03/12/2008	$555,000	1080m	Full transfer	5	1	1	-	1	$555,000	63	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.62
+2009	246092	2 Skinner Street	26/06/2009	24/08/2009	-	$555,000	1026m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244422	65 Skinner Street	30/05/2009	08/07/2009	06/05/2009	$550,000	722m	Full transfer	3	1	0	-	1	$550,000	24	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.65
+2009	247801	6 Bussell Crescent	04/09/2009	14/10/2009	-	$550,000	989m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244037	43 Lyttleton Crescent	25/04/2009	06/06/2009	05/03/2009	$542,000	909m	Full transfer	3	1	1	-	0	$542,000	51	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.48
+2009	140901	31 Dwyer Street	09/05/2009	-	16/04/2009	$520,000	719m	Full transfer	3	2	0	1	0	$520,000	23	-	Allhomes Record	-	-	-	-	$332,000	0.64
+2009	262431	25 Atkinson Street	25/11/2009	11/02/2010	04/11/2009	$516,000	673m	Full transfer	3	1	1	1	1	$516,000	21	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.52
+2009	140982	6 Bourne Street	22/08/2009	-	29/07/2009	$510,000	27008m	Full transfer	3	1	1	-	0	$510,000	24	-	Allhomes Record	-	-	-	-	$4,694,000	9.2
+2009	248561	            38/28 Bourne Street	22/08/2009	28/09/2009	-	$510,000	27008m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249358	6 Grylls Crescent	19/06/2009	20/10/2009	28/05/2009	$508,000	740m	Full transfer	4	1	-	2	-	$508,000	22	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.53
+2009	246895	99 Wybalena Grove	05/12/2009	-	12/11/2009	$495,000	114794m	Full transfer	3	1	-	-	1	$495,000	23	-	Allhomes Record	-	-	-	-	$12,615,000	25.48
+2009	259252	            99/1 Wybalena Grove	05/12/2009	10/02/2010	-	$495,000	114795m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249137	25 Skinner Street	17/08/2009	28/09/2009	20/07/2009	$485,000	794m	Full transfer	3	1	-	1	-	$485,000	28	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.63
+2009	326769	76 Templeton Street	03/12/2009	03/02/2010	-	$482,000	309m	Full transfer	-	-	-	-	-	$482,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	262430	23 Lyttleton Crescent	12/12/2009	15/02/2010	20/11/2009	$480,000	783m	Full transfer	3	1	-	-	1	$480,000	22	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.51
+2009	137740	90 Dexter Street	27/10/2009	-	28/09/2009	$470,000	10560m	Full transfer	3	1	-	1	-	$470,000	29	-	Allhomes Record	-	-	-	-	$2,208,000	4.7
+2009	249058	            19/76 Dexter Street	27/10/2009	24/11/2009	-	$470,000	10560m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	262432	7 Vickery Street	21/11/2009	28/02/2010	20/10/2009	$468,000	708m	Full transfer	3	1	-	-	2	$468,000	32	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.6
+2009	246245	2 Clisby Close	13/07/2009	25/08/2009	31/05/2009	$465,000	1074m	Full transfer	3	1	-	1	-	$465,000	43	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.66
+2009	248002	            7/28 Bourne Street	14/08/2009	21/09/2009	-	$465,000	27008m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245530	35 Atkinson Street	12/06/2009	05/08/2009	18/05/2009	$465,000	673m	Full transfer	4	2	-	-	1	$465,000	25	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.57
+2009	262439	93 Lyttleton Crescent	25/11/2009	21/01/2010	04/11/2009	$461,000	436m	Full transfer	2	1	-	-	2	$461,000	21	-	Combined Record	-	-	-	Medium density dwelling	$180,000	0.39
+2009	19225	            20/1 Wybalena Grove	04/02/2009	17/03/2009	-	$456,500	114795m	Full transfer	-	-	-	-	-	$456,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245781	15 Vickery Street	16/06/2009	10/08/2009	20/05/2009	$455,000	737m	Full transfer	4	1	1	2	2	$455,000	27	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.67
+2009	19058	            42/1 Wybalena Grove	04/04/2009	11/05/2009	-	$455,000	114795m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	124282	42 Wybalena Grove	04/04/2009	-	11/03/2009	$455,000	114794m	Full transfer	3	1	-	-	2	$455,000	24	-	Allhomes Record	-	-	-	-	$12,615,000	27.73
+2009	248399	2/40 Templeton Street	26/10/2009	16/12/2009	-	$450,000	732m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128412	6 Wybalena Grove	25/07/2009	-	02/07/2009	$439,000	114794m	Full transfer	2	1	-	-	1	$439,000	23	-	Allhomes Record	-	-	-	-	$12,615,000	28.74
+2009	31831	            6/1 Wybalena Grove	25/07/2009	09/09/2009	-	$439,000	114795m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249357	11 Tilden Place	03/09/2009	21/10/2009	28/07/2009	$437,000	362m	Partial transfer	3	1	1	2	-	$437,000	37	-	Combined Record	-	-	-	Medium density dwelling	$180,000	0.41
+2009	259259	29/70 Bourne Street	07/11/2009	25/01/2010	-	$430,000	16640m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250556	1/57 Biffin Street	12/09/2009	09/12/2009	04/08/2009	$429,000	4634m	Full transfer	2	1	-	-	1	$429,000	39	-	Combined Record	-	-	-	Multiple unit dwelling	$921,000	2.15
+2009	244751	20 Grylls Crescent	24/05/2009	23/07/2009	11/03/2009	$425,000	826m	Full transfer	3	1	0	1	0	$425,000	74	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.64
+2009	248059	117 Dexter Street	11/07/2009	16/09/2009	08/06/2009	$424,500	451m	Full transfer	3	1	-	2	-	$424,500	33	-	Combined Record	-	-	-	Medium density dwelling	$220,000	0.52
+2009	244038	23 Grylls Crescent	21/05/2009	04/06/2009	-	$420,000	778m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246093	5 Biffin Street	05/06/2009	26/08/2009	30/04/2009	$412,000	694m	Full transfer	3	1	0	-	0	$412,000	36	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.63
+2009	244423	16 Molloy Crescent	13/06/2009	10/07/2009	07/05/2009	$401,000	833m	Full transfer	3	1	0	2	0	$401,000	37	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.68
+2009	262437	83 Lyttleton Crescent	18/11/2009	07/02/2010	21/10/2009	$401,000	371m	Full transfer	2	1	-	1	-	$401,000	28	-	Combined Record	-	-	-	Medium density dwelling	$180,000	0.45
+2009	242660	11 Mackellar Crescent	23/01/2009	26/02/2009	07/11/2008	$400,000	800m	Full transfer	3	1	0	-	1	$400,000	77	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.75
+2009	245722	1/1 Sexton Street	29/05/2009	17/08/2009	-	$399,000	5663m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259253	1/45 Biffin Street	23/12/2009	03/02/2010	-	$395,000	4473m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247187	80 Bourne Street	16/12/2009	-	18/11/2009	$391,000	3688m	Full transfer	2	1	-	2	-	$391,000	28	-	Allhomes Record	-	-	-	-	$905,000	2.31
+2009	259258	            4/74 Bourne Street	16/12/2009	11/03/2010	-	$391,000	3688m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	18705	            13/154 Dexter Street	26/03/2009	24/04/2009	-	$380,000	9119m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	260167	17/70 Bourne Street	05/11/2009	21/05/2010	-	$378,000	16640m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	130462	17/70 Bourne Street	23/10/2009	-	08/10/2009	$378,000	16640m	Full transfer	2	1	-	1	-	$378,000	15	-	Allhomes Record	-	-	-	-	$3,756,000	9.94
+2009	140573	80 Dexter Street	14/04/2009	-	06/02/2009	$375,000	10560m	Full transfer	2	1	0	1	0	$375,000	67	-	Allhomes Record	-	-	-	-	$2,208,000	5.89
+2009	19287	            7/76 Dexter Street	14/04/2009	26/05/2009	-	$375,000	10560m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247714	8/16 Sexton Street	24/08/2009	16/10/2009	-	$374,000	10197m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243536	18 Templeton Street	06/03/2009	03/04/2009	27/01/2009	$371,500	770m	Full transfer	3	1	-	-	2	$371,500	38	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.7
+2009	125532	66 Redfern Street	10/06/2009	-	14/04/2009	$362,000	4473m	Full transfer	2	1	-	-	1	$362,000	57	-	Allhomes Record	-	-	-	-	$921,000	2.54
+2009	19467	            5/45 Biffin Street	10/06/2009	17/07/2009	-	$362,000	4473m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19503	            4/26 Dexter Street	06/05/2009	19/06/2009	-	$345,000	4346m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	123678	36 Dexter Street	05/05/2009	-	20/02/2009	$345,000	4346m	Full transfer	2	1	-	1	-	$345,000	74	-	Allhomes Record	-	-	-	-	$1,368,000	3.97
+2009	127880	46 Wybalena Grove	25/08/2009	-	17/06/2009	$340,000	114795m	Full transfer	1	1	-	-	-	$340,000	69	-	Allhomes Record	-	-	-	-	$12,615,000	37.1
+2009	140591	9 Wybalena Grove	14/05/2009	-	12/02/2009	$340,000	114795m	Full transfer	2	1	0	-	1	$340,000	91	-	Allhomes Record	-	-	-	-	$12,615,000	37.1
+2009	19427	            9/1 Wybalena Grove	21/05/2009	29/06/2009	-	$340,000	114795m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248656	            46/1 Wybalena Grove	25/08/2009	20/10/2009	-	$340,000	114795m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19348	            13/72 Dexter Street	17/04/2009	12/06/2009	-	$330,000	7156m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248398	1/40 Templeton Street	26/10/2009	16/12/2009	-	$330,000	732m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241286	4/70 Bourne Street	20/03/2009	08/05/2009	-	$300,000	16640m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245089	24 Redfern Street	11/05/2009	17/06/2009	-	$295,000	815m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246322	2 Vallance Place	13/06/2009	04/09/2009	-	$201,938	587m	Full transfer	-	-	-	-	-	$201,938	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	246321	14 Vickery Street	15/05/2009	03/09/2009	-	$187,500	793m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19575	            10/41 Dugdale Street	05/02/2009	04/08/2009	-	$155,000	8460m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259945	6/1 Sexton Street	29/07/2009	19/04/2010	-	-	5663m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259257	            2/72 Dexter Street	24/12/2009	17/02/2010	-	-	7156m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	275743	61 Dexter Street	10/10/2009	06/01/2011	-	-	560m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	249138	29 Mackellar Crescent	14/09/2009	06/10/2009	-	-	906m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247800	42 Mackellar Crescent	13/10/2009	13/10/2009	-	-	806m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	253680	6 Skene Street	20/11/2009	14/02/2010	-	-	1068m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248532	12 Cambridge Street	16/09/2009	29/10/2009	-	-	804m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249136	18 Clisby Close	02/07/2009	02/10/2009	-	-	894m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259254	6/91 Dexter Street	07/12/2009	16/02/2010	-	-	4366m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245532	111 Mackellar Crescent	06/05/2009	03/08/2009	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245529	47 Lyttleton Crescent	02/07/2009	03/08/2009	-	-	909m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248880	            3/57 Biffin Street	16/10/2009	10/11/2009	-	-	4634m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	262436	5 Molloy Crescent	13/01/2010	29/03/2010	07/12/2009	$780,000	890m	Full transfer	5	2	1	-	2	$780,000	37	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.41
+2010	270889	28 Grylls Crescent	03/07/2010	26/08/2010	07/06/2010	$740,000	936m	Full transfer	5	1	1	1	1	$740,000	26	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.43
+2010	269083	14 Moss Street	19/04/2010	25/06/2010	15/04/2010	$690,000	981m	Full transfer	3	1	-	1	2	$690,000	4	-	Combined Record	154	-	-	Single residential dwelling	$405,000	0.59
+2010	284028	21 Dwyer Street	03/12/2010	15/02/2011	11/11/2010	$676,000	719m	Full transfer	4	1	1	2	-	$676,000	22	-	Combined Record	192	-	-	Single residential dwelling	$383,000	0.57
+2010	275637	            53/1 Wybalena Grove	23/10/2010	12/01/2011	-	$665,000	114795m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266917	            53 Wybalena  Grove	23/10/2010	-	29/09/2010	$665,000	114795m	Full transfer	4	2	-	-	2	$665,000	24	-	Allhomes Record	165	-	-	-	$4,405,000	6.62
+2010	267348	            26/28 Bourne Street	01/05/2010	25/06/2010	-	$662,000	27008m	Full transfer	-	-	-	-	-	$662,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256808	26/13 Dugdale Street	01/05/2010	-	08/04/2010	$662,000	27008m	Full transfer	4	1	1	-	2	$662,000	23	-	Allhomes Record	-	-	-	-	$1,639,000	2.48
+2010	272156	33/33 Wybalena Grove	08/12/2010	-	03/11/2010	$645,000	-	Full transfer	3	1	1	-	2	$645,000	35	-	Allhomes Record	-	-	-	-	-	-
+2010	287476	            33/1 Wybalena Grove	08/12/2010	01/04/2011	-	$645,000	114795m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258710	6 Moss Street	06/03/2010	20/05/2010	11/02/2010	$635,000	912m	Full transfer	3	1	-	2	-	$635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.6
+2010	274566	44 Mackellar Crescent	16/10/2010	26/11/2010	16/09/2010	$630,000	818m	Full transfer	4	1	2	2	-	$630,000	30	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.67
+2010	263442	42 Henry Street	21/06/2010	-	03/06/2010	$630,000	1093m	Full transfer	4	1	1	-	2	$630,000	18	-	Allhomes Record	-	-	-	-	$405,000	0.64
+2010	270954	43 Cambridge Street	20/08/2010	02/09/2010	07/07/2010	$590,250	906m	Full transfer	3	1	-	-	-	$590,250	44	-	Combined Record	100	-	-	Single residential dwelling	$316,000	0.54
+2010	273460	6 Kumm Place	25/08/2010	07/11/2010	31/08/2010	$590,000	577m	Full transfer	4	1	1	-	1	$590,000	-	-	Combined Record	171	-	-	Medium density dwelling	$273,000	0.46
+2010	329728	39 Henry Street	09/10/2010	24/01/2011	-	$575,000	732m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270244	25 Lyttleton Crescent	11/03/2010	03/09/2010	-	$560,000	786m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270243	27 Lyttleton Crescent	11/03/2010	03/09/2010	-	$560,000	812m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	264495	42 Dugdale  Street	10/07/2010	-	17/06/2010	$555,000	596m	Full transfer	4	1	1	2	-	$555,000	23	-	Allhomes Record	160	-	-	-	$273,000	0.49
+2010	255540	7/91 Dexter Street	25/02/2010	06/04/2010	-	$555,000	4366m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258630	5 Cross Street	06/04/2010	13/05/2010	18/02/2010	$550,000	585m	Full transfer	3	1	-	1	-	$550,000	47	-	Combined Record	-	-	-	Medium density dwelling	$273,000	0.5
+2010	271059	9 Kumm Place	24/07/2010	10/09/2010	23/06/2010	$543,000	411m	Full transfer	3	1	-	1	1	$543,000	31	-	Combined Record	125	-	-	Medium density dwelling	$273,000	0.5
+2010	270888	27 Molloy Crescent	03/07/2010	24/08/2010	08/06/2010	$535,000	963m	Full transfer	3	1	-	-	1	$535,000	25	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.59
+2010	329364	56 Lyttleton Crescent	23/10/2010	01/12/2010	10/09/2010	$534,000	771m	Full transfer	3	1	-	4	-	$534,000	43	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.6
+2010	269084	4 Grylls Crescent	04/03/2010	25/06/2010	23/02/2010	$530,000	701m	Full transfer	3	1	-	-	-	$530,000	9	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.58
+2010	264629	18 Bourne Street	17/07/2010	-	25/06/2010	$525,500	27008m	Full transfer	3	1	1	-	2	$525,500	22	-	Allhomes Record	115	-	-	-	$5,398,000	10.27
+2010	269718	            6/28 Bourne Street	17/07/2010	03/09/2010	-	$525,500	27008m	Full transfer	-	-	-	-	-	$525,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258418	7 Ellis Place	13/02/2010	06/04/2010	23/03/2010	$525,000	782m	Full transfer	3	1	-	-	2	$525,000	-	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.59
+2010	279043	            1/72 Dexter Street	25/11/2010	02/02/2011	-	$520,000	7156m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271832	1/50 Dexter Street	25/11/2010	-	06/10/2010	$520,000	363m	Full transfer	3	1	-	2	-	$520,000	50	-	Allhomes Record	-	-	-	-	$1,708,000	3.28
+2010	273217	            13/138 Dexter Street	06/10/2010	01/11/2010	-	$515,000	6577m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271308	13/44 Teague Street	18/10/2010	-	28/04/2010	$515,000	6577m	Full transfer	3	1	1	2	-	$515,000	173	-	Allhomes Record	-	-	-	-	$1,598,000	3.1
+2010	271839	32 Teague Street	26/11/2010	-	18/11/2010	$510,000	6577m	Full transfer	3	1	1	2	-	$510,000	8	-	Allhomes Record	-	-	-	-	$1,838,000	3.6
+2010	271454	32 Teague Street	10/10/2010	-	20/10/2010	$510,000	6577m	Full transfer	3	1	1	2	-	$510,000	-	-	Allhomes Record	-	-	-	-	$1,838,000	3.6
+2010	280331	14 Aston Crescent	06/11/2010	22/12/2010	27/09/2010	$505,000	700m	Full transfer	3	1	-	-	1	$505,000	40	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.57
+2010	283934	23 Teague Street	14/12/2010	24/02/2011	10/11/2010	$490,000	541m	Full transfer	3	1	-	1	-	$490,000	34	-	Combined Record	-	-	-	Medium density dwelling	$253,000	0.52
+2010	273556	4 Tilden Place	10/09/2010	20/10/2010	24/08/2010	$490,000	429m	Full transfer	2	1	0	1	0	$490,000	17	-	Combined Record	103	-	-	Medium density dwelling	$207,000	0.42
+2010	271610	92 Wybalena Grove	19/11/2010	-	17/11/2010	$486,000	114795m	Full transfer	-	-	-	-	-	$486,000	2	-	Allhomes Record	-	-	-	-	$14,507,000	29.85
+2010	285838	            92/1 Wybalena Grove	19/11/2010	07/03/2011	-	$486,000	114795m	Full transfer	-	-	-	-	-	$486,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271453	92 Wybalena Grove	10/10/2010	-	01/10/2010	$486,000	114795m	Full transfer	3	1	-	-	-	$486,000	9	-	Allhomes Record	-	-	-	-	$14,507,000	29.85
+2010	280758	            3/178 Dexter Street	21/10/2010	07/12/2010	-	$480,000	2726m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	275636	3/2 Sexton Street	10/11/2010	12/01/2011	-	$476,251	9762m	Full transfer	-	-	-	-	-	$476,251	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269716	            71/1 Wybalena Grove	11/06/2010	30/08/2010	-	$476,000	114795m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258368	71/71 Wybalena Grove	11/06/2010	-	26/05/2010	$476,000	114795m	Full transfer	2	1	-	-	-	$476,000	16	-	Allhomes Record	-	-	-	-	$12,615,000	26.5
+2010	279041	            3/28 Bourne Street	16/12/2010	02/02/2011	-	$475,000	27008m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252186	3/142 Dexter Street	11/02/2010	-	18/01/2010	$470,000	6577m	Full transfer	2	1	1	2	-	$470,000	24	-	Allhomes Record	-	-	-	-	-	-
+2010	284027	36 Cambridge Street	15/12/2010	14/02/2011	23/11/2010	$470,000	704m	Full transfer	3	1	-	1	-	$470,000	22	-	Combined Record	100	-	-	Single residential dwelling	$300,000	0.64
+2010	255452	            3/138 Dexter Street	11/02/2010	23/03/2010	-	$470,000	6577m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256221	9 Tilden Place	13/02/2010	29/03/2010	23/03/2010	$465,000	383m	Full transfer	3	1	1	2	-	$465,000	-	-	Combined Record	-	-	-	Medium density dwelling	$207,000	0.45
+2010	250933	2/52 Dexter Street	12/01/2010	-	18/12/2009	$451,000	7156m	Full transfer	3	1	-	2	-	$451,000	25	-	Allhomes Record	-	-	-	-	$1,485,000	3.29
+2010	492132	52 Dexter Street	13/01/2010	-	24/12/2016	$451,000	0m	Full transfer	3	1	-	2	0	$451,000	-	-	Allhomes Record	-	-	-	-	$1,708,000	3.79
+2010	276627	            70/1 Wybalena Grove	03/06/2010	22/07/2010	-	$450,000	114795m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258629	101 Dexter Street	22/02/2010	11/05/2010	16/12/2009	$445,000	367m	Full transfer	3	1	-	2	-	$445,000	68	-	Combined Record	-	-	-	Medium density dwelling	$218,000	0.49
+2010	260165	            98/1 Wybalena Grove	29/03/2010	17/05/2010	-	$435,000	114795m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253424	98/98 Wybalena Grove	29/03/2010	-	03/02/2010	$435,000	114795m	Full transfer	3	1	-	-	1	$435,000	54	-	Allhomes Record	-	-	-	-	$12,615,000	29.0
+2010	260166	6/1 Sexton Street	20/03/2010	17/05/2010	-	$432,000	5663m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269422	1/16 Sexton Street	05/06/2010	28/07/2010	-	$422,500	10197m	Full transfer	-	-	-	-	-	$422,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	251241	6 Lyttleton Crescent	30/01/2010	-	23/11/2009	$415,000	4634m	Full transfer	2	1	-	-	1	$415,000	68	-	Allhomes Record	-	-	-	-	$1,059,000	2.55
+2010	269717	            12/154 Dexter Street	31/05/2010	03/09/2010	-	$415,000	9119m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266123	16/112 Dexter Street	17/09/2010	-	25/08/2010	$415,000	10560m	Full transfer	2	1	-	1	-	$415,000	23	-	Allhomes Record	-	-	-	-	$2,208,000	5.32
+2010	272959	            16/76 Dexter Street	17/09/2010	27/10/2010	-	$415,000	10560m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267301	            6/57 Biffin Street	30/01/2010	21/06/2010	-	$415,000	4634m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257797	12/8 Teague Street	31/05/2010	-	28/04/2010	$415,000	9119m	Full transfer	3	1	-	1	-	$415,000	33	-	Allhomes Record	-	-	-	-	-	-
+2010	255453	            6/122 Dexter Street	12/02/2010	24/03/2010	-	$410,000	5078m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273158	194 Dexter Street	30/08/2010	12/10/2010	-	$400,000	380m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	279042	1/70 Bourne Street	02/12/2010	02/02/2011	-	$395,000	16640m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	265512	6/16 Dexter Street	23/08/2010	-	29/06/2010	$383,000	4593m	Full transfer	2	1	-	-	1	$383,000	55	-	Allhomes Record	-	-	-	-	$1,368,000	3.57
+2010	255382	10/48 Dexter Street	15/04/2010	-	23/02/2010	$375,000	354m	Full transfer	2	1	-	1	-	$375,000	51	-	Allhomes Record	-	-	-	-	$111,519	0.3
+2010	267347	            10/26 Dexter Street	15/04/2010	22/06/2010	-	$375,000	4346m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	275638	15 Biffin Street	24/11/2010	12/01/2011	-	$250,000	748m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	376700	            1/88 Bourne Street	23/11/2010	23/07/2012	-	$0	3373m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	254498	12 Cambridge Street	14/01/2010	02/03/2010	-	-	804m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291223	37 Skinner Street	13/12/2010	13/04/2011	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267763	8 Downing Place	01/04/2010	07/07/2010	-	-	452m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	291691	1/2 Dexter Street	19/09/2010	10/05/2011	-	-	4593m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283561	            5/138 Dexter Street	26/11/2010	08/02/2011	-	-	6577m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270167	8 Downing Place	10/07/2010	25/08/2010	-	-	452m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	332922	10 Henry Street	31/05/2010	05/08/2011	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273959	            5/138 Dexter Street	09/01/2010	25/11/2010	-	-	6577m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267522	            2/57 Biffin Street	18/05/2010	09/07/2010	-	-	4634m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283298	17 Teague Street	18/11/2010	01/03/2011	-	-	380m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	270373	42 Dugdale Street	10/07/2010	14/09/2010	-	-	596m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	280698	43 Biffin Street	08/10/2010	22/12/2010	-	-	935m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274033	32 Redfern Street	31/10/2010	22/11/2010	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270166	59 Skinner Street	01/04/2010	24/08/2010	-	-	722m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287535	            6/72 Dexter Street	26/12/2010	21/03/2011	-	-	7156m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269862	9/41 Dugdale Street	23/07/2010	15/09/2010	-	-	8460m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267764	18 Cambridge Street	27/04/2010	07/07/2010	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270245	42 Dugdale Street	19/06/2010	30/08/2010	-	-	596m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	287865	38 Booth Crescent	19/02/2011	01/04/2011	19/01/2011	$925,000	1404m	Full transfer	4	1	1	2	-	$925,000	31	-	Combined Record	-	-	-	Single residential dwelling	$676,000	0.73
+2011	333101	48 Skinner Street	21/05/2011	01/08/2011	18/03/2011	$917,500	1175m	Full transfer	5	1	2	2	-	$917,500	64	-	Combined Record	-	-	-	Single residential dwelling	$661,000	0.72
+2011	292346	38 Mackellar Crescent	27/02/2011	10/05/2011	09/02/2011	$745,000	870m	Full transfer	4	1	1	-	1	$745,000	18	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.7
+2011	291389	            30/28 Bourne Street	22/02/2011	10/05/2011	-	$659,000	27008m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	278021	5 Dugdale Street	22/02/2011	-	31/01/2011	$659,000	-	Full transfer	4	1	1	2	-	$659,000	22	-	Allhomes Record	155	-	-	-	$6,478,000	9.83
+2011	344223	25 Molloy Crescent	18/08/2011	18/10/2011	07/07/2011	$652,500	1082m	Full transfer	3	1	1	4	-	$652,500	42	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.62
+2011	297083	5 Mackellar Crescent	07/04/2011	26/05/2011	15/03/2011	$645,000	779m	Full transfer	4	1	-	-	2	$645,000	23	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.67
+2011	368410	            82/1 Wybalena Grove	10/12/2011	12/04/2012	-	$630,000	114795m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346317	82 Wybalena Grove	10/12/2011	-	08/11/2011	$630,000	-	Full transfer	4	1	1	-	1	$630,000	32	-	Allhomes Record	-	-	-	-	$17,409,000	27.63
+2011	354728	12 Atkinson Street	12/11/2011	04/01/2012	18/10/2011	$615,000	1098m	Full transfer	4	1	-	-	1	$615,000	25	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.78
+2011	282592	52 Bourne Street	26/03/2011	-	01/03/2011	$595,000	27008m	Full transfer	3	1	1	2	-	$595,000	25	-	Allhomes Record	-	-	-	-	$6,478,000	10.89
+2011	296267	10 Clisby Close	16/05/2011	07/06/2011	-	$595,000	1060m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297599	            16/28 Bourne Street	26/03/2011	29/06/2011	-	$595,000	27008m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	292263	52 Dwyer Street	26/02/2011	13/04/2011	01/02/2011	$588,000	738m	Full transfer	4	1	-	2	-	$588,000	25	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.77
+2011	342783	            6A Clisby Close	04/11/2011	-	27/09/2011	$585,000	-	Full transfer	3	1	1	2	-	$585,000	38	-	Allhomes Record	-	-	-	-	-	-
+2011	346840	            1/6 Clisby Close	04/11/2011	18/11/2011	-	$585,000	990m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347498	36 Henry Street	18/08/2011	21/11/2011	16/06/2011	$580,000	770m	Full transfer	4	1	-	1	1	$580,000	63	-	Combined Record	147	-	-	Single residential dwelling	$500,000	0.86
+2011	332461	            6B Clisby Close	20/08/2011	-	28/07/2011	$565,000	-	Full transfer	3	1	1	2	-	$565,000	23	-	Allhomes Record	-	-	-	-	-	-
+2011	342101	            2/6 Clisby Close	20/08/2011	13/10/2011	-	$565,000	990m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	344225	44 Redfern Street	08/07/2011	19/10/2011	06/02/2011	$550,000	784m	Full transfer	3	1	-	-	1	$550,000	152	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.63
+2011	354424	18 Clisby Close	17/11/2011	20/12/2011	05/10/2011	$545,000	894m	Full transfer	3	1	-	1	2	$545,000	43	-	Combined Record	151	-	-	Single residential dwelling	$433,000	0.79
+2011	336325	            55/1 Wybalena Grove	22/06/2011	29/08/2011	-	$540,000	114795m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	294724	55 Wybalena Grove	22/06/2011	-	28/02/2011	$540,000	-	Full transfer	4	2	-	-	-	$540,000	114	-	Allhomes Record	-	-	-	-	$17,409,000	32.24
+2011	348080	6 Molloy Crescent	23/05/2011	26/10/2011	-	$533,000	864m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	294823	68 Wybalena Grove	23/06/2011	-	17/05/2011	$530,000	114795m	Full transfer	3	1	-	-	-	$530,000	37	-	Allhomes Record	-	-	-	-	$17,409,000	32.85
+2011	336324	            68/1 Wybalena Grove	23/06/2011	29/08/2011	-	$530,000	114795m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300596	7 Tilden Place	01/06/2011	15/07/2011	12/05/2011	$515,000	431m	Full transfer	3	1	1	2	-	$515,000	20	-	Combined Record	-	-	-	Medium density dwelling	$238,000	0.46
+2011	354112	33 Cambridge Street	23/11/2011	10/01/2012	18/10/2011	$515,000	976m	Full transfer	4	1	-	-	1	$515,000	36	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.78
+2011	291383	13 Aston Crescent	20/01/2011	10/05/2011	-	$508,000	731m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349858	            91/1 Wybalena Grove	23/11/2011	16/12/2011	-	$500,000	114795m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	331126	5 Vallance Place	12/04/2011	10/05/2011	17/02/2011	$499,000	433m	Full transfer	3	1	1	1	-	$499,000	54	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.63
+2011	349856	71 Dexter Street	07/11/2011	16/12/2011	06/10/2011	$495,000	376m	Full transfer	3	1	1	2	-	$495,000	32	-	Combined Record	-	-	-	Medium density dwelling	$251,000	0.51
+2011	365444	80 Templeton Street	10/12/2011	06/03/2012	15/11/2011	$491,000	414m	Full transfer	3	1	1	1	-	$491,000	25	-	Combined Record	-	-	-	Medium density dwelling	$271,000	0.55
+2011	292345	3 Biffin Street	11/04/2011	10/05/2011	16/02/2011	$488,888	705m	Full transfer	3	1	-	1	1	$488,888	54	-	Combined Record	11	-	-	Single residential dwelling	$375,000	0.77
+2011	337073	10 Henry Street	15/07/2011	29/08/2011	23/06/2011	$488,500	767m	Full transfer	3	1	-	-	1	$488,500	22	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.84
+2011	296999	40 Redfern Street	30/04/2011	08/06/2011	15/04/2011	$486,000	790m	Full transfer	3	1	-	2	-	$486,000	15	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.71
+2011	298382	71 Wybalena Grove	15/07/2011	-	16/06/2011	$485,000	-	Full transfer	2	1	-	-	-	$485,000	29	-	Allhomes Record	-	-	-	-	$17,409,000	35.89
+2011	335932	            71/1 Wybalena Grove	15/07/2011	22/08/2011	-	$485,000	114795m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	292344	91 Lyttleton Crescent	23/03/2011	10/05/2011	10/03/2011	$480,000	371m	Full transfer	2	1	-	-	2	$480,000	13	-	Combined Record	-	-	-	Medium density dwelling	$238,000	0.5
+2011	340500	12/2 Sexton Street	29/07/2011	19/09/2011	-	$476,000	9762m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291385	44 Templeton Street	30/03/2011	10/05/2011	-	$475,000	406m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	284532	            44B Templeton Street	01/04/2011	-	02/02/2011	$475,000	406m	Full transfer	4	1	1	-	1	$475,000	58	-	Allhomes Record	142	-	-	-	$211,000	0.44
+2011	291092	34 Wybalena Grove	28/05/2011	-	11/05/2011	$475,000	-	Full transfer	2	1	-	-	1	$475,000	17	-	Allhomes Record	-	-	-	-	$17,409,000	36.65
+2011	300374	            34/1 Wybalena Grove	28/05/2011	13/07/2011	-	$475,000	114795m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	281791	22 Wybalena Grove	19/03/2011	-	22/02/2011	$470,000	-	Full transfer	2	1	-	1	-	$470,000	25	-	Allhomes Record	-	-	-	-	$17,409,000	37.04
+2011	296417	            22/1 Wybalena Grove	11/03/2011	26/05/2011	-	$470,000	114795m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296849	50 Lyttleton Crescent	09/04/2011	01/06/2011	16/03/2011	$455,000	824m	Full transfer	3	1	-	-	1	$455,000	24	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.89
+2011	297725	16 Biffin Street	29/03/2011	28/06/2011	31/01/2011	$446,000	724m	Full transfer	3	1	-	1	1	$446,000	57	-	Combined Record	99	-	-	Single residential dwelling	$354,000	0.79
+2011	284972	21/16 Sexton Street	06/04/2011	-	16/01/2011	$432,500	10197m	Full transfer	2	1	-	1	-	$432,500	80	-	Allhomes Record	-	-	-	-	$3,164,000	7.32
+2011	291451	21/16 Sexton Street	01/03/2011	04/05/2011	-	$431,620	10197m	Full transfer	-	-	-	-	-	$431,620	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291693	16/2 Sexton Street	22/03/2011	10/05/2011	-	$431,500	9762m	Full transfer	-	-	-	-	-	$431,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350323	            2/76 Dexter Street	12/10/2011	28/11/2011	-	$425,000	10560m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	339812	78 Dexter Street	13/10/2011	-	20/09/2011	$425,000	-	Full transfer	2	1	-	1	-	$425,000	23	-	Allhomes Record	68	-	-	-	$3,047,000	7.17
+2011	296998	85 Lyttleton Crescent	29/04/2011	07/06/2011	23/03/2011	$422,000	371m	Full transfer	2	1	-	1	-	$422,000	37	-	Combined Record	-	-	-	Medium density dwelling	$238,000	0.56
+2011	347686	24/2 Sexton Street	24/08/2011	31/10/2011	21/07/2011	$422,000	9762m	Full transfer	2	1	1	1	-	$422,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	$3,049,000	7.23
+2011	300424	            57/1 Wybalena Grove	03/06/2011	05/07/2011	-	$420,000	114795m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	293021	57 Wybalena Grove	03/06/2011	-	27/04/2011	$420,000	-	Full transfer	2	1	-	-	-	$420,000	37	-	Allhomes Record	-	-	-	-	$17,409,000	41.45
+2011	287416	15/2 Sexton Street	25/02/2011	08/04/2011	-	$415,000	9762m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	343461	1/3 Sexton Street	10/11/2011	-	14/09/2011	$415,000	-	Full transfer	2	1	-	1	-	$415,000	57	-	Allhomes Record	103	-	-	-	-	-
+2011	347684	20 Kumm Place	27/08/2011	31/10/2011	15/07/2011	$407,000	637m	Full transfer	3	1	-	1	-	$407,000	43	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.77
+2011	285991	            4/45 Biffin Street	01/02/2011	17/03/2011	-	$405,000	4473m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	275171	4/51 Biffin Street	02/02/2011	-	21/12/2010	$405,000	4473m	Full transfer	2	1	-	-	1	$405,000	43	-	Allhomes Record	-	-	-	-	-	-
+2011	286781	60 Dexter Street	21/04/2011	-	10/12/2010	$395,000	7156m	Full transfer	2	1	-	1	-	$395,000	132	-	Allhomes Record	-	-	-	-	$2,049,000	5.19
+2011	297600	            6/72 Dexter Street	21/04/2011	30/06/2011	-	$395,000	7156m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300373	            10/76 Dexter Street	01/06/2011	13/07/2011	-	$385,000	10560m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	292812	86 Dexter Street	01/06/2011	-	05/05/2011	$385,000	-	Full transfer	2	1	-	1	-	$385,000	27	-	Allhomes Record	-	-	-	-	$3,047,000	7.91
+2011	281941	6/106 Dexter Street	17/03/2011	-	17/02/2011	$375,000	498m	Full transfer	2	1	-	1	-	$375,000	28	-	Allhomes Record	-	-	-	-	$119,765	0.32
+2011	335931	20/16 Sexton Street	01/07/2011	26/08/2011	-	$375,000	10197m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291692	            6/76 Dexter Street	17/03/2011	10/05/2011	-	$375,000	10560m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296535	1/2 Dexter Street	25/03/2011	31/05/2011	-	$369,000	4593m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	284131	1/2 Dexter Street	25/04/2011	-	01/03/2011	$369,000	4593m	Full transfer	2	1	-	-	1	$369,000	55	-	Allhomes Record	-	-	-	-	$1,573,000	4.26
+2011	333100	8 Dugdale Street	17/06/2011	03/08/2011	-	$320,000	466m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	370890	15 Biffin Street	20/12/2011	23/04/2012	-	$250,000	748m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336326	20 Booth Crescent	22/06/2011	01/09/2011	-	$231,000	1342m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336323	            11/154 Dexter Street	29/07/2011	29/08/2011	-	$210,000	9119m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	405359	38 Redfern Street	31/03/2011	26/07/2013	-	$0	844m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368626	6 Downing Place	10/10/2011	22/03/2012	-	$0	466m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	437647	7 Molloy Crescent	17/10/2011	16/10/2014	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368409	            9/138 Dexter Street	23/11/2011	10/04/2012	-	$0	6577m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	407750	21 Mackellar Crescent	17/10/2011	22/08/2013	-	$0	933m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	392130	8 Tipper Place	26/12/2011	06/03/2013	-	$0	433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	277701	18 Cambridge Street	10/01/2011	24/01/2011	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296217	28 Booth Crescent	23/03/2011	20/06/2011	-	-	1273m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336327	34 Atkinson Street	03/08/2011	01/09/2011	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287412	12 Oakes Street	12/01/2011	23/03/2011	-	-	769m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296302	            11/154 Dexter Street	15/01/2011	06/06/2011	-	-	9119m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300239	16 Moss Street	24/06/2011	19/07/2011	-	-	1050m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283446	8 Dwyer Street	06/01/2011	09/02/2011	-	-	705m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354423	70 Lyttleton Crescent	19/10/2011	22/12/2011	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336172	107 Dexter Street	17/06/2011	22/08/2011	-	-	365m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	291384	50 Lyttleton Crescent	15/01/2011	10/05/2011	-	-	824m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291386	25 Atkinson Street	14/04/2011	10/05/2011	-	-	673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287273	60 Skinner Street	02/02/2011	06/04/2011	-	-	1157m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386880	63 Mackellar Crescent	31/10/2012	21/12/2012	15/10/2012	$800,000	1023m	Full transfer	5	2	1	1	3	$800,000	16	-	Combined Record	-	-	-	Single residential dwelling	$641,000	0.8
+2012	374659	40 Dwyer Street	23/02/2012	28/06/2012	30/01/2012	$790,000	738m	Full transfer	4	2	1	-	2	$790,000	24	-	Combined Record	227	-	-	Single residential dwelling	$480,000	0.61
+2012	383141	81 Mackellar Crescent	17/10/2012	29/11/2012	-	$695,000	940m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368627	27 Mackellar Crescent	02/02/2012	21/03/2012	23/12/2011	$657,000	906m	Full transfer	4	1	-	2	1	$657,000	41	-	Combined Record	126	-	-	Single residential dwelling	$476,000	0.72
+2012	381158	17 Henry Street	21/08/2012	02/10/2012	05/06/2012	$650,000	737m	Full transfer	6	2	-	2	-	$650,000	77	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.63
+2012	397374	4 Clisby Close	07/12/2012	08/05/2013	-	$590,000	863m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	361083	38/6 Bourne Street	31/03/2012	-	08/03/2012	$583,000	27008m	Full transfer	3	1	1	-	2	$583,000	23	-	Allhomes Record	-	-	-	-	$6,478,000	11.11
+2012	384969	            38/28 Bourne Street	31/03/2012	14/05/2012	-	$583,000	27008m	Full transfer	-	-	-	-	-	$583,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375227	3/91 Dexter Street	11/08/2012	-	18/07/2012	$570,000	4366m	Full transfer	3	1	1	2	-	$570,000	24	-	Allhomes Record	-	-	-	-	$1,777,000	3.12
+2012	384324	37 Henry Street	17/09/2012	19/11/2012	-	$570,000	752m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372422	37 Henry Street	19/07/2012	-	26/06/2012	$570,000	752m	Full transfer	3	1	-	2	-	$570,000	23	-	Allhomes Record	121	-	-	-	$476,000	0.84
+2012	377401	23 Mackellar Crescent	08/09/2012	-	16/08/2012	$565,000	976m	Full transfer	3	1	-	-	2	$565,000	23	-	Allhomes Record	-	-	-	-	$444,000	0.79
+2012	368873	58 Redfern Street	09/03/2012	19/04/2012	10/01/2012	$532,500	1083m	Full transfer	4	1	-	1	-	$532,500	59	-	Combined Record	140	-	-	Single residential dwelling	$375,000	0.7
+2012	372934	17 Teague Street	29/02/2012	04/05/2012	-	$530,000	380m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	356191	39/46 Bourne Street	24/02/2012	-	24/11/2011	$530,000	27008m	Full transfer	3	1	1	2	-	$530,000	92	-	Allhomes Record	-	-	-	-	$6,478,000	12.22
+2012	369214	            39/28 Bourne Street	24/02/2012	05/04/2012	-	$530,000	27008m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379780	            60/1 Wybalena Grove	12/05/2012	27/08/2012	-	$520,000	114795m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370891	37 Grylls Crescent	17/03/2012	23/04/2012	22/02/2012	$520,000	727m	Full transfer	3	1	-	2	-	$520,000	24	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.74
+2012	375093	42 Teague Street	09/08/2012	-	29/05/2012	$520,000	-	Full transfer	3	1	1	2	-	$520,000	72	-	Allhomes Record	-	-	-	-	$2,205,000	4.24
+2012	384323	            8/1 Wybalena Grove	11/10/2012	22/11/2012	-	$520,000	114795m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380951	            12/138 Dexter Street	09/08/2012	24/09/2012	-	$520,000	6577m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	366321	60 Wybalena Grove	12/05/2012	-	16/04/2012	$520,000	-	Full transfer	2	1	-	-	1	$520,000	26	-	Allhomes Record	88	-	-	-	$17,409,000	33.48
+2012	378344	8/8 Wybalena Grove	11/10/2012	-	29/05/2012	$520,000	114795m	Full transfer	3	1	-	-	1	$520,000	135	-	Allhomes Record	-	-	-	-	-	-
+2012	373243	26/70 Bourne Street	26/04/2012	06/06/2012	18/11/2011	$512,000	16640m	Full transfer	3	1	1	1	-	$512,000	160	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	370889	            9/138 Dexter Street	16/03/2012	24/04/2012	-	$504,000	6577m	Full transfer	-	-	-	-	-	$504,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	358861	36 Teague Street	17/03/2012	-	11/01/2012	$504,000	-	Full transfer	3	1	1	2	-	$504,000	66	-	Allhomes Record	123	-	-	-	$2,205,000	4.38
+2012	372053	1 Lyttleton Crescent	24/04/2012	03/06/2012	06/03/2012	$500,000	1236m	Full transfer	3	1	-	1	-	$500,000	49	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.75
+2012	365767	            97/1 Wybalena Grove	12/01/2012	23/02/2012	-	$500,000	114795m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	350821	            97/1 Wybalena Grove	23/02/2012	-	14/10/2011	$500,000	114795m	Full transfer	3	1	-	-	1	$500,000	132	-	Allhomes Record	-	-	-	-	$17,409,000	34.82
+2012	391793	24 Grylls Crescent	14/12/2012	26/02/2013	08/08/2012	$496,000	863m	Full transfer	3	1	-	1	-	$496,000	128	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.8
+2012	375510	50 Lyttleton Crescent	17/08/2012	-	28/06/2012	$485,000	824m	Full transfer	3	1	-	-	1	$485,000	50	-	Allhomes Record	-	-	-	-	$404,000	0.83
+2012	392555	6/2 Sexton Street	20/12/2012	14/02/2013	28/09/2012	$482,500	9762m	Full transfer	3	1	1	1	-	$482,500	83	-	Combined Record	-	-	-	Multiple unit dwelling	$3,658,000	7.58
+2012	394403	10/1 Sexton Street	20/12/2012	25/03/2013	12/11/2012	$477,000	5663m	Full transfer	3	1	-	-	2	$477,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$1,731,000	3.63
+2012	376127	6 Vallance Place	27/06/2012	09/08/2012	-	$475,000	452m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	392557	11/3 Sexton Street	21/12/2012	14/02/2013	31/10/2012	$470,000	12004m	Full transfer	2	1	-	1	-	$470,000	51	-	Combined Record	-	-	-	Multiple unit dwelling	$2,749,000	5.85
+2012	389589	109 Dexter Street	23/11/2012	23/01/2013	24/09/2012	$455,000	364m	Full transfer	3	1	-	1	-	$455,000	60	-	Combined Record	-	-	-	Medium density dwelling	$291,000	0.64
+2012	371783	            19/76 Dexter Street	18/04/2012	22/05/2012	-	$450,000	10560m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	389992	            8/154 Dexter Street	16/11/2012	30/01/2013	-	$449,000	9119m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381457	168 Dexter Street	16/11/2012	-	09/10/2012	$449,000	-	Full transfer	3	1	-	1	-	$449,000	38	-	Allhomes Record	-	-	-	-	$3,140,000	6.99
+2012	375223	5 Wybalena Grove	25/07/2012	-	03/04/2012	$445,000	-	Full transfer	2	1	-	-	1	$445,000	113	-	Allhomes Record	82	-	-	-	$17,409,000	39.12
+2012	377812	2/3 Sexton Street	21/09/2012	-	23/07/2012	$445,000	12004m	Full transfer	2	1	-	1	-	$445,000	60	-	Allhomes Record	-	-	-	-	$2,749,000	6.18
+2012	365442	5/1 Sexton Street	10/02/2012	07/03/2012	31/10/2011	$445,000	5663m	Full transfer	3	1	-	-	2	$445,000	102	-	Combined Record	100	-	-	Multiple unit dwelling	$1,731,000	3.89
+2012	379957	            5/1 Wybalena Grove	25/07/2012	13/09/2012	-	$445,000	114795m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	385104	56 Dexter Street	20/12/2012	-	16/10/2012	$444,000	-	Full transfer	3	1	-	2	-	$444,000	65	-	Allhomes Record	-	-	-	-	$2,049,000	4.61
+2012	391844	            4/72 Dexter Street	20/12/2012	18/02/2013	-	$444,000	7156m	Full transfer	-	-	-	-	-	$444,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370105	30/70 Bourne Street	13/01/2012	28/03/2012	-	$425,000	16640m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	389990	32/70 Bourne Street	23/11/2012	29/01/2013	20/08/2012	$421,000	16640m	Full transfer	3	1	-	1	-	$421,000	95	-	Combined Record	-	-	-	Multiple unit dwelling	$5,183,000	12.31
+2012	380305	103 Wybalena Grove	03/11/2012	-	11/09/2012	$420,000	-	Full transfer	2	1	-	-	1	$420,000	53	-	Allhomes Record	-	-	-	-	$17,409,000	41.45
+2012	389588	            7/74 Bourne Street	05/12/2012	23/01/2013	-	$420,000	3688m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	387996	            103/1 Wybalena Grove	03/11/2012	21/12/2012	-	$420,000	114795m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382097	7/86 Bourne Street	05/12/2012	-	14/11/2012	$420,000	550m	Full transfer	2	1	-	-	2	$420,000	21	-	Allhomes Record	-	-	-	-	-	-
+2012	389586	31/70 Bourne Street	01/11/2012	24/01/2013	24/07/2012	$412,000	16640m	Full transfer	3	1	-	1	-	$412,000	100	-	Combined Record	95	-	-	Multiple unit dwelling	$5,183,000	12.58
+2012	370106	            7/26 Dexter Street	21/02/2012	27/03/2012	-	$400,000	4346m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	355822	42 Dexter Street	21/02/2012	-	06/12/2011	$400,000	-	Full transfer	2	1	-	1	-	$400,000	77	-	Allhomes Record	70	-	-	-	$1,888,000	4.72
+2012	383470	5/16 Sexton Street	25/09/2012	12/11/2012	30/07/2012	$380,000	10197m	Full transfer	2	1	-	1	-	$380,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	$3,796,000	9.99
+2012	370887	8 Kumm Place	03/03/2012	23/04/2012	20/01/2012	$375,000	346m	Full transfer	3	1	-	1	1	$375,000	43	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.84
+2012	377736	188 Dexter Street	19/09/2012	-	29/08/2012	$372,500	451m	Full transfer	2	1	-	1	-	$372,500	21	-	Allhomes Record	-	-	-	-	$251,000	0.67
+2012	381991	88 Bourne Street	27/11/2012	-	11/09/2012	$358,000	3373m	Full transfer	2	1	-	2	-	$358,000	77	-	Allhomes Record	-	-	-	-	$1,249,000	3.49
+2012	387995	            1/88 Bourne Street	26/11/2012	19/12/2012	-	$358,000	3373m	Full transfer	-	-	-	-	-	$358,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	434930	            28/1 Wybalena Grove	06/12/2012	08/09/2014	-	$250,000	114795m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	392559	10/1 Sexton Street	17/08/2012	12/02/2013	-	$0	5663m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376991	5/16 Sexton Street	18/05/2012	01/08/2012	-	$0	10197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	400935	74 Lyttleton Crescent	19/12/2012	28/05/2013	-	$0	1008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384457	71 Dexter Street	02/06/2012	08/11/2012	-	$0	376m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	384686	15 Dwyer Street	19/01/2012	09/05/2012	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373246	23 Mackellar Crescent	27/03/2012	06/06/2012	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	410553	            5/154 Dexter Street	15/08/2012	10/09/2013	-	$0	9119m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	392351	3/1 Sexton Street	13/10/2012	15/03/2013	-	$0	5663m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370885	6 Downing Place	22/03/2012	24/04/2012	09/02/2012	$0	466m	Full transfer	3	1	1	-	2	$0	42	-	Combined Record	-	-	-	Medium density dwelling	$315,000	3.49
+2012	403598	1 Molloy Crescent	18/05/2012	03/07/2013	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379482	46 Henry Street	28/06/2012	18/09/2012	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395008	            15/76 Dexter Street	30/07/2012	11/04/2013	-	$0	10560m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373245	113 Dexter Street	24/05/2012	06/06/2012	-	$0	363m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	386879	5 Moss Street	31/10/2012	21/12/2012	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400933	            22/28 Bourne Street	09/06/2012	31/05/2013	-	$0	27008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	392560	15 Atkinson Street	06/12/2012	13/02/2013	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	530181	41 Mackellar Crescent	20/09/2012	11/04/2018	-	$0	989m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	399989	47 Dwyer Street	01/06/2012	21/05/2013	-	$0	844m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376701	            2/41 Dugdale Street	25/06/2012	26/07/2012	-	$0	8460m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395445	15 Booth Crescent	23/02/2013	16/04/2013	24/01/2013	$926,000	917m	Full transfer	3	1	1	2	1	$926,000	30	-	Combined Record	226	-	-	Single residential dwelling	$550,000	0.59
+2013	407105	56 Skinner Street	08/05/2013	13/08/2013	-	$850,000	1409m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419743	13 Bussell Crescent	03/10/2013	10/02/2014	04/09/2013	$820,000	1104m	Full transfer	4	1	1	2	-	$820,000	29	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.63
+2013	406535	22 Dwyer Street	11/06/2013	02/09/2013	22/05/2013	$745,000	993m	Full transfer	5	1	2	1	-	$745,000	20	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.67
+2013	405100	53 Skinner Street	25/05/2013	30/07/2013	02/05/2013	$733,000	725m	Full transfer	4	2	1	-	2	$733,000	23	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.67
+2013	415230	9 Cross Street	04/10/2013	04/12/2013	10/09/2013	$700,000	585m	Full transfer	3	2	-	1	-	$700,000	24	-	Combined Record	231	-	-	Medium density dwelling	$315,000	0.45
+2013	416781	32 Mackellar Crescent	09/11/2013	02/01/2014	16/10/2013	$692,500	817m	Full transfer	4	1	1	2	0	$692,500	24	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.72
+2013	400931	12 Molloy Crescent	09/04/2013	28/05/2013	02/04/2013	$660,000	939m	Full transfer	4	1	1	2	2	$660,000	7	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.6
+2013	396957	16/16 Wybalena Grove	24/05/2013	-	18/03/2013	$623,000	-	Full transfer	4	1	1	-	2	$623,000	67	-	Allhomes Record	-	-	-	-	-	-
+2013	403600	            16/1 Wybalena Grove	24/05/2013	05/07/2013	-	$623,000	114795m	Full transfer	-	-	-	-	-	$623,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	396537	5 Dwyer Street	14/03/2013	24/04/2013	24/07/2012	$614,400	831m	Full transfer	4	1	1	-	3	$614,400	233	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.72
+2013	405923	63 Skinner Street	04/09/2013	-	04/09/2013	$610,000	0m	Full transfer	3	2	-	1	0	$610,000	-	-	Allhomes Record	-	-	-	-	$495,000	0.81
+2013	405360	47 Dwyer Street	12/06/2013	26/07/2013	10/04/2013	$596,000	844m	Full transfer	4	1	1	1	-	$596,000	63	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.74
+2013	405097	            5/28 Bourne Street	12/06/2013	30/07/2013	-	$580,000	27008m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394319	16 Oakes Street	30/01/2013	05/04/2013	20/09/2012	$575,000	844m	Full transfer	3	1	1	-	1	$575,000	132	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.77
+2013	400306	64 Lyttleton Crescent	28/03/2013	07/06/2013	08/03/2013	$572,500	802m	Full transfer	3	1	-	2	-	$572,500	20	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.68
+2013	407106	5 Atkinson Street	22/06/2013	13/08/2013	27/05/2013	$572,000	806m	Full transfer	3	1	-	2	-	$572,000	26	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.68
+2013	405667	            14/28 Bourne Street	22/06/2013	06/08/2013	-	$567,000	27008m	Full transfer	-	-	-	-	-	$567,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399202	14/44 Bourne Street	22/06/2013	-	28/05/2013	$567,000	27008m	Full transfer	3	1	-	2	-	$567,000	25	-	Allhomes Record	-	-	-	-	$6,478,000	11.43
+2013	407748	16 Mackellar Crescent	20/06/2013	22/08/2013	16/04/2013	$556,000	702m	Full transfer	3	1	-	-	1	$556,000	65	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.78
+2013	413520	17 Moss Street	04/10/2013	15/11/2013	-	$552,000	637m	Full transfer	-	-	-	-	-	$552,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400303	30 Redfern Street	27/03/2013	04/06/2013	13/03/2013	$550,000	853m	Full transfer	3	1	-	2	2	$550,000	14	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.65
+2013	407746	5 Cross Street	01/07/2013	23/08/2013	02/04/2013	$550,000	585m	Full transfer	3	1	0	1	0	$550,000	90	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.57
+2013	404473	12 Henry Street	17/08/2013	-	22/07/2013	$548,000	783m	Full transfer	3	1	-	2	-	$548,000	26	-	Allhomes Record	106	-	-	-	$415,000	0.76
+2013	412554	8 Vallance Place	26/07/2013	29/10/2013	-	$535,000	529m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	397370	12 Grylls Crescent	12/03/2013	09/05/2013	24/10/2012	$530,000	739m	Full transfer	3	1	1	2	-	$530,000	139	-	Combined Record	110	-	-	Single residential dwelling	$386,000	0.73
+2013	417877	1 Vallance Place	02/11/2013	15/01/2014	16/10/2013	$527,000	504m	Full transfer	3	1	1	0	2	$527,000	17	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.6
+2013	407306	3 Tilden Place	27/06/2013	26/08/2013	02/05/2013	$526,000	437m	Full transfer	3	1	1	2	-	$526,000	56	-	Combined Record	-	-	-	Medium density dwelling	$238,000	0.45
+2013	402367	18 Cambridge Street	18/05/2013	26/06/2013	11/04/2013	$521,000	831m	Full transfer	3	1	-	2	-	$521,000	37	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.74
+2013	407104	38 Redfern Street	08/05/2013	14/08/2013	-	$515,000	844m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400308	61 Lyttleton Crescent	24/04/2013	04/06/2013	02/04/2013	$512,000	890m	Full transfer	3	2	1	1	-	$512,000	22	-	Combined Record	160	-	-	Single residential dwelling	$375,000	0.73
+2013	412445	14 Wybalena Grove	22/11/2013	-	29/10/2013	$510,000	-	Full transfer	4	1	1	-	2	$510,000	24	-	Allhomes Record	126	-	-	-	$18,279,000	35.84
+2013	419742	            14/1 Wybalena Grove	22/11/2013	12/02/2014	-	$510,000	114795m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	421368	19 Ellis Street	17/12/2013	25/02/2014	14/11/2013	$510,000	756m	Full transfer	3	1	0	0	2	$510,000	33	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.75
+2013	416574	            93/1 Wybalena Grove	15/11/2013	16/12/2013	-	$505,000	114795m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399990	7 Atkinson Street	10/04/2013	21/05/2013	13/02/2013	$502,500	694m	Full transfer	3	1	-	2	-	$502,500	56	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.77
+2013	399802	40 Teague Street	03/07/2013	-	15/04/2013	$500,000	-	Full transfer	3	1	1	2	-	$500,000	79	-	Allhomes Record	-	-	-	-	$2,315,000	4.63
+2013	405098	            11/138 Dexter Street	02/07/2013	30/07/2013	-	$500,000	6577m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405362	34 Atkinson Street	31/05/2013	25/07/2013	21/05/2013	$500,000	725m	Full transfer	3	1	-	2	-	$500,000	10	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.81
+2013	410118	26 Bourne Street	02/11/2013	-	01/10/2013	$486,000	-	Full transfer	3	1	1	-	2	$486,000	32	-	Allhomes Record	116	-	-	-	$6,802,000	14.0
+2013	417879	            2/28 Bourne Street	02/11/2013	16/01/2014	-	$486,000	27008m	Full transfer	-	-	-	-	-	$486,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	407100	8 Tipper Place	28/06/2013	13/08/2013	20/02/2013	$482,000	433m	Full transfer	3	1	1	2	-	$482,000	128	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.65
+2013	411495	12 Tilden Place	24/08/2013	21/10/2013	29/07/2013	$480,000	418m	Full transfer	3	1	-	2	-	$480,000	26	-	Combined Record	-	-	-	Medium density dwelling	$251,000	0.52
+2013	394402	            2/72 Dexter Street	11/02/2013	28/03/2013	-	$477,000	7156m	Full transfer	-	-	-	-	-	$477,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	397372	32 Redfern Street	28/02/2013	08/05/2013	19/11/2012	$477,000	790m	Full transfer	3	1	-	2	-	$477,000	101	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.75
+2013	388315	52 Dexter Street	11/02/2013	-	16/01/2013	$477,000	-	Full transfer	3	1	-	2	-	$477,000	26	-	Allhomes Record	-	-	-	-	$2,151,000	4.51
+2013	407102	7/1 Sexton Street	15/06/2013	14/08/2013	13/05/2013	$470,000	5663m	Full transfer	3	1	-	2	-	$470,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	$1,731,000	3.68
+2013	396539	70 Lyttleton Crescent	13/03/2013	26/04/2013	14/02/2013	$460,000	738m	Full transfer	3	1	-	2	-	$460,000	27	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.82
+2013	403599	            3/72 Dexter Street	18/05/2013	01/07/2013	-	$460,000	7156m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	396391	3/54 Dexter Street	18/05/2013	-	24/04/2013	$460,000	7156m	Full transfer	3	1	-	2	-	$460,000	24	-	Allhomes Record	-	-	-	-	$2,049,000	4.45
+2013	395444	            2/122 Dexter Street	20/03/2013	18/04/2013	-	$451,000	5078m	Full transfer	-	-	-	-	-	$451,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	390741	120 Dexter Street	20/03/2013	-	19/02/2013	$451,000	-	Full transfer	3	1	1	-	2	$451,000	29	-	Allhomes Record	-	-	-	-	$1,624,000	3.6
+2013	419612	16/16 Sexton Street	23/12/2013	07/02/2014	06/11/2013	$445,000	10197m	Full transfer	2	1	-	1	-	$445,000	47	-	Combined Record	135	-	-	Multiple unit dwelling	$3,986,000	8.96
+2013	396535	3/1 Sexton Street	19/02/2013	26/04/2013	16/01/2013	$445,000	5663m	Full transfer	3	1	-	0	2	$445,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	$1,731,000	3.89
+2013	406422	162 Dexter Street	20/09/2013	-	31/07/2013	$435,000	-	Full transfer	3	1	-	1	-	$435,000	51	-	Allhomes Record	-	-	-	-	$3,297,000	7.58
+2013	412782	            5/154 Dexter Street	20/09/2013	04/11/2013	-	$435,000	9119m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	391795	3 Morphy Place	25/01/2013	01/03/2013	06/12/2012	$420,000	507m	Full transfer	2	1	-	-	2	$420,000	50	-	Combined Record	-	-	-	Medium density dwelling	$315,000	0.75
+2013	419740	83 Dexter Street	14/11/2013	10/02/2014	20/10/2013	$410,000	463m	Full transfer	2	1	-	1	-	$410,000	25	-	Combined Record	69	-	-	Medium density dwelling	$224,000	0.55
+2013	416572	17/16 Sexton Street	08/11/2013	20/12/2013	01/10/2013	$410,000	10197m	Full transfer	2	1	-	1	-	$410,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	9.72
+2013	390054	81 Dexter Street	28/02/2013	-	28/01/2013	$403,000	502m	Full transfer	2	1	-	1	-	$403,000	31	-	Allhomes Record	-	-	-	-	$224,000	0.56
+2013	402240	            5/178 Dexter Street	14/03/2013	21/06/2013	-	$399,000	2726m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	390561	3 Teague Street	14/03/2013	-	20/02/2013	$399,000	387m	Full transfer	3	1	1	-	1	$399,000	22	-	Allhomes Record	111	-	-	-	$908,000	2.28
+2013	406534	7/2 Dexter Street	22/06/2013	04/09/2013	-	$395,000	4593m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399240	24 Dexter Street	22/06/2013	-	28/05/2013	$395,000	-	Full transfer	2	1	-	-	1	$395,000	25	-	Allhomes Record	-	-	-	-	$1,982,000	5.02
+2013	391215	114 Dexter Street	03/04/2013	-	21/11/2012	$380,266	-	Full transfer	2	1	-	1	-	$380,266	133	-	Allhomes Record	-	-	-	-	$3,199,000	8.41
+2013	399987	            11/76 Dexter Street	06/02/2013	21/05/2013	-	$380,000	10560m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395805	92 Dexter Street	07/05/2013	-	14/08/2012	$380,000	-	Full transfer	2	1	-	1	-	$380,000	266	-	Allhomes Record	-	-	-	-	$3,199,000	8.42
+2013	410554	75 Dexter Street	24/07/2013	12/09/2013	30/06/2013	$375,000	376m	Full transfer	2	1	-	1	-	$375,000	24	-	Combined Record	-	-	-	Medium density dwelling	$224,000	0.6
+2013	414134	4/2 Sexton Street	20/09/2013	18/11/2013	-	$370,000	9762m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	386683	2/38 Templeton Street	30/01/2013	-	07/02/2012	$348,000	732m	Full transfer	3	1	-	-	1	$348,000	358	-	Allhomes Record	-	-	-	-	$480,000	1.38
+2013	399992	1/36 Templeton Street	26/02/2013	21/05/2013	17/01/2013	$330,000	732m	Full transfer	3	1	-	-	1	$330,000	40	-	Combined Record	-	-	-	Multiple unit dwelling	$480,000	1.45
+2013	434929	            41/1 Wybalena Grove	15/01/2013	08/09/2014	-	$260,000	114795m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	398051	53 Lyttleton Crescent	12/04/2013	14/05/2013	-	$0	796m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417876	9 Aston Crescent	26/11/2013	16/01/2014	-	$0	693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	392131	5 Dwyer Street	15/02/2013	05/03/2013	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427748	12 Biffin Street	04/12/2013	30/04/2014	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415756	47 Cambridge Street	30/10/2013	12/12/2013	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417880	23 Grylls Crescent	30/10/2013	15/01/2014	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	389993	62 Henry Street	14/01/2013	01/02/2013	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405358	3 Tilden Place	12/03/2013	25/07/2013	-	$0	437m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	449922	            17/154 Dexter Street	06/06/2013	09/04/2015	-	$0	9119m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418615	9 Skinner Street	30/10/2013	30/01/2014	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400305	18 Mackellar Crescent	11/04/2013	07/06/2013	-	$0	702m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	412555	8 Booth Crescent	11/06/2013	01/11/2013	-	$0	1544m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410556	            80/1 Wybalena Grove	03/02/2013	12/09/2013	-	$0	114795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405099	46 Skinner Street	26/06/2013	29/07/2013	-	$0	1063m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	399988	62 Mackellar Crescent	22/03/2013	21/05/2013	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400934	1/28 Bourne Street	26/03/2013	27/05/2013	-	$0	27008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	424639	6 Booth Crescent	04/03/2014	14/04/2014	27/11/2013	$870,000	1485m	Full transfer	6	2	1	2	-	$870,000	97	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.66
+2014	430843	18 Moss Street	24/05/2014	03/07/2014	28/04/2014	$845,000	956m	Full transfer	4	1	1	-	1	$845,000	26	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.62
+2014	443025	58 Mackellar Crescent	08/11/2014	08/01/2015	15/10/2014	$820,000	996m	Full transfer	5	2	0	2	0	$820,000	24	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.66
+2014	443557	9 Booth Crescent	21/10/2014	12/01/2015	01/09/2014	$750,000	913m	Full transfer	3	1	1	2	-	$750,000	50	-	Combined Record	175	-	-	Single residential dwelling	$550,000	0.73
+2014	441750	42 Dugdale Street	01/11/2014	10/12/2014	03/10/2014	$721,000	596m	Full transfer	4	1	1	2	-	$721,000	29	-	Combined Record	-	-	-	Medium density dwelling	$322,000	0.45
+2014	441753	32 Dwyer Street	04/11/2014	11/12/2014	15/09/2014	$706,000	775m	Full transfer	4	1	1	-	2	$706,000	50	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.71
+2014	449317	            4/138 Dexter Street	13/12/2014	01/04/2015	-	$700,000	6577m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440530	144 Dexter Street	13/12/2014	-	17/11/2014	$700,000	-	Full transfer	4	1	1	2	-	$700,000	26	-	Allhomes Record	-	-	-	-	$2,315,000	3.31
+2014	423327	74 Lyttleton Crescent	14/02/2014	19/03/2014	24/10/2013	$700,000	1008m	Full transfer	4	1	1	2	0	$700,000	113	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.56
+2014	428691	13 Moss Street	13/05/2014	04/06/2014	-	$672,000	708m	Full transfer	-	-	-	-	-	$672,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434927	20 Cambridge Street	02/08/2014	10/09/2014	09/07/2014	$670,000	787m	Full transfer	5	1	1	2	-	$670,000	24	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.57
+2014	445246	18 Oakes Street	29/11/2014	06/02/2015	06/11/2014	$670,000	820m	Full transfer	3	1	1	1	1	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.66
+2014	428692	16 Dwyer Street	22/03/2014	03/06/2014	28/02/2014	$640,000	708m	Full transfer	4	1	1	1	0	$640,000	22	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.77
+2014	427236	            26/28 Bourne Street	07/04/2014	09/05/2014	-	$635,000	27008m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	422220	13 Dugdale Street	07/04/2014	-	16/10/2013	$635,000	-	Full transfer	4	1	1	2	-	$635,000	173	-	Allhomes Record	174	-	-	-	$6,802,000	10.71
+2014	436244	9/91 Dexter Street	07/08/2014	22/09/2014	16/07/2014	$621,000	4366m	Full transfer	3	2	-	2	0	$621,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	$1,777,000	2.86
+2014	442461	5 Grylls Crescent	01/11/2014	02/01/2015	08/10/2014	$620,000	830m	Full transfer	4	1	1	2	0	$620,000	24	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.62
+2014	422925	3 Dwyer Street	13/02/2014	24/03/2014	-	$615,000	1031m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437648	13 Clisby Close	28/08/2014	14/10/2014	23/07/2014	$602,500	929m	Full transfer	3	1	-	1	1	$602,500	36	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.76
+2014	428690	5/91 Dexter Street	27/02/2014	04/06/2014	-	$600,000	4366m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	424380	8 Grylls Crescent	01/03/2014	09/04/2014	05/02/2014	$598,000	710m	Full transfer	3	1	1	0	1	$598,000	24	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.65
+2014	430840	9 Tilden Place	05/04/2014	01/07/2014	12/03/2014	$586,000	383m	Full transfer	3	1	1	2	0	$586,000	24	-	Combined Record	-	-	-	Medium density dwelling	$243,000	0.41
+2014	430328	5 Morphy Place	03/05/2014	07/07/2014	01/04/2014	$585,000	493m	Full transfer	3	1	1	-	2	$585,000	32	-	Combined Record	-	-	-	Medium density dwelling	$322,000	0.55
+2014	424382	14 Clisby Close	18/02/2014	11/04/2014	-	$560,000	1154m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434431	67 Dexter Street	23/05/2014	04/09/2014	08/01/2014	$550,000	376m	Full transfer	5	2	1	1	1	$550,000	135	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.47
+2014	434734	94 Wybalena Grove	27/09/2014	-	28/08/2014	$530,000	-	Full transfer	2	1	-	-	1	$530,000	30	-	Allhomes Record	-	-	-	-	$18,279,000	34.49
+2014	439024	17 Aston Crescent	06/09/2014	07/11/2014	12/08/2014	$505,000	886m	Full transfer	3	1	-	-	1	$505,000	25	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.76
+2014	430845	22 Vickery Street	17/05/2014	01/07/2014	28/03/2014	$502,000	850m	Full transfer	4	2	-	-	-	$502,000	50	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.83
+2014	475565	2/2 Sexton Street	14/07/2014	13/04/2016	19/09/2013	$500,000	9762m	Full transfer	3	1	1	1	0	$500,000	298	-	Combined Record	-	-	-	Multiple unit dwelling	$3,841,000	7.68
+2014	422926	32 Atkinson Street	27/02/2014	26/03/2014	04/11/2013	$497,000	708m	Full transfer	3	1	-	-	1	$497,000	115	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.81
+2014	427744	13 Cambridge Street	11/03/2014	30/04/2014	-	$492,500	695m	Full transfer	-	-	-	-	-	$492,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	418980	28 Bourne Street	22/02/2014	-	21/01/2014	$490,000	-	Full transfer	3	1	1	-	2	$490,000	32	-	Allhomes Record	119	-	-	-	$6,802,000	13.88
+2014	440160	10/2 Sexton Street	18/10/2014	26/11/2014	01/10/2014	$490,000	9762m	Full transfer	3	1	1	1	0	$490,000	17	-	Combined Record	-	-	-	Multiple unit dwelling	$3,841,000	7.84
+2014	424015	1/28 Bourne Street	22/02/2014	02/04/2014	-	$490,000	27008m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	437118	84 Lyttleton Crescent	01/07/2014	-	05/11/2014	$480,000	0m	Full transfer	3	1	-	2	0	$480,000	-	-	Allhomes Record	-	-	-	-	$385,000	0.8
+2014	438727	3 Skinner Street	15/09/2014	30/10/2014	03/08/2014	$480,000	673m	Full transfer	3	1	-	-	1	$480,000	43	-	Combined Record	107	-	-	Single residential dwelling	$404,000	0.84
+2014	432195	84 Lyttleton Crescent	02/07/2014	31/07/2014	16/05/2014	$480,000	769m	Full transfer	3	1	-	2	0	$480,000	47	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.8
+2014	447804	30/70 Bourne Street	19/12/2014	12/03/2015	02/12/2014	$470,000	16640m	Full transfer	3	1	-	1	-	$470,000	17	-	Combined Record	-	-	-	Multiple unit dwelling	$5,442,000	11.58
+2014	427745	11 Biffin Street	19/03/2014	30/04/2014	19/02/2014	$468,000	748m	Full transfer	3	1	-	-	-	$468,000	28	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.8
+2014	443023	89 Lyttleton Crescent	01/12/2014	07/01/2015	06/11/2014	$460,000	371m	Full transfer	2	1	-	2	-	$460,000	25	-	Combined Record	112	-	-	Medium density dwelling	$243,000	0.53
+2014	427237	            15/154 Dexter Street	13/01/2014	05/05/2014	-	$455,000	9119m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427235	            33/28 Bourne Street	01/03/2014	07/05/2014	-	$450,500	27008m	Full transfer	-	-	-	-	-	$450,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	419105	16 Bourne Street	01/03/2014	-	18/02/2014	$450,500	-	Full transfer	2	1	-	2	-	$450,500	11	-	Allhomes Record	-	-	-	-	$6,802,000	15.1
+2014	433047	103 Dexter Street	26/06/2014	14/08/2014	23/04/2014	$450,000	366m	Full transfer	3	1	0	0	1	$450,000	64	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.57
+2014	432532	8/16 Sexton Street	21/06/2014	06/08/2014	27/05/2014	$450,000	10197m	Full transfer	2	1	-	1	-	$450,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	8.86
+2014	439027	            1/88 Bourne Street	13/10/2014	07/11/2014	-	$445,000	3373m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435803	2/16 Sexton Street	30/07/2014	16/09/2014	11/06/2014	$443,000	10197m	Full transfer	2	1	-	1	-	$443,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	9.0
+2014	427431	21/16 Sexton Street	02/04/2014	12/05/2014	11/02/2014	$436,000	10197m	Full transfer	2	1	0	1	0	$436,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	9.14
+2014	438724	            1/41 Dugdale Street	17/09/2014	29/10/2014	-	$432,000	8460m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	434155	61 Dugdale Street	18/09/2014	-	07/07/2014	$432,000	-	Full transfer	3	1	-	1	-	$432,000	73	-	Allhomes Record	-	-	-	-	$2,745,000	6.35
+2014	446027	23/2 Sexton Street	22/11/2014	10/02/2015	27/10/2014	$430,000	9762m	Full transfer	2	1	1	1	-	$430,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	$3,841,000	8.93
+2014	437981	            17/76 Dexter Street	12/09/2014	23/10/2014	-	$428,000	10560m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430842	            13/76 Dexter Street	24/05/2014	03/07/2014	-	$422,500	10560m	Full transfer	-	-	-	-	-	$422,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	425230	96 Dexter Street	24/05/2014	-	16/04/2014	$422,500	-	Full transfer	2	1	-	1	-	$422,500	38	-	Allhomes Record	-	-	-	-	$3,199,000	7.57
+2014	424016	1/57 Biffin Street	08/02/2014	01/04/2014	-	$420,000	4634m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	417497	57 Biffin Street	08/02/2014	-	13/01/2014	$420,000	4634m	Full transfer	2	1	-	-	1	$420,000	26	-	Allhomes Record	-	-	-	-	$1,335,000	3.18
+2014	426144	11/70 Dexter Street	25/06/2014	-	15/04/2014	$415,000	-	Full transfer	2	1	-	1	-	$415,000	71	-	Allhomes Record	-	-	-	-	-	-
+2014	431641	            11/72 Dexter Street	24/06/2014	21/07/2014	-	$415,000	7156m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438725	17/2 Sexton Street	19/09/2014	29/10/2014	21/07/2014	$411,000	9762m	Full transfer	2	2	-	1	-	$411,000	60	-	Combined Record	98	-	-	Multiple unit dwelling	$3,841,000	9.35
+2014	431643	            8/45 Biffin Street	18/06/2014	25/07/2014	-	$393,000	4473m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	425862	72 Redfern Street	17/06/2014	-	06/05/2014	$393,000	559m	Full transfer	2	1	-	0	1	$393,000	42	-	Allhomes Record	-	-	-	-	$1,335,000	3.4
+2014	431642	            6/122 Dexter Street	18/06/2014	25/07/2014	-	$337,500	5078m	Full transfer	-	-	-	-	-	$337,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427747	20 Redfern Street	15/03/2014	30/04/2014	-	$300,000	803m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447803	20 Grylls Crescent	16/12/2014	12/03/2015	-	$136,841	826m	Full transfer	-	-	-	-	-	$136,841	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446029	40 Mackellar Crescent	19/12/2014	10/02/2015	27/10/2014	$0	786m	Full transfer	4	1	1	-	1	$0	53	-	Combined Record	-	-	-	Single residential dwelling	$480,000	3.4
+2014	427238	20 Templeton Street	11/04/2014	06/05/2014	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	463580	6/91 Dexter Street	30/06/2014	15/10/2015	-	$0	4366m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	434433	18 Oakes Street	28/05/2014	04/09/2014	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428694	33 Lyttleton Crescent	23/04/2014	02/06/2014	-	$0	848m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	463229	            2/41 Dugdale Street	12/02/2014	08/10/2015	-	$0	8460m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	452888	3 Atkinson Street	16/10/2014	14/05/2015	-	$0	823m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429073	27 Dwyer Street	14/06/2014	11/06/2014	-	$0	792m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	445245	            2/76 Dexter Street	09/12/2014	06/02/2015	-	$0	10560m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441752	3/16 Sexton Street	27/09/2014	09/12/2014	-	$0	10197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	448122	            4/45 Biffin Street	07/04/2014	18/03/2015	-	$0	4473m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430330	5 Grylls Crescent	14/04/2014	09/07/2014	-	$0	830m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432194	            5/45 Biffin Street	17/06/2014	01/08/2014	-	$0	4473m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	439026	13 Kumm Place	10/07/2014	07/11/2014	-	$0	393m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	468317	21 Booth Crescent	16/10/2015	15/12/2015	09/09/2015	$920,000	849m	Full transfer	4	2	-	2	1	$920,000	37	-	Combined Record	167	-	-	Single residential dwelling	$559,000	0.61
+2015	481847	30 Moss Street	13/08/2015	22/07/2016	-	$850,000	976m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	449344	44 Henry Street	16/01/2015	31/03/2015	18/03/2015	$850,000	1042m	Full transfer	4	3	-	2	0	$850,000	-	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.53
+2015	468842	18 Molloy Crescent	14/11/2015	06/01/2016	23/10/2015	$800,000	883m	Full transfer	5	2	-	2	2	$800,000	22	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.51
+2015	472410	17 Grylls Crescent	07/11/2015	23/02/2016	15/10/2015	$797,500	770m	Full transfer	4	3	-	0	2	$797,500	23	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.5
+2015	451991	5 Clisby Close	14/03/2015	05/05/2015	-	$780,000	976m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	446957	5 Clisby Close	16/03/2015	-	24/02/2015	$780,000	976m	Full transfer	4	2	1	4	1	$780,000	20	-	Allhomes Record	-	-	-	-	$472,000	0.61
+2015	472400	41 Henry Street	28/04/2015	24/02/2016	-	$765,000	737m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465942	41 Henry Street	28/11/2015	-	02/11/2015	$765,000	0m	Full transfer	5	2	-	2	0	$765,000	26	-	Allhomes Record	-	-	-	-	$426,000	0.56
+2015	459957	50 Templeton Street	27/05/2015	20/08/2015	17/04/2015	$760,000	755m	Full transfer	-	-	-	-	-	$760,000	40	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.51
+2015	449927	6 Grylls Crescent	09/02/2015	08/04/2015	20/01/2015	$755,000	740m	Full transfer	4	1	-	2	-	$755,000	20	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.52
+2015	469425	3 Cambridge Street	25/11/2015	11/01/2016	-	$730,000	699m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	444486	35A Molloy Crescent	16/02/2015	-	06/11/2014	$720,000	348m	Full transfer	3	1	1	2	-	$720,000	102	-	Allhomes Record	-	-	-	-	$518,000	0.72
+2015	459948	60 Mackellar Crescent	29/04/2015	18/08/2015	26/03/2015	$720,000	892m	Full transfer	3	2	-	1	0	$720,000	34	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.77
+2015	452893	            1/35 Molloy Crescent	16/02/2015	13/05/2015	-	$720,000	915m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467876	11 Oakes Street	19/09/2015	23/12/2015	26/08/2015	$710,000	813m	Full transfer	3	1	1	0	2	$710,000	24	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.64
+2015	449933	65 Skinner Street	19/02/2015	10/04/2015	10/02/2015	$706,000	722m	Full transfer	3	1	-	-	1	$706,000	9	-	Combined Record	136	-	-	Single residential dwelling	$508,000	0.72
+2015	459955	18 Henry Street	04/07/2015	20/08/2015	09/06/2015	$683,000	737m	Full transfer	3	1	-	1	-	$683,000	25	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.62
+2015	470133	7 Moss Street	07/10/2015	04/02/2016	-	$680,000	765m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470985	6/91 Dexter Street	14/11/2015	11/02/2016	22/10/2015	$650,000	4366m	Full transfer	3	2	-	2	0	$650,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	$1,777,000	2.73
+2015	463242	            64/1 Wybalena Grove	26/08/2015	08/10/2015	-	$645,000	114795m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444094	5 Cambridge Street	13/01/2015	29/01/2015	19/11/2014	$642,000	698m	Full transfer	3	1	1	3	-	$642,000	55	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.6
+2015	464359	1 Dugdale Street	11/11/2015	-	26/08/2015	$640,000	0m	Full transfer	4	2	-	2	0	$640,000	77	-	Allhomes Record	-	-	-	-	$6,802,000	10.63
+2015	470973	            32/28 Bourne Street	11/11/2015	10/02/2016	-	$640,000	27008m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	454340	            22/28 Bourne Street	08/05/2015	10/06/2015	-	$627,500	27008m	Full transfer	-	-	-	-	-	$627,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	454121	61 Dexter Street	20/04/2015	02/06/2015	06/04/2015	$620,000	560m	Full transfer	4	2	-	2	-	$620,000	14	-	Combined Record	-	-	-	Medium density dwelling	$270,000	0.44
+2015	448889	55 Skinner Street	03/02/2015	27/03/2015	-	$605,000	725m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460649	24 Vickery Street	12/09/2015	-	11/08/2015	$598,000	843m	Full transfer	4	1	-	1	-	$598,000	32	-	Allhomes Record	-	-	-	-	$426,000	0.71
+2015	473203	44 Atkinson Street	07/11/2015	04/03/2016	14/10/2015	$580,000	725m	Full transfer	3	1	-	-	1	$580,000	24	-	Combined Record	108	-	-	Single residential dwelling	$414,000	0.71
+2015	462468	17 Templeton Street	20/10/2015	-	06/10/2015	$571,500	0m	Full transfer	3	1	-	2	0	$571,500	14	-	Allhomes Record	-	-	-	-	$385,000	0.67
+2015	466463	37 Lyttleton Crescent	26/09/2015	16/11/2015	31/08/2015	$560,000	836m	Full transfer	3	1	-	-	1	$560,000	26	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.69
+2015	458329	40 Bourne Street	15/08/2015	-	17/07/2015	$556,000	-	Full transfer	3	2	-	-	2	$556,000	29	-	Allhomes Record	-	-	-	-	$6,802,000	12.23
+2015	464969	            12/28 Bourne Street	15/08/2015	21/10/2015	-	$556,000	27008m	Full transfer	-	-	-	-	-	$556,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463230	3 Biffin Street	01/08/2015	09/10/2015	17/06/2015	$555,000	705m	Full transfer	3	1	-	1	-	$555,000	45	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.69
+2015	467874	20 Dugdale Street	14/11/2015	22/12/2015	21/10/2015	$552,000	558m	Full transfer	3	2	-	0	1	$552,000	24	-	Combined Record	-	-	-	Medium density dwelling	$313,000	0.57
+2015	467878	40 Redfern Street	31/10/2015	21/12/2015	24/09/2015	$545,000	790m	Full transfer	3	1	-	2	-	$545,000	37	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.68
+2015	453012	10 Henry Street	30/05/2015	-	06/05/2015	$530,000	767m	Full transfer	3	1	-	-	1	$530,000	24	-	Allhomes Record	-	-	-	-	$414,000	0.78
+2015	469416	            3/28 Bourne Street	12/11/2015	11/01/2016	-	$530,000	27008m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464235	24 Bourne Street	12/11/2015	-	20/10/2015	$530,000	0m	Full transfer	3	2	-	0	2	$530,000	23	-	Allhomes Record	-	-	-	-	$6,802,000	12.83
+2015	451503	87 Lyttleton Crescent	07/03/2015	21/04/2015	16/02/2015	$529,000	371m	Full transfer	3	1	0	0	2	$529,000	19	-	Combined Record	-	-	-	Medium density dwelling	$256,000	0.48
+2015	457938	12 Biffin Street	06/06/2015	13/07/2015	14/04/2015	$522,500	778m	Full transfer	3	1	-	-	2	$522,500	53	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.74
+2015	468854	3/2 Sexton Street	09/11/2015	07/01/2016	15/09/2015	$512,500	9762m	Full transfer	3	1	1	1	-	$512,500	55	-	Combined Record	-	-	-	Multiple unit dwelling	$3,841,000	7.49
+2015	444170	30 Wybalena Grove	06/02/2015	-	10/01/2015	$507,000	114795m	Full transfer	2	1	-	-	-	$507,000	27	-	Allhomes Record	-	-	-	-	$18,279,000	36.05
+2015	470983	91 Lyttleton Crescent	26/11/2015	10/02/2016	12/10/2015	$505,000	371m	Full transfer	3	1	-	-	2	$505,000	45	-	Combined Record	-	-	-	Medium density dwelling	$256,000	0.51
+2015	448123	            30/1 Wybalena Grove	06/02/2015	16/03/2015	-	$504,700	114795m	Full transfer	-	-	-	-	-	$504,700	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	459950	78 Templeton Street	31/03/2015	20/08/2015	24/02/2015	$495,000	309m	Full transfer	3	1	1	1	-	$495,000	35	-	Combined Record	130	-	-	Medium density dwelling	$287,000	0.58
+2015	456698	34 Skinner Street	14/04/2015	05/07/2015	-	$490,000	794m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	449026	18 Teague Street	20/03/2015	-	12/01/2015	$485,000	-	Full transfer	3	1	1	2	-	$485,000	67	-	Allhomes Record	-	-	-	-	$3,297,000	6.8
+2015	451996	            17/154 Dexter Street	26/03/2015	06/05/2015	-	$485,000	9119m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	455425	120 Dexter Street	17/07/2015	-	28/04/2015	$475,000	-	Full transfer	3	1	1	-	2	$475,000	80	-	Allhomes Record	-	-	-	-	$1,624,000	3.42
+2015	465760	            2/122 Dexter Street	17/07/2015	09/11/2015	-	$475,000	5078m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458530	11/16 Sexton Street	19/06/2015	30/07/2015	22/05/2015	$470,000	10197m	Full transfer	2	1	-	0	1	$470,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	8.48
+2015	450571	2 Teague Street	01/05/2015	-	02/03/2015	$450,000	0m	Full transfer	3	1	-	1	0	$450,000	60	-	Allhomes Record	-	-	-	-	$3,297,000	7.33
+2015	459040	            3/1 Wybalena Grove	12/06/2015	07/08/2015	-	$450,000	114795m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456697	            9/154 Dexter Street	01/05/2015	02/07/2015	-	$450,000	9119m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	447272	1/122 Dexter Street	10/01/2015	26/02/2015	-	$450,000	5078m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469423	6 Tipper Place	19/11/2015	11/01/2016	26/10/2015	$442,500	466m	Full transfer	2	1	-	1	-	$442,500	24	-	Combined Record	95	-	-	Medium density dwelling	$339,000	0.77
+2015	469418	7/3 Sexton Street	15/12/2015	13/01/2016	17/11/2015	$435,000	12004m	Full transfer	2	1	-	1	0	$435,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	$2,886,000	6.63
+2015	469417	            10/26 Dexter Street	10/12/2015	11/01/2016	-	$410,000	4346m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466833	10/48 Dexter Street	10/12/2015	-	15/10/2015	$410,000	-	Full transfer	2	1	-	1	-	$410,000	56	-	Allhomes Record	91	-	-	-	-	-
+2015	451988	18/2 Sexton Street	26/03/2015	04/05/2015	19/12/2014	$392,500	9762m	Full transfer	2	1	1	1	-	$392,500	97	-	Combined Record	-	-	-	Multiple unit dwelling	$3,841,000	9.79
+2015	452588	3/16 Sexton Street	07/03/2015	19/05/2015	11/02/2015	$392,000	10197m	Full transfer	2	1	-	1	-	$392,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$3,986,000	10.17
+2015	462820	65 Dugdale Street	23/10/2015	-	23/09/2015	$390,000	0m	Full transfer	2	1	-	1	0	$390,000	30	-	Allhomes Record	-	-	-	-	$2,745,000	7.04
+2015	474707	            6/41 Dugdale Street	28/10/2015	05/04/2016	-	$390,000	8460m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470974	24/70 Bourne Street	20/11/2015	12/02/2016	-	$384,000	16640m	Full transfer	-	-	-	-	-	$384,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456687	            5/41 Dugdale Street	16/04/2015	02/07/2015	-	$382,500	8460m	Full transfer	-	-	-	-	-	$382,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449485	63 Dugdale Street	16/04/2015	-	05/02/2015	$382,500	-	Full transfer	2	1	-	1	-	$382,500	70	-	Allhomes Record	-	-	-	-	$2,745,000	7.18
+2015	455272	            11/26 Dexter Street	21/04/2015	18/06/2015	-	$325,000	4346m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449651	11/30 Dexter Street	22/04/2015	-	26/02/2015	$325,000	4346m	Full transfer	2	1	0	1	0	$325,000	55	-	Allhomes Record	-	-	-	-	$159,017	0.49
+2015	482521	93 Lyttleton Crescent	14/12/2015	28/07/2016	-	$290,000	436m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	513209	54 Skinner Street	16/11/2015	06/06/2017	-	$0	1697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465768	91 Lyttleton Crescent	20/07/2015	11/11/2015	-	$0	371m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	473817	12/16 Sexton Street	03/10/2015	22/03/2016	-	$0	10197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	477225	2 Tilden Place	30/09/2015	05/05/2016	-	$0	543m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	463572	            2/178 Dexter Street	17/06/2015	14/10/2015	-	$0	2726m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	561494	61 Skinner Street	23/12/2015	29/05/2019	-	$0	895m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	532722	15 Mackellar Crescent	29/10/2015	14/05/2018	-	$0	1005m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	483263	30 Cambridge Street	23/06/2015	04/08/2016	-	$0	856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455285	16 Booth Crescent	15/04/2015	19/06/2015	-	$0	1056m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	491503	68 Henry Street	17/04/2015	23/11/2016	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455284	11/70 Bourne Street	30/04/2015	16/06/2015	-	$0	16640m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	491527	9 Templeton Street	04/05/2015	24/11/2016	-	$0	1010m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451990	11 Moss Street	13/04/2015	04/05/2015	-	$0	768m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	480921		28/07/2016	-	02/06/2016	$4,000,000	1041910m	Full transfer	-	-	-	-	-	$4,000,000	56	-	Allhomes Record	-	-	-	-	-	-
+2016	500030	33 Cambridge Street	13/12/2016	07/03/2017	10/10/2016	$1,365,000	976m	Full transfer	4	1	1	2	0	$1,365,000	64	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.32
+2016	489033	8 Moss Street	27/08/2016	26/10/2016	03/08/2016	$960,000	1690m	Full transfer	7	2	-	0	0	$960,000	24	-	Combined Record	-	-	-	Single residential dwelling	$647,000	0.67
+2016	480098	14 Bussell Crescent	01/02/2016	22/06/2016	26/11/2015	$955,000	1285m	Full transfer	4	1	1	0	2	$955,000	67	-	Combined Record	-	-	-	Single residential dwelling	$607,000	0.64
+2016	480271	31 Mackellar Crescent	20/02/2016	15/06/2016	25/01/2016	$851,000	906m	Full transfer	5	2	-	1	0	$851,000	26	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.61
+2016	480889	45 Mackellar Crescent	26/07/2016	-	20/06/2016	$755,000	905m	Full transfer	-	-	-	-	-	$755,000	36	-	Allhomes Record	-	-	-	-	$500,000	0.66
+2016	485878	            2 Bussell Crescent	29/09/2016	-	19/08/2016	$740,000	878m	Full transfer	-	-	-	-	-	$740,000	41	-	Allhomes Record	-	-	-	-	$450,000	0.61
+2016	494028	43 Biffin Street	05/11/2016	19/12/2016	10/10/2016	$735,000	935m	Full transfer	3	1	-	2	2	$735,000	26	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.62
+2016	478393	11 Templeton Street	27/02/2016	17/05/2016	19/01/2016	$727,000	923m	Full transfer	4	1	1	1	-	$727,000	39	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.56
+2016	492698	12 Bussell Crescent	15/12/2016	15/12/2016	23/09/2016	$725,000	1073m	Full transfer	-	-	-	-	-	$725,000	83	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.74
+2016	491324	9 Templeton Street	30/04/2016	24/11/2016	05/04/2016	$722,000	1010m	Full transfer	4	2	-	2	2	$722,000	25	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.57
+2016	486090	43 Lyttleton Crescent	23/06/2016	09/09/2016	02/06/2016	$720,000	909m	Full transfer	3	2	-	0	1	$720,000	21	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.56
+2016	492377	38 Mackellar Crescent	15/12/2016	15/12/2016	23/09/2016	$720,000	870m	Full transfer	-	-	-	-	-	$720,000	83	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.73
+2016	500729	38 Dwyer Street	03/12/2016	15/03/2017	09/11/2016	$693,000	817m	Full transfer	4	2	1	2	-	$693,000	24	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.78
+2016	490434	6 Skene Street	01/12/2016	-	17/10/2016	$690,000	1062m	Full transfer	-	-	-	-	-	$690,000	45	-	Allhomes Record	-	-	-	-	$483,000	0.7
+2016	477218	5 Atkinson Street	15/03/2016	05/05/2016	-	$685,000	806m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490098	15 Henry Street	10/09/2016	11/11/2016	18/08/2016	$675,000	737m	Full transfer	3	1	-	1	0	$675,000	23	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.66
+2016	485307	15 Teague Street	18/06/2016	16/08/2016	24/05/2016	$646,000	404m	Full transfer	3	2	-	2	0	$646,000	25	-	Combined Record	-	-	-	Medium density dwelling	$283,000	0.44
+2016	477840	55 Wybalena Grove	03/06/2016	-	13/05/2016	$640,000	0m	Full transfer	4	2	-	0	0	$640,000	21	-	Allhomes Record	-	-	-	-	$18,279,000	28.56
+2016	482414	39 Atkinson Street	30/04/2016	26/07/2016	05/04/2016	$640,000	694m	Full transfer	3	1	-	1	0	$640,000	25	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.65
+2016	474719	37 Grylls Crescent	30/01/2016	05/04/2016	05/01/2016	$638,000	727m	Full transfer	3	1	-	2	-	$638,000	25	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.65
+2016	483684	1 Bussell Crescent	31/08/2016	-	15/07/2016	$630,000	790m	Full transfer	-	-	-	-	-	$630,000	47	-	Allhomes Record	-	-	-	-	$440,000	0.7
+2016	474715	36 Cambridge Street	05/02/2016	07/04/2016	12/01/2016	$630,000	704m	Full transfer	3	1	-	1	0	$630,000	24	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.66
+2016	491724	19 Mackellar Crescent	02/12/2016	02/12/2016	-	$625,000	1216m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484327	113 Dexter Street	27/06/2016	19/08/2016	-	$610,000	363m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	481217	1 Skinner Street	19/03/2016	14/07/2016	16/02/2016	$601,500	723m	Full transfer	3	1	-	0	1	$601,500	32	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.72
+2016	482339	7 Cross Street	28/05/2016	26/07/2016	03/05/2016	$600,000	585m	Full transfer	3	1	-	1	2	$600,000	25	-	Combined Record	-	-	-	Medium density dwelling	$356,000	0.59
+2016	492851	93 Mackellar Crescent	07/09/2016	16/12/2016	-	$600,000	728m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	469895	142 Dexter Street	16/02/2016	-	17/11/2015	$595,000	6577m	Full transfer	3	2	1	2	-	$595,000	91	-	Allhomes Record	-	-	-	-	$2,315,000	3.89
+2016	475575	            3/138 Dexter Street	16/02/2016	13/04/2016	-	$595,000	6577m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	492304	3 Atkinson Street	20/12/2016	-	15/07/2016	$591,000	823m	Full transfer	-	-	-	-	-	$591,000	158	-	Allhomes Record	-	-	-	-	$390,000	0.66
+2016	477744	13 Mackellar Crescent	09/03/2016	13/05/2016	18/01/2016	$587,500	687m	Full transfer	3	2	-	1	1	$587,500	51	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.74
+2016	482428	69 Lyttleton Crescent	13/05/2016	26/07/2016	05/02/2016	$585,000	869m	Full transfer	3	1	-	-	1	$585,000	98	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.69
+2016	479346	22 Henry Street	17/03/2016	02/06/2016	23/02/2016	$582,000	737m	Full transfer	3	1	-	0	0	$582,000	23	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.77
+2016	516697	            1/72 Dexter Street	29/10/2016	04/08/2017	-	$565,000	7156m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488358	50 Dexter Street	29/10/2016	-	05/10/2016	$565,000	-	Full transfer	3	1	-	2	-	$565,000	24	-	Allhomes Record	116	-	-	-	$2,151,000	3.81
+2016	483402	8 Downing Place	11/06/2016	04/08/2016	18/05/2016	$545,000	452m	Full transfer	3	2	-	1	0	$545,000	24	-	Combined Record	-	-	-	Medium density dwelling	$356,000	0.65
+2016	473516	23 Wybalena Grove	01/04/2016	-	09/03/2016	$530,000	0m	Full transfer	3	1	1	0	0	$530,000	23	-	Allhomes Record	-	-	-	-	$18,279,000	34.49
+2016	478384	            23/1 Wybalena Grove	01/04/2016	17/05/2016	-	$530,000	114795m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486262	30 Cambridge Street	31/03/2016	06/09/2016	22/02/2016	$523,000	856m	Full transfer	3	1	-	-	1	$523,000	38	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.79
+2016	479354	2 Tilden Place	16/04/2016	31/05/2016	30/03/2016	$504,000	543m	Full transfer	2	1	0	0	1	$504,000	17	-	Combined Record	-	-	-	Medium density dwelling	$269,000	0.53
+2016	499033	            5/74 Bourne Street	10/12/2016	02/03/2017	-	$501,500	3688m	Full transfer	-	-	-	-	-	$501,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491054	82 Bourne Street	10/12/2016	-	17/11/2016	$501,500	0m	Full transfer	2	1	-	2	0	$501,500	23	-	Allhomes Record	-	-	-	-	$1,311,000	2.61
+2016	480088	13/16 Sexton Street	30/04/2016	22/06/2016	08/04/2016	$501,000	10197m	Full transfer	2	1	-	1	0	$501,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	478612	13 Wybalena Grove	10/06/2016	-	19/05/2016	$500,000	0m	Full transfer	2	1	-	0	1	$500,000	22	-	Allhomes Record	-	-	-	-	$18,279,000	36.56
+2016	493233	2 Mackellar Crescent	14/09/2016	07/12/2016	-	$500,000	927m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497265	11 Kumm Place	15/12/2016	10/02/2017	24/11/2016	$477,500	373m	Full transfer	3	1	-	1	0	$477,500	21	-	Combined Record	-	-	-	Medium density dwelling	$328,000	0.69
+2016	485932	28/70 Bourne Street	04/06/2016	16/08/2016	12/05/2016	$472,500	16640m	Full transfer	3	1	-	1	0	$472,500	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	476286	78 Dexter Street	21/05/2016	-	28/04/2016	$471,500	0m	Full transfer	2	1	-	1	0	$471,500	23	-	Allhomes Record	-	-	-	-	$3,199,000	6.78
+2016	516237	            2/76 Dexter Street	21/05/2016	11/08/2017	-	$471,500	10560m	Full transfer	-	-	-	-	-	$471,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	485431	98 Dexter Street	27/09/2016	-	04/08/2016	$452,600	0m	Full transfer	2	1	-	1	0	$452,600	54	-	Allhomes Record	-	-	-	-	$3,199,000	7.07
+2016	492867	            14/76 Dexter Street	27/09/2016	16/12/2016	-	$452,600	10560m	Full transfer	-	-	-	-	-	$452,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	473693	86 Dexter Street	04/04/2016	-	04/03/2016	$446,000	530m	Full transfer	2	1	-	1	0	$446,000	31	-	Allhomes Record	-	-	-	-	$3,199,000	7.17
+2016	478871	            10/76 Dexter Street	04/04/2016	26/05/2016	-	$446,000	10560m	Full transfer	-	-	-	-	-	$446,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488998	20/16 Sexton Street	23/08/2016	26/10/2016	15/06/2016	$435,000	10197m	Full transfer	2	1	-	1	0	$435,000	69	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	467660	51 Biffin Street	22/01/2016	-	11/01/2016	$425,000	-	Full transfer	2	1	-	-	1	$425,000	11	-	Allhomes Record	-	-	-	-	$1,335,000	3.14
+2016	476816	            4/45 Biffin Street	22/01/2016	27/04/2016	-	$425,000	4473m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476809	22/2 Sexton Street	28/01/2016	29/04/2016	06/01/2016	$425,000	9762m	Full transfer	2	1	1	1	-	$425,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	474717	10 Vallance Place	03/02/2016	07/04/2016	14/01/2016	$420,000	296m	Full transfer	2	1	-	1	0	$420,000	20	-	Combined Record	-	-	-	Medium density dwelling	$283,000	0.67
+2016	500683	            11/26 Dexter Street	22/12/2016	19/03/2017	-	$395,000	4346m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	492052	30 Dexter Street	22/12/2016	-	28/07/2016	$395,000	0m	Full transfer	2	1	-	1	0	$395,000	147	-	Allhomes Record	-	-	-	-	$1,982,000	5.02
+2016	488761	2 Dexter Street	10/11/2016	-	02/09/2016	$375,000	4592m	Full transfer	2	1	-	0	1	$375,000	69	-	Allhomes Record	-	-	-	-	$1,982,000	5.29
+2016	495133	1/2 Dexter Street	10/11/2016	11/01/2017	-	$375,000	4593m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483127	3 Kumm Place	07/01/2016	09/08/2016	-	$350,000	398m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	492425	17 Biffin Street	03/08/2016	16/12/2016	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	512995	107 Dexter Street	06/06/2016	22/05/2017	-	$0	365m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	516634	            20/76 Dexter Street	03/05/2016	11/08/2017	-	$0	10560m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495210	33 Cambridge Street	19/07/2016	18/01/2017	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476811	            23/1 Wybalena Grove	09/01/2016	28/04/2016	-	$0	114795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495499	38 Dwyer Street	27/08/2016	03/02/2017	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481063	40 Henry Street	14/04/2016	05/07/2016	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	540321	60 Henry Street	15/08/2016	22/08/2018	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479345	93 Mackellar Crescent	22/03/2016	31/05/2016	-	$0	728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	523650	43 Henry Street	16/11/2016	15/01/2018	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475576	44 Redfern Street	08/02/2016	12/04/2016	13/01/2016	$0	784m	Full transfer	3	1	-	-	1	$0	26	-	Combined Record	-	-	-	Single residential dwelling	$388,000	5.29
+2016	477736	28 Cook Place	25/02/2016	13/05/2016	-	$0	479m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2016	495637	95 Mackellar Crescent	11/10/2016	01/02/2017	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503130	4 Mackellar Crescent	26/09/2016	03/04/2017	-	$0	940m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502813	22 Skinner Street	26/07/2016	12/04/2017	-	$0	709m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497845	14 Dwyer Street	01/08/2016	22/02/2017	-	$0	708m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526320	7 Aston Crescent	09/12/2017	01/03/2018	16/11/2017	$985,000	690m	Full transfer	5	2	-	2	0	$985,000	23	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.44
+2017	563115	61 Skinner Street	22/12/2017	18/06/2019	-	$975,000	895m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503155	34 Templeton Street	18/02/2017	06/04/2017	23/01/2017	$911,000	813m	Full transfer	10	4	-	2	4	$911,000	26	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.47
+2017	520358	67 Lyttleton Crescent	17/08/2017	01/11/2017	27/07/2017	$856,000	958m	Full transfer	4	2	-	0	2	$856,000	21	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.5
+2017	502318	46 Cambridge Street	18/02/2017	20/04/2017	24/01/2017	$850,000	819m	Full transfer	4	2	-	2	-	$850,000	25	-	Combined Record	190	-	-	Single residential dwelling	$424,000	0.5
+2017	515754	23 Atkinson Street	13/05/2017	28/07/2017	20/04/2017	$834,000	748m	Full transfer	5	2	-	2	0	$834,000	23	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.53
+2017	528607	22 Grylls Crescent	17/11/2017	19/03/2018	08/11/2017	$795,000	811m	Full transfer	3	1	-	1	0	$795,000	9	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.55
+2017	515891	88 Lyttleton Crescent	29/04/2017	26/07/2017	30/03/2017	$795,000	974m	Full transfer	4	1	-	0	2	$795,000	30	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.56
+2017	513275	4 Mackellar Crescent	29/04/2017	07/06/2017	06/04/2017	$793,000	940m	Full transfer	3	2	-	6	-	$793,000	23	-	Combined Record	160	-	-	Single residential dwelling	$498,000	0.63
+2017	509485	20 Clisby Close	13/11/2017	-	19/10/2017	$785,000	0m	Full transfer	4	2	-	0	2	$785,000	25	-	Allhomes Record	-	-	-	-	$499,000	0.64
+2017	502908	7 Biffin Street	25/02/2017	12/04/2017	02/02/2017	$747,500	694m	Full transfer	4	1	-	2	0	$747,500	23	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.57
+2017	522430	6 Molloy Crescent	06/09/2017	14/12/2017	-	$720,000	864m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515635	22 Atkinson Street	06/05/2017	18/07/2017	04/04/2017	$720,000	976m	Full transfer	3	1	-	0	0	$720,000	32	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.75
+2017	516153	70 Lyttleton Crescent	10/05/2017	24/07/2017	04/05/2017	$692,000	738m	Full transfer	3	1	-	2	0	$692,000	6	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.61
+2017	522260	109 Dexter Street	30/09/2017	14/12/2017	07/09/2017	$692,000	364m	Full transfer	3	1	-	1	0	$692,000	23	-	Combined Record	-	-	-	Medium density dwelling	$344,000	0.5
+2017	498922	6 Skene Street	01/03/2017	01/03/2017	-	$690,000	1068m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516860	22 Cambridge Street	03/06/2017	02/08/2017	11/05/2017	$685,000	763m	Full transfer	3	1	-	1	0	$685,000	23	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.64
+2017	510554	25 Dugdale Street	12/12/2017	-	16/11/2017	$685,000	0m	Full transfer	4	2	-	2	0	$685,000	26	-	Allhomes Record	-	-	-	-	$6,802,000	9.93
+2017	529044	            20/28 Bourne Street	12/12/2017	26/03/2018	-	$685,000	27008m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512198	17 Biffin Street	18/03/2017	19/05/2017	23/02/2017	$653,000	748m	Full transfer	3	1	-	0	2	$653,000	23	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.65
+2017	517208	22 Skinner Street	15/06/2017	16/08/2017	25/05/2017	$650,000	709m	Full transfer	4	2	-	0	0	$650,000	21	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.77
+2017	502632	3 Ellis Street	08/03/2017	13/04/2017	15/02/2017	$650,000	756m	Full transfer	3	2	-	1	0	$650,000	21	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.65
+2017	501924	3 Teague Street	22/04/2017	-	10/03/2017	$636,000	523m	Full transfer	3	1	1	-	1	$636,000	43	-	Allhomes Record	-	-	-	-	$908,000	1.43
+2017	517069	            5/178 Dexter Street	22/04/2017	01/08/2017	-	$636,000	2726m	Full transfer	-	-	-	-	-	$636,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519047	70 Templeton Street	17/05/2017	04/10/2017	-	$625,000	372m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	524267	            9/138 Dexter Street	11/11/2017	23/01/2018	-	$612,000	6577m	Full transfer	-	-	-	-	-	$612,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509473	36 Teague Street	11/11/2017	-	18/10/2017	$612,000	0m	Full transfer	3	2	-	2	0	$612,000	24	-	Allhomes Record	-	-	-	-	$2,315,000	3.78
+2017	513384	11 Tilden Place	05/04/2017	01/06/2017	-	$580,000	362m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	522201	21 Ellis Street	29/07/2017	14/12/2017	06/07/2017	$575,000	654m	Full transfer	3	1	-	2	1	$575,000	23	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.74
+2017	523744	3 Tipper Place	26/10/2017	15/01/2018	05/10/2017	$565,000	446m	Full transfer	2	1	0	0	1	$565,000	21	-	Combined Record	-	-	-	Medium density dwelling	$374,000	0.66
+2017	502862	            37/1 Wybalena Grove	24/02/2017	10/04/2017	-	$560,000	114795m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518135	14 Kumm Place	27/05/2017	28/08/2017	03/05/2017	$555,000	320m	Full transfer	3	1	-	1	1	$555,000	24	-	Combined Record	-	-	-	Medium density dwelling	$374,000	0.67
+2017	512289	1/2 Sexton Street	04/03/2017	15/05/2017	09/02/2017	$546,000	9762m	Full transfer	3	2	-	1	0	$546,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	500810	23/16 Sexton Street	28/01/2017	15/03/2017	03/01/2017	$532,000	10197m	Full transfer	2	1	0	1	0	$532,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	527641	            6/57 Biffin Street	30/11/2017	13/03/2018	-	$511,000	4634m	Full transfer	-	-	-	-	-	$511,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510146	6 Lyttleton Crescent	30/11/2017	-	09/11/2017	$511,000	0m	Full transfer	2	1	-	0	1	$511,000	21	-	Allhomes Record	-	-	-	-	$1,335,000	2.61
+2017	523819	14/3 Sexton Street	21/10/2017	16/01/2018	03/10/2017	$510,000	12004m	Full transfer	2	1	-	1	-	$510,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	506518	            10/3 Sexton Str	19/07/2017	-	02/06/2017	$500,000	0m	Full transfer	2	1	-	1	0	$500,000	47	-	Allhomes Record	-	-	-	-	-	-
+2017	524276	            6/26 Dexter Street	24/10/2017	23/01/2018	-	$485,000	4346m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	508826	40 Dexter Street	24/10/2017	-	11/10/2017	$485,000	0m	Full transfer	3	1	-	1	0	$485,000	13	-	Allhomes Record	-	-	-	-	$1,982,000	4.09
+2017	516677	10/3 Sexton Street	30/06/2017	08/08/2017	-	$485,000	12004m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506842	100 Bourne Street	05/08/2017	-	13/07/2017	$477,000	393m	Full transfer	2	1	-	0	2	$477,000	23	-	Allhomes Record	-	-	-	-	$1,311,000	2.75
+2017	519109	            7/88 Bourne Street	05/08/2017	13/10/2017	-	$477,000	3373m	Full transfer	-	-	-	-	-	$477,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516181	            20/76 Dexter Street	20/05/2017	26/07/2017	-	$471,000	10560m	Full transfer	-	-	-	-	-	$471,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504214	88 Dexter Street	20/05/2017	-	28/04/2017	$471,000	0m	Full transfer	3	1	-	1	0	$471,000	22	-	Allhomes Record	-	-	-	-	$3,199,000	6.79
+2017	509844	36 Dexter Street	22/11/2017	-	03/10/2017	$470,950	0m	Full transfer	2	1	-	1	0	$470,950	50	-	Allhomes Record	-	-	-	-	$1,982,000	4.21
+2017	524479	            4/26 Dexter Street	22/11/2017	01/02/2018	-	$470,950	4346m	Full transfer	-	-	-	-	-	$470,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514937	            6/26 Dexter Street	06/04/2017	03/07/2017	-	$465,000	4346m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500353	40 Dexter Street	06/04/2017	-	15/03/2017	$465,000	0m	Full transfer	3	1	-	1	0	$465,000	22	-	Allhomes Record	-	-	-	-	$1,982,000	4.26
+2017	510814	16 Dexter Street	21/12/2017	-	15/11/2017	$448,000	0m	Full transfer	2	1	-	1	0	$448,000	36	-	Allhomes Record	-	-	-	-	$1,982,000	4.42
+2017	521443	190 Dexter Street	22/09/2017	19/12/2017	-	$420,000	426m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	527592	44 Mackellar Crescent	07/09/2017	13/03/2018	-	$0	818m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530151	35 Mackellar Crescent	11/11/2017	13/04/2018	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516037	1 Aston Crescent	02/06/2017	26/07/2017	-	$0	783m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	519620	43 Cambridge Street	23/08/2017	10/10/2017	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	558544	24/16 Sexton Street	17/12/2017	02/05/2019	-	$0	10197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	513695	26 Redfern Street	02/03/2017	31/05/2017	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501715	31 Grylls Crescent	06/02/2017	20/03/2017	-	$0	713m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	543944	54 Skinner Street	06/08/2017	12/10/2018	-	$0	1697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	562677	19/16 Sexton Street	17/12/2017	13/06/2019	-	$0	10197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520851	            37/28 Bourne Street	20/10/2017	23/11/2017	-	$0	27008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522246	            5/122 Dexter Street	01/09/2017	11/12/2017	-	$0	5078m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521757	5 Vickery Street	07/10/2017	20/12/2017	15/09/2017	$0	817m	Full transfer	3	1	-	0	0	$0	22	-	Combined Record	-	-	-	Single residential dwelling...	$457,000	4.42
+2017	569204	            15/41 Dugdale Street	19/05/2017	13/09/2019	-	$0	8460m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	553012	            19/1 Wybalena Grove	16/09/2017	06/02/2019	-	$0	114795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524485	16 Templeton Street	29/12/2017	02/02/2018	-	$0	884m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520023	79 Dexter Street	23/08/2017	27/10/2017	-	$0	380m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	529485	8/2 Sexton Street	01/09/2017	05/04/2018	-	$0	9762m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535003	14 Moss Street	10/02/2018	17/06/2018	17/01/2018	$1,320,000	981m	Full transfer	4	2	-	0	2	$1,320,000	24	-	Combined Record	-	-	-	Single residential dwelling	$598,000	0.45
+2018	525558	67 Skinner Street	03/03/2018	-	06/02/2018	$1,310,000	-	Full transfer	4	2	-	2	-	$1,310,000	25	-	Allhomes Record	257	-	-	-	$585,000	0.45
+2018	541221	69 Mackellar Crescent	09/06/2018	06/09/2018	18/05/2018	$1,150,000	1138m	Full transfer	6	3	-	2	0	$1,150,000	22	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.57
+2018	552978	18 Mackellar Crescent	15/12/2018	05/02/2019	26/11/2018	$1,005,000	702m	Full transfer	4	2	-	0	1	$1,005,000	19	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.52
+2018	546733	46 Henry Street	03/11/2018	02/01/2019	11/10/2018	$940,000	927m	Full transfer	4	3	-	2	0	$940,000	23	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.55
+2018	534143	67 Mackellar Crescent	01/06/2018	01/06/2018	-	$905,000	1281m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527852	67 Mackellar Crescent	05/04/2018	-	26/02/2018	$905,000	-	Full transfer	-	-	-	-	-	$905,000	38	-	Allhomes Record	-	-	-	-	$619,000	0.68
+2018	535623	15 Mackellar Crescent	05/05/2018	24/06/2018	12/04/2018	$900,000	1005m	Full transfer	3	1	-	0	2	$900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.58
+2018	540883	66 Henry Street	21/05/2018	27/08/2018	-	$870,000	825m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550718	11 Moss Street	04/12/2018	08/01/2019	25/10/2018	$860,000	768m	Full transfer	5	2	-	2	0	$860,000	40	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.6
+2018	546728	8 Dwyer Street	20/10/2018	02/01/2019	27/09/2018	$855,000	705m	Full transfer	4	2	-	1	1	$855,000	23	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.61
+2018	552913	            15/1 Wybalena Grove	26/10/2018	04/02/2019	-	$850,000	114795m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535988	            1/26 Henry Street	03/04/2018	18/06/2018	-	$845,000	1080m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527824	            2 Skene Street	03/04/2018	-	07/02/2018	$845,000	0m	Full transfer	3	2	-	2	0	$845,000	55	-	Allhomes Record	-	-	-	-	-	-
+2018	540353	76 Lyttleton Crescent	23/06/2018	26/08/2018	07/06/2018	$840,000	775m	Full transfer	3	2	-	2	0	$840,000	16	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.55
+2018	549514	86 Lyttleton Crescent	17/05/2018	01/11/2018	-	$840,000	760m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535867	25 Henry Street	24/04/2018	20/06/2018	01/03/2018	$837,000	792m	Full transfer	3	2	-	1	1	$837,000	54	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.59
+2018	549305	18 Atkinson Street	10/11/2018	18/01/2019	17/10/2018	$822,000	976m	Full transfer	4	1	-	2	-	$822,000	24	-	Combined Record	120	-	-	Single residential dwelling	$562,000	0.68
+2018	540329	3 Aston Crescent	05/07/2018	23/08/2018	-	$791,000	723m	Full transfer	-	-	-	-	-	$791,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545811	35A Molloy Crescent	14/12/2018	-	22/10/2018	$785,000	-	Full transfer	3	1	1	1	0	$785,000	53	-	Allhomes Record	-	-	-	-	$597,000	0.76
+2018	543354	60 Henry Street	23/07/2018	02/10/2018	-	$785,000	714m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551972	            1/35 Molloy Crescent	14/12/2018	29/01/2019	-	$785,000	915m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535825	46 Atkinson Street	14/04/2018	24/06/2018	22/03/2018	$776,000	729m	Full transfer	3	1	-	1	0	$776,000	23	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.61
+2018	555929	27 Atkinson Street	10/12/2018	20/03/2019	18/10/2018	$770,000	673m	Full transfer	3	1	-	1	0	$770,000	53	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.59
+2018	536253	27 Skinner Street	07/04/2018	27/06/2018	15/03/2018	$767,000	737m	Full transfer	3	1	-	0	1	$767,000	23	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.68
+2018	541747	103 Dexter Street	16/06/2018	10/09/2018	15/05/2018	$765,000	366m	Full transfer	3	2	-	2	0	$765,000	32	-	Combined Record	-	-	-	Medium density dwelling	$310,000	0.41
+2018	551877	79 Mackellar Crescent	15/12/2018	31/01/2019	22/11/2018	$765,000	974m	Full transfer	4	2	-	2	0	$765,000	23	-	Combined Record	-	-	-	Single residential dwelling	$638,000	0.83
+2018	542911	8 Biffin Street	27/07/2018	24/09/2018	-	$760,000	724m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539521	25 Teague Street	29/05/2018	07/08/2018	01/02/2018	$760,000	519m	Full transfer	4	2	-	1	0	$760,000	117	-	Combined Record	-	-	-	Medium density dwelling	$310,000	0.41
+2018	545414	5 Skinner Street	29/11/2018	-	07/11/2018	$750,000	0m	Full transfer	3	2	-	0	1	$750,000	22	-	Allhomes Record	-	-	-	-	$477,000	0.64
+2018	538207	60 Lyttleton Crescent	19/05/2018	18/07/2018	26/04/2018	$730,000	895m	Full transfer	3	1	-	1	0	$730,000	23	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.63
+2018	545532	23 Dugdale Street	01/12/2018	-	09/11/2018	$722,000	0m	Full transfer	4	2	-	2	0	$722,000	22	-	Allhomes Record	-	-	-	-	$6,802,000	9.42
+2018	532178	25 Dwyer Street	15/03/2018	13/05/2018	29/01/2018	$716,000	791m	Full transfer	3	2	-	-	2	$716,000	45	-	Combined Record	-	-	-	Single residential dwelling	$585,000	0.82
+2018	548270	26 Redfern Street	26/09/2018	08/11/2018	22/08/2018	$715,000	815m	Full transfer	3	1	-	1	1	$715,000	35	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.6
+2018	548165	            68/1 Wybalena Grove	15/10/2018	06/11/2018	-	$700,000	114795m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542004	19 Dugdale Street	29/09/2018	-	06/09/2018	$696,000	27008m	Full transfer	4	2	-	2	0	$696,000	23	-	Allhomes Record	-	-	-	-	$6,802,000	9.77
+2018	549045	            23/28 Bourne Street	29/09/2018	19/12/2018	-	$696,000	27008m	Full transfer	-	-	-	-	-	$696,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544880	12 Wybalena Grove	10/11/2018	-	17/10/2018	$670,000	0m	Full transfer	3	1	-	0	2	$670,000	24	-	Allhomes Record	-	-	-	-	$18,279,000	27.28
+2018	556136	            12/1 Wybalena Grove	10/11/2018	29/03/2019	-	$670,000	114795m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534951	43 Henry Street	24/03/2018	12/06/2018	01/03/2018	$666,000	737m	Full transfer	3	1	-	2	0	$666,000	23	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.74
+2018	526071	15 Teague Street	09/02/2018	12/02/2018	-	$650,000	404m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	543184	            37/28 Bourne Street	28/07/2018	03/10/2018	-	$647,000	27008m	Full transfer	-	-	-	-	-	$647,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537898	8 Bourne Street	28/07/2018	-	05/07/2018	$647,000	21008m	Full transfer	3	2	-	2	0	$647,000	23	-	Allhomes Record	-	-	-	-	$6,802,000	10.51
+2018	527387	4 Vickery Street	23/03/2018	-	27/02/2018	$616,000	-	Full transfer	3	1	-	-	-	$616,000	24	-	Allhomes Record	94	-	-	-	$468,000	0.76
+2018	537184	3 Lyttleton Crescent	02/07/2018	02/07/2018	-	$610,000	856m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541437	3 Lyttleton Crescent	03/05/2018	04/09/2018	26/02/2018	$610,000	856m	Full transfer	-	-	-	-	-	$610,000	66	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.67
+2018	546936	            65/1 Wybalena Grove	21/09/2018	29/11/2018	-	$600,000	114795m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541521	65 Wybalena Grove	22/09/2018	-	28/08/2018	$600,000	-	Full transfer	2	1	-	-	1	$600,000	25	-	Allhomes Record	-	-	-	-	$18,279,000	30.47
+2018	552523	72 Redfern Street	19/12/2018	-	28/11/2018	$585,000	559m	Full transfer	3	1	-	1	0	$585,000	21	-	Allhomes Record	-	-	-	-	$1,335,000	2.28
+2018	560803	            8/45 Biffin Street	19/12/2018	18/02/2019	-	$585,000	4473m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	529744	198 Dexter Street	27/02/2018	08/04/2018	-	$580,000	446m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	532688	8/2 Sexton Street	21/03/2018	16/05/2018	01/03/2018	$545,000	9762m	Full transfer	3	2	-	1	0	$545,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	552278	8 Cook Place	07/12/2018	21/01/2019	-	$540,000	334m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2018	553411	12/70 Bourne Street	23/11/2018	14/02/2019	01/11/2018	$540,000	16640m	Full transfer	2	1	-	1	0	$540,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534903	81 Dexter Street	18/04/2018	12/06/2018	-	$505,000	502m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	540379	1/30 Lyttleton Crescent	17/03/2018	23/08/2018	21/02/2018	$491,000	1572m	Full transfer	3	2	-	2	0	$491,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	539748	41 Dugdale Street	24/08/2018	-	23/07/2018	$450,000	-	Full transfer	2	1	-	1	-	$450,000	32	-	Allhomes Record	68	-	-	-	$2,745,000	6.1
+2018	544238	9/41 Dugdale Street	24/08/2018	19/10/2018	-	$450,000	8460m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550038	            6/41 Dugdale Street	30/10/2018	10/12/2018	-	$438,000	8460m	Full transfer	-	-	-	-	-	$438,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552269	            3/26 Dexter Street	27/10/2018	21/01/2019	-	$400,000	4346m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544173	34 Dexter Street	29/10/2018	-	04/10/2018	$400,000	0m	Full transfer	2	1	-	1	0	$400,000	25	-	Allhomes Record	-	-	-	-	$1,982,000	4.96
+2018	565603	3/3 Sexton Street	08/12/2018	24/07/2019	-	$0	12004m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540661	            3/26 Dexter Street	13/04/2018	20/08/2018	-	$0	4346m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552807	1/10 Molloy Crescent	28/04/2018	08/02/2019	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548204	77 Mackellar Crescent	01/09/2018	08/11/2018	-	$0	883m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540304	            2/45 Biffin Street	31/05/2018	20/08/2018	-	$0	4473m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	564549	39 Grylls Crescent	07/01/2018	15/07/2019	-	$0	726m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	570335	12 Clisby Close	24/04/2018	23/09/2019	-	$0	1826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	559100	23 Molloy Crescent	28/11/2018	13/05/2019	-	$0	1289m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554590	5 Skinner Street	30/11/2018	05/03/2019	-	$0	715m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558408	19 Biffin Street	07/07/2018	03/05/2019	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	565709	4/3 Sexton Street	08/12/2018	24/07/2019	-	$0	12004m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	555255	            21/28 Bourne Street	01/12/2018	13/03/2019	-	$0	27008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539574	2/30 Lyttleton Crescent	26/05/2018	06/08/2018	02/05/2018	$0	1572m	Full transfer	3	2	-	2	0	$0	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	530797	60 Lyttleton Crescent	21/02/2018	18/04/2018	-	$0	895m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538972	            19/154 Dexter Street	08/04/2018	02/08/2018	-	$0	9119m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574811	12 Booth Crescent	21/09/2019	11/11/2019	29/08/2019	$1,492,000	1520m	Full transfer	5	3	-	2	2	$1,492,000	23	-	Combined Record	-	-	-	Single residential dwelling	$790,000	0.53
+2019	561212	16 Booth Crescent	26/04/2019	30/05/2019	10/04/2019	$1,130,000	1056m	Full transfer	5	3	-	2	0	$1,130,000	16	-	Combined Record	-	-	-	Single residential dwelling	$757,000	0.67
+2019	572300	9 Booth Crescent	05/08/2019	14/10/2019	-	$1,030,000	913m	Full transfer	-	-	-	-	-	$1,030,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564053	9 Grylls Crescent	18/05/2019	01/07/2019	26/04/2019	$1,020,000	734m	Full transfer	4	2	-	2	2	$1,020,000	22	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.45
+2019	569799	            2 Bussell Crescent	03/10/2019	-	18/09/2019	$1,017,500	387m	Full transfer	4	2	-	2	-	$1,017,500	15	-	Allhomes Record	-	-	-	-	-	-
+2019	570203	21 Henry Street	12/10/2019	-	18/09/2019	$1,000,000	0m	Full transfer	4	3	-	2	0	$1,000,000	24	-	Allhomes Record	-	-	-	-	$514,000	0.51
+2019	574266	28 Moss Street	23/09/2019	11/11/2019	-	$970,000	1087m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558260	12 Atkinson Street	20/03/2019	02/05/2019	11/02/2019	$920,000	1098m	Full transfer	4	2	-	0	1	$920,000	37	-	Combined Record	-	-	-	Single residential dwelling	$566,000	0.62
+2019	557678	72 Skinner Street	23/02/2019	24/04/2019	31/01/2019	$918,000	1483m	Full transfer	4	2	-	2	0	$918,000	23	-	Combined Record	-	-	-	Single residential dwelling	$679,000	0.74
+2019	567620	            53/1 Wybalena Grove	30/05/2019	23/08/2019	-	$915,000	114795m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562037	53 Wybalena Grove	21/06/2019	-	06/05/2019	$915,000	-	Full transfer	5	2	-	-	2	$915,000	46	-	Allhomes Record	-	-	-	-	$18,279,000	19.98
+2019	559884	47 Cambridge Street	13/05/2019	24/05/2019	-	$900,000	906m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556049	40 Mackellar Crescent	18/01/2019	29/03/2019	25/10/2018	$872,000	786m	Full transfer	4	2	-	0	2	$872,000	85	-	Combined Record	-	-	-	Single residential dwelling	$567,000	0.65
+2019	575998	3 Henry Street	21/09/2019	06/12/2019	29/08/2019	$862,500	821m	Full transfer	4	2	-	0	2	$862,500	23	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.58
+2019	569728	33 Wybalena Grove	03/10/2019	-	12/09/2019	$860,000	0m	Full transfer	4	2	-	0	2	$860,000	21	-	Allhomes Record	-	-	-	-	$18,279,000	21.25
+2019	572009	73 Mackellar Crescent	10/08/2019	11/10/2019	18/07/2019	$860,000	917m	Full transfer	4	2	-	2	0	$860,000	23	-	Combined Record	-	-	-	Single residential dwelling	$638,000	0.74
+2019	576644	            33/1 Wybalena Grove	03/10/2019	10/12/2019	-	$860,000	114795m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576818	88 Lyttleton Crescent	07/11/2019	11/12/2019	17/10/2019	$850,000	974m	Full transfer	4	1	-	0	2	$850,000	21	-	Combined Record	-	-	-	Single residential dwelling	$489,000	0.58
+2019	576503	4 Moss Street	09/11/2019	13/12/2019	16/10/2019	$830,000	702m	Full transfer	3	2	-	1	0	$830,000	24	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.65
+2019	560237	19 Henry Street	04/04/2019	08/05/2019	07/02/2019	$825,000	737m	Full transfer	4	2	-	0	0	$825,000	56	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.6
+2019	573987	37 Dwyer Street	30/11/2019	-	06/11/2019	$820,000	0m	Full transfer	3	1	-	2	0	$820,000	24	-	Allhomes Record	-	-	-	-	$587,000	0.72
+2019	564887	30 Mackellar Crescent	30/05/2019	11/07/2019	-	$810,000	702m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573300	            95/1 Wybalena Grove	26/09/2019	29/10/2019	-	$800,000	114795m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556647	21 Atkinson Street	23/02/2019	03/04/2019	30/01/2019	$792,500	748m	Full transfer	3	1	-	0	1	$792,500	24	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.58
+2019	566119	58 Redfern Street	01/07/2019	31/07/2019	23/05/2019	$787,500	1083m	Full transfer	4	1	-	1	0	$787,500	39	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.56
+2019	558347	13 Grylls Crescent	22/02/2019	30/04/2019	07/02/2019	$785,000	735m	Full transfer	3	1	-	2	-	$785,000	15	-	Combined Record	115	-	-	Single residential dwelling	$456,000	0.58
+2019	563507	21 Ellis Street	08/05/2019	25/06/2019	28/02/2019	$760,500	654m	Full transfer	3	2	-	2	0	$760,500	69	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.58
+2019	556667	            19/1 Wybalena Grove	20/02/2019	05/04/2019	-	$760,000	114795m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558698	31 Biffin Street	27/03/2019	06/05/2019	16/01/2019	$760,000	724m	Full transfer	4	1	-	2	0	$760,000	70	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.63
+2019	572047	62 Lyttleton Crescent	22/08/2019	09/10/2019	01/08/2019	$757,000	904m	Full transfer	3	1	-	4	0	$757,000	21	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.61
+2019	573464	88 Mackellar Crescent	23/11/2019	-	31/10/2019	$755,000	0m	Full transfer	3	1	-	1	0	$755,000	23	-	Allhomes Record	-	-	-	-	$543,000	0.72
+2019	573589	            4/178 Dexter Street	22/08/2019	08/11/2019	-	$750,000	2726m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566798	5 Teague Street	22/08/2019	-	01/08/2019	$750,000	0m	Full transfer	3	2	-	0	1	$750,000	21	-	Allhomes Record	-	-	-	-	$908,000	1.21
+2019	573764	8 Dugdale Street	07/09/2019	04/11/2019	15/08/2019	$745,000	466m	Full transfer	3	1	-	1	0	$745,000	23	-	Combined Record	-	-	-	Medium density dwelling	$359,000	0.48
+2019	575314	58 Dwyer Street	21/09/2019	26/11/2019	29/08/2019	$730,000	729m	Full transfer	4	1	-	1	0	$730,000	23	-	Combined Record	-	-	-	Single residential dwelling	$519,000	0.71
+2019	561722	8 Vallance Place	16/03/2019	02/05/2019	21/02/2019	$730,000	529m	Full transfer	3	2	-	2	0	$730,000	23	-	Combined Record	-	-	-	Medium density dwelling	$359,000	0.49
+2019	575633	4 Vickery Street	19/10/2019	06/12/2019	26/09/2019	$715,000	687m	Full transfer	3	1	-	0	0	$715,000	23	-	Combined Record	-	-	-	Single residential dwelling	$489,000	0.68
+2019	575850	50 Lyttleton Crescent	24/10/2019	06/12/2019	10/10/2019	$710,000	824m	Full transfer	3	1	-	1	0	$710,000	14	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.67
+2019	558197	19 Biffin Street	02/03/2019	03/05/2019	07/02/2019	$697,500	748m	Full transfer	3	2	-	1	0	$697,500	23	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.63
+2019	567834	10 Aston Crescent	29/06/2019	22/08/2019	06/06/2019	$695,000	749m	Full transfer	3	1	-	1	0	$695,000	23	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.65
+2019	572157	            4/28 Bourne Street	31/08/2019	14/10/2019	-	$685,000	27008m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567034	22 Bourne Street	02/09/2019	-	22/08/2019	$685,000	0m	Full transfer	3	2	-	2	0	$685,000	11	-	Allhomes Record	-	-	-	-	$6,802,000	9.93
+2019	564764	15 Skinner Street	07/05/2019	09/07/2019	07/03/2019	$679,800	892m	Full transfer	4	2	-	2	1	$679,800	61	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.73
+2019	572728	14 Biffin Street	27/08/2019	21/10/2019	16/05/2019	$660,000	745m	Full transfer	4	1	-	0	2	$660,000	103	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.67
+2019	559546	18 Dugdale Street	25/03/2019	13/05/2019	16/01/2019	$633,000	431m	Full transfer	3	2	-	1	0	$633,000	68	-	Combined Record	-	-	-	Medium density dwelling	$359,000	0.57
+2019	577077	            52/1 Wybalena Grove	18/09/2019	20/12/2019	-	$620,000	114795m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559164	            15/28 Bourne Street	12/04/2019	13/05/2019	-	$620,000	27008m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556598	54 Bourne Street	12/04/2019	-	04/03/2019	$620,000	0m	Full transfer	3	2	-	0	2	$620,000	39	-	Allhomes Record	-	-	-	-	$6,802,000	10.97
+2019	563420	            13/154 Dexter Street	09/05/2019	27/06/2019	-	$615,000	9119m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558058	10 Teague Street	09/05/2019	-	31/01/2019	$615,000	0m	Full transfer	3	1	-	1	1	$615,000	98	-	Allhomes Record	-	-	-	-	$3,297,000	5.36
+2019	567724	            2/72 Dexter Street	09/07/2019	20/08/2019	-	$600,000	7156m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576917	11 Dugdale Street	20/12/2019	-	01/11/2019	$600,000	0m	Full transfer	3	1	-	0	0	$600,000	49	-	Allhomes Record	-	-	-	-	$6,802,000	11.34
+2019	563603	2/52 Dexter Street	09/07/2019	-	20/06/2019	$600,000	-	Full transfer	3	1	-	2	-	$600,000	19	-	Allhomes Record	117	-	-	-	$2,151,000	3.59
+2019	563397	22 Kumm Place	26/04/2019	28/06/2019	07/03/2019	$590,000	524m	Full transfer	3	1	-	1	0	$590,000	50	-	Combined Record	-	-	-	Medium density dwelling	$391,000	0.66
+2019	557338	24 Kumm Place	11/02/2019	09/04/2019	-	$540,000	411m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	567669	            19/154 Dexter Street	20/06/2019	20/08/2019	-	$540,000	9119m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575525	7/70 Bourne Street	14/12/2019	-	21/11/2019	$535,000	0m	Full transfer	2	1	-	1	0	$535,000	23	-	Allhomes Record	-	-	-	-	-	-
+2019	573976	3/3 Sexton Street	30/11/2019	-	31/10/2019	$530,000	0m	Full transfer	2	1	-	1	0	$530,000	30	-	Allhomes Record	-	-	-	-	-	-
+2019	574165	4 Morphy Place	07/12/2019	-	14/11/2019	$529,000	0m	Full transfer	2	1	-	1	0	$529,000	23	-	Allhomes Record	-	-	-	-	$335,000	0.63
+2019	576064	4/3 Sexton Street	26/10/2019	07/12/2019	26/09/2019	$505,000	12004m	Full transfer	2	1	-	1	0	$505,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	558834	7/16 Sexton Street	25/03/2019	10/05/2019	-	$482,700	10197m	Full transfer	-	-	-	-	-	$482,700	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566454	69 Dugdale Street	19/08/2019	-	13/06/2019	$465,000	0m	Full transfer	2	1	-	1	0	$465,000	67	-	Allhomes Record	-	-	-	-	$2,745,000	5.9
+2019	571991	            8/41 Dugdale Street	19/08/2019	11/10/2019	-	$465,000	8460m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556210	            7/41 Dugdale Street	25/02/2019	27/03/2019	-	$460,000	8460m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567553	            3/57 Biffin Street	01/08/2019	22/08/2019	-	$445,000	4634m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562468	19/16 Sexton Street	30/04/2019	13/06/2019	14/03/2019	$435,000	10197m	Full transfer	2	1	-	1	0	$435,000	47	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	558422	24/16 Sexton Street	02/02/2019	02/05/2019	10/01/2019	$430,000	10197m	Full transfer	2	1	-	1	0	$430,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	576483	1/36 Templeton Street	29/10/2019	09/12/2019	11/02/2019	$410,000	732m	Full transfer	3	1	-	0	1	$410,000	260	-	Combined Record	-	-	-	Multiple unit dwelling	$567,000	1.38
+2019	565463	1/122 Dexter Street	29/05/2019	25/07/2019	-	$330,000	5078m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564242	6 Oakes Street	18/06/2019	01/07/2019	-	$220,000	862m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567224	99 Dexter Street	24/04/2019	14/08/2019	-	$0	368m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	571924	4 Morphy Place	08/06/2019	11/10/2019	-	$0	293m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	575881	            27/28 Bourne Street	18/01/2019	07/12/2019	-	$0	27008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570457	12 Clisby Close	23/09/2019	23/09/2019	-	$0	1826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576567	24 Booth Crescent	04/08/2019	11/12/2019	-	$0	1259m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569336	58 Dwyer Street	22/04/2019	09/09/2019	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575412	56 Redfern Street	04/10/2019	28/11/2019	-	$0	1354m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565063	            52/1 Wybalena Grove	09/05/2019	12/07/2019	-	$0	114795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
