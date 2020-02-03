@@ -1,0 +1,531 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	33262	15 Fremantle Drive	11/11/2006	02/03/2007	13/10/2006	$616,000	1020m	Full transfer	4	1	2	2	-	$616,000	29	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.4
+2006	226760	49 McKail Crescent	05/05/2006	26/06/2006	17/02/2006	$580,000	911m	Full transfer	4	2	1	4	-	$580,000	77	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.44
+2006	315768	137 Streeton Drive	07/08/2006	25/09/2006	-	$570,000	840m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226770	8 Kirwan Circuit	16/03/2006	26/04/2006	23/02/2006	$570,000	918m	Full transfer	4	1	1	3	-	$570,000	21	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.47
+2006	226771	10 Kirwan Circuit	20/01/2006	09/03/2006	-	$560,000	751m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226759	32 McKail Crescent	21/03/2006	19/05/2006	08/06/2005	$545,000	847m	Full transfer	4	1	2	1	1	$545,000	286	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.58
+2006	169110	86 Namatjira Drive	25/10/2006	06/02/2007	02/08/2006	$514,000	950m	Full transfer	6	1	1	1	1	$514,000	84	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.37
+2006	226767	6 Needham Place	18/03/2006	27/04/2006	23/02/2006	$490,000	706m	Full transfer	4	1	1	2	-	$490,000	23	-	Combined Record	-	-	-	Single residential dwelling	$229,000	0.47
+2006	518	            2/4 Marmion Place	01/11/2006	06/07/2007	-	$470,000	904m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37537	17 Mackie Crescent	11/07/2006	20/09/2006	10/06/2006	$465,000	679m	Full transfer	4	1	1	-	1	$465,000	31	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.45
+2006	169018	2 McKail Crescent	12/12/2006	07/02/2007	-	$442,000	950m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226699	1/35 Crowder Circuit	14/02/2006	01/03/2006	-	$420,000	5751m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	226701	12/121 Streeton Drive	04/04/2006	08/06/2006	-	$415,000	28761m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	319874	5 Loton Place	14/02/2006	05/04/2006	-	$410,000	912m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34989	92 Namatjira Drive	10/07/2006	21/08/2006	26/04/2006	$394,000	755m	Full transfer	4	1	1	-	1	$394,000	75	-	Combined Record	-	-	-	Single residential dwelling	$206,000	0.52
+2006	66995	27 Wittenoom Crescent	01/02/2006	-	05/10/2005	$384,100	761m	Full transfer	4	1	1	-	1	$384,100	119	-	Allhomes Record	-	-	-	-	$240,000	0.62
+2006	226684	27 Wittenoom Crescent	31/01/2006	10/03/2006	-	$384,000	761m	Full transfer	-	-	-	-	-	$384,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169804	25 Wittenoom Crescent	08/09/2006	11/12/2006	31/07/2006	$380,000	746m	Full transfer	3	1	-	2	-	$380,000	39	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.63
+2006	91226	157 Streeton Drive	10/11/2006	-	24/10/2006	$369,000	896m	Full transfer	3	1	-	2	-	$369,000	17	-	Allhomes Record	-	-	-	-	$214,000	0.58
+2006	226680	7 Frayne Place	27/04/2006	29/05/2006	23/02/2006	$360,000	730m	Full transfer	4	1	-	2	-	$360,000	63	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.59
+2006	165079	20 Mackie Crescent	15/12/2006	16/02/2007	-	$345,000	665m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226690	24 Shenton Crescent	11/04/2006	25/05/2006	16/03/2006	$345,000	1001m	Full transfer	3	1	1	1	1	$345,000	26	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.7
+2006	165299	5 Mackie Crescent	18/12/2006	16/02/2007	-	$340,000	817m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226754	44/32 Bunbury Street	25/01/2006	28/02/2006	08/09/2005	$338,000	28007m	Full transfer	3	1	-	2	-	$338,000	139	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	226682	4 Serra Place	21/03/2006	28/04/2006	09/02/2006	$325,000	711m	Full transfer	3	1	-	2	-	$325,000	40	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.68
+2006	226750	2/32 Bunbury Street	26/06/2006	31/07/2006	-	$285,000	28007m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	226752	33/32 Bunbury Street	05/06/2006	30/06/2006	-	$284,000	28007m	Full transfer	-	-	-	-	-	$284,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203271	22/32 Bunbury Street	10/11/2006	18/01/2007	-	$260,000	28007m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	33656	47/121 Streeton Drive	22/11/2006	22/05/2007	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	232781	10 Griver Place	10/12/2006	07/11/2007	-	$0	1381m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	121910	3 Mackie Crescent	24/09/2006	25/09/2007	-	$0	944m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	167394	13 Lochee Place	24/09/2006	04/09/2007	-	$0	822m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	21499	            10 Kirwan Street	20/01/2006	-	15/11/2005	-	-	Full transfer	4	2	-	2	-	-	66	-	Allhomes Record	-	-	-	-	-	-
+2006	226801	43 Reveley Crescent	23/05/2006	23/05/2006	-	-	1007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169628	12 Kirwan Circuit	10/11/2006	14/11/2006	-	-	740m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	3494	            4B Marmion Street	01/11/2006	-	13/07/2006	-	-	Full transfer	3	1	1	2	-	-	111	-	Allhomes Record	-	-	-	-	-	-
+2006	226666	7 Tuckey Place	10/05/2006	07/07/2006	-	-	779m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202589	47 Kirwan Circuit	13/06/2006	03/08/2006	-	-	854m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37538	19 Reveley Crescent	20/08/2006	19/09/2006	-	-	770m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203510	12 Bland Place	27/06/2006	12/09/2006	-	-	775m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33017	38/32 Bunbury Street	06/08/2006	06/12/2006	-	-	28007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	21428	            1/35 Crowder Street	14/02/2006	-	05/10/2005	-	-	Full transfer	3	1	1	2	-	-	132	-	Allhomes Record	-	-	-	-	-	-
+2007	315551	37 Kirwan Circuit	08/09/2007	24/10/2007	-	$795,000	1612m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231575	9 Lochee Place	02/08/2007	27/11/2007	07/06/2007	$720,000	998m	Full transfer	4	2	1	2	-	$720,000	56	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.54
+2007	230214	32 Crowder Circuit	23/10/2007	27/01/2008	09/10/2007	$585,000	1043m	Full transfer	4	2	-	4	-	$585,000	14	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.45
+2007	109733	17 Crowder Circuit	09/11/2007	-	06/10/2007	$585,000	743m	Full transfer	4	1	2	2	-	$585,000	34	-	Allhomes Record	-	-	-	-	$253,000	0.43
+2007	202749	46 Crowder Circuit	07/08/2007	09/10/2007	26/07/2007	$580,000	838m	Full transfer	4	1	1	-	2	$580,000	12	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.41
+2007	232499	17 Crowder Circuit	08/11/2007	17/01/2008	-	$580,000	743m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120693	11 Wollaston Place	13/03/2007	16/05/2007	-	$575,000	802m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234921	38 Kirwan Circuit	07/12/2007	05/02/2008	08/11/2007	$545,000	1135m	Full transfer	4	-	1	2	-	$545,000	29	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.57
+2007	231535	4 Fremantle Drive	14/09/2007	14/11/2007	20/07/2007	$495,000	691m	Full transfer	4	1	1	1	-	$495,000	56	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.45
+2007	121398	10 Needham Place	05/03/2007	04/05/2007	-	$490,000	700m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231404	112 Namatjira Drive	19/09/2007	07/11/2007	02/08/2007	$490,000	813m	Full transfer	6	1	1	-	-	$490,000	48	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.46
+2007	231550	18 Reveley Crescent	07/08/2007	01/11/2007	-	$490,000	798m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36176	19 Mackie Crescent	05/04/2007	03/07/2007	22/03/2007	$480,000	733m	Full transfer	4	1	1	-	2	$480,000	14	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.47
+2007	32698	4 Frayne Place	23/02/2007	29/03/2007	03/02/2007	$475,000	725m	Full transfer	3	1	1	2	-	$475,000	20	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.47
+2007	231230	10 Griver Place	12/10/2007	17/01/2008	19/09/2007	$467,500	1381m	Full transfer	3	1	-	-	1	$467,500	23	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.59
+2007	659	            1/4 Marmion Place	12/04/2007	18/07/2007	-	$458,000	904m	Full transfer	-	-	-	-	-	$458,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235976	12/121 Streeton Drive	13/08/2007	14/11/2007	-	$450,000	28761m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408664	16 Shenton Crescent	01/09/2007	25/10/2007	30/07/2007	$450,000	878m	Full transfer	3	1	1	1	1	$450,000	33	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.57
+2007	203223	54 Bunbury Street	19/04/2007	01/06/2007	08/02/2007	$450,000	684m	Full transfer	3	2	-	1	-	$450,000	70	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.54
+2007	232787	38 Namatjira Drive	09/10/2007	19/11/2007	-	$450,000	857m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	318180	124 Namatjira Drive	25/07/2007	03/09/2007	-	$445,000	871m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231536	161 Streeton Drive	28/08/2007	14/11/2007	03/08/2007	$438,000	938m	Full transfer	3	1	1	2	-	$438,000	25	-	Combined Record	-	-	-	Single residential dwelling	$228,000	0.52
+2007	166564	32/121 Streeton Drive	04/06/2007	25/07/2007	-	$413,000	28761m	Full transfer	-	-	-	-	-	$413,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166066	1 Bickley Close	08/03/2007	06/08/2007	-	$410,000	599m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	90138	13/121 Streeton Drive	06/06/2007	-	11/10/2006	$409,950	572m	Full transfer	3	1	1	2	-	$409,950	238	-	Allhomes Record	-	-	-	-	$53,670	0.13
+2007	36512	13/121 Streeton Drive	08/05/2007	06/07/2007	-	$405,000	28761m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	203233	5 Serra Place	23/03/2007	31/05/2007	-	$400,000	716m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121285	37 Reveley Crescent	09/07/2007	12/09/2007	03/05/2007	$387,000	616m	Full transfer	3	1	-	2	1	$387,000	67	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.56
+2007	164396	18 Fremantle Drive	18/01/2007	15/03/2007	10/11/2006	$365,000	688m	Full transfer	3	1	-	2	-	$365,000	69	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.62
+2007	36520	5 Mackie Crescent	24/05/2007	06/07/2007	-	$355,000	817m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235926	1/32 Bunbury Street	26/09/2007	25/11/2007	-	$345,000	28007m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235693	14 Nash Place	22/11/2007	26/03/2008	-	$321,694	912m	Full transfer	-	-	-	-	-	$321,694	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167472	13/32 Bunbury Street	04/07/2007	05/09/2007	-	$295,000	28007m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	164358	38/32 Bunbury Street	30/01/2007	14/03/2007	02/01/2007	$287,000	28007m	Full transfer	2	1	-	-	1	$287,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	35984	13 Bunbury Street	03/04/2007	02/07/2007	-	$166,622	895m	Full transfer	-	-	-	-	-	$166,622	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35994	29 Bunbury Street	20/05/2007	04/07/2007	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232877	10 MacFaull Place	07/11/2007	28/11/2007	-	$0	676m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121846	4 Schoales Place	07/03/2007	27/09/2007	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167293	1 Kirwan Circuit	31/01/2007	10/05/2007	-	$0	980m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120838	143 Streeton Drive	26/04/2007	16/05/2007	-	$0	858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	42481	55 Kirwan Circuit	24/04/2007	10/04/2008	-	-	1107m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232463	5 Haynes Place	11/07/2007	17/01/2008	-	-	888m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235212	24/32 Bunbury Street	18/12/2007	20/03/2008	-	-	28007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	98457	4A Marmion Place	12/04/2007	-	22/02/2007	-	904m	Full transfer	3	1	1	2	-	-	49	-	Allhomes Record	-	-	-	-	$294,000	-
+2007	230162	5 Fremantle Drive	01/11/2007	31/01/2008	-	-	765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237446	40 McKail Crescent	11/06/2008	26/08/2008	27/02/2008	$705,000	1013m	Full transfer	5	2	1	2	1	$705,000	105	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.51
+2008	240232	11 Tuckey Place	22/09/2008	29/10/2008	21/08/2008	$660,000	1051m	Full transfer	4	1	1	2	-	$660,000	32	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.44
+2008	242232	9 Hassell Place	23/12/2008	31/01/2009	07/11/2008	$645,000	1038m	Full transfer	5	1	2	2	2	$645,000	46	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.42
+2008	22208	            12194 Reference Number	30/06/2008	-	03/04/2008	$640,000	-	Full transfer	4	1	1	2	-	$640,000	88	-	Allhomes Record	-	-	-	-	-	-
+2008	240563	11 Lochee Place	30/06/2008	25/09/2008	-	$640,000	963m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234267	133 Streeton Drive	09/04/2008	11/06/2008	01/03/2008	$639,950	931m	Full transfer	4	2	1	2	0	$639,950	39	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.4
+2008	237882	52 McKail Crescent	24/07/2008	12/09/2008	16/06/2008	$610,000	796m	Full transfer	4	1	1	2	0	$610,000	38	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.55
+2008	25400	55 Kirwan Circuit	20/02/2008	-	13/11/2007	$607,500	1100m	Full transfer	5	1	1	-	2	$607,500	99	-	Allhomes Record	-	-	-	-	$331,000	0.54
+2008	320143	32 McKail Crescent	04/02/2008	28/05/2008	-	$600,000	847m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230534	30 Crowder Circuit	03/07/2008	11/08/2008	03/04/2008	$545,000	896m	Full transfer	4	1	1	2	-	$545,000	91	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.49
+2008	321923	34 Mackie Crescent	30/07/2008	07/10/2008	-	$526,000	924m	Full transfer	-	-	-	-	-	$526,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242023	13 Reveley Crescent	05/12/2008	31/01/2009	12/11/2008	$505,000	691m	Full transfer	3	1	1	2	-	$505,000	23	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.52
+2008	322921	22 Mackie Crescent	19/12/2008	10/02/2009	-	$490,000	835m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237883	1 Reveley Crescent	05/06/2008	09/09/2008	12/05/2008	$486,000	779m	Full transfer	4	1	1	2	0	$486,000	24	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.51
+2008	320280	7 Bickley Close	13/05/2008	12/08/2008	-	$479,000	532m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232005	3 Wittenoom Crescent	29/05/2008	04/07/2008	22/04/2008	$468,000	803m	Full transfer	4	1	1	-	1	$468,000	37	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.61
+2008	237478	2 Loton Place	13/11/2008	11/12/2008	02/09/2008	$466,000	855m	Full transfer	3	1	1	-	1	$466,000	72	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.66
+2008	235221	7 Fremantle Drive	12/02/2008	12/03/2008	-	$460,000	755m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229626	12 Frayne Place	24/06/2008	29/07/2008	-	$450,000	799m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235392	38 Shenton Crescent	01/02/2008	29/02/2008	-	$445,000	897m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233586	29 Mackie Crescent	20/02/2008	28/04/2008	-	$445,000	779m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230050	44/121 Streeton Drive	21/02/2008	29/05/2008	-	$432,000	28761m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238531	20 Fremantle Drive	29/08/2008	25/09/2008	-	$432,000	663m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235815	3 Mackie Crescent	23/04/2008	13/06/2008	-	$415,000	944m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239081	4/32 Bunbury Street	19/09/2008	12/11/2008	-	$395,000	28007m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22556	            4/32BLUERANGE Bunbury Street	19/09/2008	-	15/08/2008	$395,000	28007m	Full transfer	3	1	-	2	-	$395,000	35	-	Allhomes Record	-	-	-	-	$5,356,000	13.56
+2008	230235	8/32 Bunbury Street	20/06/2008	16/07/2008	-	$380,000	28007m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	120273	32/32 Bunbury Street	20/12/2008	-	03/11/2008	$330,050	526m	Full transfer	2	1	-	1	-	$330,050	47	-	Allhomes Record	-	-	-	-	$5,356,000	16.23
+2008	241854	32/32 Bunbury Street	17/12/2008	20/01/2009	-	$330,050	28007m	Full transfer	-	-	-	-	-	$330,050	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239123	34/32 Bunbury Street	25/09/2008	19/11/2008	-	$315,000	28007m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230788	10/32 Bunbury Street	02/04/2008	01/05/2008	-	$240,000	28007m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	449780	28 McKail Crescent	12/06/2008	10/04/2015	-	$0	947m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229768	11 Lochee Place	17/03/2008	25/07/2008	-	-	963m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239330	33 Mackie Crescent	28/05/2008	11/11/2008	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18929	            86 Fremantle Drive	11/09/2008	22/10/2008	-	-	951m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237981	18 Mackie Crescent	08/09/2008	18/09/2008	-	-	836m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	254312	7 Lochee Place	24/11/2008	16/02/2010	-	-	1066m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241753	30 Kirwan Circuit	22/11/2008	21/05/2009	-	-	1016m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235512	6 Logue Place	18/03/2008	18/03/2008	-	-	510m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240233	20 Bunbury Street	10/09/2008	28/10/2008	-	-	722m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241472	9/32 Bunbury Street	02/04/2008	11/05/2009	-	-	28007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249846	13 Lochee Place	06/08/2009	10/11/2009	21/05/2009	$740,000	822m	Full transfer	3	2	0	2	0	$740,000	77	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.58
+2009	323365	23 Shenton Crescent	14/03/2009	25/05/2009	-	$690,000	961m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263123	10 Lochee Place	28/11/2009	16/02/2010	05/11/2009	$665,000	751m	Full transfer	5	1	1	2	-	$665,000	23	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.56
+2009	250711	20 McKail Crescent	02/10/2009	04/12/2009	-	$650,000	755m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263124	10 Kirwan Circuit	05/12/2009	02/02/2010	11/11/2009	$620,000	751m	Full transfer	4	1	1	2	-	$620,000	24	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.5
+2009	324009	4 Salvado Place	06/06/2009	20/08/2009	-	$588,000	902m	Full transfer	-	-	-	-	-	$588,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251961	12 Wollaston Place	29/08/2009	21/12/2009	06/08/2009	$572,000	825m	Full transfer	3	1	-	-	2	$572,000	23	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.5
+2009	238834	1 Kirwan Circuit	25/02/2009	28/04/2009	-	$570,000	980m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245170	11 McKail Crescent	03/04/2009	15/06/2009	11/02/2009	$550,000	1121m	Full transfer	4	1	1	-	2	$550,000	51	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.44
+2009	244469	8 Bland Place	16/06/2009	08/07/2009	13/05/2009	$540,000	755m	Full transfer	4	1	1	-	2	$540,000	34	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.56
+2009	263688	5 Bland Place	22/12/2009	01/06/2010	-	$540,000	846m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246567	18 Mackie Crescent	16/07/2009	11/09/2009	07/05/2009	$520,000	836m	Full transfer	4	1	1	1	2	$520,000	70	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.52
+2009	249665	60 Namatjira Drive	27/08/2009	26/10/2009	11/08/2009	$520,000	817m	Full transfer	3	1	1	2	2	$520,000	16	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.52
+2009	243995	19 Shenton Crescent	24/03/2009	29/05/2009	12/03/2009	$495,000	784m	Full transfer	4	1	1	2	-	$495,000	12	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.58
+2009	238833	3 McKail Crescent	12/03/2009	29/04/2009	14/01/2009	$480,000	1124m	Full transfer	3	1	-	2	-	$480,000	57	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.47
+2009	323367	165 Streeton Drive	21/04/2009	29/05/2009	-	$480,000	845m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244115	15 Reveley Crescent	18/03/2009	05/06/2009	12/01/2009	$475,000	717m	Full transfer	4	1	0	-	2	$475,000	65	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.59
+2009	244906	5 Burvill Place	21/03/2009	20/07/2009	26/02/2009	$461,000	1005m	Full transfer	3	1	0	1	0	$461,000	23	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.71
+2009	323784	26 Reveley Crescent	05/06/2009	27/07/2009	-	$450,000	673m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	129718	43/32 Bunbury Street	18/09/2009	-	25/08/2009	$450,000	-	Full transfer	3	1	-	2	-	$450,000	24	-	Allhomes Record	-	-	-	-	-	-
+2009	248910	43/32 Bunbury Street	14/09/2009	12/11/2009	-	$450,000	28007m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249027	15/121 Streeton Drive	04/09/2009	18/11/2009	-	$441,950	28761m	Full transfer	-	-	-	-	-	$441,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244113	1 Burvill Place	28/02/2009	05/06/2009	22/01/2009	$436,000	835m	Full transfer	3	1	0	-	1	$436,000	37	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.68
+2009	246291	29/121 Streeton Drive	17/07/2009	01/09/2009	-	$436,000	28761m	Full transfer	-	-	-	-	-	$436,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248718	28/121 Streeton Drive	17/06/2009	19/10/2009	-	$425,000	28761m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	126333	10/121 Streeton Drive	21/05/2009	-	30/04/2009	$421,000	28761m	Full transfer	3	1	1	2	-	$421,000	21	-	Allhomes Record	-	-	-	-	$3,486,000	8.28
+2009	244642	17 Reveley Crescent	08/05/2009	30/06/2009	-	$420,000	785m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255676	41 Reveley Crescent	30/11/2009	26/03/2010	-	$420,000	715m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242587	11/121 Streeton Drive	23/01/2009	26/02/2009	-	$419,000	28761m	Full transfer	-	-	-	-	-	$419,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249664	72 Namatjira Drive	23/09/2009	28/10/2009	-	$405,000	806m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254115	3 Crowder Circuit	04/12/2009	10/02/2010	-	$400,000	759m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245171	1 Logue Place	29/04/2009	19/06/2009	11/03/2009	$391,000	465m	Full transfer	3	1	-	-	1	$391,000	49	-	Combined Record	-	-	-	Single residential dwelling	$207,000	0.53
+2009	246566	6 Nash Place	27/07/2009	08/09/2009	-	$383,000	772m	Full transfer	-	-	-	-	-	$383,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243658	33 Mackie Crescent	19/02/2009	30/03/2009	16/01/2009	$380,000	872m	Full transfer	3	1	-	-	1	$380,000	34	-	Combined Record	-	-	-	Single residential dwelling	$257,000	0.68
+2009	245065	6/32 Bunbury Street	19/05/2009	17/06/2009	-	$380,000	28007m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243380	72 Namatjira Drive	19/02/2009	20/03/2009	-	$375,000	806m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255493	48/32 Bunbury Street	23/12/2009	23/03/2010	-	$365,000	28007m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	237685	40/32 Bunbury Street	16/01/2009	18/02/2009	-	$325,000	28007m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245868	102 Namatjira Drive	06/08/2009	12/08/2009	-	$245,000	755m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	372674	74 Namatjira Drive	06/09/2009	10/04/2012	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244240	17 Wittenoom Crescent	27/05/2009	10/06/2009	-	-	774m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241473	9/32 Bunbury Street	17/02/2009	11/05/2009	-	-	28007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	261813	122 Namatjira Drive	17/12/2009	07/04/2010	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251612	24 Crowder Circuit	03/12/2009	23/12/2009	-	-	922m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261451	82 Namatjira Drive	03/04/2009	30/03/2010	-	-	937m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245972	11 Griver Place	05/05/2009	17/08/2009	-	-	965m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244114	61 Kirwan Circuit	21/03/2009	05/06/2009	-	-	834m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246215	6 McKail Crescent	10/04/2009	25/08/2009	-	-	733m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249847	12 Wollaston Place	06/09/2009	12/11/2009	-	-	825m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280305	73 Crowder Circuit	27/10/2010	22/12/2010	13/10/2010	$711,000	891m	Full transfer	4	1	1	2	-	$711,000	14	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.47
+2010	271036	7 Haynes Place	22/05/2010	02/09/2010	29/04/2010	$708,000	780m	Full transfer	4	1	1	1	-	$708,000	23	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.46
+2010	279352	116 Namatjira Drive	10/11/2010	31/01/2011	10/09/2010	$699,000	813m	Full transfer	7	2	1	2	-	$699,000	61	-	Combined Record	351	-	-	Single residential dwelling	$299,000	0.43
+2010	255534	11/32 Bunbury Street	06/02/2010	29/03/2010	-	$690,000	28007m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258763	1 Haynes Place	27/03/2010	17/05/2010	04/03/2010	$680,000	865m	Full transfer	4	1	1	-	2	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.43
+2010	276810	13 Fremantle Drive	18/06/2010	19/07/2010	02/06/2010	$621,750	830m	Full transfer	4	1	1	2	-	$621,750	16	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.49
+2010	271216	33 Reveley Crescent	20/07/2010	22/09/2010	03/06/2010	$610,000	655m	Full transfer	3	1	1	1	-	$610,000	47	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.47
+2010	287804	4 Jacoby Place	11/12/2010	30/03/2011	18/11/2010	$591,000	796m	Full transfer	4	1	1	2	-	$591,000	23	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.58
+2010	256539	27 Reveley Crescent	25/02/2010	14/04/2010	09/02/2010	$590,500	680m	Full transfer	3	1	-	1	-	$590,500	16	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.51
+2010	264028	6 Dale Place	23/04/2010	09/06/2010	25/03/2010	$571,500	1029m	Full transfer	4	1	1	-	1	$571,500	29	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.49
+2010	286087	15 Reveley Crescent	14/10/2010	20/12/2010	05/10/2010	$570,250	717m	Full transfer	4	1	-	-	2	$570,250	9	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.54
+2010	268181	19 McKail Crescent	23/05/2010	25/06/2010	29/03/2010	$570,000	1154m	Full transfer	4	1	1	2	-	$570,000	55	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.47
+2010	325967	36 McKail Crescent	09/03/2010	21/04/2010	-	$565,000	919m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329932	4 Haynes Place	13/11/2010	22/12/2010	-	$555,000	761m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273674	5 Burvill Place	01/09/2010	18/10/2010	06/08/2010	$551,000	1005m	Full transfer	3	1	-	1	-	$551,000	26	-	Combined Record	108	-	-	Single residential dwelling	$327,000	0.59
+2010	296769	153 Streeton Drive	11/12/2010	31/05/2011	19/11/2010	$545,000	971m	Full transfer	4	1	1	2	-	$545,000	22	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.55
+2010	326227	44 McKail Crescent	08/02/2010	06/05/2010	-	$540,000	730m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269237	94 Namatjira Drive	20/05/2010	25/06/2010	29/04/2010	$525,000	755m	Full transfer	5	1	1	2	-	$525,000	21	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.55
+2010	328898	108 Namatjira Drive	25/08/2010	02/12/2010	-	$510,000	790m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279353	7 Bickley Close	27/11/2010	02/02/2011	04/11/2010	$503,500	532m	Full transfer	3	1	1	2	-	$503,500	23	-	Combined Record	-	-	-	Single residential dwelling	$264,000	0.52
+2010	258583	15 Shenton Crescent	14/01/2010	22/04/2010	28/10/2009	$495,000	778m	Full transfer	3	1	-	2	-	$495,000	78	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.64
+2010	274182	12/32 Bunbury Street	25/09/2010	10/11/2010	-	$482,500	28007m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	275685	4 Bickley Close	30/10/2010	12/01/2011	29/09/2010	$481,000	459m	Full transfer	3	1	1	-	2	$481,000	31	-	Combined Record	118	-	-	Single residential dwelling	$228,000	0.47
+2010	283542	37/32 Bunbury Street	21/12/2010	21/02/2011	-	$475,000	28007m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272361	37/121 Streeton Drive	13/12/2010	-	09/11/2010	$462,000	28761m	Full transfer	3	1	1	2	-	$462,000	34	-	Allhomes Record	-	-	-	-	$4,009,000	8.68
+2010	348381	48/121 Streeton Drive	01/07/2010	-	14/12/2011	$460,000	28761m	Full transfer	4	2	1	2	-	$460,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	269628	48/121 Streeton Drive	15/07/2010	26/08/2010	-	$460,000	28761m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269569	32/121 Streeton Drive	16/04/2010	17/08/2010	-	$454,000	28761m	Full transfer	-	-	-	-	-	$454,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267430	17/32 Bunbury Street	10/05/2010	23/06/2010	-	$450,000	28007m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	275681	25/32 Bunbury Street	25/09/2010	12/01/2011	-	$387,000	28007m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	300327	41/32 Bunbury Street	22/12/2010	20/07/2011	-	$375,000	28007m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272090	23/89 Fremantle Drive	07/12/2010	-	12/11/2010	$360,000	18276m	Full transfer	-	-	-	-	-	$360,000	25	-	Allhomes Record	-	-	-	-	$1,232,000	3.42
+2010	272919	24/32 Bunbury Street	12/05/2010	28/10/2010	-	$350,000	28007m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	287242	29 Bunbury Street	04/10/2010	05/04/2011	-	-	763m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	268855	30 Kirwan Circuit	15/06/2010	25/06/2010	-	-	1016m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261811	6 Nash Place	19/03/2010	12/04/2010	-	-	772m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283311	48 Fremantle Drive	29/10/2010	22/02/2011	-	-	759m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283541	43/32 Bunbury Street	07/10/2010	24/02/2011	-	-	28007m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	276760	4 Griver Place	28/05/2010	22/07/2010	-	-	1170m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267676	14 Fremantle Drive	07/05/2010	25/06/2010	-	-	757m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254689	13 McKail Crescent	16/02/2010	11/03/2010	-	-	812m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255769	30 Reveley Crescent	22/01/2010	30/03/2010	-	-	673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273811	133 Streeton Drive	15/10/2010	09/11/2010	-	-	931m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296770	3 Tuckey Place	22/02/2011	01/06/2011	15/02/2011	$705,000	732m	Full transfer	4	1	1	2	-	$705,000	7	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.54
+2011	360188	137 Streeton Drive	26/11/2011	17/02/2012	-	$688,000	840m	Full transfer	-	-	-	-	-	$688,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360525	3 Griver Place	21/11/2011	24/01/2012	15/09/2011	$615,000	974m	Full transfer	4	1	1	2	-	$615,000	67	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.59
+2011	296735	24 Kirwan Circuit	14/05/2011	23/06/2011	14/04/2011	$610,000	830m	Full transfer	4	1	1	2	-	$610,000	30	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.62
+2011	344394	167 Streeton Drive	26/08/2011	21/10/2011	11/07/2011	$588,500	854m	Full transfer	4	2	1	2	-	$588,500	46	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.54
+2011	340708	1 McKail Crescent	30/05/2011	20/09/2011	23/06/2011	$585,000	964m	Full transfer	5	1	1	2	-	$585,000	-	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.55
+2011	286039	54 Bunbury Street	27/01/2011	08/03/2011	06/12/2010	$567,500	684m	Full transfer	3	1	1	1	-	$567,500	52	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.56
+2011	296119	29 Bunbury Street	19/04/2011	25/05/2011	-	$558,500	763m	Full transfer	-	-	-	-	-	$558,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331456	124 Namatjira Drive	06/04/2011	25/05/2011	-	$555,000	871m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342436	19 McKail Crescent	19/08/2011	12/10/2011	22/06/2011	$550,000	1154m	Full transfer	4	1	1	2	-	$550,000	58	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.53
+2011	336108	100 Namatjira Drive	27/07/2011	22/08/2011	-	$550,000	755m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347827	50 Bunbury Street	14/09/2011	27/10/2011	-	$545,000	814m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365221	20 Mackie Crescent	22/12/2011	07/03/2012	08/11/2011	$520,000	665m	Full transfer	3	1	-	1	-	$520,000	44	-	Combined Record	122	-	-	Single residential dwelling	$311,000	0.6
+2011	333363	3 Loton Place	30/06/2011	04/08/2011	-	$505,000	831m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	280011	            15/32 Bunbury Street	07/03/2011	-	07/02/2011	$498,000	28007m	Full transfer	3	1	-	2	-	$498,000	28	-	Allhomes Record	-	-	-	-	$6,159,000	12.37
+2011	291756	15/32 Bunbury Street	03/03/2011	14/04/2011	-	$498,000	28007m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350183	9 Nash Place	29/09/2011	28/11/2011	14/09/2011	$490,000	674m	Full transfer	3	1	-	1	-	$490,000	15	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.68
+2011	346543	5 Mackie Crescent	07/09/2011	19/11/2011	21/07/2011	$490,000	817m	Full transfer	3	1	-	2	2	$490,000	48	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.67
+2011	291426	17/121 Streeton Drive	18/03/2011	10/05/2011	-	$478,000	28761m	Full transfer	-	-	-	-	-	$478,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354547	14 Nash Place	19/10/2011	04/01/2012	31/05/2011	$465,000	912m	Full transfer	3	2	-	1	-	$465,000	141	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.79
+2011	300328	37/121 Streeton Drive	13/12/2011	18/07/2011	-	$462,000	28761m	Full transfer	-	-	-	-	-	$462,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346542	36/32 Bunbury Street	16/03/2011	23/11/2011	-	$445,000	28007m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350441	10 McKail Crescent	17/03/2011	16/12/2011	23/02/2011	$440,000	696m	Full transfer	4	1	1	2	-	$440,000	22	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.82
+2011	366162	12 Barlee Place	21/10/2011	20/02/2012	24/06/2011	$400,000	714m	Full transfer	-	-	-	-	-	$400,000	119	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.82
+2011	360523	1/85 McKail Crescent	22/11/2011	27/01/2012	30/08/2011	$380,000	866m	Full transfer	3	1	-	1	-	$380,000	84	-	Combined Record	-	-	-	Multiple unit dwelling	$277,000	0.73
+2011	300326	8/32 Bunbury Street	01/04/2011	20/07/2011	-	$380,000	28007m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300186	98 Namatjira Drive	21/01/2011	06/07/2011	-	$287,500	755m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300184	37 Reveley Crescent	09/06/2011	05/07/2011	-	$250,000	616m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346980	96 Namatjira Drive	15/08/2011	10/11/2011	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360189	70 Namatjira Drive	06/12/2011	16/02/2012	15/09/2011	$0	806m	Full transfer	5	1	1	2	-	$0	82	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.73
+2011	365916	5 Griver Place	20/10/2011	28/02/2012	-	$0	1055m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346540	20 Namatjira Drive	07/11/2011	22/11/2011	-	$0	825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365219	8 Bickley Close	23/12/2011	06/03/2012	05/12/2011	$0	435m	Full transfer	3	1	1	2	-	$0	18	-	Combined Record	131	-	-	Single residential dwelling	$251,000	0.73
+2011	372673	74 Namatjira Drive	07/10/2011	10/04/2012	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296052	19 Wittenoom Crescent	18/02/2011	01/06/2011	-	-	708m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296243	42 Wittenoom Crescent	25/01/2011	07/06/2011	-	-	766m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287241	53 Crowder Circuit	16/01/2011	04/04/2011	-	-	929m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300185	8 Griver Place	11/04/2011	08/07/2011	-	-	1055m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372821	8 Tuckey Place	29/02/2012	30/04/2012	18/01/2012	$830,000	668m	Full transfer	4	1	1	2	-	$830,000	42	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.42
+2012	394458	5 Salvado Place	19/12/2012	19/03/2013	24/10/2012	$815,000	910m	Full transfer	4	1	1	2	1	$815,000	56	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.6
+2012	370827	29 Kirwan Circuit	03/03/2012	23/04/2012	09/02/2012	$806,000	991m	Full transfer	4	1	1	2	1	$806,000	23	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.47
+2012	371484	3 Kirwan Circuit	04/05/2012	08/06/2012	12/04/2012	$700,000	1074m	Full transfer	4	2	1	2	-	$700,000	22	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.53
+2012	381948	15 McKail Crescent	01/12/2012	-	30/10/2012	$685,000	788m	Full transfer	4	1	1	2	-	$685,000	32	-	Allhomes Record	-	-	-	-	$308,000	0.45
+2012	379023	13 Wittenoom Crescent	27/06/2012	03/09/2012	07/03/2012	$680,000	804m	Full transfer	4	1	1	2	-	$680,000	112	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.48
+2012	367862	6 Bland Place	28/05/2012	-	30/04/2012	$670,000	-	Full transfer	5	1	1	2	-	$670,000	28	-	Allhomes Record	-	-	-	-	$368,000	0.55
+2012	371840	13 Reveley Crescent	20/03/2012	28/05/2012	15/02/2012	$635,000	691m	Full transfer	4	1	1	2	-	$635,000	34	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.52
+2012	360186	33 Crowder Circuit	12/01/2012	17/02/2012	-	$620,000	817m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377122	5 Griver Place	06/06/2012	23/07/2012	19/03/2012	$600,000	1055m	Full transfer	6	2	-	2	2	$600,000	79	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.61
+2012	376429	12 Crowder Circuit	02/07/2012	09/08/2012	22/12/2011	$580,000	877m	Full transfer	4	1	1	2	-	$580,000	193	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.54
+2012	383865	141 Streeton Drive	10/09/2012	12/11/2012	-	$580,000	840m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371643	15 Reveley Crescent	27/04/2012	23/05/2012	29/02/2012	$575,000	717m	Full transfer	4	1	-	-	2	$575,000	58	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.59
+2012	392919	22 Bunbury Street	21/12/2012	06/02/2013	19/11/2012	$557,500	757m	Full transfer	4	1	-	3	-	$557,500	32	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.65
+2012	371645	161 Streeton Drive	17/04/2012	22/05/2012	09/02/2012	$527,000	938m	Full transfer	3	1	1	2	-	$527,000	68	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.63
+2012	377525	36 Wittenoom Crescent	14/09/2012	-	31/07/2012	$480,000	-	Full transfer	3	1	-	1	-	$480,000	45	-	Allhomes Record	135	-	-	-	$338,000	0.7
+2012	376427	39/121 Streeton Drive	29/06/2012	06/08/2012	02/07/2012	$469,000	28761m	Full transfer	3	2	-	2	0	$469,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	372823	74 Namatjira Drive	13/03/2012	30/04/2012	-	$250,000	829m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376788	7 Serra Place	18/07/2012	02/08/2012	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377124	3 Serra Place	22/05/2012	23/07/2012	24/04/2012	$0	725m	Full transfer	4	1	1	2	-	$0	28	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.7
+2012	393084	41/121 Streeton Drive	06/09/2012	13/02/2013	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376426	2 Norrish Place	03/05/2012	06/08/2012	-	$0	949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392918	4 Loton Place	04/12/2012	05/02/2013	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400093	5 Tuckey Place	13/11/2012	04/06/2013	-	$0	752m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368470	6/35 Crowder Circuit	03/01/2012	19/03/2012	-	$0	5751m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	394460	28 Mackie Crescent	08/10/2012	20/03/2013	-	$0	634m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377255	20 Shenton Crescent	18/06/2012	20/07/2012	-	$0	983m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386104	6 Serra Place	31/07/2012	03/12/2012	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	399899	13 Lochee Place	19/04/2013	04/06/2013	10/01/2013	$720,000	822m	Full transfer	3	2	-	2	-	$720,000	99	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.73
+2013	400091	20 Shenton Crescent	13/02/2013	04/06/2013	24/01/2013	$685,000	983m	Full transfer	4	1	1	1	2	$685,000	20	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.55
+2013	421476	8 McKail Crescent	20/12/2013	20/02/2014	31/10/2013	$685,000	713m	Full transfer	4	1	1	2	0	$685,000	50	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.52
+2013	415069	33 Kirwan Circuit	12/10/2013	06/12/2013	19/09/2013	$670,000	700m	Full transfer	4	2	1	0	2	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.53
+2013	400556	12 Bland Place	26/03/2013	28/05/2013	28/02/2013	$648,000	775m	Full transfer	4	1	1	-	1	$648,000	26	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.54
+2013	404007	22 Reveley Crescent	14/06/2013	11/07/2013	-	$631,500	1196m	Full transfer	-	-	-	-	-	$631,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410242	5 Serra Place	13/06/2013	10/09/2013	08/04/2013	$605,000	716m	Full transfer	4	1	1	1	1	$605,000	66	-	Combined Record	200	-	-	Single residential dwelling	$348,000	0.58
+2013	397498	57 Crowder Circuit	25/03/2013	09/05/2013	-	$575,000	1120m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411255	24 Bunbury Street	29/08/2013	15/10/2013	07/08/2013	$558,000	807m	Full transfer	3	1	1	-	2	$558,000	22	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.65
+2013	393831	30 Namatjira Drive	11/02/2013	25/03/2013	26/02/2013	$540,000	804m	Full transfer	4	2	1	0	1	$540,000	-	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.61
+2013	407934	1 Nash Place	04/05/2013	14/08/2013	11/04/2013	$532,000	871m	Full transfer	3	1	1	2	-	$532,000	23	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.65
+2013	403700	3 McKail Crescent	30/05/2013	17/07/2013	01/05/2013	$525,000	1124m	Full transfer	3	1	-	2	-	$525,000	29	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.52
+2013	407652	108 Namatjira Drive	11/07/2013	19/08/2013	-	$515,350	790m	Full transfer	-	-	-	-	-	$515,350	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415924	9 Logue Place	21/06/2013	12/12/2013	17/04/2013	$499,000	404m	Full transfer	3	1	1	-	2	$499,000	65	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.5
+2013	400554	6/121 Streeton Drive	22/04/2013	28/05/2013	08/03/2013	$475,000	28761m	Full transfer	4	1	1	2	-	$475,000	45	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	10.57
+2013	403476	52 Fremantle Drive	03/06/2013	04/07/2013	-	$450,000	760m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	403698	27/32 Bunbury Street	14/02/2013	15/07/2013	19/09/2012	$392,000	28007m	Full transfer	2	1	-	-	2	$392,000	148	-	Combined Record	-	-	-	Multiple unit dwelling	$7,713,000	19.68
+2013	413411	2/32 Bunbury Street	04/10/2013	14/11/2013	04/09/2013	$390,000	28007m	Full transfer	2	1	-	0	1	$390,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	$8,099,000	20.77
+2013	418046	6 Bunbury Street	26/12/2013	23/01/2014	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413413	9 Logue Place	18/05/2013	15/11/2013	-	$0	404m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416291	3/32 Bunbury Street	17/08/2013	18/12/2013	-	$0	28007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399898	26 Crowder Circuit	17/04/2013	04/06/2013	-	$0	907m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	412906	29 Kirwan Circuit	16/09/2013	29/10/2013	-	$0	991m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439370	3 Salvado Place	20/09/2014	14/11/2014	22/08/2014	$720,000	990m	Full transfer	5	1	1	2	-	$720,000	29	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.68
+2014	443136	6 Bland Place	01/12/2014	15/01/2015	22/10/2014	$695,000	736m	Full transfer	5	1	2	0	2	$695,000	40	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.54
+2014	422622	34 Namatjira Drive	17/02/2014	26/03/2014	17/01/2014	$685,000	856m	Full transfer	4	2	1	2	-	$685,000	31	-	Combined Record	176	-	-	Single residential dwelling	$337,000	0.49
+2014	438487	8 Norrish Place	06/08/2014	27/10/2014	30/01/2013	$675,000	1137m	Full transfer	5	2	1	1	1	$675,000	553	-	Combined Record	214	-	-	Single residential dwelling	$402,000	0.6
+2014	440011	1 Kirwan Circuit	30/08/2014	17/11/2014	07/08/2014	$675,000	980m	Full transfer	5	2	1	2	0	$675,000	23	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.56
+2014	439368	46 Crowder Circuit	20/09/2014	12/11/2014	27/08/2014	$670,000	838m	Full transfer	5	1	1	2	2	$670,000	24	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.51
+2014	435497	12 Bunbury Street	26/07/2014	18/09/2014	24/06/2014	$662,500	676m	Full transfer	4	1	1	-	3	$662,500	32	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.5
+2014	430129	72 Namatjira Drive	13/05/2014	08/07/2014	03/04/2014	$660,000	806m	Full transfer	4	1	1	2	2	$660,000	40	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.51
+2014	441426	9 Crowder Circuit	25/10/2014	12/12/2014	23/09/2014	$660,000	820m	Full transfer	4	1	1	2	-	$660,000	32	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.54
+2014	429436	12 Wollaston Place	14/05/2014	20/06/2014	12/02/2014	$637,500	825m	Full transfer	4	1	-	-	2	$637,500	91	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.56
+2014	446206	102 Fremantle Drive	11/10/2014	18/02/2015	08/01/2015	$610,000	993m	Full transfer	4	2	-	2	0	$610,000	-	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.5
+2014	443347	44 McKail Crescent	18/11/2014	08/01/2015	05/11/2014	$605,000	730m	Full transfer	4	1	1	2	-	$605,000	13	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.73
+2014	437749	27 McKail Crescent	28/08/2014	23/10/2014	08/08/2014	$585,000	1055m	Full transfer	4	1	1	-	2	$585,000	20	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.53
+2014	426268	5 Burvill Place	27/03/2014	08/05/2014	27/02/2014	$582,500	1005m	Full transfer	3	2	0	4	0	$582,500	28	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.68
+2014	443134	124 Namatjira Drive	26/11/2014	14/01/2015	05/11/2014	$565,000	871m	Full transfer	3	1	1	2	2	$565,000	21	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.6
+2014	436056	82 Namatjira Drive	20/03/2014	23/09/2014	15/01/2014	$560,000	937m	Full transfer	4	1	1	4	3	$560,000	64	-	Combined Record	176	-	-	Single residential dwelling	$341,000	0.61
+2014	444895	32 Namatjira Drive	02/12/2014	02/02/2015	30/10/2014	$550,000	837m	Full transfer	4	1	1	-	1	$550,000	33	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.61
+2014	440223	96 Namatjira Drive	03/10/2014	20/11/2014	12/08/2014	$545,000	755m	Full transfer	4	1	1	2	-	$545,000	52	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.6
+2014	426643	92 Namatjira Drive	23/04/2014	29/05/2014	24/02/2014	$520,000	755m	Full transfer	4	1	1	-	1	$520,000	58	-	Combined Record	151	-	-	Single residential dwelling	$325,000	0.63
+2014	444893	2 Fremantle Drive	25/10/2014	06/02/2015	16/10/2014	$512,500	843m	Full transfer	3	1	0	0	0	$512,500	9	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.6
+2014	431834	4 Bland Place	01/08/2014	-	05/06/2014	$508,000	810m	Full transfer	3	1	-	2	0	$508,000	57	-	Allhomes Record	-	-	-	-	$370,000	0.73
+2014	440052	38 Wittenoom Crescent	24/10/2014	26/11/2014	25/09/2014	$501,000	694m	Full transfer	3	1	-	-	2	$501,000	29	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.69
+2014	438489	30/121 Streeton Drive	19/09/2014	27/10/2014	-	$495,000	28761m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435499	35 McKail Crescent	13/08/2014	17/09/2014	15/07/2014	$482,000	1101m	Full transfer	3	1	1	1	-	$482,000	29	-	Combined Record	136	-	-	Single residential dwelling	$305,000	0.63
+2014	434540	37/121 Streeton Drive	12/07/2014	05/09/2014	18/06/2014	$480,000	28761m	Full transfer	3	2	-	2	0	$480,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	10.46
+2014	437026	37/121 Streeton Drive	14/07/2014	-	01/11/2014	$480,000	0m	Full transfer	3	2	-	2	0	$480,000	-	-	Allhomes Record	-	-	-	-	$5,020,000	10.46
+2014	429438	26/121 Streeton Drive	08/05/2014	19/06/2014	-	$475,000	28761m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446204	39 Reveley Crescent	19/12/2014	17/02/2015	25/09/2014	$464,000	725m	Full transfer	3	1	1	1	-	$464,000	85	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.75
+2014	435502	44 Wittenoom Crescent	21/08/2014	17/09/2014	-	$450,000	874m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432377	40/32 Bunbury Street	09/07/2014	07/08/2014	-	$390,000	28007m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	431440	3/32 Bunbury Street	08/05/2014	21/07/2014	20/03/2014	$379,950	28007m	Full transfer	2	1	0	-	1	$379,950	49	-	Combined Record	-	-	-	Multiple unit dwelling	$8,099,000	21.32
+2014	435501	38/121 Streeton Drive	15/07/2014	17/09/2014	-	$235,000	28761m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430449	22 Shenton Crescent	17/02/2014	03/07/2014	-	$0	986m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	458862	3 Barlee Place	03/09/2014	07/08/2015	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426951	9 Nash Place	24/02/2014	16/05/2014	-	$0	674m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436055	31 Crowder Circuit	10/01/2014	24/09/2014	-	$0	858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452375	44 Crowder Circuit	08/04/2015	21/05/2015	04/03/2015	$797,000	805m	Full transfer	5	1	1	-	2	$797,000	35	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.45
+2015	461996	7 Haynes Place	29/06/2015	22/09/2015	-	$762,500	780m	Full transfer	-	-	-	-	-	$762,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	447878	53 Crowder Circuit	13/01/2015	19/03/2015	09/12/2014	$750,000	929m	Full transfer	4	1	1	-	2	$750,000	35	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.52
+2015	451782	2 Norrish Place	26/03/2015	05/05/2015	11/03/2015	$721,700	949m	Full transfer	4	1	1	2	0	$721,700	15	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.57
+2015	453291	17 Wollaston Place	14/03/2015	29/05/2015	09/02/2015	$660,000	885m	Full transfer	5	1	1	-	1	$660,000	33	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.62
+2015	465171	5 Hardey Place	17/07/2015	03/11/2015	20/05/2015	$660,000	820m	Full transfer	5	2	1	2	5	$660,000	58	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.57
+2015	460797	7 Serra Place	17/09/2015	-	07/09/2015	$650,000	791m	Full transfer	5	1	1	-	2	$650,000	10	-	Allhomes Record	-	-	-	-	$354,000	0.54
+2015	462362	1 Nash Place	16/10/2015	-	09/10/2015	$632,000	871m	Full transfer	4	1	1	2	-	$632,000	7	-	Allhomes Record	-	-	-	-	$375,000	0.59
+2015	448629	33 Reveley Crescent	14/01/2015	24/03/2015	07/11/2014	$604,000	655m	Full transfer	4	2	-	1	-	$604,000	68	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.56
+2015	469111	47 Kirwan Circuit	21/11/2015	11/01/2016	21/10/2015	$600,000	854m	Full transfer	3	2	1	2	-	$600,000	31	-	Combined Record	144	-	-	Single residential dwelling	$373,000	0.62
+2015	467996	20 Namatjira Drive	31/10/2015	18/12/2015	06/10/2015	$590,500	825m	Full transfer	4	1	1	-	2	$590,500	25	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.54
+2015	451794	20/121 Streeton Drive	14/03/2015	04/05/2015	18/02/2015	$588,000	28761m	Full transfer	4	1	1	2	0	$588,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	8.54
+2015	469101	30 Reveley Crescent	22/09/2015	11/01/2016	-	$580,000	673m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	456457	15/121 Streeton Drive	11/05/2015	30/06/2015	16/04/2015	$560,100	28761m	Full transfer	4	1	1	2	-	$560,100	25	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	8.96
+2015	452705	25/121 Streeton Drive	16/03/2015	13/05/2015	05/05/2015	$550,000	28761m	Full transfer	3	2	-	0	2	$550,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	9.13
+2015	447385	             Streeton Drive	17/03/2015	-	20/02/2015	$550,000	0m	Full transfer	3	2	-	0	2	$550,000	25	-	Allhomes Record	-	-	-	-	-	-
+2015	459634	44/121 Streeton Drive	04/07/2015	20/08/2015	18/06/2015	$545,000	28761m	Full transfer	3	2	-	2	0	$545,000	16	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	9.21
+2015	456459	11/121 Streeton Drive	07/05/2015	29/06/2015	27/02/2015	$532,500	28761m	Full transfer	4	1	1	2	-	$532,500	69	-	Combined Record	164	-	-	Multiple unit dwelling	$5,020,000	9.43
+2015	489358	30 Wittenoom Crescent	29/10/2015	18/10/2016	22/09/2015	$520,000	736m	Full transfer	3	1	1	-	2	$520,000	37	-	Combined Record	119	-	-	Single residential dwelling	$354,000	0.68
+2015	450139	41/121 Streeton Drive	21/02/2015	14/04/2015	27/01/2015	$512,500	28761m	Full transfer	3	1	1	2	-	$512,500	25	-	Combined Record	-	-	-	Multiple unit dwelling	$5,020,000	9.8
+2015	473746	43 Bunbury Street	22/12/2015	22/03/2016	03/12/2015	$510,000	942m	Full transfer	3	-	-	-	1	$510,000	19	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.79
+2015	451784	20 Fremantle Drive	23/03/2015	07/05/2015	10/12/2014	$500,000	663m	Full transfer	3	1	0	2	3	$500,000	103	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.67
+2015	450156	38/121 Streeton Drive	23/02/2015	14/04/2015	-	$490,000	28761m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456016	14 Shenton Crescent	05/06/2015	09/07/2015	17/04/2015	$485,000	707m	Full transfer	3	1	-	-	1	$485,000	49	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.77
+2015	456461	40 Shenton Crescent	08/05/2015	29/06/2015	-	$480,000	956m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462902	48 Fremantle Drive	12/08/2015	08/10/2015	13/05/2015	$475,000	759m	Full transfer	3	1	-	-	2	$475,000	91	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.71
+2015	461997	8 Hardey Place	22/07/2015	23/09/2015	12/06/2015	$435,000	856m	Full transfer	3	1	-	-	-	$435,000	40	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.86
+2015	466224	13/32 Bunbury Street	21/02/2015	16/11/2015	-	$415,000	28007m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	447555	30/89 Fremantle Drive	11/03/2015	-	10/02/2014	$365,000	-	Full transfer	2	1	-	1	-	$365,000	394	-	Allhomes Record	-	-	-	-	-	-
+2015	447146	28/32 Bunbury Street	29/01/2015	24/02/2015	02/10/2014	$365,000	28007m	Full transfer	2	1	-	-	1	$365,000	119	-	Combined Record	90	-	-	Multiple unit dwelling	$8,099,000	22.19
+2015	450586	6/89 Fremantle Drive	04/05/2015	-	02/03/2015	$360,000	-	Full transfer	2	1	-	1	-	$360,000	63	-	Allhomes Record	-	-	-	-	$1,232,000	3.42
+2015	447554	12/89 Fremantle Drive	11/03/2015	-	06/05/2014	$350,000	-	Full transfer	2	1	-	1	-	$350,000	309	-	Allhomes Record	-	-	-	-	-	-
+2015	459147	7 Mackie Crescent	02/06/2015	10/08/2015	-	$255,000	773m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475105	141 Streeton Drive	03/12/2015	13/04/2016	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	467702	1 Needham Place	06/08/2015	21/12/2015	-	$0	953m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487375	30 Wittenoom Crescent	18/11/2015	28/09/2016	-	$0	736m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464625	47 Kirwan Circuit	15/03/2015	24/10/2015	-	$0	854m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465177	48 Bunbury Street	24/04/2015	02/11/2015	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464626	32 Wittenoom Crescent	16/08/2015	19/10/2015	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481239	6 Dale Place	30/04/2016	12/07/2016	29/03/2016	$691,500	1029m	Full transfer	4	1	1	2	-	$691,500	32	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.48
+2016	496832	17 Fremantle Drive	26/11/2016	10/02/2017	03/11/2016	$665,000	877m	Full transfer	3	1	1	2	-	$665,000	23	-	Combined Record	159	-	-	Single residential dwelling	$365,000	0.55
+2016	470337	32 Wittenoom Crescent	20/02/2016	-	27/01/2016	$655,000	694m	Full transfer	3	1	1	1	1	$655,000	24	-	Allhomes Record	-	-	-	-	$363,000	0.55
+2016	479739	5/35 Crowder Circuit	29/06/2016	-	01/06/2016	$620,000	-	Full transfer	3	2	0	2	0	$620,000	28	-	Allhomes Record	-	-	-	-	$174,670	0.28
+2016	495912	4 Hardey Place	24/10/2016	03/01/2017	12/10/2016	$600,000	762m	Full transfer	4	2	-	2	0	$600,000	12	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.61
+2016	486070	            1/2 Shenton Crescent	05/08/2016	05/09/2016	-	$562,000	836m	Full transfer	-	-	-	-	-	$562,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482934	7 Bunbury Street	25/08/2016	-	29/06/2016	$562,000	-	Full transfer	3	1	1	2	-	$562,000	57	-	Allhomes Record	-	-	-	-	$407,000	0.72
+2016	478016	11 Nash Place	22/03/2016	17/05/2016	10/02/2016	$555,000	883m	Full transfer	3	1	-	2	-	$555,000	41	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.61
+2016	476414	25 Wittenoom Crescent	05/03/2016	26/04/2016	10/02/2016	$537,000	746m	Full transfer	3	1	-	2	-	$537,000	24	-	Combined Record	113	-	-	Single residential dwelling	$395,000	0.74
+2016	479423	4 Logue Place	22/03/2016	06/06/2016	15/03/2016	$500,000	510m	Full transfer	3	1	-	-	2	$500,000	7	-	Combined Record	123	-	-	Single residential dwelling	$291,000	0.58
+2016	497214	30/32 Bunbury Street	26/11/2016	06/02/2017	02/11/2016	$474,000	28007m	Full transfer	2	1	0	0	2	$474,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$8,099,000	17.09
+2016	477523	19/32 Bunbury Street	03/02/2016	12/05/2016	30/10/2015	$418,000	28007m	Full transfer	2	1	-	1	-	$418,000	96	-	Combined Record	-	-	-	Multiple unit dwelling	$8,099,000	19.38
+2016	502450	2 McKail Crescent	19/12/2016	19/04/2017	-	$0	950m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497062	27 McKail Crescent	11/11/2016	10/02/2017	-	$0	1055m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	563478	18 Shenton Crescent	10/03/2016	24/06/2019	-	$0	938m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503043	28 McKail Crescent	29/07/2016	10/04/2017	-	$0	947m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504701	145 Streeton Drive	17/12/2016	01/05/2017	-	$0	849m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498864	11 Fremantle Drive	11/10/2016	03/03/2017	-	$0	765m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477513	4 Loton Place	17/03/2016	11/05/2016	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479425	4 Logue Place	15/01/2016	06/06/2016	-	$0	510m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491702	17 Fremantle Drive	12/05/2016	28/11/2016	-	$0	877m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490198	31 Kirwan Circuit	25/08/2016	03/11/2016	-	$0	700m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518727	28 McKail Crescent	17/06/2017	27/09/2017	23/05/2017	$970,000	947m	Full transfer	5	2	-	2	-	$970,000	25	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.44
+2017	522621	55 Crowder Circuit	16/10/2017	11/01/2018	04/10/2017	$930,000	884m	Full transfer	5	3	-	2	2	$930,000	12	-	Combined Record	-	-	-	Single residential dwelling...	$406,000	0.44
+2017	557333	            1/2 Wollaston Place	21/12/2017	09/04/2019	-	$821,050	949m	Full transfer	-	-	-	-	-	$821,050	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510323	4 Frayne Place	06/12/2017	-	09/11/2017	$801,000	725m	Full transfer	3	2	-	2	0	$801,000	27	-	Allhomes Record	-	-	-	-	$359,000	0.45
+2017	526927	8 McKail Crescent	03/06/2017	08/03/2018	11/05/2017	$790,000	713m	Full transfer	4	2	0	2	0	$790,000	23	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.45
+2017	539448	            1/27 Shenton Crescent	07/08/2017	12/08/2018	-	$781,750	910m	Full transfer	-	-	-	-	-	$781,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512979	145 Streeton Drive	08/04/2017	24/05/2017	17/03/2017	$765,000	849m	Full transfer	4	2	-	1	0	$765,000	22	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.44
+2017	562601	            2/12 Frayne Place	09/11/2017	13/06/2019	-	$742,720	799m	Full transfer	-	-	-	-	-	$742,720	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521772	4 Fremantle Drive	08/09/2017	21/12/2017	29/06/2017	$735,000	691m	Full transfer	4	2	-	1	0	$735,000	71	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.49
+2017	531655	6 Serra Place	22/12/2017	23/04/2018	09/11/2017	$735,000	716m	Full transfer	4	2	-	0	2	$735,000	43	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.5
+2017	522124	19 Shenton Crescent	27/09/2017	14/12/2017	07/09/2017	$722,500	784m	Full transfer	3	2	-	1	0	$722,500	20	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.53
+2017	518015	30 Kirwan Circuit	11/07/2017	29/08/2017	19/05/2017	$700,000	1016m	Full transfer	4	1	1	2	-	$700,000	53	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.57
+2017	506933	2 Wollaston Place	08/08/2017	-	09/02/2017	$650,000	948m	Full transfer	-	-	-	-	-	$650,000	180	-	Allhomes Record	-	-	-	-	$331,000	0.51
+2017	520471	2 Wollaston Place	07/11/2017	07/11/2017	-	$650,000	949m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509948	48 Namatjira Drive	25/11/2017	-	02/11/2017	$642,000	872m	Full transfer	4	2	-	4	-	$642,000	23	-	Allhomes Record	-	-	-	-	$359,000	0.56
+2017	523986	90 Namatjira Drive	28/10/2017	23/01/2018	09/10/2017	$632,000	755m	Full transfer	4	2	-	2	0	$632,000	19	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.55
+2017	512169	27 Shenton Crescent	18/05/2017	18/05/2017	-	$620,000	910m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496669	27 Shenton Crescent	14/03/2017	-	09/02/2017	$620,000	909m	Full transfer	-	-	-	-	-	$620,000	33	-	Allhomes Record	-	-	-	-	$560,000	0.9
+2017	521785	4 Shenton Crescent	27/08/2017	22/12/2017	28/07/2017	$610,000	706m	Full transfer	3	1	-	-	1	$610,000	30	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.59
+2017	517226	20 Fremantle Drive	06/05/2017	15/08/2017	01/03/2017	$605,000	663m	Full transfer	3	1	-	2	3	$605,000	66	-	Combined Record	106	-	-	Single residential dwelling	$339,000	0.56
+2017	505472	46 Wittenoom Crescent	09/06/2017	-	09/02/2017	$605,000	1067m	Full transfer	-	-	-	-	-	$605,000	120	-	Allhomes Record	-	-	-	-	$408,000	0.67
+2017	509206	4B Marmion Place	04/11/2017	-	12/10/2017	$590,000	0m	Full transfer	3	2	-	2	0	$590,000	23	-	Allhomes Record	-	-	-	-	$512,000	0.87
+2017	523780	            2/4 Marmion Place	04/11/2017	18/01/2018	-	$590,000	904m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515883	50/121 Streeton Drive	18/05/2017	26/07/2017	14/01/2017	$580,000	28761m	Full transfer	4	1	1	2	-	$580,000	124	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512656	29 Shenton Crescent	09/05/2017	09/05/2017	-	$580,000	894m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496673	29 Shenton Crescent	14/03/2017	-	09/02/2017	$580,000	893m	Full transfer	-	-	-	-	-	$580,000	33	-	Allhomes Record	-	-	-	-	$560,000	0.97
+2017	519829	32/121 Streeton Drive	24/07/2017	17/10/2017	-	$570,000	28761m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	532215	8/121 Streeton Drive	22/11/2017	07/05/2018	12/05/2017	$568,500	28761m	Full transfer	4	2	-	2	0	$568,500	194	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	507862	3 Cowcher Place	13/09/2017	-	07/08/2017	$565,000	871m	Full transfer	3	1	-	0	0	$565,000	37	-	Allhomes Record	-	-	-	-	$398,000	0.7
+2017	528851	31 Reveley Crescent	25/11/2017	22/03/2018	02/11/2017	$560,000	691m	Full transfer	3	1	-	0	1	$560,000	23	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.62
+2017	525056	8 Hardey Place	17/11/2017	30/01/2018	27/10/2017	$555,000	856m	Full transfer	3	1	-	-	-	$555,000	21	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.68
+2017	520895	12 Frayne Place	30/11/2017	30/11/2017	-	$550,000	799m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507590	12 Frayne Place	01/09/2017	-	09/02/2017	$550,000	0m	Full transfer	-	-	-	-	-	$550,000	204	-	Allhomes Record	-	-	-	-	$337,000	0.61
+2017	495421	26 Reveley Crescent	31/01/2017	31/01/2017	-	$480,000	673m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516969	27/32 Bunbury Street	27/05/2017	04/08/2017	05/05/2017	$451,000	28007m	Full transfer	2	1	-	0	2	$451,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	494176	23/89 Fremantle Drive	20/01/2017	-	08/09/2016	$372,000	-	Full transfer	2	1	-	1	-	$372,000	134	-	Allhomes Record	105	-	-	-	$1,232,000	3.31
+2017	543224	6 Bickley Close	07/11/2017	04/10/2018	-	$35,000	565m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521243	37/121 Streeton Drive	27/10/2017	07/12/2017	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520024	37/32 Bunbury Street	03/09/2017	26/10/2017	-	$0	28007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522290	42/32 Bunbury Street	21/10/2017	11/12/2017	-	$0	28007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	540287	            1/29 Shenton Crescent	03/08/2017	22/08/2018	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520083	90 Namatjira Drive	08/03/2017	27/10/2017	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519994	8 Nash Place	06/08/2017	22/10/2017	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520194	61 Kirwan Circuit	10/08/2017	01/11/2017	-	$0	834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536758	12 Barlee Place	10/07/2018	-	25/06/2018	$1,080,000	-	Full transfer	4	1	1	2	-	$1,080,000	15	-	Allhomes Record	-	-	-	-	$368,000	0.34
+2018	550228	35 Kirwan Circuit	22/09/2018	04/12/2018	30/08/2018	$1,030,000	1019m	Full transfer	5	4	-	2	0	$1,030,000	23	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.39
+2018	547472	51 Crowder Circuit	29/09/2018	23/11/2018	06/09/2018	$990,000	1530m	Full transfer	4	2	-	2	-	$990,000	23	-	Combined Record	-	-	-	Single residential dwelling	$461,000	0.47
+2018	535538	7 Crowder Circuit	06/04/2018	24/06/2018	21/03/2018	$920,000	861m	Full transfer	5	2	-	3	0	$920,000	16	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.42
+2018	531731	62 McKail Crescent	10/05/2018	-	26/02/2018	$905,000	950m	Full transfer	4	1	1	2	-	$905,000	73	-	Allhomes Record	219	-	-	-	$376,000	0.42
+2018	536921	            86 Fremantle Drive	09/05/2018	04/07/2018	-	$905,000	951m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560524	38 McKail Crescent	08/12/2018	21/02/2019	15/11/2018	$880,000	951m	Full transfer	4	3	-	0	2	$880,000	23	-	Combined Record	-	-	-	Single residential dwelling	$469,000	0.53
+2018	561639	171 Streeton Drive	29/09/2018	07/01/2019	04/09/2018	$875,000	1034m	Full transfer	4	3	-	0	2	$875,000	25	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.44
+2018	556664	            2/2 Wollaston Place	28/08/2018	05/04/2019	-	$866,470	949m	Full transfer	-	-	-	-	-	$866,470	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549375	72 Namatjira Drive	10/09/2018	06/11/2018	-	$850,000	806m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534410	11 Crowder Circuit	07/04/2018	05/06/2018	14/03/2018	$845,000	780m	Full transfer	4	2	-	2	0	$845,000	24	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.48
+2018	540976	8 Reveley Crescent	14/07/2018	30/08/2018	21/06/2018	$839,000	769m	Full transfer	4	2	-	0	2	$839,000	23	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.48
+2018	527311	27 Shenton Crescent	25/03/2018	-	27/04/2017	$820,000	910m	Full transfer	-	-	-	-	-	$820,000	332	-	Allhomes Record	175	-	-	-	$574,000	0.7
+2018	535472	22 Mackie Crescent	24/04/2018	20/06/2018	04/04/2018	$818,000	835m	Full transfer	4	2	-	0	2	$818,000	20	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.45
+2018	535154	38 Kirwan Circuit	14/04/2018	14/06/2018	22/03/2018	$800,000	1135m	Full transfer	5	3	-	2	0	$800,000	23	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.54
+2018	540818	            2/29 Shenton Crescent	24/07/2018	30/08/2018	-	$793,515	894m	Full transfer	-	-	-	-	-	$793,515	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548155	1 McKail Crescent	18/08/2018	08/11/2018	14/08/2018	$790,000	964m	Full transfer	5	2	-	2	-	$790,000	4	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.42
+2018	538929	42 Mackie Crescent	09/05/2018	31/07/2018	22/03/2018	$767,000	973m	Full transfer	5	2	-	2	1	$767,000	48	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.51
+2018	536475	1 Jacoby Place	14/06/2018	28/06/2018	-	$750,000	902m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550954	3 Frayne Place	29/09/2018	09/01/2019	28/08/2018	$682,000	738m	Full transfer	4	1	-	1	0	$682,000	32	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.54
+2018	543806	21 Mackie Crescent	28/07/2018	09/10/2018	04/07/2018	$667,000	699m	Full transfer	4	2	-	2	0	$667,000	24	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.54
+2018	561803	88 Namatjira Drive	08/12/2018	13/02/2019	14/11/2018	$638,500	744m	Full transfer	4	2	-	0	2	$638,500	24	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.58
+2018	537295	27 Wittenoom Crescent	13/06/2018	03/07/2018	-	$627,500	761m	Full transfer	-	-	-	-	-	$627,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529626	28 Mackie Crescent	02/01/2018	08/04/2018	-	$600,000	634m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538215	3/121 Streeton Drive	20/04/2018	18/07/2018	11/04/2018	$600,000	28761m	Full transfer	4	2	-	2	0	$600,000	9	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	552184	11 MacFaull Place	28/11/2018	22/01/2019	27/09/2018	$600,000	682m	Full transfer	3	1	-	1	0	$600,000	62	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.63
+2018	511805	46/121 Streeton Drive	09/02/2018	-	29/11/2017	$585,000	-	Full transfer	3	1	1	2	-	$585,000	72	-	Allhomes Record	-	-	-	-	-	-
+2018	550188	45/121 Streeton Drive	18/10/2018	10/12/2018	-	$580,000	28761m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535140	27/121 Streeton Drive	19/04/2018	12/06/2018	05/03/2018	$575,000	28761m	Full transfer	4	2	-	2	0	$575,000	45	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	538282	9 Wittenoom Crescent	27/07/2018	-	09/02/2017	$560,000	724m	Full transfer	-	-	-	-	-	$560,000	533	-	Allhomes Record	-	-	-	-	$337,000	0.6
+2018	542860	9 Wittenoom Crescent	25/09/2018	25/09/2018	-	$560,000	725m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534382	51 Bunbury Street	08/06/2018	08/06/2018	09/02/2017	$550,000	844m	Full transfer	-	-	-	-	-	$550,000	484	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.91
+2018	540356	10 McKail Crescent	24/05/2018	23/08/2018	19/09/2017	$540,000	696m	Full transfer	0	0	-	0	0	$540,000	247	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.7
+2018	547446	30/32 Bunbury Street	15/09/2018	20/11/2018	-	$0	28007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534480	3/121 Streeton Drive	24/03/2018	05/06/2018	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548335	159 Streeton Drive	24/07/2018	06/11/2018	-	$0	917m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534121	18 McKail Crescent	03/05/2018	31/05/2018	-	$0	704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536424	30 Kirwan Circuit	23/03/2018	27/06/2018	-	$0	1016m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	567734	8 Wittenoom Crescent	29/12/2018	20/08/2019	-	$0	947m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537666	18 Nash Place	14/05/2018	09/07/2018	-	$0	1070m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549185	39 McKail Crescent	06/05/2018	07/12/2018	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541904	120 Namatjira Drive	14/07/2018	11/09/2018	-	$0	813m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560664	3 Wittenoom Crescent	02/03/2019	15/05/2019	07/02/2019	$900,000	803m	Full transfer	4	2	-	2	0	$900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.45
+2019	574192	13 Lochee Place	09/12/2019	-	17/10/2019	$890,000	822m	Full transfer	3	2	-	2	0	$890,000	53	-	Allhomes Record	-	-	-	-	$581,000	0.65
+2019	572120	34 Namatjira Drive	14/11/2019	-	03/10/2019	$890,000	0m	Full transfer	4	3	-	2	-	$890,000	42	-	Allhomes Record	-	-	-	-	$394,000	0.44
+2019	574015	9 Fremantle Drive	03/12/2019	-	21/11/2019	$875,000	760m	Full transfer	4	2	-	0	1	$875,000	12	-	Allhomes Record	-	-	-	-	$403,000	0.46
+2019	573998	24 Reveley Crescent	02/12/2019	-	10/10/2019	$845,000	879m	Full transfer	4	2	-	2	0	$845,000	53	-	Allhomes Record	-	-	-	-	$417,000	0.49
+2019	573294	28 Crowder Circuit	11/09/2019	28/10/2019	22/08/2019	$830,000	847m	Full transfer	4	2	-	2	-	$830,000	20	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.48
+2019	574543	8 McKail Crescent	22/10/2019	22/11/2019	-	$830,000	713m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573302	5 Burvill Place	18/09/2019	28/10/2019	02/05/2019	$811,100	1005m	Full transfer	4	2	-	0	1	$811,100	139	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.55
+2019	574515	4 Fremantle Drive	08/10/2019	19/11/2019	10/09/2019	$806,000	691m	Full transfer	4	2	-	2	-	$806,000	28	-	Combined Record	141	-	-	Single residential dwelling	$394,000	0.49
+2019	576211	5 Lochee Place	17/12/2019	-	30/10/2019	$805,000	702m	Full transfer	4	2	-	2	0	$805,000	48	-	Allhomes Record	-	-	-	-	$510,000	0.63
+2019	576055	1 Needham Place	23/10/2019	06/12/2019	-	$775,000	953m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572874	30 Kirwan Circuit	30/08/2019	21/10/2019	23/05/2019	$770,000	1016m	Full transfer	4	2	-	2	0	$770,000	99	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.54
+2019	563143	24 Bunbury Street	09/05/2019	17/06/2019	06/03/2019	$750,000	807m	Full transfer	3	1	1	-	2	$750,000	64	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.5
+2019	559490	26 Shenton Crescent	18/03/2019	13/05/2019	-	$750,000	1041m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	552757	12 Frayne Place	19/02/2019	-	05/09/2017	$733,000	798m	Full transfer	4	1	1	2	-	$733,000	532	-	Allhomes Record	139	-	-	-	$500,000	0.68
+2019	563413	            1/12 Frayne Place	06/02/2019	26/06/2019	-	$733,000	799m	Full transfer	-	-	-	-	-	$733,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575239	5 McKail Crescent	09/11/2019	27/11/2019	15/07/2019	$695,000	728m	Full transfer	3	1	1	-	2	$695,000	117	-	Combined Record	129	-	-	Single residential dwelling	$317,000	0.46
+2019	556785	54 Bunbury Street	27/02/2019	03/04/2019	25/10/2018	$680,000	684m	Full transfer	3	1	1	1	-	$680,000	125	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.49
+2019	556789	143 Streeton Drive	01/03/2019	02/04/2019	29/01/2019	$625,000	858m	Full transfer	4	1	-	1	-	$625,000	31	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.56
+2019	546312	4A Marmion Place	17/01/2019	-	19/09/2018	$612,500	0m	Full transfer	3	2	-	2	0	$612,500	120	-	Allhomes Record	-	-	-	-	$533,000	0.87
+2019	567448	17 Bunbury Street	01/07/2019	21/08/2019	-	$610,000	796m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572155	15/32 Bunbury Street	07/09/2019	18/10/2019	15/08/2019	$578,500	28007m	Full transfer	3	1	-	2	0	$578,500	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	568151	38/121 Streeton Drive	02/07/2019	26/08/2019	26/04/2019	$577,500	28761m	Full transfer	3	2	-	2	0	$577,500	67	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	569011	10 MacFaull Place	30/07/2019	04/09/2019	11/04/2019	$569,000	676m	Full transfer	3	1	-	1	1	$569,000	110	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.66
+2019	563427	2 Logue Place	17/05/2019	25/06/2019	12/04/2019	$567,500	532m	Full transfer	3	1	-	2	0	$567,500	35	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.53
+2019	567721	26/121 Streeton Drive	10/07/2019	21/08/2019	21/05/2019	$565,000	28761m	Full transfer	4	2	-	0	2	$565,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	567280	30/121 Streeton Drive	03/06/2019	12/08/2019	17/04/2019	$560,000	28761m	Full transfer	3	2	-	2	0	$560,000	47	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	567937	37 Reveley Crescent	17/07/2019	21/08/2019	19/06/2019	$540,000	616m	Full transfer	3	1	-	2	0	$540,000	28	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.66
+2019	571970	14/32 Bunbury Street	20/08/2019	10/10/2019	24/07/2019	$495,000	28007m	Full transfer	2	1	-	1	0	$495,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	558516	33/32 Bunbury Street	13/02/2019	02/05/2019	10/01/2019	$450,000	28007m	Full transfer	2	1	-	0	2	$450,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	570257	36 Crowder Circuit	06/06/2019	26/09/2019	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559432	50/121 Streeton Drive	22/02/2019	17/05/2019	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565568	38/121 Streeton Drive	23/02/2019	26/07/2019	-	$0	28761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	577269	21 Reveley Crescent	18/06/2019	24/12/2019	-	$0	745m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554120	            1/4 Marmion Place	17/01/2019	25/02/2019	-	$0	904m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566337	33 Bunbury Street	23/06/2019	31/07/2019	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568905	32 Kirwan Circuit	07/06/2019	02/09/2019	-	$0	789m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572229	3 Lochee Place	04/05/2019	16/10/2019	-	$0	700m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
