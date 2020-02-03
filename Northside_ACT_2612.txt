@@ -1,0 +1,3 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2007	4806	             Convenience Store	27/09/2007	-	26/10/2006	-	-	Full transfer	-	-	-	-	-	-	336	-	Allhomes Record	-	-	-	-	-	-
+2009	23575	            98/66 Allara Street	17/07/2009	-	10/06/2009	$467,000	3716m	Full transfer	2	1	1	-	1	$467,000	37	-	Allhomes Record	-	-	-	-	$2,585,000	5.54
