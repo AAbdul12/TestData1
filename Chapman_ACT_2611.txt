@@ -1,0 +1,823 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	37267	93 Doyle Terrace	20/07/2006	20/09/2006	04/07/2006	$790,000	814m	Full transfer	4	2	1	2	-	$790,000	16	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.42
+2006	35723	55 Sidaway Street	30/11/2006	08/01/2007	09/11/2006	$740,000	913m	Full transfer	4	2	1	2	-	$740,000	21	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.39
+2006	169041	38 Doyle Terrace	28/11/2006	07/02/2007	13/11/2006	$730,000	993m	Full transfer	4	2	1	2	-	$730,000	15	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.4
+2006	165522	27 Beaumont Close	27/09/2006	02/02/2007	-	$700,000	1740m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207840	18 Percy Crescent	13/02/2006	11/05/2006	19/10/2005	$650,000	1219m	Full transfer	5	1	1	2	-	$650,000	117	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.48
+2006	87476	19 Ordell Street	13/09/2006	-	30/08/2006	$640,000	1187m	Full transfer	4	1	1	1	-	$640,000	14	-	Allhomes Record	-	-	-	-	$345,000	0.54
+2006	207788	3 Monkman Street	31/01/2006	22/02/2006	24/11/2005	$620,000	976m	Full transfer	4	1	1	-	2	$620,000	68	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.45
+2006	207827	56 Sidaway Street	06/06/2006	31/07/2006	07/04/2006	$610,000	955m	Full transfer	4	1	1	2	-	$610,000	60	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.47
+2006	168422	73 Sidaway Street	29/06/2006	23/01/2007	-	$610,000	917m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165527	7 Doyle Terrace	06/12/2006	29/01/2007	19/10/2006	$610,000	1015m	Full transfer	4	1	1	-	2	$610,000	48	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.46
+2006	207782	48 Doyle Terrace	08/04/2006	15/06/2006	17/03/2006	$605,000	1182m	Full transfer	4	-	-	-	-	$605,000	22	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.5
+2006	169469	102 Darwinia Terrace	05/09/2006	15/11/2006	08/06/2006	$599,000	1355m	Full transfer	4	1	1	3	-	$599,000	89	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.41
+2006	37642	44 Bertel Crescent	31/08/2006	16/10/2006	21/08/2006	$595,000	1026m	Full transfer	4	1	1	2	-	$595,000	10	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.47
+2006	207846	127 Perry Drive	12/01/2006	11/05/2006	07/02/2006	$580,000	1121m	Full transfer	4	1	2	3	-	$580,000	-	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.5
+2006	36541	29 Bertel Crescent	27/07/2006	08/09/2006	23/06/2006	$579,000	826m	Full transfer	5	2	1	-	-	$579,000	34	-	Combined Record	-	-	-	Single residential dwelling	$249,000	0.43
+2006	164115	10 Beaumont Close	02/06/2006	15/08/2006	02/02/2006	$575,000	1641m	Full transfer	3	1	1	-	2	$575,000	120	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.6
+2006	34394	5 Rafferty Street	27/07/2006	25/09/2006	19/07/2006	$570,000	1065m	Full transfer	4	1	1	2	-	$570,000	8	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.55
+2006	207838	1/11 Kathner Street	20/02/2006	28/03/2006	-	$570,000	1563m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169466	56 Bertel Crescent	25/10/2006	13/11/2006	-	$570,000	1107m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	79058	37 Doyle Terrace	12/04/2006	-	06/04/2006	$545,000	1093m	Full transfer	4	1	1	2	-	$545,000	6	-	Allhomes Record	-	-	-	-	$326,000	0.6
+2006	207761	43 Pelham Close	12/04/2006	20/06/2006	-	$545,000	1093m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165491	14 Banvard Place	05/12/2006	30/01/2007	-	$545,000	890m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207724	30 Chauvel Circle	09/02/2006	09/03/2006	-	$542,500	3953m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203561	21 Rafferty Street	15/08/2006	30/08/2006	-	$530,000	1110m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165050	4 Brough Place	22/08/2006	14/02/2007	18/05/2006	$520,000	738m	Full transfer	4	3	2	-	-	$520,000	96	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.44
+2006	164116	13 Banvard Place	04/07/2006	17/08/2006	19/05/2006	$510,000	1037m	Full transfer	4	1	1	-	2	$510,000	46	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.43
+2006	207773	4 Boucicault Place	15/03/2006	25/05/2006	-	$500,000	949m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169044	130 Darwinia Terrace	07/12/2006	08/02/2007	25/08/2006	$495,000	825m	Full transfer	4	1	1	1	2	$495,000	104	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.43
+2006	168195	63 Doyle Terrace	14/06/2006	08/08/2006	-	$490,000	1389m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207777	25 Bertel Crescent	15/02/2006	03/04/2006	26/10/2005	$490,000	996m	Full transfer	4	1	1	2	-	$490,000	112	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.5
+2006	164824	39 Perry Drive	21/08/2006	13/10/2006	07/07/2006	$490,000	741m	Full transfer	4	2	1	1	-	$490,000	45	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.48
+2006	168194	52 Doyle Terrace	28/04/2006	11/08/2006	18/03/2006	$487,000	976m	Full transfer	4	1	1	1	-	$487,000	41	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.6
+2006	207774	21 Perry Drive	24/03/2006	05/05/2006	-	$485,000	816m	Partial transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207753	8 Monkman Street	14/02/2006	30/03/2006	16/11/2005	$480,000	1135m	Full transfer	4	1	1	-	2	$480,000	90	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.58
+2006	237387	9 Winstanley Street	22/09/2006	28/08/2008	-	$480,000	834m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203083	16 Perry Drive	10/11/2006	05/01/2007	27/10/2006	$475,000	866m	Full transfer	4	2	-	1	2	$475,000	14	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.52
+2006	207770	4 Pelham Close	20/01/2006	27/03/2006	-	$470,000	888m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207825	34 Sidaway Street	01/05/2006	08/06/2006	-	$465,000	1370m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	309958	3 Rickards Street	14/02/2006	17/03/2006	-	$465,000	848m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165589	61 Doyle Terrace	06/12/2006	29/01/2007	-	$460,000	1469m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202403	1 Heath Place	21/06/2006	06/08/2006	23/11/2005	$460,000	813m	Full transfer	4	1	1	2	-	$460,000	210	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.54
+2006	207734	16 Musgrove Street	26/05/2006	21/07/2006	30/09/2005	$455,000	1114m	Full transfer	4	1	1	2	-	$455,000	238	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.61
+2006	33164	32 Bertel Crescent	17/08/2006	04/12/2006	02/08/2006	$451,000	813m	Full transfer	3	1	1	-	2	$451,000	15	-	Combined Record	-	-	-	Single residential dwelling	$249,000	0.55
+2006	168193	32 Doyle Terrace	05/07/2006	10/08/2006	-	$450,000	903m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229551	168 Streeton Drive	12/08/2006	29/10/2006	13/07/2006	$450,000	1096m	Full transfer	4	1	1	1	-	$450,000	30	-	Combined Record	-	-	-	Single residential dwelling	$238,000	0.53
+2006	169465	16 Doyle Terrace	02/09/2006	15/11/2006	03/08/2006	$448,000	1042m	Full transfer	3	1	1	2	-	$448,000	30	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.62
+2006	207743	150 Namatjira Drive	01/03/2006	01/05/2006	26/08/2005	$430,000	1008m	Full transfer	4	1	1	-	2	$430,000	187	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.52
+2006	207836	25 Kathner Street	07/04/2006	23/05/2006	-	$428,000	1129m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164114	156 Namatjira Drive	06/07/2006	15/08/2006	18/02/2005	$425,000	825m	Full transfer	3	1	1	1	-	$425,000	503	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.5
+2006	207746	22 Maplestone Place	14/02/2006	13/03/2006	11/11/2005	$425,000	1336m	Full transfer	3	1	1	-	2	$425,000	95	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.63
+2006	207768	6 Lincoln Close	26/06/2006	18/07/2006	02/06/2006	$420,000	1408m	Full transfer	-	-	-	-	-	$420,000	24	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.72
+2006	37266	24 Monkman Street	28/08/2006	21/09/2006	-	$420,000	1666m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207730	12 Chauvel Circle	10/03/2006	11/04/2006	11/02/2005	$410,000	1690m	Full transfer	-	-	-	-	-	$410,000	392	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.91
+2006	207855	126 Darwinia Terrace	13/03/2006	11/04/2006	24/11/2005	$410,000	877m	Full transfer	4	2	1	2	-	$410,000	109	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.52
+2006	207787	6 Ordell Street	07/04/2006	06/07/2006	05/01/2006	$375,000	956m	Full transfer	-	-	-	-	-	$375,000	92	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.7
+2006	10478	            2/1 Perry Drive	13/10/2006	14/11/2006	-	$369,950	1122m	Full transfer	-	-	-	-	-	$369,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	207739	6 Lazar Place	28/03/2006	23/06/2006	13/02/2006	$327,000	327m	Full transfer	2	1	-	2	-	$327,000	43	-	Combined Record	-	-	-	Single residential dwelling	$164,000	0.5
+2006	165551	1 Thring Place	20/12/2006	30/01/2007	-	$0	882m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	121913	5 Simmons Place	27/11/2006	25/09/2007	-	$0	2007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36501	190 Namatjira Drive	20/11/2006	06/07/2007	-	$0	968m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207747	13 Tauchert Street	13/01/2006	13/02/2006	-	-	857m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169468	86 Monkman Street	03/07/2006	13/11/2006	-	-	1113m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207795	5 Ive Place	26/02/2006	19/06/2006	-	-	1073m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33961	15 Ordell Street	15/11/2006	21/12/2006	-	-	1158m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207845	12 Titheradge Place	07/04/2006	15/06/2006	-	-	1478m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203562	125 Perry Drive	29/03/2006	28/08/2006	-	-	1597m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203560	41 Monkman Street	12/07/2006	30/08/2006	-	-	1191m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207772	14 Doyle Terrace	24/05/2006	02/06/2006	-	-	1013m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	207805	3 Lipman Street	10/03/2006	20/06/2006	-	-	846m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	85413	1A Perry Drive	13/10/2006	-	28/07/2006	-	-	Full transfer	3	1	1	1	-	-	77	-	Allhomes Record	-	-	-	-	$258,000	-
+2006	169470	134 Darwinia Terrace	09/10/2006	16/11/2006	-	-	891m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34236	30 Percy Crescent	12/07/2006	01/12/2006	-	-	922m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169467	57 Perry Drive	14/09/2006	14/11/2006	-	-	1250m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	68697	1 Rene Street	01/02/2006	11/04/2008	-	-	899m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121396	36 Winstanley Street	26/02/2007	01/05/2007	02/02/2007	$1,500,000	1947m	Full transfer	5	3	1	3	-	$1,500,000	24	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.33
+2007	164976	35 Beaumont Close	21/04/2007	29/06/2007	17/03/2007	$1,050,000	1763m	Full transfer	5	2	1	3	-	$1,050,000	35	-	Combined Record	-	-	-	Single residential dwelling	$461,000	0.44
+2007	234821	9 Titheradge Place	15/12/2007	11/03/2008	12/11/2007	$967,000	1214m	Full transfer	4	2	1	2	-	$967,000	33	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.49
+2007	167971	3 Sorlie Place	20/07/2007	16/10/2007	-	$945,000	1209m	Full transfer	-	-	-	-	-	$945,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231499	11 Pelham Close	16/08/2007	01/11/2007	-	$780,000	783m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232091	127 Perry Drive	30/11/2007	04/01/2008	-	$750,000	1121m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231409	26 Bertel Crescent	25/08/2007	08/11/2007	23/07/2007	$730,000	1146m	Full transfer	5	1	2	2	-	$730,000	33	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.41
+2007	166593	19 Beaumont Close	14/02/2007	31/07/2007	09/11/2006	$730,000	1659m	Full transfer	4	1	1	2	-	$730,000	97	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.61
+2007	202682	43 Beaumont Close	24/08/2007	09/10/2007	-	$725,000	1300m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234785	31 Monkman Street	29/11/2007	12/03/2008	-	$720,000	1232m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166085	35 Bertel Crescent	24/04/2007	09/08/2007	05/04/2007	$710,000	747m	Full transfer	4	1	1	2	-	$710,000	19	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.34
+2007	318077	3 Garner Place	04/06/2007	08/08/2007	-	$658,000	972m	Full transfer	-	-	-	-	-	$658,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35306	7 Sorlie Place	31/03/2007	06/06/2007	09/03/2007	$651,000	996m	Full transfer	4	1	1	-	2	$651,000	22	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.54
+2007	35388	4 Doyle Terrace	01/05/2007	18/06/2007	12/04/2007	$620,000	1000m	Full transfer	4	1	1	-	2	$620,000	19	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.47
+2007	169330	11 Winstanley Street	18/01/2007	22/02/2007	31/10/2006	$612,000	845m	Full transfer	4	1	1	2	1	$612,000	79	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.5
+2007	33521	69 Sidaway Street	28/03/2007	22/05/2007	11/01/2007	$610,000	817m	Full transfer	4	1	1	2	-	$610,000	76	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.47
+2007	230216	6 Emery Street	04/12/2007	27/01/2008	-	$602,000	1051m	Full transfer	-	-	-	-	-	$602,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	37120	7 Brough Place	17/05/2007	18/07/2007	-	$595,000	758m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231633	166 Streeton Drive	07/08/2007	13/11/2007	13/06/2007	$595,000	910m	Full transfer	5	1	1	-	2	$595,000	55	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.41
+2007	409515	16 Beaumont Close	13/02/2007	12/04/2007	11/01/2007	$590,000	1220m	Full transfer	4	1	1	-	2	$590,000	33	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.62
+2007	165904	45 Percy Crescent	22/05/2007	02/08/2007	07/02/2007	$590,000	1290m	Full transfer	3	1	1	-	2	$590,000	104	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.59
+2007	167593	8 Brough Place	06/09/2007	02/10/2007	21/05/2007	$590,000	719m	Full transfer	3	1	1	2	-	$590,000	108	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.41
+2007	231585	32 Rene Street	22/09/2007	01/11/2007	23/08/2007	$580,000	943m	Full transfer	5	2	1	2	-	$580,000	30	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.42
+2007	33694	76 Sidaway Street	26/03/2007	22/05/2007	07/11/2006	$575,000	721m	Full transfer	4	1	1	2	-	$575,000	139	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.45
+2007	167499	20 Rene Street	07/08/2007	06/09/2007	-	$560,000	999m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	103470	1 Banvard Place	07/08/2007	-	23/05/2007	$560,000	-	Full transfer	4	1	1	2	-	$560,000	76	-	Allhomes Record	-	-	-	-	-	-
+2007	164419	25 Bertel Crescent	01/02/2007	15/03/2007	11/01/2007	$558,000	996m	Full transfer	3	1	1	2	-	$558,000	21	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.46
+2007	202894	4 Heath Place	16/04/2007	13/06/2007	-	$555,000	814m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	107000	22 Rafferty Street	19/10/2007	-	06/08/2007	$550,000	810m	Full transfer	4	1	1	-	2	$550,000	74	-	Allhomes Record	-	-	-	-	$262,000	0.48
+2007	231059	6 Heath Place	25/09/2007	12/12/2007	03/09/2007	$542,000	724m	Full transfer	3	1	1	2	-	$542,000	22	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.44
+2007	165946	70 Sidaway Street	16/04/2007	09/08/2007	-	$540,000	846m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36167	5 Banvard Place	09/05/2007	02/07/2007	-	$535,000	1048m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165957	15 Pelham Close	13/06/2007	14/08/2007	-	$535,000	890m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167561	144 Namatjira Drive	23/06/2007	02/10/2007	25/05/2007	$527,500	913m	Full transfer	4	1	1	-	2	$527,500	29	-	Combined Record	-	-	-	Single residential dwelling	$194,000	0.37
+2007	36495	1 Faulkner Place	27/04/2007	06/07/2007	-	$525,000	847m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168642	4 Emery Street	09/02/2007	09/03/2007	-	$520,000	1149m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120735	80 Darwinia Terrace	12/03/2007	15/05/2007	-	$490,000	786m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	307117	5 Heath Place	07/07/2007	22/08/2007	-	$480,000	982m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	169182	92 Darwinia Terrace	11/01/2007	22/02/2007	15/12/2006	$477,000	873m	Full transfer	4	1	1	-	2	$477,000	27	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.47
+2007	166947	17 Emery Street	02/05/2007	22/08/2007	10/04/2007	$456,000	1237m	Full transfer	3	1	-	2	-	$456,000	22	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.61
+2007	225338	14 Rene Street	07/11/2007	14/01/2008	-	$445,000	722m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166366	14 Lazar Place	15/06/2007	09/08/2007	-	$430,000	359m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32555	7 Sidaway Street	27/02/2007	29/03/2007	-	$430,000	1063m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	104656	89 Perry Drive	07/07/2007	-	15/06/2007	$430,000	957m	Full transfer	4	1	1	-	2	$430,000	22	-	Allhomes Record	-	-	-	-	$279,000	0.65
+2007	32427	4 Banvard Place	19/02/2007	28/03/2007	07/02/2007	$427,000	921m	Full transfer	3	1	-	-	1	$427,000	12	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.63
+2007	421744	64 Perry Drive	06/02/2007	04/03/2014	-	$375,000	1976m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2007	104225	148 Darwinia Terrace	23/07/2007	-	06/06/2007	$335,000	327m	Full transfer	2	1	-	1	-	$335,000	47	-	Allhomes Record	-	-	-	-	$173,000	0.52
+2007	167084	156 Darwinia Terrace	27/02/2007	12/04/2007	28/09/2006	$325,000	320m	Full transfer	2	1	-	1	-	$325,000	152	-	Combined Record	-	-	-	Single residential dwelling	$173,000	0.53
+2007	36444	4 Simmons Place	02/02/2007	06/07/2007	-	$0	2340m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166575	154 Namatjira Drive	09/01/2007	26/07/2007	-	$0	893m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166133	56 Monkman Street	18/06/2007	23/07/2007	-	$0	2933m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121886	26 Bertel Crescent	23/03/2007	25/09/2007	-	$0	1146m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409514	2 Rafferty Street	25/09/2007	24/10/2007	-	$0	1041m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202643	61 Doyle Terrace	11/05/2007	08/10/2007	-	$0	1469m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165277	17 Emery Street	25/01/2007	15/02/2007	-	$0	1237m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	491304	8 Howarth Place	15/06/2007	22/11/2016	-	$0	1079m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234235	29 Tauchert Street	23/11/2007	07/02/2008	-	-	919m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	249881	15 Titheradge Place	17/12/2007	18/11/2009	-	-	1433m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	5916	            4 Emery Place	09/02/2007	-	04/12/2006	-	1148m	Full transfer	4	1	1	1	-	-	67	-	Allhomes Record	-	-	-	-	$258,000	-
+2008	229982	30 Monkman Street	11/03/2008	15/07/2008	09/04/2008	$1,070,000	1901m	Full transfer	4	2	1	3	0	$1,070,000	-	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.42
+2008	322718	23 Monkman Street	15/11/2008	31/01/2009	-	$950,000	1154m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242653	36 Monkman Street	04/12/2008	25/02/2009	16/10/2008	$860,000	1459m	Full transfer	3	1	1	2	1	$860,000	49	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.58
+2008	229800	41 Monkman Street	23/06/2008	01/08/2008	-	$850,000	1191m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238010	30 Winstanley Street	30/06/2008	10/09/2008	12/03/2008	$795,000	1388m	Full transfer	4	2	1	2	-	$795,000	110	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.57
+2008	236356	12 Tudawalli Place	15/03/2008	14/05/2008	19/02/2008	$785,000	1560m	Full transfer	4	1	2	2	-	$785,000	25	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.55
+2008	235406	8 Rafferty Street	16/01/2008	11/03/2008	-	$775,000	1026m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239928	9 Ordell Street	14/08/2008	17/10/2008	11/06/2008	$770,000	1365m	Full transfer	3	2	1	2	-	$770,000	64	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.58
+2008	117169	23 Sidaway Street	28/10/2008	-	21/08/2008	$769,000	1018m	Full transfer	4	2	-	2	-	$769,000	68	-	Allhomes Record	-	-	-	-	$338,000	0.44
+2008	112995	45 Monkman Street	10/02/2008	-	28/02/2008	$750,000	1024m	Full transfer	4	1	2	-	2	$750,000	-	-	Allhomes Record	-	-	-	-	$434,000	0.58
+2008	500933	45 Monkman Street	15/02/2008	29/03/2017	14/11/2007	$750,000	1024m	Full transfer	4	1	2	-	2	$750,000	93	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.58
+2008	233247	3 Boucicault Place	27/03/2008	30/06/2008	21/11/2007	$690,000	710m	Full transfer	4	1	1	-	2	$690,000	127	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.39
+2008	231289	65 Sidaway Street	16/04/2008	02/06/2008	31/03/2008	$683,000	903m	Full transfer	4	1	1	2	0	$683,000	16	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.52
+2008	322871	5 Heath Place	22/11/2008	10/02/2009	-	$655,000	982m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240837	31 Bertel Crescent	04/08/2008	16/12/2008	26/05/2008	$630,000	996m	Full transfer	3	2	1	2	1	$630,000	70	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.51
+2008	237307	30 Percy Crescent	16/06/2008	19/08/2008	-	$622,000	922m	Full transfer	-	-	-	-	-	$622,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240628	6 Howarth Place	24/10/2008	05/12/2008	09/10/2008	$605,000	1023m	Full transfer	3	1	1	-	2	$605,000	15	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.61
+2008	234232	1 Rene Street	08/04/2008	08/05/2008	-	$585,000	899m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242991	5 Valli Place	31/10/2008	13/03/2009	01/10/2008	$580,000	825m	Full transfer	5	1	1	2	-	$580,000	30	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.44
+2008	234955	98 Darwinia Terrace	08/01/2008	07/02/2008	-	$580,000	1047m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237699	49 Percy Crescent	31/05/2008	16/02/2009	-	$578,000	2189m	Full transfer	-	-	-	-	-	$578,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241059	5 Emery Street	02/12/2008	22/12/2008	30/10/2008	$575,000	958m	Full transfer	4	1	1	2	-	$575,000	33	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.49
+2008	230431	14 Rene Street	20/06/2008	14/08/2008	14/05/2008	$550,000	722m	Full transfer	3	1	-	2	-	$550,000	37	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.45
+2008	229983	100 Darwinia Terrace	28/05/2008	15/07/2008	27/02/2008	$542,000	1186m	Full transfer	4	1	1	2	-	$542,000	91	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.53
+2008	236860	11 Sidaway Street	23/06/2008	04/09/2008	27/03/2008	$515,000	1135m	Full transfer	3	1	-	1	-	$515,000	88	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.58
+2008	240836	10 Thring Street	05/12/2008	16/12/2008	-	$510,000	807m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237910	6 Thring Place	10/07/2008	18/09/2008	-	$510,000	931m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237911	80 Doyle Terrace	17/08/2008	18/09/2008	21/05/2008	$510,000	931m	Full transfer	4	1	1	2	-	$510,000	88	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.66
+2008	113534	108 Darwinia Terrace	12/05/2008	-	07/03/2008	$505,000	1131m	Full transfer	4	1	1	2	-	$505,000	66	-	Allhomes Record	-	-	-	-	$286,000	0.57
+2008	230380	27 Perry Drive	23/07/2008	12/08/2008	06/06/2008	$495,000	1116m	Full transfer	3	1	-	2	-	$495,000	47	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.64
+2008	236859	13 Pelham Close	26/07/2008	01/09/2008	-	$476,000	892m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231596	70 Perry Drive	13/02/2008	19/03/2008	-	$450,000	753m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238641	12 Lazar Place	19/12/2008	25/04/2009	16/10/2008	$439,000	328m	Full transfer	3	1	1	2	-	$439,000	64	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.43
+2008	238008	152 Namatjira Drive	15/08/2008	10/09/2008	-	$100,000	935m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	554130	28 Maplestone Place	19/09/2008	01/03/2019	-	$0	1743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238009	3 Simmons Place	03/07/2008	11/09/2008	-	-	1339m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236469	47 Monkman Street	07/02/2008	02/04/2008	-	-	1054m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229897	35 Pelham Close	01/07/2008	21/07/2008	-	-	1115m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	245513	7 Niblo Place	02/06/2008	03/08/2009	-	-	1662m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229898	8 Redgrave Place	21/01/2008	21/07/2008	-	-	781m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239927	2 Pelham Place	28/08/2008	14/10/2008	-	-	1187m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242364	19 Percy Crescent	19/12/2008	09/02/2009	-	-	1657m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	237698	23 Sidaway Street	24/10/2008	18/02/2009	-	-	1018m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	263463	174 Namatjira Drive	21/08/2008	25/05/2010	-	-	1118m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229799	6 Thring Place	12/04/2008	30/07/2008	-	-	931m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239351	4 Neil Place	11/11/2008	17/11/2008	-	-	1035m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	260606	11 Sorlie Place	26/09/2008	03/02/2010	-	-	2093m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229801	9 Craydon Place	24/06/2008	31/07/2008	-	-	1560m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231284	12 Lazar Place	24/02/2008	06/06/2008	-	-	328m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239145	6 Howarth Place	04/09/2008	06/11/2008	-	-	1023m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	249346	86 Monkman Street	18/11/2008	19/10/2009	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	249127	10 Thring Street	31/08/2008	28/09/2009	-	-	807m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246311	2 Lincoln Place	11/05/2009	03/09/2009	10/03/2009	$1,781,000	1619m	Full transfer	5	2	1	2	-	$1,781,000	62	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.31
+2009	251929	40 Monkman Street	24/09/2009	21/12/2009	29/04/2009	$1,401,000	2864m	Full transfer	4	1	2	2	-	$1,401,000	148	-	Combined Record	-	-	-	Single residential dwelling	$593,000	0.42
+2009	244837	44 Monkman Street	15/06/2009	30/06/2009	-	$1,325,000	3351m	Full transfer	-	-	-	-	-	$1,325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	326718	42 Chauvel Circle	10/10/2009	28/01/2010	-	$1,270,000	930m	Full transfer	-	-	-	-	-	$1,270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249880	6 Niblo Place	07/10/2009	17/11/2009	14/07/2009	$1,150,000	2032m	Full transfer	5	2	1	4	-	$1,150,000	85	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.46
+2009	250045	32 Winstanley Street	16/09/2009	23/11/2009	03/09/2009	$1,020,000	1991m	Full transfer	4	1	1	2	0	$1,020,000	13	-	Combined Record	-	-	-	Single residential dwelling	$605,000	0.59
+2009	249345	29 Monkman Street	08/08/2009	19/10/2009	14/07/2009	$980,000	1193m	Full transfer	4	2	1	2	-	$980,000	25	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.5
+2009	250044	4 Niblo Place	24/09/2009	25/11/2009	06/08/2009	$955,000	2296m	Full transfer	4	1	1	2	-	$955,000	49	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.57
+2009	262378	46 Doyle Terrace	24/11/2009	17/02/2010	12/11/2009	$935,000	1096m	Full transfer	4	1	1	2	-	$935,000	12	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.43
+2009	325259	86 Monkman Street	07/11/2009	12/01/2010	-	$835,000	1113m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260607	7 Niblo Place	07/08/2009	04/03/2010	-	$820,000	1662m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241313	58 Bertel Crescent	28/03/2009	08/05/2009	23/02/2009	$785,000	887m	Full transfer	5	1	1	4	-	$785,000	33	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.41
+2009	247793	53 Percy Crescent	22/08/2009	14/10/2009	20/07/2009	$765,000	1201m	Full transfer	5	1	1	2	-	$765,000	33	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.55
+2009	254158	11 Sorlie Place	09/12/2009	17/02/2010	-	$755,000	2093m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251630	17 Pelham Close	09/11/2009	05/01/2010	-	$750,000	1211m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251631	25 Bertel Crescent	10/12/2009	10/01/2010	-	$745,000	996m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249129	3 Banvard Place	04/07/2009	28/09/2009	05/06/2009	$740,000	1043m	Full transfer	4	1	2	2	0	$740,000	29	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.43
+2009	262380	5 Ive Place	22/08/2009	29/01/2010	21/07/2009	$701,000	1073m	Full transfer	4	2	-	2	-	$701,000	32	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.55
+2009	250732	3 Pelham Close	10/10/2009	10/12/2009	26/08/2009	$700,000	1037m	Full transfer	4	1	1	-	2	$700,000	45	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.53
+2009	249559	9 Brough Place	05/09/2009	30/10/2009	07/08/2009	$685,000	815m	Full transfer	4	1	1	2	2	$685,000	29	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.46
+2009	244144	12 Pelham Close	23/04/2009	11/06/2009	11/03/2009	$670,000	955m	Full transfer	5	1	2	2	-	$670,000	43	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.56
+2009	243914	3 Garner Place	18/03/2009	25/05/2009	20/11/2008	$670,000	972m	Full transfer	4	1	1	1	-	$670,000	118	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.53
+2009	262377	170 Namatjira Drive	24/11/2009	27/01/2010	09/11/2009	$660,000	1130m	Full transfer	3	1	1	-	2	$660,000	15	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.46
+2009	245512	14 Sidaway Street	08/05/2009	03/08/2009	22/04/2009	$658,550	948m	Full transfer	4	1	1	-	2	$658,550	16	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.56
+2009	243911	36 Rene Street	29/04/2009	25/05/2009	27/03/2009	$615,000	832m	Full transfer	3	1	1	1	1	$615,000	33	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.46
+2009	243526	10 Doyle Terrace	12/02/2009	03/04/2009	30/10/2008	$610,000	831m	Full transfer	5	2	1	2	-	$610,000	105	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.52
+2009	245003	123 Perry Drive	22/01/2009	14/07/2009	20/11/2008	$600,000	1382m	Full transfer	5	1	1	2	0	$600,000	63	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.68
+2009	243913	5 Doyle Terrace	25/03/2009	25/05/2009	19/02/2009	$593,000	949m	Full transfer	4	1	1	2	-	$593,000	34	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.6
+2009	250043	24 Maplestone Place	23/10/2009	26/11/2009	03/09/2009	$585,000	1001m	Full transfer	4	1	1	-	2	$585,000	50	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.5
+2009	262379	1 Monkman Street	01/11/2009	25/02/2010	29/09/2009	$580,000	968m	Full transfer	4	1	1	-	3	$580,000	33	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.62
+2009	249126	34 Rene Street	01/08/2009	06/10/2009	30/06/2009	$570,000	828m	Full transfer	4	1	1	2	-	$570,000	32	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.48
+2009	244838	17 Musgrove Street	01/05/2009	03/07/2009	23/09/2009	$570,000	858m	Full transfer	6	1	2	1	1	$570,000	-	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.53
+2009	492130	4 Faulkner Place	16/10/2009	-	24/12/2016	$565,000	725m	Full transfer	3	2	1	0	2	$565,000	-	-	Allhomes Record	-	-	-	-	$354,000	0.63
+2009	262381	4 Faulkner Place	15/10/2009	02/03/2010	30/09/2009	$565,000	725m	Full transfer	3	1	1	-	2	$565,000	15	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.63
+2009	238643	6 Bertel Crescent	05/03/2009	24/04/2009	03/12/2008	$550,000	813m	Full transfer	3	2	-	2	-	$550,000	92	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.58
+2009	262384	2 Banvard Place	22/12/2009	22/03/2010	08/10/2009	$535,000	791m	Full transfer	4	1	1	-	1	$535,000	75	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.52
+2009	241312	18 Maplestone Place	25/03/2009	05/05/2009	19/09/2008	$531,000	997m	Full transfer	4	1	1	2	0	$531,000	187	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.55
+2009	249557	26 Perry Drive	16/09/2009	30/10/2009	29/07/2009	$530,000	769m	Full transfer	3	1	1	2	-	$530,000	49	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.59
+2009	238314	6 Bertel Place	22/01/2009	14/04/2009	07/10/2008	$515,000	981m	Full transfer	4	1	0	1	0	$515,000	107	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.69
+2009	249691	10 Thring Street	08/10/2009	05/11/2009	-	$500,000	807m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243525	10 Thring Street	16/03/2009	03/04/2009	-	$500,000	807m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238642	11 Perry Drive	10/03/2009	24/04/2009	03/10/2008	$500,000	933m	Full transfer	3	1	1	3	-	$500,000	158	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.56
+2009	323318	162 Streeton Drive	22/04/2009	31/05/2009	-	$479,000	993m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324678	3 Perry Drive	19/07/2009	29/10/2009	-	$460,000	832m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244744	21 Monkman Street	19/05/2009	23/07/2009	-	$300,000	1245m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238313	9 Gavin Place	19/01/2009	17/04/2009	-	$182,500	331m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	368965	43 Monkman Street	30/06/2009	19/04/2012	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	451501	5 Brough Place	06/10/2009	24/04/2015	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245002	28 Doyle Terrace	17/06/2009	14/07/2009	-	-	1059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244743	1 Monkman Street	24/06/2009	22/07/2009	-	-	968m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249561	26 Percy Crescent	24/06/2009	26/10/2009	-	-	933m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249560	65 Perry Drive	07/09/2009	27/10/2009	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248533	18 Emery Street	12/10/2009	04/11/2009	-	-	716m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244145	4 Niblo Place	11/05/2009	12/06/2009	-	-	2296m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251752	3 Beaumont Close	14/09/2009	21/01/2010	-	-	1375m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251598	2 Guinness Place	06/10/2009	22/12/2009	-	-	1464m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248057	8 Garner Place	13/05/2009	14/09/2009	-	-	1211m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245083	15 Rene Street	24/02/2009	18/06/2009	-	-	773m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249128	9 Lincoln Close	04/08/2009	29/09/2009	-	-	1538m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263608	41 Perry Drive	11/11/2009	26/05/2010	-	-	833m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244027	23 Rene Street	05/05/2009	02/06/2009	-	-	707m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243910	42 Chauvel Circle	11/03/2009	29/05/2009	-	-	930m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241275	1 Titheradge Place	18/04/2009	05/05/2009	-	-	1992m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241310	5 Gavin Place	12/01/2009	08/05/2009	-	-	327m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249788	5 Gavin Place	09/10/2009	12/11/2009	-	-	327m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271095	6 Ordell Street	16/07/2010	14/09/2010	18/06/2010	$1,180,000	956m	Full transfer	4	2	2	3	-	$1,180,000	28	-	Combined Record	391	-	-	Single residential dwelling	$383,000	0.32
+2010	283940	35 Beaumont Close	02/12/2010	25/02/2011	08/10/2010	$1,151,500	1763m	Full transfer	5	2	1	3	-	$1,151,500	55	-	Combined Record	-	-	-	Single residential dwelling	$613,000	0.53
+2010	270950	25 Percy Crescent	19/05/2010	03/09/2010	25/03/2010	$1,100,000	1657m	Full transfer	5	3	1	3	-	$1,100,000	55	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.4
+2010	277661	4 Simmons Place	13/11/2010	19/01/2011	06/10/2010	$1,100,000	2340m	Full transfer	6	1	2	3	-	$1,100,000	38	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.53
+2010	269066	7 Simmons Place	11/03/2010	21/06/2010	19/02/2010	$960,000	1823m	Full transfer	5	3	3	4	-	$960,000	20	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.65
+2010	271053	22 Chauvel Circle	27/03/2010	10/09/2010	01/03/2010	$957,000	2457m	Full transfer	4	1	1	1	-	$957,000	26	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.51
+2010	264822	23 Bertel Crescent	28/07/2010	-	15/04/2010	$940,000	791m	Full transfer	5	2	1	2	-	$940,000	104	-	Allhomes Record	235	-	-	-	$370,000	0.39
+2010	269068	30 Winstanley Street	05/05/2010	22/06/2010	26/03/2010	$930,000	1388m	Full transfer	5	1	2	4	-	$930,000	40	-	Combined Record	-	-	-	Single residential dwelling	$551,000	0.59
+2010	283881	53 Doyle Terrace	15/12/2010	01/03/2011	21/10/2010	$910,000	1265m	Full transfer	3	1	1	2	-	$910,000	55	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.58
+2010	270766	40 Chauvel Circle	04/06/2010	09/08/2010	19/02/2010	$890,000	991m	Full transfer	4	2	1	2	-	$890,000	105	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.46
+2010	329503	117 Perry Drive	13/11/2010	12/01/2011	-	$870,000	1189m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272747	22 Percy Crescent	26/08/2010	01/11/2010	-	$850,000	1106m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283941	6 Howarth Place	10/11/2010	21/02/2011	21/10/2010	$830,000	1023m	Full transfer	3	1	1	2	-	$830,000	20	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.57
+2010	280335	198 Namatjira Drive	01/10/2010	22/12/2010	16/09/2010	$812,000	1181m	Full transfer	4	1	1	2	-	$812,000	15	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.44
+2010	270162	1 Faulkner Place	29/07/2010	25/08/2010	-	$810,000	847m	Partial transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258231	29 Percy Crescent	04/03/2010	03/05/2010	03/02/2010	$790,000	1290m	Full transfer	4	1	1	2	-	$790,000	29	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.61
+2010	274571	2 Rafferty Street	16/10/2010	24/11/2010	04/06/2010	$790,000	1041m	Full transfer	4	2	1	2	-	$790,000	134	-	Combined Record	300	-	-	Single residential dwelling	$353,000	0.45
+2010	279244	21 Monkman Street	12/11/2010	02/02/2011	16/09/2010	$762,000	1245m	Full transfer	4	1	1	2	-	$762,000	57	-	Combined Record	177	-	-	Single residential dwelling	$574,000	0.75
+2010	273462	98 Perry Drive	10/08/2010	03/11/2010	14/07/2010	$730,000	1019m	Full transfer	3	1	1	2	2	$730,000	27	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.46
+2010	271054	43 Perry Drive	27/03/2010	10/09/2010	04/03/2010	$715,500	887m	Full transfer	4	1	1	2	-	$715,500	23	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.5
+2010	280334	31 Bertel Crescent	11/11/2010	22/12/2010	19/10/2010	$700,000	996m	Full transfer	4	2	1	1	1	$700,000	23	-	Combined Record	178	-	-	Single residential dwelling	$409,000	0.58
+2010	258707	86 Doyle Terrace	11/03/2010	18/05/2010	26/11/2009	$685,000	769m	Full transfer	5	1	2	2	-	$685,000	105	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.57
+2010	283880	7 Rene Street	13/12/2010	01/03/2011	10/11/2010	$655,000	894m	Full transfer	3	1	1	2	-	$655,000	33	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.53
+2010	284032	132 Darwinia Terrace	30/10/2010	16/02/2011	06/10/2010	$650,000	989m	Full transfer	5	1	1	2	-	$650,000	24	-	Combined Record	166	-	-	Single residential dwelling	$334,000	0.51
+2010	328511	170 Streeton Drive	06/07/2010	19/08/2010	-	$605,000	1235m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269067	7 Sidaway Street	29/04/2010	25/06/2010	07/04/2010	$600,000	1063m	Full transfer	4	1	1	-	2	$600,000	22	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.55
+2010	263967	5 Sidaway Street	18/05/2010	11/06/2010	09/04/2010	$580,000	1607m	Full transfer	3	1	1	1	2	$580,000	39	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.79
+2010	327735	10 Thring Street	14/05/2010	25/06/2010	-	$575,000	807m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263881	112 Perry Drive	13/02/2010	01/06/2010	20/01/2010	$570,000	684m	Full transfer	4	1	1	-	1	$570,000	24	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.56
+2010	256934	8 Bertel Place	08/05/2010	-	13/04/2010	$568,000	1183m	Full transfer	3	1	1	-	2	$568,000	25	-	Allhomes Record	-	-	-	-	$447,000	0.79
+2010	270000	188 Namatjira Drive	18/06/2010	27/07/2010	-	$565,000	950m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269065	8 Lazar Place	13/05/2010	25/06/2010	23/04/2010	$485,000	327m	Full transfer	2	1	-	-	2	$485,000	20	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.49
+2010	266766	2 Craydon Place	19/10/2010	-	19/07/2010	$482,500	1118m	Full transfer	2	1	-	1	-	$482,500	92	-	Allhomes Record	107	-	-	-	$483,000	1.0
+2010	270239	15 Percy Crescent	13/07/2010	31/08/2010	-	$450,000	1339m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269268	5 Gavin Place	01/06/2010	28/06/2010	06/05/2010	$445,000	327m	Full transfer	3	1	-	-	2	$445,000	26	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.54
+2010	267694	15 Titheradge Place	27/05/2010	30/06/2010	-	$250,000	1433m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	483142	86 Darwinia Terrace	15/11/2010	11/08/2016	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	383161	160 Namatjira Drive	27/12/2010	30/11/2012	-	$0	697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291219	86 Darwinia Terrace	26/03/2010	20/04/2011	-	-	786m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255735	5 Garner Place	19/03/2010	01/04/2010	-	-	1433m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280769	1 Pelham Place	22/08/2010	16/12/2010	-	-	1035m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	256405	8 Bertel Place	04/01/2010	12/04/2010	-	-	1183m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	336363	29 Tauchert Street	23/10/2010	16/08/2011	-	-	919m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280768	119 Perry Drive	22/08/2010	16/12/2010	-	-	1296m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267572	11 Guinness Place	19/05/2010	25/06/2010	-	-	1638m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255581	5 Sidaway Street	05/03/2010	24/03/2010	-	-	1607m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291187	25 Beaumont Close	17/11/2010	04/05/2011	-	-	1672m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270371	79 Perry Drive	10/09/2010	15/09/2010	-	-	924m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270163	19 Percy Crescent	28/06/2010	26/08/2010	-	-	1657m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	283403	24 Percy Crescent	30/03/2010	18/02/2011	-	-	1050m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292352	52 Monkman Street	23/03/2011	10/05/2011	18/11/2010	$1,500,000	1797m	Full transfer	4	2	1	6	-	$1,500,000	125	-	Combined Record	-	-	-	Single residential dwelling	$731,000	0.49
+2011	296856	25 Beaumont Close	12/03/2011	03/06/2011	16/02/2011	$1,235,000	1672m	Full transfer	6	2	2	3	-	$1,235,000	24	-	Combined Record	-	-	-	Single residential dwelling	$626,000	0.51
+2011	300716	32 Monkman Street	11/03/2011	22/07/2011	22/02/2011	$975,000	2210m	Full transfer	4	1	1	2	-	$975,000	17	-	Combined Record	-	-	-	Single residential dwelling	$650,000	0.67
+2011	353864	24 Doyle Terrace	21/10/2011	09/01/2012	16/09/2011	$860,000	949m	Full transfer	4	1	1	2	-	$860,000	35	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.52
+2011	359835	14 Tudawalli Place	07/12/2011	30/01/2012	09/11/2011	$849,000	1533m	Full transfer	4	1	1	2	-	$849,000	28	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.67
+2011	297002	24 Beaumont Close	06/05/2011	08/06/2011	14/02/2011	$844,000	1257m	Full transfer	4	1	1	2	-	$844,000	81	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.63
+2011	369227	5 Craydon Place	21/12/2011	03/04/2012	02/11/2011	$830,000	1383m	Full transfer	5	1	1	2	-	$830,000	49	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.6
+2011	336362	10 Boucicault Place	15/06/2011	18/08/2011	-	$820,000	990m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354614	21 Monkman Street	09/12/2011	16/01/2012	07/11/2011	$775,000	1245m	Full transfer	4	1	1	2	-	$775,000	32	-	Combined Record	177	-	-	Single residential dwelling	$574,000	0.74
+2011	331981	164 Namatjira Drive	01/04/2011	20/07/2011	-	$770,000	1160m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292216	77 Perry Drive	23/02/2011	18/05/2011	27/01/2011	$737,500	890m	Full transfer	3	1	1	2	-	$737,500	27	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.51
+2011	342380	6 Faulkner Place	05/09/2011	11/10/2011	31/05/2011	$675,000	778m	Full transfer	4	1	1	2	-	$675,000	97	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.63
+2011	354454	5 Pelham Close	05/11/2011	21/12/2011	14/10/2011	$653,000	881m	Full transfer	4	1	1	2	-	$653,000	22	-	Combined Record	176	-	-	Single residential dwelling	$416,000	0.64
+2011	349874	89 Perry Drive	14/10/2011	13/12/2011	20/09/2011	$651,000	957m	Full transfer	4	1	1	-	2	$651,000	24	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.62
+2011	337103	1 Neil Place	09/07/2011	18/08/2011	15/06/2011	$650,000	876m	Full transfer	4	1	1	2	-	$650,000	24	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.59
+2011	354616	68 Darwinia Terrace	29/11/2011	16/01/2012	17/11/2011	$639,000	994m	Full transfer	4	1	1	2	-	$639,000	12	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.55
+2011	354452	9 Banvard Place	11/11/2011	19/12/2011	-	$635,000	1053m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333118	20 Rafferty Street	07/06/2011	01/08/2011	08/02/2011	$620,000	871m	Full transfer	4	1	1	2	-	$620,000	119	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.62
+2011	340113	7 Sidaway Street	19/10/2011	-	01/09/2011	$603,000	1063m	Full transfer	4	1	1	-	2	$603,000	48	-	Allhomes Record	-	-	-	-	$396,000	0.66
+2011	331133	10 Banvard Place	04/04/2011	10/05/2011	-	$600,000	975m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349876	20 Perry Drive	26/05/2011	13/12/2011	19/04/2011	$585,000	870m	Full transfer	4	1	1	2	-	$585,000	37	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.65
+2011	336639	16 Maplestone Place	19/07/2011	29/08/2011	16/03/2011	$580,000	971m	Full transfer	3	1	1	2	-	$580,000	125	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.61
+2011	336092	13 Pelham Close	15/08/2011	07/09/2011	-	$565,000	892m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347712	63 Sidaway Street	16/09/2011	31/10/2011	-	$550,000	922m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287786	70 Perry Drive	24/02/2011	07/04/2011	28/01/2011	$545,000	753m	Full transfer	3	1	-	-	2	$545,000	27	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.7
+2011	344234	110 Perry Drive	09/09/2011	19/10/2011	28/06/2011	$525,000	759m	Full transfer	3	1	1	-	2	$525,000	73	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.72
+2011	332845	12 Gavin Place	26/05/2011	05/08/2011	28/03/2011	$498,000	327m	Full transfer	2	1	-	2	-	$498,000	59	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.51
+2011	337105	3 Sully Place	05/07/2011	17/08/2011	27/04/2011	$470,000	439m	Full transfer	3	1	-	1	-	$470,000	69	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.57
+2011	332848	4 Sully Place	06/07/2011	04/08/2011	-	$460,000	448m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291188	4 Lazar Place	21/03/2011	03/05/2011	-	$445,000	327m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	282051	4 Lazar Place	03/05/2011	-	17/11/2010	$445,000	327m	Full transfer	2	1	-	2	-	$445,000	167	-	Allhomes Record	-	-	-	-	$253,000	0.57
+2011	340668	8 Gavin Place	03/08/2011	26/09/2011	11/05/2011	$420,000	327m	Full transfer	2	1	-	-	2	$420,000	84	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.6
+2011	369231	5 Monkman Street	14/12/2011	03/04/2012	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350333	7 Sidaway Street	18/10/2011	28/11/2011	-	$0	1063m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368966	            68 Perry Drive	18/10/2011	18/04/2012	-	$0	979m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354453	31 Kathner Street	13/07/2011	20/12/2011	-	$0	854m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	379489	4 Thring Place	10/08/2011	21/09/2012	-	$0	1178m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	400939	6 Valli Place	02/10/2011	29/05/2013	-	$0	800m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347713	148 Darwinia Terrace	10/05/2011	04/11/2011	-	$0	327m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	370129	6 Sidaway Street	10/12/2011	30/03/2012	-	$0	777m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300256	22 Bertel Crescent	23/02/2011	04/07/2011	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296273	144 Darwinia Terrace	12/01/2011	06/06/2011	-	-	327m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296272	10 Beaumont Close	15/04/2011	08/06/2011	-	-	1641m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300372	4 Gavin Place	04/05/2011	13/07/2011	-	-	331m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	285988	50 Doyle Terrace	08/02/2011	16/03/2011	-	-	1157m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	357401	5 Sidaway Street	02/03/2012	-	13/01/2012	$1,257,500	1607m	Full transfer	3	2	-	2	-	$1,257,500	49	-	Allhomes Record	-	-	-	-	$478,000	0.38
+2012	391813	41 Pelham Close	11/12/2012	01/03/2013	09/10/2012	$1,040,000	2124m	Full transfer	4	2	2	4	-	$1,040,000	63	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.57
+2012	368963	31 Monkman Street	25/02/2012	17/04/2012	01/02/2012	$985,000	1232m	Full transfer	5	1	1	2	-	$985,000	24	-	Combined Record	-	-	-	Single residential dwelling	$636,000	0.65
+2012	365461	44 Chauvel Circle	06/02/2012	06/03/2012	20/12/2011	$960,000	1014m	Full transfer	4	2	1	2	-	$960,000	48	-	Combined Record	253	-	-	Single residential dwelling	$429,000	0.45
+2012	384337	7 Beaumont Close	10/09/2012	21/11/2012	09/03/2012	$870,000	1609m	Full transfer	4	1	1	4	-	$870,000	185	-	Combined Record	-	-	-	Single residential dwelling	$516,000	0.59
+2012	384974	88 Doyle Terrace	24/02/2012	14/05/2012	02/02/2012	$865,000	742m	Full transfer	4	1	1	2	-	$865,000	22	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.49
+2012	369229	3 Guinness Place	16/02/2012	04/04/2012	07/12/2011	$860,000	1653m	Full transfer	5	2	1	2	-	$860,000	71	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.61
+2012	372385	13 Tauchert Street	18/07/2012	-	19/04/2012	$795,000	857m	Full transfer	4	2	1	2	-	$795,000	90	-	Allhomes Record	-	-	-	-	$343,000	0.43
+2012	390005	2 Neil Place	01/12/2012	01/02/2013	31/10/2012	$770,000	940m	Full transfer	5	1	2	2	-	$770,000	31	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.56
+2012	387382	53 Sidaway Street	07/11/2012	18/12/2012	25/09/2012	$712,500	908m	Full transfer	4	1	1	-	2	$712,500	43	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.63
+2012	392992	10 Chauvel Circle	31/10/2012	18/02/2013	26/09/2012	$705,000	1109m	Full transfer	3	1	1	-	2	$705,000	35	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.61
+2012	370898	8 Musgrove Street	25/02/2012	23/04/2012	31/01/2012	$705,000	778m	Full transfer	4	1	1	1	-	$705,000	25	-	Combined Record	169	-	-	Single residential dwelling	$380,000	0.54
+2012	387746	18 Sidaway Street	13/08/2012	07/01/2013	-	$700,000	892m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	351551	32 Rene Street	24/01/2012	-	10/11/2011	$697,000	943m	Full transfer	5	1	2	2	1	$697,000	75	-	Allhomes Record	-	-	-	-	$352,000	0.51
+2012	374676	124 Darwinia Terrace	20/04/2012	25/06/2012	05/03/2012	$695,500	793m	Full transfer	4	1	1	2	-	$695,500	46	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.46
+2012	376714	108 Perry Drive	29/05/2012	23/07/2012	29/03/2012	$675,000	750m	Full transfer	5	2	1	-	2	$675,000	61	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.5
+2012	369491	8 Monkman Street	04/06/2012	-	21/03/2012	$663,000	1135m	Full transfer	4	1	1	-	2	$663,000	75	-	Allhomes Record	-	-	-	-	$430,000	0.65
+2012	380731	128 Perry Drive	03/08/2012	12/10/2012	-	$660,000	1026m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392570	107 Perry Drive	20/12/2012	13/02/2013	09/11/2012	$658,000	1020m	Full transfer	3	1	-	2	2	$658,000	41	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.65
+2012	380969	1 Heath Place	28/07/2012	25/09/2012	27/06/2012	$655,000	813m	Full transfer	4	2	-	2	1	$655,000	31	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.58
+2012	391812	1/5 Sidaway Street	01/03/2012	25/02/2013	-	$620,000	1607m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	387747	10 Perry Drive	16/11/2012	11/01/2013	04/10/2012	$610,000	777m	Full transfer	4	1	1	-	2	$610,000	43	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.62
+2012	374678	6 Sidaway Street	01/06/2012	27/06/2012	08/05/2012	$594,000	777m	Full transfer	4	1	1	-	1	$594,000	24	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.65
+2012	370130	192 Namatjira Drive	31/01/2012	27/03/2012	-	$580,000	1084m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379973	32 Doyle Terrace	07/08/2012	11/09/2012	14/06/2012	$578,000	903m	Full transfer	4	1	-	2	-	$578,000	54	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.77
+2012	372414	1 Pelham Place	19/07/2012	-	06/06/2012	$572,500	1034m	Full transfer	4	1	1	2	-	$572,500	43	-	Allhomes Record	-	-	-	-	$423,000	0.74
+2012	365782	19 Musgrove Street	17/01/2012	24/02/2012	10/11/2011	$570,000	815m	Full transfer	4	1	1	2	-	$570,000	68	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.64
+2012	377753	152 Namatjira Drive	20/09/2012	-	24/07/2012	$570,000	935m	Full transfer	4	2	-	-	1	$570,000	58	-	Allhomes Record	160	-	-	-	$337,000	0.59
+2012	384339	10 Emery Street	29/09/2012	22/11/2012	05/09/2012	$552,000	975m	Full transfer	3	1	0	2	0	$552,000	24	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.68
+2012	365459	7 Lazar Place	25/01/2012	09/03/2012	12/08/2011	$477,000	327m	Full transfer	2	1	-	1	-	$477,000	166	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.53
+2012	376716	150 Darwinia Terrace	15/06/2012	23/07/2012	11/11/2011	$415,000	327m	Full transfer	2	1	-	1	-	$415,000	217	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.61
+2012	365133	164 Streeton Drive	29/02/2012	15/03/2012	-	$300,000	930m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383588	29 Tauchert Street	19/10/2012	12/11/2012	-	$125,000	919m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382762	2 Bluett Place	11/10/2012	07/11/2012	-	$0	806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383160	117 Perry Drive	31/07/2012	30/11/2012	-	$0	1189m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394333	82 Doyle Terrace	21/10/2012	02/04/2013	-	$0	923m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383587	8 Emery Street	02/09/2012	14/11/2012	-	$0	839m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	502914	95 Perry Drive	25/11/2012	13/04/2017	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392991	20 Doyle Terrace	14/12/2012	18/02/2013	-	$0	872m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394411	74 Perry Drive	28/10/2012	25/03/2013	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	480111	22 Monkman Street	23/04/2012	23/06/2016	-	$0	1222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406567	36 Winstanley Street	15/06/2013	02/09/2013	20/05/2013	$1,670,000	1947m	Full transfer	5	2	1	3	-	$1,670,000	26	-	Combined Record	-	-	-	Single residential dwelling	$700,000	0.42
+2013	421841	4 Simmons Place	18/12/2013	19/02/2014	28/10/2013	$1,065,000	2340m	Full transfer	6	1	2	3	-	$1,065,000	51	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.57
+2013	411181	31 Percy Crescent	17/08/2013	19/09/2013	12/07/2013	$1,050,000	1290m	Full transfer	6	2	1	2	-	$1,050,000	36	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.48
+2013	407315	23 Titheradge Place	17/06/2013	28/08/2013	30/04/2013	$965,000	980m	Full transfer	4	2	1	2	-	$965,000	48	-	Combined Record	-	-	-	Single residential dwelling	$582,000	0.6
+2013	404238	31 Monkman Street	27/05/2013	05/07/2013	11/04/2013	$960,000	1232m	Full transfer	5	1	1	2	-	$960,000	46	-	Combined Record	-	-	-	Single residential dwelling	$636,000	0.66
+2013	400026	12 Titheradge Place	07/03/2013	21/05/2013	31/01/2013	$915,000	1478m	Full transfer	3	1	1	-	2	$915,000	35	-	Combined Record	-	-	-	Single residential dwelling	$716,000	0.78
+2013	414171	17 Rafferty Street	31/08/2013	22/11/2013	08/08/2013	$905,000	939m	Full transfer	4	2	1	2	-	$905,000	23	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.49
+2013	414173	39 Monkman Street	10/08/2013	22/11/2013	18/07/2013	$895,000	1281m	Full transfer	5	2	1	2	-	$895,000	23	-	Combined Record	-	-	-	Single residential dwelling	$636,000	0.71
+2013	410570	27 Pelham Close	26/04/2013	09/09/2013	13/02/2013	$875,000	1513m	Full transfer	4	2	1	2	-	$875,000	72	-	Combined Record	-	-	-	Single residential dwelling	$536,000	0.61
+2013	411183	28 Beaumont Close	02/08/2013	16/09/2013	-	$818,000	1273m	Full transfer	-	-	-	-	-	$818,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407317	39 Doyle Terrace	25/06/2013	30/08/2013	23/05/2013	$800,000	1109m	Full transfer	6	3	1	3	0	$800,000	33	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.57
+2013	419630	3 Simmons Place	09/11/2013	07/02/2014	17/10/2013	$800,000	1339m	Full transfer	4	1	1	0	2	$800,000	23	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.73
+2013	422538	18 Doyle Terrace	20/11/2013	18/03/2014	31/10/2013	$791,000	1025m	Full transfer	5	1	1	2	0	$791,000	20	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.54
+2013	404240	9 Sorlie Place	01/02/2013	01/07/2013	22/08/2012	$777,500	1198m	Full transfer	4	1	2	2	-	$777,500	163	-	Combined Record	-	-	-	Single residential dwelling	$574,000	0.74
+2013	411179	119 Perry Drive	02/07/2013	16/09/2013	15/01/2013	$760,000	1296m	Full transfer	5	1	2	3	-	$760,000	168	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.65
+2013	415780	19 Rafferty Street	18/08/2013	12/12/2013	-	$750,000	1146m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	393523	49 Percy Crescent	24/01/2013	04/03/2013	-	$750,000	2189m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406565	10 Rafferty Street	19/06/2013	05/09/2013	23/05/2013	$745,000	989m	Full transfer	4	3	0	2	0	$745,000	27	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.58
+2013	418501	81 Perry Drive	19/11/2013	09/01/2014	05/09/2013	$742,500	910m	Full transfer	3	1	1	1	0	$742,500	75	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.55
+2013	394010	20 Doyle Terrace	30/01/2013	21/03/2013	06/12/2012	$717,000	872m	Full transfer	4	1	1	2	-	$717,000	55	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.58
+2013	401456	12 Monkman Street	17/07/2013	-	15/05/2013	$715,000	1471m	Full transfer	5	1	1	4	-	$715,000	63	-	Allhomes Record	-	-	-	-	$493,000	0.69
+2013	413199	4 Rene Street	18/09/2013	29/10/2013	15/05/2013	$695,000	1017m	Full transfer	4	1	1	2	-	$695,000	126	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.57
+2013	413197	6 Rene Street	15/07/2013	29/10/2013	17/04/2013	$685,000	949m	Full transfer	4	1	1	2	-	$685,000	89	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.59
+2013	397392	7 Rolfe Place	15/02/2013	09/05/2013	24/10/2012	$685,000	924m	Full transfer	5	1	1	2	-	$685,000	114	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.57
+2013	411581	22 Bertel Crescent	04/09/2013	24/10/2013	18/04/2013	$680,000	1113m	Full transfer	5	2	1	2	-	$680,000	139	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.63
+2013	415246	5 Pelham Close	01/10/2013	04/12/2013	07/08/2013	$660,000	881m	Full transfer	4	1	1	2	-	$660,000	55	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.63
+2013	400333	74 Perry Drive	28/03/2013	04/06/2013	07/03/2013	$615,000	780m	Full transfer	3	1	0	2	0	$615,000	21	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.62
+2013	403826	2/5 Sidaway Street	18/05/2013	15/07/2013	16/04/2013	$600,000	1607m	Full transfer	3	1	1	2	-	$600,000	32	-	Combined Record	-	-	-	Multiple unit dwelling	$478,000	0.8
+2013	394695	162 Namatjira Drive	31/01/2013	10/04/2013	01/11/2012	$590,000	774m	Full transfer	4	1	1	3	-	$590,000	91	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.54
+2013	416600	18 Musgrove Street	02/11/2013	16/12/2013	10/10/2013	$491,000	858m	Full transfer	3	1	1	0	2	$491,000	23	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.7
+2013	403828	160 Namatjira Drive	29/05/2013	15/07/2013	-	$450,000	697m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	403829	148 Darwinia Terrace	26/06/2013	18/07/2013	-	$422,000	327m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397174	162 Darwinia Terrace	24/05/2013	-	12/04/2013	$408,000	369m	Full transfer	2	1	-	1	-	$408,000	42	-	Allhomes Record	-	-	-	-	$253,000	0.62
+2013	396551	58 Doyle Terrace	12/01/2013	23/04/2013	-	$0	1039m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	534948	66 Sidaway Street	03/02/2013	13/06/2018	-	$0	963m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	403628	3 Craydon Place	15/04/2013	02/07/2013	-	$0	1040m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406569	            2/1 Perry Drive	24/05/2013	02/09/2013	-	$0	1122m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	462207	6 Tauchert Street	18/10/2013	25/09/2015	-	$0	730m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400332	39 Monkman Street	24/03/2013	06/06/2013	-	$0	1281m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	402245	3 Doyle Terrace	06/03/2013	19/06/2013	-	$0	949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416792	11 Musgrove Street	24/11/2013	02/01/2014	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416598	6 Gavin Place	21/09/2013	17/12/2013	30/08/2013	$0	327m	Full transfer	2	1	0	0	0	$0	22	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.62
+2013	431170	4 Darrell Place	21/12/2013	17/07/2014	-	$0	1346m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427276	1/50 Darwinia Terrace	02/07/2013	08/05/2014	-	$0	1642m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	419761	7 Sully Place	13/10/2013	13/02/2014	-	$0	391m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421381	25 Titheradge Place	18/06/2013	26/02/2014	-	$0	1254m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416597	10 Bertel Place	06/11/2013	19/12/2013	-	$0	895m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421840	20 Winstanley Street	01/11/2013	18/02/2014	-	$0	1834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407127	22 Rene Street	06/06/2013	14/08/2013	-	$0	792m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400028	15 Pelham Close	03/03/2013	21/05/2013	-	$0	890m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430343	             Kathner Street	12/06/2014	07/07/2014	-	$10,500,000	46387m	Full transfer	-	-	-	-	-	$10,500,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2014	437424	21 Lincoln Close	13/11/2014	-	26/03/2014	$1,650,000	2256m	Full transfer	5	4	1	8	-	$1,650,000	232	-	Allhomes Record	-	-	-	-	$677,000	0.41
+2014	433675	6 Ordell Street	16/07/2014	22/08/2014	12/05/2014	$1,350,000	956m	Full transfer	5	3	-	3	-	$1,350,000	65	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.3
+2014	430344	38 Winstanley Street	06/05/2014	07/07/2014	27/03/2014	$1,200,000	1918m	Full transfer	5	1	2	3	1	$1,200,000	40	-	Combined Record	-	-	-	Single residential dwelling	$718,000	0.6
+2014	445264	4 Pelham Place	06/12/2014	06/02/2015	11/11/2014	$1,105,000	1701m	Full transfer	4	1	1	4	-	$1,105,000	25	-	Combined Record	-	-	-	Single residential dwelling	$549,000	0.5
+2014	430874	7 Niblo Place	01/04/2014	03/07/2014	10/10/2013	$1,050,000	1662m	Full transfer	5	2	1	1	1	$1,050,000	173	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.57
+2014	428044	35 Monkman Street	08/04/2014	16/05/2014	12/11/2013	$1,030,000	1310m	Full transfer	4	2	1	2	-	$1,030,000	147	-	Combined Record	-	-	-	Single residential dwelling	$660,000	0.64
+2014	431659	7 Titheradge Place	08/04/2014	25/07/2014	-	$985,000	1533m	Full transfer	-	-	-	-	-	$985,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433059	51 Percy Crescent	28/06/2014	12/08/2014	03/06/2014	$950,000	2247m	Full transfer	4	1	1	2	1	$950,000	25	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.51
+2014	422536	11 Titheradge Place	10/02/2014	20/03/2014	26/09/2013	$935,000	1343m	Full transfer	4	1	1	2	0	$935,000	137	-	Combined Record	-	-	-	Single residential dwelling...	$691,000	0.74
+2014	440427	30 Winstanley Street	05/09/2014	20/11/2014	15/04/2014	$930,000	1388m	Full transfer	5	1	2	3	-	$930,000	143	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.64
+2014	440170	2 Rafferty Street	27/10/2014	28/11/2014	28/07/2014	$900,000	1041m	Full transfer	5	3	-	2	0	$900,000	91	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.47
+2014	428723	9 Craydon Place	01/03/2014	04/06/2014	30/01/2014	$894,000	1560m	Full transfer	5	1	2	2	0	$894,000	30	-	Combined Record	-	-	-	Single residential dwelling	$533,000	0.6
+2014	446054	7 Boucicault Place	17/12/2014	10/02/2015	06/11/2014	$892,500	719m	Full transfer	5	3	0	2	0	$892,500	41	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.4
+2014	441324	9 Ordell Street	18/10/2014	04/12/2014	18/09/2014	$850,000	1365m	Full transfer	4	1	2	2	-	$850,000	30	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.69
+2014	427788	24 Percy Crescent	20/03/2014	30/04/2014	07/11/2013	$840,000	1050m	Full transfer	4	1	1	2	-	$840,000	133	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.54
+2014	448369	78 Doyle Terrace	08/11/2014	03/03/2015	02/10/2014	$840,000	902m	Full transfer	5	2	1	2	-	$840,000	37	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.53
+2014	445262	17 Beaumont Close	13/11/2014	06/02/2015	10/10/2014	$840,000	1829m	Full transfer	4	1	1	2	-	$840,000	34	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.65
+2014	446500	5 Winstanley Street	23/12/2014	18/02/2015	13/11/2014	$830,000	961m	Full transfer	4	1	1	2	-	$830,000	40	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.53
+2014	436803	31 Kathner Street	25/06/2014	09/10/2014	01/05/2014	$820,000	854m	Full transfer	5	1	2	-	2	$820,000	55	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.5
+2014	431660	49 Beaumont Close	02/05/2014	21/07/2014	22/01/2014	$810,000	1218m	Full transfer	5	1	2	2	-	$810,000	100	-	Combined Record	-	-	-	Single residential dwelling	$574,000	0.71
+2014	439036	51 Beaumont Close	12/09/2014	06/11/2014	-	$810,000	969m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	433673	3 Banvard Place	02/05/2014	18/08/2014	10/02/2014	$800,000	1043m	Full transfer	5	1	2	2	-	$800,000	81	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.48
+2014	441321	124 Perry Drive	15/07/2014	04/12/2014	20/06/2014	$795,000	974m	Full transfer	6	1	2	2	-	$795,000	25	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.51
+2014	431662	77 Perry Drive	27/05/2014	22/07/2014	16/01/2014	$780,000	890m	Full transfer	4	1	1	2	-	$780,000	131	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.49
+2014	456179	79 Perry Drive	17/12/2014	09/07/2015	02/07/2015	$780,000	924m	Full transfer	4	2	-	2	0	$780,000	-	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.52
+2014	434938	30 Bertel Crescent	01/07/2014	12/09/2014	03/06/2014	$779,000	1150m	Full transfer	4	2	1	3	-	$779,000	28	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.57
+2014	445260	130 Perry Drive	17/12/2014	06/02/2015	11/09/2014	$755,000	989m	Full transfer	4	1	1	2	0	$755,000	97	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.5
+2014	437665	40 Bertel Crescent	19/08/2014	16/10/2014	24/07/2014	$750,000	883m	Full transfer	5	1	1	2	0	$750,000	26	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.51
+2014	433057	12 Rafferty Street	04/06/2014	12/08/2014	15/05/2014	$743,000	949m	Full transfer	4	2	-	6	0	$743,000	20	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.58
+2014	419759	9 Brough Place	14/01/2014	14/02/2014	12/12/2013	$730,000	815m	Full transfer	4	2	0	2	2	$730,000	33	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.52
+2014	442468	26 Pelham Close	28/10/2014	02/01/2015	05/08/2014	$720,000	1274m	Full transfer	4	1	1	2	-	$720,000	84	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.71
+2014	432543	96 Perry Drive	28/06/2014	05/08/2014	05/06/2014	$715,000	859m	Full transfer	4	1	1	2	0	$715,000	23	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.53
+2014	422041	1 Bluett Place	31/03/2014	-	26/07/2013	$714,500	854m	Full transfer	4	1	1	2	-	$714,500	248	-	Allhomes Record	-	-	-	-	$416,000	0.58
+2014	443882	9 Emery Street	08/11/2014	19/01/2015	16/10/2014	$700,000	891m	Full transfer	5	1	1	2	2	$700,000	23	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.52
+2014	428721	107 Perry Drive	22/04/2014	04/06/2014	11/02/2014	$682,000	1020m	Full transfer	4	1	-	2	2	$682,000	70	-	Combined Record	163	-	-	Single residential dwelling	$426,000	0.62
+2014	446502	3 Sidaway Street	24/07/2014	16/02/2015	-	$680,000	1229m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421382	18 Perry Drive	16/01/2014	24/02/2014	12/09/2013	$670,000	867m	Full transfer	3	1	1	2	-	$670,000	126	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.57
+2014	434446	2 Garner Place	31/05/2014	03/09/2014	29/04/2014	$665,000	915m	Full transfer	3	1	1	1	-	$665,000	32	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.67
+2014	432545	10 Simmons Place	17/06/2014	06/08/2014	18/03/2014	$665,000	1808m	Full transfer	4	2	-	4	-	$665,000	91	-	Combined Record	-	-	-	Single residential dwelling	$677,000	1.02
+2014	428298	88 Darwinia Terrace	14/03/2014	22/05/2014	08/10/2013	$648,000	786m	Full transfer	4	1	1	-	1	$648,000	157	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.5
+2014	432207	2 Bluett Place	28/06/2014	30/07/2014	27/05/2014	$645,000	806m	Full transfer	4	1	1	2	-	$645,000	32	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.64
+2014	422990	73 Perry Drive	19/02/2014	26/03/2014	-	$638,400	911m	Full transfer	-	-	-	-	-	$638,400	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421843	5 Monkman Street	13/01/2014	21/02/2014	29/11/2013	$628,000	976m	Full transfer	4	1	1	2	1	$628,000	45	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.68
+2014	428046	5 Perry Drive	21/02/2014	13/05/2014	07/11/2013	$615,000	854m	Full transfer	4	1	1	-	2	$615,000	106	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.62
+2014	435824	7 Sidaway Street	07/08/2014	15/09/2014	17/06/2014	$599,000	1063m	Full transfer	4	1	1	2	-	$599,000	51	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.66
+2014	435822	112 Perry Drive	18/07/2014	15/09/2014	20/05/2014	$585,000	684m	Full transfer	4	1	1	-	1	$585,000	59	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.58
+2014	433061	20 Perry Drive	02/07/2014	15/08/2014	28/04/2014	$580,000	870m	Full transfer	4	1	1	2	-	$580,000	65	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.65
+2014	422991	15 Gavin Place	04/02/2014	25/03/2014	27/11/2013	$575,000	469m	Full transfer	3	1	1	2	-	$575,000	69	-	Combined Record	159	-	-	Single residential dwelling	$266,000	0.46
+2014	430876	11 Gavin Place	26/05/2014	04/07/2014	01/05/2014	$575,000	469m	Full transfer	3	1	1	2	-	$575,000	25	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.46
+2014	424036	9 Lazar Place	14/02/2014	03/04/2014	14/01/2014	$490,000	490m	Full transfer	3	1	1	1	0	$490,000	31	-	Combined Record	-	-	-	Medium density dwelling	$266,000	0.54
+2014	440429	1 Gavin Place	22/09/2014	21/11/2014	27/02/2014	$425,000	331m	Full transfer	3	1	-	-	2	$425,000	207	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.6
+2014	432547	7 Sully Place	09/07/2014	05/08/2014	13/05/2014	$399,000	391m	Full transfer	2	1	0	1	0	$399,000	57	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.63
+2014	424038	10 Thring Street	14/01/2014	01/04/2014	-	$300,000	807m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436689	29 Tauchert Street	19/08/2014	30/09/2014	-	$125,000	919m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428300	30 Winstanley Street	07/02/2014	21/05/2014	-	$0	1388m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	516106	2 Thring Street	21/06/2014	24/07/2017	-	$0	1038m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441772	43 Doyle Terrace	29/07/2014	08/12/2014	-	$0	1042m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429599	11 Gavin Place	06/05/2014	17/06/2014	-	$0	469m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437999	154 Darwinia Terrace	10/07/2014	21/10/2014	-	$0	343m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446053	111 Perry Drive	06/08/2014	11/02/2015	-	$0	844m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464987	9 Winstanley Street	23/12/2014	19/10/2015	-	$0	834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437667	136 Namatjira Drive	22/06/2014	13/10/2014	-	$0	1243m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446503	60 Doyle Terrace	15/06/2014	17/02/2015	-	$0	1202m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443574	21 Perry Drive	16/12/2014	15/01/2015	-	$0	816m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441771	24 Winstanley Street	11/02/2014	10/12/2014	-	$0	1398m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441323	98 Darwinia Terrace	24/10/2014	05/12/2014	-	$0	1047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	459327	125 Perry Drive	22/11/2014	14/08/2015	-	$0	1597m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452903	29 Percy Crescent	28/02/2015	12/05/2015	28/01/2015	$1,560,000	1290m	Full transfer	5	1	1	2	-	$1,560,000	31	-	Combined Record	391	-	-	Single residential dwelling	$531,000	0.34
+2015	473843	5 Simmons Place	13/12/2015	23/03/2016	16/11/2015	$1,300,000	2007m	Full transfer	4	2	1	2	-	$1,300,000	27	-	Combined Record	254	-	-	Single residential dwelling	$707,000	0.54
+2015	469448	27 Percy Crescent	21/11/2015	11/01/2016	20/10/2015	$1,250,000	1657m	Full transfer	6	2	1	3	-	$1,250,000	32	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.39
+2015	470138	80 Perry Drive	31/08/2015	04/02/2016	05/08/2015	$1,190,000	794m	Full transfer	5	2	1	2	-	$1,190,000	26	-	Combined Record	316	-	-	Single residential dwelling	$396,000	0.33
+2015	447812	9 Titheradge Place	27/01/2015	11/03/2015	-	$1,165,000	1214m	Full transfer	-	-	-	-	-	$1,165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462205	14 Beaumont Close	11/07/2015	25/09/2015	18/06/2015	$1,010,000	1418m	Full transfer	4	2	0	2	1	$1,010,000	23	-	Combined Record	-	-	-	Single residential dwelling	$586,000	0.58
+2015	468322	37 Kathner Street	28/10/2015	15/12/2015	07/10/2015	$1,005,000	969m	Full transfer	5	1	1	3	0	$1,005,000	21	-	Combined Record	-	-	-	Single residential dwelling	$465,000	0.46
+2015	461606	9 Sorlie Place	24/07/2015	07/09/2015	26/05/2015	$980,000	1198m	Full transfer	5	1	2	2	-	$980,000	59	-	Combined Record	-	-	-	Single residential dwelling	$601,000	0.61
+2015	465458	17 Ordell Street	25/07/2015	05/11/2015	30/06/2015	$970,000	1523m	Full transfer	4	2	1	2	0	$970,000	25	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.68
+2015	459968	3 Monkman Street	02/05/2015	17/08/2015	01/04/2015	$890,000	976m	Full transfer	4	1	1	2	-	$890,000	31	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.5
+2015	464982	128 Perry Drive	29/08/2015	23/10/2015	06/08/2015	$885,000	1026m	Full transfer	5	2	1	2	0	$885,000	23	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.45
+2015	450628	50 Darwinia Terrace	30/04/2015	-	07/04/2015	$870,000	932m	Full transfer	4	1	1	2	-	$870,000	23	-	Allhomes Record	-	-	-	-	$651,000	0.75
+2015	456747	5 Emery Street	08/05/2015	29/06/2015	16/04/2015	$870,000	958m	Full transfer	4	2	-	2	-	$870,000	22	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.45
+2015	456740	1/50 Darwinia Terrace	30/04/2015	30/06/2015	-	$870,000	1642m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468862	1 Rene Street	24/10/2015	05/01/2016	28/09/2015	$870,000	899m	Full transfer	3	2	1	2	-	$870,000	26	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.45
+2015	444102	18 Pelham Close	09/01/2015	29/01/2015	-	$849,000	1033m	Full transfer	-	-	-	-	-	$849,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458520	            2/50 Darwinia Terrace	09/06/2015	30/07/2015	-	$840,000	1642m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453303	50A Darwinia Terrace	09/06/2015	-	05/03/2015	$840,000	709m	Full transfer	4	1	1	2	-	$840,000	96	-	Allhomes Record	-	-	-	-	$651,000	0.78
+2015	473225	75 Doyle Terrace	03/12/2015	02/03/2016	13/11/2015	$822,500	1266m	Full transfer	5	1	1	2	-	$822,500	20	-	Combined Record	-	-	-	Single residential dwelling	$537,000	0.65
+2015	461095	1 Rickards Street	15/03/2015	14/09/2015	10/12/2014	$820,000	849m	Full transfer	5	1	1	2	1	$820,000	95	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.53
+2015	465770	76 Sidaway Street	07/10/2015	12/11/2015	13/08/2015	$809,000	721m	Full transfer	4	1	1	2	0	$809,000	55	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.49
+2015	464988	12 Pelham Close	26/08/2015	20/10/2015	21/07/2015	$806,000	955m	Full transfer	5	1	2	2	-	$806,000	36	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.58
+2015	448902	30 Sidaway Street	13/02/2015	24/03/2015	-	$780,000	892m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453554	1 Pelham Place	01/04/2015	28/05/2015	16/02/2015	$780,000	1035m	Full transfer	4	1	1	3	-	$780,000	44	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.58
+2015	453544	49 Percy Crescent	11/04/2015	29/05/2015	10/03/2015	$765,000	2189m	Full transfer	0	0	0	0	0	$765,000	32	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.67
+2015	470143	2 Tauchert Street	07/10/2015	03/02/2016	14/10/2015	$755,000	1124m	Full transfer	4	2	-	-	2	$755,000	-	-	Combined Record	182	-	-	Single residential dwelling	$400,000	0.53
+2015	448138	1 Doyle Terrace	23/01/2015	17/03/2015	19/12/2014	$750,000	990m	Full transfer	4	1	1	1	1	$750,000	35	-	Combined Record	163	-	-	Single residential dwelling	$429,000	0.57
+2015	456187	13 Emery Street	27/05/2015	09/07/2015	14/04/2015	$689,000	843m	Full transfer	4	1	1	-	1	$689,000	43	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.55
+2015	456737	20 Rafferty Street	14/04/2015	02/07/2015	-	$670,000	871m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	480110	            17/64 Perry Drive	19/10/2015	24/06/2016	-	$659,000	1976m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	480109	            4/64 Perry Drive	20/10/2015	21/06/2016	-	$654,900	1976m	Full transfer	-	-	-	-	-	$654,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462217	18 Emery Street	07/08/2015	24/09/2015	28/04/2015	$630,000	716m	Full transfer	4	1	1	1	1	$630,000	101	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.53
+2015	456738	22 Perry Drive	09/05/2015	29/06/2015	13/04/2015	$617,000	893m	Full transfer	4	1	1	2	-	$617,000	26	-	Combined Record	167	-	-	Single residential dwelling	$395,000	0.64
+2015	457949	110 Perry Drive	04/06/2015	13/07/2015	18/03/2015	$560,000	759m	Full transfer	3	2	0	0	2	$560,000	78	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.71
+2015	465460	5 Sully Place	21/09/2015	04/11/2015	03/08/2015	$520,500	342m	Full transfer	3	1	-	1	-	$520,500	49	-	Combined Record	122	-	-	Single residential dwelling	$264,000	0.51
+2015	480119	            14/64 Perry Drive	20/10/2015	22/06/2016	-	$497,000	1976m	Full transfer	-	-	-	-	-	$497,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	480108	            8/64 Perry Drive	07/07/2015	24/06/2016	-	$495,900	1976m	Full transfer	-	-	-	-	-	$495,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	479363	            18/64 Perry Drive	25/06/2015	02/06/2016	-	$495,600	1976m	Full transfer	-	-	-	-	-	$495,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	480118	            2/64 Perry Drive	06/02/2015	22/06/2016	-	$485,000	1976m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	480117	            5/64 Perry Drive	02/04/2015	20/06/2016	-	$475,000	1976m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468875	1 Lazar Place	09/11/2015	06/01/2016	-	$412,500	331m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465463	140 Darwinia Terrace	12/08/2015	06/11/2015	09/06/2015	$410,000	331m	Full transfer	2	1	-	1	-	$410,000	64	-	Combined Record	102	-	-	Single residential dwelling	$264,000	0.64
+2015	449939	1/134 Perry Drive	03/02/2015	08/04/2015	-	$0	1250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	476059	5 Sorlie Place	29/10/2015	21/04/2016	-	$0	1070m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457957	6 Sidaway Street	19/04/2015	16/07/2015	-	$0	777m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468868	9 Doyle Terrace	23/08/2015	06/01/2016	-	$0	876m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	478407	25 Monkman Street	30/08/2015	16/05/2016	-	$0	1154m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	499678	45 Monkman Street	12/05/2015	10/03/2017	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473215	42 Bertel Crescent	13/12/2015	01/03/2016	-	$0	1036m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	479362	10 Gavin Place	30/10/2015	03/06/2016	-	$0	327m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451162	13 Doyle Terrace	26/03/2015	27/04/2015	-	$0	876m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468874	1 Winstanley Street	03/11/2015	07/01/2016	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	449358	74 Sidaway Street	13/01/2015	02/04/2015	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	454156	7 Guinness Place	26/03/2015	04/06/2015	12/03/2015	$0	1389m	Full transfer	4	1	1	2	-	$0	14	-	Combined Record	-	-	-	Single residential dwelling	$601,000	0.64
+2015	461330	103 Perry Drive	30/06/2015	02/09/2015	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464994	19 Tauchert Street	20/07/2015	24/10/2015	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471009	3 Emery Street	18/11/2015	08/02/2016	-	$0	881m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478523	28 Chauvel Circle	08/06/2016	-	29/03/2016	$2,600,000	3660m	Full transfer	6	5	-	10	-	$2,600,000	71	-	Allhomes Record	499	-	-	-	$641,000	0.25
+2016	501773	28 Chauvel Circle	21/12/2016	20/03/2017	-	$2,500,000	3661m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482467	22 Monkman Street	15/05/2016	26/07/2016	04/05/2016	$1,450,000	1222m	Full transfer	5	2	1	2	-	$1,450,000	11	-	Combined Record	276	-	-	Single residential dwelling	$592,000	0.41
+2016	479833	22 Monkman Street	16/05/2016	-	04/07/2016	$1,450,000	-	Full transfer	5	2	1	2	-	$1,450,000	-	-	Allhomes Record	276	-	-	-	$592,000	0.41
+2016	504765	37 Pelham Close	02/12/2016	01/05/2017	17/06/2016	$1,393,000	1115m	Full transfer	5	2	-	2	0	$1,393,000	168	-	Combined Record	-	-	-	Single residential dwelling	$537,000	0.39
+2016	485807	54 Monkman Street	28/04/2016	29/08/2016	31/03/2016	$1,380,000	1653m	Full transfer	4	4	0	2	0	$1,380,000	28	-	Combined Record	-	-	-	Single residential dwelling	$816,000	0.59
+2016	488214	4 Lincoln Place	12/07/2016	07/10/2016	02/03/2016	$1,350,000	2686m	Full transfer	4	1	2	2	-	$1,350,000	132	-	Combined Record	-	-	-	Single residential dwelling	$768,000	0.57
+2016	497389	35 Percy Crescent	23/12/2016	23/02/2017	17/08/2016	$1,230,000	1657m	Full transfer	9	3	1	4	0	$1,230,000	128	-	Combined Record	-	-	-	Single residential dwelling	$519,000	0.42
+2016	495708	123 Perry Drive	10/11/2016	02/02/2017	27/10/2016	$1,100,000	1382m	Full transfer	5	2	-	3	0	$1,100,000	14	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.5
+2016	481121	1 Darrell Place	06/05/2016	06/07/2016	03/02/2016	$1,100,000	1760m	Full transfer	6	1	3	2	-	$1,100,000	93	-	Combined Record	-	-	-	Single residential dwelling	$624,000	0.57
+2016	491298	8 Howarth Place	03/09/2016	22/11/2016	11/08/2016	$1,087,500	1079m	Full transfer	5	4	-	2	-	$1,087,500	23	-	Combined Record	341	-	-	Single residential dwelling	$592,000	0.54
+2016	486971	8 Pelham Place	15/10/2016	-	22/09/2016	$1,065,000	0m	Full transfer	4	2	-	1	0	$1,065,000	23	-	Allhomes Record	-	-	-	-	$575,000	0.54
+2016	498130	8 Pelham Place	08/11/2016	13/02/2017	-	$1,045,000	1516m	Full transfer	-	-	-	-	-	$1,045,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490757	32 Beaumont Close	17/09/2016	16/11/2016	24/08/2016	$1,030,000	1321m	Full transfer	6	2	1	2	0	$1,030,000	24	-	Combined Record	-	-	-	Single residential dwelling	$574,000	0.56
+2016	491300	25 Monkman Street	23/07/2016	22/11/2016	28/06/2016	$1,000,000	1154m	Full transfer	4	1	1	2	-	$1,000,000	25	-	Combined Record	-	-	-	Single residential dwelling	$662,000	0.66
+2016	476063	4 Brough Place	27/01/2016	18/04/2016	11/11/2015	$950,000	738m	Full transfer	6	2	1	2	0	$950,000	77	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.41
+2016	476842	10 Redgrave Place	27/02/2016	27/04/2016	02/02/2016	$940,000	851m	Full transfer	4	2	1	0	2	$940,000	25	-	Combined Record	-	-	-	Single residential dwelling	$566,000	0.6
+2016	483154	5 Pelham Place	06/05/2016	08/08/2016	02/02/2016	$930,000	1108m	Full transfer	4	2	1	2	-	$930,000	94	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.53
+2016	486531	23 Bertel Crescent	03/08/2016	14/09/2016	22/06/2016	$920,000	791m	Full transfer	5	2	1	2	-	$920,000	42	-	Combined Record	239	-	-	Single residential dwelling	$433,000	0.47
+2016	482947	3 Tudawalli Place	30/08/2016	-	16/07/2016	$910,000	1344m	Full transfer	-	-	-	-	-	$910,000	45	-	Allhomes Record	-	-	-	-	$593,000	0.65
+2016	484708	3 Rolfe Place	28/06/2016	19/08/2016	-	$900,000	927m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498126	33 Doyle Terrace	07/12/2016	14/02/2017	10/11/2016	$890,000	926m	Full transfer	4	1	1	2	0	$890,000	27	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.56
+2016	485458	4 Freebody Place	27/09/2016	-	17/08/2016	$890,000	2109m	Full transfer	-	-	-	-	-	$890,000	41	-	Allhomes Record	-	-	-	-	$597,000	0.67
+2016	478881	4 Bertel Place	19/03/2016	23/05/2016	25/02/2016	$885,000	712m	Full transfer	4	2	1	-	1	$885,000	23	-	Combined Record	193	-	-	Single residential dwelling	$394,000	0.45
+2016	482177	198 Namatjira Drive	01/06/2016	22/07/2016	24/05/2016	$870,000	1181m	Full transfer	4	1	1	2	-	$870,000	8	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.48
+2016	491220	11 Faulkner Place	05/08/2016	23/11/2016	-	$870,000	832m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	472494	50A Darwinia Terrace	19/03/2016	-	23/02/2016	$865,000	1642m	Full transfer	4	1	1	2	-	$865,000	25	-	Allhomes Record	-	-	-	-	$692,000	0.8
+2016	486516	30 Doyle Terrace	25/06/2016	13/09/2016	02/06/2016	$865,000	1070m	Full transfer	3	2	0	3	0	$865,000	23	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.62
+2016	479352	            2/50 Darwinia Terrace	19/03/2016	31/05/2016	-	$865,000	1642m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484657	7 Redgrave Place	30/04/2016	19/08/2016	31/03/2016	$860,000	1449m	Full transfer	4	2	1	0	4	$860,000	30	-	Combined Record	-	-	-	Single residential dwelling	$662,000	0.77
+2016	482941	19 Monkman Street	30/08/2016	-	16/07/2016	$860,000	1184m	Full transfer	-	-	-	-	-	$860,000	45	-	Allhomes Record	-	-	-	-	$530,000	0.62
+2016	478417	14 Sidaway Street	19/03/2016	18/05/2016	25/02/2016	$842,500	948m	Full transfer	4	1	1	0	2	$842,500	23	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.59
+2016	492438	2 Darrell Place	14/12/2016	14/12/2016	29/09/2016	$820,000	1378m	Full transfer	-	-	-	-	-	$820,000	76	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.73
+2016	481947	4 Sorlie Place	17/05/2016	21/07/2016	15/03/2016	$810,000	857m	Full transfer	4	1	1	2	-	$810,000	63	-	Combined Record	217	-	-	Single residential dwelling	$464,000	0.57
+2016	476847	            68 Perry Drive	29/02/2016	27/04/2016	-	$800,000	979m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	470540	18 Thring Street	29/02/2016	-	01/02/2016	$800,000	-	Full transfer	4	2	1	2	-	$800,000	28	-	Allhomes Record	260	-	-	-	$419,000	0.52
+2016	482150	4 Ive Place	30/01/2016	19/07/2016	07/01/2016	$785,000	882m	Full transfer	3	1	1	2	0	$785,000	23	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.54
+2016	474736	132 Darwinia Terrace	22/01/2016	05/04/2016	28/10/2015	$770,000	989m	Full transfer	5	1	2	2	0	$770,000	86	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.51
+2016	496001	60 Bertel Crescent	18/10/2016	24/01/2017	20/09/2016	$760,000	772m	Full transfer	3	1	1	-	1	$760,000	28	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.57
+2016	489419	6 Bertel Crescent	31/05/2016	17/10/2016	12/04/2016	$749,000	813m	Full transfer	4	2	-	2	1	$749,000	49	-	Combined Record	206	-	-	Single residential dwelling	$427,000	0.57
+2016	492955	11 Emery Street	21/10/2016	08/12/2016	-	$725,000	795m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488264	39 Sidaway Street	22/08/2016	07/10/2016	-	$700,000	1387m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495003	14 Rene Street	14/10/2016	11/01/2017	20/09/2016	$690,000	722m	Full transfer	3	1	-	2	0	$690,000	24	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.53
+2016	493310	6 Emery Street	09/12/2016	09/12/2016	29/09/2016	$690,000	1051m	Full transfer	-	-	-	-	-	$690,000	71	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.55
+2016	490409	52 Darwinia Terrace	29/11/2016	-	14/10/2016	$681,000	1962m	Full transfer	-	-	-	-	-	$681,000	46	-	Allhomes Record	-	-	-	-	$396,000	0.58
+2016	479592	            3/64 Perry Drive	30/03/2016	08/06/2016	-	$679,000	1976m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472778	            5 Tait Place	30/03/2016	-	05/11/2014	$679,000	-	Full transfer	3	1	1	-	-	$679,000	511	-	Allhomes Record	-	-	-	-	-	-
+2016	489289	            2/134 Perry Drive	05/09/2016	19/10/2016	-	$678,000	1250m	Full transfer	-	-	-	-	-	$678,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483802	132 Perry Drive	05/09/2016	-	19/07/2016	$678,000	0m	Full transfer	3	2	-	2	0	$678,000	48	-	Allhomes Record	-	-	-	-	$477,000	0.7
+2016	490107	34 Perry Drive	07/05/2016	07/11/2016	13/04/2016	$675,000	927m	Full transfer	4	1	1	1	1	$675,000	24	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.62
+2016	474085	83 Doyle Terrace	14/04/2016	-	08/03/2016	$675,000	1459m	Full transfer	-	-	-	-	-	$675,000	37	-	Allhomes Record	-	-	-	-	$595,000	0.88
+2016	489829	 Sidaway Street	21/11/2016	-	12/07/2016	$670,000	-	Full transfer	3	2	-	2	-	$670,000	132	-	Allhomes Record	-	-	-	-	$524,000	0.78
+2016	478982	134 Perry Drive	20/06/2016	-	12/02/2016	$670,000	627m	Full transfer	4	2	-	2	0	$670,000	129	-	Allhomes Record	-	-	-	-	$477,000	0.71
+2016	487450	12 Maplestone Place	20/08/2016	30/09/2016	27/07/2016	$669,000	856m	Full transfer	4	2	-	2	-	$669,000	24	-	Combined Record	178	-	-	Single residential dwelling	$380,000	0.57
+2016	515251	            1/3 Sidaway Street	10/10/2016	10/07/2017	-	$667,503	1229m	Full transfer	-	-	-	-	-	$667,503	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	477444	69 Sidaway Street	31/05/2016	-	23/04/2016	$660,000	817m	Full transfer	-	-	-	-	-	$660,000	38	-	Allhomes Record	-	-	-	-	$416,000	0.63
+2016	512832	            3/3 Sidaway Street	21/11/2016	26/05/2017	-	$660,000	1229m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480901	8 Ordell Street	26/07/2016	-	21/06/2016	$650,000	975m	Full transfer	-	-	-	-	-	$650,000	35	-	Allhomes Record	-	-	-	-	$447,000	0.69
+2016	517657	31 Perry Drive	17/12/2016	25/08/2017	23/11/2016	$650,000	1069m	Full transfer	4	2	-	0	2	$650,000	24	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.73
+2016	492835	60 Sidaway Street	14/12/2016	14/12/2016	29/09/2016	$625,000	850m	Full transfer	-	-	-	-	-	$625,000	76	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.65
+2016	486875	58 Sidaway Street	07/10/2016	-	24/05/2016	$625,000	838m	Full transfer	-	-	-	-	-	$625,000	136	-	Allhomes Record	-	-	-	-	$416,000	0.67
+2016	490385	5 Brough Place	29/11/2016	-	10/11/2016	$625,000	843m	Full transfer	-	-	-	-	-	$625,000	19	-	Allhomes Record	-	-	-	-	$382,000	0.61
+2016	491058	8 Brough Place	30/11/2016	-	21/06/2016	$615,000	718m	Full transfer	-	-	-	-	-	$615,000	162	-	Allhomes Record	-	-	-	-	$353,000	0.57
+2016	474037	74 Darwinia Terrace	12/04/2016	-	08/03/2016	$610,000	1059m	Full transfer	-	-	-	-	-	$610,000	35	-	Allhomes Record	-	-	-	-	$379,000	0.62
+2016	491423	10 Emery Street	24/11/2016	24/11/2016	-	$600,000	975m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487846	3 Lipman Street	24/10/2016	-	18/08/2016	$600,000	846m	Full transfer	-	-	-	-	-	$600,000	67	-	Allhomes Record	-	-	-	-	$382,000	0.64
+2016	482942	10 Emery Street	30/08/2016	-	16/07/2016	$600,000	975m	Full transfer	-	-	-	-	-	$600,000	45	-	Allhomes Record	-	-	-	-	$374,000	0.62
+2016	479877	93 Doyle Terrace	01/07/2016	-	23/04/2016	$585,000	813m	Full transfer	-	-	-	-	-	$585,000	69	-	Allhomes Record	-	-	-	-	$507,000	0.87
+2016	486455	10 Gavin Place	02/07/2016	14/09/2016	07/06/2016	$510,500	327m	Full transfer	2	1	-	2	0	$510,500	25	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.55
+2016	485781	            15/64 Perry Drive	27/06/2016	01/09/2016	-	$505,000	1976m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479700	15/66 Perry Drive	27/06/2016	-	12/05/2016	$505,000	-	Full transfer	2	1	1	-	-	$505,000	46	-	Allhomes Record	90	-	-	-	-	-
+2016	472121	            5 Tait Place	17/03/2016	-	30/05/2014	$505,000	1437m	Full transfer	2	1	1	-	-	$505,000	657	-	Allhomes Record	-	-	-	-	$623,000	1.23
+2016	476060	172 Namatjira Drive	07/03/2016	21/04/2016	-	$500,000	1150m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489327	8 Lazar Place	30/08/2016	20/10/2016	17/08/2016	$496,000	327m	Full transfer	2	1	-	-	2	$496,000	13	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.57
+2016	477759	2 Lazar Place	23/03/2016	12/05/2016	-	$440,000	331m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495570	18 Beaumont Close	07/11/2016	01/02/2017	-	$0	1429m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492796	13 Gavin Place	03/06/2016	16/12/2016	-	$0	365m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499799	7 Brough Place	15/11/2016	06/03/2017	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476065	7 Doyle Terrace	04/03/2016	21/04/2016	-	$0	1015m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481133	32 Bertel Crescent	14/04/2016	05/07/2016	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496763	13 Tauchert Street	09/05/2016	06/02/2017	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504937	50 Doyle Terrace	30/09/2016	01/05/2017	-	$0	1157m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	480801	3 Gavin Place	03/03/2016	28/06/2016	-	$0	327m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492649	11 Winstanley Street	14/09/2016	16/12/2016	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495617	10 Tauchert Street	20/04/2016	30/01/2017	-	$0	897m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478884	7 Ordell Street	19/03/2016	27/05/2016	22/02/2016	$0	1875m	Full transfer	5	1	1	3	-	$0	26	-	Combined Record	-	-	-	Single residential dwelling	$730,000	0.57
+2016	520019	144 Namatjira Drive	30/09/2016	17/10/2017	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499819	78 Perry Drive	15/03/2016	09/03/2017	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513920	            4/3 Sidaway Street	28/10/2016	23/06/2017	-	$0	1229m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480107	12 Doyle Terrace	16/03/2016	21/06/2016	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513626	29 Rafferty Street	29/10/2016	01/06/2017	-	$0	990m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508523	23 Lincoln Close	10/10/2017	-	23/08/2017	$2,200,000	0m	Full transfer	5	2	-	2	0	$2,200,000	48	-	Allhomes Record	-	-	-	-	$707,000	0.32
+2017	517046	8 Craydon Place	05/05/2017	04/08/2017	26/10/2016	$1,336,265	1487m	Full transfer	5	2	1	2	-	$1,336,265	191	-	Combined Record	-	-	-	Single residential dwelling	$638,000	0.48
+2017	524940	42 Chauvel Circle	28/11/2017	02/02/2018	19/09/2017	$1,330,000	930m	Full transfer	4	2	-	2	-	$1,330,000	70	-	Combined Record	325	-	-	Single residential dwelling	$489,000	0.37
+2017	514278	10 Lincoln Close	13/04/2017	27/06/2017	21/02/2017	$1,150,000	1356m	Full transfer	5	1	2	2	1	$1,150,000	51	-	Combined Record	234	-	-	Single residential dwelling	$529,000	0.46
+2017	513228	1 Sorlie Place	10/04/2017	07/06/2017	-	$1,100,000	1502m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510023	26 Beaumont Close	24/11/2017	-	21/09/2017	$1,020,000	1245m	Full transfer	4	3	-	2	-	$1,020,000	64	-	Allhomes Record	-	-	-	-	$604,000	0.59
+2017	521089	50 Doyle Terrace	04/09/2017	07/12/2017	31/08/2017	$1,020,000	1157m	Full transfer	4	2	-	2	0	$1,020,000	4	-	Combined Record	-	-	-	Single residential dwelling	$555,000	0.54
+2017	521268	15 Rafferty Street	15/09/2017	05/12/2017	02/08/2017	$1,000,000	1001m	Full transfer	5	3	-	2	0	$1,000,000	44	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.51
+2017	528051	38 Doyle Terrace	13/12/2017	25/03/2018	19/10/2017	$1,000,000	993m	Full transfer	4	3	-	2	0	$1,000,000	55	-	Combined Record	-	-	-	Single residential dwelling	$506,000	0.51
+2017	522137	            68 Perry Drive	31/07/2017	12/12/2017	-	$980,000	979m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503412	3 Darrell Place	23/01/2017	03/04/2017	-	$925,000	2181m	Full transfer	-	-	-	-	-	$925,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523979	13 Banvard Place	28/10/2017	23/01/2018	05/10/2017	$920,000	1037m	Full transfer	4	2	-	0	2	$920,000	23	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.41
+2017	506510	19 Rafferty Street	21/07/2017	-	12/04/2017	$870,000	-	Full transfer	4	1	2	-	2	$870,000	100	-	Allhomes Record	-	-	-	-	$535,000	0.61
+2017	525859	            2/74 Darwinia Terrace	15/12/2017	14/02/2018	-	$869,000	1059m	Full transfer	-	-	-	-	-	$869,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512938	26 Percy Crescent	29/03/2017	22/05/2017	24/11/2016	$865,000	933m	Full transfer	5	4	-	2	1	$865,000	125	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.56
+2017	512900	16 Musgrove Street	18/03/2017	22/05/2017	24/02/2017	$855,000	1114m	Full transfer	4	2	-	0	2	$855,000	22	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.55
+2017	530266	84 Doyle Terrace	01/09/2017	09/04/2018	-	$850,000	786m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529501	            2/9 Kathner Street	15/12/2017	04/04/2018	-	$837,000	1646m	Full transfer	-	-	-	-	-	$837,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510647	2 Percy Crescent	15/12/2017	-	25/10/2017	$837,000	-	Full transfer	4	1	1	2	-	$837,000	51	-	Allhomes Record	-	-	-	-	$877,000	1.05
+2017	518658	1/11 Kathner Street	03/06/2017	20/09/2017	-	$835,000	1563m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505179	11 Kathner Street	03/06/2017	-	11/05/2017	$835,000	718m	Full transfer	3	2	-	2	0	$835,000	23	-	Allhomes Record	-	-	-	-	$856,000	1.03
+2017	524678	5 Heath Place	18/10/2017	01/02/2018	-	$800,000	982m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510618	96 Darwinia Terrace	14/12/2017	-	02/11/2017	$800,000	0m	Full transfer	4	2	-	2	0	$800,000	42	-	Allhomes Record	-	-	-	-	$390,000	0.49
+2017	503818	18 Titheradge Place	24/04/2017	24/04/2017	-	$750,000	1190m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530201	128 Darwinia Terrace	01/09/2017	09/04/2018	-	$750,000	827m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	493617	18 Titheradge Place	24/01/2017	-	29/09/2016	$750,000	1190m	Full transfer	-	-	-	-	-	$750,000	117	-	Allhomes Record	-	-	-	-	$675,000	0.9
+2017	526848	5 Rene Street	15/12/2017	08/03/2018	11/10/2017	$749,000	738m	Full transfer	4	2	-	2	0	$749,000	65	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.51
+2017	518159	90 Darwinia Terrace	17/07/2017	29/08/2017	01/06/2017	$745,000	815m	Full transfer	4	2	0	2	0	$745,000	46	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.49
+2017	514819	28 Perry Drive	29/04/2017	05/07/2017	06/04/2017	$735,000	733m	Full transfer	4	2	-	1	1	$735,000	23	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.51
+2017	514966	82 Perry Drive	04/05/2017	03/07/2017	05/04/2017	$730,000	780m	Full transfer	4	1	1	-	2	$730,000	29	-	Combined Record	149	-	-	Single residential dwelling	$421,000	0.58
+2017	501537	1 Sidaway Street	19/01/2017	24/03/2017	-	$720,000	1222m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499013	52 Darwinia Terrace	27/02/2017	27/02/2017	-	$681,000	1962m	Full transfer	-	-	-	-	-	$681,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510003	3 Lipman Street	09/11/2017	-	27/06/2017	$655,000	846m	Full transfer	-	-	-	-	-	$655,000	135	-	Allhomes Record	-	-	-	-	$565,000	0.86
+2017	520852	95 Perry Drive	16/09/2017	22/11/2017	23/08/2017	$655,000	813m	Full transfer	4	2	-	2	0	$655,000	24	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.64
+2017	502553	20 Perry Drive	09/03/2017	20/04/2017	14/02/2017	$652,500	870m	Full transfer	4	2	-	2	0	$652,500	23	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.64
+2017	501701	72 Sidaway Street	22/03/2017	22/03/2017	14/10/2016	$630,000	805m	Full transfer	-	-	-	-	-	$630,000	159	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.9
+2017	498797	5 Brough Place	28/02/2017	28/02/2017	-	$625,000	843m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	495037	58 Sidaway Street	11/01/2017	11/01/2017	-	$625,000	839m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507403	100 Darwinia Terrace	28/08/2017	-	07/07/2017	$620,000	0m	Full transfer	-	-	-	-	-	$620,000	52	-	Allhomes Record	-	-	-	-	$389,000	0.63
+2017	520906	100 Darwinia Terrace	28/11/2017	28/11/2017	-	$620,000	1186m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496009	8 Brough Place	24/01/2017	24/01/2017	-	$615,000	719m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	495279	3 Lipman Street	18/01/2017	18/01/2017	-	$600,000	846m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512804	6 Sully Place	21/03/2017	24/05/2017	08/03/2017	$515,000	356m	Full transfer	3	1	-	1	0	$515,000	13	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.55
+2017	519312	5 Gavin Place	13/07/2017	13/10/2017	28/08/2017	$503,500	327m	Full transfer	3	1	-	2	0	$503,500	-	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.56
+2017	522379	7 Lazar Place	22/09/2017	14/12/2017	10/03/2017	$497,500	327m	Full transfer	2	1	-	1	-	$497,500	196	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.56
+2017	513443	9 Gavin Place	17/03/2017	01/06/2017	08/02/2017	$480,000	331m	Full transfer	3	1	-	0	2	$480,000	37	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.59
+2017	503297	146 Darwinia Terrace	08/02/2017	05/04/2017	07/10/2016	$480,000	327m	Full transfer	2	1	-	1	-	$480,000	124	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.59
+2017	527634	73 Doyle Terrace	29/09/2017	14/03/2018	-	$460,000	2323m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518790	144 Darwinia Terrace	17/08/2017	15/09/2017	-	$455,000	327m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537603	4 Lipman Street	07/05/2017	12/07/2018	-	$0	1289m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	533975	15 Doyle Terrace	13/12/2017	30/05/2018	-	$0	1029m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	561493	9 Beaumont Close	16/03/2017	29/05/2019	-	$0	1630m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513137	95 Perry Drive	21/02/2017	07/06/2017	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	555919	23 Rene Street	28/06/2017	20/03/2019	-	$0	707m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528349	60 Doyle Terrace	02/05/2017	22/03/2018	-	$0	1202m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	575422	10 Doyle Terrace	29/10/2017	26/11/2019	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523682	            2/9 Kathner Street	07/10/2017	18/01/2018	-	$0	1646m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	574938	9 Heath Place	05/07/2017	18/11/2019	-	$0	1117m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522142	15 Musgrove Street	12/10/2017	11/12/2017	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517031	5 Sorlie Place	13/02/2017	03/08/2017	-	$0	1070m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518533	9 Brough Place	24/07/2017	05/09/2017	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	563894	78 Darwinia Terrace	14/02/2017	02/07/2019	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517874	25 Kathner Street	21/05/2017	28/08/2017	-	$0	1129m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533654	118 Darwinia Terrace	03/11/2017	21/05/2018	-	$0	846m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514367	11 Musgrove Street	22/06/2017	05/07/2017	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523568	11 Winstanley Street	28/10/2017	15/01/2018	05/10/2017	$0	845m	Full transfer	4	2	-	0	1	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.59
+2017	535430	3 Rene Street	06/01/2017	24/06/2018	-	$0	689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551250	32 Winstanley Street	30/10/2018	16/11/2018	-	$1,450,000	1991m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548973	24 Bertel Crescent	26/11/2018	15/01/2019	10/10/2018	$1,420,000	1192m	Full transfer	5	1	1	2	-	$1,420,000	47	-	Combined Record	314	-	-	Single residential dwelling	$530,000	0.37
+2018	551134	6 Lincoln Close	20/09/2018	10/01/2019	28/08/2018	$1,287,000	1408m	Full transfer	5	2	1	2	-	$1,287,000	23	-	Combined Record	312	-	-	Single residential dwelling	$552,000	0.43
+2018	542380	41 Monkman Street	04/08/2018	20/09/2018	12/07/2018	$1,230,000	1191m	Full transfer	4	2	-	2	0	$1,230,000	23	-	Combined Record	-	-	-	Single residential dwelling	$704,000	0.57
+2018	510962	74 Darwinia Terrace	09/01/2018	-	29/11/2017	$1,140,000	1059m	Full transfer	4	2	-	2	0	$1,140,000	41	-	Allhomes Record	-	-	-	-	$450,000	0.39
+2018	536595	25 Titheradge Place	22/02/2018	28/06/2018	14/03/2018	$1,070,000	1254m	Full transfer	4	3	-	3	0	$1,070,000	-	-	Combined Record	-	-	-	Single residential dwelling	$662,000	0.62
+2018	541294	55 Percy Crescent	20/07/2018	05/09/2018	-	$1,025,000	1684m	Full transfer	-	-	-	-	-	$1,025,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551431	6 Chauvel Circle	27/09/2018	15/11/2018	20/06/2018	$1,015,000	1314m	Full transfer	5	3	-	0	2	$1,015,000	99	-	Combined Record	-	-	-	Single residential dwelling	$584,000	0.58
+2018	529090	12 Tauchert Street	16/01/2018	29/03/2018	01/11/2017	$1,000,000	1003m	Full transfer	4	2	-	2	0	$1,000,000	76	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.44
+2018	543041	37 Doyle Terrace	02/10/2018	-	13/09/2018	$980,000	0m	Full transfer	4	2	-	2	0	$980,000	19	-	Allhomes Record	-	-	-	-	$531,000	0.54
+2018	550176	43 Pelham Close	16/10/2018	10/12/2018	-	$980,000	1093m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553302	            2/58 Sidaway Street	21/12/2018	12/02/2019	-	$970,000	839m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547095	3 Tudawalli Place	28/09/2018	20/11/2018	22/08/2018	$960,000	1344m	Full transfer	-	-	-	-	-	$960,000	37	-	Combined Record	1344	-	-	Single residential dwelling	$871,000	0.91
+2018	551539	4 Rafferty Street	07/08/2018	15/11/2018	-	$960,000	1271m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560419	11 Faulkner Place	08/09/2018	10/12/2018	09/08/2018	$950,000	832m	Full transfer	4	2	-	2	0	$950,000	30	-	Combined Record	-	-	-	Single residential dwelling	$584,000	0.61
+2018	536162	3 Freebody Place	08/05/2018	01/07/2018	06/02/2018	$930,000	2043m	Full transfer	7	2	3	8	-	$930,000	91	-	Combined Record	595	-	-	Single residential dwelling	$693,000	0.75
+2018	561757	3 Maplestone Place	17/11/2018	21/02/2019	25/10/2018	$920,000	820m	Full transfer	3	2	-	2	0	$920,000	23	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.43
+2018	539519	5 Lipman Street	10/07/2018	08/08/2018	-	$917,500	982m	Full transfer	-	-	-	-	-	$917,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547672	1 Rafferty Street	10/10/2018	29/11/2018	14/06/2018	$907,500	1085m	Full transfer	4	4	-	2	0	$907,500	118	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.58
+2018	550545	4 Faulkner Place	13/09/2018	30/10/2018	-	$870,000	725m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535683	10 Rene Street	10/03/2018	19/06/2018	06/02/2018	$865,000	1116m	Full transfer	4	2	-	2	0	$865,000	32	-	Combined Record	-	-	-	Single residential dwelling	$489,000	0.57
+2018	552304	5 Doyle Terrace	17/11/2018	21/01/2019	24/10/2018	$862,000	949m	Full transfer	4	1	1	2	-	$862,000	24	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.59
+2018	548388	54 Darwinia Terrace	13/07/2018	06/11/2018	15/05/2018	$856,500	1394m	Full transfer	4	2	-	4	-	$856,500	59	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.59
+2018	529675	20 Sidaway Street	23/01/2018	08/04/2018	-	$840,000	913m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551170	68 Darwinia Terrace	05/11/2018	09/01/2019	17/10/2018	$835,000	994m	Full transfer	4	2	-	2	1	$835,000	19	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.48
+2018	548939	37 Rene Street	20/06/2018	17/01/2019	-	$830,000	929m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529638	134 Darwinia Terrace	09/02/2018	08/04/2018	16/01/2018	$801,000	891m	Full transfer	4	1	1	-	2	$801,000	24	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.47
+2018	548935	2 Thring Street	30/05/2018	17/01/2019	22/03/2018	$800,000	1038m	Full transfer	4	-	-	-	-	$800,000	69	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.51
+2018	569313	57 Perry Drive	21/12/2018	11/09/2019	18/10/2018	$785,000	1250m	Full transfer	-	-	-	-	-	$785,000	64	-	Combined Record	-	-	-	Single residential dwelling	$494,000	0.63
+2018	561017	19 Musgrove Street	17/11/2018	13/02/2019	26/10/2018	$770,000	815m	Full transfer	4	2	-	2	0	$770,000	22	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.54
+2018	535052	4 Banvard Place	11/04/2018	13/06/2018	15/03/2018	$770,000	921m	Full transfer	3	1	-	0	1	$770,000	27	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.59
+2018	538587	15 Doyle Terrace	02/06/2018	23/07/2018	10/05/2018	$765,000	1029m	Full transfer	4	2	-	2	0	$765,000	23	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.67
+2018	541721	144 Namatjira Drive	12/06/2018	11/09/2018	04/04/2018	$765,000	913m	Full transfer	4	2	-	2	-	$765,000	69	-	Combined Record	153	-	-	Single residential dwelling	$325,000	0.42
+2018	535610	8 Rolfe Place	19/06/2018	19/06/2018	-	$750,000	1137m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542230	128 Darwinia Terrace	02/06/2018	17/09/2018	09/05/2018	$730,000	827m	Full transfer	4	2	-	2	0	$730,000	24	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.52
+2018	546784	170 Streeton Drive	06/11/2018	02/01/2019	04/10/2018	$725,000	1235m	Full transfer	4	2	1	2	0	$725,000	33	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.58
+2018	539484	12 Perry Drive	05/05/2018	09/08/2018	27/04/2018	$690,000	880m	Full transfer	4	1	1	1	-	$690,000	8	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.63
+2018	544947	            14/66 Perry Drive	12/11/2018	-	14/05/2018	$522,500	0m	Full transfer	2	2	-	0	1	$522,500	182	-	Allhomes Record	-	-	-	-	$435,000	0.83
+2018	553479	            14/64 Perry Drive	12/11/2018	15/02/2019	-	$522,500	1976m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550134	7 Lazar Place	20/08/2018	11/12/2018	-	$499,750	327m	Full transfer	-	-	-	-	-	$499,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550356	3 Lazar Place	13/11/2018	10/01/2019	-	$483,500	327m	Full transfer	-	-	-	-	-	$483,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538041	8 Garner Place	28/02/2018	16/07/2018	-	$290,000	1211m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530004	16 Rafferty Street	03/01/2018	10/04/2018	-	$0	991m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547043	37 Monkman Street	07/06/2018	21/11/2018	-	$0	1189m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558585	44 Chauvel Circle	11/07/2018	02/05/2019	-	$0	1014m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536309	4 Thring Place	29/06/2018	01/07/2018	-	$0	1178m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544222	33 Tauchert Street	28/06/2018	15/10/2018	-	$0	809m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534503	9 Faulkner Place	23/04/2018	04/06/2018	-	$0	862m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	570325	35 Pelham Close	04/02/2018	24/09/2019	-	$0	1115m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551754	156 Namatjira Drive	11/10/2018	11/01/2019	-	$0	825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539617	134 Namatjira Drive	26/07/2018	12/08/2018	-	$0	1376m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568681	38 Monkman Street	14/09/2019	-	22/08/2019	$2,450,000	0m	Full transfer	6	5	-	2	0	$2,450,000	23	-	Allhomes Record	-	-	-	-	$766,000	0.31
+2019	558679	25 Beaumont Close	02/03/2019	10/05/2019	31/01/2019	$2,330,000	1672m	Full transfer	6	4	-	4	0	$2,330,000	30	-	Combined Record	-	-	-	Single residential dwelling	$693,000	0.3
+2019	565569	46 Monkman Street	02/05/2019	26/07/2019	11/04/2019	$1,740,000	2940m	Full transfer	4	2	-	2	1	$1,740,000	21	-	Combined Record	-	-	-	Single residential dwelling	$845,000	0.49
+2019	575470	14 Lincoln Close	14/12/2019	-	14/11/2019	$1,500,000	0m	Full transfer	5	2	-	2	4	$1,500,000	30	-	Allhomes Record	-	-	-	-	$552,000	0.37
+2019	553816	19 Percy Crescent	02/03/2019	-	31/01/2019	$1,490,000	1657m	Full transfer	5	3	-	3	2	$1,490,000	30	-	Allhomes Record	-	-	-	-	$552,000	0.37
+2019	568230	            1/2 Darrell Place	17/07/2019	26/08/2019	-	$1,300,000	1378m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571487	108 Darwinia Terrace	03/11/2019	-	10/10/2019	$1,300,000	1132m	Full transfer	4	2	-	2	0	$1,300,000	24	-	Allhomes Record	-	-	-	-	$476,000	0.37
+2019	570027	            2/2 Darrell Place	15/08/2019	19/09/2019	-	$1,300,000	1378m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566391	2 Darrell Place	15/08/2019	-	24/07/2019	$1,300,000	0m	Full transfer	5	4	-	2	0	$1,300,000	22	-	Allhomes Record	-	-	-	-	$765,000	0.59
+2019	576169	55 Percy Crescent	14/12/2019	-	20/11/2019	$1,292,000	1684m	Full transfer	5	3	-	2	0	$1,292,000	24	-	Allhomes Record	-	-	-	-	$552,000	0.43
+2019	569211	35 Monkman Street	30/07/2019	13/09/2019	-	$1,275,000	1310m	Full transfer	-	-	-	-	-	$1,275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576835	39 Doyle Terrace	16/09/2019	11/12/2019	09/04/2019	$1,200,000	1109m	Full transfer	6	2	2	6	0	$1,200,000	160	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.42
+2019	563292	8 Beaumont Close	16/02/2019	26/06/2019	17/01/2019	$1,165,000	1472m	Full transfer	4	2	-	1	2	$1,165,000	30	-	Combined Record	-	-	-	Single residential dwelling	$632,000	0.54
+2019	559772	44 Chauvel Circle	11/04/2019	21/05/2019	21/03/2019	$1,111,000	1014m	Full transfer	4	2	-	2	-	$1,111,000	21	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.46
+2019	564155	10 Howarth Place	23/04/2019	02/07/2019	27/02/2019	$1,095,000	1319m	Full transfer	4	2	-	0	2	$1,095,000	55	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.56
+2019	573933	28 Maplestone Place	30/11/2019	-	05/11/2019	$1,075,000	0m	Full transfer	5	4	-	4	0	$1,075,000	25	-	Allhomes Record	-	-	-	-	$551,000	0.51
+2019	565000	73 Doyle Terrace	05/06/2019	09/07/2019	24/10/2018	$1,025,000	2323m	Full transfer	4	2	1	-	2	$1,025,000	224	-	Combined Record	202	-	-	Single residential dwelling	$741,000	0.72
+2019	554578	86 Monkman Street	24/01/2019	04/03/2019	20/12/2018	$1,010,000	1113m	Full transfer	4	2	-	3	0	$1,010,000	35	-	Combined Record	-	-	-	Single residential dwelling	$704,000	0.7
+2019	560496	8 Musgrove Street	23/01/2019	21/03/2019	17/10/2018	$965,000	778m	Full transfer	4	3	-	2	-	$965,000	98	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.45
+2019	563359	37 Monkman Street	10/04/2019	24/06/2019	22/02/2019	$955,000	1189m	Full transfer	4	1	1	-	2	$955,000	47	-	Combined Record	224	-	-	Single residential dwelling	$704,000	0.74
+2019	576918	56 Bertel Crescent	19/12/2019	-	28/11/2019	$950,000	1107m	Full transfer	4	1	1	2	-	$950,000	21	-	Allhomes Record	-	-	-	-	$530,000	0.56
+2019	561600	27 Monkman Street	04/01/2019	20/02/2019	25/10/2018	$950,000	1154m	Full transfer	4	2	-	2	0	$950,000	71	-	Combined Record	-	-	-	Single residential dwelling	$704,000	0.74
+2019	577143	3 Heath Place	31/10/2019	18/12/2019	25/09/2019	$905,000	815m	Full transfer	4	1	1	2	-	$905,000	36	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.48
+2019	576997	35 Tauchert Street	24/12/2019	-	20/11/2019	$900,000	956m	Full transfer	4	2	-	0	2	$900,000	34	-	Allhomes Record	-	-	-	-	$470,000	0.52
+2019	563106	88 Doyle Terrace	07/05/2019	18/06/2019	14/11/2018	$885,000	742m	Full transfer	4	2	-	2	0	$885,000	174	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.57
+2019	576554	1 Pelham Place	28/09/2019	12/12/2019	05/09/2019	$875,000	1035m	Full transfer	4	2	-	0	0	$875,000	23	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.53
+2019	560706	5 Rafferty Street	25/01/2019	01/03/2019	14/11/2018	$870,000	1065m	Full transfer	4	2	-	2	0	$870,000	72	-	Combined Record	-	-	-	Single residential dwelling	$571,000	0.66
+2019	567680	21 Rafferty Street	16/07/2019	23/08/2019	31/05/2019	$870,000	1110m	Full transfer	4	1	1	2	-	$870,000	46	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.64
+2019	568286	78 Darwinia Terrace	27/06/2019	28/08/2019	28/05/2019	$850,750	797m	Full transfer	5	1	2	2	-	$850,750	30	-	Combined Record	267	-	-	Single residential dwelling	$369,000	0.43
+2019	557188	2 Thring Street	27/03/2019	-	06/03/2019	$839,000	-	Full transfer	3	1	1	2	-	$839,000	21	-	Allhomes Record	14692	-	-	-	$404,000	0.48
+2019	561557	60 Doyle Terrace	18/01/2019	13/03/2019	30/11/2018	$778,000	1202m	Full transfer	5	3	-	2	0	$778,000	49	-	Combined Record	-	-	-	Single residential dwelling	$578,000	0.74
+2019	571471	26 Perry Drive	02/11/2019	-	10/10/2019	$770,000	769m	Full transfer	3	2	-	0	2	$770,000	23	-	Allhomes Record	-	-	-	-	$476,000	0.62
+2019	576095	34 Doyle Terrace	09/10/2019	04/12/2019	03/10/2019	$761,500	865m	Full transfer	3	1	-	0	1	$761,500	6	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.65
+2019	568261	32 Percy Crescent	28/06/2019	27/08/2019	-	$750,000	933m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576316	80 Darwinia Terrace	30/09/2019	10/12/2019	-	$750,000	786m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562139	48 Sidaway Street	08/03/2019	06/06/2019	08/02/2019	$737,000	1114m	Full transfer	-	-	-	-	-	$737,000	28	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.66
+2019	555239	16 Sidaway Street	01/02/2019	14/03/2019	18/12/2018	$715,000	939m	Full transfer	3	1	1	2	-	$715,000	45	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.74
+2019	572242	204 Namatjira Drive	20/08/2019	18/10/2019	01/05/2019	$665,000	1245m	Full transfer	4	3	-	0	2	$665,000	111	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.68
+2019	557610	23 Rene Street	16/03/2019	26/04/2019	19/02/2019	$653,500	707m	Full transfer	3	2	-	0	2	$653,500	25	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.58
+2019	571848	52 Darwinia Terrace	12/11/2019	-	21/02/2017	$651,000	1962m	Full transfer	-	-	-	-	-	$651,000	994	-	Allhomes Record	-	-	-	-	$645,000	0.99
+2019	575321	3 Sorlie Place	23/08/2019	29/11/2019	-	$605,000	1209m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562388	7 Gavin Place	03/05/2019	04/06/2019	08/04/2019	$535,000	327m	Full transfer	3	1	-	2	-	$535,000	25	-	Combined Record	95	-	-	Single residential dwelling	$291,000	0.54
+2019	559491	9 Gavin Place	19/03/2019	17/05/2019	22/01/2019	$510,000	331m	Full transfer	3	1	-	2	0	$510,000	56	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.57
+2019	565514	152 Darwinia Terrace	03/07/2019	26/07/2019	21/05/2019	$482,500	331m	Full transfer	2	1	-	1	-	$482,500	43	-	Combined Record	98	-	-	Single residential dwelling	$291,000	0.6
+2019	576361	33 Doyle Terrace	18/11/2019	12/12/2019	-	$460,000	926m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572552	34 Doyle Terrace	22/06/2019	22/10/2019	-	$0	865m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559078	152 Darwinia Terrace	25/02/2019	16/05/2019	-	$0	331m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558464	7 Lincoln Close	19/03/2019	29/04/2019	-	$0	1389m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559401	7 Gavin Place	03/01/2019	15/05/2019	-	$0	327m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567283	4 Chauvel Circle	22/07/2019	16/08/2019	-	$0	1385m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567317	4 Beaumont Close	26/06/2019	12/08/2019	-	$0	1105m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563772	            33 Beaumont Close	18/07/2019	-	12/06/2019	-	0m	Full transfer	5	4	-	2	0	-	36	-	Allhomes Record	-	-	-	-	-	-
