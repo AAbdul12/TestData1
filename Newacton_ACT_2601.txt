@@ -1,0 +1,7 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2014	435291	            608/21 Edinburgh Avenue	03/10/2014	-	07/08/2014	$649,000	-	Full transfer	2	1	1	2	-	$649,000	57	-	Allhomes Record	92	-	-	-	-	-
+2015	466575	21 Marcus Clarke	04/12/2015	-	17/07/2014	$1,260,000	-	Full transfer	3	2	1	-	2	$1,260,000	505	-	Allhomes Record	143	-	-	-	$6,840,000	5.43
+2017	502005	            1018/25 Edinburgh Avenue	30/03/2017	-	06/02/2017	$629,000	-	Full transfer	1	1	-	1	-	$629,000	52	-	Allhomes Record	71	-	-	-	-	-
+2017	504280	08/19 Marcus Clarke St	22/05/2017	-	29/03/2017	$585,000	-	Full transfer	1	2	-	1	-	$585,000	54	-	Allhomes Record	75	-	-	-	$11,290,650	19.3
+2018	541121		14/09/2018	-	18/01/2018	$1,295,000	-	Full transfer	3	3	-	-	-	$1,295,000	239	-	Allhomes Record	170	-	-	-	-	-
+2018	527863		29/03/2018	-	18/01/2018	$1,240,000	-	Full transfer	3	1	2	-	-	$1,240,000	70	-	Allhomes Record	174	-	-	-	-	-
