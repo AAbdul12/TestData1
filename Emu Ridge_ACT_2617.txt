@@ -1,0 +1,8 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	5906	            7 Strong Place	20/12/2006	-	29/11/2006	$335,500	210m	Full transfer	2	1	-	-	1	$335,500	21	-	Allhomes Record	-	-	-	-	-	-
+2007	21984	            44/1 Playfair Place	24/10/2007	-	28/09/2007	$275,000	-	Full transfer	2	1	-	1	-	$275,000	26	-	Allhomes Record	-	-	-	-	$89,321	0.32
+2007	5911	            1/31 Disney Court	09/02/2007	-	01/12/2006	$216,000	3406m	Full transfer	2	1	-	-	1	$216,000	70	-	Allhomes Record	-	-	-	-	-	-
+2008	241	            1 Disney Court	22/04/2008	-	18/03/2008	$425,000	6186m	Full transfer	3	1	1	2	2	$425,000	35	-	Allhomes Record	-	-	-	-	-	-
+2008	22348	            58 Renny Place	14/03/2008	-	13/02/2008	$370,000	323m	Full transfer	2	1	1	1	-	$370,000	30	-	Allhomes Record	-	-	-	-	$1,190,000	3.22
+2012	370564	            7/18 Thurlow Place	21/06/2012	-	16/05/2012	$292,750	2310m	Full transfer	2	1	-	-	1	$292,750	36	-	Allhomes Record	-	-	-	-	$2,427,000	8.29
+2014	430042	            5/3 Solly Place	25/07/2014	-	28/04/2014	$420,000	1599m	Full transfer	3	1	-	-	1	$420,000	88	-	Allhomes Record	-	-	-	-	$1,101,000	2.62
