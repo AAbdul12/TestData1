@@ -1,0 +1,11 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2013	410128		01/11/2013	-	18/06/2013	$500,000	435m	Full transfer	4	1	1	2	-	$500,000	136	-	Allhomes Record	154	-	-	-	-	-
+2013	408111		02/10/2013	-	02/09/2011	$411,900	292m	Full transfer	3	1	1	1	-	$411,900	761	-	Allhomes Record	104	-	-	-	-	-
+2014	438177	            7/213 Jabanunga	14/11/2014	-	29/07/2014	$613,060	-	Full transfer	4	1	1	2	-	$613,060	108	-	Allhomes Record	-	-	-	-	-	-
+2014	428828	            8 Yuyu Street	20/05/2014	-	01/08/2013	$550,000	-	Full transfer	4	1	1	2	-	$550,000	292	-	Allhomes Record	160	-	-	-	-	-
+2014	438176	            24 Jabanunga	14/11/2014	-	07/08/2014	$489,950	409m	Full transfer	3	1	1	2	-	$489,950	99	-	Allhomes Record	127	-	-	-	-	-
+2014	432254	            29 Gudamang	14/08/2014	-	09/07/2014	$475,000	352m	Full transfer	4	1	1	2	-	$475,000	36	-	Allhomes Record	-	-	-	-	-	-
+2014	432252	            5/212 Unknown	14/08/2014	-	21/05/2014	$398,000	-	Full transfer	3	1	1	1	-	$398,000	85	-	Allhomes Record	-	-	-	-	-	-
+2015	442607	            6 Jabanunga	30/01/2015	-	18/06/2014	$470,000	369m	Full transfer	3	1	1	2	-	$470,000	226	-	Allhomes Record	126	-	-	-	-	-
+2015	457644		06/08/2015	-	12/12/2014	$455,000	345m	Full transfer	3	1	1	1	-	$455,000	237	-	Allhomes Record	130	-	-	-	-	-
+2015	453677		15/06/2015	-	12/12/2014	$444,950	316m	Full transfer	3	1	1	1	-	$444,950	185	-	Allhomes Record	117	-	-	-	-	-
