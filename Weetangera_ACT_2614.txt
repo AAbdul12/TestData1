@@ -1,0 +1,836 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	203159	107 Springvale Drive	20/09/2006	01/06/2007	-	$741,000	2357m	Full transfer	-	-	-	-	-	$741,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	87563	107 Springvale Drive	03/08/2006	-	01/09/2006	$725,000	2357m	Full transfer	4	1	-	2	-	$725,000	-	-	Allhomes Record	-	-	-	-	$329,000	0.45
+2006	228965	30 Packer Street	17/02/2006	13/04/2006	25/11/2005	$700,000	1427m	Full transfer	5	2	1	2	-	$700,000	84	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.4
+2006	169648	25 McKeahnie Street	23/09/2006	16/11/2006	31/08/2006	$637,000	1180m	Full transfer	4	3	-	2	-	$637,000	23	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.43
+2006	165843	22 Plummer Street	18/10/2006	23/11/2006	21/07/2006	$600,000	1338m	Full transfer	4	2	1	2	-	$600,000	89	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.47
+2006	228938	17 O'Rourke Street	18/02/2006	15/05/2006	28/01/2006	$578,000	1192m	Full transfer	5	1	2	2	-	$578,000	21	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.45
+2006	164320	4 Plummer Street	08/06/2006	14/08/2006	10/05/2006	$575,000	1577m	Full transfer	4	1	1	1	1	$575,000	29	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.5
+2006	168787	21 Shumack Street	11/08/2006	03/10/2006	01/08/2006	$570,000	1400m	Full transfer	5	1	1	2	-	$570,000	10	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.46
+2006	86536	15 Morton Street	25/08/2006	-	17/08/2006	$565,000	946m	Full transfer	4	1	1	2	-	$565,000	8	-	Allhomes Record	-	-	-	-	$216,000	0.38
+2006	75756	2 Smith Street	08/03/2006	-	16/02/2006	$555,000	1136m	Full transfer	4	1	1	-	-	$555,000	20	-	Allhomes Record	-	-	-	-	$222,000	0.4
+2006	121440	13 Smith Street	11/11/2006	04/05/2007	11/10/2006	$553,000	1041m	Full transfer	4	1	1	2	-	$553,000	31	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.36
+2006	35597	11 Mathieson Crescent	10/07/2006	19/06/2007	-	$550,000	1784m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169730	32 Mathieson Crescent	15/08/2006	11/12/2006	13/07/2006	$545,000	1459m	Full transfer	4	1	1	2	-	$545,000	33	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.46
+2006	165100	20 Plummer Street	20/12/2006	14/02/2007	-	$540,000	1305m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203242	11 Mayo Street	15/12/2006	30/05/2007	-	$538,000	978m	Full transfer	-	-	-	-	-	$538,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169066	75 Springvale Drive	02/12/2006	08/02/2007	11/11/2006	$533,750	1233m	Full transfer	5	1	1	42	-	$533,750	21	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.49
+2006	203052	44 Davis Street	20/09/2006	05/01/2007	24/08/2006	$531,000	1034m	Full transfer	4	1	1	2	-	$531,000	27	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.46
+2006	228960	59 Shumack Street	01/03/2006	28/04/2006	-	$530,000	1295m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35015	17 Belconnen Way	06/06/2006	24/08/2006	21/04/2006	$530,000	976m	Full transfer	5	2	1	2	-	$530,000	46	-	Combined Record	-	-	-	Single residential dwelling	$171,000	0.32
+2006	228910	16 Mathieson Crescent	08/06/2006	13/07/2006	17/05/2006	$527,000	1039m	Full transfer	4	1	1	1	1	$527,000	22	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.43
+2006	36811	45 Belconnen Way	27/07/2006	05/09/2006	-	$525,000	1071m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32880	18 Morton Street	11/10/2006	05/12/2006	11/08/2006	$515,000	1007m	Full transfer	4	1	1	1	-	$515,000	61	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.43
+2006	165362	17 Packer Street	18/12/2006	15/02/2007	04/10/2006	$505,050	1120m	Full transfer	4	1	1	2	-	$505,050	75	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.5
+2006	168378	31 Morton Street	29/06/2006	08/08/2006	30/05/2006	$505,000	1375m	Full transfer	4	1	1	-	2	$505,000	30	-	Combined Record	-	-	-	Single residential dwelling	$257,000	0.51
+2006	89539	48 Bambridge Street	10/11/2006	-	03/10/2006	$488,000	985m	Full transfer	5	1	1	-	2	$488,000	38	-	Allhomes Record	-	-	-	-	$224,000	0.46
+2006	229000	23 Shumack Street	07/04/2006	30/05/2006	10/02/2006	$480,000	1205m	Full transfer	4	1	-	-	2	$480,000	56	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.52
+2006	228905	29 Mathieson Crescent	25/05/2006	20/06/2006	11/04/2006	$477,000	1067m	Full transfer	4	1	1	-	2	$477,000	44	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.46
+2006	119970	1/13 Coppin Place	08/12/2006	02/04/2007	-	$475,000	1423m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169297	31 Abernethy Street	05/12/2006	20/02/2007	31/08/2006	$461,000	1025m	Full transfer	4	1	1	2	2	$461,000	96	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.47
+2006	228999	26 Crace Street	02/03/2006	21/04/2006	10/11/2005	$460,000	876m	Full transfer	5	1	1	2	1	$460,000	112	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.53
+2006	203027	16 Kinleyside Crescent	01/11/2006	05/01/2007	11/10/2006	$438,000	924m	Full transfer	4	1	1	2	-	$438,000	21	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.49
+2006	228994	30 Shumack Street	05/05/2006	20/07/2006	-	$430,000	1256m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	9560	            6/32 Gillespie Street	04/08/2006	11/10/2006	-	$400,000	4602m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	84119	22 Gillespie Street	07/08/2006	-	06/07/2006	$400,000	-	Full transfer	3	1	1	2	-	$400,000	32	-	Allhomes Record	-	-	-	-	$867,000	2.17
+2006	169056	25 Mathieson Crescent	12/11/2006	07/02/2007	20/10/2006	$390,000	880m	Full transfer	3	1	-	2	-	$390,000	23	-	Combined Record	-	-	-	Single residential dwelling	$206,000	0.53
+2006	228898	2/13 Coppin Place	25/07/2006	20/06/2006	-	$298,900	1423m	Full transfer	-	-	-	-	-	$298,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203775	21 Shumack Street	26/07/2006	30/08/2006	-	$247,500	1400m	Partial transfer	-	-	-	-	-	$247,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228897	1/13 Coppin Place	01/06/2006	11/07/2006	-	$192,500	1423m	Partial transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	228904	19 Mathieson Crescent	18/05/2006	30/05/2006	-	$120,000	1085m	Partial transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35016	75 Shumack Street	11/07/2006	22/08/2006	-	$1,000	1208m	Full transfer	-	-	-	-	-	$1,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169159	5 Springvale Drive	26/07/2006	20/02/2007	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	121647	23 Smith Street	29/11/2006	30/08/2007	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165507	41 Springvale Drive	18/12/2006	31/01/2007	-	$0	1117m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32821	26 Mathieson Crescent	30/08/2006	30/03/2007	-	$0	1065m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33533	74 Southwell Street	22/11/2006	22/05/2007	-	$0	1014m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37561	3 Bambridge Street	12/05/2006	21/09/2006	-	-	906m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	228943	3 McKeahnie Street	30/01/2006	30/01/2006	-	-	1411m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36812	49 Morton Street	14/04/2006	08/09/2006	-	-	1720m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164966	61 Shumack Street	20/08/2006	10/10/2006	-	-	1232m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	258160	12 Davis Street	01/12/2006	05/05/2010	-	-	1036m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229004	10 Mayo Street	05/02/2006	05/02/2006	-	-	889m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202609	16 Southwell Street	04/05/2006	03/08/2006	-	-	840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	80137	14 Jones Place	15/12/2007	08/04/2008	31/03/2008	$935,000	1769m	Full transfer	5	2	1	2	0	$935,000	-	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.39
+2007	235636	2 Kilby Crescent	24/11/2007	17/03/2008	-	$825,000	1399m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120734	15 McLachlan Crescent	26/02/2007	15/05/2007	-	$810,000	3018m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236671	113 Springvale Drive	01/09/2007	29/04/2008	09/08/2007	$762,000	1866m	Full transfer	4	2	1	3	-	$762,000	23	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.48
+2007	167495	63 Shumack Street	16/03/2007	05/09/2007	-	$717,000	1421m	Full transfer	-	-	-	-	-	$717,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35342	101 Springvale Drive	30/04/2007	18/06/2007	-	$700,000	1906m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166317	57 Springvale Drive	15/06/2007	31/07/2007	-	$680,000	1296m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	25390	15 Bambridge Street	06/12/2007	-	13/11/2007	$671,000	845m	Full transfer	4	1	1	-	2	$671,000	23	-	Allhomes Record	-	-	-	-	$242,000	0.36
+2007	231747	39 Morton Street	13/10/2007	19/12/2007	21/09/2007	$648,000	917m	Full transfer	4	1	1	2	-	$648,000	22	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.34
+2007	35060	23 De Salis Street	24/02/2007	04/06/2007	03/02/2007	$647,500	1467m	Full transfer	4	1	2	3	-	$647,500	21	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.48
+2007	236749	5 Harcourt Street	21/12/2007	16/04/2008	-	$630,000	1098m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231293	15 Davis Street	08/09/2007	27/11/2007	16/08/2007	$625,000	821m	Full transfer	4	1	1	-	2	$625,000	23	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.39
+2007	230271	77 Shumack Street	15/09/2007	19/02/2008	17/08/2007	$622,500	1286m	Full transfer	4	1	1	-	-	$622,500	29	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.49
+2007	37059	8 Gibbes Place	04/04/2007	18/07/2007	24/01/2007	$600,000	1110m	Full transfer	4	1	1	2	-	$600,000	70	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.43
+2007	166176	34 McLachlan Crescent	06/06/2007	31/07/2007	04/05/2007	$600,000	1042m	Full transfer	4	1	1	2	-	$600,000	33	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.53
+2007	232644	13 Plummer Street	14/09/2007	25/11/2007	-	$600,000	1562m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408575	9 Bambridge Street	20/09/2007	25/10/2007	24/05/2007	$595,000	1087m	Full transfer	4	1	1	2	-	$595,000	119	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.42
+2007	231082	26 Abernethy Street	07/09/2007	11/12/2007	07/08/2007	$590,000	926m	Full transfer	4	1	1	2	-	$590,000	31	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.41
+2007	235205	61 Springvale Drive	20/10/2007	04/02/2008	28/09/2007	$585,000	1233m	Full transfer	3	1	1	2	-	$585,000	22	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.5
+2007	164767	3 Mowle Place	13/04/2007	10/07/2007	05/03/2007	$560,000	966m	Full transfer	4	1	1	2	-	$560,000	39	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.51
+2007	231354	22 Kinleyside Crescent	20/10/2007	29/11/2007	28/09/2007	$545,500	809m	Full transfer	4	1	1	2	-	$545,500	22	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.41
+2007	121435	3 Kinleyside Crescent	01/03/2007	04/05/2007	-	$545,000	856m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33827	15 Shumack Street	31/03/2007	24/05/2007	07/03/2007	$544,000	1027m	Full transfer	3	1	1	-	2	$544,000	24	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.44
+2007	36993	11 Davis Street	19/05/2007	20/07/2007	28/04/2007	$542,500	845m	Full transfer	4	1	1	2	-	$542,500	21	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.45
+2007	164325	66 Southwell Street	09/02/2007	12/03/2007	10/02/2007	$529,950	1457m	Full transfer	4	1	1	2	-	$529,950	-	-	Combined Record	-	-	-	Single residential dwelling	$275,000	0.52
+2007	168543	65 Springvale Drive	09/01/2007	09/03/2007	05/10/2006	$528,000	1254m	Full transfer	4	1	1	3	-	$528,000	96	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.56
+2007	119783	54 Bambridge Street	06/03/2007	02/04/2007	23/10/2006	$520,000	808m	Full transfer	4	1	1	-	2	$520,000	134	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.44
+2007	35441	13 Belconnen Way	17/04/2007	19/06/2007	24/01/2007	$515,000	1108m	Full transfer	5	1	1	2	-	$515,000	83	-	Combined Record	-	-	-	Single residential dwelling	$193,000	0.37
+2007	35443	17 Crace Street	16/04/2007	20/06/2007	22/02/2007	$512,000	910m	Full transfer	4	2	-	2	-	$512,000	53	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.47
+2007	168542	7 Vest Place	20/01/2007	09/03/2007	02/01/2007	$510,000	1151m	Full transfer	4	2	1	2	-	$510,000	18	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.51
+2007	166733	29 Belconnen Way	27/06/2007	02/08/2007	04/05/2007	$506,000	976m	Full transfer	4	1	1	2	-	$506,000	54	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.41
+2007	231263	36 Bambridge Street	25/09/2007	29/11/2007	12/09/2007	$500,000	845m	Full transfer	3	2	-	-	2	$500,000	13	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.44
+2007	231511	51 Springvale Drive	18/09/2007	13/11/2007	25/05/2007	$500,000	979m	Full transfer	4	1	1	-	2	$500,000	116	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.57
+2007	165980	28 Mayo Street	14/07/2007	22/08/2007	23/06/2007	$490,000	888m	Full transfer	3	1	1	-	2	$490,000	21	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.53
+2007	318309	48 Bambridge Street	09/11/2007	08/02/2007	-	$488,000	985m	Full transfer	-	-	-	-	-	$488,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203219	13 Gillespie Street	21/03/2007	31/05/2007	-	$487,000	878m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168859	6 Vest Place	29/01/2007	22/03/2007	20/11/2006	$485,000	1168m	Full transfer	4	1	1	-	1	$485,000	70	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.54
+2007	35551	27 Smith Street	11/03/2007	22/06/2007	16/02/2007	$472,000	938m	Full transfer	3	1	-	-	2	$472,000	23	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.47
+2007	32686	39 Springvale Drive	08/02/2007	28/03/2007	23/11/2006	$470,000	1106m	Full transfer	4	1	-	-	-	$470,000	77	-	Combined Record	-	-	-	Single residential dwelling...	$280,000	0.6
+2007	36288	51 Belconnen Way	05/03/2007	06/07/2007	-	$470,000	1066m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	32771	22 Kinleyside Crescent	02/03/2007	29/03/2007	-	$432,000	809m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408574	            8/32 Gillespie Street	13/09/2007	23/10/2007	-	$432,000	4602m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	107156	18 Gillespie Street	13/09/2007	-	09/08/2007	$432,000	4602m	Full transfer	3	1	-	2	-	$432,000	35	-	Allhomes Record	-	-	-	-	$954,000	2.21
+2007	233134	2/46 Shumack Street	13/11/2007	22/01/2008	-	$290,000	1720m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	203255	19 Darmody Street	27/03/2007	01/06/2007	-	$0	1187m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166304	14 Bambridge Street	01/07/2007	25/07/2007	-	$0	801m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	169313	32 Bambridge Street	19/01/2007	21/02/2007	-	$0	821m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232144	4 Packer Street	08/10/2007	04/12/2007	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232918	8 Kilby Crescent	27/08/2007	13/11/2007	-	$0	1580m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121798	22 Shumack Street	07/08/2007	26/09/2007	-	$0	1036m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	296240	21 Springvale Drive	12/11/2007	07/06/2011	-	-	882m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235518	23 Mathieson Crescent	15/10/2007	19/03/2008	-	-	957m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	240391	3 Davis Street	17/12/2007	25/11/2008	-	-	665m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	22139	            63 Schumack Street	16/03/2007	-	12/10/2006	-	-	Full transfer	6	2	1	2	-	-	155	-	Allhomes Record	-	-	-	-	-	-
+2007	21815	            57 Springvale Drive Weetangera	17/07/2007	-	29/05/2007	-	1296m	Full transfer	4	1	2	-	2	-	49	-	Allhomes Record	-	-	-	-	-	-
+2007	235193	13 Springvale Drive	12/10/2007	05/02/2008	-	-	801m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230544	38 Kinleyside Crescent	14/04/2008	12/08/2008	-	$1,130,000	2509m	Full transfer	-	-	-	-	-	$1,130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242862	14 Jones Place	29/08/2008	03/03/2009	31/03/2008	$935,000	1769m	Full transfer	5	2	1	2	0	$935,000	151	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.39
+2008	241965	34 O'Rourke Street	29/05/2008	19/01/2009	23/04/2008	$830,000	1071m	Full transfer	4	2	1	2	-	$830,000	36	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.47
+2008	234291	51 Shumack Street	13/03/2008	10/06/2008	27/02/2008	$735,000	1260m	Full transfer	4	1	1	2	1	$735,000	15	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.49
+2008	231715	3 McKeahnie Street	17/04/2008	03/06/2008	30/01/2008	$730,000	1411m	Full transfer	4	2	1	3	-	$730,000	78	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.59
+2008	233919	111 Shumack Street	29/03/2008	11/06/2008	03/03/2008	$685,000	1820m	Full transfer	3	1	2	2	0	$685,000	26	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.4
+2008	236841	10 Gillespie Street	01/02/2008	04/09/2008	-	$671,950	1257m	Full transfer	-	-	-	-	-	$671,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242487	23 Kilby Crescent	23/12/2008	09/02/2009	16/10/2008	$650,000	1219m	Full transfer	4	1	1	2	1	$650,000	68	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.49
+2008	239607	71 Springvale Drive	19/07/2008	09/10/2008	30/05/2008	$642,000	1034m	Full transfer	4	1	1	1	0	$642,000	50	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.56
+2008	235581	12 Morton Street	27/03/2008	08/05/2008	05/02/2008	$625,000	815m	Full transfer	4	1	2	1	0	$625,000	51	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.45
+2008	242763	24 De Salis Street	28/11/2008	25/02/2009	24/10/2008	$620,000	1409m	Full transfer	4	1	1	2	0	$620,000	35	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.62
+2008	230270	68 Southwell Street	08/01/2008	19/02/2008	15/10/2007	$620,000	1424m	Full transfer	4	1	1	2	-	$620,000	85	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.53
+2008	234429	32 Davis Street	06/03/2008	08/05/2008	04/04/2008	$605,000	813m	Full transfer	4	1	1	1	0	$605,000	-	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.55
+2008	240245	22 Packer Street	21/08/2008	28/10/2008	-	$600,000	1735m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	244010	30 Southwell Street	08/04/2008	25/05/2009	19/03/2009	$592,000	845m	Full transfer	4	2	1	2	0	$592,000	-	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.54
+2008	240036	4 Jones Place	23/08/2008	14/10/2008	01/08/2008	$555,000	1367m	Full transfer	4	1	1	2	0	$555,000	22	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.72
+2008	236838	65 Belconnen Way	15/05/2008	07/09/2008	05/03/2008	$550,000	924m	Full transfer	4	1	-	2	-	$550,000	71	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.45
+2008	237013	1 Mowle Place	09/11/2008	11/01/2009	17/10/2008	$535,000	1071m	Full transfer	5	2	0	2	0	$535,000	23	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.6
+2008	239451	97 Shumack Street	07/10/2008	21/11/2008	-	$533,000	910m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320129	13 Springvale Drive	18/06/2008	16/07/2008	-	$512,500	801m	Full transfer	-	-	-	-	-	$512,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240321	1/47 Morton Street	09/08/2008	24/11/2008	-	$510,000	1783m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229774	12 Smith Street	28/05/2008	24/07/2008	19/03/2008	$495,105	743m	Full transfer	4	1	-	2	-	$495,105	70	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.57
+2008	237012	11 Packer Street	11/08/2008	06/01/2009	-	$472,000	878m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	24801	11 Packer Street	25/07/2008	-	15/05/2008	$470,000	878m	Full transfer	4	1	-	1	-	$470,000	71	-	Allhomes Record	-	-	-	-	$297,000	0.63
+2008	237014	94 Shumack Street	10/10/2008	08/01/2009	17/09/2008	$462,000	1160m	Full transfer	3	1	-	-	1	$462,000	23	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.64
+2008	236839	63 Belconnen Way	15/05/2008	07/09/2008	05/03/2008	$450,000	957m	Full transfer	3	1	-	2	-	$450,000	71	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.55
+2008	245749	2/11 Mathieson Crescent	14/11/2008	17/08/2009	-	$405,000	1784m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236840	10 Weetangera Place	07/07/2008	01/09/2008	-	$400,000	405m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	245752	5/11 Mathieson Crescent	20/11/2008	20/08/2009	-	$385,000	1784m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	120615	17 Southwell Street	24/12/2008	-	12/11/2008	$374,000	474m	Full transfer	3	2	1	2	-	$374,000	42	-	Allhomes Record	-	-	-	-	$1,496,000	4.0
+2008	19159	            4/11 Southwell Street	24/12/2008	10/02/2009	-	$374,000	5693m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	245750	4/11 Mathieson Crescent	24/12/2008	19/08/2009	-	$372,000	1784m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	248049	            2/51 Belconnen Way	12/12/2008	25/09/2009	-	$350,000	1066m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230758	6/46 Shumack Street	07/02/2008	18/03/2008	-	$342,500	1720m	Full transfer	-	-	-	-	-	$342,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239127	7/46 Shumack Street	18/09/2008	17/11/2008	-	$290,000	1720m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	17928	            1/4A Coppin Place	02/04/2008	03/06/2008	-	$285,000	785m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237658	12 Gillespie Street	27/08/2008	20/02/2009	-	-	1181m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231716	9 Plummer Street	11/03/2008	03/06/2008	-	-	1574m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237659	35 Morton Street	27/08/2008	20/02/2009	-	-	787m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240037	97 Shumack Street	14/07/2008	14/10/2008	-	-	910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	79415	29 Belconnen Way	11/03/2008	08/04/2008	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238174	23 Belconnen Way	24/05/2008	14/04/2009	-	-	910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237377	39 Mayo Street	17/07/2008	20/08/2008	-	-	894m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	254695	25 Morton Street	30/10/2008	11/03/2010	-	-	822m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	250162	3 Bambridge Street	19/12/2008	24/11/2009	-	-	906m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230265	62 Southwell Street	19/01/2008	14/04/2008	-	-	1283m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	240244	9 Springvale Drive	23/06/2008	29/10/2008	-	-	781m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247770	115 Springvale Drive	02/07/2009	12/10/2009	12/06/2009	$1,025,000	1866m	Full transfer	4	1	2	8	0	$1,025,000	20	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.44
+2009	245386	137 Springvale Drive	24/03/2009	03/08/2009	-	$855,000	2071m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251738	10 Webb Place	21/08/2009	14/01/2010	-	$825,000	1379m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263207	45 Morton Street	01/08/2009	23/03/2010	17/07/2009	$820,000	1773m	Full transfer	5	2	1	1	1	$820,000	15	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.49
+2009	250494	29 De Salis Street	10/08/2009	08/12/2009	23/05/2009	$800,000	2153m	Full transfer	5	2	1	2	-	$800,000	79	-	Combined Record	-	-	-	Single residential dwelling...	$503,000	0.63
+2009	246002	87 Springvale Drive	18/06/2009	26/08/2009	29/04/2009	$785,000	1140m	Full transfer	4	2	1	2	-	$785,000	50	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.48
+2009	254136	4 Plummer Street	28/11/2009	08/02/2010	05/11/2009	$775,000	1577m	Full transfer	4	1	1	1	1	$775,000	23	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.51
+2009	254470	6 Southwell Street	21/12/2009	28/02/2010	-	$750,000	1065m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251967	22 De Salis Street	22/08/2009	22/12/2009	30/07/2009	$738,000	1221m	Full transfer	7	2	1	4	0	$738,000	23	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.51
+2009	263201	85 Springvale Drive	23/12/2009	10/02/2010	24/11/2009	$735,000	1180m	Full transfer	4	1	1	2	-	$735,000	29	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.51
+2009	263200	22 O'Rourke Street	02/11/2009	14/02/2010	-	$725,000	845m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263206	20 McLachlan Crescent	19/10/2009	02/02/2010	08/10/2009	$725,000	1366m	Full transfer	3	1	1	2	-	$725,000	11	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.57
+2009	238175	67 Springvale Drive	26/02/2009	17/04/2009	17/04/2008	$700,000	1303m	Full transfer	4	1	1	2	-	$700,000	315	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.51
+2009	263198	3 Shumack Street	04/12/2009	02/02/2010	20/10/2009	$696,000	1058m	Full transfer	4	1	2	-	2	$696,000	45	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.41
+2009	263205	92 Shumack Street	06/11/2009	09/03/2010	22/10/2009	$690,000	1022m	Full transfer	4	1	2	-	2	$690,000	15	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.41
+2009	247769	14 O'Rourke Street	30/07/2009	16/10/2009	25/06/2009	$681,000	993m	Full transfer	5	1	2	2	0	$681,000	35	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.52
+2009	248346	13 Davis Street	30/09/2009	14/12/2009	-	$674,750	845m	Full transfer	-	-	-	-	-	$674,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250718	2 De Salis Street	19/10/2009	01/12/2009	-	$670,000	998m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246575	52 Southwell Street	27/06/2009	08/09/2009	04/06/2009	$670,000	957m	Full transfer	5	1	2	2	0	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.48
+2009	251968	12 Harcourt Street	26/09/2009	22/12/2009	28/08/2009	$665,500	1082m	Full transfer	4	1	1	2	-	$665,500	29	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.56
+2009	252069	18 Morton Street	20/10/2009	06/01/2010	15/10/2009	$665,000	1007m	Full transfer	-	1	1	1	-	$665,000	5	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.48
+2009	254628	13 Crace Street	07/12/2009	01/03/2010	-	$650,000	1052m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254472	62 Bambridge Street	07/11/2009	24/02/2010	14/10/2009	$650,000	864m	Full transfer	4	1	1	-	2	$650,000	24	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.49
+2009	244011	20 Darmody Street	16/03/2009	28/05/2009	18/02/2009	$646,000	1534m	Full transfer	5	1	1	-	2	$646,000	26	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.58
+2009	250163	14 Kilby Crescent	21/10/2009	23/11/2009	23/09/2009	$641,000	1274m	Full transfer	4	1	1	2	-	$641,000	28	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.58
+2009	138829	3 Bambridge Street	31/10/2009	-	06/10/2009	$640,000	906m	Full transfer	4	1	1	2	-	$640,000	25	-	Allhomes Record	-	-	-	-	$320,000	0.5
+2009	244914	28 Southwell Street	09/05/2009	22/07/2009	16/04/2009	$640,000	845m	Full transfer	3	1	1	1	1	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.5
+2009	241660	40 Shumack Street	28/02/2009	19/05/2009	06/02/2009	$622,500	1422m	Full transfer	4	1	1	1	1	$622,500	22	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.6
+2009	250018	17 Harcourt Street	21/03/2009	16/11/2009	26/02/2009	$622,000	1396m	Full transfer	4	1	1	2	2	$622,000	23	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.62
+2009	245184	11 Gibbes Place	08/05/2009	18/06/2009	08/01/2009	$612,500	915m	Full transfer	4	1	1	2	-	$612,500	120	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.48
+2009	248144	35 Gillespie Street	07/08/2009	18/09/2009	29/06/2009	$605,500	875m	Full transfer	4	1	1	-	2	$605,500	39	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.49
+2009	245187	26 McLachlan Crescent	07/02/2009	19/06/2009	13/01/2009	$605,000	1045m	Full transfer	4	1	1	1	-	$605,000	25	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.68
+2009	250019	68 Bambridge Street	01/05/2009	19/11/2009	-	$600,000	996m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	115899	16 McKeahnie Street	01/05/2009	-	10/07/2008	$585,000	1101m	Full transfer	4	1	1	-	1	$585,000	295	-	Allhomes Record	-	-	-	-	$398,000	0.68
+2009	250493	16 McKeahnie Street	21/05/2009	10/12/2009	-	$585,000	1101m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246576	3 Kinleyside Crescent	04/08/2009	07/09/2009	15/04/2009	$581,000	856m	Full transfer	3	1	1	2	-	$581,000	111	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.49
+2009	246577	24 Kinleyside Crescent	25/07/2009	08/09/2009	01/07/2009	$575,000	880m	Full transfer	4	1	1	1	1	$575,000	24	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.49
+2009	241273	2/38 Kinleyside Crescent	10/03/2009	06/05/2009	-	$570,000	2509m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249671	65 Shumack Street	07/02/2009	26/10/2009	-	$557,000	1421m	Full transfer	-	-	-	-	-	$557,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248145	6 Crace Street	14/08/2009	17/09/2009	26/05/2009	$551,000	906m	Full transfer	4	1	1	-	2	$551,000	80	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.6
+2009	250496	20 Shumack Street	04/07/2009	13/12/2009	13/06/2009	$545,000	999m	Full transfer	3	1	0	-	2	$545,000	21	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.57
+2009	263197	17 Smith Street	29/10/2009	06/01/2010	19/08/2009	$539,000	1223m	Full transfer	3	1	-	-	1	$539,000	71	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.55
+2009	244127	28 Mathieson Crescent	24/04/2009	03/06/2009	12/03/2009	$535,000	921m	Full transfer	4	1	1	1	-	$535,000	43	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.58
+2009	130446	4A Mathieson Crescent	02/11/2009	-	06/10/2009	$532,500	892m	Full transfer	3	-	1	2	-	$532,500	27	-	Allhomes Record	-	-	-	-	$370,000	0.69
+2009	259839	1/4A Mathieson Crescent	04/11/2009	02/02/2010	-	$532,000	892m	Full transfer	-	-	-	-	-	$532,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244825	10 Smith Street	04/06/2009	03/07/2009	-	$529,000	957m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	140886	23 Darmody Street	05/02/2009	-	22/11/2008	$525,000	1118m	Full transfer	4	1	1	3	0	$525,000	75	-	Allhomes Record	-	-	-	-	$297,000	0.57
+2009	254132	5 Coppin Place	24/11/2009	08/02/2010	07/11/2009	$516,000	821m	Full transfer	3	1	-	-	1	$516,000	17	-	Combined Record	115	-	-	Single residential dwelling	$309,000	0.6
+2009	259840	            2/4A Mathieson Crescent	21/12/2009	02/02/2010	-	$505,000	892m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245185	11 Gillespie Street	23/04/2009	18/06/2009	25/03/2009	$490,000	878m	Full transfer	3	1	1	2	-	$490,000	29	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.57
+2009	238552	30 Morton Street	21/03/2009	28/04/2009	26/02/2009	$490,000	1042m	Full transfer	5	1	0	-	0	$490,000	23	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.63
+2009	245706	6/11 Mathieson Crescent	11/05/2009	13/08/2009	-	$480,000	1784m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	125086	6/11 Mathieson Crescent	12/05/2009	-	27/03/2009	$480,000	-	Full transfer	2	1	1	2	-	$480,000	46	-	Allhomes Record	-	-	-	-	-	-
+2009	245186	1 Packer Street	14/05/2009	17/06/2009	-	$470,000	944m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245748	1/11 Mathieson Crescent	15/06/2009	17/08/2009	-	$430,000	1784m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19463	            2/1 Southwell Street	26/05/2009	17/07/2009	-	$430,000	2231m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19356	            8/50 Gillespie Street	20/03/2009	06/06/2009	-	$421,000	4894m	Full transfer	-	-	-	-	-	$421,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	122769	36 Gillespie Street	20/03/2009	-	28/01/2009	$421,000	4894m	Full transfer	4	1	1	-	2	$421,000	51	-	Allhomes Record	-	-	-	-	$1,254,000	2.98
+2009	246297	3/11 Mathieson Crescent	04/02/2009	02/09/2009	-	$415,000	1784m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254626	28 Morton Street	05/09/2009	02/03/2010	-	$400,000	957m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19209	            4/12 Weetangera Place	29/01/2009	11/03/2009	-	$65,000	268m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2009	125813	3 Southwell Street	26/05/2009	-	16/04/2009	$1	2231m	Full transfer	3	1	1	2	-	$1	40	-	Allhomes Record	-	-	-	-	$659,000	659000.0
+2009	459602	10 Shumack Street	12/12/2009	18/08/2015	-	$0	1092m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251707	4 Southwell Street	27/10/2009	07/01/2010	-	-	971m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251742	9 Coppin Place	23/09/2009	21/01/2010	-	-	970m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254471	15 McKeahnie Street	11/12/2009	25/02/2010	-	-	2049m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242764	23 Darmody Street	02/02/2009	23/02/2009	-	-	1119m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244477	9 Gillespie Street	18/06/2009	08/07/2009	-	-	855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241659	28 Mathieson Crescent	08/02/2009	19/05/2009	-	-	921m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249672	28 Abernethy Street	17/06/2009	30/10/2009	-	-	897m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245976	12 Harcourt Street	03/06/2009	19/08/2009	-	-	1082m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	291193	13 Bambridge Street	12/09/2009	29/04/2011	-	-	845m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	342089	            2/12 Kilby Crescent	14/09/2009	06/10/2011	-	-	1619m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250495	12 Kinleyside Crescent	25/11/2009	13/12/2009	-	-	954m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254135	33 Gillespie Street	16/10/2009	09/02/2010	-	-	910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251433	25 Mayo Street	24/04/2009	07/01/2010	-	-	1067m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251706	25 Mayo Street	25/11/2009	07/01/2010	-	-	1067m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254131	75 Belconnen Way	13/10/2009	09/02/2010	-	-	1023m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245291	1 Morton Street	01/01/2009	28/07/2009	-	-	1252m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245875	16 Bambridge Street	10/07/2009	13/08/2009	-	-	840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	267683	17 Darmody Street	11/09/2009	25/06/2010	-	-	937m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238176	28 De Salis Street	03/03/2009	14/04/2009	-	-	1638m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273176	2/3 Coppin Place	30/09/2010	03/11/2010	-	$1,200,000	805m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273174	            2/25 Bambridge Street	30/09/2010	03/11/2010	-	$1,200,000	1140m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273177	1/3 Coppin Place	30/09/2010	03/11/2010	-	$1,200,000	805m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273175	1/25 Bambridge Street	30/09/2010	03/11/2010	-	$1,200,000	1140m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269255	11 Harcourt Street	20/02/2010	22/06/2010	18/01/2010	$925,000	1360m	Full transfer	4	1	1	2	-	$925,000	33	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.47
+2010	287387	125 Springvale Drive	24/12/2010	04/04/2011	-	$850,000	2166m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258604	28 Harcourt Street	06/02/2010	06/04/2010	11/01/2010	$787,000	1343m	Full transfer	4	1	1	2	1	$787,000	26	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.5
+2010	283893	5 Morton Street	04/12/2010	22/02/2011	04/11/2010	$770,000	917m	Full transfer	4	1	1	2	-	$770,000	30	-	Combined Record	217	-	-	Single residential dwelling	$340,000	0.44
+2010	254627	10 Jones Place	13/01/2010	04/03/2010	-	$762,000	1174m	Full transfer	-	-	-	-	-	$762,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273571	20 Kinleyside Crescent	07/08/2010	15/10/2010	05/07/2010	$755,500	844m	Full transfer	4	1	1	1	-	$755,500	33	-	Combined Record	199	-	-	Single residential dwelling	$325,000	0.43
+2010	270808	7 Springvale Drive	04/06/2010	13/08/2010	15/03/2010	$755,000	772m	Full transfer	4	1	1	2	-	$755,000	81	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.38
+2010	270873	30 Kinleyside Crescent	27/03/2010	20/08/2010	03/03/2010	$736,000	1471m	Full transfer	4	1	1	2	1	$736,000	24	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.55
+2010	283892	14 Abernethy Street	06/08/2010	23/02/2011	29/04/2010	$730,000	1115m	Full transfer	4	1	1	4	-	$730,000	99	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.48
+2010	270758	3 Darmody Street	22/05/2010	30/07/2010	14/04/2010	$730,000	949m	Full transfer	4	2	1	2	-	$730,000	38	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.44
+2010	279135	26 Harcourt Street	18/11/2010	02/02/2011	-	$725,000	1221m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274460	22 O'Rourke Street	03/06/2010	08/11/2010	22/04/2010	$717,500	845m	Full transfer	4	2	1	2	-	$717,500	42	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.54
+2010	258605	29 Shumack Street	22/02/2010	12/04/2010	27/10/2009	$715,000	975m	Full transfer	4	2	1	2	-	$715,000	118	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.45
+2010	277919	22 Davis Street	07/10/2010	25/01/2011	-	$710,000	952m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274459	23 Kinleyside Crescent	28/08/2010	10/11/2010	02/08/2010	$705,000	929m	Full transfer	4	1	2	1	-	$705,000	26	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.44
+2010	279140	24 Southwell Street	23/11/2010	02/02/2011	10/11/2010	$665,000	845m	Full transfer	4	1	2	2	-	$665,000	13	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.53
+2010	284081	24 Davis Street	26/10/2010	01/03/2011	13/10/2010	$665,000	790m	Full transfer	3	1	1	-	2	$665,000	13	-	Combined Record	165	-	-	Single residential dwelling	$365,000	0.55
+2010	330221	49 Mathieson Crescent	20/12/2010	18/02/2011	-	$659,000	1354m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270222	17 Darmody Street	18/06/2010	27/08/2010	-	$644,000	937m	Full transfer	-	-	-	-	-	$644,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258161	12 Davis Street	25/03/2010	05/05/2010	-	$636,000	1036m	Full transfer	-	-	-	-	-	$636,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270667	23 Smith Street	17/07/2010	25/08/2010	30/06/2010	$620,000	888m	Full transfer	3	1	1	2	2	$620,000	17	-	Combined Record	151	-	-	Single residential dwelling	$311,000	0.5
+2010	274648	38 Abernethy Street	03/07/2010	25/11/2010	18/06/2010	$611,000	885m	Full transfer	4	1	1	2	-	$611,000	15	-	Combined Record	141	-	-	Single residential dwelling	$324,000	0.53
+2010	279139	60 Bambridge Street	16/10/2010	02/02/2011	29/09/2010	$600,000	961m	Full transfer	4	1	1	-	-	$600,000	17	-	Combined Record	180	-	-	Single residential dwelling	$353,000	0.59
+2010	263866	6 Coppin Place	03/03/2010	30/05/2010	10/02/2010	$591,000	785m	Full transfer	4	1	-	2	-	$591,000	21	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.58
+2010	283452	28 Crace Street	23/12/2010	02/03/2011	-	$590,000	953m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258603	2 Vest Place	12/03/2010	21/04/2010	09/12/2009	$580,000	935m	Full transfer	3	1	1	2	-	$580,000	93	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.56
+2010	276806	12 Shumack Street	25/03/2010	21/07/2010	04/11/2009	$575,000	976m	Full transfer	4	1	1	2	-	$575,000	141	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.54
+2010	287911	7 Davis Street	24/11/2010	05/04/2011	10/11/2010	$573,000	932m	Full transfer	3	1	1	-	2	$573,000	14	-	Combined Record	135	-	-	Single residential dwelling	$336,000	0.59
+2010	265879	            6/11 Mathieson Cr	09/09/2010	-	25/08/2010	$525,000	1784m	Full transfer	2	1	1	2	-	$525,000	15	-	Allhomes Record	-	-	-	-	-	-
+2010	272996	6/11 Mathieson Crescent	09/09/2010	18/10/2010	-	$525,000	1784m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271651	6/40 Gillespie Street	11/11/2010	-	12/10/2010	$466,000	4894m	Full transfer	3	1	1	-	2	$466,000	30	-	Allhomes Record	-	-	-	-	$1,442,000	3.09
+2010	277654	            6/50 Gillespie Street	06/12/2010	20/01/2011	-	$466,000	4894m	Full transfer	-	-	-	-	-	$466,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252489	7/23 Southwell Street	22/02/2010	-	12/01/2010	$449,250	5693m	Full transfer	3	1	1	-	1	$449,250	41	-	Allhomes Record	-	-	-	-	$1,496,000	3.33
+2010	260149	            7/11 Southwell Street	19/02/2010	11/05/2010	-	$449,250	5693m	Full transfer	-	-	-	-	-	$449,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260148	            2/4A Coppin Place	20/02/2010	10/05/2010	-	$435,000	785m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253258	2/4 Coppin Place	20/02/2010	-	23/03/2010	$435,000	785m	Full transfer	2	1	1	1	-	$435,000	-	-	Allhomes Record	-	-	-	-	$421,000	0.97
+2010	371820	            6/25 Bambridge Street	29/06/2010	03/06/2012	-	$429,950	1945m	Full transfer	-	-	-	-	-	$429,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253936	            7/50 Gillespie Street	15/02/2010	03/03/2010	-	$420,000	4894m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	371615	            5/25 Bambridge Street	16/06/2010	24/05/2012	-	$399,950	1945m	Full transfer	-	-	-	-	-	$399,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	377239	            4/25 Bambridge Street	19/07/2010	20/07/2012	-	$379,950	1945m	Full transfer	-	-	-	-	-	$379,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	374853	            3/25 Bambridge Street	23/07/2010	26/06/2012	-	$379,950	1945m	Full transfer	-	-	-	-	-	$379,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	394820	45 Shumack Street	19/09/2010	09/04/2013	-	$0	1095m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274045	28 Crace Street	19/05/2010	19/11/2010	-	-	953m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	285993	66 Bambridge Street	13/11/2010	11/03/2011	-	-	1087m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	296441	36 Abernethy Street	13/11/2010	17/06/2011	-	-	885m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263465	24 Packer Street	23/03/2010	10/06/2010	-	-	1687m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280704	4 Kilby Crescent	27/09/2010	12/12/2010	-	-	1422m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273164	6 Harcourt Street	28/04/2010	02/11/2010	-	-	1293m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267682	12 Morton Street	01/05/2010	21/06/2010	-	-	815m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	300209	90 Shumack Street	20/04/2010	18/07/2011	-	-	943m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296733	11 McLachlan Crescent	26/03/2011	20/06/2011	03/03/2011	$861,000	2273m	Full transfer	4	1	1	1	-	$861,000	23	-	Combined Record	-	-	-	Single residential dwelling	$529,000	0.61
+2011	344385	10 Coppin Place	19/08/2011	21/10/2011	26/07/2011	$850,000	759m	Full transfer	5	1	1	1	-	$850,000	24	-	Combined Record	234	-	-	Single residential dwelling	$425,000	0.5
+2011	333011	6 Harcourt Street	11/06/2011	01/08/2011	18/05/2011	$841,000	1293m	Full transfer	4	2	-	3	-	$841,000	24	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.59
+2011	292050	83 Shumack Street	31/03/2011	19/05/2011	27/01/2011	$835,000	1156m	Full transfer	4	2	1	2	-	$835,000	63	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.55
+2011	346965	61 Shumack Street	13/10/2011	08/11/2011	15/08/2011	$790,000	1232m	Full transfer	6	1	1	2	-	$790,000	59	-	Combined Record	276	-	-	Single residential dwelling	$506,000	0.64
+2011	287912	3 Smith Street	25/02/2011	06/04/2011	10/09/2010	$780,000	1358m	Full transfer	4	1	1	2	-	$780,000	168	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.63
+2011	336681	23 Springvale Drive	14/05/2011	17/08/2011	21/04/2011	$765,000	1155m	Full transfer	5	1	2	2	2	$765,000	23	-	Combined Record	198	-	-	Single residential dwelling	$386,000	0.5
+2011	292240	6 Mathieson Crescent	26/02/2011	10/05/2011	01/02/2011	$750,000	1087m	Full transfer	4	1	2	1	2	$750,000	25	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.55
+2011	292239	10 Mathieson Crescent	15/03/2011	10/05/2011	20/10/2010	$720,000	905m	Full transfer	6	1	1	1	-	$720,000	146	-	Combined Record	210	-	-	Single residential dwelling	$410,000	0.57
+2011	333145	47 Gillespie Street	20/05/2011	28/07/2011	03/05/2011	$700,000	1076m	Full transfer	4	2	1	2	-	$700,000	17	-	Combined Record	-	-	-	Single residential dwelling	$438,000	0.63
+2011	333147	9 Mayo Street	21/04/2011	26/07/2011	11/02/2011	$685,000	987m	Full transfer	4	1	1	2	1	$685,000	69	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.59
+2011	346253	12 Packer Street	10/12/2011	-	10/11/2011	$685,000	979m	Full transfer	4	1	1	2	-	$685,000	30	-	Allhomes Record	-	-	-	-	$424,000	0.62
+2011	384477	69 Shumack Street	16/12/2011	20/03/2012	23/11/2011	$660,000	1185m	Full transfer	4	1	1	1	-	$660,000	23	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.75
+2011	353892	25 Mayo Street	12/11/2011	21/12/2011	13/10/2011	$651,000	1067m	Full transfer	4	2	1	2	2	$651,000	30	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.63
+2011	360494	20 Mayo Street	05/12/2011	23/01/2012	17/10/2011	$650,000	819m	Full transfer	4	1	2	2	-	$650,000	49	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.65
+2011	292238	40 Southwell Street	11/04/2011	10/05/2011	24/03/2011	$640,000	973m	Full transfer	4	1	-	-	-	$640,000	18	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.66
+2011	297634	1/38 Kinleyside Crescent	08/04/2011	01/07/2011	-	$640,000	2509m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350415	46 Kinleyside Crescent	02/11/2011	16/12/2011	26/09/2011	$637,000	900m	Full transfer	5	2	1	-	2	$637,000	37	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.61
+2011	350413	87 Shumack Street	17/09/2011	12/12/2011	17/08/2011	$635,000	910m	Full transfer	4	2	-	-	2	$635,000	31	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.59
+2011	292237	8 Morton Street	09/02/2011	10/05/2011	19/01/2011	$600,000	809m	Full transfer	3	1	-	2	-	$600,000	21	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.68
+2011	286911	            12A Kilby Crescent	21/04/2011	-	02/03/2011	$585,000	1619m	Full transfer	4	1	1	2	-	$585,000	50	-	Allhomes Record	-	-	-	-	$248,000	0.42
+2011	296356	            1/12 Kilby Crescent	20/04/2011	25/05/2011	-	$585,000	1619m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	333013	27 Smith Street	28/05/2011	05/08/2011	06/05/2011	$535,000	938m	Full transfer	3	1	0	-	1	$535,000	22	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.73
+2011	296357	1/11 Mathieson Crescent	03/05/2011	25/05/2011	-	$504,000	1784m	Full transfer	-	-	-	-	-	$504,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336074	90 Shumack Street	16/03/2011	07/09/2011	-	$476,250	943m	Full transfer	-	-	-	-	-	$476,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347798	            3/1 Southwell Street	15/08/2011	24/10/2011	-	$460,000	2231m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	326113	5 Southwell Street	15/08/2011	-	23/06/2011	$460,000	-	Full transfer	3	1	1	2	-	$460,000	53	-	Allhomes Record	-	-	-	-	$909,000	1.98
+2011	344383	12 McLachlan Crescent	05/07/2011	18/10/2011	-	$450,000	1378m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	335919	            2/50 Gillespie Street	15/02/2011	18/08/2011	-	$449,950	4894m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	298521	48 Gillespie Street	14/07/2011	-	30/03/2011	$449,950	0m	Full transfer	3	2	-	2	0	$449,950	106	-	Allhomes Record	-	-	-	-	$1,731,000	3.85
+2011	346507	2/49 Bambridge Street	17/10/2011	21/11/2011	-	$385,000	1430m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	278222	7/46 Shumack Street	09/02/2011	-	24/01/2011	$345,500	1720m	Full transfer	1	1	-	-	1	$345,500	16	-	Allhomes Record	55	-	-	-	$1,137,000	3.29
+2011	287562	7/46 Shumack Street	23/02/2011	04/04/2011	-	$345,500	1720m	Full transfer	-	-	-	-	-	$345,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353597	3/12 Weetangera Place	15/12/2011	20/01/2012	-	$85,000	268m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2011	350173	8 O'Rourke Street	25/08/2011	28/11/2011	-	$0	1147m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360624	6 Vest Place	31/10/2011	02/02/2012	-	$0	1168m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350172	            2/12 Kilby Crescent	21/10/2011	01/12/2011	-	$0	1619m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	455049	            2/11 Southwell Street	17/07/2011	16/06/2015	-	$0	5693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	372765	10 Bambridge Street	22/11/2011	27/03/2012	-	$0	881m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	379279	38 Southwell Street	12/12/2011	12/09/2012	-	$0	1004m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353891	70 Southwell Street	07/11/2011	20/12/2011	-	$0	1136m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296114	5 Webb Place	16/05/2011	26/05/2011	-	-	785m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336117	23 Gillespie Street	24/06/2011	17/08/2011	-	-	1100m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340453	18 Kinleyside Crescent	23/08/2011	26/09/2011	-	-	922m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336075	56 Abernethy Street	29/07/2011	05/09/2011	-	-	941m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336076	21 Springvale Drive	31/05/2011	05/09/2011	-	-	882m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296022	6 Shumack Street	02/05/2011	22/06/2011	-	-	1003m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296113	61 Shumack Street	19/02/2011	25/05/2011	-	-	1232m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296023	8 Jones Place	18/02/2011	20/06/2011	-	-	1069m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296440	20 Crace Street	17/02/2011	15/06/2011	-	-	1273m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378805	39 McLachlan Crescent	19/05/2012	19/09/2012	17/04/2012	$1,030,000	1768m	Full transfer	5	1	2	2	-	$1,030,000	32	-	Combined Record	-	-	-	Single residential dwelling	$647,000	0.63
+2012	370583	159 Springvale Drive	21/06/2012	-	26/03/2012	$955,000	2803m	Full transfer	5	1	2	4	-	$955,000	87	-	Allhomes Record	-	-	-	-	$529,000	0.55
+2012	362481	             McKeahnie Street	13/04/2012	-	03/11/2011	$760,000	-	Full transfer	5	1	1	-	3	$760,000	162	-	Allhomes Record	-	-	-	-	-	-
+2012	393374	17 Kilby Crescent	27/11/2012	07/03/2013	-	$752,500	1294m	Full transfer	-	-	-	-	-	$752,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387818	6 Vest Place	15/11/2012	03/01/2013	-	$710,000	1168m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368444	81 Shumack Street	30/01/2012	20/03/2012	02/12/2011	$710,000	1245m	Full transfer	4	1	1	2	-	$710,000	59	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.66
+2012	392622	13 Plummer Street	10/11/2012	28/02/2013	16/10/2012	$706,000	1562m	Full transfer	3	1	1	2	-	$706,000	25	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.73
+2012	384741	15 Smith Street	17/03/2012	18/05/2012	17/02/2012	$697,000	1080m	Full transfer	5	1	1	2	-	$697,000	29	-	Combined Record	229	-	-	Single residential dwelling	$389,000	0.56
+2012	351302	47 Mathieson Crescent	20/01/2012	-	19/09/2011	$690,000	1204m	Full transfer	4	1	1	4	-	$690,000	123	-	Allhomes Record	-	-	-	-	$442,000	0.64
+2012	377459	15 Gibbes Place	12/09/2012	-	02/05/2012	$685,000	-	Full transfer	3	1	1	-	2	$685,000	133	-	Allhomes Record	179	-	-	-	$440,000	0.64
+2012	382946	8 O'Rourke Street	17/10/2012	26/11/2012	31/07/2012	$680,000	1147m	Full transfer	4	1	1	-	4	$680,000	78	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.7
+2012	371163	10 Abernethy Street	30/06/2012	-	06/06/2012	$650,000	1145m	Full transfer	5	3	2	1	1	$650,000	24	-	Allhomes Record	-	-	-	-	$442,000	0.68
+2012	389372	16 Mathieson Crescent	13/12/2012	24/01/2013	27/09/2012	$646,000	1039m	Full transfer	3	1	1	1	1	$646,000	77	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.63
+2012	388384	48 Bambridge Street	02/11/2012	18/01/2013	09/10/2012	$645,000	985m	Full transfer	5	1	1	-	2	$645,000	24	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.64
+2012	382711	8 Shumack Street	26/09/2012	19/11/2012	31/08/2012	$619,000	1125m	Full transfer	3	1	2	2	1	$619,000	26	-	Combined Record	128	-	-	Single residential dwelling	$389,000	0.63
+2012	362793	22 Bambridge Street	12/04/2012	-	29/02/2012	$605,000	906m	Full transfer	3	1	1	2	-	$605,000	43	-	Allhomes Record	153	-	-	-	$375,000	0.62
+2012	400521	            1/45 Morton Street	07/11/2012	28/05/2013	-	$600,000	1773m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376394	1 Mathieson Crescent	16/07/2012	10/08/2012	20/02/2012	$585,500	872m	Full transfer	4	1	1	-	2	$585,500	147	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.69
+2012	382713	            2/21 Packer Street	16/10/2012	21/11/2012	-	$545,000	1806m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	407620	63 Belconnen Way	12/12/2012	22/08/2013	29/10/2012	$480,000	957m	Full transfer	3	1	-	2	0	$480,000	44	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.71
+2012	371614	            1/11 McKeahnie Street	13/04/2012	23/05/2012	-	$440,000	1607m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	378999	4/13 Coppin Place	04/06/2012	05/09/2012	16/03/2012	$437,000	1423m	Full transfer	2	1	-	1	-	$437,000	80	-	Combined Record	98	-	-	Multiple unit dwelling	$540,000	1.24
+2012	387005	            8/32 Gillespie Street	03/11/2012	19/12/2012	-	$435,000	4602m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380355	18 Gillespie Street	03/11/2012	-	11/10/2012	$435,000	4602m	Full transfer	3	1	-	2	-	$435,000	23	-	Allhomes Record	-	-	-	-	$1,547,000	3.56
+2012	371819	1/49 Bambridge Street	24/04/2012	29/05/2012	-	$420,000	1430m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373021	2/46 Shumack Street	26/03/2012	26/04/2012	14/11/2011	$345,000	1720m	Full transfer	1	1	-	-	1	$345,000	133	-	Combined Record	-	-	-	Multiple unit dwelling	$1,365,000	3.96
+2012	371613	            2/11 McKeahnie Street	13/04/2012	22/05/2012	-	$320,000	1607m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382673	30 Bambridge Street	01/09/2012	07/11/2012	26/07/2012	$0	821m	Full transfer	3	1	1	2	-	$0	37	-	Combined Record	-	-	-	Single residential dwelling	$362,000	3.96
+2012	382672	9 Vest Place	12/07/2012	07/11/2012	-	$0	1582m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393068	11 Springvale Drive	11/03/2012	15/02/2013	-	$0	884m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377240	30 Bambridge Street	12/05/2012	16/07/2012	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368446	9 McKeahnie Street	08/03/2012	23/03/2012	-	$0	1728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389832	37 McLachlan Crescent	07/09/2012	31/01/2013	-	$0	1482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400122	            6/50 Gillespie Street	21/02/2012	21/05/2013	-	$0	4894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380590	40 O'Rourke Street	30/06/2012	12/10/2012	-	$0	1446m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400123	1 Gibbes Place	14/11/2012	22/05/2013	-	$0	1448m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	422493	18 Crace Street	27/07/2012	18/03/2014	-	$0	990m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378998	55 Abernethy Street	08/06/2012	05/09/2012	-	$0	934m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	398133	46 Morton Street	06/12/2012	13/05/2013	-	$0	946m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382840	22 Bambridge Street	13/04/2012	10/05/2012	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378807	17 Abernethy Street	25/05/2012	17/09/2012	-	$0	1238m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371818	12/46 Shumack Street	18/01/2012	03/06/2012	-	$0	1720m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	415901	22 Crace Street	18/10/2013	12/12/2013	10/10/2013	$925,000	1386m	Full transfer	5	2	1	2	0	$925,000	8	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.63
+2013	431979	6 Smith Street	16/11/2013	28/07/2014	15/10/2013	$880,000	992m	Full transfer	5	1	1	2	-	$880,000	32	-	Combined Record	229	-	-	Single residential dwelling	$466,000	0.53
+2013	413910	17 Packer Street	25/09/2013	21/11/2013	-	$860,000	1120m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410196	71 Springvale Drive	09/08/2013	13/09/2013	15/07/2013	$817,000	1034m	Full transfer	4	1	1	1	-	$817,000	25	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.62
+2013	412590	3 Smith Street	12/08/2013	07/11/2013	01/05/2013	$805,000	1358m	Full transfer	4	1	2	2	-	$805,000	103	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.65
+2013	407433	7 Line Place	25/05/2013	03/09/2013	30/04/2013	$795,000	1861m	Full transfer	5	1	1	2	-	$795,000	25	-	Combined Record	213	-	-	Single residential dwelling	$484,000	0.61
+2013	392621	27 Smith Street	15/01/2013	27/02/2013	-	$785,000	938m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	385631	2/27 Smith Street	15/01/2013	-	07/12/2012	$785,000	937m	Full transfer	4	1	1	-	2	$785,000	39	-	Allhomes Record	-	-	-	-	$389,000	0.5
+2013	390159	17 Kilby Crescent	28/02/2013	-	06/07/2012	$752,500	1294m	Full transfer	6	1	1	2	-	$752,500	237	-	Allhomes Record	1294	-	-	-	$452,000	0.6
+2013	404997	52 Southwell Street	28/03/2013	29/07/2013	-	$735,000	957m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410096	52 Southwell Street	03/04/2013	-	02/11/2013	$735,000	0m	Full transfer	4	3	-	0	2	$735,000	-	-	Allhomes Record	-	-	-	-	$452,000	0.61
+2013	418031	28 Shumack Street	21/11/2013	21/01/2014	30/10/2013	$730,000	1055m	Full transfer	4	1	1	2	-	$730,000	22	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.64
+2013	420995	75 Bambridge Street	21/11/2013	11/03/2014	25/10/2013	$730,000	1106m	Full transfer	4	3	-	0	3	$730,000	27	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.62
+2013	393732	9 Abernethy Street	18/04/2013	-	06/03/2013	$725,000	1160m	Full transfer	4	1	1	2	-	$725,000	43	-	Allhomes Record	-	-	-	-	$501,000	0.69
+2013	410194	65 Springvale Drive	27/07/2013	13/09/2013	12/07/2013	$715,000	1254m	Full transfer	4	1	1	-	3	$715,000	15	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.71
+2013	403673	31 Mayo Street	25/05/2013	18/07/2013	23/04/2013	$715,000	1089m	Full transfer	5	1	1	2	-	$715,000	32	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.63
+2013	393375	21 Mathieson Crescent	07/02/2013	07/03/2013	17/10/2012	$700,000	969m	Full transfer	5	1	1	2	-	$700,000	113	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.57
+2013	411234	9 Kinleyside Crescent	14/08/2013	17/10/2013	02/07/2013	$690,000	880m	Full transfer	4	1	1	-	2	$690,000	43	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.6
+2013	413913	            3/14 Gibbes Place	19/09/2013	21/11/2013	-	$689,000	1524m	Full transfer	-	-	-	-	-	$689,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414359	46 Southwell Street	18/10/2013	29/11/2013	01/10/2013	$689,000	942m	Full transfer	5	1	1	2	2	$689,000	17	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.66
+2013	414361	11 Coppin Place	16/10/2013	26/11/2013	23/09/2013	$662,500	1072m	Full transfer	5	1	1	2	0	$662,500	23	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.73
+2013	418033	52 Bambridge Street	19/11/2013	21/01/2014	21/10/2013	$660,000	815m	Full transfer	5	1	2	-	1	$660,000	29	-	Combined Record	190	-	-	Single residential dwelling	$401,000	0.61
+2013	415904	            2/14 Gibbes Place	20/09/2013	09/12/2013	-	$659,000	1524m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	415046	            1/14 Gibbes Place	18/09/2013	02/12/2013	-	$650,000	1524m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	421455	8 Smith Street	07/12/2013	21/02/2014	14/11/2013	$640,000	1032m	Full transfer	4	1	1	2	-	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.73
+2013	415903	13 Mathieson Crescent	22/10/2013	09/12/2013	-	$626,000	1234m	Full transfer	-	-	-	-	-	$626,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396063	            4/45 Morton Street	14/05/2013	-	10/04/2013	$620,000	-	Full transfer	3	1	1	2	-	$620,000	34	-	Allhomes Record	-	-	-	-	-	-
+2013	407396	            4/45 Morton Street	13/05/2013	16/08/2013	-	$620,000	1773m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405500	            3/45 Morton Street	21/06/2013	06/08/2013	-	$592,500	1773m	Full transfer	-	-	-	-	-	$592,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	417628	26 Mathieson Crescent	20/11/2013	15/01/2014	25/10/2013	$590,000	1065m	Full transfer	4	2	0	2	0	$590,000	26	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.74
+2013	421451	64 Bambridge Street	18/12/2013	18/02/2014	31/10/2013	$587,000	906m	Full transfer	4	1	1	1	1	$587,000	48	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.8
+2013	413909	17 Kinleyside Crescent	27/09/2013	20/11/2013	-	$580,000	887m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	389716	26 Mayo Street	26/02/2013	-	23/10/2012	$580,000	983m	Full transfer	4	1	1	1	-	$580,000	126	-	Allhomes Record	-	-	-	-	$452,000	0.78
+2013	404120	            2/45 Morton Street	21/05/2013	04/07/2013	-	$560,000	1773m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	403986	12 Smith Street	25/05/2013	11/07/2013	02/05/2013	$553,000	743m	Full transfer	4	1	-	2	-	$553,000	23	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.75
+2013	410071	            2/30 Kinleyside Crescent	31/10/2013	-	01/10/2013	$525,000	0m	Full transfer	4	1	1	0	0	$525,000	30	-	Allhomes Record	-	-	-	-	$720,000	1.37
+2013	415044	2/30 Kinleyside Crescent	31/12/2013	04/12/2013	-	$520,000	1471m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	402614	65 Belconnen Way	27/05/2013	27/06/2013	06/12/2012	$500,000	924m	Full transfer	4	1	-	2	0	$500,000	172	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.72
+2013	405803	1/51 Belconnen Way	30/08/2013	-	09/08/2013	$490,000	1066m	Full transfer	3	1	1	-	1	$490,000	21	-	Allhomes Record	-	-	-	-	$513,000	1.05
+2013	410830	            7/25 Bambridge Street	16/08/2013	18/09/2013	-	$485,000	1945m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	421146	1/25 Bambridge Street	15/10/2013	26/02/2014	-	$485,000	1945m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	386336	            1/30 Kinleyside Crescent	17/01/2013	-	15/11/2012	$462,000	1471m	Full transfer	2	1	-	1	-	$462,000	63	-	Allhomes Record	-	-	-	-	$720,000	1.56
+2013	467941	3 McKeahnie Street	01/12/2013	15/12/2015	-	$450,000	1411m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400522	            9/11 Southwell Street	21/03/2013	31/05/2013	-	$435,000	5693m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	390872	27 Southwell Street	25/03/2013	-	21/11/2012	$435,000	-	Full transfer	3	1	1	-	2	$435,000	124	-	Allhomes Record	-	-	-	-	$2,167,000	4.98
+2013	413912	            8/11 Southwell Street	10/10/2013	20/11/2013	-	$429,000	5693m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	408279	25 Southwell Street	10/10/2013	-	10/09/2013	$429,000	5693m	Full transfer	3	1	1	-	2	$429,000	30	-	Allhomes Record	-	-	-	-	$2,167,000	5.05
+2013	405112	8/46 Shumack Street	12/06/2013	25/07/2013	14/02/2013	$390,000	1720m	Full transfer	2	1	1	-	1	$390,000	118	-	Combined Record	-	-	-	Multiple unit dwelling	$1,365,000	3.5
+2013	432857	41 Springvale Drive	24/10/2013	11/08/2014	-	$0	1117m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400120	22 McLachlan Crescent	08/03/2013	22/05/2013	-	$0	1282m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	422601	23 Packer Street	23/11/2013	26/03/2014	-	$0	1260m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418338	4 O'Rourke Street	02/06/2013	06/01/2014	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419866	            2/32 Gillespie Street	30/10/2013	07/02/2014	-	$0	4602m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	448215	32 Shumack Street	26/12/2013	02/03/2015	-	$0	1363m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413911	43 Springvale Drive	03/10/2013	21/11/2013	-	$0	1151m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400523	45 Mayo Street	29/01/2013	28/05/2013	-	$0	1303m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415045	            11/11 Southwell Street	10/04/2013	02/12/2013	-	$0	5693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	396651	            2/51 Belconnen Way	25/01/2013	22/04/2013	-	$0	1066m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400121	10 Gillespie Street	26/02/2013	21/05/2013	-	$0	1257m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411236	52 Bambridge Street	28/03/2013	16/10/2013	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	389833	5 O'Rourke Street	24/01/2013	31/01/2013	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428129	4 Kilby Crescent	07/09/2013	02/05/2014	-	$0	1422m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432855	157 Springvale Drive	12/07/2014	15/08/2014	19/06/2014	$995,000	1756m	Full transfer	4	1	2	2	0	$995,000	23	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.55
+2014	446576	30 Packer Street	26/11/2014	10/02/2015	29/10/2014	$971,000	1427m	Full transfer	5	3	-	2	-	$971,000	28	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.54
+2014	430422	9 Plummer Street	13/03/2014	02/07/2014	03/02/2014	$915,000	1574m	Full transfer	7	3	-	3	-	$915,000	38	-	Combined Record	349	-	-	Single residential dwelling	$543,000	0.59
+2014	437734	87 Shumack Street	23/08/2014	20/10/2014	07/08/2014	$901,000	910m	Full transfer	4	2	1	2	0	$901,000	16	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.43
+2014	428935	36 Southwell Street	15/03/2014	11/06/2014	27/02/2014	$850,000	1100m	Full transfer	4	1	1	0	2	$850,000	16	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.51
+2014	438811	1 Gibbes Place	25/09/2014	05/11/2014	27/08/2014	$850,000	1448m	Full transfer	3	1	-	1	-	$850,000	29	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.59
+2014	432350	40 Davis Street	10/05/2014	08/08/2014	10/04/2014	$835,000	1912m	Full transfer	4	2	0	0	2	$835,000	30	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.65
+2014	422494	81 Springvale Drive	06/02/2014	20/03/2014	07/01/2014	$800,000	1185m	Full transfer	5	1	2	2	-	$800,000	30	-	Combined Record	220	-	-	Single residential dwelling	$491,000	0.61
+2014	434799	17 Bambridge Street	28/06/2014	10/09/2014	28/05/2014	$790,000	1064m	Full transfer	4	1	1	2	-	$790,000	31	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.59
+2014	428371	97 Shumack Street	12/03/2014	03/06/2014	19/02/2014	$786,000	910m	Full transfer	4	1	1	-	2	$786,000	21	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.47
+2014	433727	4 Kilby Crescent	04/04/2014	19/08/2014	13/01/2014	$771,000	1422m	Full transfer	4	2	1	2	-	$771,000	81	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.68
+2014	447103	21 Mathieson Crescent	20/10/2014	-	19/03/2015	$760,000	0m	Full transfer	5	2	-	2	0	$760,000	-	-	Allhomes Record	-	-	-	-	$386,000	0.51
+2014	440047	21 Mathieson Crescent	16/10/2014	25/11/2014	-	$760,000	969m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428130	37 Packer Street	15/03/2014	30/04/2014	06/02/2014	$760,000	930m	Full transfer	5	2	1	2	1	$760,000	37	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.66
+2014	431423	79 Shumack Street	02/07/2014	25/07/2014	-	$750,000	1297m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426237	32 Abernethy Street	02/04/2014	08/05/2014	25/02/2014	$750,000	949m	Full transfer	4	2	-	-	1	$750,000	36	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.54
+2014	439359	28 Morton Street	20/09/2014	10/11/2014	03/09/2014	$742,000	957m	Full transfer	6	1	2	2	1	$742,000	17	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.58
+2014	438468	39 Packer Street	23/07/2014	30/10/2014	04/06/2014	$732,000	974m	Full transfer	4	1	1	3	1	$732,000	49	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.68
+2014	437426	4 Vest Place	12/11/2014	-	22/10/2014	$725,000	0m	Full transfer	4	2	-	0	1	$725,000	21	-	Allhomes Record	-	-	-	-	$435,000	0.6
+2014	442048	24 Shumack Street	08/11/2014	16/12/2014	08/10/2014	$723,000	1034m	Full transfer	4	1	1	-	2	$723,000	31	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.6
+2014	434517	1 Jones Place	02/08/2014	05/09/2014	02/07/2014	$695,000	1505m	Full transfer	4	1	1	2	-	$695,000	31	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.77
+2014	426239	21 Gillespie Street	25/02/2014	05/05/2014	30/01/2014	$675,000	1087m	Full transfer	5	2	-	2	-	$675,000	26	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.61
+2014	437736	15 Belconnen Way	13/09/2014	22/10/2014	13/08/2014	$670,000	1269m	Full transfer	3	1	1	2	-	$670,000	31	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.56
+2014	436729	1 Line Place	30/08/2014	07/10/2014	05/08/2014	$662,000	980m	Full transfer	4	1	1	1	1	$662,000	25	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.6
+2014	424092	23 Bambridge Street	14/03/2014	14/04/2014	08/02/2014	$650,000	1276m	Full transfer	4	2	1	1	2	$650,000	34	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.75
+2014	425437	36 O'Rourke Street	02/06/2014	-	26/03/2014	$650,000	1005m	Full transfer	4	1	-	2	-	$650,000	68	-	Allhomes Record	-	-	-	-	$527,000	0.81
+2014	430993	33 Belconnen Way	07/06/2014	15/07/2014	13/05/2014	$620,000	1127m	Full transfer	3	1	1	4	-	$620,000	25	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.56
+2014	421453	15 Kinleyside Crescent	17/01/2014	21/02/2014	05/11/2013	$620,000	951m	Full transfer	3	1	1	2	-	$620,000	73	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.66
+2014	427923	15 Mathieson Crescent	15/03/2014	21/05/2014	12/02/2014	$580,000	976m	Full transfer	4	2	-	-	2	$580,000	31	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.71
+2014	446180	22 Abernethy Street	10/12/2014	17/02/2015	20/10/2014	$570,000	961m	Full transfer	4	1	1	2	-	$570,000	51	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.75
+2014	443102	54 Abernethy Street	14/10/2014	15/01/2015	08/09/2014	$553,000	827m	Full transfer	4	1	-	1	-	$553,000	36	-	Combined Record	129	-	-	Single residential dwelling	$386,000	0.7
+2014	433847	1/25 Bambridge Street	23/05/2014	28/08/2014	03/04/2014	$485,000	1945m	Full transfer	2	1	1	0	2	$485,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	$1,010,000	2.08
+2014	459604	2/11 Mathieson Crescent	12/06/2014	18/08/2015	-	$427,500	1784m	Full transfer	-	-	-	-	-	$427,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429178	31 Southwell Street	12/07/2014	-	29/05/2014	$390,000	-	Full transfer	3	1	1	2	-	$390,000	44	-	Allhomes Record	-	-	-	-	$2,167,000	5.56
+2014	446578	            3/50 Gillespie Street	13/12/2014	13/02/2015	-	$390,000	4894m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436528	            2/78B Shumack Street	30/06/2014	30/09/2014	-	$390,000	1410m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440527	46 Gillespie Street	13/12/2014	-	18/11/2014	$390,000	-	Full transfer	3	1	1	2	-	$390,000	25	-	Allhomes Record	-	-	-	-	$1,818,000	4.66
+2014	435479	            11/11 Southwell Street	12/07/2014	17/09/2014	-	$390,000	5693m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436529	1/78B Shumack Street	30/06/2014	30/09/2014	-	$390,000	1410m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	447667	6/46 Shumack Street	20/12/2014	10/03/2015	03/12/2014	$330,000	1720m	Full transfer	2	1	1	-	1	$330,000	17	-	Combined Record	-	-	-	Multiple unit dwelling	$1,433,000	4.34
+2014	458858	67 Belconnen Way	01/03/2014	07/08/2015	-	$0	1004m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443104	10 Kilby Crescent	10/06/2014	15/01/2015	-	$0	1782m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441089	2 Bambridge Street	28/06/2014	03/12/2014	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428937	12/46 Shumack Street	11/03/2014	12/06/2014	-	$0	1720m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436037	33 Belconnen Way	31/07/2014	24/09/2014	-	$0	1127m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	495207	29 Shumack Street	14/05/2014	19/01/2017	-	$0	975m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428374	4 Weetangera Place	11/03/2014	05/06/2014	-	$0	206m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2014	428373	6 Weetangera Place	11/03/2014	05/06/2014	-	$0	206m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2014	428375	2 Weetangera Place	11/03/2014	05/06/2014	-	$0	214m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2014	432858	15 Belconnen Way	10/04/2014	13/08/2014	-	$0	1269m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430421	25 McLachlan Crescent	09/04/2014	04/07/2014	-	$0	1449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	490197	19 O'Rourke Street	04/05/2014	04/11/2016	-	$0	1305m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	449748	23 Packer Street	30/07/2014	09/04/2015	-	$0	1260m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443983	9 O'Rourke Street	29/04/2014	28/01/2015	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429645	4 Crace Street	21/01/2014	24/06/2014	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424451	43 Belconnen Way	04/01/2014	24/04/2014	-	$0	1022m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447857	            6/11 Southwell Street	03/05/2014	18/03/2015	-	$0	5693m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441377	73 Shumack Street	18/04/2014	12/12/2014	-	$0	1177m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472865	139 Springvale Drive	28/11/2015	01/03/2016	06/11/2015	$1,165,000	2122m	Full transfer	6	3	1	3	0	$1,165,000	22	-	Combined Record	-	-	-	Single residential dwelling	$642,000	0.55
+2015	472867	115 Springvale Drive	11/11/2015	02/03/2016	-	$1,150,000	1866m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461396	1 Belconnen Way	19/05/2015	08/09/2015	-	$1,100,000	1706m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457718	10 O'Rourke Street	06/06/2015	13/07/2015	11/05/2015	$1,010,000	1569m	Full transfer	4	1	1	2	-	$1,010,000	26	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.55
+2015	472851	24 Plummer Street	15/12/2015	02/03/2016	26/11/2015	$920,000	1268m	Full transfer	6	3	-	2	0	$920,000	19	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.6
+2015	472163	24 Packer Street	08/12/2015	23/02/2016	-	$870,000	1687m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471055	19 Harcourt Street	06/05/2015	15/02/2016	-	$850,000	1366m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	467939	21 Kinleyside Crescent	22/10/2015	15/12/2015	03/09/2015	$835,000	926m	Full transfer	5	1	1	2	0	$835,000	49	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.49
+2015	462862	23 O'Rourke Street	23/04/2015	07/10/2015	16/04/2015	$830,000	1375m	Full transfer	4	3	-	2	0	$830,000	7	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.67
+2015	454236	23 Packer Street	19/03/2015	12/06/2015	26/02/2015	$830,000	1260m	Full transfer	4	3	-	2	0	$830,000	21	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.67
+2015	467943	66 Southwell Street	24/10/2015	14/12/2015	01/10/2015	$810,000	1457m	Full transfer	4	1	1	2	0	$810,000	23	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.6
+2015	464580	15 Gibbes Place	09/09/2015	22/10/2015	13/08/2015	$810,000	1343m	Full transfer	3	2	-	0	2	$810,000	27	-	Combined Record	-	-	-	Single residential dwelling	$458,000	0.57
+2015	467704	23 Bambridge Street	21/10/2015	23/12/2015	-	$808,000	1276m	Full transfer	-	-	-	-	-	$808,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471335	23 Springvale Drive	05/12/2015	10/02/2016	02/11/2015	$808,000	1155m	Full transfer	5	3	1	2	2	$808,000	33	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.5
+2015	464586	14 Kilby Crescent	05/09/2015	21/10/2015	07/08/2015	$807,000	1274m	Full transfer	4	2	-	2	0	$807,000	29	-	Combined Record	-	-	-	Single residential dwelling	$534,000	0.66
+2015	468536	26 Abernethy Street	06/11/2015	04/01/2016	20/10/2015	$807,000	926m	Full transfer	4	2	-	2	0	$807,000	17	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.53
+2015	472164	54 Southwell Street	21/11/2015	24/02/2016	04/11/2015	$785,000	1178m	Full transfer	4	1	1	2	0	$785,000	17	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.58
+2015	466213	6 O'Rourke Street	02/09/2015	16/11/2015	13/08/2015	$785,000	990m	Full transfer	4	3	-	2	0	$785,000	20	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.63
+2015	456424	3 Darmody Street	18/03/2015	30/06/2015	21/02/2015	$780,000	949m	Full transfer	5	2	1	2	-	$780,000	25	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.54
+2015	451765	57 Shumack Street	21/02/2015	10/05/2015	04/02/2015	$778,000	1245m	Full transfer	4	1	1	2	0	$778,000	17	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.67
+2015	456864	9 O'Rourke Street	01/04/2015	25/06/2015	05/03/2015	$775,000	894m	Full transfer	4	2	1	2	-	$775,000	27	-	Combined Record	283	-	-	Single residential dwelling	$491,000	0.63
+2015	465156	39 Morton Street	18/07/2015	04/11/2015	13/05/2015	$770,000	917m	Full transfer	4	1	1	2	0	$770,000	66	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.53
+2015	467937	10 Shumack Street	19/09/2015	15/12/2015	17/08/2015	$770,000	1092m	Full transfer	4	1	1	2	-	$770,000	33	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.53
+2015	449257	85 Springvale Drive	17/02/2015	02/04/2015	27/11/2014	$740,000	1180m	Full transfer	4	1	1	2	-	$740,000	82	-	Combined Record	180	-	-	Single residential dwelling	$534,000	0.72
+2015	443982	4 Vest Place	09/01/2015	29/01/2015	-	$725,000	1022m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462864	7 Coppin Place	12/08/2015	08/10/2015	-	$720,500	843m	Full transfer	-	-	-	-	-	$720,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472873	5 Webb Place	18/12/2015	01/03/2016	04/11/2015	$710,000	785m	Full transfer	4	2	-	2	-	$710,000	44	-	Combined Record	172	-	-	Single residential dwelling	$456,000	0.64
+2015	458046	17 Smith Street	02/03/2015	24/07/2015	-	$700,000	1223m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471054	14 Shumack Street	23/11/2015	15/02/2016	-	$700,000	923m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471063	12 Shumack Street	23/11/2015	15/02/2016	-	$700,000	976m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459592	28 Crace Street	04/07/2015	20/08/2015	10/06/2015	$690,000	953m	Full transfer	4	1	1	1	-	$690,000	24	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.66
+2015	466878	1/36 Kinleyside Crescent	10/12/2015	-	15/06/2015	$687,000	0m	Full transfer	4	1	1	2	0	$687,000	178	-	Allhomes Record	-	-	-	-	$476,000	0.69
+2015	458036	36 Kinleyside Crescent	09/01/2015	20/07/2015	-	$675,000	1132m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466203	4/38 Kinleyside Crescent	24/09/2015	17/11/2015	03/03/2015	$670,000	2509m	Full transfer	3	1	1	2	0	$670,000	205	-	Combined Record	201	-	-	Multiple unit dwelling	$966,000	1.44
+2015	450079	19 Kinleyside Crescent	18/02/2015	15/04/2015	16/01/2015	$650,000	819m	Full transfer	3	1	1	-	2	$650,000	33	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.62
+2015	456860	14 Shumack Street	04/02/2015	23/06/2015	09/10/2014	$645,000	923m	Full transfer	4	1	1	2	-	$645,000	118	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.63
+2015	462873	23 Mathieson Crescent	15/08/2015	08/10/2015	22/07/2015	$620,000	957m	Full transfer	3	1	-	2	-	$620,000	24	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.65
+2015	448589	2 Bambridge Street	02/02/2015	27/03/2015	30/10/2014	$595,000	976m	Full transfer	4	1	2	2	0	$595,000	95	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.71
+2015	455551	42A Shumack Street	23/07/2015	-	23/04/2015	$593,000	549m	Full transfer	3	1	1	2	-	$593,000	91	-	Allhomes Record	-	-	-	-	$534,000	0.9
+2015	461403	            1/42 Shumack Street	23/07/2015	07/09/2015	-	$593,000	1098m	Full transfer	-	-	-	-	-	$593,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448591	12 Shumack Street	04/02/2015	23/03/2015	-	$585,000	976m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474425	5 Belconnen Way	08/12/2015	05/04/2016	-	$552,000	1015m	Full transfer	-	-	-	-	-	$552,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462333	5 Belconnen Way	14/10/2015	-	24/09/2015	$545,000	0m	Full transfer	3	2	-	5	0	$545,000	20	-	Allhomes Record	-	-	-	-	$344,000	0.63
+2015	450129	3 Davis Street	14/02/2015	16/04/2015	19/01/2015	$545,000	665m	Full transfer	3	1	1	-	3	$545,000	26	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.74
+2015	454635	44 Gillespie Street	27/06/2015	-	12/06/2015	$470,000	4894m	Full transfer	3	1	1	0	2	$470,000	15	-	Allhomes Record	-	-	-	-	$1,818,000	3.87
+2015	461928	            4/50 Gillespie Street	27/06/2015	23/09/2015	-	$470,000	4894m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463388	            5/11 Southwell Street	15/08/2015	12/10/2015	-	$440,000	5693m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458359	19 Southwell Street	15/08/2015	-	31/07/2015	$440,000	0m	Full transfer	3	2	-	2	0	$440,000	15	-	Allhomes Record	-	-	-	-	$2,167,000	4.93
+2015	453328	2/11 Mathieson Crescent	12/06/2015	-	18/02/2015	$427,500	285m	Full transfer	2	1	0	1	0	$427,500	114	-	Allhomes Record	-	-	-	-	$159,040	0.37
+2015	456420	117 Springvale Drive	12/05/2015	30/06/2015	-	$0	2469m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	447140	3 Gibbes Place	28/01/2015	24/02/2015	-	$0	1068m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	539067	20 O'Rourke Street	14/09/2015	01/08/2018	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455978	29 O'Rourke Street	16/04/2015	09/07/2015	-	$0	1187m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	447856	8 Mowle Place	06/01/2015	17/03/2015	-	$0	1117m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471334	35 Mathieson Crescent	04/11/2015	11/02/2016	-	$0	1708m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452352	4 Line Place	22/04/2015	20/05/2015	-	$0	1389m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	469062	8 Gibbes Place	27/09/2015	13/01/2016	-	$0	1110m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	534194	7 Smith Street	22/12/2016	07/06/2018	-	$2,000,000	2609m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479107	29 McLachlan Crescent	19/03/2016	02/06/2016	16/02/2016	$1,510,000	1366m	Full transfer	6	2	2	2	-	$1,510,000	32	-	Combined Record	475	-	-	Single residential dwelling	$679,000	0.45
+2016	534306	9 Smith Street	22/12/2016	07/06/2018	29/08/2016	$1,400,000	2095m	Full transfer	-	-	-	-	-	$1,400,000	115	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.42
+2016	481179	29 Packer Street	23/04/2016	14/07/2016	07/04/2016	$1,320,000	1111m	Full transfer	5	1	3	5	0	$1,320,000	16	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.42
+2016	498429	133 Springvale Drive	19/11/2016	14/02/2017	26/10/2016	$1,180,000	1697m	Full transfer	4	2	1	2	-	$1,180,000	24	-	Combined Record	-	-	-	Single residential dwelling	$674,000	0.57
+2016	499026	97 Springvale Drive	12/11/2016	03/03/2017	20/10/2016	$1,122,000	1769m	Full transfer	5	2	-	0	2	$1,122,000	23	-	Combined Record	-	-	-	Single residential dwelling	$617,000	0.55
+2016	498852	157 Springvale Drive	22/12/2016	02/03/2017	19/01/2016	$1,120,000	1756m	Full transfer	5	3	-	2	0	$1,120,000	338	-	Combined Record	-	-	-	Single residential dwelling	$598,000	0.53
+2016	474418	17 Davis Street	13/02/2016	06/04/2016	27/01/2016	$1,059,000	990m	Full transfer	5	1	2	2	2	$1,059,000	17	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.46
+2016	476379	21 Shumack Street	13/02/2016	27/04/2016	27/01/2016	$955,000	1400m	Full transfer	5	1	1	2	0	$955,000	17	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.58
+2016	489168	29 O'Rourke Street	05/09/2016	17/10/2016	04/08/2016	$955,000	1187m	Full transfer	5	2	-	3	0	$955,000	32	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.61
+2016	475695	11 Plummer Street	03/02/2016	12/04/2016	14/01/2016	$951,000	1437m	Full transfer	5	3	-	2	2	$951,000	20	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.61
+2016	469736	45 Springvale Drive	08/02/2016	-	02/11/2015	$905,000	1176m	Full transfer	5	3	-	1	-	$905,000	98	-	Allhomes Record	-	-	-	-	$535,000	0.59
+2016	493976	13 Smith Street	02/09/2016	19/12/2016	-	$900,000	1041m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485234	73 Springvale Drive	22/06/2016	19/08/2016	11/04/2016	$899,000	1178m	Full transfer	4	2	1	2	-	$899,000	72	-	Combined Record	-	-	-	Single residential dwelling	$540,000	0.6
+2016	492591	77 Springvale Drive	04/10/2016	13/12/2016	15/09/2016	$875,000	1233m	Full transfer	4	3	-	2	0	$875,000	19	-	Combined Record	-	-	-	Single residential dwelling	$540,000	0.62
+2016	491329	32 Davis Street	10/09/2016	23/11/2016	26/08/2016	$855,000	813m	Full transfer	4	1	1	2	0	$855,000	15	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.57
+2016	492458	5 Bambridge Street	08/09/2016	12/12/2016	-	$845,000	906m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491284	8 McLachlan Crescent	10/08/2016	21/11/2016	-	$835,000	1400m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501326	            2/12 Kilby Crescent	03/12/2016	28/03/2017	-	$830,000	1619m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493036	8 Mayo Street	31/08/2016	06/12/2016	11/08/2016	$818,000	891m	Full transfer	4	2	-	2	0	$818,000	20	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.55
+2016	499948	6 Mathieson Crescent	19/11/2016	06/03/2017	27/10/2016	$815,000	1087m	Full transfer	4	1	2	1	2	$815,000	23	-	Combined Record	197	-	-	Single residential dwelling	$464,000	0.57
+2016	487648	3 Mathieson Crescent	17/10/2016	-	06/10/2016	$787,000	0m	Full transfer	4	3	-	2	0	$787,000	11	-	Allhomes Record	-	-	-	-	$435,000	0.55
+2016	488671	110 Shumack Street	05/11/2016	-	13/10/2016	$780,000	0m	Full transfer	4	2	-	2	0	$780,000	23	-	Allhomes Record	-	-	-	-	$446,000	0.57
+2016	491671	15 Springvale Drive	20/09/2016	28/11/2016	28/07/2016	$770,000	811m	Full transfer	5	2	-	2	0	$770,000	54	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.51
+2016	475692	6 Morton Street	19/01/2016	12/04/2016	30/11/2015	$760,000	893m	Full transfer	4	1	1	-	2	$760,000	50	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.57
+2016	480408	2 Crace Street	09/07/2016	-	23/06/2016	$755,000	0m	Full transfer	3	2	-	2	0	$755,000	16	-	Allhomes Record	-	-	-	-	$469,000	0.62
+2016	481789	39 Bambridge Street	30/04/2016	21/07/2016	07/04/2016	$740,000	934m	Full transfer	4	2	-	3	0	$740,000	23	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.6
+2016	490868	28 Mayo Street	15/09/2016	17/11/2016	11/08/2016	$740,000	888m	Full transfer	3	2	-	2	0	$740,000	35	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.65
+2016	522644	67 Belconnen Way	12/08/2016	11/01/2018	-	$730,000	1004m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498128	37 Belconnen Way	05/10/2016	14/02/2017	-	$725,000	1242m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	533848	71 Belconnen Way	22/08/2016	03/06/2018	-	$720,000	873m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479784	44 Davis Street	30/06/2016	-	23/05/2016	$710,000	1034m	Full transfer	-	-	-	-	-	$710,000	38	-	Allhomes Record	-	-	-	-	$453,000	0.64
+2016	497391	69 Belconnen Way	22/07/2016	23/02/2017	06/06/2016	$700,000	881m	Full transfer	3	1	-	1	1	$700,000	46	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.52
+2016	484491	1 Vest Place	23/04/2016	18/08/2016	31/03/2016	$690,000	937m	Full transfer	3	1	1	0	2	$690,000	23	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.64
+2016	475860	15 Gillespie Street	24/02/2016	18/04/2016	04/02/2016	$680,000	878m	Full transfer	3	1	-	2	0	$680,000	20	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.61
+2016	486546	3/30 Kinleyside Crescent	06/06/2016	14/09/2016	04/04/2016	$662,000	1471m	Full transfer	3	1	1	2	-	$662,000	63	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	480651	23 Mathieson Crescent	09/05/2016	28/06/2016	-	$650,000	957m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477323	3 O'Rourke Street	26/05/2016	-	28/04/2016	$635,000	1110m	Full transfer	-	-	-	-	-	$635,000	28	-	Allhomes Record	-	-	-	-	$468,000	0.74
+2016	482699	42B Shumack Street	18/08/2016	-	06/04/2016	$625,000	1098m	Full transfer	3	1	1	2	-	$625,000	134	-	Allhomes Record	149	-	-	-	$547,000	0.88
+2016	493968	23 Belconnen Way	06/10/2016	19/12/2016	15/09/2016	$625,000	910m	Full transfer	4	2	-	0	3	$625,000	21	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.58
+2016	489459	            2/42 Shumack Street	19/08/2016	17/10/2016	-	$625,000	1098m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479760	9 Mayo Street	30/06/2016	-	23/05/2016	$600,000	987m	Full transfer	-	-	-	-	-	$600,000	38	-	Allhomes Record	-	-	-	-	$417,000	0.7
+2016	499826	10 Weetangera Place	28/04/2016	09/03/2017	21/05/2014	$527,500	405m	Full transfer	-	-	-	-	-	$527,500	708	-	Combined Record	-	-	-	Retail	$115,000	0.22
+2016	491899	9 Southwell Street	16/12/2016	-	10/11/2016	$487,500	0m	Full transfer	3	1	1	2	0	$487,500	36	-	Allhomes Record	-	-	-	-	$954,000	1.96
+2016	500196	            5/1 Southwell Street	16/12/2016	08/03/2017	-	$487,500	2231m	Full transfer	-	-	-	-	-	$487,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479927	            3/1 Southwell Street	29/04/2016	21/06/2016	-	$465,000	2231m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484632	            3/11 Southwell Street	24/05/2016	17/08/2016	-	$450,000	5693m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472565	42 Gillespie Street	21/03/2016	-	12/02/2016	$435,000	0m	Full transfer	4	2	-	2	0	$435,000	38	-	Allhomes Record	-	-	-	-	$1,818,000	4.18
+2016	477988	            5/50 Gillespie Street	18/03/2016	17/05/2016	-	$435,000	4894m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479928	3/13 Coppin Place	06/05/2016	21/06/2016	26/11/2015	$362,500	1423m	Full transfer	1	1	-	1	0	$362,500	162	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	485333	43 McLachlan Crescent	09/05/2016	18/08/2016	-	$150,000	1965m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477987	50 Southwell Street	04/03/2016	19/05/2016	-	$0	990m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498000	31 Kilby Crescent	24/08/2016	13/02/2017	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495995	4 Darmody Street	30/05/2016	24/01/2017	-	$0	1177m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	488912	73 Shumack Street	26/08/2016	24/10/2016	-	$0	1177m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484193	10 Davis Street	20/04/2016	26/08/2016	-	$0	1577m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474424	4 Bambridge Street	21/02/2016	07/04/2016	-	$0	919m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484803	23 Belconnen Way	12/03/2016	25/08/2016	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476369	7 McKeahnie Street	22/01/2016	28/04/2016	-	$0	1411m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497860	11 Abernethy Street	13/02/2016	24/02/2017	-	$0	1104m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	516912	24 Crace Street	09/01/2016	02/08/2017	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519496	17 McLachlan Crescent	08/07/2017	10/10/2017	15/06/2017	$1,551,000	4078m	Full transfer	6	2	-	2	0	$1,551,000	23	-	Combined Record	-	-	-	Single residential dwelling	$794,000	0.51
+2017	524145	9 McLachlan Crescent	22/09/2017	22/01/2018	-	$1,525,000	2621m	Full transfer	-	-	-	-	-	$1,525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508955	99 Springvale Drive	28/10/2017	-	05/10/2017	$1,240,000	1845m	Full transfer	5	2	-	2	1	$1,240,000	23	-	Allhomes Record	-	-	-	-	$648,000	0.52
+2017	513486	19 Mayo Street	04/03/2017	29/05/2017	09/02/2017	$1,130,000	888m	Full transfer	5	3	-	2	0	$1,130,000	23	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.41
+2017	512093	18 O'Rourke Street	25/03/2017	19/05/2017	02/03/2017	$1,085,000	845m	Full transfer	4	3	-	2	0	$1,085,000	23	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.51
+2017	503461	28 Kinleyside Crescent	18/02/2017	04/04/2017	25/01/2017	$984,000	1781m	Full transfer	4	2	-	2	2	$984,000	24	-	Combined Record	-	-	-	Single residential dwelling	$599,000	0.61
+2017	509833	123 Springvale Drive	22/11/2017	-	12/10/2017	$980,000	2055m	Full transfer	-	-	-	-	-	$980,000	41	-	Allhomes Record	-	-	-	-	$560,000	0.57
+2017	507047	112 Shumack Street	10/08/2017	-	23/06/2017	$950,000	1510m	Full transfer	-	-	-	-	-	$950,000	48	-	Allhomes Record	-	-	-	-	$376,000	0.4
+2017	519162	112 Shumack Street	10/10/2017	10/10/2017	-	$950,000	1511m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517029	43 Gillespie Street	07/02/2017	31/07/2017	-	$950,000	1304m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515997	65 Shumack Street	30/05/2017	24/07/2017	20/04/2017	$924,000	1421m	Full transfer	4	1	1	2	0	$924,000	40	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.64
+2017	512874	71 Shumack Street	25/02/2017	25/05/2017	01/02/2017	$922,000	1161m	Full transfer	4	2	-	3	0	$922,000	24	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.64
+2017	528092	25 Kilby Crescent	19/12/2017	21/03/2018	04/10/2017	$919,000	1289m	Full transfer	4	2	-	0	2	$919,000	76	-	Combined Record	-	-	-	Single residential dwelling	$524,000	0.57
+2017	513306	10 McLachlan Crescent	11/02/2017	06/06/2017	18/01/2017	$915,000	1484m	Full transfer	4	2	1	2	-	$915,000	24	-	Combined Record	179	-	-	Single residential dwelling	$648,000	0.71
+2017	521737	30 Abernethy Street	21/09/2017	21/12/2017	27/07/2017	$910,000	897m	Full transfer	4	2	-	2	0	$910,000	56	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.51
+2017	508894	17 Abernethy Street	28/10/2017	-	03/10/2017	$905,000	1238m	Full transfer	4	2	-	3	-	$905,000	25	-	Allhomes Record	-	-	-	-	$567,000	0.63
+2017	518059	31 Kilby Crescent	04/05/2017	30/08/2017	06/04/2017	$900,000	945m	Full transfer	3	2	-	2	0	$900,000	28	-	Combined Record	-	-	-	Single residential dwelling	$503,000	0.56
+2017	520996	92 Shumack Street	21/09/2017	01/12/2017	-	$880,000	1022m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502705	12 Mathieson Crescent	27/02/2017	12/04/2017	12/01/2017	$875,000	951m	Full transfer	5	3	-	2	0	$875,000	46	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.56
+2017	510509	10 Mayo Street	11/12/2017	-	01/11/2017	$840,000	889m	Full transfer	4	2	-	2	0	$840,000	40	-	Allhomes Record	-	-	-	-	$468,000	0.56
+2017	525677	35 Kilby Crescent	25/11/2017	15/02/2018	01/11/2017	$835,000	1011m	Full transfer	4	2	-	0	2	$835,000	24	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.56
+2017	510274	            2 Davis Street	05/12/2017	-	02/11/2017	$830,000	1065m	Full transfer	-	-	-	-	-	$830,000	33	-	Allhomes Record	-	-	-	-	-	-
+2017	509620	68 Southwell Street	16/11/2017	-	12/10/2017	$830,000	1422m	Full transfer	-	-	-	-	-	$830,000	35	-	Allhomes Record	-	-	-	-	$434,000	0.52
+2017	524120	14 Bambridge Street	28/10/2017	23/01/2018	05/10/2017	$816,000	801m	Full transfer	5	3	-	0	2	$816,000	23	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.53
+2017	523531	7 Bambridge Street	04/11/2017	16/01/2018	12/10/2017	$815,000	924m	Full transfer	4	2	-	2	0	$815,000	23	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.6
+2017	522526	38 Morton Street	21/10/2017	09/01/2018	28/09/2017	$815,000	863m	Full transfer	4	2	-	2	0	$815,000	23	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.56
+2017	509129	32 Kinleyside Crescent	02/11/2017	-	12/10/2017	$810,000	-	Full transfer	-	-	-	-	-	$810,000	21	-	Allhomes Record	-	-	-	-	$458,000	0.57
+2017	509130	8 McKeahnie Street	02/11/2017	-	12/10/2017	$806,000	1270m	Full transfer	-	-	-	-	-	$806,000	21	-	Allhomes Record	-	-	-	-	$535,000	0.66
+2017	514569	26 Kinleyside Crescent	23/03/2017	05/07/2017	-	$800,000	1048m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500350	23 Bambridge Street	06/04/2017	-	16/03/2016	$799,000	-	Full transfer	3	1	1	2	-	$799,000	386	-	Allhomes Record	181	-	-	-	$536,000	0.67
+2017	518058	            3/23 Bambridge Street	29/03/2017	31/08/2017	-	$799,000	1276m	Full transfer	-	-	-	-	-	$799,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528030	17 Kinleyside Crescent	21/12/2017	25/03/2018	16/11/2017	$785,000	887m	Full transfer	4	1	1	2	0	$785,000	35	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.58
+2017	517934	            1/23 Bambridge Street	15/02/2017	29/08/2017	-	$765,000	1276m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518114	            2/23 Bambridge Street	06/04/2017	29/08/2017	-	$749,900	1276m	Full transfer	-	-	-	-	-	$749,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504281	3/38 Kinleyside Crescent	17/05/2017	-	28/04/2017	$740,000	2509m	Full transfer	3	2	-	2	0	$740,000	19	-	Allhomes Record	-	-	-	-	-	-
+2017	509120	23 Kinleyside Crescent	02/11/2017	-	12/10/2017	$725,000	923m	Full transfer	-	-	-	-	-	$725,000	21	-	Allhomes Record	-	-	-	-	$396,000	0.55
+2017	517292	4 Line Place	10/06/2017	16/08/2017	15/05/2017	$720,000	1389m	Full transfer	3	1	-	2	-	$720,000	26	-	Combined Record	103	-	-	Single residential dwelling	$557,000	0.77
+2017	520928	6 Gibbes Place	02/09/2017	29/11/2017	10/08/2017	$700,000	1042m	Full transfer	4	1	-	1	0	$700,000	23	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.73
+2017	512141	4/38 Kinleyside Crescent	27/02/2017	16/05/2017	13/02/2017	$690,000	2509m	Full transfer	3	1	1	2	0	$690,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	$966,000	1.4
+2017	509136	11 Bambridge Street	02/11/2017	-	12/10/2017	$682,000	840m	Full transfer	-	-	-	-	-	$682,000	21	-	Allhomes Record	-	-	-	-	$413,000	0.61
+2017	504876	75 Belconnen Way	18/02/2017	01/05/2017	24/01/2017	$681,000	1023m	Full transfer	4	1	-	-	-	$681,000	25	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.53
+2017	509121	51 Springvale Drive	02/11/2017	-	12/10/2017	$680,000	973m	Full transfer	-	-	-	-	-	$680,000	21	-	Allhomes Record	-	-	-	-	$477,000	0.7
+2017	517469	27 Mathieson Crescent	27/05/2017	25/08/2017	10/04/2017	$657,000	1067m	Full transfer	3	1	1	0	2	$657,000	47	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.73
+2017	524123	6/11 Mathieson Crescent	27/10/2017	22/01/2018	05/10/2017	$565,000	1784m	Full transfer	2	1	1	2	0	$565,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	520349	10/46 Shumack Street	16/08/2017	01/11/2017	-	$524,500	1720m	Full transfer	-	-	-	-	-	$524,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524543	1/46 Shumack Street	08/11/2017	29/01/2018	-	$410,000	1720m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518174	2/3 Webb Place	03/07/2017	28/08/2017	-	$390,000	785m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526806	9/46 Shumack Street	19/12/2017	07/03/2018	-	$380,000	1720m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514029	45 McLachlan Crescent	07/06/2017	13/06/2017	-	$310,000	3150m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517942	1/3 Webb Place	03/07/2017	28/08/2017	-	$300,000	785m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506169	1AND2/3 Webb Place	03/07/2017	-	16/06/2017	$300,000	0m	Full transfer	3	2	-	0	0	$300,000	17	-	Allhomes Record	-	-	-	-	$602,000	2.01
+2017	521942	15 Gibbes Place	14/09/2017	05/01/2018	-	$276,666	1343m	Full transfer	-	-	-	-	-	$276,666	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515856	102 Shumack Street	01/04/2017	24/07/2017	-	$0	1068m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512082	1/38 Bambridge Street	11/04/2017	15/05/2017	23/02/2017	$0	845m	Full transfer	2	1	-	0	1	$0	47	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	514979	23 Kilby Crescent	07/06/2017	07/07/2017	-	$0	1219m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	532231	43 Springvale Drive	24/01/2017	09/05/2018	-	$0	1151m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	531336	48 Bambridge Street	10/05/2017	24/04/2018	-	$0	985m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517732	17 Abernethy Street	02/02/2017	29/08/2017	-	$0	1238m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517051	25 Belconnen Way	15/06/2017	02/08/2017	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514433	34 Morton Street	22/03/2017	05/07/2017	-	$0	899m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519126	21 Gillespie Street	12/07/2017	13/10/2017	-	$0	1087m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517747	2 Vest Place	05/06/2017	29/08/2017	-	$0	935m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512968	71 Bambridge Street	19/03/2017	25/05/2017	-	$0	1090m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	549487	9 Shumack Street	09/09/2017	01/11/2018	-	$0	930m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521226	37 McLachlan Crescent	02/06/2017	07/12/2017	-	$0	1482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538542	12 Shumack Street	03/04/2018	26/07/2018	16/02/2018	$1,685,000	1900m	Full transfer	-	-	-	-	-	$1,685,000	46	-	Combined Record	-	-	-	Multi unit development (res...	$437,000	0.26
+2018	538357	113 Springvale Drive	14/04/2018	25/07/2018	21/03/2018	$1,407,000	1866m	Full transfer	4	3	-	3	0	$1,407,000	24	-	Combined Record	-	-	-	Single residential dwelling	$759,000	0.54
+2018	533260	25 McKeahnie Street	24/02/2018	27/05/2018	31/01/2018	$1,250,000	1180m	Full transfer	4	2	1	2	0	$1,250,000	24	-	Combined Record	-	-	-	Single residential dwelling	$632,000	0.51
+2018	533151	43 Gillespie Street	08/06/2018	-	11/05/2018	$1,250,000	0m	Full transfer	4	3	-	2	0	$1,250,000	28	-	Allhomes Record	-	-	-	-	$554,000	0.44
+2018	544422	1 Gibbes Place	11/05/2018	17/10/2018	27/02/2018	$1,150,000	1448m	Full transfer	-	-	-	-	-	$1,150,000	73	-	Combined Record	-	-	-	Single residential dwelling	$596,000	0.52
+2018	538816	4 Davis Street	02/06/2018	01/08/2018	09/05/2018	$1,061,000	1208m	Full transfer	4	2	-	0	2	$1,061,000	24	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.52
+2018	532193	12 Webb Place	19/03/2018	10/05/2018	-	$1,000,000	1048m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528541	123 Springvale Drive	23/03/2018	23/03/2018	-	$980,000	2061m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552051	9 Shumack Street	20/09/2018	30/01/2019	26/04/2018	$970,000	930m	Full transfer	4	3	-	2	-	$970,000	147	-	Combined Record	266	-	-	Single residential dwelling	$491,000	0.51
+2018	553021	13 Smith Street	30/11/2018	06/02/2019	-	$965,000	1041m	Full transfer	-	-	-	-	-	$965,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547789	14 Morton Street	01/09/2018	23/10/2018	09/08/2018	$965,000	815m	Full transfer	4	2	-	2	-	$965,000	23	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.49
+2018	529552	37 McLachlan Crescent	20/01/2018	05/04/2018	14/12/2017	$960,000	1482m	Full transfer	4	3	-	2	1	$960,000	37	-	Combined Record	-	-	-	Single residential dwelling	$802,000	0.84
+2018	541757	20 O'Rourke Street	07/07/2018	13/09/2018	14/06/2018	$950,000	845m	Full transfer	4	3	-	3	0	$950,000	23	-	Combined Record	-	-	-	Single residential dwelling	$598,000	0.63
+2018	560490	19 O'Rourke Street	03/11/2018	07/01/2019	10/10/2018	$942,000	1305m	Full transfer	4	2	-	0	2	$942,000	24	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.69
+2018	535797	7 Line Place	11/04/2018	18/06/2018	21/03/2018	$920,000	1861m	Full transfer	5	2	-	2	0	$920,000	21	-	Combined Record	-	-	-	Single residential dwelling	$578,000	0.63
+2018	552153	24 Abernethy Street	24/11/2018	21/01/2019	01/11/2018	$900,000	1189m	Full transfer	4	2	-	2	0	$900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$563,000	0.63
+2018	550104	            1/15 Gibbes Place	02/11/2018	11/12/2018	-	$880,000	1343m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550167	            3/15 Gibbes Place	02/11/2018	11/12/2018	-	$860,000	1343m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542150	48 Bambridge Street	12/05/2018	17/09/2018	19/04/2018	$850,000	985m	Full transfer	5	2	-	2	0	$850,000	23	-	Combined Record	-	-	-	Single residential dwelling	$523,000	0.62
+2018	510981	33 Gillespie Street	08/01/2018	-	08/11/2017	$850,000	910m	Full transfer	4	1	1	4	-	$850,000	61	-	Allhomes Record	141	-	-	-	$487,000	0.57
+2018	539105	14 Packer Street	21/04/2018	01/08/2018	29/03/2018	$845,000	1296m	Full transfer	4	2	-	0	0	$845,000	23	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.77
+2018	550070	            2/15 Gibbes Place	02/11/2018	11/12/2018	-	$845,000	1343m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552191	            2/15 Gibbes Place	19/12/2018	22/01/2019	-	$835,000	1343m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530695	30 Davis Street	03/02/2018	18/04/2018	11/01/2018	$832,500	813m	Full transfer	4	2	-	2	0	$832,500	23	-	Combined Record	-	-	-	Single residential dwelling	$554,000	0.67
+2018	547150	19 Springvale Drive	23/08/2018	20/11/2018	09/08/2018	$832,000	829m	Full transfer	4	1	1	0	2	$832,000	14	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.53
+2018	525773	68 Southwell Street	13/02/2018	13/02/2018	-	$830,000	1424m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540278	22 Shumack Street	23/06/2018	22/08/2018	31/05/2018	$820,000	1036m	Full transfer	4	2	-	2	2	$820,000	23	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.63
+2018	540482	19 Gillespie Street	27/06/2018	21/08/2018	06/06/2018	$815,000	1100m	Full transfer	4	2	-	2	0	$815,000	21	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.6
+2018	527652	32 Kinleyside Crescent	15/03/2018	15/03/2018	-	$810,000	1271m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	524803	8 McKeahnie Street	02/02/2018	02/02/2018	-	$806,000	1276m	Full transfer	-	-	-	-	-	$806,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561186	21 O'Rourke Street	08/12/2018	18/02/2019	15/11/2018	$801,000	1341m	Full transfer	4	1	-	2	0	$801,000	23	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.82
+2018	536382	31 Bambridge Street	05/05/2018	26/06/2018	12/04/2018	$800,000	720m	Full transfer	4	2	-	1	2	$800,000	23	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.59
+2018	529468	2 Crace Street	26/02/2018	08/04/2018	-	$800,000	969m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561503	10 Harcourt Street	17/11/2018	30/05/2019	25/10/2018	$799,000	1126m	Full transfer	4	1	-	2	0	$799,000	23	-	Combined Record	-	-	-	Single residential dwelling	$632,000	0.79
+2018	534096	31 Abernethy Street	17/03/2018	31/05/2018	23/02/2018	$795,000	1025m	Full transfer	4	2	-	2	0	$795,000	22	-	Combined Record	-	-	-	Single residential dwelling	$503,000	0.63
+2018	551407	67 Belconnen Way	30/06/2018	12/11/2018	-	$793,704	1004m	Full transfer	-	-	-	-	-	$793,704	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536963	2/14 Gibbes Place	19/05/2018	04/07/2018	26/04/2018	$793,000	1524m	Full transfer	3	2	0	2	0	$793,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	$700,000	0.88
+2018	525433	26 Mayo Street	01/03/2018	-	23/01/2018	$780,000	-	Full transfer	-	-	-	-	-	$780,000	37	-	Allhomes Record	-	-	-	-	$680,000	0.87
+2018	534062	26 Mayo Street	30/05/2018	30/05/2018	-	$780,000	983m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530745	1 Morton Street	24/02/2018	18/04/2018	01/02/2018	$770,000	1252m	Full transfer	4	2	-	2	0	$770,000	23	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.64
+2018	548913	20 Shumack Street	17/11/2018	14/01/2019	25/10/2018	$765,000	999m	Full transfer	4	1	-	3	0	$765,000	23	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.65
+2018	534412	15 Mathieson Crescent	06/03/2018	05/06/2018	-	$760,000	976m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525556	1 Mowle Place	03/03/2018	-	08/02/2018	$760,000	-	Full transfer	3	2	-	1	-	$760,000	23	-	Allhomes Record	124	-	-	-	$520,000	0.68
+2018	529062	1/4A Mathieson Crescent	10/01/2018	27/03/2018	-	$755,000	892m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535410	46 Morton Street	24/02/2018	20/06/2018	31/01/2018	$725,000	946m	Full transfer	4	2	-	2	-	$725,000	24	-	Combined Record	167	-	-	Single residential dwelling	$491,000	0.68
+2018	524606	23 Kinleyside Crescent	31/01/2018	31/01/2018	-	$725,000	929m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543678	35 Gillespie Street	12/10/2018	12/10/2018	-	$710,000	875m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534780	35 Gillespie Street	21/06/2018	-	12/10/2017	$710,000	872m	Full transfer	-	-	-	-	-	$710,000	252	-	Allhomes Record	-	-	-	-	$413,000	0.58
+2018	549525	69 Belconnen Way	30/06/2018	01/11/2018	-	$696,467	881m	Full transfer	-	-	-	-	-	$696,467	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549636	71 Belconnen Way	30/06/2018	01/11/2018	-	$689,827	873m	Full transfer	-	-	-	-	-	$689,827	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525022	11 Bambridge Street	31/01/2018	31/01/2018	-	$682,000	845m	Full transfer	-	-	-	-	-	$682,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	524734	51 Springvale Drive	31/01/2018	31/01/2018	-	$680,000	979m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541071	36 Abernethy Street	28/08/2018	28/08/2018	-	$660,000	885m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533197	36 Abernethy Street	06/06/2018	-	06/04/2018	$660,000	-	Full transfer	-	-	-	-	-	$660,000	61	-	Allhomes Record	-	-	-	-	$460,000	0.7
+2018	551423	1 Belconnen Way	28/09/2018	14/11/2018	-	$595,000	1706m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542110	33 Southwell Street	05/10/2018	-	28/09/2018	$592,000	372m	Full transfer	3	2	-	2	0	$592,000	7	-	Allhomes Record	-	-	-	-	$2,167,000	3.66
+2018	550551	            12/11 Southwell Street	05/10/2018	07/01/2019	-	$592,000	5693m	Full transfer	-	-	-	-	-	$592,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542823	            4/11 Southwell Street	27/08/2018	25/09/2018	-	$567,000	5693m	Full transfer	-	-	-	-	-	$567,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539910	17 Southwell Street	31/08/2018	-	16/08/2018	$567,000	0m	Full transfer	4	2	-	2	0	$567,000	15	-	Allhomes Record	-	-	-	-	$2,167,000	3.82
+2018	547391	1/30 Kinleyside Crescent	31/07/2018	20/11/2018	-	$555,250	1471m	Full transfer	-	-	-	-	-	$555,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539315	4A Coppin Place	18/08/2018	-	01/08/2018	$477,000	-	Full transfer	2	1	-	2	-	$477,000	17	-	Allhomes Record	81	-	-	-	$698,000	1.46
+2018	530821	1/11 Mathieson Crescent	21/02/2018	16/04/2018	10/01/2018	$475,000	1784m	Full transfer	2	1	-	1	0	$475,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	535508	53 Shumack Street	21/05/2018	18/06/2018	-	$460,000	1438m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547293	5/11 Mathieson Crescent	28/09/2018	19/11/2018	-	$456,000	1784m	Full transfer	-	-	-	-	-	$456,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550880	1/46 Shumack Street	26/11/2018	11/01/2019	-	$430,000	1720m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	555376	            1/4A Coppin Place	18/08/2018	15/03/2019	-	$430,000	785m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552332	            1/15 Gibbes Place	05/09/2018	22/01/2019	-	$412,000	1343m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544722	3/1 Coppin Place	03/11/2018	-	12/10/2018	$400,000	0m	Full transfer	1	1	-	0	1	$400,000	22	-	Allhomes Record	-	-	-	-	-	-
+2018	560338	            3/25 Bambridge Street	03/11/2018	20/02/2019	-	$400,000	1945m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552180	1/12 Weetangera Place	20/12/2018	22/01/2019	-	$218,000	268m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2018	535245	16 Weetangera Place	28/06/2018	-	20/12/2017	$141,000	0m	Full transfer	0	0	-	0	0	$141,000	190	-	Allhomes Record	-	-	-	-	$126,000	0.89
+2018	541014	4/12 Weetangera Place	28/06/2018	30/08/2018	-	$141,000	268m	Full transfer	-	-	-	-	-	$141,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2018	551593	12 O'Rourke Street	28/09/2018	12/11/2018	-	$0	1037m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544316	23 Springvale Drive	24/07/2018	19/10/2018	-	$0	1155m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536024	43 Springvale Drive	18/04/2018	18/06/2018	29/03/2018	$0	1151m	Full transfer	5	2	-	2	0	$0	20	-	Combined Record	-	-	-	Single residential dwelling	$604,000	0.89
+2018	549341	            12/11 Southwell Street	01/02/2018	08/11/2018	-	$0	5693m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	574993	37 Morton Street	31/10/2018	21/11/2019	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534351	9 McKeahnie Street	19/02/2018	06/06/2018	-	$0	1728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548517	111 Springvale Drive	13/04/2018	17/12/2018	-	$0	1866m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541785	15 De Salis Street	19/05/2018	10/09/2018	26/04/2018	$0	1372m	Full transfer	4	2	-	4	0	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$632,000	0.89
+2018	567634	38 Shumack Street	17/11/2018	21/08/2019	-	$0	1517m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532772	13 McKeahnie Street	13/04/2018	14/05/2018	-	$0	1634m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541824	16 McLachlan Crescent	14/01/2018	14/09/2018	-	$0	1534m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	564040	8 Morton Street	17/11/2018	01/07/2019	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	564099	72 Southwell Street	27/12/2018	01/07/2019	-	$0	1136m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550747	2 Packer Street	22/02/2018	11/01/2019	-	$0	994m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555536	3 Darmody Street	12/12/2018	21/03/2019	-	$0	949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551426	4 Shumack Street	01/10/2018	13/11/2018	-	$0	962m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561951	71 Belconnen Way	02/05/2019	29/05/2019	-	$2,275,000	873m	Full transfer	-	-	-	-	-	$2,275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560317	20 Packer Street	02/02/2019	14/05/2019	10/01/2019	$1,340,000	1803m	Full transfer	4	2	-	2	0	$1,340,000	23	-	Combined Record	-	-	-	Single residential dwelling	$733,000	0.55
+2019	564954	25 Darmody Street	27/06/2019	08/07/2019	-	$1,200,000	978m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573367	42 Davis Street	21/11/2019	-	09/10/2019	$1,200,000	0m	Full transfer	4	2	-	2	0	$1,200,000	43	-	Allhomes Record	-	-	-	-	$632,000	0.53
+2019	575450	25 McLachlan Crescent	13/12/2019	-	06/11/2019	$1,185,000	0m	Full transfer	5	3	-	2	1	$1,185,000	37	-	Allhomes Record	-	-	-	-	$733,000	0.62
+2019	558603	8 Smith Street	15/03/2019	30/04/2019	22/11/2018	$1,051,000	1032m	Full transfer	4	2	-	3	0	$1,051,000	113	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.5
+2019	565167	6 McKeahnie Street	28/03/2019	08/07/2019	07/03/2019	$1,020,000	1317m	Full transfer	5	2	-	2	0	$1,020,000	21	-	Combined Record	-	-	-	Single residential dwelling	$654,000	0.64
+2019	575082	16 Harcourt Street	11/12/2019	-	22/11/2019	$1,015,000	0m	Full transfer	4	3	-	0	2	$1,015,000	19	-	Allhomes Record	-	-	-	-	$653,000	0.64
+2019	564723	6 Harcourt Street	04/05/2019	15/07/2019	01/04/2019	$995,000	1293m	Full transfer	4	1	1	3	-	$995,000	33	-	Combined Record	257	-	-	Single residential dwelling	$632,000	0.64
+2019	573972	26 Davis Street	28/11/2019	-	06/11/2019	$967,000	0m	Full transfer	4	2	-	2	0	$967,000	22	-	Allhomes Record	-	-	-	-	$554,000	0.57
+2019	554330	34 McLachlan Crescent	04/02/2019	05/03/2019	17/10/2018	$960,000	1042m	Full transfer	4	2	-	2	0	$960,000	110	-	Combined Record	-	-	-	Single residential dwelling	$654,000	0.68
+2019	563468	102 Shumack Street	01/05/2019	26/06/2019	25/10/2018	$930,000	1068m	Full transfer	5	2	-	2	0	$930,000	188	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.52
+2019	556906	10 Darmody Street	20/02/2019	05/04/2019	-	$920,000	1264m	Full transfer	-	-	-	-	-	$920,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571464	72 Southwell Street	30/10/2019	-	30/09/2019	$865,000	1136m	Full transfer	7	3	-	2	1	$865,000	30	-	Allhomes Record	-	-	-	-	$554,000	0.64
+2019	564826	13 Davis Street	02/05/2019	09/07/2019	22/03/2019	$865,000	845m	Full transfer	4	2	-	0	2	$865,000	41	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.59
+2019	575018	34 Kinleyside Crescent	05/09/2019	21/11/2019	15/08/2019	$860,000	944m	Full transfer	3	2	-	4	0	$860,000	21	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.57
+2019	564157	11 Crace Street	28/03/2019	05/07/2019	10/01/2019	$857,500	1025m	Full transfer	4	2	-	3	0	$857,500	77	-	Combined Record	-	-	-	Single residential dwelling	$540,000	0.63
+2019	566233	21 Kinleyside Crescent	25/06/2019	29/07/2019	28/02/2019	$855,000	926m	Full transfer	5	2	-	2	0	$855,000	117	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.55
+2019	557276	41 Packer Street	02/03/2019	12/04/2019	04/02/2019	$840,000	976m	Full transfer	4	2	-	2	0	$840,000	26	-	Combined Record	-	-	-	Single residential dwelling	$596,000	0.71
+2019	556122	6 Southwell Street	25/01/2019	26/03/2019	21/11/2018	$835,000	1065m	Full transfer	-	-	-	-	-	$835,000	65	-	Combined Record	-	-	-	Single residential dwelling	$815,000	0.98
+2019	572685	34 Morton Street	06/09/2019	23/10/2019	12/02/2019	$810,000	899m	Full transfer	4	2	-	2	0	$810,000	206	-	Combined Record	-	-	-	Single residential dwelling	$508,000	0.63
+2019	572943	            2/12 Shumack Street	18/07/2019	01/11/2019	-	$805,950	1900m	Full transfer	-	-	-	-	-	$805,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572720	5 Springvale Drive	05/07/2019	21/10/2019	23/05/2019	$772,000	763m	Full transfer	4	1	-	2	0	$772,000	43	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.55
+2019	552597	1/23 Kinleyside Crescent	12/02/2019	-	21/06/2018	$765,000	0m	Full transfer	3	2	-	2	0	$765,000	236	-	Allhomes Record	-	-	-	-	$720,000	0.94
+2019	573032	12 Southwell Street	21/09/2019	01/11/2019	29/08/2019	$762,000	945m	Full transfer	4	2	-	1	0	$762,000	23	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.68
+2019	575531	31 Mathieson Crescent	14/12/2019	-	22/11/2019	$762,000	0m	Full transfer	4	2	-	2	0	$762,000	22	-	Allhomes Record	-	-	-	-	$526,000	0.69
+2019	575150	17 Mayo Street	17/10/2019	28/11/2019	09/10/2019	$761,000	785m	Full transfer	3	1	-	2	0	$761,000	8	-	Combined Record	-	-	-	Single residential dwelling	$473,000	0.62
+2019	559840	            3/37 Belconnen Way	15/02/2019	20/05/2019	-	$733,000	1242m	Full transfer	-	-	-	-	-	$733,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575845	56 Bambridge Street	14/11/2019	06/12/2019	14/10/2019	$726,000	911m	Full transfer	4	2	-	0	2	$726,000	31	-	Combined Record	-	-	-	Single residential dwelling	$516,000	0.71
+2019	571612	12 Shumack Street	25/10/2019	-	05/09/2019	$719,000	-	Full transfer	3	2	-	2	-	$719,000	50	-	Allhomes Record	122	-	-	-	$437,000	0.61
+2019	574694	            4/12 Shumack Street	03/10/2019	20/11/2019	-	$695,000	1900m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576123	            5/12 Shumack Street	24/10/2019	07/12/2019	-	$690,000	1900m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568920	            4/37 Belconnen Way	12/07/2019	05/09/2019	-	$672,500	1242m	Full transfer	-	-	-	-	-	$672,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566317	            1/37 Belconnen Way	18/07/2019	02/08/2019	-	$665,000	1242m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572262	            2/1 Gibbes Place	15/08/2019	17/10/2019	-	$644,000	1448m	Full transfer	-	-	-	-	-	$644,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566259	50 Bambridge Street	25/05/2019	01/08/2019	03/05/2019	$640,000	863m	Full transfer	3	2	-	0	2	$640,000	22	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.75
+2019	576078	            2/37 Belconnen Way	17/10/2019	06/12/2019	-	$615,000	1242m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571148	            2/2 Shumack Street	17/10/2019	-	24/10/2018	$615,000	0m	Full transfer	3	2	-	2	0	$615,000	358	-	Allhomes Record	-	-	-	-	-	-
+2019	570026	            6/12 Shumack Street	09/08/2019	19/09/2019	-	$614,950	1900m	Full transfer	-	-	-	-	-	$614,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559917	63 Belconnen Way	08/04/2019	20/05/2019	-	$600,000	957m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557107	15 Southwell Street	18/04/2019	-	06/02/2019	$575,000	0m	Full transfer	4	2	-	2	0	$575,000	71	-	Allhomes Record	-	-	-	-	$2,167,000	3.77
+2019	561512	            3/11 Southwell Street	18/04/2019	29/05/2019	-	$575,000	5693m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575675	            2/50 Gillespie Street	03/10/2019	07/12/2019	-	$575,000	4894m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568740	42 Gillespie Street	30/08/2019	-	03/07/2019	$533,000	0m	Full transfer	4	2	-	0	2	$533,000	58	-	Allhomes Record	-	-	-	-	$1,818,000	3.41
+2019	570844	            5/50 Gillespie Street	26/08/2019	02/10/2019	-	$533,000	4894m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567864	2/1 Mowle Place	02/07/2019	20/08/2019	-	$485,000	1071m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562966	3 De Salis Street	02/07/2019	-	10/05/2019	$485,000	-	Full transfer	2	1	-	1	-	$485,000	53	-	Allhomes Record	79	-	-	-	$520,000	1.07
+2019	565150	4/11 Mathieson Crescent	01/06/2019	08/07/2019	09/05/2019	$442,000	1784m	Full transfer	2	1	-	1	0	$442,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	561277	6/46 Shumack Street	10/04/2019	20/05/2019	12/03/2019	$395,000	1720m	Full transfer	2	2	-	1	0	$395,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	569877	2/12 Weetangera Place	09/08/2019	19/09/2019	-	$145,000	268m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2019	559192	            1/4A Coppin Place	13/05/2019	16/05/2019	-	$4,770	785m	Full transfer	-	-	-	-	-	$4,770	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572628	105 Springvale Drive	26/07/2019	25/10/2019	-	$0	2027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559308	1 Vest Place	03/04/2019	13/05/2019	-	$0	937m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563918	53 Shumack Street	19/06/2019	01/07/2019	-	$0	1438m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561664	10 Abernethy Street	05/04/2019	29/05/2019	07/02/2019	$0	1145m	Full transfer	5	3	-	1	1	$0	57	-	Combined Record	-	-	-	Single residential dwelling	$563,000	1.07
+2019	557942	47 McLachlan Crescent	18/01/2019	15/04/2019	-	$0	1607m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574571	2 Harcourt Street	07/08/2019	20/11/2019	-	$0	1196m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569905	18 Bambridge Street	19/08/2019	19/09/2019	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561678	43 McLachlan Crescent	12/02/2019	30/05/2019	-	$0	1965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572235	2 Morton Street	25/06/2019	18/10/2019	-	$0	907m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570134	56 Bambridge Street	02/09/2019	25/09/2019	-	$0	911m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
