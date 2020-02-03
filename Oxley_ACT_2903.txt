@@ -1,0 +1,458 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	33366	3 Collocott Crescent	05/12/2006	27/02/2007	-	$542,500	806m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203350	4 Collick Place	27/10/2006	17/01/2007	05/10/2006	$540,000	753m	Full transfer	4	1	2	2	2	$540,000	22	-	Combined Record	-	-	-	Single residential dwelling	$172,000	0.32
+2006	307842	2 Lamble Place	21/08/2006	14/11/2006	-	$508,000	1140m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203125	21 Clutterbuck Crescent	26/08/2006	02/01/2007	20/07/2006	$460,000	932m	Full transfer	4	1	1	2	-	$460,000	37	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.41
+2006	34969	40 Newman-Morris Circuit	10/07/2006	21/08/2006	-	$455,000	849m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203496	92 Newman-Morris Circuit	01/08/2006	12/09/2006	-	$442,500	853m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165419	1 Badger Place	22/12/2006	15/02/2007	-	$440,000	813m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	224728	26 Hammond Close	09/06/2006	31/07/2006	23/05/2006	$433,000	1003m	Full transfer	4	1	1	2	-	$433,000	17	-	Combined Record	-	-	-	Single residential dwelling	$194,000	0.45
+2006	32373	19 Schonell Circuit	19/09/2006	07/11/2006	28/07/2006	$423,000	1041m	Full transfer	3	1	-	-	-	$423,000	53	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.47
+2006	224704	22 Dalgarno Close	23/02/2006	30/03/2006	25/01/2006	$407,000	811m	Full transfer	3	1	1	2	-	$407,000	29	-	Combined Record	-	-	-	Single residential dwelling	$168,000	0.41
+2006	86515	1 Van Pelt Place	09/09/2006	-	16/08/2006	$400,000	918m	Full transfer	4	1	1	2	-	$400,000	24	-	Allhomes Record	-	-	-	-	$177,000	0.44
+2006	319743	22 Nunan Crescent	24/01/2006	17/03/2006	-	$380,000	858m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168348	5 Hammond Close	30/06/2006	11/08/2006	-	$375,000	760m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	224664	12 Clutterbuck Crescent	10/02/2006	27/04/2006	-	$370,000	762m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229515	182 Newman-Morris Circuit	20/09/2006	29/10/2006	-	$362,500	897m	Full transfer	-	-	-	-	-	$362,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	313447	16 Connibere Crescent	13/05/2006	29/06/2006	-	$328,000	876m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168447	17 Collocott Crescent	06/12/2006	23/01/2007	21/11/2006	$327,000	753m	Full transfer	3	1	-	-	1	$327,000	15	-	Combined Record	-	-	-	Single residential dwelling	$168,000	0.51
+2006	165411	17/77 Newman-Morris Circuit	20/12/2006	15/02/2007	-	$299,000	20945m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	33992	7/18 Schonell Circuit	16/11/2006	19/12/2006	-	$287,500	7137m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169716	7/26 Schonell Circuit	14/09/2006	14/12/2006	25/08/2006	$282,000	7716m	Full transfer	2	1	-	-	1	$282,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	$751,000	2.66
+2006	203730	34/210 Newman-Morris Circuit	12/07/2006	29/08/2006	-	$278,000	37802m	Full transfer	-	-	-	-	-	$278,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165563	20/77 Newman-Morris Circuit	14/12/2006	02/02/2007	-	$270,000	20945m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	224729	23/210 Newman-Morris Circuit	09/02/2006	13/03/2006	-	$265,000	37802m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34602	1/26 Schonell Circuit	24/08/2006	26/09/2006	18/05/2006	$263,000	7716m	Full transfer	2	1	-	1	-	$263,000	98	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	35863	10/210 Newman-Morris Circuit	24/11/2006	10/01/2007	26/10/2006	$260,000	37802m	Full transfer	2	1	-	-	1	$260,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	224669	217 Newman-Morris Circuit	22/02/2006	05/04/2006	-	$258,000	769m	Full transfer	-	-	-	-	-	$258,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	224720	1 Singleton Crescent	24/03/2006	25/05/2006	-	$240,000	863m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164275	5/210 Newman-Morris Circuit	15/06/2006	20/08/2006	-	$235,000	37802m	Partial transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	33247	28 Hammond Close	18/10/2006	28/02/2007	-	$0	1272m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33367	38 Newman-Morris Circuit	18/10/2006	28/02/2007	-	$0	1009m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	239911	149 Newman-Morris Circuit	29/09/2006	07/10/2008	-	-	834m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	3274	            92 Newman Morris Circuit	01/08/2006	-	28/06/2006	-	-	Full transfer	4	1	1	-	2	-	34	-	Allhomes Record	-	-	-	-	-	-
+2006	34970	7 Newman-Morris Circuit	30/07/2006	23/08/2006	-	-	928m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167532	34 Schonell Circuit	16/07/2007	03/09/2007	16/05/2007	$720,000	976m	Full transfer	6	2	2	4	-	$720,000	61	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.3
+2007	235631	76 Newman-Morris Circuit	10/12/2007	25/02/2008	26/10/2007	$600,000	764m	Full transfer	4	2	1	3	-	$600,000	45	-	Combined Record	-	-	-	Single residential dwelling	$193,000	0.32
+2007	35561	8 Kirby Place	23/03/2007	18/06/2007	25/11/2006	$597,000	991m	Full transfer	4	1	1	4	-	$597,000	118	-	Combined Record	-	-	-	Single residential dwelling	$194,000	0.32
+2007	232957	36 Collocott Crescent	28/11/2007	21/12/2007	-	$580,000	1041m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	314923	34 Nunan Crescent	12/10/2007	26/11/2007	-	$530,000	831m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235199	37 Cuthbertson Crescent	16/11/2007	06/02/2008	-	$500,000	1129m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232625	127 Newman-Morris Circuit	06/09/2007	01/11/2007	-	$485,000	768m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167414	12 Clutterbuck Crescent	20/07/2007	04/09/2007	30/05/2007	$485,000	762m	Full transfer	4	1	1	-	2	$485,000	51	-	Combined Record	-	-	-	Single residential dwelling	$203,000	0.42
+2007	121189	44 Schonell Circuit	04/07/2007	10/09/2007	14/06/2007	$476,000	707m	Full transfer	3	1	1	2	-	$476,000	20	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.47
+2007	202828	5 Dalgarno Close	02/05/2007	13/06/2007	27/03/2007	$452,000	751m	Full transfer	4	1	1	2	-	$452,000	36	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.43
+2007	35425	231 Newman-Morris Circuit	05/04/2007	18/06/2007	-	$440,000	748m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232639	209 Newman-Morris Circuit	11/09/2007	19/11/2007	-	$420,000	744m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202684	168 Newman-Morris Circuit	30/08/2007	09/10/2007	27/07/2007	$410,000	748m	Full transfer	4	1	1	2	-	$410,000	34	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.38
+2007	120795	6 Collick Place	21/02/2007	16/05/2007	19/06/2006	$395,000	733m	Full transfer	4	1	1	2	-	$395,000	247	-	Combined Record	-	-	-	Single residential dwelling	$181,000	0.46
+2007	231517	4 Dalgarno Close	12/09/2007	15/11/2007	16/08/2007	$390,000	796m	Full transfer	3	1	-	-	1	$390,000	27	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.45
+2007	164724	15 Gosman Close	29/03/2007	11/07/2007	-	$382,000	839m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167678	21/57 Newman-Morris Circuit	12/07/2007	02/10/2007	-	$376,000	21027m	Full transfer	-	-	-	-	-	$376,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	234465	11/77 Newman-Morris Circuit	07/11/2007	16/01/2008	-	$345,000	20945m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	32464	6 Schonell Circuit	08/02/2007	28/03/2007	09/01/2007	$338,500	821m	Full transfer	3	1	-	2	-	$338,500	30	-	Combined Record	-	-	-	Single residential dwelling...	$178,000	0.53
+2007	166690	16/210 Newman-Morris Circuit	21/05/2007	25/07/2007	-	$336,000	37802m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232974	34/210 Newman-Morris Circuit	28/09/2007	04/01/2008	-	$333,500	37802m	Full transfer	-	-	-	-	-	$333,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235940	26/57 Newman-Morris Circuit	11/07/2007	26/11/2007	-	$326,500	21027m	Full transfer	-	-	-	-	-	$326,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	234361	30/210 Newman-Morris Circuit	26/10/2007	10/12/2007	-	$325,000	37802m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33497	3/57 Newman-Morris Circuit	05/04/2007	22/05/2007	-	$325,000	21027m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	164999	1/18 Schonell Circuit	02/05/2007	25/06/2007	-	$321,000	7137m	Full transfer	-	-	-	-	-	$321,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167687	7/210 Newman-Morris Circuit	13/08/2007	03/10/2007	-	$320,000	37802m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	119972	5/77 Newman-Morris Circuit	28/02/2007	02/04/2007	-	$320,000	20945m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33476	6/18 Schonell Circuit	30/03/2007	24/05/2007	-	$314,500	7137m	Full transfer	-	-	-	-	-	$314,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121170	22/77 Newman-Morris Circuit	06/07/2007	10/09/2007	-	$310,000	20945m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120412	7 McIlveen Place	04/04/2007	15/05/2007	-	$305,000	921m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	230668	203 Newman-Morris Circuit	18/09/2007	20/02/2008	-	$302,000	800m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	120651	17/210 Newman-Morris Circuit	13/04/2007	18/05/2007	-	$300,000	37802m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121156	34 Maconochie Crescent	19/07/2007	13/09/2007	-	$300,000	864m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	33383	8/26 Schonell Circuit	12/01/2007	26/02/2007	-	$299,950	7716m	Full transfer	-	-	-	-	-	$299,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121320	10/26 Schonell Circuit	13/03/2007	03/05/2007	-	$290,000	7716m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168019	28 Cuthbertson Crescent	04/07/2007	16/10/2007	-	$225,000	768m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32590	24/210 Newman-Morris Circuit	12/03/2007	28/03/2007	-	$220,000	37802m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167332	12/18 Schonell Circuit	12/01/2007	10/05/2007	-	$0	7137m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167677	21/57 Newman-Morris Circuit	11/05/2007	02/10/2007	-	$0	21027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166238	20 Dalgarno Close	09/05/2007	14/08/2007	-	$0	770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232779	23 Gosman Close	09/05/2007	05/11/2007	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	120792	231 Newman-Morris Circuit	03/03/2007	16/05/2007	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234391	20/77 Newman-Morris Circuit	26/09/2007	11/12/2007	-	$0	20945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	169050	22 Singleton Crescent	03/01/2007	05/02/2007	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166765	7 Lamble Place	01/06/2007	07/08/2007	05/05/2007	$0	1687m	Full transfer	4	1	1	2	4	$0	27	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.53
+2007	167646	8 Van Pelt Place	26/04/2007	02/10/2007	-	$0	847m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33801	4 Farrelly Close	29/03/2007	22/05/2007	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166173	33 Newman-Morris Circuit	08/06/2007	27/07/2007	-	$0	772m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167781	18 Cuthbertson Crescent	23/03/2007	03/10/2007	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21774	            16/210 Newman Morris Circuit	21/05/2007	-	26/04/2007	-	-	Full transfer	3	1	-	-	2	-	25	-	Allhomes Record	-	-	-	-	-	-
+2007	236262	17 Raphael Close	28/10/2007	22/05/2008	-	-	919m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233352	1 Hazel Smith Crescent	15/02/2007	20/06/2008	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21923	            209 Newman Morris Circuit	11/09/2007	-	24/08/2007	-	744m	Full transfer	3	1	-	2	-	-	18	-	Allhomes Record	-	-	-	-	-	-
+2007	244104	24 Nunan Crescent	29/09/2007	05/06/2009	-	-	801m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21822	            127 Newman Morris	06/09/2007	-	31/05/2007	-	768m	Full transfer	4	1	1	2	-	-	98	-	Allhomes Record	-	-	-	-	$172,000	-
+2007	21974	            11/77 Newman Morris Circuit	07/11/2007	-	12/10/2007	-	-	Full transfer	3	1	1	2	-	-	26	-	Allhomes Record	-	-	-	-	-	-
+2007	21848	             Collocott Crescent	23/07/2007	-	10/07/2007	-	721m	Full transfer	-	-	-	-	-	-	13	-	Allhomes Record	-	-	-	-	-	-
+2008	239912	24 Hammond Close	05/07/2008	08/10/2008	04/06/2008	$590,000	955m	Full transfer	4	1	1	2	1	$590,000	31	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.41
+2008	240017	36 Schonell Circuit	13/06/2008	14/10/2008	-	$585,000	822m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322985	15 Collocott Crescent	11/12/2008	27/02/2009	-	$525,000	939m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229675	24 Cuthbertson Crescent	27/06/2008	28/07/2008	29/02/2008	$510,000	774m	Full transfer	4	1	1	2	-	$510,000	119	-	Combined Record	-	-	-	Single residential dwelling	$223,000	0.44
+2008	321386	7 Dalgarno Close	18/07/2008	11/09/2008	-	$495,000	819m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234226	30 Cuthbertson Crescent	26/03/2008	13/06/2008	-	$465,000	821m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230601	9 Collocott Crescent	22/02/2008	22/04/2008	07/12/2007	$460,000	767m	Full transfer	4	1	1	2	-	$460,000	77	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.48
+2008	321276	6 Van Pelt Place	05/07/2008	26/08/2008	-	$452,500	758m	Full transfer	-	-	-	-	-	$452,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229828	70 Newman-Morris Circuit	06/05/2008	23/07/2008	-	$450,000	717m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322424	6 Lamble Place	16/11/2008	23/12/2008	-	$450,000	797m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237755	6 Kirby Place	23/12/2008	17/02/2009	16/10/2008	$450,000	801m	Full transfer	4	1	1	1	-	$450,000	68	-	Combined Record	-	-	-	Single residential dwelling	$223,000	0.5
+2008	239317	54 Schonell Circuit	27/08/2008	12/11/2008	15/08/2008	$425,000	798m	Full transfer	4	2	1	2	0	$425,000	12	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.52
+2008	233267	13 Farrelly Close	01/02/2008	28/04/2008	-	$420,000	865m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	23052	            161 Newman - Morris Circuit	18/12/2008	-	23/10/2008	$416,500	1027m	Full transfer	3	1	1	4	-	$416,500	56	-	Allhomes Record	-	-	-	-	$187,000	0.45
+2008	242326	161 Newman-Morris Circuit	24/12/2008	03/02/2009	-	$416,500	1029m	Full transfer	-	-	-	-	-	$416,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242457	4 Raphael Close	02/12/2008	09/02/2009	09/09/2008	$407,500	897m	Full transfer	3	1	1	2	-	$407,500	84	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.48
+2008	230669	21 Maconochie Crescent	17/01/2008	18/02/2008	-	$405,000	750m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237461	84 Newman-Morris Circuit	08/10/2008	11/12/2008	-	$400,000	876m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	117566	2 Dalgarno Close	08/10/2008	-	29/08/2008	$400,000	876m	Full transfer	3	1	1	-	2	$400,000	40	-	Allhomes Record	-	-	-	-	$211,000	0.53
+2008	22373	            6 Newman Morris Circuit	05/04/2008	-	04/03/2008	$381,000	0m	Full transfer	3	2	1	2	0	$381,000	32	-	Allhomes Record	-	-	-	-	-	-
+2008	236261	6 Newman-Morris Circuit	05/04/2008	20/05/2008	-	$381,000	836m	Full transfer	-	-	-	-	-	$381,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239076	6/18 Schonell Circuit	01/09/2008	12/11/2008	-	$380,000	7137m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236519	9/77 Newman-Morris Circuit	19/03/2008	14/04/2008	-	$365,000	20945m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236939	6 McIlveen Place	23/07/2008	01/09/2008	02/07/2008	$355,000	711m	Full transfer	3	1	-	1	-	$355,000	21	-	Combined Record	-	-	-	For residential purposes only	$193,000	0.54
+2008	230410	31/210 Newman-Morris Circuit	14/05/2008	13/08/2008	-	$348,500	37802m	Full transfer	-	-	-	-	-	$348,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22221	            18/210 Newman Morris Circuit Oxley	30/05/2008	-	18/04/2008	$337,500	981m	Full transfer	3	1	-	-	1	$337,500	42	-	Allhomes Record	-	-	-	-	$80,424	0.24
+2008	230409	19/77 Newman-Morris Circuit	27/06/2008	14/08/2008	-	$327,500	20945m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242628	40/210 Newman-Morris Circuit	11/12/2008	02/03/2009	-	$319,000	37802m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22889	            16OF77 Newman Morris Circuit	10/12/2008	-	12/11/2008	$308,000	20945m	Full transfer	2	1	-	1	-	$308,000	28	-	Allhomes Record	-	-	-	-	$2,670,000	8.67
+2008	242092	16/77 Newman-Morris Circuit	10/12/2008	11/02/2009	-	$308,000	20945m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240459	4/57 Newman-Morris Circuit	20/08/2008	23/09/2008	-	$303,000	21027m	Full transfer	-	-	-	-	-	$303,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237592	22 Cuthbertson Crescent	07/10/2008	08/01/2009	-	-	799m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235812	38 Schonell Circuit	12/03/2008	17/03/2008	-	-	1021m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237591	11 Clutterbuck Crescent	08/10/2008	05/01/2009	-	-	880m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	240755	16 Collocott Crescent	28/07/2008	04/12/2008	-	-	721m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Residential	-	-
+2008	233474	17 Nunan Crescent	14/05/2008	19/06/2008	-	-	756m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240224	16 Cuthbertson Crescent	28/09/2008	28/10/2008	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251981	7 Kirby Place	09/11/2009	18/01/2010	09/09/2009	$772,000	1286m	Full transfer	6	1	2	2	-	$772,000	61	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.49
+2009	324448	15 Schonell Circuit	17/10/2009	14/12/2009	-	$582,000	843m	Full transfer	-	-	-	-	-	$582,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23334	            4/77 Newman Morris Circuit	05/05/2009	-	31/03/2009	$507,000	-	Full transfer	3	3	-	-	2	$507,000	35	-	Allhomes Record	-	-	-	-	-	-
+2009	245694	4/77 Newman-Morris Circuit	01/05/2009	10/08/2009	-	$507,000	20945m	Full transfer	-	-	-	-	-	$507,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	323660	1 Clutterbuck Crescent	28/05/2009	23/07/2009	-	$460,000	834m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23185	            176 Newman Morris Circuit	06/03/2009	-	05/12/2008	$457,000	-	Full transfer	4	1	1	-	2	$457,000	91	-	Allhomes Record	-	-	-	-	-	-
+2009	327298	45 Nunan Crescent	05/12/2009	29/01/2010	-	$453,000	868m	Full transfer	-	-	-	-	-	$453,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249992	1 McIlveen Place	19/09/2009	17/11/2009	-	$447,500	879m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	128860	64 Newman-Morris Circuit	06/07/2009	-	22/07/2009	$445,000	794m	Full transfer	3	1	1	2	0	$445,000	-	-	Allhomes Record	-	-	-	-	$232,000	0.52
+2009	245862	5 Raphael Close	21/07/2009	12/08/2009	27/05/2009	$439,000	883m	Full transfer	3	1	1	2	-	$439,000	55	-	Combined Record	-	-	-	Single residential dwelling...	$242,000	0.55
+2009	254605	208 Newman-Morris Circuit	01/12/2009	04/03/2010	-	$432,500	874m	Full transfer	-	-	-	-	-	$432,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323221	15 Gosman Close	25/02/2009	26/03/2009	-	$429,000	839m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325155	10 Farrelly Close	18/11/2009	22/12/2009	-	$427,500	847m	Full transfer	-	-	-	-	-	$427,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23500	            135 Newman Morris Circuit	16/07/2009	-	16/06/2009	$426,500	939m	Full transfer	3	1	1	-	1	$426,500	30	-	Allhomes Record	-	-	-	-	$223,000	0.52
+2009	249291	135 Newman-Morris Circuit	16/07/2009	01/10/2009	-	$426,500	939m	Full transfer	-	-	-	-	-	$426,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	244232	8 Van Pelt Place	01/04/2009	11/06/2009	27/01/2009	$420,000	847m	Full transfer	3	1	1	1	-	$420,000	64	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.6
+2009	249656	9 Gosman Close	02/09/2009	30/10/2009	05/08/2009	$416,500	1050m	Full transfer	3	1	-	2	-	$416,500	28	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.52
+2009	257288	227 Newman-Morris Circuit	12/12/2009	20/04/2010	-	$416,000	761m	Full transfer	-	-	-	-	-	$416,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323102	1 Hammond Close	30/01/2009	11/03/2009	-	$407,000	990m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	322636	23 Connibere Crescent	04/04/2009	19/05/2009	-	$406,500	1017m	Full transfer	-	-	-	-	-	$406,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249840	217 Newman-Morris Circuit	07/07/2009	12/11/2009	-	$400,000	769m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	244626	8 Haugh Place	25/05/2009	03/07/2009	29/03/2009	$390,000	798m	Full transfer	3	1	1	2	-	$390,000	57	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.59
+2009	249841	74 Newman-Morris Circuit	12/08/2009	09/11/2009	-	$387,000	827m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	251697	19 Nunan Crescent	27/11/2009	10/01/2010	-	$375,000	911m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	244896	13 Connibere Crescent	11/06/2009	23/07/2009	-	$370,000	842m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	243813	2/18 Schonell Circuit	28/04/2009	29/05/2009	-	$359,000	7137m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245270	39 Cuthbertson Crescent	19/05/2009	19/08/2009	23/04/2009	$355,000	901m	Full transfer	3	1	1	4	-	$355,000	26	-	Combined Record	-	-	-	Single residential dwelling	$193,000	0.54
+2009	249083	2/57 Newman-Morris Circuit	30/10/2009	29/11/2009	-	$345,000	21027m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248901	2/26 Schonell Circuit	24/09/2009	12/11/2009	-	$320,000	7716m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246288	9/57 Newman-Morris Circuit	20/07/2009	01/09/2009	-	$315,000	21027m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242968	14/57 Newman-Morris Circuit	21/01/2009	13/03/2009	-	$285,000	21027m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	22964	            14/57 Newman Morris Circuit	21/01/2009	-	11/11/2008	$285,000	21027m	Full transfer	2	1	-	1	-	$285,000	71	-	Allhomes Record	-	-	-	-	$2,455,000	8.61
+2009	243485	48 Schonell Circuit	22/01/2009	25/03/2009	-	$245,000	935m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238295	176 Newman-Morris Circuit	06/03/2009	08/04/2009	-	-	849m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244897	64 Newman-Morris Circuit	10/04/2009	23/07/2009	-	-	794m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242458	11 Hazel Smith Crescent	05/02/2009	10/02/2009	-	-	792m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261884	10 Judkins Street	12/03/2009	11/05/2010	-	-	874m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	241602	26 Cuthbertson Crescent	24/02/2009	15/05/2009	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244233	11 Newman-Morris Circuit	08/01/2009	09/06/2009	-	-	933m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274479	36 Collocott Crescent	30/09/2010	08/11/2010	12/07/2010	$700,000	1041m	Full transfer	4	1	1	2	-	$700,000	80	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.34
+2010	329801	18 Cuthbertson Crescent	19/11/2010	02/02/2011	-	$695,000	785m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274480	17 Raphael Close	22/09/2010	14/11/2010	12/08/2010	$640,000	919m	Full transfer	5	1	1	2	-	$640,000	41	-	Combined Record	221	-	-	Single residential dwelling	$259,000	0.4
+2010	275874	175 Newman-Morris Circuit	02/12/2010	12/01/2011	06/10/2010	$635,000	866m	Full transfer	4	2	1	2	-	$635,000	57	-	Combined Record	192	-	-	Single residential dwelling	$285,000	0.45
+2010	263948	1 Maconochie Crescent	09/04/2010	01/06/2010	04/03/2010	$630,000	862m	Full transfer	4	2	1	2	2	$630,000	36	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.4
+2010	272735	24 Nunan Crescent	14/09/2010	03/11/2010	-	$540,000	801m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271080	18 Cuthbertson Crescent	31/05/2010	09/09/2010	30/04/2010	$520,000	785m	Full transfer	4	1	1	2	-	$520,000	31	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.6
+2010	268260	160 Newman-Morris Circuit	25/05/2010	30/06/2010	28/04/2010	$500,000	1118m	Full transfer	3	2	-	-	3	$500,000	27	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.47
+2010	269311	13 Collocott Crescent	17/05/2010	30/06/2010	14/04/2010	$481,000	821m	Full transfer	3	1	1	2	-	$481,000	33	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.58
+2010	270747	25 Maconochie Crescent	20/01/2010	27/07/2010	10/11/2009	$467,000	943m	Full transfer	3	1	1	2	-	$467,000	71	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.54
+2010	274055	72 Newman-Morris Circuit	24/08/2010	17/11/2010	-	$465,000	776m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270351	17 Hazel Smith Crescent	03/06/2010	09/09/2010	-	$440,000	792m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	261793	19 Newman-Morris Circuit	13/02/2010	06/04/2010	-	$430,000	720m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277633	38/210 Newman-Morris Circuit	20/10/2010	24/01/2011	-	$420,000	37802m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277634	7/18 Schonell Circuit	28/09/2010	24/01/2011	-	$405,000	7137m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283465	19/210 Newman-Morris Circuit	20/12/2010	04/03/2011	-	$400,000	37802m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	255531	12/18 Schonell Circuit	28/01/2010	31/03/2010	-	$375,000	7137m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273189	8/210 Newman-Morris Circuit	07/10/2010	07/11/2010	-	$365,000	37802m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269831	19/77 Newman-Morris Circuit	04/08/2010	09/09/2010	-	$355,000	20945m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272931	1/18 Schonell Circuit	29/07/2010	26/10/2010	-	-	7137m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261382	11 Hammond Close	31/01/2010	14/03/2010	-	-	993m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261883	8 Lamble Place	24/02/2010	13/05/2010	-	-	1134m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270211	14 Connibere Crescent	03/06/2010	23/08/2010	-	-	795m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331174	36 Schonell Circuit	02/03/2011	10/05/2011	-	$720,000	822m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292118	24 Hazel Smith Crescent	23/02/2011	29/04/2011	25/11/2010	$638,000	927m	Full transfer	5	1	1	2	-	$638,000	90	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.44
+2011	292087	37 Cuthbertson Crescent	07/02/2011	03/05/2011	27/10/2010	$630,000	1129m	Full transfer	4	1	1	2	-	$630,000	103	-	Combined Record	180	-	-	Single residential dwelling	$284,000	0.45
+2011	344413	10 Lamble Place	02/09/2011	18/10/2011	22/06/2011	$625,000	947m	Full transfer	4	2	1	2	-	$625,000	72	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.69
+2011	348772	4 Van Pelt Place	22/12/2011	-	01/12/2011	$616,000	859m	Full transfer	4	1	1	2	2	$616,000	21	-	Allhomes Record	-	-	-	-	$330,000	0.54
+2011	347848	11 Dalgarno Close	07/09/2011	25/10/2011	30/05/2011	$591,000	915m	Full transfer	4	1	1	2	-	$591,000	100	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.55
+2011	349954	50 Schonell Circuit	02/11/2011	05/12/2011	-	$585,000	977m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340727	17 Farrelly Close	24/08/2011	23/09/2011	-	$550,000	858m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353649	46 Schonell Circuit	07/09/2011	19/01/2012	12/08/2011	$510,000	766m	Full transfer	4	1	1	2	-	$510,000	26	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.72
+2011	300143	13 Raphael Close	09/06/2011	12/07/2011	-	$500,000	717m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296944	12 Farrelly Close	08/04/2011	08/06/2011	25/02/2011	$487,500	913m	Full transfer	3	1	-	1	2	$487,500	42	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.6
+2011	347377	15 Nunan Crescent	28/09/2011	04/11/2011	17/03/2011	$442,000	788m	Full transfer	3	1	-	-	2	$442,000	195	-	Combined Record	110	-	-	Single residential dwelling	$330,000	0.75
+2011	287572	7/210 Newman-Morris Circuit	21/02/2011	04/04/2011	-	$417,500	37802m	Full transfer	-	-	-	-	-	$417,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353957	6 McIlveen Place	27/10/2011	19/12/2011	18/08/2011	$412,500	711m	Full transfer	3	1	-	1	-	$412,500	70	-	Combined Record	-	-	-	For residential purposes only	$281,000	0.68
+2011	360546	25/77 Newman-Morris Circuit	21/10/2011	24/01/2012	13/09/2011	$399,000	20945m	Full transfer	2	1	-	1	-	$399,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$3,204,000	8.03
+2011	336040	3/57 Newman-Morris Circuit	29/07/2011	05/09/2011	-	$391,000	21027m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	299661	            3/57 Newman Morris Circuit	29/07/2011	-	08/07/2011	$391,000	-	Full transfer	3	1	-	1	-	$391,000	21	-	Allhomes Record	-	-	-	-	-	-
+2011	474407	            12/18 Schonnel Circuit	31/10/2011	-	29/04/2016	$390,000	0m	Full transfer	3	1	-	0	2	$390,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	296340	22/210 Newman-Morris Circuit	15/04/2011	30/05/2011	-	$390,000	37802m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350462	12/18 Schonell Circuit	31/10/2011	13/12/2011	-	$390,000	7137m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354896	24/57 Newman-Morris Circuit	28/10/2011	13/01/2012	-	$386,000	21027m	Full transfer	-	-	-	-	-	$386,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291246	5/77 Newman-Morris Circuit	18/03/2011	18/05/2011	-	$380,000	20945m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	281752	            5/77 Newman Morris Circuit	18/03/2011	-	21/01/2011	$380,000	20945m	Full transfer	2	1	-	1	-	$380,000	56	-	Allhomes Record	-	-	-	-	$115,344	0.3
+2011	353959	38 Nunan Crescent	20/09/2011	22/12/2011	-	$379,000	1028m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	335838	8/57 Newman-Morris Circuit	04/07/2011	08/08/2011	-	$370,000	21027m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	344411	5/18 Schonell Circuit	06/09/2011	18/10/2011	14/07/2011	$365,000	7137m	Full transfer	3	1	-	-	2	$365,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	$1,404,000	3.85
+2011	300335	5/26 Schonell Circuit	27/06/2011	20/07/2011	-	$355,500	7716m	Full transfer	-	-	-	-	-	$355,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	332908	40/210 Newman-Morris Circuit	01/07/2011	05/08/2011	-	$122,000	37802m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354897	28 Nunan Crescent	30/09/2011	11/01/2012	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	374377	26 Cuthbertson Crescent	12/08/2011	26/06/2012	-	$0	767m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	370847	9 Clutterbuck Crescent	19/12/2011	23/04/2012	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	347123	12/57 Newman-Morris Circuit	30/06/2011	18/11/2011	-	$0	21027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360182	2 McIlveen Place	09/12/2011	02/02/2012	-	$0	986m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347124	11 Raphael Close	05/10/2011	17/11/2011	-	$0	846m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360548	205 Newman-Morris Circuit	10/11/2011	24/01/2012	-	$0	784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291196	15 Farrelly Close	08/03/2011	27/04/2011	-	-	837m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395231	9 Lamble Place	21/11/2012	16/04/2013	25/10/2012	$875,000	1699m	Full transfer	6	2	2	3	-	$875,000	27	-	Combined Record	-	-	-	Single residential dwelling	$563,000	0.64
+2012	384005	182 Newman-Morris Circuit	15/09/2012	20/11/2012	13/08/2012	$862,000	897m	Full transfer	5	2	1	4	-	$862,000	33	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.33
+2012	388448	27 Nunan Crescent	08/09/2012	16/01/2013	03/08/2012	$780,000	1889m	Full transfer	6	2	1	2	-	$780,000	36	-	Combined Record	316	-	-	Single residential dwelling	$484,000	0.62
+2012	377151	10 Kirby Place	10/04/2012	24/07/2012	26/10/2011	$720,000	1155m	Full transfer	4	1	1	3	-	$720,000	167	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.51
+2012	374375	9 Dalgarno Close	25/05/2012	25/06/2012	29/02/2012	$685,000	1061m	Full transfer	5	1	2	2	-	$685,000	86	-	Combined Record	-	-	-	Single residential dwelling...	$345,000	0.5
+2012	425119	            BLOCK3SECTION8 Newman-Morris Circuit	29/11/2012	-	16/04/2014	$660,000	2575m	Full transfer	-	-	-	-	-	$660,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	392955	             Newman-Morris Circuit	29/11/2012	05/02/2013	-	$660,000	2575m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Child care centre	-	-
+2012	374826	12 Nunan Crescent	13/02/2012	12/06/2012	24/11/2011	$639,500	994m	Full transfer	4	1	1	2	-	$639,500	81	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.52
+2012	379331	4 Gosman Close	01/08/2012	11/09/2012	-	$480,000	829m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393096	23 Gosman Close	21/12/2012	13/02/2013	06/09/2012	$477,000	809m	Full transfer	4	1	1	-	-	$477,000	106	-	Combined Record	-	-	-	Single residential dwelling...	$321,000	0.67
+2012	392956	10 Newman-Morris Circuit	10/12/2012	05/02/2013	-	$465,000	912m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386928	6/57 Newman-Morris Circuit	22/11/2012	24/12/2012	-	$450,000	21027m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	383652	20/57 Newman-Morris Circuit	14/09/2012	07/11/2012	12/07/2012	$440,000	21027m	Full transfer	3	1	1	2	-	$440,000	64	-	Combined Record	121	-	-	Multiple unit dwelling	$3,535,000	8.03
+2012	368486	23/210 Newman-Morris Circuit	15/02/2012	19/03/2012	-	$400,000	37802m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	359680	15/77 Newman-Morris Circuit	09/01/2012	03/02/2012	14/11/2011	$393,000	20945m	Full transfer	2	1	-	1	-	$393,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	$3,845,000	9.78
+2012	387096	58 Newman-Morris Circuit	12/10/2012	20/12/2012	-	$380,000	751m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2012	363721	            40/210 Newman Morris Circuit	26/04/2012	-	23/02/2012	$375,000	-	Full transfer	2	1	-	-	1	$375,000	63	-	Allhomes Record	-	-	-	-	-	-
+2012	371861	40/210 Newman-Morris Circuit	26/04/2012	31/05/2012	-	$375,000	37802m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	398185	8 Farrelly Close	05/06/2012	16/05/2013	-	$0	782m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394068	10 Cuthbertson Crescent	22/11/2012	05/04/2013	-	$0	924m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384784	24 Connibere Crescent	03/04/2012	15/05/2012	21/12/2011	$0	838m	Full transfer	4	1	1	2	2	$0	104	-	Combined Record	-	-	-	Single residential dwelling	$268,000	9.78
+2012	437771	126 Newman-Morris Circuit	14/02/2012	23/10/2014	-	$0	770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	419925	4 Haugh Place	17/11/2012	05/02/2014	-	$0	1150m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384503	4 Maconochie Crescent	27/02/2012	08/05/2012	10/12/2011	$0	694m	Full transfer	3	1	-	2	2	$0	79	-	Combined Record	-	-	-	Single residential dwelling	$308,000	9.78
+2012	372613	20/77 Newman-Morris Circuit	13/02/2012	14/03/2012	-	$0	20945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410724	3 Collick Place	24/08/2013	25/10/2013	23/07/2013	$877,000	2074m	Full transfer	5	1	1	2	-	$877,000	32	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.56
+2013	415085	17 Raphael Close	02/10/2013	02/12/2013	11/07/2013	$630,000	919m	Full transfer	5	1	1	2	0	$630,000	83	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.45
+2013	398186	8 Clutterbuck Crescent	26/03/2013	15/05/2013	15/01/2013	$600,000	822m	Full transfer	4	2	-	2	-	$600,000	70	-	Combined Record	190	-	-	Single residential dwelling	$365,000	0.61
+2013	419290	22 Dalgarno Close	19/11/2013	11/02/2014	13/11/2013	$585,000	811m	Full transfer	3	1	1	-	2	$585,000	6	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.53
+2013	410268	1 Hazel Smith Crescent	29/07/2013	11/09/2013	01/07/2013	$585,000	869m	Full transfer	4	1	1	2	-	$585,000	28	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.46
+2013	395233	9 Schonell Circuit	22/02/2013	17/04/2013	07/01/2013	$565,000	954m	Full transfer	5	2	-	2	0	$565,000	46	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.56
+2013	413962	6 Hammond Close	23/10/2013	22/11/2013	13/08/2013	$507,000	779m	Full transfer	4	1	1	2	0	$507,000	71	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.63
+2013	415084	14 Cuthbertson Crescent	16/10/2013	04/12/2013	-	$500,000	982m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416345	18 Nunan Crescent	28/10/2013	16/12/2013	19/07/2013	$462,500	814m	Full transfer	4	1	-	2	-	$462,500	101	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.71
+2013	413429	15 Nunan Crescent	09/10/2013	14/11/2013	-	$452,000	788m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410723	25/77 Newman-Morris Circuit	10/09/2013	24/10/2013	-	$440,000	20945m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	423101	6 Schonell Circuit	21/12/2013	19/03/2014	-	$431,000	821m	Full transfer	-	-	-	-	-	$431,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	396692	135 Newman-Morris Circuit	16/01/2013	24/04/2013	-	$430,000	939m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	411272	34/210 Newman-Morris Circuit	05/08/2013	20/10/2013	15/04/2013	$405,000	37802m	Full transfer	3	1	-	-	1	$405,000	112	-	Combined Record	130	-	-	Multiple unit dwelling	$5,242,000	12.94
+2013	418359	9 Singleton Crescent	20/11/2013	10/01/2014	-	$380,000	744m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	406720	11/18 Schonell Circuit	18/07/2013	27/08/2013	22/05/2013	$363,000	7137m	Full transfer	3	1	-	-	2	$363,000	57	-	Combined Record	118	-	-	Multiple unit dwelling	$1,685,000	4.64
+2013	412639	4/210 Newman-Morris Circuit	21/09/2013	08/11/2013	-	$305,000	37802m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	398188	8 Newman-Morris Circuit	26/03/2013	13/05/2013	-	$200,000	801m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424128	133 Newman-Morris Circuit	14/11/2013	14/04/2014	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	398184	30 Nunan Crescent	22/04/2013	14/05/2013	-	$0	1020m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419292	10 Connibere Crescent	03/07/2013	13/02/2014	-	$0	961m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432733	1 Lamble Place	23/08/2014	-	30/07/2014	$767,000	1453m	Full transfer	5	1	1	2	0	$767,000	24	-	Allhomes Record	-	-	-	-	$465,000	0.61
+2014	437470	9 Dalgarno Close	08/09/2014	16/10/2014	07/08/2014	$720,000	1061m	Full transfer	5	1	2	2	-	$720,000	32	-	Combined Record	-	-	-	Single residential dwelling...	$336,000	0.47
+2014	450903	20 Singleton Crescent	29/11/2014	28/04/2015	-	$620,000	913m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428203	20 Dalgarno Close	14/03/2014	30/04/2014	27/02/2014	$595,000	770m	Full transfer	4	1	1	2	-	$595,000	15	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.51
+2014	426675	163 Newman-Morris Circuit	22/03/2014	29/05/2014	18/02/2014	$575,000	790m	Full transfer	4	1	1	2	-	$575,000	32	-	Combined Record	171	-	-	Single residential dwelling	$252,000	0.44
+2014	447697	231 Newman-Morris Circuit	21/10/2014	10/03/2015	18/02/2015	$561,000	748m	Full transfer	4	2	-	2	0	$561,000	-	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.54
+2014	424129	6 Kirby Place	08/02/2014	15/04/2014	08/01/2014	$559,000	801m	Full transfer	4	1	1	1	-	$559,000	31	-	Combined Record	158	-	-	Single residential dwelling	$313,000	0.56
+2014	440245	8 Farrelly Close	10/10/2014	20/11/2014	25/07/2014	$535,000	782m	Full transfer	3	1	1	2	-	$535,000	77	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.58
+2014	429448	4/77 Newman-Morris Circuit	02/05/2014	18/06/2014	-	$518,000	20945m	Full transfer	-	-	-	-	-	$518,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442094	124 Newman-Morris Circuit	24/10/2014	16/12/2014	25/08/2014	$512,000	770m	Full transfer	3	1	1	1	-	$512,000	60	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.54
+2014	437473	90 Newman-Morris Circuit	01/09/2014	15/10/2014	-	$477,000	764m	Full transfer	-	-	-	-	-	$477,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	444524	90 Newman Morris Circuit	01/09/2014	-	18/02/2015	$477,000	764m	Full transfer	3	2	-	1	0	$477,000	-	-	Allhomes Record	-	-	-	-	$301,000	0.63
+2014	421200	9 Clutterbuck Crescent	24/01/2014	27/02/2014	03/12/2013	$475,000	790m	Full transfer	3	1	-	2	2	$475,000	52	-	Combined Record	-	-	-	Single residential dwelling...	$304,000	0.64
+2014	434826	1 McIlveen Place	01/08/2014	08/09/2014	-	$470,000	879m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428962	11 Newman-Morris Circuit	13/05/2014	10/06/2014	25/11/2013	$455,000	933m	Full transfer	3	1	-	2	2	$455,000	169	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.68
+2014	426987	4/18 Schonell Circuit	26/03/2014	12/05/2014	24/02/2014	$422,000	7137m	Full transfer	3	1	-	2	-	$422,000	30	-	Combined Record	130	-	-	Multiple unit dwelling	$1,769,000	4.19
+2014	441489	242 Newman-Morris Circuit	30/10/2014	09/12/2014	-	$406,600	785m	Full transfer	-	-	-	-	-	$406,600	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	430096	10/57 Newman Morris Circuit	23/05/2014	-	30/07/2014	$403,000	0m	Full transfer	2	1	-	1	0	$403,000	-	-	Allhomes Record	-	-	-	-	$3,712,000	9.21
+2014	432886	10/57 Newman-Morris Circuit	23/05/2014	11/08/2014	-	$403,000	21027m	Full transfer	-	-	-	-	-	$403,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426985	24/57 Newman-Morris Circuit	11/04/2014	14/05/2014	29/10/2013	$385,000	21027m	Full transfer	2	1	-	-	1	$385,000	164	-	Combined Record	-	-	-	Multiple unit dwelling	$3,712,000	9.64
+2014	433937	22/210 Newman-Morris Circuit	07/07/2014	25/08/2014	05/02/2014	$361,000	37802m	Full transfer	3	1	-	0	1	$361,000	152	-	Combined Record	97	-	-	Multiple unit dwelling	$5,504,000	15.25
+2014	437769	19/77 Newman-Morris Circuit	16/09/2014	22/10/2014	09/04/2014	$360,000	20945m	Full transfer	2	1	-	1	-	$360,000	160	-	Combined Record	98	-	-	Multiple unit dwelling	$4,037,000	11.21
+2014	429338	14/57 Newman Morris Circuit	18/07/2014	-	08/05/2014	$352,500	-	Full transfer	2	1	0	1	0	$352,500	71	-	Allhomes Record	-	-	-	-	$3,712,000	10.53
+2014	434560	14/57 Newman-Morris Circuit	18/07/2014	01/09/2014	-	$352,500	21027m	Full transfer	-	-	-	-	-	$352,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430481	17 Farrelly Close	12/06/2014	03/07/2014	-	$220,000	858m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	453893	23 Collocott Crescent	20/12/2014	02/06/2015	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438847	11 Gosman Close	01/10/2014	07/11/2014	-	$0	1403m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434561	19 Farrelly Close	30/07/2014	02/09/2014	-	$0	844m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468031	182 Newman-Morris Circuit	09/10/2015	15/12/2015	-	$890,000	897m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450894	9 Collick Place	28/02/2015	29/04/2015	04/02/2015	$780,000	1370m	Full transfer	4	1	1	2	-	$780,000	24	-	Combined Record	298	-	-	Single residential dwelling	$448,000	0.57
+2015	460882	14 Connibere Crescent	19/09/2015	-	10/08/2015	$710,000	795m	Full transfer	4	1	1	2	-	$710,000	40	-	Allhomes Record	189	-	-	-	$268,000	0.38
+2015	453366	11 Schonell Circuit	21/04/2015	29/05/2015	13/03/2015	$630,000	878m	Full transfer	4	2	-	2	0	$630,000	39	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.52
+2015	456519	23 Collocott Crescent	18/05/2015	29/06/2015	14/01/2015	$606,000	906m	Full transfer	4	1	1	2	-	$606,000	124	-	Combined Record	222	-	-	Single residential dwelling	$321,000	0.53
+2015	471156	1 Dalgarno Close	04/12/2015	15/02/2016	28/09/2015	$605,000	866m	Full transfer	4	1	1	-	2	$605,000	67	-	Combined Record	163	-	-	Single residential dwelling	$311,000	0.51
+2015	457767	34 Singleton Crescent	12/06/2015	16/07/2015	26/03/2015	$595,000	871m	Full transfer	4	2	-	2	1	$595,000	78	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.55
+2015	469144	1 Hazel Smith Crescent	16/11/2015	11/01/2016	29/07/2015	$590,000	869m	Full transfer	4	1	1	2	-	$590,000	110	-	Combined Record	185	-	-	Single residential dwelling	$267,000	0.45
+2015	464661	28 Cuthbertson Crescent	15/08/2015	20/10/2015	21/07/2015	$585,000	768m	Full transfer	4	2	-	2	0	$585,000	25	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.47
+2015	471420	27 Connibere Crescent	21/12/2015	11/02/2016	26/10/2015	$580,000	956m	Full transfer	4	1	1	4	1	$580,000	56	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.48
+2015	471158	10 Gosman Close	11/11/2015	15/02/2016	15/07/2015	$549,000	771m	Full transfer	4	1	1	-	-	$549,000	119	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.58
+2015	464049	149 Newman-Morris Circuit	06/11/2015	-	18/05/2015	$540,000	834m	Full transfer	4	2	1	-	-	$540,000	172	-	Allhomes Record	-	-	-	-	$256,000	0.47
+2015	448650	206 Newman-Morris Circuit	09/02/2015	24/03/2015	-	$530,000	857m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452255	190 Newman-Morris Circuit	27/05/2015	-	08/05/2015	$495,000	873m	Full transfer	3	1	-	2	2	$495,000	19	-	Allhomes Record	-	-	-	-	$320,000	0.65
+2015	442344	10 Farrelly Close	08/01/2015	-	15/10/2014	$473,000	0m	Full transfer	4	2	-	2	0	$473,000	85	-	Allhomes Record	-	-	-	-	$294,000	0.62
+2015	468600	154 Newman-Morris Circuit	19/10/2015	06/01/2016	-	$469,000	918m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	462027	137 Newman-Morris Circuit	07/08/2015	24/09/2015	17/06/2015	$460,000	844m	Full transfer	3	1	1	2	1	$460,000	51	-	Combined Record	128	-	-	Single residential dwelling	$305,000	0.66
+2015	451792	26 Connibere Crescent	13/03/2015	06/05/2015	21/11/2014	$457,500	791m	Full transfer	3	1	-	-	2	$457,500	112	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.59
+2015	472213	4 Dalgarno Close	16/12/2015	25/02/2016	-	$457,500	796m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474476	209 Newman-Morris Circuit	23/12/2015	07/04/2016	23/11/2015	$455,000	744m	Full transfer	3	1	-	2	-	$455,000	30	-	Combined Record	126	-	-	Single residential dwelling	$282,000	0.62
+2015	462021	12 Schonell Circuit	30/06/2015	23/09/2015	-	$420,000	752m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	469135	25 Connibere Crescent	14/11/2015	11/01/2016	19/10/2015	$414,000	763m	Full transfer	3	1	-	-	2	$414,000	26	-	Combined Record	112	-	-	Single residential dwelling	$281,000	0.68
+2015	450204	12/57 Newman-Morris Circuit	17/02/2015	14/04/2015	28/01/2015	$412,500	21027m	Full transfer	3	1	1	2	-	$412,500	20	-	Combined Record	120	-	-	Multiple unit dwelling	$159,696	0.39
+2015	448640	15 Maconochie Crescent	18/02/2015	23/03/2015	14/01/2015	$412,000	763m	Full transfer	2	1	-	1	-	$412,000	35	-	Combined Record	109	-	-	Single residential dwelling	$321,000	0.78
+2015	464641	17/77 Newman-Morris Circuit	09/09/2015	23/10/2015	-	$390,000	20945m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460550	17/77 Newman Morris Circuit	09/09/2015	-	07/08/2015	$390,000	0m	Full transfer	2	1	-	1	0	$390,000	33	-	Allhomes Record	-	-	-	-	$4,037,000	10.35
+2015	472204	15/77 Newman-Morris Circuit	27/11/2015	23/02/2016	06/10/2015	$365,000	20945m	Full transfer	2	1	-	1	-	$365,000	52	-	Combined Record	-	-	-	Multiple unit dwelling	$4,037,000	11.06
+2015	448671	11/210 Newman-Morris Circuit	06/02/2015	23/03/2015	-	$336,000	37802m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458063	8 Van Pelt Place	22/05/2015	24/07/2015	-	$320,000	847m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471411	10 Connibere Crescent	29/09/2015	09/02/2016	-	$175,000	961m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487050	15 Schonell Circuit	17/02/2015	21/09/2016	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459161	5 Dalgarno Close	20/02/2015	11/08/2015	-	$0	751m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487075	13 Maconochie Crescent	16/08/2015	19/09/2016	-	$0	746m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459669	209 Newman-Morris Circuit	20/07/2015	17/08/2015	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451336	12 Judkins Street	26/02/2015	23/04/2015	31/10/2014	$0	966m	Full transfer	3	1	1	-	2	$0	118	-	Combined Record	-	-	-	Single residential dwelling	$277,000	11.06
+2015	461436	2 Haugh Place	15/04/2015	10/09/2015	-	$0	970m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487936	16 Collocott Crescent	07/09/2016	12/10/2016	20/07/2016	$956,000	721m	Full transfer	7	3	1	2	0	$956,000	49	-	Combined Record	-	-	-	Residential	$348,000	0.36
+2016	481225	4 Collick Place	11/05/2016	14/07/2016	04/05/2016	$750,000	753m	Full transfer	4	3	-	2	2	$750,000	7	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.42
+2016	479150	24 Hammond Close	16/04/2016	31/05/2016	17/03/2016	$680,000	955m	Full transfer	4	2	-	3	0	$680,000	30	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.57
+2016	472912	24 Cuthbertson Crescent	19/01/2016	01/03/2016	-	$650,000	774m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496884	22 Clutterbuck Crescent	08/10/2016	08/02/2017	15/09/2016	$645,000	1345m	Full transfer	4	1	1	2	0	$645,000	23	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.7
+2016	491265	11 Schonell Circuit	07/10/2016	21/11/2016	07/07/2016	$645,000	878m	Full transfer	4	2	-	2	0	$645,000	92	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.56
+2016	486766	7 Maconochie Crescent	08/08/2016	15/09/2016	05/04/2016	$602,000	744m	Full transfer	4	2	-	-	5	$602,000	125	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.6
+2016	494873	35 Cuthbertson Crescent	29/10/2016	11/01/2017	05/10/2016	$580,000	952m	Full transfer	3	2	-	2	0	$580,000	24	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.67
+2016	491444	127 Newman-Morris Circuit	31/08/2016	23/11/2016	-	$580,000	768m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477912	17 Collocott Crescent	06/06/2016	-	04/04/2016	$579,000	735m	Full transfer	3	1	-	2	1	$579,000	63	-	Allhomes Record	114	-	-	-	$348,000	0.6
+2016	483289	17 Collocott Crescent	04/04/2016	04/08/2016	-	$579,000	753m	Full transfer	-	-	-	-	-	$579,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478054	25 Maconochie Crescent	04/02/2016	18/05/2016	25/11/2015	$576,000	943m	Full transfer	3	1	2	1	-	$576,000	71	-	Combined Record	149	-	-	Single residential dwelling	$310,000	0.54
+2016	472206	149 Newman-Morris Circuit	06/11/2016	24/02/2016	-	$540,000	834m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	469028	39 Cuthbertson Crescent	26/01/2016	-	27/11/2015	$520,000	0m	Full transfer	3	2	-	2	0	$520,000	60	-	Allhomes Record	-	-	-	-	$370,000	0.71
+2016	498399	28 Connibere Crescent	03/12/2016	15/02/2017	10/11/2016	$490,000	754m	Full transfer	3	1	1	0	2	$490,000	23	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.61
+2016	499791	21 Schonell Circuit	27/09/2016	06/03/2017	-	$450,000	1071m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	468524	4 Dalgarno Close	22/01/2016	-	16/10/2015	$447,500	796m	Full transfer	3	1	-	1	-	$447,500	98	-	Allhomes Record	-	-	-	-	$347,000	0.78
+2016	486646	26/57 Newman-Morris Circuit	07/07/2016	13/09/2016	20/05/2016	$395,000	21027m	Full transfer	2	1	-	-	1	$395,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	476469	7/57 Newman-Morris Circuit	08/03/2016	28/04/2016	-	$392,000	21027m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480415	2/26 Schonell Circuit	31/05/2016	-	11/05/2016	$385,000	0m	Full transfer	2	1	-	1	0	$385,000	20	-	Allhomes Record	-	-	-	-	-	-
+2016	498312	36/210 Newman-Morris Circuit	23/12/2016	15/02/2017	23/11/2016	$385,000	37802m	Full transfer	3	1	-	-	1	$385,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	479862	13/57 Newman-Morris Circuit	05/07/2016	-	09/05/2016	$385,000	-	Full transfer	2	1	-	1	-	$385,000	57	-	Allhomes Record	94	-	-	-	-	-
+2016	501749	4/57 Newman-Morris Circuit	15/11/2016	21/03/2017	12/10/2016	$380,000	21027m	Full transfer	2	1	-	1	-	$380,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	490345	9/210 Newman-Morris Circuit	12/09/2016	02/11/2016	-	$375,000	37802m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483976	9/210 Newman Morris Circuit	12/09/2016	-	04/08/2016	$375,000	0m	Full transfer	3	1	-	0	1	$375,000	39	-	Allhomes Record	-	-	-	-	$6,000,000	16.0
+2016	479960	11/57 Newman-Morris Circuit	26/04/2016	22/06/2016	19/10/2014	$360,000	21027m	Full transfer	2	1	-	1	-	$360,000	555	-	Combined Record	-	-	-	Multiple unit dwelling	$3,712,000	10.31
+2016	493308	39/210 Newman-Morris Circuit	13/09/2016	09/12/2016	09/08/2016	$350,000	37802m	Full transfer	2	1	-	-	1	$350,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	502607	15/57 Newman-Morris Circuit	14/12/2016	11/04/2017	-	$0	21027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	548037	19 Gosman Close	19/11/2016	22/11/2018	-	$0	739m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490339	4 Farrelly Close	27/06/2016	04/11/2016	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489454	15 Collocott Crescent	02/08/2016	18/10/2016	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479160	23 Clutterbuck Crescent	30/03/2016	03/06/2016	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494823	35 Cuthbertson Crescent	20/08/2016	11/01/2017	-	$0	952m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495238	10 Lamble Place	20/07/2016	17/01/2017	-	$0	947m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523092	4 Cuthbertson Crescent	14/10/2017	10/01/2018	18/09/2017	$790,000	888m	Full transfer	4	2	1	2	-	$790,000	26	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.46
+2017	507367	13 Schonell Circuit	26/08/2017	-	03/08/2017	$728,000	0m	Full transfer	4	2	-	2	0	$728,000	23	-	Allhomes Record	-	-	-	-	$400,000	0.55
+2017	528035	1 Singleton Crescent	23/11/2017	25/03/2018	06/11/2017	$705,000	863m	Full transfer	4	2	-	2	1	$705,000	17	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.48
+2017	501393	8 Cuthbertson Crescent	02/02/2017	21/03/2017	12/01/2017	$700,000	1057m	Full transfer	4	2	1	2	1	$700,000	21	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.59
+2017	520813	3 Maconochie Crescent	22/07/2017	20/11/2017	27/06/2017	$700,000	913m	Full transfer	4	2	-	2	1	$700,000	25	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.47
+2017	507315	8 Collick Place	21/08/2017	-	28/07/2017	$675,000	930m	Full transfer	4	2	-	2	0	$675,000	24	-	Allhomes Record	-	-	-	-	$380,000	0.56
+2017	500600	26 Cuthbertson Crescent	07/02/2017	14/03/2017	10/11/2016	$673,500	767m	Full transfer	4	2	0	2	0	$673,500	89	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.48
+2017	503275	191 Newman-Morris Circuit	15/02/2017	03/04/2017	10/11/2016	$645,000	951m	Full transfer	4	2	-	2	0	$645,000	97	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.6
+2017	512478	1 Van Pelt Place	04/04/2017	12/05/2017	07/10/2016	$605,000	918m	Full transfer	4	2	-	2	-	$605,000	179	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.61
+2017	500130	44 Schonell Circuit	12/01/2017	06/03/2017	20/10/2016	$595,000	707m	Full transfer	3	2	-	2	0	$595,000	84	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.52
+2017	515699	9 Maconochie Crescent	13/05/2017	18/07/2017	19/04/2017	$585,000	711m	Full transfer	3	2	-	2	2	$585,000	24	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.61
+2017	506429	30 Newman Morris Circuit	15/07/2017	-	21/06/2017	$578,000	794m	Full transfer	4	2	-	2	-	$578,000	24	-	Allhomes Record	-	-	-	-	$314,000	0.54
+2017	512649	217 Newman-Morris Circuit	22/03/2017	10/05/2017	19/12/2016	$545,000	769m	Full transfer	3	1	-	2	-	$545,000	93	-	Combined Record	-	-	-	Single residential dwelling...	$320,000	0.59
+2017	510826	2 Hazel Smith Crescent	21/12/2017	-	02/11/2017	$506,000	0m	Full transfer	3	1	-	0	2	$506,000	49	-	Allhomes Record	-	-	-	-	$299,000	0.59
+2017	518267	11/57 Newman-Morris Circuit	15/06/2017	28/08/2017	-	$425,000	21027m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505522	            11/57 Newman Morris Circuit	15/06/2017	-	19/04/2017	$425,000	403m	Full transfer	2	1	-	1	0	$425,000	57	-	Allhomes Record	-	-	-	-	-	-
+2017	499565	22/77 Newman Morris Circuit	04/04/2017	-	08/03/2017	$403,000	0m	Full transfer	2	1	-	1	0	$403,000	27	-	Allhomes Record	-	-	-	-	$3,900,000	9.68
+2017	513651	22/77 Newman-Morris Circuit	04/04/2017	02/06/2017	-	$403,000	20945m	Full transfer	-	-	-	-	-	$403,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527076	7/26 Schonell Circuit	16/12/2017	07/03/2018	22/11/2017	$398,000	7716m	Full transfer	2	1	-	0	1	$398,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	501370	5/26 Schonell Circuit	10/02/2017	21/03/2017	-	$377,500	7716m	Full transfer	-	-	-	-	-	$377,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524624	20/210 Newman-Morris Circuit	11/11/2017	29/01/2018	-	$370,000	37802m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509497	20/210 Newman Morris	11/11/2017	-	19/10/2017	$370,000	0m	Full transfer	3	1	-	0	1	$370,000	23	-	Allhomes Record	-	-	-	-	$6,000,000	16.22
+2017	513957	15/57 Newman-Morris Circuit	27/04/2017	21/06/2017	22/03/2017	$365,000	21027m	Full transfer	2	1	-	1	-	$365,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	536605	2 Badger Place	25/04/2017	28/06/2018	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520831	30 Cuthbertson Crescent	05/07/2017	22/11/2017	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529542	42 Newman-Morris Circuit	23/12/2017	08/04/2018	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500648	21/210 Newman-Morris Circuit	09/02/2017	14/03/2017	-	$0	37802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	530336	9/18 Schonell Circuit	05/10/2017	13/04/2018	-	$0	7137m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518626	70 Newman-Morris Circuit	19/05/2017	20/09/2017	-	$0	717m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514292	5 Collocott Crescent	28/04/2017	29/06/2017	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518994	5/57 Newman-Morris Circuit	03/02/2017	06/10/2017	-	$0	21027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523966	5 Gosman Close	20/04/2017	24/01/2018	-	$0	971m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525819	13 Clutterbuck Crescent	16/11/2017	13/02/2018	-	$0	919m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519673	8 Collick Place	19/08/2017	16/10/2017	-	$0	930m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539216	19 Collocott Crescent	06/08/2018	-	19/07/2018	$885,000	983m	Full transfer	5	3	-	2	0	$885,000	18	-	Allhomes Record	-	-	-	-	$376,000	0.42
+2018	551072	165 Newman-Morris Circuit	09/11/2018	09/01/2019	11/10/2018	$810,000	826m	Full transfer	4	2	-	2	1	$810,000	29	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.44
+2018	520126	21 Schonell Circuit	17/02/2018	-	24/01/2018	$710,000	1071m	Full transfer	4	2	-	2	0	$710,000	24	-	Allhomes Record	-	-	-	-	$429,000	0.6
+2018	532222	7 Newman-Morris Circuit	14/03/2018	10/05/2018	22/02/2018	$700,000	928m	Full transfer	4	2	-	2	-	$700,000	20	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.56
+2018	553044	1 McIlveen Place	21/11/2018	04/02/2019	18/10/2018	$687,000	879m	Full transfer	4	2	-	2	0	$687,000	34	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.46
+2018	546897	11 Connibere Crescent	15/10/2018	29/11/2018	27/09/2018	$680,000	812m	Full transfer	4	2	-	2	4	$680,000	18	-	Combined Record	-	-	-	Single residential dwelling...	$335,000	0.49
+2018	528189	177 Newman-Morris Circuit	11/01/2018	22/03/2018	23/08/2017	$645,000	772m	Full transfer	4	2	-	2	0	$645,000	141	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.52
+2018	556241	34 Hammond Close	20/12/2018	29/03/2019	14/11/2018	$640,000	1000m	Full transfer	4	2	-	-	-	$640,000	36	-	Combined Record	149	-	-	Single residential dwelling	$341,000	0.53
+2018	542198	134 Newman-Morris Circuit	10/07/2018	17/09/2018	08/06/2018	$620,000	814m	Full transfer	3	2	-	2	0	$620,000	32	-	Combined Record	-	-	-	Single residential dwelling...	$335,000	0.54
+2018	550822	17 Hazel Smith Crescent	13/11/2018	09/01/2019	17/10/2018	$533,000	792m	Full transfer	3	1	-	0	0	$533,000	27	-	Combined Record	-	-	-	Single residential dwelling...	$329,000	0.62
+2018	547028	19 Gosman Close	29/09/2018	22/11/2018	06/09/2018	$514,000	739m	Full transfer	3	1	-	-	2	$514,000	23	-	Combined Record	108	-	-	Single residential dwelling	$329,000	0.64
+2018	551962	18 Gosman Close	12/12/2018	30/01/2019	22/11/2018	$510,000	760m	Full transfer	3	1	-	0	0	$510,000	20	-	Combined Record	-	-	-	Single residential dwelling...	$329,000	0.65
+2018	542266	19 Hazel Smith Crescent	20/07/2018	18/09/2018	-	$480,000	810m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	545254	1 McIlveen Place	23/11/2018	-	30/09/2013	$480,000	879m	Full transfer	3	1	-	2	-	$480,000	1880	-	Allhomes Record	161	-	-	-	$313,000	0.65
+2018	543653	17/210 Newman-Morris Circuit	18/08/2018	08/10/2018	30/07/2018	$462,500	37802m	Full transfer	3	1	-	0	1	$462,500	19	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	537386	17/77 Newman-Morris Circuit	18/05/2018	09/07/2018	08/05/2018	$411,000	20945m	Full transfer	2	1	-	1	0	$411,000	10	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	552086	22/77 Newman-Morris Circuit	12/12/2018	01/02/2019	24/10/2018	$403,000	20945m	Full transfer	2	1	-	1	0	$403,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551003	10/26 Schonell Circuit	19/11/2018	10/01/2019	20/09/2018	$390,000	7716m	Full transfer	2	1	-	2	0	$390,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551838	37/210 Newman-Morris Circuit	19/11/2018	31/01/2019	-	$383,000	37802m	Full transfer	-	-	-	-	-	$383,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	545115	37/210 Newman Morris Circuit	19/11/2018	-	23/10/2018	$383,000	0m	Full transfer	2	1	-	1	0	$383,000	27	-	Allhomes Record	-	-	-	-	$6,000,000	15.67
+2018	543271	2/210 Newman-Morris Circuit	24/08/2018	05/10/2018	10/07/2018	$380,000	37802m	Full transfer	-	-	-	-	-	$380,000	45	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534420	195 Newman-Morris Circuit	16/02/2018	05/06/2018	-	$100,000	943m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528991	34 Nunan Crescent	11/03/2018	26/03/2018	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548176	7 Farrelly Close	11/03/2018	06/11/2018	-	$0	787m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529394	16 Farrelly Close	08/02/2018	08/04/2018	18/12/2017	$0	774m	Full transfer	3	2	-	2	0	$0	52	-	Combined Record	-	-	-	Single residential dwelling	$329,000	15.67
+2018	530231	6 McIlveen Place	15/02/2018	13/04/2018	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2018	546876	19 Collocott Crescent	14/08/2018	26/11/2018	-	$0	983m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553280	142 Newman-Morris Circuit	26/12/2018	13/02/2019	-	$0	1183m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552022	22/77 Newman-Morris Circuit	04/07/2018	01/02/2019	-	$0	20945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	557380	22 Cuthbertson Crescent	08/02/2019	08/04/2019	15/11/2018	$920,000	799m	Full transfer	5	3	-	2	0	$920,000	85	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.38
+2019	573213	1 Dalgarno Close	14/08/2019	01/11/2019	28/02/2019	$765,000	866m	Full transfer	4	2	-	2	0	$765,000	167	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.48
+2019	564085	10 Cuthbertson Crescent	05/04/2019	01/07/2019	04/03/2019	$750,000	924m	Full transfer	4	3	-	2	1	$750,000	32	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.53
+2019	574465	191 Newman-Morris Circuit	02/10/2019	22/11/2019	19/09/2019	$712,000	951m	Full transfer	4	2	-	2	0	$712,000	13	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.58
+2019	565522	5 Farrelly Close	23/05/2019	25/07/2019	31/01/2019	$685,000	824m	Full transfer	4	2	-	2	0	$685,000	112	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.5
+2019	572561	6 Gosman Close	05/09/2019	21/10/2019	26/06/2019	$670,000	819m	Full transfer	4	1	1	2	-	$670,000	71	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.56
+2019	569166	7 Collocott Crescent	16/07/2019	13/09/2019	13/06/2019	$655,000	774m	Partial transfer	3	1	-	2	0	$655,000	33	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.59
+2019	567765	160 Newman-Morris Circuit	23/07/2019	22/08/2019	20/03/2019	$655,000	1118m	Full transfer	4	2	-	0	3	$655,000	125	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.46
+2019	574242	8 Haugh Place	06/09/2019	14/11/2019	19/08/2019	$610,000	798m	Full transfer	3	2	-	2	0	$610,000	18	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.6
+2019	558651	2 Haugh Place	13/03/2019	06/05/2019	21/02/2019	$607,500	970m	Full transfer	4	2	-	2	0	$607,500	20	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.6
+2019	564011	62 Newman-Morris Circuit	22/05/2019	02/07/2019	13/01/2019	$590,000	706m	Full transfer	4	2	-	1	-	$590,000	129	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.62
+2019	565002	130 Newman-Morris Circuit	17/05/2019	08/07/2019	-	$575,000	953m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571840	13 Singleton Crescent	11/11/2019	-	26/09/2019	$536,000	0m	Full transfer	3	1	-	0	2	$536,000	46	-	Allhomes Record	-	-	-	-	$369,000	0.69
+2019	559697	21 Connibere Crescent	30/05/2019	-	06/03/2019	$520,000	-	Full transfer	3	1	-	-	-	$520,000	85	-	Allhomes Record	-	-	-	-	$335,000	0.64
+2019	562102	21 Connibere Crescent	10/04/2019	04/06/2019	-	$515,000	832m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	576932	            14/77 Newman Morris Circuit	20/12/2019	-	31/10/2019	$512,500	469m	Full transfer	3	2	-	2	0	$512,500	50	-	Allhomes Record	-	-	-	-	-	-
+2019	576707	6 Schonell Circuit	21/10/2019	09/12/2019	-	$480,000	821m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	555230	8/18 Schonell Circuit	11/01/2019	15/03/2019	06/11/2018	$465,000	7137m	Full transfer	3	1	-	2	-	$465,000	66	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	574611	9/18 Schonell Circuit	10/10/2019	21/11/2019	09/09/2019	$460,000	7137m	Full transfer	3	1	-	-	2	$460,000	31	-	Combined Record	117	-	-	Multiple unit dwelling	-	-
+2019	563384	33/210 Newman-Morris Circuit	09/05/2019	28/06/2019	03/04/2019	$420,000	37802m	Full transfer	3	1	-	1	-	$420,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	562099	8/57 Newman-Morris Circuit	10/05/2019	06/06/2019	-	$417,500	21027m	Full transfer	-	-	-	-	-	$417,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	555282	9/26 Schonell Circuit	25/01/2019	14/03/2019	-	$390,000	7716m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565017	4/26 Schonell Circuit	26/04/2019	08/07/2019	07/08/2018	$377,000	7716m	Full transfer	2	1	-	0	1	$377,000	262	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	559220	130 Newman-Morris Circuit	05/02/2019	15/05/2019	-	$0	953m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565591	5 Farrelly Close	14/04/2019	25/07/2019	-	$0	824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
