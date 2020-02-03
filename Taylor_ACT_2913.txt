@@ -1,0 +1,261 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2008	534759	            26 Alison Burton Rise	03/04/2008	04/06/2018	-	$285,000	315m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	524147	            11 Robin Boyd Crescent	09/11/2012	22/01/2018	-	$324,000	405m	Full transfer	-	-	-	-	-	$324,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507726		07/09/2017	-	02/05/2017	$754,600	456m	Full transfer	4	1	1	2	-	$754,600	128	-	Allhomes Record	185	-	-	-	-	-
+2017	506391		14/07/2017	-	02/05/2017	$751,339	422m	Full transfer	4	1	1	2	-	$751,339	73	-	Allhomes Record	155	-	-	-	-	-
+2017	533531	            2 Nethercote Street	13/11/2017	24/05/2018	-	$405,000	541m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	534181	            53 McCredie Street	23/11/2017	29/05/2018	-	$387,000	450m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522111	            13 Feilman Street	16/10/2017	14/12/2017	-	$385,000	518m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509042	            NO Street Name	12/10/2017	-	29/06/2017	$385,000	517m	Full transfer	4	2	-	2	-	$385,000	105	-	Allhomes Record	-	-	-	-	-	-
+2017	536154	            49 McCredie Street	12/09/2017	27/06/2018	-	$380,000	450m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520995	            22 Feilman Street	12/10/2017	27/11/2017	-	$370,000	458m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521045	            18 Feilman Street	08/09/2017	29/11/2017	-	$361,500	450m	Full transfer	-	-	-	-	-	$361,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520940	            9 Morath Street	19/06/2017	30/11/2017	-	$360,000	422m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521411	            48 Grassick Street	21/09/2017	22/12/2017	-	$360,000	438m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520516	            4 Feilman Street	09/10/2017	06/11/2017	-	$355,000	436m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520873	            11 Morath Street	15/06/2017	01/12/2017	-	$353,000	405m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522970	            44 Grassick Street	14/08/2017	11/01/2018	-	$353,000	450m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	532676	            30 Robin Boyd Crescent	28/08/2017	17/05/2018	-	$350,000	405m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537508	            38 Robin Boyd Crescent	05/07/2017	10/07/2018	-	$348,000	450m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523913	            14 Feilman Street	30/08/2017	22/01/2018	-	$346,000	405m	Full transfer	-	-	-	-	-	$346,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520723	            11 Ussher Street	22/08/2017	22/11/2017	-	$345,000	420m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528836	            42 Grassick Street	21/07/2017	22/03/2018	-	$336,000	438m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	532813	            29 Robin Boyd Crescent	27/06/2017	16/05/2018	-	$336,000	425m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523122	            22 Robin Boyd Crescent	08/11/2017	08/01/2018	-	$333,845	405m	Full transfer	-	-	-	-	-	$333,845	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533375	            31 Robin Boyd Crescent	11/09/2017	22/05/2018	-	$329,000	418m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522842	            20 Robin Boyd Crescent	30/11/2017	09/01/2018	-	$324,000	405m	Full transfer	-	-	-	-	-	$324,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	534158	            14 McCredie Street	22/09/2017	03/06/2018	-	$312,000	363m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533847	            14 McCredie Street	03/05/2017	03/06/2018	-	$312,000	363m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519962	            1 Feilman Street	16/06/2017	17/10/2017	-	$307,000	375m	Full transfer	-	-	-	-	-	$307,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528431	            10 Robin Boyd Crescent	21/12/2017	25/03/2018	-	$271,000	315m	Full transfer	-	-	-	-	-	$271,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521321	            17 Pumpurs Crescent	16/06/2017	07/12/2017	-	$260,000	250m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	532651	            25 Briger Street	13/12/2017	15/05/2018	-	$250,000	250m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533333	            7 Briger Street	30/11/2017	22/05/2018	-	$172,500	405m	Full transfer	-	-	-	-	-	$172,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	539626	            23 McCredie Street	11/07/2017	07/08/2018	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	542916	            29 McCredie Street	28/06/2017	27/09/2018	-	$0	270m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523576	            36 Grassick Street	14/07/2017	15/01/2018	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	569277	            8/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569417	            7/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569327	            1/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569418	            2/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569369	            3/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569427	            4/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	569148	            5/4 Shugg Street	11/04/2018	11/09/2019	-	$4,840,560	2555m	Full transfer	-	-	-	-	-	$4,840,560	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542511		02/10/2018	-	09/02/2018	$850,000	420m	Full transfer	4	2	-	2	-	$850,000	235	-	Allhomes Record	-	-	-	-	-	-
+2018	541642	            22 Robin Boyd Crescent	03/09/2018	-	24/07/2018	$750,000	405m	Full transfer	4	2	-	2	-	$750,000	41	-	Allhomes Record	-	-	-	-	-	-
+2018	539820	            14 Nethercote Street	17/08/2018	-	08/12/2017	$715,000	420m	Full transfer	4	2	-	2	-	$715,000	252	-	Allhomes Record	-	-	-	-	-	-
+2018	563367	16/18 Shugg Street	30/08/2018	28/06/2019	-	$599,000	5540m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	564198	13/18 Shugg Street	29/06/2018	01/07/2019	-	$574,900	5540m	Full transfer	-	-	-	-	-	$574,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563043	10/18 Shugg Street	27/08/2018	18/06/2019	-	$549,000	5540m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563543	11/18 Shugg Street	23/10/2018	24/06/2019	-	$545,900	5540m	Full transfer	-	-	-	-	-	$545,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563112	2/18 Shugg Street	30/11/2018	18/06/2019	-	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563403	7/18 Shugg Street	13/08/2018	26/06/2019	-	$499,000	5540m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563020	5/18 Shugg Street	18/10/2018	17/06/2019	-	$489,000	5540m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532652	            16 Grassick Street	01/03/2018	14/05/2018	-	$470,000	574m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546087	            18 Grassick Street	11/12/2018	-	18/08/2018	$450,000	0m	Full transfer	-	-	-	-	-	$450,000	115	-	Allhomes Record	-	-	-	-	-	-
+2018	553477	18 Grassick Street	21/12/2018	13/02/2019	-	$450,000	588m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553197	24 Ken Herde Crescent	29/11/2018	04/02/2019	-	$450,000	542m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545617	             Shugg Street	05/12/2018	-	18/06/2018	$439,900	-	Full transfer	2	2	-	2	-	$439,900	170	-	Allhomes Record	-	-	-	-	-	-
+2018	562546	34/18 Shugg Street	31/10/2018	13/06/2019	-	$439,900	5540m	Full transfer	-	-	-	-	-	$439,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	562506	26/18 Shugg Street	25/07/2018	14/06/2019	-	$439,900	5540m	Full transfer	-	-	-	-	-	$439,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	562530	35/18 Shugg Street	28/11/2018	14/06/2019	-	$435,000	5540m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	553054	7 Robin Boyd Crescent	04/07/2018	04/02/2019	-	$430,000	588m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	562438	25/18 Shugg Street	30/07/2018	14/06/2019	-	$429,900	5540m	Full transfer	-	-	-	-	-	$429,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563157	36/18 Shugg Street	19/07/2018	17/06/2019	-	$425,900	5540m	Full transfer	-	-	-	-	-	$425,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	553404	14 Ken Herde Crescent	09/11/2018	13/02/2019	-	$415,000	495m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563550	19/18 Shugg Street	16/03/2018	26/06/2019	-	$414,900	5540m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551743	19 Bischoff Street	01/06/2018	11/01/2019	-	$410,000	545m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532373	            11 Marjorie Matthews Street	23/02/2018	08/05/2018	-	$400,000	450m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537539	            24 Ken Herde Crescent	05/04/2018	11/07/2018	-	$400,000	542m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	564162	33/18 Shugg Street	18/05/2018	03/07/2019	-	$399,900	5540m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550553	41 McCredie Street	07/09/2018	30/10/2018	-	$397,000	548m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534079	            6 McCardell Street	09/04/2018	31/05/2018	-	$395,000	497m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539063	            49 McCredie Street	29/05/2018	01/08/2018	-	$395,000	450m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535165	            15 Butterworth Street	14/05/2018	13/06/2018	-	$393,000	486m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551042	            4 Morath Street	07/11/2018	09/01/2019	-	$390,000	450m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543423	            12 Mottram Street	26/07/2018	03/10/2018	-	$390,000	450m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542130	            57 Robin Boyd Crescent	30/07/2018	19/09/2018	-	$388,000	450m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531175	            28 Robin Boyd Crescent	09/04/2018	-	25/01/2018	$385,000	495m	Full transfer	-	-	-	-	-	$385,000	74	-	Allhomes Record	-	-	-	-	-	-
+2018	534307	            28 Robin Boyd Crescent	20/04/2018	06/06/2018	-	$385,000	495m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533051	            24 Robin Boyd Crescent	31/05/2018	-	02/11/2017	$385,000	0m	Full transfer	-	-	-	-	-	$385,000	210	-	Allhomes Record	-	-	-	-	-	-
+2018	538359	            24 Robin Boyd Crescent	01/06/2018	25/07/2018	-	$385,000	495m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535076	            4 Nethercote Street	06/04/2018	17/06/2018	-	$383,512	493m	Full transfer	-	-	-	-	-	$383,512	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543002	             Shugg Street	15/10/2018	-	18/06/2018	$381,000	-	Full transfer	2	2	-	1	-	$381,000	119	-	Allhomes Record	-	-	-	-	-	-
+2018	563099	28/18 Shugg Street	22/08/2018	18/06/2019	-	$381,000	5540m	Full transfer	-	-	-	-	-	$381,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533970	            14 Mottram Street	26/03/2018	31/05/2018	-	$380,000	450m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534193	            24 Alison Burton Rise	07/05/2018	07/06/2018	-	$375,000	450m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532753	            10 Ruzicka Street	17/04/2018	17/05/2018	-	$375,000	450m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527457		25/03/2018	-	30/11/2017	$375,000	-	Full transfer	-	-	-	-	-	$375,000	115	-	Allhomes Record	-	-	-	-	-	-
+2018	532634	            12 Ruzicka Street	05/03/2018	15/05/2018	-	$375,000	405m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541908	            55 McCredie Street	07/09/2018	13/09/2018	-	$375,000	483m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533940	            11 McCardell Street	04/04/2018	30/05/2018	-	$375,000	455m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563515	32/18 Shugg Street	12/07/2018	27/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532034	0 0	18/05/2018	-	27/04/2017	$374,000	144m	Full transfer	3	1	-	-	1	$374,000	386	-	Allhomes Record	-	-	-	-	$255,000	0.68
+2018	563196	20/18 Shugg Street	03/08/2018	24/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	562586	31/18 Shugg Street	06/07/2018	13/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563383	30/18 Shugg Street	17/07/2018	24/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563167	27/18 Shugg Street	12/07/2018	20/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	564182	21/18 Shugg Street	10/07/2018	01/07/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	565554	22/18 Shugg Street	06/04/2018	22/07/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	564101	23/18 Shugg Street	01/08/2018	01/07/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	563261	24/18 Shugg Street	13/07/2018	26/06/2019	-	$374,000	5540m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538137	            27 Ruzicka Street	02/05/2018	22/07/2018	-	$374,000	419m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529572	            38 Grenfell Avenue	01/02/2018	03/04/2018	-	$371,000	495m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538950	            7 Butterworth Street	07/06/2018	31/07/2018	-	$370,000	450m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536009	            6 Morath Street	09/04/2018	19/06/2018	-	$368,000	450m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537499	            12 Mottram Street	30/05/2018	11/07/2018	-	$368,000	450m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537473	            25 Ruzicka Street	11/05/2018	15/07/2018	-	$368,000	434m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533912	            15 Nethercote Street	23/03/2018	31/05/2018	-	$366,000	474m	Full transfer	-	-	-	-	-	$366,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534291	            11 Nethercote Street	22/03/2018	06/06/2018	-	$366,000	450m	Full transfer	-	-	-	-	-	$366,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542939	            7 Buhrich Street	19/07/2018	25/09/2018	-	$365,500	420m	Full transfer	-	-	-	-	-	$365,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537817	            7 Buhrich Street	24/07/2018	-	21/06/2018	$365,500	419m	Full transfer	0	0	-	0	0	$365,500	33	-	Allhomes Record	-	-	-	-	-	-
+2018	548891	40 Robin Boyd Crescent	18/10/2018	16/01/2019	-	$365,000	461m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535110	            4 Ruzicka Street	10/04/2018	14/06/2018	-	$365,000	405m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543084		18/10/2018	-	27/06/2018	$365,000	461m	Full transfer	-	-	-	-	-	$365,000	113	-	Allhomes Record	-	-	-	-	-	-
+2018	547020	30 Grenfell Avenue	05/09/2018	23/11/2018	-	$365,000	437m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548201	6 Butterworth Street	03/10/2018	05/11/2018	-	$361,000	426m	Full transfer	-	-	-	-	-	$361,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532765	            14 Nethercote Street	19/02/2018	17/05/2018	-	$360,000	420m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535415	            9 Mees Street	11/05/2018	20/06/2018	-	$360,000	420m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	571958	9 Ussher Street	21/09/2018	08/10/2019	-	$360,000	420m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548872	36 Grenfell Avenue	01/11/2018	18/01/2019	-	$360,000	420m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536607	            22 Alison Burton Rise	04/05/2018	25/06/2018	-	$360,000	405m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551440	34 Grenfell Avenue	05/09/2018	13/11/2018	-	$360,000	420m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535010	            1 Nethercote Street	01/05/2018	13/06/2018	-	$358,000	497m	Full transfer	-	-	-	-	-	$358,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534039	            40 Robin Boyd Crescent	27/04/2018	31/05/2018	-	$356,000	461m	Full transfer	-	-	-	-	-	$356,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539614	            43 Robin Boyd Crescent	15/05/2018	09/08/2018	-	$355,000	450m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532782	            40 Ken Herde Crescent	10/01/2018	17/05/2018	-	$353,500	405m	Full transfer	-	-	-	-	-	$353,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535678	            45 Robin Boyd Crescent	29/03/2018	20/06/2018	-	$353,000	450m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550550	4 Butterworth Street	19/10/2018	07/01/2019	-	$350,000	426m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535064	            11 Mees Street	01/05/2018	12/06/2018	-	$350,000	420m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536387	            3 Buhrich Street	10/05/2018	27/06/2018	-	$350,000	420m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532789	            47 Robin Boyd Crescent	05/04/2018	17/05/2018	-	$350,000	405m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527896	            26 Alison Burton Rise	26/02/2018	-	21/08/2017	$347,000	315m	Full transfer	-	-	-	-	-	$347,000	189	-	Allhomes Record	-	-	-	-	-	-
+2018	535427	            42 Ken Herde Crescent	03/05/2018	20/06/2018	-	$345,000	405m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533326	            13 Nethercote Street	16/04/2018	22/05/2018	-	$344,000	426m	Full transfer	-	-	-	-	-	$344,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533487	            35 Briger Street	23/04/2018	22/05/2018	-	$335,000	375m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532287	            3 Mees Street	16/04/2018	10/05/2018	-	$332,500	420m	Full transfer	-	-	-	-	-	$332,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533948	            22 McCredie Street	12/04/2018	30/05/2018	-	$330,000	363m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534967	            13 Briger Street	03/05/2018	12/06/2018	-	$330,000	375m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533855	            55 Robin Boyd Crescent	01/05/2018	30/05/2018	-	$329,000	405m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533897	            60 Robin Boyd Crescent	19/04/2018	31/05/2018	-	$329,000	405m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535357	            50 Robin Boyd Crescent	04/07/2018	-	05/06/2018	$328,000	315m	Full transfer	-	-	-	-	-	$328,000	29	-	Allhomes Record	-	-	-	-	-	-
+2018	543711	            32 Robin Boyd Crescent	07/08/2018	08/10/2018	-	$324,000	405m	Full transfer	-	-	-	-	-	$324,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539014	            1 Ruzicka Street	01/06/2018	30/07/2018	-	$320,000	375m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533430	            6 Nethercote Street	10/04/2018	22/05/2018	-	$309,200	386m	Full transfer	-	-	-	-	-	$309,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538908	            11 Pumpurs Crescent	27/06/2018	02/08/2018	-	$290,000	353m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555772	20 Alison Burton Rise	28/11/2018	19/03/2019	-	$275,000	315m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551621	52 Robin Boyd Crescent	10/09/2018	14/11/2018	-	$275,000	315m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553028	10 Alison Burton Rise	23/10/2018	06/02/2019	-	$275,000	315m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554134	18 Alison Burton Rise	30/11/2018	27/02/2019	-	$275,000	315m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529738	            17 Pumpurs Crescent	19/01/2018	08/04/2018	-	$265,000	250m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534408	            13 Ruzicka Street	01/03/2018	05/06/2018	-	$256,000	250m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541186	            23 Briger Street	16/04/2018	06/09/2018	-	$255,000	250m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536282	            44 McCredie Street	10/04/2018	26/06/2018	-	$235,000	250m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533592	            48 McCredie Street	12/04/2018	22/05/2018	-	$235,000	250m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550061	20 McCredie Street	03/10/2018	12/12/2018	-	$230,000	250m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539166	            15 Ruzicka Street	17/05/2018	01/08/2018	-	$230,000	250m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533492	            40 McCredie Street	14/03/2018	21/05/2018	-	$225,000	250m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541804	            46 McCredie Street	11/07/2018	11/09/2018	-	$225,000	250m	Partial transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535380	            52 McCredie Street	05/03/2018	24/06/2018	-	$225,000	250m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538849	            50 McCredie Street	18/05/2018	02/08/2018	-	$225,000	250m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541167	            37 McCredie Street	04/07/2018	04/09/2018	-	$221,000	254m	Full transfer	-	-	-	-	-	$221,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538039	            18 McCredie Street	12/04/2018	18/07/2018	-	$221,000	250m	Full transfer	-	-	-	-	-	$221,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537584	            13 Pumpurs Crescent	21/05/2018	12/07/2018	-	$220,000	250m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547522	7 McCredie Street	11/09/2018	25/10/2018	-	$212,999	250m	Full transfer	-	-	-	-	-	$212,999	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535116	            16 Holford Street	13/04/2018	12/06/2018	-	$147,000	211m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538673	            14 Holford Street	22/06/2018	23/07/2018	-	$135,000	144m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	566274	            2/55 Sutherland Crescent	11/04/2018	01/08/2019	-	$0	2616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542705	            54 McCredie Street	13/07/2018	25/09/2018	-	$0	363m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547119	48 Robin Boyd Crescent	21/09/2018	23/11/2018	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540854	            8 Ruzicka Street	21/06/2018	29/08/2018	-	$0	420m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549933	10 Feilman Street	13/07/2018	29/10/2018	-	$0	494m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547349	4 Mees Street	11/10/2018	23/11/2018	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	566072	            8/55 Sutherland Crescent	11/04/2018	01/08/2019	-	$0	2616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549991	10 Morath Street	17/10/2018	10/12/2018	-	$0	512m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547622	22 Robin Boyd Crescent	26/09/2018	29/11/2018	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548132	29 Ruzicka Street	19/10/2018	14/01/2019	-	$0	499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577354	            0 Harry Seidler	12/12/2019	-	21/11/2019	$2,100,000	3464m	Full transfer	-	-	-	-	-	$2,100,000	21	-	Allhomes Record	-	-	-	-	-	-
+2019	563189	30 Grassick Street	18/04/2019	28/06/2019	-	$950,000	483m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573730	7 Morath Street	25/09/2019	07/11/2019	02/09/2019	$905,000	517m	Full transfer	4	3	-	2	0	$905,000	23	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	577485	34 Ken Herde Crescent	17/01/2019	-	10/09/2019	$900,000	499m	Full transfer	4	2	1	2	-	$900,000	-	-	Allhomes Record	-	-	-	-	-	-
+2019	560999	1 Holford Street	18/01/2019	18/02/2019	07/11/2018	$895,000	485m	Full transfer	5	1	3	2	-	$895,000	72	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	570002	55 Robin Boyd Crescent	13/08/2019	18/09/2019	10/07/2019	$885,000	405m	Full transfer	5	4	-	0	2	$885,000	34	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	577342	            0 Robin Boyd Crescent	11/12/2019	-	21/11/2019	$880,000	2202m	Full transfer	-	-	-	-	-	$880,000	20	-	Allhomes Record	-	-	-	-	-	-
+2019	559762	8 Ken Herde Crescent	30/04/2019	21/05/2019	-	$870,000	523m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575650	24 Grassick Street	10/10/2019	05/12/2019	13/09/2018	$835,000	547m	Full transfer	4	3	-	2	0	$835,000	392	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	557683	13 Robin Boyd Crescent	13/03/2019	17/04/2019	-	$825,000	450m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573365	6 Butterworth Street	21/11/2019	-	16/10/2019	$825,000	426m	Full transfer	4	3	-	2	-	$825,000	36	-	Allhomes Record	192	-	-	-	-	-
+2019	564013	13 Ussher Street	04/06/2019	02/07/2019	13/02/2019	$820,000	483m	Full transfer	4	1	1	2	-	$820,000	111	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	574020	13 Robin Boyd Crescent	03/12/2019	-	20/06/2019	$820,000	0m	Full transfer	4	3	-	2	0	$820,000	166	-	Allhomes Record	-	-	-	-	-	-
+2019	561472	32 Grassick Street	25/02/2019	04/04/2019	24/07/2018	$810,000	492m	Full transfer	4	2	-	2	0	$810,000	216	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	577341	            0 McGlashan Street	11/12/2019	-	21/11/2019	$800,000	2401m	Full transfer	-	-	-	-	-	$800,000	20	-	Allhomes Record	-	-	-	-	-	-
+2019	555842	38 Robin Boyd Crescent	28/02/2019	22/03/2019	18/04/2018	$792,500	450m	Full transfer	4	2	-	0	2	$792,500	316	-	Combined Record	186	-	-	Single residential dwelling	-	-
+2019	573747	24 Alison Burton Rise	10/09/2019	07/11/2019	16/01/2019	$760,000	450m	Full transfer	4	2	-	2	0	$760,000	237	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	573932	10 McCredie Street	29/11/2019	-	15/05/2018	$755,000	452m	Full transfer	4	3	-	2	-	$755,000	563	-	Allhomes Record	-	-	-	-	-	-
+2019	575416	12 Robin Boyd Crescent	10/10/2019	27/11/2019	05/09/2019	$745,000	405m	Full transfer	4	2	-	2	0	$745,000	35	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	566330	60 Robin Boyd Crescent	03/07/2019	01/08/2019	20/02/2019	$732,000	405m	Full transfer	5	1	1	2	-	$732,000	133	-	Combined Record	189	-	-	Single residential dwelling	-	-
+2019	559310	25 Marjorie Matthews Street	12/04/2019	13/05/2019	07/11/2018	$730,000	405m	Full transfer	4	2	-	2	0	$730,000	156	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	572554	            4 Morath Street	12/09/2019	22/10/2019	-	$720,000	450m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577343	            0 Whitman Crescent	11/12/2019	-	21/11/2019	$720,000	2578m	Full transfer	-	-	-	-	-	$720,000	20	-	Allhomes Record	-	-	-	-	-	-
+2019	555935	23 Ruzicka Street	30/01/2019	19/03/2019	-	$711,500	418m	Full transfer	-	-	-	-	-	$711,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575359	22 McCredie Street	18/10/2019	26/11/2019	07/03/2019	$706,000	363m	Full transfer	4	2	-	2	-	$706,000	225	-	Combined Record	199	-	-	Single residential dwelling	-	-
+2019	572189	12 Feilman Street	22/08/2019	18/10/2019	18/09/2018	$701,000	461m	Full transfer	4	2	-	0	2	$701,000	338	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	571912	10 McCardell Street	25/03/2019	11/10/2019	-	$700,000	436m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554836		21/03/2019	-	12/04/2017	$660,000	437m	Full transfer	4	1	1	2	-	$660,000	708	-	Allhomes Record	-	-	-	-	-	-
+2019	569373	23 Briger Street	31/07/2019	10/09/2019	24/05/2019	$605,000	250m	Full transfer	3	2	-	2	-	$605,000	68	-	Combined Record	126	-	-	Single residential dwelling	-	-
+2019	566379	18 Shugg Street	06/08/2019	-	18/06/2018	$589,900	5540m	Full transfer	3	2	-	3	-	$589,900	414	-	Allhomes Record	-	-	-	-	-	-
+2019	569278	14/18 Shugg Street	06/08/2019	11/09/2019	-	$589,000	5540m	Full transfer	-	-	-	-	-	$589,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562115	42 McCredie Street	10/05/2019	03/06/2019	09/04/2019	$585,000	250m	Full transfer	3	2	-	2	-	$585,000	31	-	Combined Record	125	-	-	Single residential dwelling	-	-
+2019	569090	15/18 Shugg Street	05/08/2019	11/09/2019	-	$572,500	5540m	Full transfer	-	-	-	-	-	$572,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556994	15 Ruzicka Street	11/04/2019	-	24/01/2019	$565,000	250m	Full transfer	3	1	1	2	-	$565,000	77	-	Allhomes Record	129	-	-	-	-	-
+2019	557765	15 Ruzicka Street	18/02/2019	18/04/2019	-	$565,000	250m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565342	            0 Briger Street	04/08/2019	-	15/02/2019	$550,000	250m	Full transfer	3	2	-	2	-	$550,000	170	-	Allhomes Record	170	-	-	-	$230,000	0.42
+2019	564420	18 Shugg Street	26/07/2019	-	18/06/2018	$520,000	5540m	Full transfer	3	2	-	2	-	$520,000	403	-	Allhomes Record	-	-	-	-	-	-
+2019	568327	1/18 Shugg Street	12/07/2019	27/08/2019	-	$520,000	5540m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567156	18/18 Shugg Street	19/07/2019	13/08/2019	-	$500,000	5540m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569584	18 Shugg Street	16/09/2019	-	18/07/2019	$499,900	5540m	Full transfer	3	2	-	2	-	$499,900	60	-	Allhomes Record	-	-	-	-	-	-
+2019	569583	18 Shugg Street	27/09/2019	-	18/07/2019	$499,900	5540m	Full transfer	3	2	-	2	-	$499,900	71	-	Allhomes Record	-	-	-	-	-	-
+2019	574432	6/18 Shugg Street	27/09/2019	11/11/2019	-	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572884	12/18 Shugg Street	16/09/2019	25/10/2019	05/06/2019	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	103	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	576529	17/18 Shugg Street	08/10/2019	09/12/2019	-	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563493	4/18 Shugg Street	15/05/2019	26/06/2019	-	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563155	9/18 Shugg Street	06/02/2019	18/06/2019	-	$499,900	5540m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570137	18 Shugg Street	08/10/2019	-	06/06/2019	$499,900	5540m	Full transfer	3	2	-	2	-	$499,900	124	-	Allhomes Record	-	-	-	-	-	-
+2019	567894	8/18 Shugg Street	15/07/2019	22/08/2019	-	$480,000	5540m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570966	3/18 Shugg Street	12/08/2019	01/10/2019	-	$479,900	5540m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572501		14/11/2019	-	04/07/2019	$470,000	-	Full transfer	-	-	-	-	-	$470,000	133	-	Allhomes Record	-	-	-	-	-	-
+2019	557245	19 Bischoff Street	18/02/2019	11/04/2019	-	$455,000	545m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574732	9 Robin Boyd Crescent	30/09/2019	22/11/2019	02/05/2019	$416,500	556m	Full transfer	-	-	-	-	-	$416,500	151	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	572558	6 Grassick Street	11/09/2019	22/10/2019	-	$410,000	507m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563343	9 McCardell Street	15/04/2019	28/06/2019	01/02/2019	$400,000	479m	Full transfer	-	-	-	-	-	$400,000	73	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	564933	6 Holgar Crescent	17/06/2019	11/07/2019	-	$395,000	459m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571889	17 Nethercote Street	21/08/2019	11/10/2019	-	$391,000	489m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562269	5 Butterworth Street	12/04/2019	06/06/2019	-	$385,000	450m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564177	3 Ingpen Street	20/05/2019	01/07/2019	-	$380,000	450m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565781	4 Holgar Crescent	19/06/2019	22/07/2019	-	$380,000	450m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565773	21 Judith Macintosh Crescent	22/05/2019	22/07/2019	-	$375,000	408m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565440	19 Judith Macintosh Crescent	25/06/2019	22/07/2019	-	$375,000	445m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554424	13 Mees Street	08/01/2019	04/03/2019	-	$375,000	420m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564228	29/18 Shugg Street	17/05/2019	01/07/2019	-	$373,380	5540m	Full transfer	-	-	-	-	-	$373,380	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576251	5 Ingpen Street	13/12/2019	-	13/06/2018	$372,500	437m	Full transfer	-	-	-	-	-	$372,500	548	-	Allhomes Record	-	-	-	-	-	-
+2019	558887	6 Mees Street	21/03/2019	10/05/2019	-	$360,000	438m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558997	5 Mees Street	22/05/2019	-	29/11/2018	$355,000	420m	Full transfer	0	0	-	0	0	$355,000	174	-	Allhomes Record	-	-	-	-	-	-
+2019	571698	3 Butterworth Street	25/09/2019	-	10/04/2019	$351,500	0m	Full transfer	0	0	-	0	0	$351,500	168	-	Allhomes Record	-	-	-	-	-	-
+2019	568101	31 Perrott Street	18/07/2019	26/08/2019	-	$335,000	345m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575039		10/12/2019	-	16/10/2019	$315,000	-	Full transfer	-	-	-	-	-	$315,000	55	-	Allhomes Record	-	-	-	-	-	-
+2019	575655	21 Perrott Street	12/09/2019	07/12/2019	-	$305,000	315m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568110	46 Robin Boyd Crescent	11/06/2019	26/08/2019	-	$302,000	315m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564019	17 Thelander Street	09/06/2019	01/07/2019	-	$300,000	315m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	546428	            29 0	24/01/2019	-	07/07/2017	$300,000	320m	Full transfer	-	-	-	-	-	$300,000	566	-	Allhomes Record	-	-	-	-	$255,000	0.85
+2019	566139	19 Thelander Street	19/06/2019	29/07/2019	-	$298,600	315m	Full transfer	-	-	-	-	-	$298,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556184	29 Woodward Loop	05/02/2019	25/03/2019	-	$295,000	321m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568633		09/09/2019	-	04/07/2019	$295,000	-	Full transfer	-	-	-	-	-	$295,000	67	-	Allhomes Record	-	-	-	-	-	-
+2019	572221	7 Ruzicka Street	30/07/2019	17/10/2019	-	$245,000	250m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577099	19 Briger Street	17/10/2019	18/12/2019	-	$225,000	250m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556671	21 Ruzicka Street	21/02/2019	04/04/2019	-	$220,000	250m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564618	9 Ruzicka Street	01/04/2019	18/07/2019	-	$220,000	250m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572817	18 Morath Street	01/08/2019	23/10/2019	09/05/2019	$30,000	315m	Full transfer	4	2	-	2	-	$30,000	84	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	565368	            9 Butterworth	05/08/2019	-	09/07/2018	$1	450m	Full transfer	4	1	1	2	-	$1	392	-	Allhomes Record	225	-	-	-	-	-
+2019	565366	41 McCredie Street	05/08/2019	-	28/03/2018	$1	-	Full transfer	-	-	-	-	-	$1	495	-	Allhomes Record	-	-	-	-	-	-
+2019	558752	2 Feilman Street	04/03/2019	09/05/2019	-	$0	479m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570551	9 Holford Street	29/07/2019	25/09/2019	02/04/2019	$0	368m	Full transfer	4	2	-	2	-	$0	118	-	Combined Record	-	-	-	Single residential dwelling	-	-
