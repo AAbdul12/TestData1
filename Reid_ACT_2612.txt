@@ -1,0 +1,665 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	121572	25 Geerilong Gardens	21/12/2006	29/08/2007	12/10/2006	$1,105,000	1321m	Full transfer	3	2	-	1	1	$1,105,000	70	-	Combined Record	-	-	-	Single residential dwelling	$818,000	0.74
+2006	225849	12 Allambee Street	23/06/2006	21/07/2006	02/06/2006	$1,100,000	1071m	Full transfer	4	2	-	2	-	$1,100,000	21	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.51
+2006	165295	56 Euree Street	03/10/2006	16/02/2007	13/09/2006	$1,080,000	1247m	Full transfer	4	2	-	1	-	$1,080,000	20	-	Combined Record	-	-	-	Single residential dwelling	$644,000	0.6
+2006	33179	41 Anzac Park	09/05/2006	07/12/2006	09/03/2006	$1,030,000	1242m	Full transfer	4	1	1	1	1	$1,030,000	61	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.6
+2006	168915	48 Coranderrk Street	22/12/2006	22/03/2007	31/08/2006	$903,000	1082m	Full transfer	3	1	-	1	-	$903,000	113	-	Combined Record	-	-	-	Single residential dwelling...	$619,000	0.69
+2006	34609	19 Limestone Avenue	19/08/2006	28/09/2006	27/07/2006	$727,500	994m	Full transfer	3	2	-	1	-	$727,500	23	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.67
+2006	33971	33 Booroondara Street	23/09/2006	19/12/2006	24/08/2006	$725,000	976m	Full transfer	2	1	-	-	-	$725,000	30	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.79
+2006	35657	3 Booroondara Street	15/07/2006	09/01/2007	16/06/2006	$583,000	697m	Full transfer	3	1	-	1	2	$583,000	29	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.8
+2006	119717	136/14 Boolee Street	15/09/2006	01/11/2006	-	$385,000	10482m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169113	11/1 Kogarah Lane	21/12/2006	06/02/2007	-	$376,775	5475m	Full transfer	-	-	-	-	-	$376,775	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225891	16/1 Kogarah Lane	01/05/2006	20/06/2006	-	$365,000	5475m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	9406	            24/11 Doonkuna Street	30/06/2006	20/08/2006	-	$342,500	5277m	Full transfer	-	-	-	-	-	$342,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	408647	4/14 Boolee Street	05/12/2006	05/01/2007	14/11/2006	$338,000	10482m	Full transfer	2	2	-	-	1	$338,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	408650	29/14 Boolee Street	16/10/2006	11/01/2007	25/07/2006	$335,000	10482m	Full transfer	2	1	1	2	-	$335,000	83	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	408646	68/14 Boolee Street	15/11/2006	05/01/2007	26/10/2006	$335,000	10482m	Full transfer	2	1	1	1	-	$335,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	119682	40/14 Boolee Street	03/08/2006	30/10/2006	-	$325,000	10482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	16914	            13/9 Kogarah Lane	20/01/2006	02/03/2006	-	$320,000	594m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	21478	            92/35 Currong Street	20/01/2006	-	07/11/2005	$320,000	-	Full transfer	2	1	-	1	-	$320,000	74	-	Allhomes Record	-	-	-	-	-	-
+2006	34611	3/33 Currong Street	17/08/2006	26/09/2006	-	$317,500	2497m	Full transfer	-	-	-	-	-	$317,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	35668	            9/33 Currong Street South	17/11/2006	11/01/2007	-	$317,000	2497m	Full transfer	-	-	-	-	-	$317,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169020	            5/33 Currong Street South	22/12/2006	07/02/2007	-	$314,000	2497m	Full transfer	-	-	-	-	-	$314,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37454	10/35 Currong Street	24/08/2006	22/09/2006	-	$310,000	1527m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	84152	110/35 Currong Street	24/08/2006	-	06/07/2006	$310,000	-	Full transfer	2	1	-	1	-	$310,000	49	-	Allhomes Record	-	-	-	-	-	-
+2006	225840	6/14 Boolee Street	16/03/2006	05/04/2006	-	$305,000	10482m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225876	11/35 Currong Street	02/06/2006	21/07/2006	-	$302,000	1527m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	35852	            2/35 Currong Street South	21/11/2006	11/01/2007	-	$301,500	1527m	Full transfer	-	-	-	-	-	$301,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	408654	13/14 Boolee Street	13/11/2006	16/02/2007	20/10/2006	$280,000	10482m	Full transfer	1	1	-	1	-	$280,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	169619	82/14 Boolee Street	12/09/2006	14/11/2006	-	$275,000	10482m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34006	47/14 Boolee Street	03/11/2006	20/12/2006	-	$269,000	10482m	Full transfer	-	-	-	-	-	$269,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203506	19/14 Boolee Street	06/07/2006	11/09/2006	-	$255,000	10482m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203743	22/14 Boolee Street	07/07/2006	29/08/2006	-	$250,000	10482m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	81764	22/14 Boolee Street	29/06/2006	-	26/05/2006	$250,000	10482m	Full transfer	1	1	-	-	1	$250,000	34	-	Allhomes Record	-	-	-	-	-	-
+2006	229561	115/14 Boolee Street	01/09/2006	25/10/2006	-	$249,000	10482m	Full transfer	-	-	-	-	-	$249,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	164284	133/14 Boolee Street	16/07/2006	16/08/2006	-	$245,000	10482m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225843	79/14 Boolee Street	10/02/2006	13/02/2006	-	$230,000	10482m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	408657	1 Booroondara Street	16/03/2006	26/10/2007	-	$0	636m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32399	11 Gooreen Street	11/11/2006	26/03/2007	-	$0	1476m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232798	50 Amaroo Street	20/02/2006	21/11/2007	-	$0	1036m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	10501	            2/71 Euree Street	26/07/2006	15/11/2006	-	-	1316m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34610	12 Booroondara Street	20/05/2006	25/09/2006	-	-	665m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168355	33 Booroondara Street	16/05/2006	10/08/2006	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	230529	4 Dirrawan Gardens	13/03/2006	15/08/2008	-	-	1361m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36783	82/14 Boolee Street	30/06/2006	04/09/2006	-	-	10482m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169620	1/71 Euree Street	26/07/2006	15/11/2006	-	-	1316m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	21522	             Kogarah Lane	01/05/2006	-	23/11/2005	-	-	Full transfer	3	1	1	1	-	-	159	-	Allhomes Record	-	-	-	-	-	-
+2006	225844	80/14 Boolee Street	11/05/2006	20/07/2006	-	-	10482m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225838	39/14 Boolee Street	22/05/2006	30/06/2006	-	-	10482m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225874	24 Geerilong Gardens	03/03/2006	18/04/2006	-	-	1372m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119770	3 Geerilong Gardens	03/03/2007	02/04/2007	02/02/2007	$1,760,000	1344m	Full transfer	5	1	1	2	-	$1,760,000	29	-	Combined Record	-	-	-	Single residential dwelling	$818,000	0.46
+2007	166065	5 Elimatta Street	28/04/2007	06/08/2007	29/03/2007	$1,535,000	1390m	Full transfer	4	1	1	4	-	$1,535,000	30	-	Combined Record	-	-	-	Single residential dwelling	$755,000	0.49
+2007	121092	23 Elimatta Street	23/06/2007	10/09/2007	25/05/2007	$1,100,000	881m	Full transfer	4	1	1	-	1	$1,100,000	29	-	Combined Record	-	-	-	Single residential dwelling	$680,000	0.62
+2007	121416	3 Doonkuna Street	05/03/2007	01/05/2007	11/01/2007	$1,100,000	1486m	Full transfer	5	2	1	-	2	$1,100,000	53	-	Combined Record	-	-	-	Single residential dwelling	$685,000	0.62
+2007	36870	11 Dirrawan Gardens	07/03/2007	18/07/2007	28/10/2006	$1,100,000	1077m	Full transfer	3	1	1	1	-	$1,100,000	130	-	Combined Record	-	-	-	Single residential dwelling	$741,000	0.67
+2007	36250	11 Gooreen Street	03/04/2007	06/07/2007	08/03/2007	$1,050,000	1476m	Full transfer	4	1	1	2	2	$1,050,000	26	-	Combined Record	-	-	-	Single residential dwelling	$756,000	0.72
+2007	120359	28 Dirrawan Gardens	06/02/2007	15/05/2007	02/11/2006	$975,000	1073m	Full transfer	4	2	-	-	1	$975,000	96	-	Combined Record	-	-	-	Single residential dwelling	$741,000	0.76
+2007	166135	35 Anzac Park	12/05/2007	24/07/2007	12/04/2007	$960,000	1045m	Full transfer	3	2	-	1	-	$960,000	30	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.74
+2007	202727	9 Gooreen Street	17/07/2007	09/10/2007	17/05/2007	$960,000	1208m	Full transfer	-	-	-	-	-	$960,000	61	-	Combined Record	-	-	-	Single residential dwelling	$741,000	0.77
+2007	166894	61 Coranderrk Street	19/06/2007	07/08/2007	19/01/2007	$955,000	1108m	Full transfer	4	1	1	-	2	$955,000	151	-	Combined Record	-	-	-	Single residential dwelling	$654,000	0.68
+2007	37024	31 Booroondara Street	18/04/2007	20/07/2007	28/03/2007	$880,000	1073m	Full transfer	2	1	1	-	1	$880,000	21	-	Combined Record	-	-	-	Single residential dwelling	$655,000	0.74
+2007	32805	26 Elimatta Street	24/01/2007	29/03/2007	02/11/2006	$857,500	1023m	Full transfer	3	1	-	1	-	$857,500	83	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.83
+2007	167771	55 Coranderrk Street	11/07/2007	03/10/2007	-	$855,000	1108m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121494	48 Amaroo Street	26/06/2007	29/08/2007	15/03/2007	$850,000	984m	Full transfer	4	1	1	1	-	$850,000	103	-	Combined Record	-	-	-	Single residential dwelling	$615,000	0.72
+2007	168641	25 Elimatta Street	19/01/2007	09/03/2007	20/10/2006	$830,000	1390m	Full transfer	3	1	-	1	-	$830,000	91	-	Combined Record	-	-	-	Single residential dwelling	$755,000	0.91
+2007	203236	19/1 Allambee Street	26/03/2007	31/05/2007	-	$760,000	4649m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35577	12 Booroondara Street	16/05/2007	19/06/2007	-	$675,000	665m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233109	1/11 Doonkuna Street	16/10/2007	05/12/2007	-	$640,000	5277m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235937	6/11 Doonkuna Street	28/09/2007	21/11/2007	-	$635,000	5277m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	234647	23/1 Kogarah Lane	06/09/2007	19/11/2007	-	$539,000	5475m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232095	22/33 Currong Street	21/12/2007	22/02/2008	25/10/2002	$520,000	2497m	Full transfer	2	1	-	1	-	$520,000	1883	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	99743	71/1 Allambee Street	12/04/2007	-	15/03/2007	$421,000	-	Full transfer	3	1	1	1	-	$421,000	28	-	Allhomes Record	-	-	-	-	-	-
+2007	36412	12/1 Kogarah Lane	11/04/2007	03/07/2007	-	$421,000	5475m	Full transfer	-	-	-	-	-	$421,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233108	8/1 Allambee Street	12/07/2007	05/12/2007	-	$417,000	4649m	Full transfer	-	-	-	-	-	$417,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	104200	50/1 Allambee Street	14/07/2007	-	04/06/2007	$417,000	-	Full transfer	3	1	1	1	-	$417,000	40	-	Allhomes Record	-	-	-	-	-	-
+2007	234456	16/1 Kogarah Lane	11/10/2007	14/01/2008	-	$400,000	5475m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121870	2/14 Boolee Street	14/08/2007	26/09/2007	-	$372,000	10482m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408656	108/14 Boolee Street	19/10/2007	18/12/2007	21/09/2007	$369,950	10482m	Full transfer	2	1	1	1	-	$369,950	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	408648	39/14 Boolee Street	04/10/2007	30/10/2007	-	$369,000	10482m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408655	110/14 Boolee Street	04/10/2007	15/11/2007	29/08/2007	$360,000	10482m	Full transfer	2	1	1	-	1	$360,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	169184	            13/35 Currong Street South	19/01/2007	23/02/2007	-	$315,000	1527m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	25457	128/14 Boolee Street	30/11/2007	-	15/11/2007	$315,000	10482m	Full transfer	1	1	-	1	-	$315,000	15	-	Allhomes Record	-	-	-	-	-	-
+2007	235944	126/14 Boolee Street	18/10/2007	27/11/2007	-	$315,000	10482m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	234343	89/14 Boolee Street	26/10/2007	10/12/2007	-	$309,950	10482m	Full transfer	-	-	-	-	-	$309,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	21981	            89/14 Currong Street	26/10/2007	-	25/09/2007	$309,950	10482m	Full transfer	1	1	-	-	1	$309,950	31	-	Allhomes Record	-	-	-	-	-	-
+2007	235020	14/14 Boolee Street	29/11/2007	08/02/2008	-	$305,000	10482m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166712	125/14 Boolee Street	26/05/2007	27/07/2007	-	$304,500	10482m	Full transfer	-	-	-	-	-	$304,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408651	21/14 Boolee Street	09/10/2007	28/11/2007	14/09/2007	$300,000	10482m	Full transfer	1	1	-	1	-	$300,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	$6,469,000	21.56
+2007	234363	23/14 Boolee Street	09/11/2007	11/12/2007	-	$300,000	10482m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35406	            10/33 Currong Street South	26/04/2007	22/06/2007	-	$295,000	2497m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167381	84/14 Boolee Street	21/02/2007	10/05/2007	-	$290,000	10482m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168793	127/14 Boolee Street	29/01/2007	20/03/2007	-	$285,000	10482m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	97098	13/14 Boolee Street	01/01/2007	-	06/02/2007	$280,000	10482m	Full transfer	1	1	-	1	-	$280,000	-	-	Allhomes Record	-	-	-	-	-	-
+2007	36275	12/14 Boolee Street	09/05/2007	05/07/2007	-	$277,000	10482m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408653	132/14 Boolee Street	26/03/2007	15/05/2007	23/02/2007	$275,000	10482m	Full transfer	1	1	-	-	1	$275,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	120843	117/14 Boolee Street	30/03/2007	17/05/2007	-	$275,000	10482m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408652	137/14 Boolee Street	13/02/2007	26/03/2007	15/05/2005	$270,000	10482m	Full transfer	1	1	-	1	-	$270,000	639	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	167553	93/14 Boolee Street	24/07/2007	06/09/2007	-	$268,000	10482m	Full transfer	-	-	-	-	-	$268,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168911	60/14 Boolee Street	05/02/2007	21/03/2007	-	$255,000	10482m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408649	35/14 Boolee Street	03/01/2007	20/02/2007	23/08/2006	$253,000	10482m	Full transfer	1	1	-	1	-	$253,000	133	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	33665	3 Dirrawan Gardens	03/04/2007	24/05/2007	-	$0	1361m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	203191	64/14 Boolee Street	24/04/2007	01/06/2007	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167257	            10/33 Currong Street South	28/01/2007	11/04/2007	-	$0	2497m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408645	3 Geerilong Gardens	11/10/2007	31/10/2007	-	$0	1344m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164977	55 Coranderrk Street	07/06/2007	29/06/2007	-	$0	1108m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166392	72 Coranderrk Street	01/08/2007	21/08/2007	-	$0	1327m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	122043	17 Geerilong Gardens	31/07/2007	24/09/2007	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	239122	136/14 Boolee Street	25/11/2007	17/11/2008	-	-	10482m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232083	18 Amaroo Street	17/12/2007	04/01/2008	-	-	696m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232448	34 Coranderrk Street	06/03/2007	14/01/2008	-	-	1045m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232681	1/35 Currong Street	12/10/2007	13/06/2008	-	-	1527m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232439	5/1 Kogarah Lane	15/11/2007	25/06/2008	-	-	5475m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	243093	35 Euree Street	18/11/2008	11/03/2009	-	$1,290,000	1045m	Full transfer	-	-	-	-	-	$1,290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237360	55 Anzac Park	05/07/2008	20/08/2008	02/05/2008	$1,222,000	1247m	Full transfer	4	2	-	2	-	$1,222,000	64	-	Combined Record	-	-	-	Single residential dwelling	$741,000	0.61
+2008	240710	14 Gooreen Street	19/09/2008	02/12/2008	01/05/2008	$1,150,000	920m	Full transfer	4	2	1	2	-	$1,150,000	141	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.55
+2008	30	            NULL	01/03/2008	-	04/03/2008	$1,062,000	-	Full transfer	3	2	0	-	0	$1,062,000	-	-	Allhomes Record	-	-	-	-	-	-
+2008	131236	35 Anzac Park	01/03/2008	09/04/2008	31/03/2008	$1,062,000	1045m	Full transfer	3	2	0	-	0	$1,062,000	-	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.67
+2008	236708	62 Coranderrk Street	24/01/2008	06/05/2008	29/10/2007	$1,035,000	1028m	Full transfer	4	1	1	3	-	$1,035,000	87	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.69
+2008	237361	49 Anzac Park	20/05/2008	22/08/2008	05/05/2008	$990,000	1045m	Full transfer	3	3	-	-	2	$990,000	15	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.72
+2008	233502	29 Booroondara Street	08/02/2008	28/04/2008	20/11/2007	$815,000	678m	Full transfer	4	1	1	1	-	$815,000	80	-	Combined Record	-	-	-	Single residential dwelling	$534,000	0.66
+2008	233274	34 Coranderrk Street	14/03/2008	29/04/2008	-	$800,000	1045m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239323	3 Booroondara Street	20/08/2008	11/11/2008	26/06/2008	$705,000	697m	Full transfer	3	1	0	2	2	$705,000	55	-	Combined Record	-	-	-	Single residential dwelling	$534,000	0.76
+2008	234738	24 Geerilong Gardens	25/06/2008	19/09/2008	-	$675,000	1372m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240414	1/27 Elimatta Street	29/08/2008	01/12/2008	21/06/2008	$630,000	1115m	Full transfer	3	1	0	-	1	$630,000	69	-	Combined Record	-	-	-	Multiple unit dwelling	$857,000	1.36
+2008	110549	28/3 Allambee Street	05/04/2008	-	20/12/2007	$438,000	5277m	Full transfer	2	1	1	1	-	$438,000	107	-	Allhomes Record	-	-	-	-	$3,881,000	8.86
+2008	18436	            28/11 Doonkuna Street	05/04/2008	13/05/2008	-	$438,000	5277m	Full transfer	-	-	-	-	-	$438,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	23051	            62/2 Allambee Street	08/05/2008	-	16/01/2008	$419,000	5475m	Full transfer	3	1	1	1	-	$419,000	113	-	Allhomes Record	-	-	-	-	-	-
+2008	233715	3/1 Kogarah Lane	02/05/2008	01/07/2008	-	$419,000	5475m	Full transfer	-	-	-	-	-	$419,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	376799	5/14 Boolee Street	07/02/2008	31/07/2012	-	$415,000	10482m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22953	            109/14 Boolee Street - The Monterey	03/10/2008	-	21/08/2008	$395,000	10482m	Full transfer	2	1	1	-	2	$395,000	43	-	Allhomes Record	-	-	-	-	-	-
+2008	239121	109/14 Boolee Street	03/10/2008	20/11/2008	-	$395,000	10482m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	119242	6/14 Boolee Street	10/12/2008	-	13/10/2008	$389,000	10482m	Full transfer	2	1	1	-	1	$389,000	58	-	Allhomes Record	-	-	-	-	-	-
+2008	243198	6/14 Boolee Street	18/11/2008	20/03/2009	-	$389,000	10482m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237282	107/14 Boolee Street	21/07/2008	27/08/2008	-	$385,000	10482m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	23927	108/35 Currong Street	16/05/2008	-	27/03/2008	$375,000	1526m	Full transfer	2	1	-	1	-	$375,000	50	-	Allhomes Record	-	-	-	-	$1,812,000	4.83
+2008	230146	14/35 Currong Street	16/05/2008	21/07/2008	-	$375,000	1527m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231299	3/37 Kogarah Lane	10/04/2008	15/05/2008	-	$368,000	594m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236673	9/14 Boolee Street	26/03/2008	06/06/2008	29/11/2007	$365,000	10482m	Full transfer	2	1	1	2	-	$365,000	118	-	Combined Record	-	-	-	Multiple unit dwelling	$8,361,000	22.91
+2008	111410	9/14 Boolee Street	25/03/2008	-	25/01/2008	$365,000	10482m	Full transfer	2	1	1	-	2	$365,000	60	-	Allhomes Record	-	-	-	-	$5,674,000	15.55
+2008	230413	96/14 Boolee Street	02/07/2008	14/08/2008	-	$350,000	10482m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240817	78/14 Boolee Street	06/11/2008	17/12/2008	-	$305,000	10482m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	19195	            17/11 Doonkuna Street	24/12/2008	03/03/2009	-	-	5277m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237283	12/33 Currong Street	20/03/2008	25/08/2008	-	-	2497m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18960	            17/11 Doonkuna Street	23/09/2008	02/12/2008	-	-	5277m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18586	            8/11 Doonkuna Street	28/09/2008	08/12/2008	-	-	5277m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242221	45 Booroondara Street	31/01/2008	28/01/2009	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230530	4 Dirrawan Gardens	24/06/2008	15/08/2008	-	-	1361m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237471	20 Dirrawan Gardens	14/10/2008	08/12/2008	-	-	1045m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244639	32 Euree Street	28/03/2009	02/07/2009	04/03/2009	$1,450,000	1045m	Full transfer	4	2	1	1	-	$1,450,000	24	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.49
+2009	246210	43 Anzac Park	09/07/2009	26/08/2009	24/06/2009	$1,267,000	1077m	Full transfer	4	1	1	2	-	$1,267,000	15	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.56
+2009	258575	9 Booroondara Street	28/11/2009	29/04/2010	03/11/2009	$1,220,000	696m	Full transfer	3	2	-	1	-	$1,220,000	25	-	Combined Record	-	-	-	Single residential dwelling	$534,000	0.44
+2009	246413	5 Doonkuna Street	18/07/2009	02/09/2009	22/04/2009	$1,175,000	1171m	Full transfer	4	1	1	1	1	$1,175,000	87	-	Combined Record	-	-	-	Single residential dwelling...	$712,000	0.61
+2009	249303	45 Euree Street	08/05/2009	29/09/2009	18/11/2008	$1,050,000	1045m	Full transfer	4	2	-	1	-	$1,050,000	171	-	Combined Record	-	-	-	Single residential dwelling	$712,000	0.68
+2009	119779	30 Euree Street	23/01/2009	-	22/10/2008	$890,000	1443m	Full transfer	3	1	1	1	-	$890,000	93	-	Allhomes Record	-	-	-	-	$756,000	0.85
+2009	123063	22 Allambee Street	28/02/2009	-	04/02/2009	$840,000	1108m	Full transfer	5	2	-	0	2	$840,000	24	-	Allhomes Record	-	-	-	-	$654,000	0.78
+2009	243654	22A Allambee Street	28/02/2009	03/04/2009	-	$840,000	1108m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	140864	33/1 Allambee Street	04/09/2009	-	29/07/2009	$805,000	4649m	Full transfer	4	1	1	1	0	$805,000	37	-	Allhomes Record	-	-	-	-	$3,499,000	4.35
+2009	247757	16/1 Allambee Street	04/09/2009	13/10/2009	-	$805,000	4649m	Full transfer	-	-	-	-	-	$805,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248034	            1/74 Coranderrk Street	16/07/2009	22/09/2009	-	$750,000	1264m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248404	21/1 Kogarah Lane	04/09/2009	17/12/2009	-	$683,000	5475m	Full transfer	-	-	-	-	-	$683,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	140085	53/1 Kogarah Lane	04/09/2009	-	25/05/2009	$683,000	5475m	Full transfer	4	1	1	1	0	$683,000	102	-	Allhomes Record	-	-	-	-	$4,409,000	6.46
+2009	263088	4 Amaroo Street	27/10/2009	14/01/2010	12/05/2009	$669,000	697m	Full transfer	2	1	-	1	-	$669,000	168	-	Combined Record	-	-	-	Single residential dwelling...	$520,000	0.78
+2009	243494	22 Booroondara Street	06/02/2009	23/03/2009	08/10/2008	$660,000	669m	Full transfer	3	1	-	1	-	$660,000	121	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.84
+2009	19063	            8/11 Doonkuna Street	24/03/2009	07/05/2009	-	$625,000	5277m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	124241	8/3 Allambee Street	24/03/2009	-	05/03/2009	$625,000	5277m	Full transfer	3	1	1	1	-	$625,000	19	-	Allhomes Record	-	-	-	-	-	-
+2009	249025	            26/11 Doonkuna Street	04/06/2009	17/11/2009	-	$592,500	5277m	Full transfer	-	-	-	-	-	$592,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	140921	26/3 Allambee Street	04/06/2009	-	29/04/2009	$592,500	5277m	Full transfer	2	1	1	1	0	$592,500	36	-	Allhomes Record	-	-	-	-	-	-
+2009	123802	139/14 Boolee Street	04/04/2009	-	23/02/2009	$456,500	10482m	Full transfer	2	1	1	2	-	$456,500	40	-	Allhomes Record	-	-	-	-	-	-
+2009	243618	139/14 Boolee Street	03/04/2009	09/06/2009	-	$456,500	10482m	Full transfer	-	-	-	-	-	$456,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19272	            20/11 Doonkuna Street	26/02/2009	25/03/2009	-	$439,000	5277m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	120512	20/1 Allambee Street	26/02/2009	-	06/11/2008	$439,000	4649m	Full transfer	2	2	-	1	-	$439,000	112	-	Allhomes Record	-	-	-	-	$3,499,000	7.97
+2009	251505	4/14 Boolee Street	28/10/2009	18/01/2010	-	$421,000	10482m	Full transfer	-	-	-	-	-	$421,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23528	            5/14 Currong Street	04/08/2009	-	15/07/2009	$415,000	10482m	Full transfer	2	1	1	2	-	$415,000	20	-	Allhomes Record	-	-	-	-	-	-
+2009	129784	107/35 Currong Street	25/09/2009	-	26/08/2009	$415,000	1527m	Full transfer	2	1	-	1	-	$415,000	30	-	Allhomes Record	-	-	-	-	-	-
+2009	245701	21/37 Kogarah Lane	25/06/2009	12/08/2009	-	$415,000	594m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	251548	13/35 Currong Street South	24/09/2009	05/01/2010	-	$415,000	1527m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	126737	100/37 Currong Street	25/06/2009	-	12/05/2009	$415,000	2497m	Full transfer	2	1	-	-	-	$415,000	44	-	Allhomes Record	-	-	-	-	$2,507,000	6.04
+2009	251547	10/35 Currong Street South	27/11/2009	08/01/2010	-	$405,000	1527m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247328	110/35 Currong Street	20/12/2009	-	13/11/2009	$405,000	1527m	Full transfer	2	1	-	1	-	$405,000	37	-	Allhomes Record	-	-	-	-	-	-
+2009	23507	            92/37 Currong St	01/07/2009	-	16/04/2009	$398,000	594m	Full transfer	2	1	0	1	-	$398,000	76	-	Allhomes Record	-	-	-	-	-	-
+2009	246043	13/37 Kogarah Lane	01/06/2009	24/08/2009	-	$398,000	594m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	124584	142/33 Currong Street	17/04/2009	-	17/03/2009	$387,000	2497m	Full transfer	2	1	-	1	-	$387,000	31	-	Allhomes Record	-	-	-	-	$2,507,000	6.48
+2009	245743	2/33 Currong Street South	17/04/2009	20/08/2009	-	$387,000	2497m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19354	            17/11 Doonkuna Street	31/03/2009	05/06/2009	-	$385,000	5277m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242632	19/37 Kogarah Lane	29/01/2009	03/03/2009	-	$385,000	594m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243619	19/33 Currong Street South	27/03/2009	10/06/2009	-	$385,000	2497m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	123964	17/3 Allambee Street	31/03/2009	-	26/02/2009	$385,000	5277m	Full transfer	2	1	0	1	0	$385,000	33	-	Allhomes Record	-	-	-	-	-	-
+2009	23105	            98/35 Currong Street	29/01/2009	-	01/12/2008	$385,000	1527m	Full transfer	2	1	-	1	-	$385,000	59	-	Allhomes Record	-	-	-	-	$2,129,000	5.53
+2009	253722	27/14 Boolee Street	15/12/2009	08/02/2010	-	$382,000	10482m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244813	8/35 Currong Street South	15/04/2009	02/07/2009	-	$380,000	1527m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243199	11/35 Currong Street South	12/02/2009	19/03/2009	-	$378,000	1527m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	121349	111/35 Currong Street	20/02/2009	-	02/12/2008	$378,000	1526m	Full transfer	2	1	-	1	-	$378,000	80	-	Allhomes Record	-	-	-	-	$2,129,000	5.63
+2009	246042	100/14 Boolee Street	15/06/2009	26/08/2009	-	$360,000	10482m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250589	101/14 Boolee Street	26/10/2009	08/12/2009	-	$350,000	10482m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	130368	101/14 Boolee Street	23/10/2009	-	17/09/2009	$350,000	10482m	Full transfer	1	1	-	1	-	$350,000	36	-	Allhomes Record	-	-	-	-	-	-
+2009	249024	87/14 Boolee Street	26/10/2009	20/11/2009	-	$347,000	10482m	Full transfer	-	-	-	-	-	$347,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	251580	93/14 Boolee Street	25/11/2009	14/01/2010	-	$345,000	10482m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	251258	            93 Boolee Street	06/11/2009	-	04/09/2009	$345,000	-	Full transfer	1	1	-	1	-	$345,000	63	-	Allhomes Record	-	-	-	-	-	-
+2009	261802	20 Euree Street	26/10/2009	27/04/2010	-	-	563m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249302	            17 Currong Street South	21/06/2009	30/09/2009	-	-	1242m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244404	3/35 Currong Street South	31/01/2009	08/07/2009	-	-	1527m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254302	35 Booroondara Street	21/09/2009	15/02/2010	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	296055	36 Coranderrk Street	21/11/2009	31/05/2011	-	-	1045m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243655	28 Allambee Street	02/04/2009	02/04/2009	-	-	1108m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271033	49 Booroondara Street	17/06/2010	03/09/2010	12/05/2010	$1,800,000	1036m	Full transfer	7	5	-	2	2	$1,800,000	36	-	Combined Record	-	-	-	Single residential dwelling	$615,000	0.34
+2010	283247	11 Elimatta Street	11/12/2010	11/02/2011	02/10/2010	$1,390,000	1180m	Full transfer	3	1	1	2	-	$1,390,000	70	-	Combined Record	-	-	-	Single residential dwelling	$761,000	0.55
+2010	292434	12 Allambee Street	27/11/2010	11/04/2011	03/11/2010	$1,310,000	1071m	Full transfer	4	1	1	2	-	$1,310,000	24	-	Combined Record	220	-	-	Single residential dwelling	$673,000	0.51
+2010	287730	24 Geerilong Gardens	16/12/2010	07/04/2011	17/11/2010	$1,265,000	1372m	Full transfer	4	1	1	-	1	$1,265,000	29	-	Combined Record	-	-	-	Single residential dwelling	$859,000	0.68
+2010	269231	27 Euree Street	01/05/2010	21/06/2010	30/03/2010	$1,255,000	945m	Full transfer	3	1	1	1	-	$1,255,000	32	-	Combined Record	-	-	-	Single residential dwelling	$730,000	0.58
+2010	283960	63 Euree Street	23/12/2010	17/02/2011	30/10/2010	$1,225,000	1158m	Full transfer	3	1	-	-	1	$1,225,000	54	-	Combined Record	-	-	-	Single residential dwelling...	$761,000	0.62
+2010	269317	29 Booroondara Street	17/04/2010	28/06/2010	22/03/2010	$1,110,000	678m	Full transfer	4	1	1	1	-	$1,110,000	26	-	Combined Record	-	-	-	Single residential dwelling	$561,000	0.51
+2010	269318	37 Booroondara Street	29/05/2010	02/07/2010	04/05/2010	$930,000	976m	Full transfer	3	1	-	1	-	$930,000	25	-	Combined Record	-	-	-	Single residential dwelling	$695,000	0.75
+2010	279268	44 Amaroo Street	15/12/2010	01/02/2011	04/11/2010	$900,000	1045m	Full transfer	3	1	-	1	1	$900,000	41	-	Combined Record	-	-	-	Single residential dwelling	$641,000	0.71
+2010	273475	38 Allambee Street	02/09/2010	29/10/2010	13/05/2010	$869,000	1003m	Full transfer	3	1	-	-	-	$869,000	112	-	Combined Record	-	-	-	Single residential dwelling	$654,000	0.75
+2010	270803	1 Doonkuna Street	25/03/2010	11/08/2010	01/07/2009	$867,500	1206m	Full transfer	3	1	-	1	-	$867,500	267	-	Combined Record	-	-	-	Single residential dwelling	$759,000	0.87
+2010	275869	14 Booroondara Street	01/10/2010	12/01/2011	16/06/2010	$820,000	668m	Full transfer	2	2	-	1	-	$820,000	107	-	Combined Record	-	-	-	Single residential dwelling	$585,000	0.71
+2010	273182	            24/33 Currong Street South	07/08/2010	07/11/2010	-	$585,000	2497m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269902	136/14 Boolee Street	26/06/2010	16/09/2010	-	$585,000	10482m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264652	45/1 Allambee Street	07/07/2010	-	06/05/2010	$580,000	4649m	Full transfer	3	1	1	-	-	$580,000	62	-	Allhomes Record	-	-	-	-	$3,499,000	6.03
+2010	269626	11/1 Allambee Street	07/07/2010	23/08/2010	-	$580,000	4649m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269026	            23/33 Currong Street South	08/04/2010	23/06/2010	29/01/2010	$530,000	2497m	Full transfer	3	2	-	-	1	$530,000	69	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2010	252403	            77/1 Allambee Street	19/02/2010	-	17/11/2009	$521,653	4649m	Full transfer	3	1	1	1	-	$521,653	94	-	Allhomes Record	-	-	-	-	$3,499,000	6.71
+2010	263560	17/1 Kogarah Lane	19/02/2010	02/06/2010	-	$521,653	5475m	Full transfer	-	-	-	-	-	$521,653	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266047	            114/14 Boolee	15/09/2010	-	26/08/2010	$410,000	-	Full transfer	1	1	-	1	-	$410,000	20	-	Allhomes Record	-	-	-	-	-	-
+2010	274184	114/14 Boolee Street	15/09/2010	08/11/2010	-	$410,000	10482m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273921	84/14 Boolee Street	11/10/2010	24/11/2010	-	$390,000	10482m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	371849	96/14 Boolee Street	16/02/2010	30/05/2012	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280705	22 Amaroo Street	26/07/2010	09/12/2010	-	-	699m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	338397	130/14 Boolee Street	05/11/2010	15/09/2011	-	-	10482m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263687	34 Amaroo Street	16/04/2010	01/06/2010	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254450	8 Dirrawan Gardens	18/02/2010	23/02/2010	-	-	1045m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344402	65 Euree Street	01/07/2011	20/10/2011	08/06/2011	$1,430,000	1440m	Full transfer	4	3	-	2	-	$1,430,000	23	-	Combined Record	-	-	-	Single residential dwelling	$876,000	0.61
+2011	360205	42 Euree Street	16/11/2011	14/02/2012	20/08/2011	$1,415,000	1242m	Full transfer	5	2	1	2	-	$1,415,000	88	-	Combined Record	-	-	-	Single residential dwelling	$825,000	0.58
+2011	296940	28 Elimatta Street	02/04/2011	10/06/2011	10/03/2011	$1,360,000	905m	Full transfer	3	2	-	1	-	$1,360,000	23	-	Combined Record	-	-	-	Single residential dwelling	$806,000	0.59
+2011	296737	25 Anzac Park	09/04/2011	20/06/2011	17/03/2011	$1,305,000	1164m	Full transfer	5	2	-	1	-	$1,305,000	23	-	Combined Record	-	-	-	Single residential dwelling	$821,000	0.63
+2011	296121	48 Coranderrk Street	21/03/2011	24/05/2011	-	$1,230,000	1082m	Full transfer	-	-	-	-	-	$1,230,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	347098	34 Amaroo Street	10/09/2011	21/11/2011	10/08/2011	$971,000	976m	Full transfer	6	3	-	1	-	$971,000	31	-	Combined Record	-	-	-	Single residential dwelling	$713,000	0.73
+2011	340850	36 Coranderrk Street	19/08/2011	27/09/2011	04/05/2011	$950,000	1045m	Full transfer	3	1	-	1	1	$950,000	107	-	Combined Record	172	-	-	Single residential dwelling	$825,000	0.87
+2011	336039	            2/9 Gooreen Street	05/08/2011	07/09/2011	-	$851,000	1208m	Full transfer	-	-	-	-	-	$851,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296739	2 Amaroo Street	18/05/2011	22/06/2011	28/01/2011	$850,000	636m	Full transfer	3	1	-	-	1	$850,000	110	-	Combined Record	-	-	-	Single residential dwelling	$603,000	0.71
+2011	350449	24/1 Kogarah Lane	18/10/2011	13/12/2011	-	$770,000	5475m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340044	56/1 Kogarah Lane	18/10/2011	-	19/05/2011	$769,000	5475m	Full transfer	4	1	1	1	-	$769,000	152	-	Allhomes Record	-	-	-	-	$5,599,000	7.28
+2011	296738	36 Booroondara Street	10/05/2011	22/06/2011	16/02/2011	$741,000	668m	Full transfer	3	1	-	-	-	$741,000	83	-	Combined Record	-	-	-	Single residential dwelling...	$646,000	0.87
+2011	447884	            52/43 Constitution Avenue	14/12/2011	17/03/2015	-	$690,000	2225m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444905	            38/43 Constitution Avenue	23/12/2011	06/02/2015	-	$630,000	2225m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444912	            19/43 Constitution Avenue	14/12/2011	06/02/2015	-	$600,000	2225m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446619	            26/43 Constitution Avenue	05/12/2011	10/02/2015	-	$595,000	2225m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	489336	16/43 Constitution Avenue	16/12/2011	19/10/2016	-	$590,000	2225m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	345081	44/1 Allambee Street	22/11/2011	-	28/09/2011	$555,000	4649m	Full transfer	2	1	1	1	-	$555,000	55	-	Allhomes Record	-	-	-	-	$4,444,000	8.01
+2011	365925	2/1 Allambee Street	22/11/2011	27/02/2012	-	$555,000	4649m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	349331	46/1 Allambee Street	30/11/2011	-	06/10/2011	$535,000	4649m	Full transfer	3	1	1	1	-	$535,000	55	-	Allhomes Record	-	-	-	-	$4,444,000	8.31
+2011	347097	12/1 Allambee Street	14/11/2011	22/11/2011	-	$535,000	4649m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444911	            23/43 Constitution Avenue	20/12/2011	03/02/2015	-	$530,000	2225m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296328	9/1 Kogarah Lane	18/02/2011	30/05/2011	-	$507,000	5475m	Full transfer	-	-	-	-	-	$507,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	278011	            68/35 Currong Street	18/02/2011	-	14/10/2010	$507,000	5475m	Full transfer	3	2	-	1	-	$507,000	127	-	Allhomes Record	113	-	-	-	$5,070,000	10.0
+2011	446218	            88/43 Constitution Avenue	05/12/2011	19/02/2015	-	$499,000	2225m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444904	            43/43 Constitution Avenue	09/12/2011	06/02/2015	-	$485,000	2225m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446224	            42/43 Constitution Avenue	09/12/2011	16/02/2015	-	$475,000	2225m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444902	            79/43 Constitution Avenue	07/12/2011	03/02/2015	-	$470,000	2225m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446609	            67/43 Constitution Avenue	08/12/2011	10/02/2015	-	$460,000	2225m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	444910	            25/43 Constitution Avenue	15/12/2011	06/02/2015	-	$455,000	2225m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446226	            24/43 Constitution Avenue	12/12/2011	18/02/2015	-	$455,000	2225m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291482	15/33 Currong Street South	01/03/2011	19/04/2011	-	$450,000	2497m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446221	            65/43 Constitution Avenue	13/12/2011	17/02/2015	-	$450,000	2225m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446228	            15/43 Constitution Avenue	09/12/2011	16/02/2015	-	$450,000	2225m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446621	            11/43 Constitution Avenue	20/12/2011	12/02/2015	-	$445,000	2225m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354553	42/14 Boolee Street	08/12/2011	06/01/2012	28/09/2011	$440,000	10482m	Full transfer	2	1	1	1	-	$440,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	446231	            10/43 Constitution Avenue	12/12/2011	20/02/2015	-	$440,000	2225m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	446613	            53/43 Constitution Avenue	19/12/2011	10/02/2015	-	$435,000	2225m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	338396	130/14 Boolee Street	06/06/2011	15/09/2011	-	$420,000	10482m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	298065	130/14 Boolee Street	27/06/2011	-	10/05/2011	$420,000	10482m	Full transfer	1	1	-	1	-	$420,000	48	-	Allhomes Record	-	-	-	-	-	-
+2011	446222	            5/43 Constitution Avenue	21/12/2011	16/02/2015	-	$415,000	2225m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296364	103/14 Boolee Street	20/04/2011	25/05/2011	-	$390,500	10482m	Full transfer	-	-	-	-	-	$390,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	349521	77/14 Boolee Street	14/12/2011	-	15/09/2011	$371,000	-	Full transfer	1	1	-	1	-	$371,000	90	-	Allhomes Record	-	-	-	-	-	-
+2011	336338	118/14 Boolee Street	26/07/2011	22/08/2011	-	$368,600	10482m	Full transfer	-	-	-	-	-	$368,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296329	99/14 Boolee Street	02/03/2011	31/05/2011	-	$361,000	10482m	Full transfer	-	-	-	-	-	$361,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	279585	99/14 Boolee Street	03/03/2011	-	20/01/2011	$361,000	10482m	Full transfer	1	1	-	-	1	$361,000	42	-	Allhomes Record	-	-	-	-	$5,674,000	15.72
+2011	347837	40 Euree Street	12/06/2011	24/10/2011	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354552	40 Euree Street	08/11/2011	03/01/2012	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	385027	53 Euree Street	27/05/2011	20/03/2012	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	376432	            17/35 Currong Street South	22/06/2011	09/08/2012	-	$0	1527m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	406714	44 Euree Street	02/08/2011	28/08/2013	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	400573	19 Currong Street South	24/04/2011	30/05/2013	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283412	52 Booroondara Street	25/01/2011	09/02/2011	-	-	943m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296445	34 Amaroo Street	29/01/2011	15/06/2011	-	-	976m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296330	3/14 Boolee Street	30/04/2011	31/05/2011	-	-	10482m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336339	111/14 Boolee Street	28/02/2011	22/08/2011	-	-	10482m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382237	49 Anzac Park	08/12/2012	-	15/11/2012	$1,250,000	1045m	Full transfer	3	2	-	-	2	$1,250,000	23	-	Allhomes Record	-	-	-	-	$825,000	0.66
+2012	374311	20 Dirrawan Gardens	24/03/2012	27/06/2012	22/02/2012	$1,110,000	1045m	Full transfer	3	1	1	1	1	$1,110,000	31	-	Combined Record	-	-	-	Single residential dwelling	$859,000	0.77
+2012	446219	            87/43 Constitution Avenue	16/04/2012	16/02/2015	-	$975,000	2225m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386913	38 Amaroo Street	03/11/2012	24/12/2012	11/10/2012	$950,000	976m	Full transfer	3	1	1	-	2	$950,000	23	-	Combined Record	-	-	-	Single residential dwelling	$713,000	0.75
+2012	361542	59/1 Kogarah Lane	05/04/2012	-	23/02/2012	$905,000	5475m	Full transfer	3	2	1	1	-	$905,000	42	-	Allhomes Record	-	-	-	-	$5,599,000	6.19
+2012	374810	27/1 Kogarah Lane	05/04/2012	14/06/2012	-	$905,000	5475m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370396	            44 Allambee Street	16/06/2012	-	24/05/2012	$889,000	1528m	Full transfer	2	1	-	1	-	$889,000	23	-	Allhomes Record	-	-	-	-	$688,000	0.77
+2012	376434	29 Limestone Avenue	16/06/2012	10/08/2012	-	$889,000	1528m	Full transfer	-	-	-	-	-	$889,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	356061	31/1 Allambee Street	23/02/2012	-	13/01/2012	$885,000	4649m	Full transfer	3	1	1	1	-	$885,000	41	-	Allhomes Record	-	-	-	-	$4,444,000	5.02
+2012	385074	14/1 Allambee Street	23/02/2012	06/05/2012	-	$885,000	4649m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380783	26 Booroondara Street	04/08/2012	25/09/2012	04/07/2012	$845,000	881m	Full transfer	2	1	-	1	-	$845,000	31	-	Combined Record	-	-	-	Single residential dwelling	$788,000	0.93
+2012	374310	            2/76 Coranderrk Street	26/05/2012	01/07/2012	-	$838,000	1202m	Full transfer	-	-	-	-	-	$838,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	365926	1/9 Gooreen Street	24/01/2012	27/02/2012	09/12/2011	$770,000	1208m	Full transfer	3	1	-	2	-	$770,000	46	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	446608	            73/43 Constitution Avenue	27/02/2012	13/02/2015	-	$740,000	2225m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	353181	15/3 Allambee Street	09/02/2012	-	01/11/2011	$625,000	5277m	Full transfer	3	1	1	1	-	$625,000	100	-	Allhomes Record	-	-	-	-	$5,791,000	9.27
+2012	369390	            15/11 Doonkuna Street	10/02/2012	16/04/2012	-	$625,000	5277m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	447687	            33/43 Constitution Avenue	28/06/2012	09/03/2015	-	$620,000	2225m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446618	            28/43 Constitution Avenue	29/06/2012	10/02/2015	-	$610,000	2225m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386119	            20/11 Doonkuna Street	24/09/2012	05/12/2012	-	$555,000	5277m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379311	13/1 Kogarah Lane	08/08/2012	11/09/2012	-	$505,000	5475m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375051	            73/3 Kogarah Lane	08/08/2012	-	03/05/2012	$505,000	5475m	Full transfer	3	1	1	1	-	$505,000	97	-	Allhomes Record	-	-	-	-	$5,599,000	11.09
+2012	446225	            39/43 Constitution Avenue	23/03/2012	16/02/2015	-	$485,000	2225m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	450179	            40/43 Constitution Avenue	25/01/2012	14/04/2015	-	$480,000	2225m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446220	            86/43 Constitution Avenue	09/02/2012	18/02/2015	-	$475,000	2225m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	444906	            37/43 Constitution Avenue	19/04/2012	06/02/2015	-	$470,000	2225m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	367364	118/35 Currong Street	23/05/2012	-	03/05/2012	$466,000	-	Full transfer	2	1	-	1	-	$466,000	20	-	Allhomes Record	-	-	-	-	-	-
+2012	377129	            2/35 Currong Street South	23/05/2012	26/07/2012	-	$466,000	1527m	Full transfer	-	-	-	-	-	$466,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446616	            32/43 Constitution Avenue	29/02/2012	10/02/2015	-	$460,000	2225m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	447151	            72/43 Constitution Avenue	09/01/2012	24/02/2015	-	$460,000	2225m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	444908	            30/43 Constitution Avenue	09/01/2012	06/02/2015	-	$460,000	2225m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	447688	            18/43 Constitution Avenue	09/01/2012	10/03/2015	-	$455,000	2225m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373486	5/14 Boolee Street	28/06/2012	-	17/02/2012	$450,000	10482m	Full transfer	2	1	1	2	-	$450,000	132	-	Allhomes Record	-	-	-	-	$5,674,000	12.61
+2012	446620	            13/43 Constitution Avenue	20/04/2012	12/02/2015	-	$445,000	2225m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	444903	            60/43 Constitution Avenue	16/04/2012	06/02/2015	-	$445,000	2225m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446612	            58/43 Constitution Avenue	01/05/2012	10/02/2015	-	$440,000	2225m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446606	            8/43 Constitution Avenue	16/04/2012	10/02/2015	-	$435,000	2225m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	378761	105/35 Currong Street	24/10/2012	-	09/07/2012	$420,000	-	Full transfer	2	1	-	1	-	$420,000	107	-	Allhomes Record	-	-	-	-	-	-
+2012	386120	            17/35 Currong Street South	23/10/2012	07/12/2012	-	$420,000	1527m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446610	            6/43 Constitution Avenue	11/01/2012	10/02/2015	-	$379,000	2225m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	495991	            11/33 Currong Street South	29/08/2012	25/01/2017	-	$0	2497m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	369948	19 Dirrawan Gardens	05/03/2012	27/03/2012	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379031	30 Currong Street South	22/04/2012	07/09/2012	-	$0	1126m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376433	57 Euree Street	04/06/2012	06/08/2012	-	$0	1227m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373855	21 Anzac Park	02/06/2012	24/06/2012	-	$0	539m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	434812	35 Euree Street	22/11/2012	08/09/2014	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	405538	            1/74 Coranderrk Street	12/11/2012	07/08/2013	-	$0	1264m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	426649	37 Euree Street	10/05/2012	30/05/2014	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	403485	24 Geerilong Gardens	16/05/2013	01/07/2013	-	$1,520,000	1372m	Full transfer	-	-	-	-	-	$1,520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	446223	            44/43 Constitution Avenue	11/10/2013	16/02/2015	-	$1,175,000	2225m	Full transfer	-	-	-	-	-	$1,175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413420	44 Euree Street	05/08/2013	14/11/2013	-	$1,125,000	1077m	Full transfer	-	-	-	-	-	$1,125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419270	48 Amaroo Street	07/12/2013	12/02/2014	14/11/2013	$1,100,000	984m	Full transfer	4	1	2	1	-	$1,100,000	23	-	Combined Record	-	-	-	Single residential dwelling	$713,000	0.65
+2013	394252	40 Allambee Street	18/02/2013	04/04/2013	22/11/2012	$990,000	1003m	Full transfer	3	1	1	1	-	$990,000	88	-	Combined Record	-	-	-	Single residential dwelling	$719,000	0.73
+2013	397529	23 Booroondara Street	23/02/2013	09/05/2013	24/01/2013	$955,000	697m	Full transfer	2	2	-	2	-	$955,000	30	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.65
+2013	413750	33/1 Allambee Street	04/12/2013	-	04/11/2013	$870,000	-	Full transfer	4	1	1	1	-	$870,000	30	-	Allhomes Record	163	-	-	-	-	-
+2013	419269	16/1 Allambee Street	04/12/2013	10/02/2014	-	$870,000	4649m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	447686	            41/43 Constitution Avenue	29/08/2013	11/03/2015	-	$740,000	2225m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	447152	            66/43 Constitution Avenue	05/12/2013	24/02/2015	-	$730,000	2225m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400572	19 Currong Street South	21/02/2013	30/05/2013	-	$726,666	1242m	Full transfer	-	-	-	-	-	$726,666	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	446617	            31/43 Constitution Avenue	17/05/2013	11/02/2015	-	$720,000	2225m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	444909	            3/43 Constitution Avenue	18/12/2013	03/02/2015	-	$699,000	2225m	Full transfer	-	-	-	-	-	$699,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418716	27 Limestone Avenue	23/12/2013	-	23/07/2013	$697,000	1115m	Full transfer	2	1	0	1	0	$697,000	153	-	Allhomes Record	-	-	-	-	$649,000	0.93
+2013	446227	            17/43 Constitution Avenue	10/12/2013	18/02/2015	-	$590,000	2225m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	407953	5/37 Kogarah Lane	28/06/2013	13/08/2013	-	$431,000	594m	Full transfer	-	-	-	-	-	$431,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399636	84/7 Kogarah Lane	28/06/2013	-	10/05/2013	$431,000	0m	Full transfer	2	1	-	1	-	$431,000	49	-	Allhomes Record	-	-	-	-	-	-
+2013	446614	            47/43 Constitution Avenue	13/06/2013	10/02/2015	-	$430,000	2225m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	402480	1/14 Boolee Street	09/05/2013	21/06/2013	14/03/2013	$430,000	10482m	Full transfer	2	1	1	1	-	$430,000	56	-	Combined Record	108	-	-	Multiple unit dwelling	-	-
+2013	395218	10/14 Boolee Street	22/02/2013	17/04/2013	21/08/2012	$430,000	10482m	Full transfer	2	2	-	2	-	$430,000	185	-	Combined Record	-	-	-	Multiple unit dwelling	$5,674,000	13.2
+2013	409772	10/14 Boolee Street	27/02/2013	-	22/10/2013	$430,000	0m	Full transfer	2	2	-	2	-	$430,000	-	-	Allhomes Record	-	-	-	-	-	-
+2013	418541	81/14 Boolee Street	19/12/2013	30/01/2014	-	$426,000	10482m	Full transfer	-	-	-	-	-	$426,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410703	109/14 Boolee Street	30/08/2013	22/10/2013	12/04/2013	$425,000	10482m	Full transfer	2	1	1	2	0	$425,000	140	-	Combined Record	-	-	-	Multiple unit dwelling	$5,674,000	13.35
+2013	402478	126/14 Boolee Street	17/05/2013	18/06/2013	17/04/2013	$380,000	10482m	Full transfer	1	1	-	-	-	$380,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2013	395072	21/14 Boolee Street	29/04/2013	-	08/01/2013	$361,500	-	Full transfer	1	1	-	1	-	$361,500	111	-	Allhomes Record	-	-	-	-	-	-
+2013	402633	129/14 Boolee Street	28/05/2013	25/06/2013	02/04/2013	$360,000	10482m	Full transfer	1	1	-	-	1	$360,000	56	-	Combined Record	65	-	-	Multiple unit dwelling	-	-
+2013	401555	93/14 Boolee Street	15/03/2013	23/05/2013	04/07/2012	$355,000	10482m	Full transfer	1	1	-	1	-	$355,000	254	-	Combined Record	-	-	-	Multiple unit dwelling	$5,674,000	15.98
+2013	392654	124/14 Boolee Street	24/01/2013	27/02/2013	25/07/2012	$354,000	10482m	Full transfer	1	1	-	1	-	$354,000	183	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2013	415073	12/14 Boolee Street	24/10/2013	06/12/2013	28/09/2013	$350,000	10482m	Full transfer	1	1	-	0	1	$350,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2013	446624	137/14 Boolee Street	03/08/2013	10/02/2015	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	437457	8 Gooreen Street	16/09/2013	16/10/2014	-	$0	920m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	400185	69 Coranderrk Street	15/04/2013	28/05/2013	-	$0	885m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	422635	6 Dirrawan Gardens	10/12/2013	27/03/2014	-	$0	1372m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394254	22 Amaroo Street	13/03/2013	02/04/2013	-	$0	699m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410256	19 Geerilong Gardens	07/06/2013	13/09/2013	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396675	            9/11 Doonkuna Street	22/02/2013	22/04/2013	-	$0	5277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	415072	40 Euree Street	02/08/2013	04/12/2013	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446622	25 Elimatta Street	26/11/2014	10/02/2015	04/11/2014	$1,900,000	1390m	Full transfer	3	2	1	3	-	$1,900,000	22	-	Combined Record	-	-	-	Single residential dwelling	$874,000	0.46
+2014	441118	34 Coranderrk Street	20/09/2014	04/12/2014	20/08/2014	$1,510,000	1045m	Full transfer	4	3	0	2	0	$1,510,000	31	-	Combined Record	-	-	-	Single residential dwelling	$825,000	0.55
+2014	441446	56 Euree Street	07/11/2014	08/12/2014	-	$1,480,000	1247m	Full transfer	-	-	-	-	-	$1,480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431449	41 Anzac Park	24/05/2014	23/07/2014	24/04/2014	$1,450,000	1242m	Full transfer	4	1	1	2	-	$1,450,000	30	-	Combined Record	-	-	-	Single residential dwelling	$825,000	0.57
+2014	439389	30 Dirrawan Gardens	09/10/2014	12/11/2014	16/09/2014	$1,285,000	906m	Full transfer	4	1	1	-	1	$1,285,000	23	-	Combined Record	-	-	-	Single residential dwelling	$840,000	0.65
+2014	450884	48 Coranderrk Street	12/12/2014	01/05/2015	16/10/2014	$1,230,000	1082m	Full transfer	3	1	-	1	-	$1,230,000	57	-	Combined Record	-	-	-	Single residential dwelling...	$825,000	0.67
+2014	446217	            89/43 Constitution Avenue	22/10/2014	16/02/2015	-	$1,075,000	2225m	Full transfer	-	-	-	-	-	$1,075,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	431815	35 Booroodara Street	22/03/2014	-	08/08/2014	$1,005,000	0m	Full transfer	4	2	-	3	0	$1,005,000	-	-	Allhomes Record	-	-	-	-	$767,000	0.76
+2014	426651	35 Booroondara Street	22/03/2014	27/05/2014	-	$1,005,000	976m	Full transfer	-	-	-	-	-	$1,005,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443144	37 Elimatta Street	20/09/2014	15/01/2015	21/08/2014	$985,000	1222m	Full transfer	3	1	-	2	-	$985,000	30	-	Combined Record	-	-	-	Single residential dwelling...	$798,000	0.81
+2014	441447	39 Booroondara Street	10/11/2014	12/12/2014	-	$910,000	976m	Full transfer	-	-	-	-	-	$910,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429674	45 Booroondara Street	24/04/2014	26/06/2014	25/07/2013	$875,000	976m	Full transfer	3	1	-	2	-	$875,000	273	-	Combined Record	-	-	-	Single residential dwelling	$740,000	0.85
+2014	433460	16 Allambee Street	12/07/2014	21/08/2014	12/06/2014	$795,000	1285m	Full transfer	3	1	0	0	0	$795,000	30	-	Combined Record	-	-	-	Single residential dwelling	$773,000	0.97
+2014	419188	            6/3 Allambee Street	03/03/2014	-	13/02/2014	$782,500	5277m	Full transfer	3	1	1	1	0	$782,500	18	-	Allhomes Record	-	-	-	-	$6,081,000	7.77
+2014	449768	            80/43 Constitution Avenue	15/09/2014	07/04/2015	-	$755,000	2225m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427941	21 Anzac Park	22/03/2014	20/05/2014	20/02/2014	$743,000	539m	Full transfer	2	1	-	-	1	$743,000	30	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.83
+2014	444907	            36/43 Constitution Avenue	25/09/2014	06/02/2015	-	$730,000	2225m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446229	            14/43 Constitution Avenue	05/09/2014	17/02/2015	-	$699,000	2225m	Full transfer	-	-	-	-	-	$699,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446611	            59/43 Constitution Avenue	28/08/2014	10/02/2015	-	$699,000	2225m	Full transfer	-	-	-	-	-	$699,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446605	            9/43 Constitution Avenue	03/11/2014	09/02/2015	-	$695,000	2225m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446615	            34/43 Constitution Avenue	03/11/2014	09/02/2015	-	$610,000	2225m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435513	18/1 Kogarah Lane	29/07/2014	17/09/2014	-	$610,000	5475m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	431824	78/1 Allambee Street	03/07/2014	-	12/06/2014	$605,000	-	Full transfer	3	1	1	1	-	$605,000	21	-	Allhomes Record	160	-	-	-	$4,666,000	7.71
+2014	425553	            54/3 Kogarah Lane	05/06/2014	-	14/05/2014	$605,000	-	Full transfer	3	1	1	1	0	$605,000	22	-	Allhomes Record	-	-	-	-	-	-
+2014	432006	22/1 Kogarah Lane	05/06/2014	31/07/2014	-	$605,000	5475m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446230	            12/43 Constitution Avenue	30/09/2014	18/02/2015	-	$570,000	2225m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446607	            77/43 Constitution Avenue	31/10/2014	13/02/2015	-	$550,000	2225m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	428401	1/22 Coranderrk Street	16/04/2014	04/06/2014	18/11/2013	$475,000	910m	Full transfer	3	1	-	-	-	$475,000	149	-	Combined Record	-	-	-	Multiple unit dwelling	$839,000	1.77
+2014	429445	            2/22 Coranderrk Street	16/04/2014	17/06/2014	-	$475,000	910m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	423468	2/22 Coranderrk Street	17/04/2014	-	03/12/2013	$475,000	910m	Full transfer	3	1	-	-	2	$475,000	135	-	Allhomes Record	-	-	-	-	$839,000	1.77
+2014	439388	13/37 Kogarah Lane	26/09/2014	14/11/2014	-	$443,000	594m	Full transfer	-	-	-	-	-	$443,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435061	92/37 Currong Street	26/09/2014	-	18/08/2014	$443,000	-	Full transfer	2	1	-	1	-	$443,000	39	-	Allhomes Record	-	-	-	-	-	-
+2014	417322	81/14 Boolee Street	23/01/2014	-	10/11/2013	$436,000	10482m	Full transfer	2	1	1	-	-	$436,000	74	-	Allhomes Record	-	-	-	-	$5,674,000	13.01
+2014	421172	70/14 Boolee Street	17/01/2014	24/02/2014	26/09/2013	$415,000	10482m	Full transfer	2	1	1	-	-	$415,000	113	-	Combined Record	85	-	-	Multiple unit dwelling	-	-
+2014	419030	 Boolee Street	19/02/2014	-	25/09/2013	$405,250	0m	Full transfer	2	2	0	1	0	$405,250	147	-	Allhomes Record	-	-	-	-	$11,149,000	27.51
+2014	422636	32/14 Boolee Street	19/02/2014	27/03/2014	-	$405,250	10482m	Full transfer	-	-	-	-	-	$405,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430137	19/37 Kogarah Lane	09/04/2014	08/07/2014	-	$403,500	594m	Full transfer	-	-	-	-	-	$403,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	428184	            6/33 Currong Street South	04/03/2014	29/04/2014	-	$400,000	2497m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	420147	140/33 Currong  Street	05/03/2014	-	08/08/2013	$400,000	0m	Full transfer	2	1	0	1	0	$400,000	209	-	Allhomes Record	-	-	-	-	$2,507,000	6.27
+2014	426290	57/14 Boolee Street	24/03/2014	05/05/2014	23/01/2014	$360,000	10482m	Full transfer	2	1	-	-	-	$360,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2014	421174	127/14 Boolee Street	22/01/2014	24/02/2014	04/12/2013	$352,000	10482m	Full transfer	1	1	-	1	-	$352,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2014	435355	127/14 Boolee Street	23/01/2014	-	14/10/2014	$352,000	0m	Full transfer	1	1	-	1	-	$352,000	-	-	Allhomes Record	-	-	-	-	-	-
+2014	425843	16/14 Boolee Street	19/06/2014	-	17/04/2014	$345,000	-	Full transfer	2	1	-	-	-	$345,000	63	-	Allhomes Record	-	-	-	-	-	-
+2014	428949	35/14 Boolee Street	06/03/2014	10/06/2014	15/11/2013	$330,000	10482m	Full transfer	1	1	-	1	-	$330,000	111	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2014	434551	132/14 Boolee Street	24/07/2014	01/09/2014	20/03/2014	$312,000	10482m	Full transfer	1	1	-	1	-	$312,000	126	-	Combined Record	-	-	-	Multiple unit dwelling	$69,123	0.22
+2014	426964	89/14 Boolee Street	17/04/2014	16/05/2014	10/01/2014	$312,000	10482m	Full transfer	1	1	0	1	0	$312,000	97	-	Combined Record	-	-	-	Multiple unit dwelling	$11,149,000	35.73
+2014	439391	2 Amaroo Street	06/08/2014	11/11/2014	-	$0	636m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	475125	78 Coranderrk Street	23/05/2014	14/04/2016	-	$0	1323m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443362	            28/11 Doonkuna Street	13/08/2014	09/01/2015	-	$0	5277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443660	24 Elimatta Street	04/09/2014	23/01/2015	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	468015	17/1 Allambee Street	31/12/2014	15/12/2015	-	$0	4649m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429673	6/11 Doonkuna Street	03/03/2014	29/06/2014	-	$0	5277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438836	23 Dirrawan Gardens	16/07/2014	06/11/2014	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	450880	3 Booroondara Street	25/03/2014	27/04/2015	-	$0	697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	451302	51 Anzac Park	11/04/2014	20/04/2015	-	$0	1443m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462911	18 Dirrawan Gardens	08/08/2015	08/10/2015	16/07/2015	$1,900,000	1077m	Full transfer	4	1	2	1	2	$1,900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$895,000	0.47
+2015	456495	35 Euree Street	04/03/2015	30/06/2015	19/02/2015	$1,800,000	1045m	Full transfer	3	2	1	1	1	$1,800,000	13	-	Combined Record	-	-	-	Single residential dwelling	$859,000	0.48
+2015	458385	9 Geerilong Gardens	11/06/2015	30/07/2015	07/05/2015	$1,715,000	1045m	Full transfer	3	1	1	1	2	$1,715,000	35	-	Combined Record	-	-	-	Single residential dwelling	$895,000	0.52
+2015	444857	44/43 Constitution Avenue	25/02/2015	-	17/11/2014	$1,200,000	-	Full transfer	3	2	-	-	-	$1,200,000	100	-	Allhomes Record	161	-	-	-	$6,550,000	5.46
+2015	450879	            44/43 Constitution Avenue	24/02/2015	27/04/2015	-	$1,200,000	2225m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460104	51 Anzac Park	02/05/2015	25/08/2015	08/04/2015	$1,150,000	1443m	Full transfer	3	1	-	1	-	$1,150,000	24	-	Combined Record	-	-	-	Single residential dwelling	$913,000	0.79
+2015	465643	52 Booroondara Street	30/09/2015	12/11/2015	31/08/2015	$1,100,000	943m	Full transfer	3	1	-	1	-	$1,100,000	30	-	Combined Record	-	-	-	Single residential dwelling	$840,000	0.76
+2015	462920	30 Currong Street South	04/07/2015	09/10/2015	11/06/2015	$1,100,000	1126m	Full transfer	3	1	0	0	1	$1,100,000	23	-	Combined Record	-	-	-	Single residential dwelling	$755,000	0.69
+2015	469958	3 Booroondara Street	28/11/2015	04/02/2016	05/11/2015	$1,030,000	697m	Full transfer	3	1	-	0	2	$1,030,000	23	-	Combined Record	-	-	-	Single residential dwelling	$645,000	0.63
+2015	468016	54 Euree Street	31/10/2015	15/12/2015	29/09/2015	$1,000,000	945m	Full transfer	4	1	1	2	-	$1,000,000	32	-	Combined Record	-	-	-	Single residential dwelling	$840,000	0.84
+2015	469117	26 Booroondara Street	20/11/2015	14/01/2016	03/11/2015	$990,000	881m	Full transfer	2	1	-	1	1	$990,000	17	-	Combined Record	-	-	-	Single residential dwelling	$821,000	0.83
+2015	471114	1/11 Doonkuna Street	10/12/2015	17/02/2016	19/11/2015	$747,500	5277m	Full transfer	3	1	1	1	0	$747,500	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	456010	25/1 Kogarah Lane	26/03/2015	06/07/2015	-	$695,000	5475m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	447599	57/1 Kogarah Lane	26/03/2015	-	05/03/2015	$695,000	-	Full transfer	3	1	1	1	0	$695,000	21	-	Allhomes Record	-	-	-	-	-	-
+2015	452381	            45/43 Constitution Avenue	10/04/2015	20/05/2015	-	$690,000	2225m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451802	            2/5 Gooreen Street	26/03/2015	10/05/2015	-	$639,000	1442m	Full transfer	-	-	-	-	-	$639,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	459155	29/43 Constitution Avenue	25/06/2015	11/08/2015	-	$600,000	2225m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456493	21/1 Allambee Street	18/04/2015	02/07/2015	-	$587,000	4649m	Full transfer	-	-	-	-	-	$587,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449568	38/1 Allambee Street	18/04/2015	-	23/03/2015	$587,000	-	Full transfer	3	1	1	1	-	$587,000	26	-	Allhomes Record	-	-	-	-	-	-
+2015	453355	83/43 Constitution Avenue	20/04/2015	29/05/2015	-	$575,000	2225m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456486	84/43 Constitution Avenue	20/04/2015	02/07/2015	-	$565,000	2225m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461400	70/43 Constitution Avenue	09/07/2015	13/09/2015	-	$540,000	2225m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453365	63/43 Constitution Avenue	01/05/2015	29/05/2015	-	$525,000	2225m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468004	            16/11 Doonkuna Street	29/10/2015	17/12/2015	-	$520,000	5277m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463814	16/3 Allambee Street	29/10/2015	-	23/09/2015	$520,000	5277m	Full transfer	2	1	1	1	-	$520,000	36	-	Allhomes Record	112	-	-	-	$6,081,000	11.69
+2015	466932	55/43 Constitution Avenue	14/10/2015	01/12/2015	-	$515,000	2225m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462014	48/43 Constitution Avenue	06/08/2015	23/09/2015	-	$510,000	2225m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464646	56/43 Constitution Avenue	28/08/2015	19/10/2015	-	$510,000	2225m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456494	85/43 Constitution Avenue	22/04/2015	05/07/2015	-	$480,000	2225m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461176	81/43 Constitution Avenue	24/07/2015	01/09/2015	-	$480,000	2225m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456485	            18/11 Doonkuna Street	28/04/2015	03/07/2015	-	$470,000	5277m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460100	74/43 Constitution Avenue	30/06/2015	25/08/2015	-	$470,000	2225m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450035	18/3 Allambee Street	28/04/2015	-	02/04/2015	$470,000	5277m	Full transfer	2	1	0	1	0	$470,000	26	-	Allhomes Record	-	-	-	-	$6,081,000	12.94
+2015	459152	            19/33 Currong Street South	11/05/2015	14/08/2015	-	$465,000	2497m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450796	123/33 Currong Street	11/05/2015	-	20/03/2015	$465,000	0m	Full transfer	2	1	-	1	0	$465,000	52	-	Allhomes Record	-	-	-	-	$3,343,000	7.19
+2015	463430	71/43 Constitution Avenue	07/09/2015	14/10/2015	-	$455,000	2225m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458394	20/43 Constitution Avenue	11/06/2015	30/07/2015	-	$455,000	2225m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449787	            64/43 Constitution Avenue	19/02/2015	07/04/2015	-	$444,950	2225m	Full transfer	-	-	-	-	-	$444,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	447036	64/43 Constitution Avenue	17/03/2015	-	16/10/2014	$444,950	-	Full transfer	1	1	-	1	-	$444,950	152	-	Allhomes Record	62	-	-	-	$6,550,000	14.72
+2015	471111	            23/11 Doonkuna Street	14/12/2015	19/02/2016	-	$430,000	5277m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462910	            13/33 Currong Street South	26/06/2015	08/10/2015	-	$410,000	2497m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466229	126/14 Boolee Street	02/10/2015	16/11/2015	-	$365,000	10482m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461751	            126/39 Coranderrk Street	02/10/2015	-	25/08/2015	$365,000	-	Full transfer	1	1	0	1	0	$365,000	38	-	Allhomes Record	-	-	-	-	-	-
+2015	460101	56/14 Boolee Street	08/07/2015	25/08/2015	05/03/2015	$350,000	10482m	Full transfer	2	1	-	-	-	$350,000	125	-	Combined Record	-	-	-	Multiple unit dwelling	$11,149,000	31.85
+2015	459156	95/14 Boolee Street	27/05/2015	12/08/2015	07/04/2015	$341,681	10482m	Full transfer	1	1	-	1	-	$341,681	50	-	Combined Record	57	-	-	Multiple unit dwelling	$11,149,000	32.63
+2015	450870	79/14 Boolee Street	18/03/2015	30/04/2015	12/02/2015	$331,000	10482m	Full transfer	1	1	-	1	-	$331,000	34	-	Combined Record	56	-	-	Multiple unit dwelling	$11,149,000	33.68
+2015	447689	            18/43 Constitution Avenue	16/02/2015	10/03/2015	-	$227,500	2225m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	518883	34 Elimatta Street	26/11/2015	11/09/2017	-	$0	1208m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451327	52 Booroondara Street	16/01/2015	23/04/2015	-	$0	943m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464329	            14/11 Doonkuna Street	18/08/2015	29/10/2015	-	$0	5277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461418	10 Allambee Street	27/06/2015	07/09/2015	-	$0	1285m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473466	2 Dirrawan Gardens	01/11/2015	03/03/2016	-	$0	1008m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475124	            3/35 Currong Street South	25/01/2015	15/04/2016	-	$0	1527m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	475117	18/14 Boolee Street	26/07/2015	12/04/2016	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512651	3 Geerilong Gardens	14/12/2016	10/05/2017	23/11/2016	$2,300,000	1344m	Full transfer	5	1	1	2	0	$2,300,000	21	-	Combined Record	-	-	-	Single residential dwelling	$1,016,000	0.44
+2016	476445	64 Coranderrk Street	08/03/2016	28/04/2016	16/02/2016	$1,730,000	1028m	Full transfer	4	1	1	4	-	$1,730,000	21	-	Combined Record	-	-	-	Single residential dwelling	$884,000	0.51
+2016	483393	61 Coranderrk Street	28/05/2016	05/08/2016	04/05/2016	$1,580,000	1108m	Full transfer	4	1	1	1	1	$1,580,000	24	-	Combined Record	-	-	-	Single residential dwelling	$777,000	0.49
+2016	478034	19 Geerilong Gardens	02/03/2016	17/05/2016	13/10/2015	$1,525,000	1045m	Full transfer	4	2	-	2	0	$1,525,000	141	-	Combined Record	-	-	-	Single residential dwelling	$921,000	0.6
+2016	481975	17 Elimatta Street	20/02/2016	19/07/2016	27/01/2016	$1,470,000	881m	Full transfer	3	2	-	1	1	$1,470,000	24	-	Combined Record	160	-	-	Single residential dwelling	$844,000	0.57
+2016	482215	54 Euree Street	21/05/2016	19/07/2016	28/04/2016	$1,465,000	945m	Full transfer	4	2	0	2	0	$1,465,000	23	-	Combined Record	-	-	-	Single residential dwelling	$864,000	0.59
+2016	497472	30 Coranderrk Street	19/10/2016	22/02/2017	11/02/2016	$1,445,000	1443m	Full transfer	4	1	1	-	-	$1,445,000	251	-	Combined Record	115	-	-	Single residential dwelling	$900,000	0.62
+2016	484699	38 Amaroo Street	23/05/2016	19/08/2016	-	$1,387,500	976m	Full transfer	-	-	-	-	-	$1,387,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	480670	42 Amaroo Street	31/03/2016	29/06/2016	07/03/2016	$1,376,000	1045m	Full transfer	4	1	1	1	2	$1,376,000	24	-	Combined Record	-	-	-	Single residential dwelling	$759,000	0.55
+2016	488385	4 Currong Street South	29/10/2016	-	06/10/2016	$1,350,000	1205m	Full transfer	2	2	0	1	0	$1,350,000	23	-	Allhomes Record	-	-	-	-	$884,000	0.65
+2016	479139	45 Euree Street	25/02/2016	01/06/2016	01/02/2016	$1,285,000	1045m	Full transfer	4	2	-	1	-	$1,285,000	24	-	Combined Record	-	-	-	Single residential dwelling	$884,000	0.69
+2016	485736	15 Currong Street South	30/07/2016	29/08/2016	04/07/2016	$1,276,000	1205m	Partial transfer	2	1	-	1	-	$1,276,000	26	-	Combined Record	-	-	-	Single residential dwelling	$884,000	0.69
+2016	488677	8 Geerilong Gardens	05/11/2016	-	10/10/2016	$1,260,000	1045m	Full transfer	2	1	-	-	1	$1,260,000	26	-	Allhomes Record	-	-	-	-	$921,000	0.73
+2016	475880	51 Coranderrk Street	18/02/2016	21/04/2016	21/01/2016	$1,163,000	1215m	Full transfer	3	1	-	1	0	$1,163,000	28	-	Combined Record	-	-	-	Single residential dwelling...	$795,000	0.68
+2016	490807	42 Allambee Street	06/10/2016	17/11/2016	06/09/2016	$975,000	1003m	Full transfer	3	1	-	1	0	$975,000	30	-	Combined Record	-	-	-	Single residential dwelling	$740,000	0.76
+2016	475128	16 Amaroo Street	02/02/2016	12/04/2016	08/01/2016	$902,000	698m	Full transfer	2	1	-	-	1	$902,000	25	-	Combined Record	-	-	-	Single residential dwelling...	$646,000	0.72
+2016	475116	62/43 Constitution Avenue	10/02/2016	12/04/2016	-	$520,000	2225m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487968	22/43 Constitution Avenue	23/08/2016	10/10/2016	-	$490,000	2225m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476434	            22/11 Doonkuna Street	19/02/2016	28/04/2016	-	$490,000	5277m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491988	104/35 Currong Street South	21/12/2016	-	17/11/2016	$459,000	1527m	Full transfer	2	1	0	1	0	$459,000	34	-	Allhomes Record	-	-	-	-	-	-
+2016	498841	            16/35 Currong Street South	21/12/2016	28/02/2017	-	$459,000	1527m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482862	12/3 Allambee Street	26/08/2016	-	26/05/2016	$458,000	5277m	Full transfer	2	1	0	1	0	$458,000	92	-	Allhomes Record	-	-	-	-	-	-
+2016	497017	            12/11 Doonkuna Street	26/08/2016	09/02/2017	-	$457,500	5277m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484493	82/43 Constitution Avenue	09/06/2016	18/08/2016	-	$450,000	2225m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	477412	            3/39 Coranderrk Street	30/05/2016	-	07/04/2016	$435,000	-	Full transfer	2	2	0	2	0	$435,000	53	-	Allhomes Record	-	-	-	-	-	-
+2016	490297	35/43 Constitution Avenue	15/09/2016	01/11/2016	-	$428,000	2225m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	489456	78/43 Constitution Avenue	31/08/2016	18/10/2016	-	$415,000	2225m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	485950	110/14 Boolee Street	05/07/2016	19/08/2016	10/05/2016	$411,000	10482m	Full transfer	2	2	-	0	1	$411,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	476246	68/14 Boolee Street	20/05/2016	-	10/03/2016	$403,000	-	Full transfer	2	1	1	0	1	$403,000	71	-	Allhomes Record	-	-	-	-	-	-
+2016	478022	82/14 Boolee Street	06/04/2016	17/05/2016	27/01/2016	$401,000	10482m	Full transfer	2	1	1	2	0	$401,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	475126	73/14 Boolee Street	11/02/2016	13/04/2016	02/11/2015	$320,000	10482m	Full transfer	1	1	-	1	-	$320,000	101	-	Combined Record	53	-	-	Multiple unit dwelling	$11,149,000	34.84
+2016	474966	113/14 Boolee Street	03/05/2016	-	27/11/2015	$292,500	10482m	Full transfer	1	1	-	-	-	$292,500	158	-	Allhomes Record	47	-	-	-	$11,149,000	38.12
+2016	489095	54 Booroondara Street	21/07/2016	28/10/2016	-	$0	881m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484688	24 Booroondara Street	07/06/2016	19/08/2016	-	$0	1060m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484915	            23/33 Currong Street South	07/03/2016	19/08/2016	-	$0	2497m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497260	67/14 Boolee Street	28/07/2016	10/02/2017	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486210	35 Booroondara Street	29/06/2016	06/09/2016	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520484	22 Booroondara Street	19/05/2016	09/11/2017	-	$0	669m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507014	            CITY7 Cnr Cooyong Street And Ainslie Avenue	10/08/2017	-	16/06/2017	$38,500,000	11712m	Full transfer	-	-	-	-	-	$38,500,000	55	-	Allhomes Record	-	-	-	-	-	-
+2017	518311	57 Euree Street	15/03/2017	07/09/2017	15/02/2017	$2,000,000	1227m	Full transfer	4	2	-	1	1	$2,000,000	28	-	Combined Record	-	-	-	Single residential dwelling	$1,023,000	0.51
+2017	553987	11 Elimatta Street	24/07/2017	-	07/03/2019	$1,950,000	0m	Full transfer	4	2	1	2	-	$1,950,000	-	-	Allhomes Record	-	-	-	-	$1,000,000	0.51
+2017	519404	11 Elimatta Street	21/07/2017	10/10/2017	-	$1,950,000	1180m	Full transfer	-	-	-	-	-	$1,950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523534	69 Euree Street	21/09/2017	21/01/2018	31/05/2017	$1,892,000	1386m	Full transfer	4	2	-	2	0	$1,892,000	113	-	Combined Record	-	-	-	Single residential dwelling	$1,040,000	0.55
+2017	530173	24 Geerilong Gardens	18/11/2017	11/04/2018	26/10/2017	$1,841,000	1372m	Full transfer	5	3	-	1	0	$1,841,000	23	-	Combined Record	-	-	-	Single residential dwelling	$1,129,000	0.61
+2017	494724	14 Geerilong Gardens	20/02/2017	-	24/01/2017	$1,810,000	1242m	Full transfer	4	2	-	2	0	$1,810,000	27	-	Allhomes Record	-	-	-	-	$1,023,000	0.57
+2017	512125	5 Currong Street	18/02/2017	19/05/2017	-	$1,810,000	1242m	Full transfer	-	-	-	-	-	$1,810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524351	43 Euree Street	12/10/2017	23/01/2018	18/08/2017	$1,700,000	1077m	Full transfer	4	1	1	-	-	$1,700,000	55	-	Combined Record	-	-	-	Single residential dwelling	$982,000	0.58
+2017	512952	34 Currong Street South	02/03/2017	26/05/2017	07/02/2017	$1,630,000	1486m	Full transfer	4	2	-	2	-	$1,630,000	23	-	Combined Record	-	-	-	Single residential dwelling	$904,000	0.55
+2017	515307	63 Euree Street	31/05/2017	11/07/2017	20/04/2017	$1,565,000	1158m	Full transfer	3	1	2	0	1	$1,565,000	41	-	Combined Record	-	-	-	Single residential dwelling...	$1,000,000	0.64
+2017	527745	1/3 Doonkuna Street	09/12/2017	15/03/2018	-	$1,555,000	1486m	Full transfer	-	-	-	-	-	$1,555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527758	            0/3 Doonkuna Street	09/12/2017	15/03/2018	-	$1,555,000	1486m	Full transfer	-	-	-	-	-	$1,555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527749	            2/3 Doonkuna Street	09/12/2017	15/03/2018	-	$1,555,000	1486m	Full transfer	-	-	-	-	-	$1,555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527718	3 Doonkuna Street	09/12/2017	15/03/2018	-	$1,555,000	1486m	Full transfer	-	-	-	-	-	$1,555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510421	3AND3A Doonkuna Street	09/12/2017	-	16/11/2017	$1,555,000	1486m	Full transfer	5	3	0	0	0	$1,555,000	23	-	Allhomes Record	-	-	-	-	$904,000	0.58
+2017	524768	17 Currong Street South	18/11/2017	30/01/2018	25/10/2017	$1,450,000	1242m	Full transfer	4	1	-	1	0	$1,450,000	24	-	Combined Record	-	-	-	Single residential dwelling	$1,023,000	0.71
+2017	518609	54 Booroondara Street	17/06/2017	19/09/2017	25/05/2017	$1,421,000	881m	Full transfer	4	2	-	2	0	$1,421,000	23	-	Combined Record	-	-	-	Single residential dwelling	$938,000	0.66
+2017	512701	24 Booroondara Street	08/04/2017	22/05/2017	16/03/2017	$1,390,000	1060m	Full transfer	2	1	-	0	0	$1,390,000	23	-	Combined Record	-	-	-	Single residential dwelling	$982,000	0.71
+2017	519045	34 Elimatta Street	15/07/2017	05/10/2017	13/06/2017	$1,360,000	1208m	Full transfer	3	1	-	1	1	$1,360,000	32	-	Combined Record	-	-	-	Single residential dwelling	$1,023,000	0.75
+2017	515708	72 Coranderrk Street	20/07/2017	20/07/2017	12/04/2017	$1,300,000	1327m	Full transfer	-	-	-	-	-	$1,300,000	99	-	Combined Record	-	-	-	Single residential dwelling	$1,040,000	0.8
+2017	530236	65 Coranderrk Street	28/10/2017	11/04/2018	21/09/2017	$1,275,000	1215m	Full transfer	3	1	-	1	-	$1,275,000	37	-	Combined Record	-	-	-	Single residential dwelling	$883,000	0.69
+2017	521545	7 Booroondara Street	26/08/2017	18/12/2017	02/08/2017	$1,230,000	697m	Full transfer	4	2	-	1	0	$1,230,000	24	-	Combined Record	-	-	-	Single residential dwelling	$737,000	0.6
+2017	498527	23 Dirrawan Gardens	16/03/2017	-	24/02/2017	$1,200,000	973m	Full transfer	-	-	-	-	-	$1,200,000	20	-	Allhomes Record	-	-	-	-	$1,080,000	0.9
+2017	512084	23 Dirrawan Gardens	15/05/2017	15/05/2017	-	$1,200,000	976m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504712	20 Allambee Street	17/03/2017	05/05/2017	20/03/2016	$1,110,000	1108m	Full transfer	3	1	-	1	-	$1,110,000	362	-	Combined Record	-	-	-	Single residential dwelling	$863,000	0.78
+2017	513369	23 Anzac Park	09/03/2017	29/05/2017	15/02/2017	$1,015,000	702m	Full transfer	3	1	-	-	1	$1,015,000	22	-	Combined Record	-	-	-	Single residential dwelling	$747,000	0.74
+2017	520626	2/9 Gooreen Street	30/08/2017	08/11/2017	29/06/2017	$990,000	1208m	Full transfer	3	1	1	2	-	$990,000	62	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	513410	90/43 Constitution Avenue	28/02/2017	30/05/2017	-	$880,000	2225m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501613	24/1 Kogarah Lane	25/01/2017	21/03/2017	-	$830,000	5475m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	493625	56/1 Kogarah Lane	25/01/2017	-	27/10/2016	$830,000	5474m	Full transfer	3	2	0	1	0	$830,000	90	-	Allhomes Record	-	-	-	-	-	-
+2017	512364	            15/11 Doonkuna Street	10/04/2017	08/05/2017	-	$665,000	5277m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522738	            26/11 Doonkuna Street	18/09/2017	09/01/2018	-	$650,000	5277m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	508014	26/3 Allambee Street	18/09/2017	-	25/05/2017	$650,000	5277m	Full transfer	2	2	0	1	0	$650,000	116	-	Allhomes Record	-	-	-	-	-	-
+2017	507534	41/1 Allambee Street	01/09/2017	-	04/05/2017	$541,000	4649m	Full transfer	3	1	1	1	0	$541,000	120	-	Allhomes Record	-	-	-	-	-	-
+2017	503039	6/1 Allambee Street	07/04/2017	10/04/2017	-	$535,000	4649m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500371	40/1 Allambee Street	07/04/2017	-	21/02/2017	$535,000	4649m	Full transfer	3	2	0	1	0	$535,000	45	-	Allhomes Record	-	-	-	-	-	-
+2017	522655	13/37 Kogarah Lane	30/10/2017	11/01/2018	-	$505,000	594m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509028	92/37 Currong Street	30/10/2017	-	05/09/2017	$505,000	0m	Full transfer	2	1	-	1	0	$505,000	55	-	Allhomes Record	-	-	-	-	-	-
+2017	515711	39/14 Boolee Street	06/05/2017	19/07/2017	-	$482,000	10482m	Full transfer	-	-	-	-	-	$482,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524931	29/14 Boolee Street	23/11/2017	29/01/2018	08/11/2017	$480,000	10482m	Full transfer	2	2	0	0	0	$480,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	$11,149,000	23.23
+2017	505405	60/1 Allambee Street	08/06/2017	-	16/05/2017	$475,000	4649m	Full transfer	2	1	0	1	0	$475,000	23	-	Allhomes Record	-	-	-	-	-	-
+2017	516065	1/1 Kogarah Lane	08/06/2017	24/07/2017	-	$475,000	5475m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516162	40/14 Boolee Street	27/03/2017	24/07/2017	02/02/2017	$455,000	10482m	Full transfer	2	2	-	2	-	$455,000	53	-	Combined Record	89	-	-	Multiple unit dwelling	$11,149,000	24.5
+2017	520333	2/37 Kogarah Lane	27/10/2017	30/10/2017	-	$450,000	594m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500702	            18/33 Currong Street South	20/01/2017	14/03/2017	-	$430,000	2497m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	493564	128/33 Currong Street South	20/01/2017	-	23/11/2016	$430,000	2497m	Full transfer	2	1	0	1	0	$430,000	58	-	Allhomes Record	-	-	-	-	-	-
+2017	526685	50/43 Constitution Avenue	21/07/2017	13/10/2017	08/03/2017	$430,000	2225m	Full transfer	1	1	-	-	-	$430,000	135	-	Combined Record	62	-	-	Multiple unit dwelling	-	-
+2017	520056	24/14 Boolee Street	12/09/2017	27/10/2017	23/05/2017	$331,000	10482m	Full transfer	1	1	-	1	-	$331,000	112	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	522110	21/14 Boolee Street	26/07/2017	14/12/2017	-	$325,000	10482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506633	21/14 Boolee Crescent	28/07/2017	-	16/05/2017	$325,000	0m	Full transfer	1	1	-	1	0	$325,000	73	-	Allhomes Record	-	-	-	-	$11,149,000	34.3
+2017	515940	83/14 Boolee Street	07/03/2017	24/07/2017	06/10/2016	$315,000	10482m	Full transfer	1	1	-	-	1	$315,000	152	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	508017	43/14 Boolee Street	15/09/2017	-	02/05/2017	$310,000	10482m	Full transfer	1	1	-	1	-	$310,000	136	-	Allhomes Record	-	-	-	-	-	-
+2017	526254	22/14 Boolee Street	06/12/2017	27/02/2018	-	$300,000	10482m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510414	22/14 Boolee St	06/12/2017	-	25/08/2017	$300,000	0m	Full transfer	1	1	-	1	0	$300,000	103	-	Allhomes Record	-	-	-	-	$11,149,000	37.16
+2017	528095	28/1 Kogarah Lane	08/12/2017	21/03/2018	-	$90,000	5475m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516465	15 Gooreen Street	21/07/2017	07/08/2017	-	$0	920m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530101	52 Booroondara Street	26/12/2017	12/04/2018	-	$0	943m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503325	3/1 Allambee Street	18/02/2017	03/04/2017	-	$0	4649m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517995	17 Currong Street South	02/06/2017	30/08/2017	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	570976	5/1 Allambee Street	22/10/2017	01/10/2019	-	$0	4649m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	536942	8 Currong Street South	06/09/2017	08/07/2018	-	$0	1242m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517111	7 Booroondara Street	18/02/2017	02/08/2017	-	$0	697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519611	10 Amaroo Street	24/07/2017	10/10/2017	-	$0	697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551975	20 Coranderrk Street	11/12/2018	01/02/2019	-	$1,885,000	910m	Full transfer	-	-	-	-	-	$1,885,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555284	42 Euree Street	26/09/2018	14/03/2019	05/09/2018	$1,860,000	1242m	Full transfer	5	3	-	2	0	$1,860,000	21	-	Combined Record	-	-	-	Single residential dwelling	$1,031,000	0.55
+2018	551875	12 Allambee Street	03/11/2018	29/01/2019	11/10/2018	$1,750,000	1071m	Full transfer	4	3	-	2	-	$1,750,000	23	-	Combined Record	203	-	-	Single residential dwelling	$888,000	0.51
+2018	537277	40 Coranderrk Street	11/04/2018	05/07/2018	29/01/2018	$1,699,000	1242m	Full transfer	4	2	-	2	-	$1,699,000	72	-	Combined Record	-	-	-	Single residential dwelling	$1,031,000	0.61
+2018	541463	47 Coranderrk Street	06/06/2018	05/09/2018	19/04/2018	$1,500,000	1159m	Full transfer	3	2	-	4	-	$1,500,000	48	-	Combined Record	-	-	-	Single residential dwelling	$986,000	0.66
+2018	530026	11 Dirrawan Gardens	10/01/2018	09/04/2018	-	$1,450,000	1077m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532783	23 Dirrawan Gardens	02/02/2018	17/05/2018	-	$1,400,000	976m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553049	32 Dirrawan Gardens	20/12/2018	05/02/2019	08/11/2018	$1,360,000	910m	Full transfer	3	2	-	0	2	$1,360,000	42	-	Combined Record	-	-	-	Single residential dwelling	$1,050,000	0.77
+2018	534487	8 Booroondara Street	28/02/2018	05/06/2018	01/02/2018	$1,205,000	668m	Full transfer	4	2	-	2	0	$1,205,000	27	-	Combined Record	-	-	-	Single residential dwelling	$807,000	0.67
+2018	537964	8/3 Allambee Street	31/07/2018	-	31/05/2018	$975,000	0m	Full transfer	3	2	-	1	0	$975,000	61	-	Allhomes Record	-	-	-	-	$6,081,000	6.24
+2018	534965	21/1 Kogarah Lane	26/03/2018	13/06/2018	-	$975,000	5475m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542805	            8/11 Doonkuna Street	31/07/2018	24/09/2018	-	$975,000	5277m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527438	53/1 Kogarah Lane	27/03/2018	-	01/02/2018	$975,000	-	Full transfer	4	2	0	1	0	$975,000	54	-	Allhomes Record	-	-	-	-	$5,879,000	6.03
+2018	553154	9/1 Kogarah Lane	25/10/2018	06/02/2019	-	$810,000	5475m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544118	            68 Argyle Square 1 Allambee Street	25/10/2018	-	04/10/2018	$810,000	0m	Full transfer	3	2	-	1	0	$810,000	21	-	Allhomes Record	-	-	-	-	$5,879,000	7.26
+2018	545981	52/43 Constitution Ave	30/11/2018	-	30/07/2018	$665,000	0m	Full transfer	2	2	-	2	0	$665,000	123	-	Allhomes Record	-	-	-	-	$6,550,000	9.85
+2018	554315	52/43 Constitution Avenue	20/12/2018	05/03/2019	-	$665,000	2225m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548488	            14/11 Doonkuna Street	29/08/2018	19/12/2018	-	$650,000	5277m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539850	14/3 Allambee Street	29/08/2018	-	06/08/2018	$650,000	0m	Full transfer	2	2	-	2	0	$650,000	23	-	Allhomes Record	-	-	-	-	-	-
+2018	561688	36 Allambee Street	14/12/2018	29/05/2019	-	$534,900	885m	Full transfer	-	-	-	-	-	$534,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541548	74 Argyle Square 1 Kogarah Lane	22/09/2018	-	30/08/2018	$530,000	0m	Full transfer	2	1	-	1	0	$530,000	23	-	Allhomes Record	-	-	-	-	-	-
+2018	547351	14/1 Kogarah Lane	22/09/2018	23/11/2018	-	$530,000	5475m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541452	88/43 Constitution Avenue	11/07/2018	03/09/2018	05/04/2018	$520,000	2225m	Full transfer	1	1	-	1	0	$520,000	97	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551770	57/43 Constitution Avenue	05/12/2018	10/01/2019	-	$500,000	2225m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531484	76/43 Constitution Avenue	08/03/2018	29/04/2018	12/10/2017	$500,000	2225m	Full transfer	1	1	0	1	0	$500,000	147	-	Combined Record	-	-	-	Multiple unit dwelling	$6,550,000	13.1
+2018	545962	87/37 Currong Street	20/12/2018	-	25/01/2018	$475,000	0m	Full transfer	2	1	-	1	0	$475,000	329	-	Allhomes Record	-	-	-	-	-	-
+2018	526466	17/3 Allambee Street	06/03/2018	-	09/11/2017	$465,000	0m	Full transfer	2	1	-	1	0	$465,000	117	-	Allhomes Record	-	-	-	-	-	-
+2018	548979	111/14 Boolee Street	30/11/2018	15/01/2019	-	$455,000	10482m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528903	20/37 Kogarah Lane	24/01/2018	26/03/2018	-	$453,000	594m	Full transfer	-	-	-	-	-	$453,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532867	75/43 Constitution Avenue	20/03/2018	15/05/2018	02/03/2018	$450,000	2225m	Full transfer	1	1	0	0	0	$450,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	$6,550,000	14.56
+2018	552252	8/37 Kogarah Lane	05/12/2018	22/01/2019	-	$445,000	594m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535713	67/14 Boolee Street	20/03/2018	24/06/2018	01/02/2018	$442,500	10482m	Full transfer	2	2	-	2	-	$442,500	47	-	Combined Record	89	-	-	Multiple unit dwelling	$11,149,000	25.2
+2018	548473	2/14 Boolee Street	02/11/2018	20/12/2018	-	$430,000	10482m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539965	1/35 Currong Street	04/09/2018	-	19/07/2018	$430,000	0m	Full transfer	2	1	-	1	0	$430,000	47	-	Allhomes Record	-	-	-	-	-	-
+2018	525366	108/14 Boolee Street	26/02/2018	-	14/11/2017	$430,000	0m	Full transfer	2	2	-	2	0	$430,000	104	-	Allhomes Record	-	-	-	-	-	-
+2018	547557	            1/35 Currong Street South	04/09/2018	22/10/2018	-	$430,000	1527m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533245	57/14 Boolee Street	13/06/2018	-	19/04/2018	$413,000	0m	Full transfer	2	1	-	1	0	$413,000	55	-	Allhomes Record	-	-	-	-	-	-
+2018	545847	72/43 Constitution Ave	11/12/2018	-	31/10/2018	$408,000	0m	Full transfer	1	1	-	1	0	$408,000	41	-	Allhomes Record	-	-	-	-	$6,550,000	16.05
+2018	560991	72/43 Constitution Avenue	11/12/2018	18/02/2019	-	$408,000	2225m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547183	61/43 Constitution Avenue	05/10/2018	23/11/2018	02/08/2018	$390,000	2225m	Full transfer	1	1	-	1	0	$390,000	64	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	543245	49/43 Constitution Avenue	15/08/2018	02/10/2018	04/04/2018	$360,000	2225m	Full transfer	1	1	-	0	0	$360,000	133	-	Combined Record	-	-	-	Multiple unit dwelling	$6,550,000	18.19
+2018	549821	97/14 Boolee Street	17/10/2018	19/12/2018	-	$360,000	10482m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	545375	97/14 Boolee Street	28/11/2018	-	20/09/2018	$360,000	10482m	Full transfer	2	1	-	-	-	$360,000	69	-	Allhomes Record	-	-	-	-	-	-
+2018	541910	100/14 Boolee Street	18/07/2018	11/09/2018	22/02/2018	$345,000	10482m	Full transfer	1	1	-	1	-	$345,000	146	-	Combined Record	50	-	-	Multiple unit dwelling	$11,149,000	32.32
+2018	531333	127/14 Boolee Street	02/03/2018	26/04/2018	01/02/2018	$330,000	10482m	Full transfer	1	1	-	0	1	$330,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	548567	11/14 Boolee Street	18/10/2018	17/12/2018	06/09/2018	$330,000	10482m	Full transfer	1	1	-	1	-	$330,000	42	-	Combined Record	61	-	-	Multiple unit dwelling	$11,149,000	33.78
+2018	536142	135/14 Boolee Street	26/04/2018	24/06/2018	17/01/2018	$315,000	10482m	Full transfer	1	1	-	0	-	$315,000	99	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	561582	51/43 Constitution Avenue	21/12/2018	20/02/2019	18/10/2018	$270,000	2225m	Full transfer	1	1	-	1	0	$270,000	64	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	540670	14 Gooreen Street	17/07/2018	20/08/2018	15/03/2018	$0	920m	Full transfer	4	3	-	2	0	$0	124	-	Combined Record	-	-	-	Single residential dwelling	$870,000	33.78
+2018	529420	20 Dirrawan Gardens	15/01/2018	08/04/2018	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558438	            10/11 Doonkuna Street	10/12/2018	02/05/2019	-	$0	5277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542695	14/1 Kogarah Lane	17/03/2018	27/09/2018	-	$0	5475m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559914	25/14 Boolee Street	30/05/2018	24/05/2019	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542888	67 Euree Street	19/05/2018	25/09/2018	-	$0	1501m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554223	85/14 Boolee Street	09/07/2018	26/02/2019	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	554140	18/14 Boolee Street	09/07/2018	25/02/2019	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575472	45 Euree Street	14/12/2019	-	19/11/2019	$1,640,000	1045m	Full transfer	4	2	-	1	0	$1,640,000	25	-	Allhomes Record	-	-	-	-	$1,080,000	0.66
+2019	576165	23 Elimatta Street	17/12/2019	-	03/10/2019	$1,500,000	881m	Full transfer	4	2	-	1	0	$1,500,000	75	-	Allhomes Record	-	-	-	-	$1,032,000	0.69
+2019	572453	37 Euree Street	16/11/2019	-	23/10/2019	$1,480,000	1077m	Full transfer	4	2	-	1	1	$1,480,000	24	-	Allhomes Record	-	-	-	-	$1,080,000	0.73
+2019	563709	33 Elimatta Street	13/07/2019	-	06/06/2019	$1,462,000	1289m	Full transfer	3	1	-	1	0	$1,462,000	37	-	Allhomes Record	-	-	-	-	$1,074,000	0.73
+2019	571636	73 Euree Street	07/11/2019	-	10/04/2019	$1,410,000	0m	Full transfer	3	2	-	1	-	$1,410,000	211	-	Allhomes Record	-	-	-	-	$894,000	0.63
+2019	559146	2 Dirrawan Gardens	27/02/2019	14/05/2019	06/02/2019	$1,335,000	1008m	Full transfer	4	2	-	1	-	$1,335,000	21	-	Combined Record	-	-	-	Single residential dwelling	$1,074,000	0.8
+2019	567924	18 Geerilong Gardens	16/04/2019	20/08/2019	-	$1,300,000	1077m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569986	90/43 Constitution Avenue	23/07/2019	20/09/2019	-	$1,100,000	2225m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574313	1/5 Gooreen Street	26/09/2019	12/11/2019	-	$1,100,000	1442m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564844	5/11 Doonkuna Street	28/02/2019	08/07/2019	-	$1,000,000	5277m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	553783	5/3 Allambee Street	28/02/2019	-	31/01/2019	$1,000,000	0m	Full transfer	4	3	-	1	0	$1,000,000	28	-	Allhomes Record	-	-	-	-	$6,081,000	6.08
+2019	576177	26/3 Allambee Street	03/12/2019	-	25/11/2019	$640,000	0m	Full transfer	2	2	-	1	0	$640,000	8	-	Allhomes Record	-	-	-	-	-	-
+2019	556379	71/14 Boolee Street	25/02/2019	26/03/2019	15/11/2018	$488,000	10482m	Full transfer	2	2	-	2	0	$488,000	102	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	576068	            18/33 Currong Street South	29/10/2019	07/12/2019	-	$480,000	2497m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571361	128/33 Currong Street South	29/10/2019	-	04/10/2019	$480,000	0m	Full transfer	2	1	-	1	0	$480,000	25	-	Allhomes Record	-	-	-	-	-	-
+2019	556357	105/14 Boolee Street	05/02/2019	28/03/2019	-	$475,000	10482m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576590	85/14 Boolee Street	16/10/2019	10/12/2019	13/09/2019	$463,000	10482m	Full transfer	2	1	1	1	0	$463,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	576910	            119/35 Currong Street	20/12/2019	-	09/10/2019	$440,000	0m	Full transfer	2	1	-	1	0	$440,000	72	-	Allhomes Record	-	-	-	-	-	-
+2019	576552	7/43 Constitution Avenue	31/10/2019	12/12/2019	09/08/2019	$390,000	2225m	Full transfer	1	1	-	1	0	$390,000	83	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563087	46/43 Constitution Avenue	03/05/2019	18/06/2019	14/02/2019	$380,000	2225m	Full transfer	1	1	-	1	0	$380,000	78	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	571896	21/43 Constitution Avenue	28/06/2019	09/10/2019	09/04/2019	$375,000	2225m	Full transfer	1	1	-	1	0	$375,000	80	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	555665	132/14 Boolee Street	26/02/2019	21/03/2019	17/10/2018	$323,000	10482m	Full transfer	1	1	-	0	0	$323,000	132	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	571342	83/14 Boolee Street	29/10/2019	-	03/10/2019	$320,000	0m	Full transfer	1	1	-	1	0	$320,000	26	-	Allhomes Record	-	-	-	-	-	-
+2019	566026	18/14 Boolee Street	19/06/2019	29/07/2019	02/05/2019	$311,000	10482m	Full transfer	1	1	-	1	0	$311,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	573616	22/14 Boolee Street	30/07/2019	08/11/2019	12/04/2019	$295,000	10482m	Full transfer	1	1	-	1	0	$295,000	109	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	559489	4/11 Doonkuna Street	08/04/2019	13/05/2019	-	$290,000	5277m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567775	18 Geerilong Gardens	17/03/2019	20/08/2019	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570468	81/14 Boolee Street	08/08/2019	26/09/2019	-	$0	10482m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
