@@ -1,0 +1,3 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2014	440721	1283 Cotter Road	18/12/2014	-	03/10/2014	$2,525,000	2501857m	Full transfer	6	1	2	2	2	$2,525,000	76	-	Allhomes Record	365	-	-	-	-	-
+2015	465531	88 Hake Street	03/07/2015	10/11/2015	-	$7,000,000	2902843m	Full transfer	-	-	-	-	-	$7,000,000	-	-	Government Record	-	-	-	Residential	-	-
