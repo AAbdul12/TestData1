@@ -1,0 +1,25 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2012	389989	            69 Jim Bradley Crescent	14/12/2012	31/01/2013	-	$460,000	1394m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388654	            85 Jim Bradley Crescent	09/11/2012	15/01/2013	-	$450,000	1072m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	405357	            5 Kelvin Street	17/10/2012	23/07/2013	-	$0	1049m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411883	77 Jim Bradley Crescent	30/07/2013	20/10/2013	31/10/2012	$625,000	1255m	Full transfer	4	1	1	3	-	$625,000	272	-	Combined Record	-	-	-	Single residential dwelling	$204,000	0.33
+2013	405356	            5 Kelvin Street	30/04/2013	23/07/2013	-	$592,500	1049m	Full transfer	-	-	-	-	-	$592,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416570	30 Jim Bradley Crescent	16/10/2013	18/12/2013	-	$404,000	1430m	Full transfer	-	-	-	-	-	$404,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416571	73 Jim Bradley Crescent	21/11/2013	20/12/2013	-	$404,000	1213m	Full transfer	-	-	-	-	-	$404,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407099	26 Jim Bradley Crescent	26/06/2013	12/08/2013	-	$0	1235m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441745	24 Jim Bradley Crescent	02/10/2014	10/12/2014	-	$600,000	1310m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435801	25 Jim Bradley Crescent	26/06/2014	15/09/2014	-	$462,500	3060m	Full transfer	-	-	-	-	-	$462,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427233	81 Jim Bradley Crescent	13/03/2014	06/05/2014	-	$365,000	1394m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470966	19 Jim Bradley Crescent	18/09/2015	10/02/2016	-	$730,000	2998m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465439	83 Jim Bradley Crescent	08/05/2015	02/11/2015	-	$637,500	1224m	Full transfer	-	-	-	-	-	$637,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494053	            7 Len Ryan Street	13/08/2016	20/12/2016	-	$735,000	2088m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495138	            9 Shirley Taylor Place	11/11/2016	10/01/2017	-	$720,000	2032m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518280	41 Jim Bradley Crescent	21/06/2017	28/08/2017	-	$817,500	2252m	Full transfer	-	-	-	-	-	$817,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505001	            8 Sue Watt Place	06/03/2017	01/05/2017	-	$740,000	2020m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520839	            10 Ritherdon Place	17/08/2017	23/11/2017	-	$720,000	2000m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515580	            3 Sue Watt Place	05/05/2017	20/07/2017	-	$705,000	2000m	Full transfer	-	-	-	-	-	$705,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518477	            5 Kelvin Street	03/06/2017	04/09/2017	-	$692,000	1049m	Full transfer	-	-	-	-	-	$692,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518422	            7 Ray Donnelly Street	22/06/2017	09/09/2017	-	$631,000	1840m	Full transfer	-	-	-	-	-	$631,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503482	67 Jim Bradley Crescent	23/02/2017	06/04/2017	-	$575,000	1394m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519814	26 Jim Bradley Crescent	29/08/2017	17/10/2017	-	$520,000	1235m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517723	81 Jim Bradley Crescent	30/06/2017	29/08/2017	-	$488,825	1394m	Full transfer	-	-	-	-	-	$488,825	-	-	Government Record	-	-	-	Single residential dwelling	-	-
