@@ -1,0 +1,396 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	169811	12 Bracker Place	04/11/2006	13/12/2006	04/10/2006	$567,000	781m	Full transfer	5	3	-	3	-	$567,000	31	-	Combined Record	-	-	-	Single residential dwelling	$228,000	0.4
+2006	169441	4 Merriman Crescent	01/11/2006	22/02/2007	-	$549,000	902m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169581	13 Starritt Place	25/08/2006	14/11/2006	27/07/2006	$531,000	981m	Full transfer	4	1	1	2	-	$531,000	29	-	Combined Record	-	-	-	Single residential dwelling	$212,000	0.4
+2006	35848	103 Jackie Howe Crescent	23/09/2006	11/01/2007	16/08/2006	$520,000	1068m	Full transfer	5	1	2	2	-	$520,000	38	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.37
+2006	72062	163 Jackie Howe Crescent	28/02/2006	-	07/12/2005	$510,000	1311m	Full transfer	4	1	1	2	-	$510,000	83	-	Allhomes Record	-	-	-	-	$237,000	0.46
+2006	220968	163 Jackie Howe Crescent	17/02/2006	15/03/2006	-	$510,000	1311m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	306501	8 Ebsworth Close	09/11/2006	13/03/2007	-	$500,000	894m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202535	133 Jackie Howe Crescent	06/07/2006	04/08/2006	-	$485,000	847m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32859	15 Hardie Close	31/10/2006	04/12/2006	28/08/2006	$482,000	1008m	Full transfer	4	1	1	2	-	$482,000	64	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.46
+2006	169408	15 Jackie Howe Crescent	28/09/2006	12/12/2006	03/08/2006	$470,000	1395m	Full transfer	3	1	1	2	1	$470,000	56	-	Combined Record	-	-	-	Single residential dwelling	$153,000	0.33
+2006	317968	15 Max Henry Crescent	25/07/2006	12/10/2006	-	$459,000	825m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168005	16 Max Henry Crescent	10/07/2006	10/08/2006	-	$450,000	792m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169580	41 Coyne Street	11/09/2006	14/11/2006	03/08/2006	$445,000	1175m	Full transfer	4	1	1	1	-	$445,000	39	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.33
+2006	32333	14 Merriman Crescent	03/10/2006	08/11/2006	25/08/2006	$440,000	805m	Full transfer	4	1	1	2	-	$440,000	39	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.37
+2006	319556	9 Beggs Place	22/03/2006	17/05/2006	-	$430,000	830m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164237	3 Body Place	03/07/2006	20/08/2006	14/06/2006	$430,000	936m	Full transfer	4	1	1	1	1	$430,000	19	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.39
+2006	85871	48 Max Henry Crescent	08/11/2006	-	09/08/2006	$425,000	789m	Full transfer	4	1	1	2	-	$425,000	91	-	Allhomes Record	-	-	-	-	$199,000	0.47
+2006	165565	25 Hawkesworth Place	20/11/2006	29/01/2007	-	$415,000	973m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	220989	7 Hawkesworth Place	21/04/2006	23/05/2006	-	$405,000	1316m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37399	98 Jackie Howe Crescent	15/08/2006	20/09/2006	-	$392,000	937m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	84117	6 Starritt Place	08/11/2006	-	06/07/2006	$380,500	625m	Full transfer	3	1	1	2	-	$380,500	125	-	Allhomes Record	-	-	-	-	$146,000	0.38
+2006	220949	111 Jackie Howe Crescent	17/01/2006	07/02/2006	-	$370,000	839m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319559	15 Kater Close	11/01/2006	23/02/2006	-	$365,000	798m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32332	54 Jackie Howe Crescent	28/08/2006	10/11/2006	26/07/2006	$365,000	899m	Full transfer	3	1	1	1	-	$365,000	33	-	Combined Record	-	-	-	Single residential dwelling	$207,000	0.57
+2006	165468	22 Falkiner Place	01/12/2006	29/01/2007	14/11/2006	$341,250	1031m	Full transfer	3	1	-	-	2	$341,250	17	-	Combined Record	-	-	-	Single residential dwelling	$125,000	0.37
+2006	220987	1/14 Starritt Place	21/03/2006	05/04/2006	-	$320,000	2867m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	220944	28 Hardie Close	28/04/2006	23/05/2006	-	$320,000	1135m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165123	17 Merriman Crescent	27/10/2006	15/02/2007	-	$0	1248m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169425	24 Falkiner Place	10/10/2006	20/02/2007	-	$0	1092m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	220982	136 Jackie Howe Crescent	22/03/2006	09/05/2006	-	-	857m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	220952	87 Jackie Howe Crescent	21/03/2006	28/03/2006	-	-	1371m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166945	6 Beggs Place	06/07/2007	22/08/2007	23/05/2007	$665,000	935m	Full transfer	5	2	1	2	-	$665,000	44	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.35
+2007	408869	2 Goldsbrough Close	25/08/2007	02/12/2007	14/07/2007	$647,500	831m	Full transfer	4	1	1	2	-	$647,500	42	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.26
+2007	235111	16 Ebsworth Close	17/11/2007	08/02/2008	-	$640,000	1113m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230215	9 Hardie Close	22/11/2007	27/01/2008	19/10/2007	$630,000	1278m	Full transfer	4	1	1	2	-	$630,000	34	-	Combined Record	-	-	-	Single residential dwelling	$238,000	0.38
+2007	236650	14 Merriman Crescent	15/12/2007	16/04/2008	-	$574,500	805m	Full transfer	-	-	-	-	-	$574,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231158	21 Max Henry Crescent	24/10/2007	16/01/2008	-	$549,000	954m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231760	7 Dennys Place	24/10/2007	17/12/2007	27/09/2007	$530,000	970m	Full transfer	4	1	1	2	-	$530,000	27	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.41
+2007	35546	83 Jackie Howe Crescent	23/03/2007	20/06/2007	-	$525,000	1150m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	314879	3 Jackie Howe Crescent	19/05/2007	07/11/2007	-	$520,000	777m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33754	11 Bracker Place	03/03/2007	24/05/2007	31/01/2007	$475,000	978m	Full transfer	3	1	1	1	-	$475,000	31	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.53
+2007	309137	72 Jackie Howe Crescent	31/03/2007	12/06/2007	-	$470,000	811m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230888	7 Hawkesworth Place	28/09/2007	05/12/2007	15/08/2007	$470,000	1316m	Full transfer	4	1	1	-	2	$470,000	44	-	Combined Record	-	-	-	Single residential dwelling	$136,000	0.29
+2007	316450	3 Bayly Place	26/07/2007	27/09/2007	-	$462,500	926m	Full transfer	-	-	-	-	-	$462,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408870	4 Hardie Close	19/06/2007	31/07/2007	11/05/2007	$462,000	1129m	Full transfer	4	1	1	-	3	$462,000	39	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.42
+2007	318266	81 Jackie Howe Crescent	22/01/2007	06/03/2007	-	$460,000	1132m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166479	27 Max Henry Crescent	21/06/2007	06/08/2007	-	$460,000	968m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	314692	8 Marston Place	07/11/2007	11/12/2007	-	$455,000	933m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231312	14 Hardie Close	15/10/2007	29/11/2007	-	$445,000	1114m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36826	148 Jackie Howe Crescent	16/06/2007	18/07/2007	19/04/2007	$430,000	860m	Full transfer	4	1	1	2	-	$430,000	58	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.41
+2007	165033	22 Max Henry Crescent	26/04/2007	25/06/2007	22/03/2007	$430,000	1091m	Full transfer	4	1	1	2	-	$430,000	35	-	Combined Record	-	-	-	Single residential dwelling	$171,000	0.4
+2007	37082	28 Merriman Crescent	15/05/2007	20/07/2007	-	$410,000	893m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232400	19 Hardie Close	04/10/2007	10/12/2007	-	$400,000	932m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167789	24 Max Henry Crescent	18/06/2007	04/10/2007	-	$397,500	776m	Full transfer	-	-	-	-	-	$397,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	307205	19 Falkiner Place	10/02/2007	12/04/2007	-	$390,000	892m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167484	13 Merriman Crescent	06/08/2007	03/09/2007	-	$377,000	795m	Full transfer	-	-	-	-	-	$377,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167264	4 Marston Place	30/03/2007	13/04/2007	-	$0	936m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232296	18 Mules Place	18/10/2007	29/12/2007	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232632	2 Schinckel Place	20/08/2007	13/11/2007	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	149964	29 Merriman Crescent	03/06/2007	11/04/2008	-	-	777m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21866		06/08/2007	-	27/06/2007	-	-	Full transfer	3	1	-	-	1	-	40	-	Allhomes Record	-	-	-	-	-	-
+2007	232434	131 Jackie Howe Crescent	30/11/2007	17/01/2008	-	-	847m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	229647	9 Hawkesworth Place	15/11/2007	29/07/2008	-	-	1121m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234194	87 Jackie Howe Crescent	14/04/2008	13/06/2008	21/02/2008	$679,000	1371m	Full transfer	5	2	1	2	-	$679,000	53	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.32
+2008	233331	31 Jackie Howe Crescent	12/05/2008	19/06/2008	10/03/2008	$669,500	1395m	Full transfer	6	2	1	2	-	$669,500	63	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.3
+2008	321314	41 Jackie Howe Crescent	19/09/2008	07/01/2009	-	$605,000	1330m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241089	19 Jackie Howe Crescent	20/10/2008	22/12/2008	-	$570,000	959m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231169	4 Haly Place	08/05/2008	04/06/2008	27/02/2008	$545,000	922m	Full transfer	4	1	1	2	1	$545,000	71	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.41
+2008	242312	15 Macknight Place	26/11/2008	04/02/2009	17/10/2008	$490,000	939m	Full transfer	4	1	1	2	-	$490,000	40	-	Combined Record	-	-	-	Single residential dwelling	$249,000	0.51
+2008	322157	22 Hardie Close	17/09/2008	29/10/2008	-	$465,000	837m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239673	6/10 Starritt Place	02/09/2008	22/10/2008	-	$460,000	4028m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239108	2/10 Starritt Place	22/09/2008	19/11/2008	-	$450,000	4028m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236173	28 Max Henry Crescent	04/04/2008	15/05/2008	13/12/2007	$450,000	1088m	Full transfer	3	1	-	2	-	$450,000	113	-	Combined Record	-	-	-	Single residential dwelling	$203,000	0.45
+2008	24499	2/10 Starritt Place	23/09/2008	-	22/04/2008	$450,000	4028m	Full transfer	3	1	1	2	-	$450,000	154	-	Allhomes Record	-	-	-	-	$602,000	1.34
+2008	234331	177 Jackie Howe Crescent	15/03/2008	07/05/2008	-	$415,000	508m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	231973	38 Falkiner Place	16/05/2008	30/06/2008	-	$389,000	1192m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320053	8 Schinckel Place	31/05/2008	28/07/2008	-	$380,000	775m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232997	5 Mules Place	29/04/2008	27/05/2008	20/12/2007	$380,000	729m	Full transfer	3	1	-	1	1	$380,000	131	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.42
+2008	229646	1 Merriman Crescent	27/06/2008	01/08/2008	29/04/2008	$350,000	760m	Full transfer	3	1	-	-	-	$350,000	59	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.57
+2008	237575	40 Falkiner Place	12/10/2008	05/01/2009	-	-	1081m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239997	82 Jackie Howe Crescent	25/09/2008	15/10/2008	-	-	902m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234030	1 Haly Place	30/04/2008	25/06/2008	-	-	779m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237423	10 Bracker Place	06/06/2008	28/08/2008	-	-	768m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239998	3 Macknight Place	29/08/2008	15/10/2008	-	-	1127m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249253	14 Kater Close	10/07/2009	09/10/2009	11/06/2009	$765,000	1205m	Full transfer	6	1	2	2	-	$765,000	29	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.36
+2009	249960	163 Jackie Howe Crescent	11/09/2009	17/11/2009	19/08/2009	$680,000	1311m	Full transfer	4	3	1	2	-	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.47
+2009	243467	25 Kater Close	29/01/2009	23/03/2009	12/12/2008	$650,000	868m	Full transfer	5	2	1	2	-	$650,000	48	-	Combined Record	-	-	-	Single residential dwelling...	$235,000	0.36
+2009	252031	17 Jackie Howe Crescent	21/11/2009	07/01/2010	29/10/2009	$640,000	1400m	Full transfer	4	1	1	2	-	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.33
+2009	248482	20 Kater Close	06/10/2009	16/12/2009	-	$595,000	1016m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	486465	183 Jackie Howe Crescent	02/10/2009	14/09/2016	-	$575,000	845m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	130420	1 Kater Close	01/10/2009	-	23/09/2009	$575,000	845m	Full transfer	4	1	1	2	-	$575,000	8	-	Allhomes Record	-	-	-	-	$221,000	0.38
+2009	324710	7 Bayly Place	25/08/2009	28/10/2009	-	$572,000	881m	Full transfer	-	-	-	-	-	$572,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	322518	2 Bracker Place	21/03/2009	07/05/2009	-	$564,500	1040m	Full transfer	-	-	-	-	-	$564,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325548	12 Dennys Place	24/12/2009	23/02/2010	-	$551,000	1185m	Full transfer	-	-	-	-	-	$551,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251608	6 Macknight Place	28/10/2009	22/12/2009	-	$546,950	788m	Full transfer	-	-	-	-	-	$546,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249958	111 Jackie Howe Crescent	13/10/2009	19/11/2009	07/09/2009	$535,000	839m	Full transfer	4	1	1	-	2	$535,000	36	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.45
+2009	321532	8 Marston Place	27/02/2009	06/04/2009	-	$523,000	933m	Full transfer	-	-	-	-	-	$523,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249464	16 Max Henry Crescent	01/08/2009	20/10/2009	-	$500,000	792m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242311	46 Max Henry Crescent	02/01/2009	02/02/2009	11/11/2008	$495,000	777m	Full transfer	4	2	1	2	-	$495,000	52	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.45
+2009	244592	159 Jackie Howe Crescent	28/05/2009	02/07/2009	22/10/2008	$495,000	1009m	Full transfer	4	1	1	2	-	$495,000	218	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.58
+2009	126155	112 Jackie Howe Crescent	15/05/2009	-	28/04/2009	$485,000	718m	Full transfer	4	1	1	2	-	$485,000	17	-	Allhomes Record	-	-	-	-	$220,000	0.45
+2009	347902	5/10 Starritt Place	12/09/2009	24/10/2011	-	$470,000	4028m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238804	79 Merriman Crescent	25/03/2009	30/04/2009	21/10/2008	$470,000	858m	Full transfer	4	1	1	2	-	$470,000	155	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.44
+2009	248110	70 Jackie Howe Crescent	04/07/2009	16/09/2009	05/06/2009	$467,500	861m	Full transfer	3	1	1	2	0	$467,500	29	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.58
+2009	241577	25 Max Henry Crescent	02/04/2009	11/05/2009	-	$465,000	735m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249746	8 Macknight Place	30/09/2009	06/11/2009	15/09/2009	$432,000	836m	Full transfer	3	1	1	-	1	$432,000	15	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.53
+2009	249959	26 Merriman Crescent	30/09/2009	17/11/2009	31/08/2009	$431,000	856m	Full transfer	3	1	-	-	1	$431,000	30	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.5
+2009	249254	39 Merriman Crescent	24/06/2009	28/09/2009	-	$420,000	1250m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262877	20 Hardie Close	23/12/2009	16/02/2010	12/11/2009	$415,000	1209m	Full transfer	3	1	-	2	-	$415,000	41	-	Combined Record	-	-	-	Single residential dwelling	$228,000	0.55
+2009	238803	26 Max Henry Crescent	14/03/2009	30/04/2009	19/02/2009	$412,000	790m	Full transfer	3	1	0	3	0	$412,000	23	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.58
+2009	245244	7 Merriman Crescent	27/05/2009	29/07/2009	24/04/2009	$410,000	792m	Full transfer	3	1	-	2	-	$410,000	33	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.53
+2009	244593	136 Jackie Howe Crescent	15/05/2009	01/07/2009	25/03/2009	$410,000	857m	Full transfer	3	1	-	4	2	$410,000	51	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.52
+2009	323280	10 Body Place	18/02/2009	31/03/2009	-	$405,000	687m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324081	8 Body Place	18/07/2009	24/08/2009	-	$397,000	681m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251679	55 Merriman Crescent	04/11/2009	10/01/2010	-	$380,000	707m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238382	7 Jackie Howe Crescent	06/03/2009	17/04/2009	04/02/2009	$375,000	1395m	Full transfer	3	1	-	-	-	$375,000	30	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.51
+2009	321578	40 Falkiner Place	27/02/2009	17/04/2009	-	$361,000	1081m	Full transfer	-	-	-	-	-	$361,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245837	12 Hardie Close	12/05/2009	16/08/2009	-	$159,000	771m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	338434	93 Jackie Howe Crescent	26/09/2009	13/09/2011	-	-	1343m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244881	6 Bayly Place	25/05/2009	23/07/2009	-	-	1153m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246546	100 Jackie Howe Crescent	04/08/2009	07/09/2009	-	-	758m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249255	4 Falkiner Place	25/01/2009	06/10/2009	-	-	919m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274493	118 Jackie Howe Crescent	22/06/2010	10/11/2010	23/03/2010	$745,000	743m	Full transfer	4	1	1	2	-	$745,000	91	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.36
+2010	292481	33 Jackie Howe Crescent	04/12/2010	03/05/2011	11/11/2010	$700,000	1400m	Full transfer	5	1	1	2	-	$700,000	23	-	Combined Record	278	-	-	Single residential dwelling	$266,000	0.38
+2010	329647	35 Falkiner Place	06/11/2010	19/01/2011	-	$645,000	973m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274494	22 Hardie Close	21/08/2010	09/11/2010	-	$615,000	837m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275882	15 Jackie Howe Crescent	03/11/2010	12/01/2011	23/09/2010	$575,000	1395m	Full transfer	3	1	1	2	1	$575,000	41	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.43
+2010	327590	3 Body Place	16/04/2010	01/06/2010	-	$570,000	936m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	327836	108 Jackie Howe Crescent	05/05/2010	22/06/2010	-	$550,000	664m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263931	8 Bayly Place	10/04/2010	31/05/2010	-	$548,000	799m	Full transfer	-	-	-	-	-	$548,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	330249	10 Ebsworth Close	04/12/2010	16/02/2011	-	$545,000	886m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267652	148 Jackie Howe Crescent	14/04/2010	23/06/2010	-	$530,000	860m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328912	4 Falkiner Place	11/09/2010	02/11/2010	-	$511,000	919m	Full transfer	-	-	-	-	-	$511,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258747	53 Coyne Street	13/03/2010	18/05/2010	18/02/2010	$495,000	840m	Full transfer	3	1	1	2	-	$495,000	23	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.56
+2010	284102	16 Falkiner Place	16/09/2010	25/02/2011	04/02/2009	$489,000	1007m	Full transfer	4	1	1	-	2	$489,000	589	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.34
+2010	328681	17 Falkiner Place	10/07/2010	03/09/2010	-	$483,000	880m	Full transfer	-	-	-	-	-	$483,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	330015	84 Jackie Howe Crescent	25/09/2010	16/12/2010	-	$482,500	936m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280645	3/10 Starritt Place	21/12/2010	24/12/2010	-	$480,000	4028m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263418	            24 Falkiner Street	15/06/2010	-	15/03/2010	$428,000	1089m	Full transfer	3	1	-	4	-	$428,000	92	-	Allhomes Record	-	-	-	-	$166,000	0.39
+2010	270199	10 Max Henry Crescent	07/05/2010	27/08/2010	-	$415,000	898m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277550	10 Mules Place	24/11/2010	20/01/2011	-	$360,000	1192m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	346632	24 Kater Close	01/10/2010	23/11/2011	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270098	4 Schinckel Place	29/06/2010	11/08/2010	-	-	917m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254414	4 Bayly Place	20/01/2010	23/02/2010	-	-	819m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267653	6 Falkiner Place	11/05/2010	25/06/2010	-	-	895m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279167	69 Merriman Crescent	23/12/2010	31/01/2011	-	-	779m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	285822	3/11 Kater Close	27/10/2010	09/03/2011	-	-	2763m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270281	2 Body Place	19/06/2010	03/09/2010	-	-	852m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344053	7 Starritt Place	13/08/2011	18/10/2011	05/07/2011	$670,000	842m	Full transfer	4	1	1	2	-	$670,000	39	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.49
+2011	347904	93 Jackie Howe Crescent	23/09/2011	24/10/2011	05/08/2011	$630,000	1343m	Full transfer	4	1	1	2	-	$630,000	49	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.5
+2011	331532	96 Jackie Howe Crescent	31/03/2011	07/06/2011	-	$625,000	926m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353717	9 Ebsworth Close	08/11/2011	16/01/2012	26/08/2011	$622,500	887m	Full transfer	4	1	1	2	-	$622,500	74	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.56
+2011	300755	69 Merriman Crescent	14/06/2011	20/07/2011	22/03/2011	$595,000	779m	Full transfer	4	1	1	2	-	$595,000	84	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.49
+2011	336262	28 Jackie Howe Crescent	03/06/2011	15/08/2011	-	$590,000	912m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336965	21 Hawkesworth Place	12/05/2011	17/08/2011	13/04/2011	$562,500	1120m	Full transfer	4	1	1	2	-	$562,500	29	-	Combined Record	-	-	-	Single residential dwelling...	$219,000	0.39
+2011	287746	7 Max Henry Crescent	08/02/2011	08/04/2011	06/01/2011	$560,000	739m	Full transfer	4	1	1	2	-	$560,000	33	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.59
+2011	349699	147 Jackie Howe Crescent	16/11/2011	12/12/2011	27/09/2011	$558,000	728m	Full transfer	4	1	1	-	1	$558,000	50	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.56
+2011	360594	3 Kater Close	23/12/2011	27/01/2012	28/10/2011	$555,000	823m	Full transfer	4	1	1	2	-	$555,000	56	-	Combined Record	171	-	-	Single residential dwelling	$315,000	0.57
+2011	287745	2 Bayly Place	18/02/2011	07/04/2011	27/01/2011	$512,000	783m	Full transfer	3	1	1	-	2	$512,000	22	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.65
+2011	354973	84 Jackie Howe Crescent	29/11/2011	12/01/2012	-	$500,000	936m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336145	3/14 Starritt Place	05/08/2011	29/08/2011	-	$498,000	2867m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354971	10 Body Place	24/11/2011	11/01/2012	-	$485,000	687m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297576	34 Merriman Crescent	28/04/2011	29/06/2011	22/03/2011	$485,000	922m	Full transfer	3	1	1	-	2	$485,000	37	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.63
+2011	342468	6 Haly Place	03/08/2011	07/10/2011	08/07/2011	$480,000	1092m	Full transfer	3	1	-	2	-	$480,000	26	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.57
+2011	336746	31 Falkiner Place	16/06/2011	29/08/2011	21/03/2011	$475,000	802m	Full transfer	3	1	1	2	-	$475,000	87	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.54
+2011	296788	16 Merriman Crescent	18/04/2011	03/06/2011	18/03/2011	$470,000	897m	Full transfer	3	1	1	-	2	$470,000	31	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.61
+2011	346892	61 Merriman Crescent	08/09/2011	31/10/2011	12/07/2011	$459,000	764m	Full transfer	3	1	-	2	1	$459,000	58	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.63
+2011	365857	13 Hawkesworth Place	21/12/2011	05/03/2012	-	$434,000	1309m	Full transfer	-	-	-	-	-	$434,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347447	20 Falkiner Place	20/09/2011	01/11/2011	-	$410,000	808m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365637	32 Merriman Crescent	15/11/2011	23/02/2012	-	$0	1158m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347903	114 Jackie Howe Crescent	02/09/2011	25/10/2011	-	$0	856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	379635	64 Jackie Howe Crescent	07/07/2011	30/08/2012	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340368	90 Jackie Howe Crescent	16/08/2011	20/09/2011	-	-	774m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291324	1 Schinckel Place	20/01/2011	10/05/2011	-	-	887m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388510	6 Ebsworth Close	22/10/2012	18/01/2013	-	$735,000	956m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383322	5 Beggs Place	28/09/2012	12/11/2012	20/06/2012	$721,000	931m	Full transfer	5	2	1	2	-	$721,000	100	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.52
+2012	368649	87 Jackie Howe Crescent	07/03/2012	18/04/2012	20/05/2011	$690,000	1371m	Full transfer	5	3	1	2	-	$690,000	292	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.46
+2012	376382	49 Coyne Street	11/07/2012	02/08/2012	02/07/2012	$675,000	867m	Full transfer	5	1	-	2	0	$675,000	9	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.45
+2012	383324	26 Jackie Howe Crescent	25/09/2012	16/11/2012	22/08/2012	$645,100	940m	Full transfer	5	3	-	2	0	$645,100	34	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.6
+2012	393937	9 Beggs Place	03/11/2012	22/03/2013	-	$635,000	830m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386937	3 Bayly Place	24/10/2012	24/12/2012	11/05/2012	$635,000	926m	Full transfer	4	1	2	1	2	$635,000	166	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.55
+2012	412980	47 Jackie Howe Crescent	31/10/2012	31/10/2013	20/09/2012	$632,500	1681m	Full transfer	3	1	1	3	-	$632,500	41	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.5
+2012	372861	37 Jackie Howe Crescent	24/02/2012	01/05/2012	26/10/2011	$625,000	985m	Full transfer	5	2	1	2	-	$625,000	121	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.51
+2012	371694	32 Merriman Crescent	30/03/2012	22/05/2012	13/03/2012	$610,000	1158m	Full transfer	4	1	1	2	-	$610,000	17	-	Combined Record	230	-	-	Single residential dwelling	$323,000	0.53
+2012	388508	9 Merriman Crescent	15/10/2012	15/01/2013	-	$585,000	1045m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	367476	10 Bracker Place	24/05/2012	-	26/04/2012	$560,000	768m	Full transfer	4	1	1	2	-	$560,000	28	-	Allhomes Record	-	-	-	-	$352,000	0.63
+2012	381734	78 Jackie Howe Crescent	24/11/2012	-	19/10/2012	$550,000	1031m	Full transfer	4	1	1	2	-	$550,000	36	-	Allhomes Record	-	-	-	-	$387,000	0.7
+2012	379594	15 Kater Close	07/08/2012	04/09/2012	29/06/2012	$545,000	798m	Full transfer	3	1	1	2	-	$545,000	39	-	Combined Record	142	-	-	Single residential dwelling	$273,000	0.5
+2012	365970	5 Schinckel Place	20/01/2012	27/02/2012	17/11/2011	$460,000	1060m	Full transfer	4	2	-	2	0	$460,000	64	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.59
+2012	370513	23 Hawkesworth Place	20/06/2012	-	07/05/2012	$447,000	1074m	Full transfer	4	1	1	-	4	$447,000	44	-	Allhomes Record	-	-	-	-	$219,000	0.49
+2012	376164	6 Falkiner Place	17/02/2012	23/07/2012	-	$420,000	895m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387111	6 Bracker Place	03/12/2012	18/12/2012	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	515264	28 Merriman Crescent	24/08/2012	10/07/2017	-	$0	893m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365969	6 Starritt Place	10/02/2012	27/02/2012	-	$0	625m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	384832	12 Goldsbrough Close	22/02/2012	17/05/2012	13/07/2012	$0	729m	Full transfer	4	3	-	0	4	$0	-	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.49
+2013	394612	             Coyne Street	23/04/2013	-	15/03/2013	$910,000	4741m	Full transfer	-	-	-	-	-	$910,000	39	-	Allhomes Record	-	-	-	-	-	-
+2013	421246	20 Goldsbrough Close	14/12/2013	28/02/2014	11/11/2013	$690,000	1020m	Full transfer	4	1	2	2	-	$690,000	33	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.57
+2013	410939	8 Bracker Place	13/08/2013	20/09/2013	-	$620,000	775m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	388054	1 Starritt Place	30/01/2013	-	10/10/2012	$620,000	0m	Full transfer	4	2	-	2	0	$620,000	112	-	Allhomes Record	-	-	-	-	$329,000	0.53
+2013	392299	18 Starritt Place	15/02/2013	12/03/2013	08/01/2013	$599,000	947m	Full transfer	3	1	1	2	-	$599,000	38	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.53
+2013	420008	6 Bayly Place	05/11/2013	05/02/2014	10/10/2013	$582,000	1153m	Full transfer	4	1	1	0	2	$582,000	26	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.64
+2013	400834	19 Kater Close	22/02/2013	04/06/2013	28/06/2012	$574,000	951m	Full transfer	4	1	1	2	-	$574,000	239	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.55
+2013	385521	83 Jackie Howe Crescent	11/01/2013	-	10/08/2012	$565,000	1150m	Full transfer	4	2	1	2	-	$565,000	154	-	Allhomes Record	-	-	-	-	$340,000	0.6
+2013	404146	18 Mules Place	07/06/2013	05/07/2013	19/04/2013	$560,000	852m	Full transfer	4	1	1	2	-	$560,000	49	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.51
+2013	389444	78 Jackie Howe Crescent	24/11/2013	25/01/2013	-	$550,000	1031m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419362	39 Coyne Street	15/12/2013	11/02/2014	25/10/2013	$550,000	1281m	Full transfer	4	2	0	2	0	$550,000	51	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.49
+2013	412978	59 Merriman Crescent	26/07/2013	31/10/2013	21/06/2013	$530,000	1024m	Full transfer	3	1	1	2	2	$530,000	35	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.47
+2013	391699	24 Max Henry Crescent	24/01/2013	25/02/2013	05/12/2012	$510,000	776m	Full transfer	3	1	1	2	-	$510,000	50	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.63
+2013	400836	22 Max Henry Crescent	28/03/2013	07/06/2013	13/02/2013	$505,000	1091m	Full transfer	4	1	1	2	-	$505,000	43	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.59
+2013	404148	6 Jackie Howe Crescent	07/05/2013	01/07/2013	25/03/2013	$495,000	934m	Full transfer	3	1	1	2	-	$495,000	43	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.7
+2013	410936	8 Mules Place	16/08/2013	18/09/2013	14/02/2013	$495,000	800m	Full transfer	4	1	1	1	-	$495,000	183	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.58
+2013	388898	20 Max Henry Crescent	15/02/2013	-	21/01/2013	$485,000	1085m	Full transfer	3	1	-	-	2	$485,000	25	-	Allhomes Record	122	-	-	-	$278,000	0.57
+2013	415107	2/11 Kater Close	08/08/2013	04/12/2013	03/07/2013	$480,000	2763m	Full transfer	3	1	1	2	-	$480,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	$134,000	0.28
+2013	393939	64 Jackie Howe Crescent	06/02/2013	18/03/2013	07/11/2012	$450,000	729m	Full transfer	3	1	-	-	-	$450,000	91	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.74
+2013	396621	9 Body Place	20/05/2013	-	20/03/2013	$443,500	700m	Full transfer	3	1	1	1	-	$443,500	61	-	Allhomes Record	-	-	-	-	$285,000	0.64
+2013	420010	3 Max Henry Crescent	24/12/2013	07/02/2014	-	$245,000	755m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	392301	173 Jackie Howe Crescent	30/01/2013	15/03/2013	-	$0	974m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	423170	8 Jackie Howe Crescent	19/12/2013	18/03/2014	-	$0	753m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	514059	4 Body Place	20/03/2013	14/06/2017	-	$0	708m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	393938	12 Schinckel Place	25/01/2013	18/03/2013	-	$0	980m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404145	2/11 Kater Close	26/05/2013	02/07/2013	-	$0	2763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435611	1 Merriman Crescent	08/08/2014	16/09/2014	20/03/2014	$715,000	760m	Full transfer	6	2	1	2	-	$715,000	141	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.41
+2014	428494	5 Dennys Place	12/02/2014	03/06/2014	-	$694,300	1073m	Full transfer	-	-	-	-	-	$694,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427996	5 Goldsbrough Close	11/02/2014	21/05/2014	09/10/2013	$665,000	980m	Full transfer	4	1	1	2	-	$665,000	125	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.49
+2014	447726	5 Starritt Place	27/11/2014	11/03/2015	-	$657,500	960m	Full transfer	-	-	-	-	-	$657,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446707	17 Hardie Close	19/11/2014	10/02/2015	22/10/2014	$650,000	1046m	Full transfer	4	1	1	2	-	$650,000	28	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.6
+2014	438902	4 Marston Place	16/09/2014	06/11/2014	26/08/2014	$648,000	936m	Full transfer	4	3	-	0	2	$648,000	21	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.57
+2014	431064	12 Beggs Place	28/02/2014	17/07/2014	-	$642,500	1092m	Full transfer	-	-	-	-	-	$642,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436584	26 Jackie Howe Crescent	23/08/2014	05/10/2014	-	$637,500	940m	Full transfer	-	-	-	-	-	$637,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438080	14 Ebsworth Close	15/08/2014	14/10/2014	-	$625,000	988m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434310	159 Jackie Howe Crescent	30/07/2014	02/09/2014	15/07/2014	$616,000	1009m	Full transfer	4	2	-	2	0	$616,000	15	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.59
+2014	424183	3 Ebsworth Close	24/02/2014	14/04/2014	25/09/2013	$615,000	883m	Full transfer	4	1	1	2	-	$615,000	152	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.57
+2014	429729	151 Jackie Howe Crescent	14/05/2014	25/06/2014	13/02/2014	$605,000	786m	Full transfer	4	1	1	3	-	$605,000	90	-	Combined Record	167	-	-	Single residential dwelling	$351,000	0.58
+2014	444045	8 Bayly Place	05/12/2014	28/01/2015	02/10/2014	$580,000	799m	Full transfer	4	1	1	0	2	$580,000	64	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.58
+2014	426363	8 Ebsworth Close	15/02/2014	07/05/2014	-	$572,000	894m	Full transfer	-	-	-	-	-	$572,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427507	147 Jackie Howe Crescent	18/03/2014	01/05/2014	22/01/2014	$570,000	728m	Full transfer	4	1	1	-	2	$570,000	55	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.56
+2014	430198	112 Jackie Howe Crescent	28/02/2014	07/07/2014	11/11/2013	$547,500	718m	Full transfer	4	1	1	2	-	$547,500	109	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.54
+2014	440277	23 Jackie Howe Crescent	20/09/2014	19/11/2014	28/08/2014	$530,000	1395m	Full transfer	4	1	1	2	-	$530,000	23	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.53
+2014	443293	18 Max Henry Crescent	21/11/2014	15/01/2015	18/08/2014	$516,750	771m	Full transfer	3	1	1	1	-	$516,750	95	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.63
+2014	427509	113 Jackie Howe Crescent	03/03/2014	30/04/2014	25/11/2013	$506,000	841m	Full transfer	4	1	1	-	2	$506,000	98	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.64
+2014	441550	10 Max Henry Crescent	06/11/2014	12/12/2014	09/10/2014	$455,000	898m	Full transfer	3	1	-	-	-	$455,000	28	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.73
+2014	442407	12 Merriman Crescent	11/11/2014	02/01/2015	-	$425,000	809m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432928	2 Goldsbrough Close	25/07/2014	12/08/2014	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431513	20 Hardie Close	12/06/2014	21/07/2014	-	$0	1209m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448719	6 Ebsworth Close	18/08/2014	24/03/2015	-	$0	956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473772	86 Jackie Howe Crescent	25/05/2014	22/03/2016	-	$0	841m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471503	179 Jackie Howe Crescent	28/11/2015	11/02/2016	03/11/2015	$808,000	892m	Full transfer	4	3	-	2	0	$808,000	25	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.39
+2015	450239	5 Dennys Place	17/03/2015	16/04/2015	16/02/2015	$705,000	1073m	Full transfer	5	1	1	2	-	$705,000	29	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.61
+2015	471230	9 Merriman Crescent	28/11/2015	16/02/2016	02/11/2015	$702,000	1045m	Full transfer	5	2	1	1	-	$702,000	26	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.39
+2015	462068	33 Falkiner Place	08/08/2015	25/09/2015	-	$685,000	991m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453401	95 Jackie Howe Crescent	20/04/2015	29/05/2015	-	$645,500	1279m	Full transfer	-	-	-	-	-	$645,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459750	56 Jackie Howe Crescent	23/06/2015	20/08/2015	28/04/2015	$628,500	973m	Full transfer	4	1	1	2	-	$628,500	56	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.65
+2015	464730	6 Dennys Place	21/08/2015	19/10/2015	10/04/2015	$628,000	851m	Full transfer	4	1	1	2	-	$628,000	133	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.55
+2015	463047	105 Jackie Howe Crescent	21/08/2015	09/10/2015	15/07/2015	$625,500	842m	Full transfer	4	2	-	2	-	$625,500	37	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.52
+2015	453958	8 Dennys Place	14/04/2015	03/06/2015	10/03/2015	$588,000	799m	Full transfer	4	1	1	2	-	$588,000	35	-	Combined Record	166	-	-	Single residential dwelling	$345,000	0.59
+2015	450969	3 Body Place	19/01/2015	28/04/2015	-	$580,000	936m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457223	13 Hardie Close	18/04/2015	02/07/2015	26/03/2015	$575,000	1374m	Full transfer	4	3	-	0	2	$575,000	23	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.78
+2015	459748	148 Jackie Howe Crescent	02/07/2015	20/08/2015	17/02/2015	$566,500	860m	Full transfer	4	2	-	2	0	$566,500	135	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.52
+2015	450975	47 Merriman Crescent	27/02/2015	29/04/2015	02/02/2015	$530,000	945m	Full transfer	4	1	-	2	-	$530,000	25	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.55
+2015	444798	31 Falkiner Place	25/02/2015	-	04/02/2015	$495,000	802m	Full transfer	3	1	1	2	-	$495,000	21	-	Allhomes Record	-	-	-	-	$258,000	0.52
+2015	457214	12 Mules Place	08/05/2015	30/06/2015	14/04/2015	$490,000	1114m	Full transfer	3	1	-	-	4	$490,000	24	-	Combined Record	110	-	-	Single residential dwelling	$252,000	0.51
+2015	450246	4 Jackie Howe Crescent	04/03/2015	15/04/2015	-	$465,000	947m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468115	7 Body Place	29/10/2015	15/12/2015	07/10/2015	$455,000	743m	Full transfer	3	1	1	-	1	$455,000	22	-	Combined Record	107	-	-	Single residential dwelling	$288,000	0.63
+2015	454290	96 Jackie Howe Crescent	20/03/2015	11/06/2015	-	$340,000	926m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465268	48 Falkiner Place	11/08/2015	05/11/2015	-	$257,500	924m	Full transfer	-	-	-	-	-	$257,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453937	181 Jackie Howe Crescent	11/03/2015	05/06/2015	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Residential	-	-
+2015	453938	118 Jackie Howe Crescent	13/04/2015	05/06/2015	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471496	13 Body Place	18/12/2015	11/02/2016	-	$0	1178m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459738	9 Merriman Crescent	10/09/2015	20/08/2015	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	478750	8 Bayly Place	11/04/2015	25/05/2016	-	$0	799m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461661	20 Falkiner Place	08/05/2015	17/09/2015	28/04/2015	$0	808m	Full transfer	3	1	1	2	-	$0	10	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.63
+2015	484640	32 Falkiner Place	09/11/2015	16/08/2016	-	$0	1189m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455160	11 Starritt Place	21/05/2015	19/06/2015	-	$0	874m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474556	163 Jackie Howe Crescent	02/02/2016	04/04/2016	11/01/2016	$850,000	1311m	Full transfer	5	2	1	2	-	$850,000	22	-	Combined Record	-	-	-	Single residential dwelling	$458,000	0.54
+2016	488373	118 Jackie Howe Crescent	29/10/2016	-	28/09/2016	$815,000	743m	Full transfer	4	2	-	2	0	$815,000	31	-	Allhomes Record	-	-	-	-	$306,000	0.38
+2016	486122	24 Kater Close	23/05/2016	06/09/2016	27/04/2016	$795,000	927m	Full transfer	4	2	-	3	0	$795,000	26	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.48
+2016	497293	12 Ebsworth Close	29/10/2016	08/02/2017	13/10/2016	$760,000	836m	Full transfer	4	2	-	2	0	$760,000	16	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.5
+2016	475231	25 Kater Close	30/01/2016	15/04/2016	22/12/2015	$720,000	868m	Full transfer	4	2	-	2	0	$720,000	39	-	Combined Record	-	-	-	Single residential dwelling...	$342,000	0.48
+2016	471991	7 Goldsbrough Close	10/03/2016	-	16/02/2016	$710,000	-	Full transfer	4	1	1	2	1	$710,000	23	-	Allhomes Record	-	-	-	-	$310,000	0.44
+2016	485285	5 Bayly Place	25/06/2016	18/08/2016	01/06/2016	$704,000	831m	Full transfer	4	2	-	2	0	$704,000	24	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.5
+2016	496787	33 Hawkesworth Place	02/12/2016	09/02/2017	23/11/2016	$675,000	917m	Full transfer	4	2	-	2	-	$675,000	9	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.51
+2016	490804	1 Dennys Place	17/09/2016	16/11/2016	26/08/2016	$631,500	1197m	Full transfer	3	1	1	2	0	$631,500	22	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.68
+2016	486554	183 Jackie Howe Crescent	21/06/2016	14/09/2016	-	$627,000	845m	Full transfer	-	-	-	-	-	$627,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479075	1 Kater Close	21/06/2016	-	07/03/2016	$627,000	0m	Full transfer	4	2	-	2	0	$627,000	106	-	Allhomes Record	-	-	-	-	$321,000	0.51
+2016	495354	7 Mules Place	24/11/2016	01/02/2017	01/11/2016	$621,000	856m	Full transfer	4	2	-	0	2	$621,000	23	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.48
+2016	477074	30 Max Henry Crescent	21/03/2016	05/05/2016	28/01/2016	$610,000	1094m	Full transfer	4	2	-	4	0	$610,000	53	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.52
+2016	482229	54 Jackie Howe Crescent	24/05/2016	22/07/2016	08/04/2016	$585,000	899m	Full transfer	3	1	1	1	-	$585,000	46	-	Combined Record	132	-	-	Single residential dwelling	$382,000	0.65
+2016	495643	24 Max Henry Crescent	01/12/2016	02/02/2017	05/10/2016	$578,000	776m	Full transfer	3	1	1	2	0	$578,000	57	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.59
+2016	494060	21 Falkiner Place	10/09/2016	20/12/2016	17/08/2016	$570,000	903m	Full transfer	3	2	-	2	-	$570,000	24	-	Combined Record	134	-	-	Single residential dwelling	$320,000	0.56
+2016	477454	24 Jackie Howe Crescent	30/05/2016	-	02/03/2016	$555,000	0m	Full transfer	4	2	-	2	-	$555,000	89	-	Allhomes Record	-	-	-	-	$382,000	0.69
+2016	485265	28 Hardie Close	05/05/2016	18/08/2016	06/04/2016	$525,000	1135m	Full transfer	3	1	-	0	2	$525,000	29	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.73
+2016	476538	10 Hardie Close	01/03/2016	27/04/2016	10/02/2016	$496,000	854m	Full transfer	3	2	-	0	2	$496,000	20	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.65
+2016	497100	55 Coyne Street	30/11/2016	08/02/2017	-	$471,000	829m	Full transfer	-	-	-	-	-	$471,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485559	32 Falkiner Place	09/07/2016	01/09/2016	15/06/2016	$461,500	1189m	Full transfer	3	1	-	0	2	$461,500	24	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.69
+2016	473761	86 Jackie Howe Crescent	09/02/2016	22/03/2016	-	$350,000	841m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488927	46 Max Henry Crescent	06/07/2016	24/10/2016	-	$305,000	777m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492474	1 Max Henry Crescent	11/08/2016	16/12/2016	-	$300,000	837m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479213	12 Beggs Place	15/03/2016	31/05/2016	-	$0	1092m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479987	3 Bayly Place	16/03/2016	24/06/2016	17/02/2016	$0	926m	Full transfer	4	3	-	1	2	$0	28	-	Combined Record	163	-	-	Single residential dwelling	$369,000	0.69
+2016	497729	16 Ebsworth Close	03/11/2016	24/02/2017	-	$0	1113m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495041	3/10 Starritt Place	23/09/2016	10/01/2017	-	$0	4028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480201	            2/46A Falkiner Place	02/05/2016	16/06/2016	-	$0	1184m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479995	171 Jackie Howe Crescent	02/05/2016	22/06/2016	22/03/2016	$0	964m	Full transfer	4	2	-	2	0	$0	41	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.69
+2016	477073	12 Falkiner Place	04/02/2016	03/05/2016	-	$0	835m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	518986	22 Carson Street	25/09/2016	06/10/2017	-	$0	899m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502302	23 Max Henry Crescent	13/10/2016	21/04/2017	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476537	111 Jackie Howe Crescent	16/02/2016	29/04/2016	-	$0	839m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515628	9 Macknight Place	19/11/2016	17/07/2017	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	527035	5 Dennys Place	22/12/2017	06/03/2018	08/02/2018	$1,000,000	1073m	Full transfer	5	3	-	2	0	$1,000,000	-	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.44
+2017	514632	5 Macknight Place	04/03/2017	03/07/2017	21/01/2017	$900,000	948m	Full transfer	6	1	1	2	-	$900,000	42	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.46
+2017	516186	44 Max Henry Crescent	13/04/2017	27/07/2017	29/03/2017	$860,000	765m	Full transfer	5	1	1	3	-	$860,000	15	-	Combined Record	277	-	-	Single residential dwelling	$350,000	0.41
+2017	515978	9 Bracker Place	29/05/2017	26/07/2017	16/03/2017	$845,000	944m	Full transfer	4	2	-	4	0	$845,000	74	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.54
+2017	517038	22 Hardie Close	09/05/2017	04/08/2017	10/04/2017	$815,000	837m	Full transfer	4	2	-	2	-	$815,000	29	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.4
+2017	524825	15 Starritt Place	24/11/2017	01/02/2018	08/11/2017	$805,000	940m	Full transfer	4	3	-	2	0	$805,000	16	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.55
+2017	515481	3 Starritt Place	24/04/2017	11/07/2017	06/04/2017	$785,000	1320m	Full transfer	4	2	-	2	0	$785,000	18	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.62
+2017	503883	5 Bracker Place	08/03/2017	26/04/2017	25/01/2017	$777,000	934m	Full transfer	5	2	1	2	-	$777,000	42	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.59
+2017	528276	37 Falkiner Place	19/12/2017	21/03/2018	10/11/2017	$765,000	995m	Full transfer	4	2	-	0	2	$765,000	39	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.55
+2017	524772	12 Goldsbrough Close	16/11/2017	30/01/2018	-	$762,000	729m	Full transfer	-	-	-	-	-	$762,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502846	141 Jackie Howe Crescent	11/02/2017	10/04/2017	19/01/2017	$750,000	1001m	Full transfer	4	1	1	2	-	$750,000	23	-	Combined Record	187	-	-	Single residential dwelling	$476,000	0.63
+2017	526933	7 Hardie Close	27/11/2017	07/03/2018	07/11/2017	$750,000	815m	Full transfer	4	3	-	2	0	$750,000	20	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.5
+2017	518522	3 Dennys Place	24/06/2017	07/09/2017	31/05/2017	$738,000	854m	Full transfer	4	3	-	2	1	$738,000	24	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.56
+2017	503170	11 Jackie Howe Crescent	11/02/2017	04/04/2017	12/01/2017	$730,000	959m	Full transfer	4	3	-	2	1	$730,000	30	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.39
+2017	516639	32 Jackie Howe Crescent	18/05/2017	10/08/2017	22/03/2017	$715,000	852m	Full transfer	4	2	-	2	-	$715,000	57	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.53
+2017	532850	1/11 Kater Close	11/10/2017	14/05/2018	-	$694,000	2763m	Full transfer	-	-	-	-	-	$694,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519564	111 Jackie Howe Crescent	12/08/2017	10/10/2017	19/07/2017	$640,000	839m	Full transfer	4	2	-	1	-	$640,000	24	-	Combined Record	152	-	-	Single residential dwelling	$329,000	0.51
+2017	528611	8 Bayly Place	08/12/2017	19/03/2018	24/08/2017	$640,000	799m	Full transfer	4	2	-	2	0	$640,000	106	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.55
+2017	513308	83 Jackie Howe Crescent	07/02/2017	05/06/2017	09/12/2016	$630,000	1150m	Full transfer	4	2	-	2	0	$630,000	60	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.55
+2017	524484	3 Merriman Crescent	25/11/2017	31/01/2018	30/10/2017	$625,000	1000m	Full transfer	4	1	1	-	2	$625,000	26	-	Combined Record	181	-	-	Single residential dwelling	$298,000	0.48
+2017	515353	23 Max Henry Crescent	13/05/2017	11/07/2017	18/04/2017	$615,000	857m	Full transfer	4	2	-	2	0	$615,000	25	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.6
+2017	507776	9 Jackie Howe Crescent	08/09/2017	-	02/08/2017	$615,000	0m	Full transfer	4	2	-	2	0	$615,000	37	-	Allhomes Record	-	-	-	-	$258,000	0.42
+2017	516440	91 Jackie Howe Crescent	15/06/2017	08/08/2017	24/05/2017	$615,000	1090m	Full transfer	3	2	-	2	0	$615,000	22	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.57
+2017	525755	5 Falkiner Place	09/12/2017	14/02/2018	13/11/2017	$605,000	961m	Full transfer	3	2	-	0	3	$605,000	26	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.58
+2017	508692	5/10 Starritt Place St	18/10/2017	-	26/06/2017	$600,000	480m	Full transfer	3	2	-	2	0	$600,000	114	-	Allhomes Record	-	-	-	-	-	-
+2017	514622	6 Starritt Place	15/05/2017	04/07/2017	25/01/2017	$600,000	625m	Full transfer	3	2	-	2	0	$600,000	110	-	Combined Record	-	-	-	Medium density dwelling	$304,000	0.51
+2017	512067	84 Jackie Howe Crescent	05/04/2017	19/05/2017	16/03/2017	$580,000	936m	Full transfer	3	2	-	0	2	$580,000	20	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.72
+2017	524775	3/10 Starritt Place	04/11/2017	30/01/2018	12/10/2017	$516,000	4028m	Full transfer	3	2	-	2	0	$516,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	513759	37 Falkiner Place	04/04/2017	30/05/2017	02/03/2017	$495,000	995m	Full transfer	5	1	1	-	-	$495,000	33	-	Combined Record	175	-	-	Single residential dwelling	$419,000	0.85
+2017	520336	5/10 Starritt Place	08/08/2017	31/10/2017	-	$485,000	4028m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500782	146 Jackie Howe Crescent	16/01/2017	14/03/2017	23/11/2016	$408,000	876m	Full transfer	3	1	-	2	-	$408,000	54	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.86
+2017	502487	4 Hardie Close	21/03/2017	19/04/2017	19/01/2017	$0	1129m	Full transfer	4	2	-	0	2	$0	61	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.86
+2017	538519	28 Falkiner Place	04/07/2017	24/07/2018	-	$0	885m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515210	31 Falkiner Place	20/04/2017	10/07/2017	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520030	3/10 Starritt Place	10/03/2017	23/10/2017	-	$0	4028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	525661	104 Jackie Howe Crescent	20/07/2017	12/02/2018	-	$0	708m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521389	21 Jackie Howe Crescent	10/10/2017	19/12/2017	-	$0	964m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523800	11 Macknight Place	25/10/2017	16/01/2018	12/09/2017	$0	857m	Full transfer	4	1	1	1	-	$0	43	-	Combined Record	191	-	-	Single residential dwelling	$373,000	0.86
+2018	549436	            187 Jackie Howe Crescent	11/09/2018	31/10/2018	-	$851,000	873m	Full transfer	-	-	-	-	-	$851,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540167	2 Kater Close	10/09/2018	-	27/07/2018	$851,000	0m	Full transfer	5	3	-	4	0	$851,000	45	-	Allhomes Record	-	-	-	-	$338,000	0.4
+2018	532880	159 Jackie Howe Crescent	16/03/2018	15/05/2018	07/03/2018	$810,000	1009m	Full transfer	4	2	-	2	0	$810,000	9	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.55
+2018	539465	10 Goldsbrough Close	28/06/2018	09/08/2018	26/04/2018	$802,500	1028m	Full transfer	5	2	-	2	0	$802,500	63	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.41
+2018	539126	17 Hardie Close	08/06/2018	31/07/2018	09/05/2018	$795,000	1046m	Full transfer	4	2	-	2	0	$795,000	30	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.54
+2018	546979	3 Beggs Place	13/10/2018	27/11/2018	09/07/2018	$785,000	1080m	Full transfer	4	1	1	2	-	$785,000	96	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.64
+2018	511023	12 Goldsbrough Close	12/01/2018	-	26/06/2017	$785,000	729m	Full transfer	4	3	-	3	0	$785,000	200	-	Allhomes Record	-	-	-	-	$333,000	0.42
+2018	542372	7 Falkiner Place	31/07/2018	17/09/2018	-	$780,000	1032m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547024	30 Max Henry Crescent	22/09/2018	22/11/2018	30/08/2018	$779,000	1094m	Full transfer	4	2	-	2	0	$779,000	23	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.43
+2018	531604	75 Jackie Howe Crescent	15/02/2018	23/04/2018	18/01/2018	$770,000	1076m	Full transfer	4	1	1	-	2	$770,000	28	-	Combined Record	188	-	-	Single residential dwelling	$366,000	0.48
+2018	538670	96 Jackie Howe Crescent	31/05/2018	23/07/2018	01/03/2018	$750,000	926m	Full transfer	5	2	-	2	2	$750,000	91	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.55
+2018	549244	30 Jackie Howe Crescent	05/10/2018	04/12/2018	30/08/2018	$726,500	889m	Full transfer	4	2	-	1	-	$726,500	36	-	Combined Record	889	-	-	Single residential dwelling	$400,000	0.55
+2018	560777	4 Bayly Place	18/12/2018	21/02/2019	30/11/2018	$690,000	819m	Full transfer	4	2	-	4	0	$690,000	18	-	Combined Record	-	-	-	Single residential dwelling	$367,000	0.53
+2018	539586	78 Jackie Howe Crescent	14/06/2018	07/08/2018	14/05/2018	$688,000	1031m	Full transfer	4	1	1	2	-	$688,000	31	-	Combined Record	167	-	-	Single residential dwelling	$429,000	0.62
+2018	542604	4 Bracker Place	08/10/2018	-	29/08/2018	$655,000	774m	Full transfer	3	2	-	2	0	$655,000	40	-	Allhomes Record	-	-	-	-	$435,000	0.66
+2018	534248	28 Merriman Crescent	22/06/2018	-	04/05/2018	$645,000	893m	Full transfer	4	2	-	2	0	$645,000	49	-	Allhomes Record	-	-	-	-	$341,000	0.53
+2018	538891	7 Max Henry Crescent	18/06/2018	05/08/2018	21/05/2018	$640,000	739m	Full transfer	4	2	-	2	0	$640,000	28	-	Combined Record	-	-	-	Single residential dwelling	$367,000	0.57
+2018	535514	5 Max Henry Crescent	03/05/2018	24/06/2018	29/01/2018	$625,000	697m	Full transfer	4	1	1	-	2	$625,000	94	-	Combined Record	150	-	-	Single residential dwelling	$367,000	0.59
+2018	529511	104 Jackie Howe Crescent	08/01/2018	04/04/2018	19/10/2017	$560,000	708m	Full transfer	3	1	-	0	1	$560,000	81	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.6
+2018	538301	1/14 Starritt Place	26/05/2018	26/07/2018	01/05/2018	$560,000	2867m	Full transfer	3	2	-	2	0	$560,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	530405	2/10 Starritt Place	17/02/2018	13/04/2018	23/01/2018	$555,000	4028m	Full transfer	3	2	-	2	0	$555,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	553259	4/14 Starritt Place	13/12/2018	04/02/2019	-	$520,000	2867m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546992	12 Merriman Crescent	09/07/2018	29/11/2018	-	$500,000	809m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551685	28 Falkiner Place	01/11/2018	10/01/2019	09/10/2018	$480,000	885m	Full transfer	3	1	-	1	-	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.71
+2018	532276	50 Max Henry Crescent	14/03/2018	10/05/2018	-	$0	1073m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547675	2 Jackie Howe Crescent	04/09/2018	29/11/2018	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540472	6 Body Place	25/06/2018	21/08/2018	-	$0	667m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535175	25 Kater Close	28/02/2018	12/06/2018	-	$0	868m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	547816	27 Falkiner Place	15/04/2018	24/10/2018	-	$0	1035m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547707	4 Bracker Place	05/10/2018	27/11/2018	-	$0	774m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566172	49 Coyne Street	25/05/2019	31/07/2019	02/05/2019	$835,000	867m	Full transfer	5	2	-	3	0	$835,000	23	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.4
+2019	575076	85 Jackie Howe Crescent	11/12/2019	-	21/11/2019	$835,000	0m	Full transfer	4	3	-	2	1	$835,000	20	-	Allhomes Record	-	-	-	-	$340,000	0.41
+2019	563211	18 Kater Close	08/07/2019	-	26/03/2019	$820,000	-	Full transfer	5	1	1	2	-	$820,000	104	-	Allhomes Record	-	-	-	-	$390,000	0.48
+2019	564955	18 Kater Close	22/05/2019	08/07/2019	-	$820,000	953m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576084	5 Marston Place	07/11/2019	04/12/2019	17/10/2019	$820,000	814m	Full transfer	4	2	-	2	1	$820,000	21	-	Combined Record	-	-	-	Single residential dwelling	$367,000	0.45
+2019	555258	35 Falkiner Place	29/01/2019	13/03/2019	21/11/2018	$785,000	973m	Full transfer	5	2	-	2	0	$785,000	69	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.46
+2019	571740	12 Dennys Place	09/11/2019	-	16/10/2019	$754,000	1185m	Full transfer	4	2	-	2	0	$754,000	24	-	Allhomes Record	-	-	-	-	$379,000	0.5
+2019	565672	26 Jackie Howe Crescent	13/06/2019	23/07/2019	13/03/2019	$730,000	940m	Full transfer	5	3	-	2	0	$730,000	92	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.59
+2019	572863	4 Merriman Crescent	20/09/2019	24/10/2019	-	$700,000	902m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563423	32 Max Henry Crescent	14/05/2019	26/06/2019	04/04/2019	$695,000	795m	Full transfer	4	2	-	2	0	$695,000	40	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.51
+2019	564519	7 Dennys Place	30/05/2019	18/07/2019	-	$650,000	970m	Partial transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571465	28 Merriman Crescent	31/10/2019	-	08/05/2019	$645,000	893m	Full transfer	4	2	-	2	0	$645,000	176	-	Allhomes Record	-	-	-	-	$341,000	0.53
+2019	560378	16 Mules Place	08/01/2019	15/02/2019	10/10/2018	$625,000	1197m	Full transfer	3	1	-	2	2	$625,000	90	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.51
+2019	556715	28 Max Henry Crescent	13/02/2019	04/04/2019	30/11/2018	$607,000	1088m	Full transfer	3	1	-	0	2	$607,000	75	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.55
+2019	563016	136 Jackie Howe Crescent	13/05/2019	17/06/2019	11/04/2019	$597,500	857m	Full transfer	3	1	-	4	2	$597,500	32	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.57
+2019	573624	7 Jackie Howe Crescent	28/08/2019	08/11/2019	-	$525,000	1395m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563391	10 Mules Place	01/05/2019	25/06/2019	-	$328,000	1192m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570399	87 Jackie Howe Crescent	13/09/2019	23/09/2019	-	$35,000	1371m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570339	28 Kater Close	04/06/2019	24/09/2019	-	$0	1038m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
