@@ -1,0 +1,343 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2016	517287	            68 Mulgara Loop	24/05/2016	14/08/2017	-	$430,000	450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503604	            1 Bettong Avenue	27/05/2017	-	30/03/2017	$6,300,000	0m	Full transfer	-	-	-	-	-	$6,300,000	58	-	Allhomes Record	-	-	-	-	-	-
+2017	503605	            1 Bettong Avenue	27/04/2017	-	30/03/2017	$3,800,000	6994m	Full transfer	-	-	-	-	-	$3,800,000	28	-	Allhomes Record	-	-	-	-	-	-
+2017	509610		09/11/2017	-	21/11/2016	$838,000	-	Full transfer	4	1	1	2	-	$838,000	353	-	Allhomes Record	-	-	-	-	-	-
+2017	506088	            3 Perch Street	30/06/2017	-	30/03/2017	$792,000	495m	Full transfer	3	3	-	2	-	$792,000	92	-	Allhomes Record	184	-	-	-	$390,000	0.49
+2017	509913	            9 Dibbler Crescent	23/11/2017	-	13/09/2017	$790,500	483m	Full transfer	4	2	-	2	-	$790,500	71	-	Allhomes Record	186	-	-	-	-	-
+2017	523811	            9 Dibbler Crescent	30/10/2017	16/01/2018	-	$790,500	483m	Full transfer	-	-	-	-	-	$790,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506487		20/07/2017	-	09/03/2016	$787,327	450m	Full transfer	4	1	1	2	-	$787,327	498	-	Allhomes Record	190	-	-	-	-	-
+2017	525606	            8 Brushtail Street	23/11/2017	12/02/2018	-	$785,000	438m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510329		06/12/2017	-	21/11/2016	$777,685	-	Full transfer	4	1	1	2	-	$777,685	380	-	Allhomes Record	-	-	-	-	-	-
+2017	499329		28/03/2017	-	13/01/2017	$777,350	250m	Full transfer	4	1	1	2	-	$777,350	74	-	Allhomes Record	-	-	-	-	-	-
+2017	505313		06/06/2017	-	21/11/2016	$775,050	-	Full transfer	4	1	1	2	-	$775,050	197	-	Allhomes Record	-	-	-	-	-	-
+2017	504017	            30 Mulgara Loop	15/05/2017	-	18/03/2017	$744,991	423m	Full transfer	4	2	-	2	-	$744,991	58	-	Allhomes Record	168	-	-	-	-	-
+2017	500848		12/04/2017	-	13/01/2017	$738,000	-	Full transfer	3	1	1	2	-	$738,000	89	-	Allhomes Record	-	-	-	-	-	-
+2017	523197	            8 Koala Close	31/10/2017	16/01/2018	-	$735,000	1035m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507197	            27 Booroolong Street	17/08/2017	-	02/03/2017	$735,000	437m	Full transfer	4	2	-	2	-	$735,000	168	-	Allhomes Record	150	-	-	-	$384,000	0.52
+2017	496197		27/02/2017	-	01/09/2016	$725,130	-	Full transfer	4	2	1	2	-	$725,130	179	-	Allhomes Record	-	-	-	-	-	-
+2017	539841	            67 Shingleback	19/05/2017	-	27/08/2018	$703,000	405m	Full transfer	3	2	-	2	0	$703,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	509871	            14 Quokka Street	23/11/2017	-	10/08/2016	$695,000	437m	Full transfer	4	2	-	2	-	$695,000	470	-	Allhomes Record	148	-	-	-	$400,000	0.58
+2017	526355	            28 Bandicoot Street	22/12/2017	27/02/2018	-	$657,000	315m	Full transfer	-	-	-	-	-	$657,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	569971	            20/2 Kaigas Street	08/11/2017	20/09/2019	-	$649,000	5203m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528542	            210 Bettong Avenue	12/12/2017	23/03/2018	-	$640,000	736m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	569153	            9/2 Kaigas Street	10/10/2017	10/09/2019	-	$639,000	5203m	Full transfer	-	-	-	-	-	$639,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509501		10/10/2017	-	15/08/2017	$639,000	-	Full transfer	3	1	1	2	-	$639,000	56	-	Allhomes Record	-	-	-	-	-	-
+2017	526778	            5 Echidna Street	21/11/2017	05/03/2018	-	$625,000	835m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522615	            53 Shingleback Street	20/09/2017	09/01/2018	-	$620,000	830m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499484	            15 Dibbler Crescent	03/04/2017	-	13/05/2016	$619,000	817m	Full transfer	-	-	-	-	-	$619,000	325	-	Allhomes Record	-	-	-	-	-	-
+2017	513057	            15 Dibbler Crescent	31/03/2017	07/06/2017	-	$619,000	817m	Full transfer	-	-	-	-	-	$619,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523411	            62 Pademelon Street	02/11/2017	18/01/2018	-	$614,900	250m	Full transfer	-	-	-	-	-	$614,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503675	            50 Pademelon Street	05/10/2017	-	10/05/2017	$614,000	0m	Full transfer	4	2	-	2	-	$614,000	148	-	Allhomes Record	-	-	-	-	-	-
+2017	525829	            58 Pademelon Street	29/11/2017	13/02/2018	-	$610,000	250m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	570472	            15/2 Kaigas Street	05/12/2017	25/09/2019	-	$599,000	5203m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503684	            60 Pademelon Street	05/10/2017	-	10/05/2017	$590,197	0m	Full transfer	4	2	-	2	-	$590,197	148	-	Allhomes Record	-	-	-	-	-	-
+2017	550528	21 Quokka Street	18/05/2017	09/01/2019	-	$576,150	201m	Full transfer	-	-	-	-	-	$576,150	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504121		19/05/2017	-	01/09/2016	$575,000	-	Full transfer	3	2	1	2	-	$575,000	260	-	Allhomes Record	135	-	-	-	-	-
+2017	510914	            23 Cricket Street	16/11/2017	-	16/11/2017	$567,500	0m	Full transfer	4	2	-	2	0	$567,500	-	-	Allhomes Record	-	-	-	-	-	-
+2017	494180		30/01/2017	-	01/09/2016	$560,000	-	Full transfer	4	2	1	2	-	$560,000	151	-	Allhomes Record	-	-	-	-	-	-
+2017	510020		27/11/2017	-	01/09/2016	$555,000	-	Full transfer	3	2	1	2	-	$555,000	452	-	Allhomes Record	135	-	-	-	-	-
+2017	505966		26/06/2017	-	01/09/2016	$554,546	-	Full transfer	3	2	1	2	-	$554,546	298	-	Allhomes Record	135	-	-	-	-	-
+2017	541347	            9 Cricket Street	20/09/2017	05/09/2018	-	$553,854	250m	Full transfer	-	-	-	-	-	$553,854	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504575		30/05/2017	-	01/09/2016	$550,000	-	Full transfer	3	2	1	2	-	$550,000	271	-	Allhomes Record	135	-	-	-	-	-
+2017	506784	            5 Quoll Place	03/08/2017	-	24/04/2017	$518,000	603m	Full transfer	-	-	-	-	-	$518,000	101	-	Allhomes Record	-	-	-	-	-	-
+2017	520105	            194 Bettong Avenue	06/06/2017	26/10/2017	-	$490,000	500m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519349	            3 Koala Close	02/08/2017	10/10/2017	-	$480,000	499m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520145	            217 Bettong Avenue	20/07/2017	30/10/2017	-	$450,000	450m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517316	            23 Chuditch Street	11/05/2017	15/08/2017	-	$445,000	456m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517232	            7 Chuditch Street	11/05/2017	15/08/2017	-	$440,000	450m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517319	            15 Chuditch Street	11/05/2017	18/08/2017	-	$440,000	450m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520079	            240 Bettong Avenue	29/05/2017	26/10/2017	-	$435,000	450m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515066	            7 Glider Crescent	16/05/2017	12/07/2017	-	$435,000	450m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520639	            48 Bandicoot Street	14/06/2017	08/11/2017	-	$430,000	450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517276	            68 Mulgara Loop	11/05/2017	15/08/2017	-	$430,000	450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524515	            3 Chuditch Street	23/11/2017	31/01/2018	-	$420,000	420m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513159	            6 Brushtail Street	13/04/2017	08/06/2017	-	$420,000	450m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504257	            6 Brushtail Street	22/05/2017	-	09/06/2016	$420,000	450m	Full transfer	4	2	1	2	-	$420,000	347	-	Allhomes Record	-	-	-	-	-	-
+2017	528807	            4 Chuditch Street	15/12/2017	21/03/2018	-	$410,000	426m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518738	            65 Shingleback Street	11/08/2017	28/09/2017	-	$410,000	405m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520288	            18 Booroolong Street	14/07/2017	02/11/2017	-	$410,000	450m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526323	            19 Galaxias Street	13/12/2017	27/02/2018	-	$405,000	405m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526303	            229 Bettong Avenue	18/07/2017	27/02/2018	-	$405,000	450m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517313	            3 Chuditch Street	11/05/2017	15/08/2017	-	$405,000	420m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513967	            12 Chuditch Street	16/05/2017	20/06/2017	-	$400,000	420m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516729	            57 Shingleback Street	07/07/2017	31/07/2017	-	$400,000	405m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520597	            15 Potoroo Street	18/08/2017	08/11/2017	-	$400,000	405m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517629	            10 Chuditch Street	06/06/2017	23/08/2017	-	$400,000	420m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505824	            67 Shingleback	23/06/2017	-	29/10/2016	$399,000	405m	Full transfer	3	1	1	2	-	$399,000	237	-	Allhomes Record	-	-	-	-	-	-
+2017	514884	            67 Shingleback Street	18/05/2017	05/07/2017	-	$399,000	405m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514169	            169 Bettong Avenue	23/05/2017	27/06/2017	-	$395,000	405m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525787	            13 Potoroo Street	06/12/2017	12/02/2018	-	$360,000	378m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514546	            40 Booroolong Street	08/05/2017	05/07/2017	-	$340,000	315m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521838	            50 Booroolong Street	13/10/2017	05/01/2018	-	$340,000	315m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519036	            44 Pademelon Street	21/06/2017	02/10/2017	-	$315,000	313m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521376	            17 Quokka Street	27/02/2017	20/12/2017	-	$310,000	407m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522280	            17 Cricket Street	16/10/2017	11/12/2017	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528247	            24 Quokka Street	09/11/2017	25/03/2018	-	$300,000	249m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526947	            12 Galaxias Street	04/12/2017	06/03/2018	-	$290,000	250m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522278	            10 Galaxias Street	04/08/2017	12/12/2017	-	$290,000	250m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529619	            14 Galaxias Street	30/11/2017	04/04/2018	-	$290,000	250m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519043	            30 Quokka Street	27/06/2017	06/10/2017	-	$281,250	250m	Full transfer	-	-	-	-	-	$281,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519075	            32 Quokka Street	27/06/2017	06/10/2017	-	$281,250	250m	Full transfer	-	-	-	-	-	$281,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515690	            62 Pademelon Street	25/05/2017	17/07/2017	-	$280,000	250m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522219	            15 Yellowfin Street	09/11/2017	14/12/2017	-	$280,000	250m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528428	            13 Yellowfin Street	22/12/2017	25/03/2018	-	$280,000	250m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505839	            62 Pademelon Street	22/06/2017	-	23/06/2017	$280,000	0m	Full transfer	-	-	-	-	-	$280,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	517650	            54 Pademelon Street	21/07/2017	23/08/2017	-	$280,000	250m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517784	            18 Pademelon Street	29/06/2017	28/08/2017	-	$279,835	250m	Full transfer	-	-	-	-	-	$279,835	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520395	            12 Potoroo Street	20/09/2017	02/11/2017	-	$279,000	250m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521032	            4 Potoroo Street	13/09/2017	30/11/2017	-	$279,000	250m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520309	            14 Potoroo Street	15/09/2017	02/11/2017	-	$279,000	250m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520388	            10 Potoroo Street	04/09/2017	02/11/2017	-	$279,000	250m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520175	            8 Potoroo Street	19/09/2017	03/11/2017	-	$279,000	250m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515584	            58 Pademelon Street	25/05/2017	17/07/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521098	            11 Yellowfin Street	22/05/2017	05/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520885	            48 Pademelon Street	12/07/2017	30/11/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505838	            58 Pademelon Street	22/06/2017	-	23/06/2017	$275,000	0m	Full transfer	-	-	-	-	-	$275,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	522991	            11 Cricket Street	28/11/2017	10/01/2018	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522241	            23 Cricket Street	16/10/2017	14/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521281	            7 Yellowfin Street	28/03/2017	08/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522252	            5 Yellowfin Street	12/04/2017	13/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526348	            19 Cricket Street	15/11/2017	01/03/2018	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524658	            7 Cricket Street	08/11/2017	01/02/2018	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524521	            21 Cricket Street	28/11/2017	30/01/2018	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522848	            56 Pademelon Street	22/11/2017	09/01/2018	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521296	            9 Yellowfin Street	06/06/2017	05/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522422	            24 Pademelon Street	19/10/2017	14/12/2017	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521125	            25 Quokka Street	26/06/2017	07/12/2017	-	$270,000	201m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520510	            19 Quokka Street	30/01/2017	07/11/2017	-	$270,000	201m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	540376	            7 Booroolong Street	22/08/2017	22/08/2018	-	$0	447m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515565	            5 Chuditch Street	29/05/2017	20/07/2017	-	$0	420m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521477	            15 Cricket Street	06/11/2017	22/12/2017	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520642	            27 Quokka Street	30/05/2017	06/11/2017	-	$0	201m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517356	            23 Chuditch Street	14/08/2017	14/08/2017	-	$0	456m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517318	            7 Chuditch Street	14/08/2017	14/08/2017	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517325	            3 Chuditch Street	14/08/2017	14/08/2017	-	$0	420m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520120	            6 Potoroo Street	15/09/2017	02/11/2017	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528292	            218 Bettong Avenue	05/12/2017	19/03/2018	-	$0	488m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517247	            68 Mulgara Loop	14/08/2017	14/08/2017	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521305	            6 Marron Way	26/09/2017	06/12/2017	-	$0	449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547084	            2 Pilliga Street	30/08/2018	21/11/2018	-	$992,500	497m	Full transfer	-	-	-	-	-	$992,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535811	            141 Bettong Avenue	10/04/2018	24/06/2018	-	$900,000	450m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533782	            141 Bettong Avenue	19/06/2018	-	21/06/2017	$900,000	450m	Full transfer	4	2	-	2	-	$900,000	363	-	Allhomes Record	-	-	-	-	-	-
+2018	526804	            9 Chuditch Street	08/01/2018	06/03/2018	-	$860,000	450m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511331	            9 Chuditch	25/01/2018	-	23/11/2017	$860,000	450m	Full transfer	4	1	2	2	-	$860,000	63	-	Allhomes Record	250	-	-	-	-	-
+2018	547523	            7 Booroolong Street	24/08/2018	25/10/2018	-	$854,000	447m	Full transfer	-	-	-	-	-	$854,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539244	            146 Bettong Ave	16/08/2018	-	29/06/2018	$850,000	453m	Full transfer	4	1	1	2	0	$850,000	48	-	Allhomes Record	-	-	-	-	-	-
+2018	543997	            146 Bettong Avenue	16/08/2018	08/10/2018	-	$850,000	458m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545564	            3 Koala Close	04/12/2018	-	18/01/2018	$840,000	499m	Full transfer	4	1	1	2	-	$840,000	320	-	Allhomes Record	-	-	-	-	-	-
+2018	534799	            234 Bettong Ave	26/06/2018	-	06/02/2018	$840,000	450m	Full transfer	4	2	1	2	-	$840,000	140	-	Allhomes Record	198	-	-	-	-	-
+2018	552023	3 Koala Close	28/11/2018	01/02/2019	-	$840,000	499m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540557	            234 Bettong Avenue	26/06/2018	20/08/2018	-	$840,000	450m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547468	            11 Chuditch Street	17/10/2018	23/11/2018	-	$839,000	450m	Full transfer	-	-	-	-	-	$839,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539372	            26 Pilliga Street	19/06/2018	08/08/2018	-	$838,000	450m	Full transfer	-	-	-	-	-	$838,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544265	            16 Pilliga Street	13/08/2018	18/10/2018	-	$835,000	450m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536905	            4 Brushtail Street	22/03/2018	04/07/2018	-	$821,100	450m	Full transfer	-	-	-	-	-	$821,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530732	            17 Galaxias Street	09/02/2018	18/04/2018	-	$820,000	405m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543670	            17 Chuditch Street	23/08/2018	12/10/2018	-	$817,000	450m	Full transfer	-	-	-	-	-	$817,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530733	            14 Brushtail Street	02/03/2018	18/04/2018	-	$815,000	497m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541203	            57 Shingleback Street	12/07/2018	06/09/2018	-	$808,000	405m	Full transfer	-	-	-	-	-	$808,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538760	            57 Shingleback Street	10/08/2018	-	09/05/2018	$808,000	405m	Full transfer	4	1	2	2	-	$808,000	93	-	Allhomes Record	174	-	-	-	-	-
+2018	530685	            7 Galaxias Street	01/05/2018	-	19/05/2017	$806,000	405m	Full transfer	4	2	1	2	-	$806,000	347	-	Allhomes Record	240	-	-	-	-	-
+2018	535478	            7 Galaxias Street	30/04/2018	19/06/2018	-	$806,000	405m	Full transfer	-	-	-	-	-	$806,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540336	            3 Bandicoot Street	10/07/2018	21/08/2018	-	$794,000	405m	Full transfer	-	-	-	-	-	$794,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547220	26 Perch Street	15/11/2018	04/01/2019	-	$790,000	250m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529414	            5 Banggu Street	09/02/2018	08/04/2018	-	$773,500	405m	Full transfer	-	-	-	-	-	$773,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560582	149 Bettong Avenue	19/12/2018	18/02/2019	-	$762,000	450m	Full transfer	-	-	-	-	-	$762,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551018	171 Bettong Avenue	26/11/2018	10/01/2019	-	$761,500	405m	Full transfer	-	-	-	-	-	$761,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545322	            171 Bettong Aveune	26/11/2018	-	18/10/2018	$761,500	405m	Full transfer	4	2	-	2	0	$761,500	39	-	Allhomes Record	-	-	-	-	-	-
+2018	549762	4 Yabby Way	29/10/2018	17/12/2018	-	$750,000	328m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545096	            4 Yabby Way	20/11/2018	-	18/07/2018	$750,000	327m	Full transfer	4	2	-	2	0	$750,000	125	-	Allhomes Record	-	-	-	-	-	-
+2018	538867	            28 Quokka Street	26/06/2018	01/08/2018	-	$745,000	250m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545738	            32 Quokka Street	07/12/2018	-	09/03/2018	$745,000	250m	Full transfer	4	3	-	2	0	$745,000	273	-	Allhomes Record	-	-	-	-	-	-
+2018	545495	            3 Yabby Way	03/12/2018	-	27/02/2018	$742,000	330m	Full transfer	4	2	-	2	0	$742,000	279	-	Allhomes Record	202	-	-	-	-	-
+2018	548639	3 Yabby Way	27/11/2018	14/01/2019	-	$742,000	331m	Full transfer	-	-	-	-	-	$742,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	512033	            16 Perch	16/02/2018	-	10/01/2018	$730,000	250m	Full transfer	5	2	1	2	-	$730,000	37	-	Allhomes Record	-	-	-	-	-	-
+2018	531506	            20 Perch Street	30/01/2018	29/04/2018	-	$730,000	250m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525378	            14 Perch Street	24/01/2018	-	04/10/2016	$730,000	250m	Full transfer	5	1	2	2	-	$730,000	477	-	Allhomes Record	-	-	-	-	-	-
+2018	538904	            11 Banggu Street	12/06/2018	02/08/2018	-	$730,000	405m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528408	            18 Perch Street	24/01/2018	25/03/2018	-	$715,000	250m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538795		13/08/2018	-	18/04/2018	$715,000	-	Full transfer	4	2	1	2	-	$715,000	117	-	Allhomes Record	165	-	-	-	-	-
+2018	573079	            1/2 Rosenberg Street	20/08/2018	28/10/2019	-	$713,570	2015m	Full transfer	-	-	-	-	-	$713,570	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540873	            26 Bandicoot Street	09/05/2018	27/08/2018	-	$710,000	225m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531903	26 Bandicoot Street	16/05/2018	-	03/08/2017	$710,000	225m	Full transfer	4	1	1	2	-	$710,000	286	-	Allhomes Record	-	-	-	-	$3,242,000	4.57
+2018	545422		30/11/2018	-	09/11/2018	$704,000	-	Full transfer	4	2	1	2	-	$704,000	21	-	Allhomes Record	161	-	-	-	-	-
+2018	529562	            8 Bandicoot Street	15/02/2018	04/04/2018	-	$701,000	225m	Full transfer	-	-	-	-	-	$701,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511192	            6 Potoroo	01/01/2018	-	21/02/2017	$699,000	-	Full transfer	4	1	1	2	-	$699,000	314	-	Allhomes Record	-	-	-	-	-	-
+2018	538624	            18 Bandicoot Street	29/05/2018	26/07/2018	-	$679,000	198m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534697	            20 Bandicoot Street	11/04/2018	04/06/2018	-	$679,000	198m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527468	            10 Bandicoot Street	29/03/2018	-	03/08/2017	$679,000	0m	Full transfer	4	2	-	2	0	$679,000	238	-	Allhomes Record	-	-	-	-	-	-
+2018	545427		26/10/2018	-	09/11/2018	$678,888	-	Full transfer	4	2	1	2	-	$678,888	-	-	Allhomes Record	165	-	-	-	-	-
+2018	545247	            14 Bandicoot Street	23/11/2018	-	17/08/2018	$675,000	0m	Full transfer	4	2	-	2	0	$675,000	98	-	Allhomes Record	-	-	-	-	-	-
+2018	549380	            14 Bandicoot Street	17/08/2018	06/11/2018	-	$675,000	198m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548523	162 Bettong Avenue	08/11/2018	21/12/2018	-	$660,000	315m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	569433	            10/2 Kaigas Street	09/03/2018	10/09/2019	-	$649,000	5203m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	553356	22 Pademelon Street	21/12/2018	15/02/2019	29/05/2017	$644,950	250m	Full transfer	4	1	1	2	0	$644,950	571	-	Combined Record	145	-	-	Single residential dwelling	-	-
+2018	525136		18/02/2018	-	06/04/2017	$635,000	315m	Full transfer	3	1	1	1	-	$635,000	318	-	Allhomes Record	-	-	-	-	-	-
+2018	569228	            4/2 Kaigas Street	15/03/2018	11/09/2019	-	$631,310	5203m	Full transfer	-	-	-	-	-	$631,310	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547976	            46 Pademelon Street	07/09/2018	22/10/2018	-	$629,000	250m	Full transfer	-	-	-	-	-	$629,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542558	             Pademelon Street	05/10/2018	-	23/04/2018	$629,000	250m	Full transfer	4	1	1	2	-	$629,000	165	-	Allhomes Record	130	-	-	-	-	-
+2018	511136	            5 Echidna	15/01/2018	-	16/10/2017	$625,000	834m	Full transfer	-	-	-	-	-	$625,000	91	-	Allhomes Record	-	-	-	-	-	-
+2018	572206	            9/2 Rosenberg Street	10/05/2018	14/10/2019	-	$619,990	2015m	Full transfer	-	-	-	-	-	$619,990	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538496	            20 Quokka Street	05/06/2018	25/07/2018	-	$601,000	315m	Full transfer	-	-	-	-	-	$601,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525161		20/02/2018	-	15/08/2017	$599,000	-	Full transfer	3	1	1	2	-	$599,000	189	-	Allhomes Record	-	-	-	-	-	-
+2018	572340	            5/2 Rosenberg Street	30/10/2018	14/10/2019	-	$559,990	2015m	Full transfer	-	-	-	-	-	$559,990	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	572627	            6/2 Rosenberg Street	31/08/2018	21/10/2019	-	$554,900	2015m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527116	            5 Cricket Street	20/03/2018	-	01/12/2016	$549,950	250m	Full transfer	4	1	1	2	-	$549,950	474	-	Allhomes Record	-	-	-	-	-	-
+2018	572892	            2/2 Rosenberg Street	06/06/2018	21/10/2019	-	$530,990	2015m	Full transfer	-	-	-	-	-	$530,990	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	571917	            3/2 Rosenberg Street	20/12/2018	11/10/2019	-	$519,900	2015m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	572334	            8/2 Rosenberg Street	02/02/2018	14/10/2019	-	$519,900	2015m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	572902	            7/2 Rosenberg Street	16/03/2018	24/10/2019	-	$519,900	2015m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530606		27/04/2018	-	16/04/2018	$509,000	-	Full transfer	-	-	-	-	-	$509,000	11	-	Allhomes Record	-	-	-	-	-	-
+2018	537337		13/07/2018	-	15/08/2017	$499,000	-	Full transfer	3	1	1	2	-	$499,000	332	-	Allhomes Record	-	-	-	-	-	-
+2018	527225	            25 Booroolong Street	22/03/2018	-	27/11/2017	$490,000	496m	Full transfer	-	-	-	-	-	$490,000	115	-	Allhomes Record	-	-	-	-	-	-
+2018	530370	            25 Booroolong Street	21/02/2018	12/04/2018	-	$490,000	496m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542557	            52 Pademelon Street	09/10/2018	-	21/02/2018	$489,000	250m	Full transfer	3	2	-	2	-	$489,000	230	-	Allhomes Record	-	-	-	-	-	-
+2018	545203	 Kunapalari Street	09/03/2018	-	22/11/2018	$479,000	0m	Full transfer	3	2	-	1	0	$479,000	-	-	Allhomes Record	-	-	-	-	-	-
+2018	533118		07/06/2018	-	07/05/2018	$469,000	-	Full transfer	3	1	1	1	-	$469,000	31	-	Allhomes Record	112	-	-	-	-	-
+2018	534825		27/06/2018	-	07/05/2018	$469,000	-	Full transfer	3	1	1	1	-	$469,000	51	-	Allhomes Record	-	-	-	-	-	-
+2018	535249		28/06/2018	-	07/05/2018	$469,000	-	Full transfer	3	1	1	1	-	$469,000	52	-	Allhomes Record	-	-	-	-	-	-
+2018	540907	            38 Quokka Street	22/06/2018	28/08/2018	-	$465,000	494m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550539	27 Perunga Rise	13/09/2018	07/01/2019	-	$460,000	478m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532131		23/05/2018	-	15/08/2017	$449,000	-	Full transfer	2	1	1	-	2	$449,000	281	-	Allhomes Record	-	-	-	-	-	-
+2018	541859	            14 Chuditch Street	02/07/2018	11/09/2018	-	$445,000	450m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537072	            26 Booroolong Street	05/03/2018	04/07/2018	-	$436,000	450m	Full transfer	-	-	-	-	-	$436,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555511	68 Mulgara Loop	11/12/2018	19/03/2019	-	$430,000	450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536164	            28 Pilliga Street	02/05/2018	01/07/2018	-	$424,000	450m	Full transfer	-	-	-	-	-	$424,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527166		19/03/2018	-	28/11/2016	$420,000	-	Full transfer	-	-	-	-	-	$420,000	476	-	Allhomes Record	-	-	-	-	-	-
+2018	536557	            42 Mulgara Loop	09/05/2018	27/06/2018	-	$415,000	437m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544248	            19 Booroolong Street	25/05/2018	19/10/2018	-	$415,000	438m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538995	            7 Banggu Street	12/06/2018	31/07/2018	-	$405,000	405m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538515	            9 Banggu Street	24/05/2018	24/07/2018	-	$405,000	405m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531140		03/05/2018	-	16/04/2018	$400,000	-	Full transfer	-	-	-	-	-	$400,000	17	-	Allhomes Record	-	-	-	-	-	-
+2018	526394	            40 Booroolong Street	07/03/2018	-	21/11/2016	$395,000	315m	Full transfer	-	-	-	-	-	$395,000	471	-	Allhomes Record	-	-	-	-	-	-
+2018	525593	            171 Bettong Avenue	05/02/2018	-	21/12/2017	$395,000	0m	Full transfer	-	-	-	-	-	$395,000	46	-	Allhomes Record	-	-	-	-	-	-
+2018	532149	            171 Bettong Avenue	05/03/2018	13/05/2018	-	$395,000	405m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560360	6 Gidgee Street	20/12/2018	18/02/2019	-	$350,000	315m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548147	            37 Melomys Circuit	08/08/2018	08/11/2018	-	$340,000	315m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551537	            33 Melomys Circuit	08/08/2018	16/11/2018	-	$340,000	315m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536240	            8 Yellowfin Street	06/06/2018	01/07/2018	-	$309,000	250m	Full transfer	-	-	-	-	-	$309,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539013	            16 Yellowfin Street	06/06/2018	30/07/2018	-	$309,000	250m	Full transfer	-	-	-	-	-	$309,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552214	19 Pilliga Street	30/11/2018	22/01/2019	-	$308,000	315m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548902	6 Dragon Street	06/12/2018	15/01/2019	-	$306,000	326m	Full transfer	-	-	-	-	-	$306,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	545710	            19 Pilliga Street	06/12/2018	-	19/10/2018	$305,550	315m	Full transfer	3	2	-	1	-	$305,550	48	-	Allhomes Record	-	-	-	-	-	-
+2018	543657	            70 Shingleback Street	18/05/2018	09/10/2018	-	$303,550	315m	Full transfer	-	-	-	-	-	$303,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543969	            21 Pilliga Street	21/06/2018	10/10/2018	-	$303,550	315m	Full transfer	-	-	-	-	-	$303,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549796	8 Dragon Street	26/09/2018	20/12/2018	-	$303,550	326m	Full transfer	-	-	-	-	-	$303,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544470	            17 Pilliga Street	05/04/2018	15/10/2018	-	$303,500	360m	Full transfer	-	-	-	-	-	$303,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544473	            66 Shingleback Street	17/05/2018	18/10/2018	-	$301,300	315m	Full transfer	-	-	-	-	-	$301,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543945	            64 Shingleback Street	06/06/2018	12/10/2018	-	$301,300	315m	Full transfer	-	-	-	-	-	$301,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543902	            68 Shingleback Street	09/05/2018	11/10/2018	-	$301,050	315m	Full transfer	-	-	-	-	-	$301,050	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542206	            8 Perch Street	18/07/2018	20/09/2018	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544366	            4 Dragon Street	30/04/2018	17/10/2018	-	$299,950	326m	Full transfer	-	-	-	-	-	$299,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529913		18/04/2018	-	14/03/2018	$289,000	-	Full transfer	-	-	-	-	-	$289,000	35	-	Allhomes Record	-	-	-	-	-	-
+2018	527168		21/03/2018	-	21/09/2016	$289,000	250m	Full transfer	-	-	-	-	-	$289,000	546	-	Allhomes Record	-	-	-	-	-	-
+2018	529844		13/04/2018	-	20/03/2018	$289,000	250m	Full transfer	-	-	-	-	-	$289,000	24	-	Allhomes Record	-	-	-	-	-	-
+2018	529988		20/04/2018	-	21/09/2016	$289,000	-	Full transfer	-	-	-	-	-	$289,000	576	-	Allhomes Record	-	-	-	-	-	-
+2018	526581		14/03/2018	-	31/01/2017	$289,000	250m	Full transfer	4	1	1	2	-	$289,000	407	-	Allhomes Record	-	-	-	-	-	-
+2018	550406	32 Quokka Street	26/10/2018	08/01/2019	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540969	            26 Quokka Street	03/07/2018	28/08/2018	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	559846	19 Cricket Street	20/11/2018	23/05/2019	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543159	            20 Pademelon Street	31/05/2018	05/10/2018	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550277	218 Bettong Avenue	02/11/2018	10/12/2018	-	$0	488m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551201	            28 Galaxias Street	18/10/2018	08/01/2019	-	$0	461m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543915	            30 Quokka Street	13/08/2018	08/10/2018	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550280	            19 Galaxias Street	17/10/2018	10/12/2018	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564601	6 Koala Close	17/05/2019	17/07/2019	24/04/2019	$1,360,000	908m	Full transfer	5	3	-	2	0	$1,360,000	23	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	572152	55 Shingleback Street	26/08/2019	18/10/2019	21/02/2019	$1,115,000	405m	Full transfer	4	3	-	0	2	$1,115,000	186	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	574691	69 Shingleback Street	15/10/2019	20/11/2019	12/06/2019	$1,100,000	495m	Full transfer	5	3	-	2	-	$1,100,000	125	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	563125	5 Quoll Place	02/05/2019	17/06/2019	17/01/2019	$1,010,000	603m	Full transfer	4	2	1	2	-	$1,010,000	105	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	573245	7 Glider Crescent	28/08/2019	28/10/2019	31/08/2018	$973,000	450m	Full transfer	4	2	-	2	0	$973,000	362	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	576181	21 Glider Crescent	17/12/2019	-	09/09/2019	$969,500	0m	Full transfer	4	2	-	2	0	$969,500	99	-	Allhomes Record	-	-	-	-	-	-
+2019	577097	57 Dunnart Circuit	22/11/2019	16/12/2019	01/08/2019	$905,000	595m	Full transfer	4	1	1	2	-	$905,000	113	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	563007	25 Melomys Circuit	30/04/2019	18/06/2019	25/02/2019	$880,000	426m	Full transfer	4	2	-	2	0	$880,000	64	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	560566	21 Glider Crescent	10/01/2019	21/02/2019	-	$860,000	549m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568924	158 Bettong Avenue	05/07/2019	04/09/2019	28/08/2018	$837,000	450m	Full transfer	4	3	-	2	0	$837,000	311	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	573799	156 Bettong Avenue	25/09/2019	05/11/2019	10/05/2017	$825,000	450m	Full transfer	4	2	-	2	-	$825,000	868	-	Combined Record	201	-	-	Single residential dwelling	-	-
+2019	571363	11 Perch Street	23/10/2019	-	09/08/2019	$812,000	-	Full transfer	4	2	1	2	-	$812,000	75	-	Allhomes Record	-	-	-	-	-	-
+2019	572245	11 Perch Street	02/09/2019	18/10/2019	-	$812,000	405m	Full transfer	-	-	-	-	-	$812,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570415	20 Booroolong Street	31/07/2019	26/09/2019	29/05/2019	$805,000	450m	Full transfer	4	3	-	0	2	$805,000	63	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	568195	13 Perch Street	28/06/2019	30/08/2019	-	$800,000	405m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575783	125 Bettong Avenue	03/10/2019	05/12/2019	-	$791,000	420m	Full transfer	-	-	-	-	-	$791,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567908	9 Galaxias Street	26/07/2019	23/08/2019	-	$770,000	405m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556846	71 Bettong Avenue	01/03/2019	02/04/2019	-	$765,000	450m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575925	227 Bettong Avenue	23/10/2019	05/12/2019	-	$765,000	450m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568096	22 Galaxias Street	18/07/2019	28/08/2019	21/03/2019	$765,000	250m	Full transfer	5	3	-	0	2	$765,000	119	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	570892	19 Yellowfin Street	31/07/2019	03/10/2019	-	$760,000	250m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	552788	            65 Shingleback	16/01/2019	-	23/05/2018	$760,000	-	Full transfer	4	1	1	2	-	$760,000	238	-	Allhomes Record	-	-	-	-	-	-
+2019	554328	65 Shingleback Street	16/01/2019	05/03/2019	-	$760,000	405m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573650	242 Bettong Avenue	10/09/2019	07/11/2019	-	$745,000	450m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569226	8 Gidgee Street	06/08/2019	11/09/2019	04/09/2018	$741,500	315m	Full transfer	4	3	-	2	0	$741,500	336	-	Combined Record	203	-	-	Single residential dwelling	-	-
+2019	576978	24 Quokka Street	23/12/2019	-	21/08/2019	$720,000	0m	Full transfer	4	3	-	2	0	$720,000	124	-	Allhomes Record	-	-	-	-	-	-
+2019	572132	53 Pademelon Street	22/08/2019	18/10/2019	-	$700,000	218m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570310	51 Pademelon Street	21/08/2019	26/09/2019	-	$690,000	218m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573422		22/11/2019	-	28/10/2019	$688,000	-	Full transfer	4	2	1	2	-	$688,000	25	-	Allhomes Record	161	-	-	-	-	-
+2019	560254	62 Shingleback Street	25/03/2019	08/04/2019	03/05/2018	$685,000	315m	Full transfer	4	2	-	1	0	$685,000	326	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	571323		01/10/2019	-	07/09/2018	$685,000	-	Full transfer	4	2	1	2	-	$685,000	389	-	Allhomes Record	-	-	-	-	-	-
+2019	572586	55 Pademelon Street	24/09/2019	23/10/2019	04/04/2019	$684,000	218m	Full transfer	4	3	-	2	0	$684,000	173	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	574262	21 Potoroo Street	19/09/2019	11/11/2019	07/08/2019	$672,000	346m	Full transfer	3	2	-	2	-	$672,000	43	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	577170	            8/2 Kaigas Street	18/11/2019	16/12/2019	-	$670,000	5203m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570031	            11/2 Kaigas Street	22/07/2019	18/09/2019	-	$669,900	5203m	Full transfer	-	-	-	-	-	$669,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	552783		21/02/2019	-	04/07/2018	$668,900	-	Full transfer	4	1	1	2	-	$668,900	232	-	Allhomes Record	-	-	-	-	-	-
+2019	555783	52 Pademelon Street	24/01/2019	18/03/2019	-	$668,900	250m	Full transfer	-	-	-	-	-	$668,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564064	1 Quoll Place	28/05/2019	02/07/2019	-	$665,000	348m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570591	1 Quoll Place	10/10/2019	-	01/03/2017	$665,000	347m	Full transfer	3	1	2	2	-	$665,000	953	-	Allhomes Record	-	-	-	-	-	-
+2019	552554		12/02/2019	-	23/02/2018	$658,000	-	Full transfer	-	-	-	-	-	$658,000	354	-	Allhomes Record	-	-	-	-	-	-
+2019	560625	12 Bandicoot Street	24/04/2019	29/05/2019	20/02/2019	$656,000	198m	Full transfer	4	2	-	2	0	$656,000	63	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	563108	22 Bandicoot Street	08/03/2019	17/06/2019	21/06/2018	$655,000	198m	Full transfer	4	2	-	2	0	$655,000	260	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	556838	24 Bandicoot Street	05/03/2019	04/04/2019	-	$655,000	198m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557652	16 Bandicoot Street	28/02/2019	23/04/2019	21/06/2018	$649,500	198m	Full transfer	4	2	-	2	0	$649,500	252	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	569163	            1/2 Kaigas Street	08/08/2019	09/09/2019	-	$649,000	5203m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574099	18 Galaxias Street	04/12/2019	-	31/10/2019	$640,000	250m	Full transfer	3	2	-	2	0	$640,000	34	-	Allhomes Record	-	-	-	-	-	-
+2019	574520	52 Dunnart Circuit	08/08/2019	19/11/2019	-	$630,000	315m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569521	            6/14 Bettong Avenue	26/09/2019	-	18/07/2019	$629,000	0m	Full transfer	3	2	-	2	0	$629,000	70	-	Allhomes Record	-	-	-	-	-	-
+2019	574879	102 Barramundi Street	05/07/2019	12/11/2019	-	$620,500	315m	Full transfer	-	-	-	-	-	$620,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569263	            12/2 Kaigas Street	29/03/2019	12/09/2019	-	$619,900	5203m	Full transfer	-	-	-	-	-	$619,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569093	            18/2 Kaigas Street	30/08/2019	11/09/2019	-	$619,000	5203m	Full transfer	-	-	-	-	-	$619,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574431	            2/2 Kaigas Street	04/10/2019	11/11/2019	-	$610,000	5203m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576671	            3/2 Kaigas Street	11/11/2019	10/12/2019	-	$609,900	5203m	Full transfer	-	-	-	-	-	$609,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574514	16 Banggu Street	03/10/2019	19/11/2019	-	$600,000	250m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571972	            16/2 Kaigas Street	19/08/2019	10/10/2019	-	$600,000	5203m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575939	            6/2 Kaigas Street	17/10/2019	05/12/2019	-	$600,000	5203m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574835	            5/2 Kaigas Street	27/09/2019	13/11/2019	-	$600,000	5203m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575228	            19/2 Kaigas Street	15/10/2019	28/11/2019	-	$599,900	5203m	Full transfer	-	-	-	-	-	$599,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569952	            13/2 Kaigas Street	16/07/2019	19/09/2019	-	$599,900	5203m	Full transfer	-	-	-	-	-	$599,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573180	            17/2 Kaigas Street	30/09/2019	01/11/2019	-	$590,000	5203m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575021	18 Banggu Street	01/10/2019	21/11/2019	-	$585,000	250m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	552748	28 Perch Street	19/02/2019	-	06/12/2018	$580,000	0m	Full transfer	3	2	-	1	0	$580,000	75	-	Allhomes Record	-	-	-	-	-	-
+2019	574791	39 Shingleback Street	02/09/2019	14/11/2019	04/06/2018	$550,000	534m	Full transfer	4	4	-	2	0	$550,000	455	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	570963	45 Shingleback Street	26/07/2019	02/10/2019	-	$550,000	540m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554256	16 Echidna Street	07/01/2019	26/02/2019	-	$545,000	793m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554279	5 Kowari Close	29/01/2019	25/02/2019	-	$540,000	777m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568816	23 Perunga Rise	06/06/2019	05/09/2019	-	$535,500	603m	Full transfer	-	-	-	-	-	$535,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570989	            4/2 Rosenberg Street	29/05/2019	02/10/2019	-	$530,750	2015m	Full transfer	-	-	-	-	-	$530,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	555988		01/03/2019	-	05/10/2018	$525,000	-	Full transfer	-	-	-	-	-	$525,000	147	-	Allhomes Record	-	-	-	-	-	-
+2019	562756		28/06/2019	-	05/10/2018	$525,000	-	Full transfer	-	-	-	-	-	$525,000	266	-	Allhomes Record	-	-	-	-	-	-
+2019	563593		05/07/2019	-	05/10/2018	$500,000	-	Full transfer	-	-	-	-	-	$500,000	273	-	Allhomes Record	-	-	-	-	-	-
+2019	557856	51 Dunnart Circuit	15/02/2019	18/04/2019	-	$495,000	618m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	555148	22 Potoroo Street	24/01/2019	14/03/2019	-	$462,500	450m	Full transfer	-	-	-	-	-	$462,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567546	15 Chuditch Street	01/07/2019	22/08/2019	-	$451,818	450m	Full transfer	-	-	-	-	-	$451,818	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575302	215 Bettong Avenue	15/10/2019	27/11/2019	06/08/2019	$431,000	450m	Full transfer	-	-	-	-	-	$431,000	70	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	565841	78 Mulgara Loop	06/06/2019	23/07/2019	-	$430,000	450m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559924	66 Barramundi Street	12/02/2019	21/05/2019	-	$425,000	420m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572937	9 Booroolong Street	30/08/2019	22/10/2019	14/03/2017	$420,000	450m	Full transfer	-	-	-	-	-	$420,000	899	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	564711	128 Bettong Avenue	13/05/2019	15/07/2019	31/01/2019	$415,000	458m	Full transfer	-	-	-	-	-	$415,000	102	-	Combined Record	207	-	-	Single residential dwelling	-	-
+2019	559978	78 Mulgara Loop	21/02/2019	21/05/2019	-	$410,000	450m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567655	127 Bettong Avenue	28/06/2019	19/08/2019	-	$405,000	420m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572746	1 Cricket Street	25/08/2019	24/10/2019	-	$404,000	445m	Full transfer	-	-	-	-	-	$404,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575243	20 Shingleback Street	30/08/2019	26/11/2019	04/07/2019	$395,000	450m	Full transfer	-	-	-	-	-	$395,000	57	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	575121		11/12/2019	-	28/06/2019	$370,000	-	Full transfer	-	-	-	-	-	$370,000	166	-	Allhomes Record	-	-	-	-	-	-
+2019	562762	16 Melomys Circuit	28/06/2019	-	09/04/2019	$340,000	315m	Full transfer	-	-	-	-	-	$340,000	80	-	Allhomes Record	-	-	-	-	-	-
+2019	559934	86 Barramundi Street	15/02/2019	21/05/2019	-	$335,000	315m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576718	86 Barramundi Street	12/09/2019	13/12/2019	-	$330,000	315m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560618	28 Perch Street	04/04/2019	30/05/2019	-	$275,000	250m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561690	14 Banggu Street	30/03/2019	28/05/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561666	12 Banggu Street	30/03/2019	28/05/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560431	8 Banggu Street	30/03/2019	30/05/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562654	18 Banggu Street	30/03/2019	14/06/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561677	6 Banggu Street	30/03/2019	30/05/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562556	16 Banggu Street	30/03/2019	14/06/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560619	4 Banggu Street	30/03/2019	30/05/2019	08/03/2019	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	22	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2019	560280	10 Banggu Street	30/03/2019	30/05/2019	-	$270,000	250m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559839	4 Kowari Close	15/02/2019	21/05/2019	-	$0	687m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559370	25 Cricket Street	25/03/2019	13/05/2019	-	$0	374m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
