@@ -1,0 +1,36 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	32941	2 Barrine Drive	17/10/2006	07/12/2006	-	$110,000	582m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Sportsgoods,bicycle,toy store	-	-
+2012	371117	             Cafe At Australian National University - Run Under Full Management	29/06/2012	-	04/05/2012	$630,000	-	Full transfer	-	-	-	-	-	$630,000	56	-	Allhomes Record	-	-	-	-	-	-
+2013	425667	1403/19 Marcus Clarke Street	20/12/2013	-	11/06/2014	$1,047,500	0m	Full transfer	3	2	-	2	0	$1,047,500	-	-	Allhomes Record	-	-	-	-	$11,290,650	10.78
+2013	414856	            1403/19 Marcus Clarke St	20/12/2013	-	22/11/2013	$1,047,500	0m	Full transfer	3	2	-	2	0	$1,047,500	28	-	Allhomes Record	-	-	-	-	-	-
+2014	434211	1009/25 Edinburgh Avenue	21/09/2014	-	15/08/2014	$895,000	-	Full transfer	2	1	1	2	-	$895,000	37	-	Allhomes Record	-	-	-	-	$3,750,000	4.19
+2014	429315	701/21 Marcus Clarke Street	15/07/2014	-	01/05/2014	$710,000	-	Full transfer	2	1	1	2	-	$710,000	75	-	Allhomes Record	-	-	-	-	$6,840,000	9.63
+2014	417249	            402/25 Edinburgh Avenue	31/01/2014	-	03/09/2013	$593,000	0m	Full transfer	2	1	-	1	0	$593,000	150	-	Allhomes Record	-	-	-	-	-	-
+2014	430089	703/19 Marcus Clarke Street	22/07/2014	-	20/02/2014	$580,000	-	Full transfer	1	1	-	-	-	$580,000	152	-	Allhomes Record	78	-	-	-	$11,290,650	19.47
+2014	425172	            516/25 Edinburgh Avenue	22/05/2014	-	02/01/2014	$520,000	-	Full transfer	1	1	-	1	-	$520,000	140	-	Allhomes Record	78	-	-	-	-	-
+2014	437103	G04/19 Marcus Clarke Street	14/10/2014	-	11/09/2014	$502,500	0m	Full transfer	1	1	-	1	0	$502,500	33	-	Allhomes Record	-	-	-	-	$11,290,650	22.47
+2014	438342	78/3 London Circuit	21/11/2014	-	03/09/2013	$424,000	0m	Full transfer	1	1	-	1	0	$424,000	444	-	Allhomes Record	-	-	-	-	-	-
+2015	464390	811/25 Edinburgh Street	17/11/2015	-	18/06/2015	$835,000	-	Full transfer	2	1	1	2	0	$835,000	152	-	Allhomes Record	-	-	-	-	$3,750,000	4.49
+2015	449081	41/3 Gordon Street	09/04/2015	-	12/02/2015	$550,000	-	Full transfer	2	1	1	2	-	$550,000	56	-	Allhomes Record	112	-	-	-	$14,990,850	27.26
+2015	461731	125/25 Edinburgh Avenue	30/09/2015	-	15/05/2015	$380,000	0m	Full transfer	1	1	-	1	0	$380,000	138	-	Allhomes Record	-	-	-	-	-	-
+2015	460920	314/25 Edinburgh Avenue	22/09/2015	-	09/04/2015	$380,000	0m	Full transfer	1	1	-	1	0	$380,000	166	-	Allhomes Record	-	-	-	-	$3,750,000	9.87
+2016	469905	313/19 Marcus Clarke Street	17/02/2016	-	28/02/2014	$970,000	0m	Full transfer	3	3	1	2	0	$970,000	719	-	Allhomes Record	-	-	-	-	$11,290,650	11.64
+2016	484000	410/19 Marcus Clarke Street	12/09/2016	-	26/05/2016	$785,000	-	Full transfer	2	1	1	2	-	$785,000	109	-	Allhomes Record	-	-	-	-	$11,290,650	14.38
+2016	485414	78/2 Edinburgh Avenue	23/09/2016	-	05/07/2016	$637,500	-	Full transfer	2	1	1	-	-	$637,500	80	-	Allhomes Record	-	-	-	-	$14,990,850	23.52
+2016	469713	311/19 Marcus Clarke Street	09/02/2016	-	10/11/2015	$547,000	0m	Full transfer	1	1	-	1	-	$547,000	91	-	Allhomes Record	-	-	-	-	$11,290,650	20.64
+2016	479788	308/25 Edinburgh Avenue	30/06/2016	-	27/05/2015	$410,000	0m	Full transfer	1	1	-	1	0	$410,000	400	-	Allhomes Record	-	-	-	-	$3,750,000	9.15
+2017	508809	912/25 'Nishi' Edinburgh Avenue	23/10/2017	-	07/09/2017	$795,000	0m	Full transfer	2	2	-	2	0	$795,000	46	-	Allhomes Record	-	-	-	-	$3,750,000	4.72
+2017	505858	            1206/19 Marcus Clarke Street	23/06/2017	-	30/03/2017	$710,000	0m	Full transfer	2	2	-	2	0	$710,000	85	-	Allhomes Record	-	-	-	-	-	-
+2017	510516	            25 Edinburgh Avenue	08/12/2017	-	22/08/2013	$596,000	3236m	Full transfer	1	1	-	-	-	$596,000	1569	-	Allhomes Record	72	-	-	-	$3,750,000	6.29
+2017	560058	            1301/25 Edinburgh Ave	30/11/2017	-	02/06/2019	$570,000	0m	Full transfer	1	1	-	1	-	$570,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	568438	            904/25 Edinburgh Ave	14/09/2017	-	12/09/2019	$520,000	0m	Full transfer	1	1	-	1	-	$520,000	-	-	Allhomes Record	-	-	-	-	-	-
+2018	544952	1509/25 Edinburgh Avenue	12/11/2018	-	04/04/2018	$1,320,000	0m	Full transfer	3	2	-	3	-	$1,320,000	222	-	Allhomes Record	-	-	-	-	$5,570,000	4.22
+2018	540706	1508/25 Edinburgh Ave	14/09/2018	-	04/04/2018	$1,295,000	0m	Full transfer	3	3	-	2	-	$1,295,000	163	-	Allhomes Record	-	-	-	-	$5,570,000	4.3
+2018	527897	1504/25 Edinburgh Ave	29/03/2018	-	04/04/2018	$1,240,000	0m	Full transfer	3	3	-	2	-	$1,240,000	-	-	Allhomes Record	-	-	-	-	$5,570,000	4.49
+2018	533046	1506/25 Edinburgh Ave	18/01/2018	-	05/06/2018	$1,180,000	0m	Full transfer	3	2	-	2	-	$1,180,000	-	-	Allhomes Record	-	-	-	-	$5,570,000	4.72
+2018	541117	303/19 Marcus Clarke Street	21/09/2018	-	14/06/2018	$620,000	0m	Full transfer	2	2	-	0	1	$620,000	99	-	Allhomes Record	-	-	-	-	$11,290,650	18.21
+2018	538741	603/19 Marcus Clarke Street	10/08/2018	-	15/03/2016	$589,000	0m	Full transfer	1	1	-	1	0	$589,000	878	-	Allhomes Record	78	-	-	-	$11,290,650	19.17
+2018	544709	318/19 Marcus Clarke Street	25/10/2018	-	09/08/2018	$515,000	4070m	Full transfer	1	1	-	1	-	$515,000	77	-	Allhomes Record	-	-	-	-	$11,290,650	21.92
+2018	541123	215/19 Marcus Clarke Street	20/09/2018	-	31/03/2017	$490,000	0m	Full transfer	1	1	-	1	0	$490,000	538	-	Allhomes Record	-	-	-	-	$11,290,650	23.04
+2018	526476	1315/25 Edinburgh Avenue	09/03/2018	-	07/02/2018	$400,000	0m	Full transfer	1	1	-	1	0	$400,000	30	-	Allhomes Record	-	-	-	-	$5,570,000	13.93
+2019	563661	            28/1 Gordon Street	11/07/2019	-	06/06/2019	$630,000	0m	Full transfer	2	2	-	2	0	$630,000	35	-	Allhomes Record	-	-	-	-	-	-
