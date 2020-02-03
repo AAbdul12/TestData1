@@ -1,0 +1,26 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	471029	             Psh Clive	05/12/2006	05/12/2006	-	$206,066	1295000m	Full transfer	-	-	-	-	-	$206,066	-	-	Government Record	-	-	-	Farm	-	-
+2006	471033	661 Crace Lane	28/09/2006	08/11/2006	-	$155,000	98520m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2006	471023	             Wyora Road	31/03/2006	28/04/2006	-	$130,000	800400m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2007	471036	726 Crace Lane	30/11/2007	30/11/2007	-	$30,000	976900m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2008	466982	             Brindabella Valley Road	22/07/2008	29/07/2008	-	$250,000	158200m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2008	471022	             Brindabella Road	15/05/2008	16/05/2008	-	$115,500	1553000m	Full transfer	-	-	-	-	-	$115,500	-	-	Government Record	-	-	-	Rural	-	-
+2008	471014	52 Wyora Road	11/04/2008	18/08/2008	-	$75,320	648700m	Full transfer	-	-	-	-	-	$75,320	-	-	Government Record	-	-	-	Vacant land	-	-
+2010	278240	203 Crace Lane	17/08/2010	-	18/03/2010	$775,000	-	Full transfer	4	2	-	-	6	$775,000	152	-	Allhomes Record	-	-	-	-	-	-
+2010	471042	203 Crace Lane	16/08/2010	31/08/2010	-	$510,000	832000m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Residence	-	-
+2010	471018	54 Crace Lane	14/05/2010	11/06/2010	26/03/2010	$465,000	950000m	Full transfer	3	1	-	2	-	$465,000	49	-	Combined Record	-	-	-	Residence	-	-
+2010	490808	             Crace Lane	16/08/2010	05/11/2010	-	$265,000	608800m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Farm	-	-
+2011	795723	             Wyora Road	06/12/2011	21/05/2012	-	$37,425,761	1620000m	Full transfer	-	-	-	-	-	$37,425,761	-	-	Government Record	-	-	-	Farm forestry	-	-
+2011	417671	643 Crace Lane	30/06/2011	31/10/2011	-	$15,000	811400m	Partial transfer	-	-	-	-	-	$15,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2011	490764	             Brindabella Valley Road	24/04/2011	01/07/2011	-	$3,920	7296m	Full transfer	-	-	-	-	-	$3,920	-	-	Government Record	-	-	-	Vacant land	-	-
+2013	873473	51 Wyora Road	05/06/2013	05/06/2013	-	$43,000	430550m	Full transfer	-	-	-	-	-	$43,000	-	-	Government Record	-	-	-	Nonurban farm	-	-
+2013	1065341	             Crace Lane	30/12/2013	31/10/2014	-	$1,042	7507m	Full transfer	-	-	-	-	-	$1,042	-	-	Government Record	-	-	-	Vacant land	-	-
+2014	1204036	726 Crace Lane	21/07/2014	25/08/2015	-	$60,000	976900m	Partial transfer	-	-	-	-	-	$60,000	-	-	Government Record	-	-	-	Residence	-	-
+2014	1194016	             Crace Lane	27/02/2014	03/07/2015	-	$1,105	7964m	Full transfer	-	-	-	-	-	$1,105	-	-	Government Record	-	-	-	Vacant land	-	-
+2015	1131648	356 Brindabella Valley Road	31/03/2015	24/04/2015	-	$452,000	71010m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Residence	-	-
+2015	1157867	             Wyora Road	27/03/2015	31/03/2015	-	$100,000	1138000m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2016	1667347	564 Crace Lane	01/07/2016	16/09/2016	-	$275,000	1192000m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2017	1839473	             Wyora Road	16/02/2017	02/03/2017	-	$600,000	1553000m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Forestry land	-	-
+2017	2174528	643 Crace Lane	30/06/2017	30/06/2017	-	$45,000	812400m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2019	2748582	664 Brindabella Valley Road	29/03/2019	14/06/2019	-	$870,000	905600m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Residence	-	-
+2019	2748581	726 Crace Lane	14/05/2019	04/06/2019	-	$250,000	976900m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Vacant land	-	-
