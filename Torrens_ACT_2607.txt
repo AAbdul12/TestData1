@@ -1,0 +1,767 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	203512	19 Perkins Place	10/07/2006	12/09/2006	16/03/2006	$780,000	1014m	Full transfer	5	2	1	2	-	$780,000	116	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.41
+2006	227134	91 Gouger Street	21/03/2006	30/05/2006	03/11/2005	$750,000	1392m	Full transfer	5	1	1	2	-	$750,000	138	-	Combined Record	-	-	-	Single residential dwelling	$358,000	0.48
+2006	227137	103 Gouger Street	09/03/2006	23/05/2006	08/02/2006	$725,000	1338m	Full transfer	4	2	1	2	-	$725,000	29	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.52
+2006	169308	2 Goode Street	12/12/2006	20/02/2007	08/11/2006	$604,000	995m	Full transfer	4	1	1	2	-	$604,000	34	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.43
+2006	227144	84 Gouger Street	28/02/2006	20/04/2006	-	$600,000	1097m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165148	62 Gouger Street	19/12/2006	14/02/2007	10/11/2006	$585,000	1124m	Full transfer	4	1	1	-	1	$585,000	39	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.55
+2006	34226	46 Basedow Street	11/09/2006	29/11/2006	-	$580,000	897m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227086	38 Hawker Street	18/02/2006	29/03/2006	27/01/2006	$577,000	1748m	Full transfer	3	2	1	2	-	$577,000	22	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.51
+2006	74002	50 Kavel Street	24/02/2006	-	21/01/2006	$575,000	791m	Full transfer	3	1	1	2	-	$575,000	34	-	Allhomes Record	-	-	-	-	$247,000	0.43
+2006	227077	50 Kavel Street	23/03/2006	03/04/2006	-	$575,000	791m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202938	29 Brookman Street	19/09/2006	05/01/2007	-	$530,000	1040m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227164	10 McCann Street	07/04/2006	11/05/2006	-	$495,000	881m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203757	10 Parsons Street	21/07/2006	29/08/2006	-	$485,000	810m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227197	29 Jefferis Street	02/05/2006	15/06/2006	23/03/2006	$482,500	1154m	Full transfer	4	1	1	2	-	$482,500	40	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.5
+2006	119683	94 Beasley Street	27/07/2006	30/10/2006	31/05/2006	$468,000	943m	Full transfer	3	1	1	2	2	$468,000	57	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.44
+2006	302654	25 Parsons Street	12/08/2006	08/09/2006	-	$450,000	936m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32943	21 Gouger Street	22/09/2006	04/12/2006	-	$450,000	906m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169439	33 Batchelor Street	09/11/2006	22/02/2007	20/10/2006	$445,000	892m	Full transfer	4	1	1	2	-	$445,000	20	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.45
+2006	169630	15 McCann Street	23/09/2006	17/11/2006	01/09/2006	$440,000	978m	Full transfer	4	1	1	2	-	$440,000	22	-	Combined Record	-	-	-	Single residential dwelling	$244,000	0.55
+2006	203337	14 Basedow Street	12/11/2006	16/01/2007	19/10/2006	$430,000	699m	Full transfer	3	1	1	-	2	$430,000	24	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.48
+2006	227094	5 Hubbe Street	19/01/2006	07/03/2006	-	$425,000	803m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169039	6 Howchin Place	21/11/2006	06/02/2007	-	$421,000	833m	Full transfer	-	-	-	-	-	$421,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203514	5 Gouger Street	04/07/2006	11/09/2006	-	$420,000	1268m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227206	17 Kavel Street	03/06/2006	21/07/2006	09/05/2006	$420,000	904m	Full transfer	3	1	1	1	-	$420,000	25	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.55
+2006	34623	47 Batchelor Street	14/08/2006	25/09/2006	-	$415,000	1115m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169112	45 Batchelor Street	21/12/2006	06/02/2007	-	$411,000	1115m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227168	150 Beasley Street	24/03/2006	15/05/2006	-	$405,000	999m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227115	6 Parsons Street	19/04/2006	26/05/2006	23/03/2006	$402,000	828m	Full transfer	4	1	1	-	1	$402,000	27	-	Combined Record	-	-	-	Single residential dwelling	$228,000	0.57
+2006	33129	17 Howard Street	09/11/2006	04/12/2006	-	$399,000	849m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203758	22 Batchelor Street	07/07/2006	28/08/2006	-	$398,000	694m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	306729	26 Gouger Street	04/11/2006	16/02/2007	-	$390,000	984m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36792	14 Howard Street	04/08/2006	08/09/2006	-	$390,000	844m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165426	18 Brookman Street	18/11/2006	16/02/2007	27/10/2006	$380,000	978m	Full transfer	4	1	-	2	1	$380,000	22	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.65
+2006	227100	17 Horrocks Street	11/05/2006	22/06/2006	25/02/2006	$372,500	693m	Full transfer	3	1	-	1	1	$372,500	75	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.6
+2006	227111	43 Batchelor Street	21/03/2006	03/05/2006	-	$370,000	1017m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227143	34 Brookman Street	10/05/2006	26/06/2006	-	$370,000	735m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169688	140 Beasley Street	22/11/2006	12/12/2006	28/09/2006	$360,000	770m	Full transfer	3	1	-	1	-	$360,000	55	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.56
+2006	227191	20 Parkin Street	12/04/2006	10/05/2006	-	$360,000	729m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227205	29 Kavel Street	08/05/2006	30/06/2006	21/04/2006	$355,000	751m	Full transfer	3	1	-	-	1	$355,000	17	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.65
+2006	227204	43 Kavel Street	18/03/2006	23/05/2006	15/02/2006	$350,000	734m	Full transfer	3	1	-	1	-	$350,000	31	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.66
+2006	203513	6 Horrocks Street	25/08/2006	12/09/2006	-	$345,000	778m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227099	20 Wyatt Place	13/03/2006	05/04/2006	09/02/2006	$340,000	695m	Full transfer	3	1	-	-	2	$340,000	32	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.66
+2006	17056	            2 Batchelor Street	16/05/2006	27/06/2006	-	$340,000	1462m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	78013	2/109 Beasley Street	17/05/2006	-	22/03/2006	$340,000	-	Full transfer	2	1	1	1	-	$340,000	56	-	Allhomes Record	-	-	-	-	-	-
+2006	227200	16 Jefferis Street	30/01/2006	16/03/2006	-	$337,000	793m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34993	65 Hawker Street	05/05/2006	24/08/2006	-	$320,000	737m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165094	8 Torrens Place	01/12/2006	13/02/2007	-	$280,000	195m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	165830	18/5 Beasley Street	14/10/2006	22/11/2006	-	$270,000	14674m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	87560	18/5 Beasley Street	09/10/2006	-	01/09/2006	$270,000	-	Full transfer	2	1	-	-	1	$270,000	38	-	Allhomes Record	-	-	-	-	-	-
+2006	227113	2 Torrens Place	30/01/2006	19/02/2006	-	$180,000	380m	Partial transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office	-	-
+2006	34255	18 Torrens Place	29/09/2006	30/11/2006	-	$100,000	118m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	686	            3/24 Torrens Place	16/08/2006	22/09/2006	-	$85,000	501m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	227201	25 Horrocks Street	14/02/2006	04/04/2006	-	$7,500	1082m	Partial transfer	-	-	-	-	-	$7,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202908	22 Jefferis Street	04/12/2006	15/06/2007	-	$0	699m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168893	11 Parsons Street	15/12/2006	22/03/2007	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	120058	58 Hawker Street	03/10/2006	20/04/2007	-	$0	1286m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	698	             McCann Street	19/04/2006	-	03/02/2006	-	881m	Full transfer	-	-	-	-	-	-	75	-	Allhomes Record	-	-	-	-	$230,000	-
+2006	37641	80 Gouger Street	01/09/2006	16/10/2006	-	-	1282m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165831	22 Hawker Street	28/08/2006	20/11/2006	-	-	1179m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168362	14 Kavel Street	31/05/2006	11/08/2006	-	-	892m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169631	18 Brookman Street	01/11/2006	14/11/2006	-	-	978m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229630	24 Kavel Street	14/01/2006	31/07/2008	-	-	761m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227123	47 Hawker Street	08/06/2006	26/06/2006	-	-	1010m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	227186	59 Gouger Street	10/01/2006	24/01/2006	-	-	1171m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	17050	            3/5 Beasley Street	16/06/2006	03/07/2006	-	-	14674m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	227131	22 Duncan Street	22/05/2006	03/07/2006	-	-	618m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	21506	             Hubbe Street	19/01/2006	-	11/11/2005	-	803m	Full transfer	3	1	-	1	-	-	69	-	Allhomes Record	-	-	-	-	$292,000	-
+2006	34349	14 Stevenson Street	09/08/2006	27/11/2006	-	-	1295m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37665	66 Gouger Street	20/04/2006	16/10/2006	-	-	1027m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36794	9 Darke Street	01/03/2006	05/09/2006	-	-	1477m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32878	30 Hawker Street	11/10/2006	05/12/2006	-	-	1195m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232716	46 Hawker Street	04/07/2007	08/11/2007	-	$905,000	2153m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232722	3 Goode Street	10/09/2007	13/11/2007	-	$823,000	1286m	Full transfer	-	-	-	-	-	$823,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	131147	71 Gouger Street	06/12/2007	10/04/2008	21/09/2007	$800,000	1486m	Full transfer	5	1	2	2	1	$800,000	76	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.45
+2007	168077	77 Gouger Street	18/09/2007	18/10/2007	06/09/2007	$790,000	1711m	Full transfer	3	1	1	-	2	$790,000	12	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.48
+2007	304301	42 Brookman Street	02/06/2007	24/09/2007	-	$770,000	1059m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36400	86 Gouger Street	17/05/2007	06/07/2007	-	$720,000	1134m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231035	16 Coles Place	24/09/2007	13/12/2007	07/09/2007	$705,000	828m	Full transfer	4	1	2	-	1	$705,000	17	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.44
+2007	314561	17 Gouger Street	07/07/2007	04/01/2008	-	$690,000	940m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167118	34 Parsons Street	21/02/2007	12/04/2007	14/02/2007	$688,000	830m	Full transfer	5	2	1	2	-	$688,000	7	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.41
+2007	167390	72 Hawker Street	29/06/2007	03/09/2007	03/02/2007	$680,000	1103m	Full transfer	5	2	1	2	-	$680,000	146	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.5
+2007	236709	16 McCann Street	17/11/2007	07/05/2008	18/10/2007	$661,000	759m	Full transfer	4	1	1	2	-	$661,000	30	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.38
+2007	408590	3 Cain Place	22/06/2007	25/10/2007	21/05/2007	$615,000	963m	Full transfer	4	1	1	2	-	$615,000	32	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.55
+2007	166140	21 Darke Street	14/04/2007	24/07/2007	17/03/2007	$615,000	1021m	Full transfer	4	1	1	2	-	$615,000	28	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.4
+2007	230912	59 Gouger Street	30/08/2007	04/12/2007	24/08/2007	$608,000	1171m	Full transfer	3	1	-	3	-	$608,000	6	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.47
+2007	231755	24 Parsons Street	31/08/2007	17/12/2007	13/08/2007	$592,000	917m	Full transfer	3	2	-	1	2	$592,000	18	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.51
+2007	235326	8 Wyatt Place	23/11/2007	12/03/2008	27/09/2007	$575,000	983m	Full transfer	5	2	-	1	1	$575,000	57	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.47
+2007	35299	33 Darke Street	02/04/2007	05/06/2007	30/01/2007	$568,250	949m	Full transfer	4	1	1	1	1	$568,250	62	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.59
+2007	202629	122 Beasley Street	07/09/2007	09/10/2007	-	$565,000	903m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	316396	95 Beasley Street	20/07/2007	12/09/2007	-	$529,000	834m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	17694	            1/104 Batchelor Street	14/12/2007	24/04/2008	-	$525,000	3397m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35970	36 Brookman Street	10/05/2007	06/07/2007	12/04/2007	$520,000	831m	Full transfer	3	1	1	2	-	$520,000	28	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.52
+2007	231126	12 Wyatt Place	22/09/2007	11/12/2007	21/08/2007	$520,000	1076m	Full transfer	4	1	1	2	-	$520,000	32	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.52
+2007	32833	4 Hubbe Street	03/03/2007	27/04/2007	-	$519,500	795m	Full transfer	-	-	-	-	-	$519,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166797	41 Jefferis Street	09/07/2007	17/08/2007	-	$495,000	827m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234923	20 Howard Street	13/09/2007	06/02/2008	31/08/2007	$485,000	880m	Full transfer	3	1	1	2	2	$485,000	13	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.55
+2007	166806	31 Kavel Street	19/07/2007	20/08/2007	28/06/2007	$480,000	773m	Full transfer	3	2	-	2	1	$480,000	21	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.53
+2007	315829	37 Brookman Street	16/04/2007	22/06/2007	-	$466,000	1016m	Full transfer	-	-	-	-	-	$466,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230126	121 Gouger Street	20/11/2007	31/01/2008	-	$465,000	1121m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167609	8 Parsons Street	18/07/2007	03/10/2007	03/07/2007	$459,000	786m	Full transfer	3	1	-	-	1	$459,000	15	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.57
+2007	408595	19 Howard Street	03/09/2007	30/10/2007	23/07/2007	$455,000	775m	Full transfer	4	1	-	1	2	$455,000	42	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.56
+2007	408592	11 Parsons Street	23/02/2007	11/03/2007	09/02/2007	$450,000	869m	Full transfer	3	1	-	1	-	$450,000	14	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.63
+2007	164720	25 Jefferis Street	10/05/2007	10/07/2007	29/03/2007	$435,000	866m	Full transfer	4	-	-	-	-	$435,000	42	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.6
+2007	549011	30 Horrocks Street	21/06/2007	20/12/2018	-	$435,000	823m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408588	4 Stevenson Street	18/08/2007	29/10/2007	-	$431,000	761m	Full transfer	-	-	-	-	-	$431,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120446	2 Davies Place	27/02/2007	17/05/2007	-	$415,000	823m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33664	8 Brookman Street	20/04/2007	24/05/2007	-	$415,000	869m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35421	18 Stevenson Street	24/04/2007	18/06/2007	-	$409,052	842m	Full transfer	-	-	-	-	-	$409,052	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166713	17 Parkin Street	01/06/2007	31/07/2007	08/05/2007	$398,000	765m	Full transfer	2	1	-	-	2	$398,000	24	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.54
+2007	121441	31 Gouger Street	23/02/2007	04/05/2007	-	$391,000	787m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168154	4 Jefferis Street	17/04/2007	16/10/2007	22/03/2007	$390,000	798m	Full transfer	3	1	-	1	-	$390,000	26	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.65
+2007	408587	37 Horrocks Street	03/12/2007	30/01/2007	-	$380,000	643m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35302	13/5 Beasley Street	13/04/2007	06/06/2007	-	$362,500	14674m	Full transfer	-	-	-	-	-	$362,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	9845	            4/5 Beasley Street	18/05/2007	14/08/2007	-	$295,000	14674m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166717	23 Jefferis Street	23/07/2007	31/07/2007	-	$225,000	997m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236554	4 Gouger Street	25/09/2007	14/04/2008	-	$225,000	1126m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36191	13 Stevenson Street	24/04/2007	05/07/2007	-	$200,000	890m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165850	7/3 Davies Place	02/07/2007	24/07/2007	-	$6,800	2356m	Full transfer	-	-	-	-	-	$6,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167698	3 Gouger Street	27/01/2007	03/10/2007	-	$0	1465m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33661	3 Howchin Place	11/05/2007	24/05/2007	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408594	89 Batchelor Street	22/10/2007	22/10/2007	-	$0	5459m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Place of worship	-	-
+2007	167758	22 Hawker Street	01/09/2007	04/10/2007	-	$0	1179m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	37089	119 Gouger Street	31/03/2007	16/07/2007	-	$0	1405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	167892	23 Beasley Street	18/06/2007	17/09/2007	-	$0	1010m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234400	18 Torrens Place	28/10/2007	06/05/2008	-	-	118m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2007	235224	60 Gouger Street	17/11/2007	12/03/2008	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	229868	15 Howard Street	10/12/2007	17/07/2008	-	-	805m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235694	68 Gouger Street	19/12/2007	27/03/2008	-	-	1028m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	242758	8 Torrens Place	28/10/2007	24/02/2009	-	-	195m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2007	36474	24 McCann Street	03/07/2007	03/07/2007	-	-	742m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	279145	142 Beasley Street	05/05/2007	02/02/2011	-	-	770m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230309	61 Hawker Street	14/03/2007	11/08/2008	-	-	1112m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	72850	111 Gouger Street	30/12/2007	08/04/2008	-	-	1405m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239443	109 Gouger Street	02/10/2008	20/11/2008	-	$800,000	1338m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	230604	60 Gouger Street	01/03/2008	21/04/2008	29/01/2008	$749,000	1113m	Full transfer	3	1	-	2	-	$749,000	32	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.57
+2008	234047	12 Hawker Street	16/04/2008	24/06/2008	17/03/2008	$685,000	888m	Full transfer	4	2	1	2	0	$685,000	30	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.47
+2008	230259	12 Darke Street	23/02/2008	24/04/2008	31/03/2008	$680,000	951m	Full transfer	3	2	0	2	2	$680,000	-	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.52
+2008	230965	23 Darke Street	20/02/2008	30/04/2008	-	$670,000	1291m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	111764	12 Coles Place	02/06/2008	-	05/02/2008	$670,000	968m	Full transfer	3	2	0	-	2	$670,000	118	-	Allhomes Record	-	-	-	-	$370,000	0.55
+2008	242332	16 McCann Street	19/11/2008	03/02/2009	16/10/2008	$665,000	759m	Full transfer	4	1	1	2	-	$665,000	34	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.45
+2008	240718	42 Gouger Street	31/10/2008	03/12/2008	09/07/2008	$635,000	1063m	Full transfer	5	2	-	2	2	$635,000	114	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.54
+2008	241109	1 Coles Place	19/11/2008	22/12/2008	-	$600,000	1129m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236691	6 Hubbe Street	22/01/2008	28/04/2008	15/11/2007	$592,500	1202m	Full transfer	3	1	-	1	-	$592,500	68	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.66
+2008	237370	18 Hawker Street	17/07/2008	22/08/2008	03/03/2008	$585,000	852m	Full transfer	4	1	1	1	0	$585,000	136	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.58
+2008	323232	4 Darke Street	22/10/2008	23/03/2009	-	$565,000	1240m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236197	9 Perkins Place	07/04/2008	15/05/2008	21/01/2008	$557,500	923m	Full transfer	4	2	-	-	2	$557,500	77	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.65
+2008	236950	94 Batchelor Street	21/07/2008	01/09/2008	03/06/2008	$553,000	757m	Full transfer	4	1	1	-	2	$553,000	48	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.58
+2008	240030	10 Parsons Street	12/09/2008	16/10/2008	06/05/2008	$550,000	810m	Full transfer	5	1	2	2	-	$550,000	129	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.57
+2008	236457	12 Brookman Street	27/02/2008	03/04/2008	17/01/2008	$522,500	971m	Full transfer	3	1	-	-	2	$522,500	41	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.62
+2008	229867	9 Howchin Place	12/06/2008	15/07/2008	-	$520,000	786m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243383	6 Wyatt Street	19/09/2008	20/03/2009	-	$510,000	1089m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239444	15 Basedow Street	21/10/2008	21/11/2008	16/09/2008	$510,000	943m	Full transfer	3	1	-	1	-	$510,000	35	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.56
+2008	22451	             Wyatt Street	19/09/2008	-	07/07/2008	$510,000	1088m	Full transfer	3	1	-	2	-	$510,000	74	-	Allhomes Record	-	-	-	-	$318,000	0.62
+2008	321034	45 Horrocks Street	29/02/2008	14/04/2008	-	$510,000	707m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239603	3 Howchin Place	02/09/2008	07/10/2008	-	$505,000	773m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238535	32 Kavel Street	26/08/2008	24/09/2008	23/07/2008	$480,000	751m	Full transfer	3	1	-	-	2	$480,000	34	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.66
+2008	242024	6 Davies Place	19/12/2008	27/01/2009	-	$480,000	832m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242479	8 Stevenson Street	01/12/2008	10/02/2009	18/09/2008	$476,000	984m	Full transfer	3	1	-	1	1	$476,000	74	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.67
+2008	237886	3 Howard Street	04/08/2008	09/09/2008	12/06/2008	$470,000	762m	Full transfer	3	2	-	-	1	$470,000	53	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.65
+2008	240121	43 Jefferis Street	16/07/2008	22/10/2008	19/05/2008	$440,000	780m	Full transfer	3	1	-	2	-	$440,000	58	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.68
+2008	238534	46 Kavel Street	18/09/2008	25/09/2008	-	$425,000	916m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236949	10 Wyatt Place	05/07/2008	01/09/2008	26/05/2008	$416,000	808m	Full transfer	2	1	0	1	0	$416,000	40	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.77
+2008	230538	24 Jefferis Street	01/07/2008	15/08/2008	03/04/2008	$405,500	694m	Full transfer	2	1	-	-	-	$405,500	89	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.73
+2008	237482	87 Beasley Street	28/10/2008	11/12/2008	02/10/2008	$400,000	809m	Full transfer	3	1	-	-	1	$400,000	26	-	Combined Record	-	-	-	Single residential dwelling	$264,000	0.66
+2008	237481	5 Wyatt Street	20/10/2008	11/12/2008	-	$390,000	792m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236081	11/1 Basedow Street	04/04/2008	13/05/2008	-	$365,000	3046m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	232552	20 Torrens Place	24/04/2008	24/06/2008	-	$317,500	262m	Full transfer	-	-	-	-	-	$317,500	-	-	Government Record	-	-	-	Retail	-	-
+2008	234048	16 Torrens Place	24/04/2008	24/06/2008	-	$225,000	117m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	17837	            3/24 Torrens Place	24/04/2008	24/06/2008	-	$170,000	501m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	234002	5/24 Torrens Place	24/04/2008	24/06/2008	-	$165,000	501m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	17838	            4/24 Torrens Place	24/04/2008	24/06/2008	-	$147,500	501m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	17836	            2/24 Torrens Place	24/04/2008	24/06/2008	-	$117,500	501m	Full transfer	-	-	-	-	-	$117,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	17835	            1/24 Torrens Place	24/04/2008	24/06/2008	-	$107,500	501m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2008	460079	38 Basedow Street	09/05/2008	27/08/2015	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237982	87 Beasley Street	21/03/2008	19/09/2008	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230072	10 Coles Place	11/01/2008	27/01/2008	-	-	933m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239334	5 Wyatt Street	28/08/2008	11/11/2008	-	-	792m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	261817	3 Duncan Street	27/11/2008	30/04/2010	-	-	865m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241818	41 Batchelor Street	20/03/2008	19/01/2009	-	-	906m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	245702	1/3 Davies Place	27/09/2008	10/08/2009	-	-	2356m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241145	31 Horrocks Street	02/03/2008	04/01/2009	-	-	817m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242854	9 Gouger Street	10/10/2008	04/03/2009	-	-	1108m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238415	3 Parkin Street	28/08/2008	17/04/2009	-	-	742m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242757	80 Batchelor Street	28/12/2008	25/02/2009	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248291	27 Horrocks Street	29/08/2008	23/09/2009	-	-	693m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250820	53 Hawker Street	10/09/2009	13/12/2009	11/08/2009	$880,000	1014m	Full transfer	5	1	1	2	-	$880,000	30	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.47
+2009	252057	56 Hawker Street	02/09/2009	08/01/2010	26/08/2009	$850,000	1328m	Full transfer	4	1	1	2	-	$850,000	7	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.56
+2009	250821	103 Gouger Street	06/11/2009	10/12/2009	15/09/2009	$845,000	1338m	Full transfer	5	2	1	2	-	$845,000	52	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.59
+2009	243999	66 Hawker Street	20/03/2009	31/05/2009	05/03/2009	$825,000	1137m	Full transfer	5	1	1	2	-	$825,000	15	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.59
+2009	325767	98 Gouger Street	12/12/2009	23/03/2010	-	$812,500	1353m	Full transfer	-	-	-	-	-	$812,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244001	73 Gouger Street	03/04/2009	31/05/2009	25/03/2009	$812,000	1486m	Full transfer	4	2	1	3	-	$812,000	9	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.53
+2009	250154	48 Hawker Street	17/10/2009	25/11/2009	03/09/2009	$802,000	1496m	Full transfer	4	1	1	2	0	$802,000	44	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.6
+2009	263141	14 Hawker Street	23/12/2009	08/02/2010	20/10/2009	$732,000	1188m	Full transfer	5	2	1	4	-	$732,000	64	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.46
+2009	263145	31 Brookman Street	23/11/2009	22/03/2010	16/10/2009	$680,000	1102m	Full transfer	4	1	1	2	-	$680,000	38	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.58
+2009	243386	80 Gouger Street	02/02/2009	20/03/2009	28/01/2009	$680,000	1282m	Full transfer	4	1	1	2	1	$680,000	5	-	Combined Record	-	-	-	Single residential dwelling	$458,000	0.67
+2009	243385	17 Darke Street	17/02/2009	20/03/2009	14/01/2009	$674,000	1036m	Full transfer	4	2	1	-	2	$674,000	34	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.57
+2009	324655	32 Hawker Street	18/09/2009	22/10/2009	-	$660,000	1319m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249508	30 Hawker Street	25/07/2009	22/10/2009	-	$625,000	1195m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	322993	15 Darke Street	28/01/2009	23/02/2009	-	$612,000	781m	Full transfer	-	-	-	-	-	$612,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249511	23 Duncan Street	03/09/2009	22/10/2009	27/08/2009	$588,000	812m	Full transfer	4	1	1	-	4	$588,000	7	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.52
+2009	244647	11 Brookman Street	15/05/2009	29/06/2009	-	$547,000	1206m	Full transfer	-	-	-	-	-	$547,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243661	21 Duncan Street	27/02/2009	03/04/2009	07/01/2009	$505,000	854m	Full transfer	4	1	1	1	-	$505,000	51	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.6
+2009	250013	27 Batchelor Street	12/08/2009	17/11/2009	-	$500,000	892m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244648	3 Parkin Street	20/05/2009	29/06/2009	23/03/2009	$499,000	742m	Full transfer	3	1	0	-	1	$499,000	58	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.58
+2009	250012	14 Horrocks Street	08/09/2009	17/11/2009	15/09/2009	$495,000	713m	Full transfer	3	1	1	1	-	$495,000	-	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.69
+2009	238839	6 Basedow Street	27/03/2009	01/05/2009	19/02/2009	$480,000	682m	Full transfer	3	1	-	1	-	$480,000	36	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.56
+2009	248405	1/23 Brookman Street	30/09/2009	18/12/2009	19/08/2009	$460,000	912m	Full transfer	4	2	-	-	2	$460,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	$404,000	0.88
+2009	248292	27 Horrocks Street	14/03/2009	23/09/2009	12/02/2009	$451,000	693m	Full transfer	3	1	0	2	0	$451,000	30	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.73
+2009	323175	16 Howard Street	11/02/2009	17/03/2009	-	$442,500	711m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250593	11/1 Basedow Street	15/09/2009	13/12/2009	-	$395,000	3046m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	491241	6 Hawker Street	08/03/2009	22/11/2016	-	$0	1214m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	517114	45 Gouger Street	21/09/2009	01/08/2017	-	$0	1085m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	450851	45 Beasley Street	15/07/2009	30/04/2015	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	413409	2 Torrens Place	13/09/2009	11/11/2013	-	$0	380m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2009	244910	31 Brookman Street	13/04/2009	23/07/2009	-	-	1102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261474	9 Jefferis Street	12/11/2009	10/03/2010	-	-	873m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	253656	23 Stevenson Street	17/12/2009	25/02/2010	-	-	1051m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238301	41 Batchelor Street	03/04/2009	09/04/2009	-	-	906m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246420	90 Hawker Street	01/06/2009	04/09/2009	-	-	704m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244000	11 Brookman Street	04/03/2009	25/05/2009	-	-	1206m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261469	25 Batchelor Street	11/11/2009	28/01/2010	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	270306	144 Beasley Street	20/12/2009	31/08/2010	-	-	770m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238838	18 Kavel Street	11/01/2009	28/04/2009	-	-	679m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248530	48 Hawker Street	10/08/2009	20/10/2009	-	-	1496m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251431	19 Duncan Street	08/09/2009	19/01/2010	-	-	863m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263690	40 Kavel Street	16/12/2009	01/06/2010	-	-	754m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249510	14 Basedow Street	16/02/2009	25/10/2009	-	-	699m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254743	38 Brookman Street	03/11/2009	19/03/2010	-	-	1304m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	286037	6 Howchin Place	27/11/2010	11/03/2011	03/11/2010	$951,000	833m	Full transfer	4	2	1	2	-	$951,000	24	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.43
+2010	273072	129 Gouger Street	18/08/2010	19/10/2010	-	$930,000	1316m	Full transfer	-	-	-	-	-	$930,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269323	29 Hawker Street	02/04/2010	29/06/2010	25/02/2010	$850,000	1374m	Full transfer	4	1	1	-	2	$850,000	36	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.62
+2010	258769	56 Brookman Street	20/04/2010	17/05/2010	10/03/2010	$750,000	1084m	Full transfer	4	1	1	2	-	$750,000	41	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.61
+2010	328881	99 Beasley Street	18/06/2010	24/09/2010	-	$720,000	889m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279350	15 Parsons Street	25/11/2010	31/01/2011	14/07/2010	$714,000	997m	Full transfer	4	2	-	2	-	$714,000	134	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.59
+2010	271220	95 Beasley Street	29/07/2010	23/09/2010	17/06/2010	$690,000	834m	Full transfer	3	1	-	1	-	$690,000	42	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.51
+2010	277539	21 Brookman Street	25/10/2010	19/01/2011	-	$650,000	852m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280351	18 Wyatt Place	29/10/2010	06/12/2010	13/09/2010	$640,000	796m	Full transfer	3	1	-	-	-	$640,000	46	-	Combined Record	123	-	-	Single residential dwelling	$403,000	0.63
+2010	287801	10 Howchin Place	04/12/2010	28/03/2011	11/11/2010	$630,000	878m	Full transfer	3	1	-	2	-	$630,000	23	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.65
+2010	270050	22 Darke Street	27/05/2010	27/07/2010	-	$600,000	1102m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283955	21 McCann Street	16/10/2010	16/02/2011	14/09/2010	$595,000	986m	Full transfer	3	1	1	-	2	$595,000	32	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.68
+2010	256554	            15 Brookman	08/04/2010	-	17/12/2009	$590,000	941m	Full transfer	3	1	-	2	1	$590,000	112	-	Allhomes Record	-	-	-	-	$378,000	0.64
+2010	263737	31 Horrocks Street	30/01/2010	08/06/2010	-	$590,000	817m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261892	15 Brookman Street	01/04/2010	12/05/2010	-	$585,000	941m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263144	4 Davies Place	15/02/2010	17/03/2010	28/01/2010	$578,000	833m	Full transfer	3	1	1	-	2	$578,000	18	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.6
+2010	286084	20 Horrocks Street	14/12/2010	17/03/2011	26/10/2010	$575,000	747m	Full transfer	3	1	-	2	1	$575,000	49	-	Combined Record	-	-	-	Single residential dwelling	$397,000	0.69
+2010	258767	7 Horrocks Street	26/03/2010	19/05/2010	06/01/2010	$572,500	672m	Full transfer	3	1	-	1	1	$572,500	79	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.66
+2010	370820	17 Horrocks Street	11/06/2010	24/04/2012	19/05/2010	$557,500	693m	Full transfer	3	1	-	1	1	$557,500	23	-	Combined Record	96	-	-	Single residential dwelling	$378,000	0.68
+2010	325971	12 Brookman Street	27/02/2010	23/04/2010	-	$545,000	971m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	326587	2 Davies Place	20/03/2010	21/05/2010	-	$541,000	823m	Full transfer	-	-	-	-	-	$541,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255301	3 Duncan Street	13/04/2010	-	17/03/2010	$540,000	862m	Full transfer	4	1	-	1	2	$540,000	27	-	Allhomes Record	-	-	-	-	$350,000	0.65
+2010	274419	78 Batchelor Street	11/09/2010	30/11/2010	16/08/2010	$534,000	997m	Full transfer	4	1	-	-	2	$534,000	26	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.75
+2010	265190	3 Howard Street	11/08/2010	-	17/05/2010	$525,000	762m	Full transfer	3	1	-	1	-	$525,000	86	-	Allhomes Record	-	-	-	-	$386,000	0.74
+2010	279146	3 Howard Street	05/08/2010	02/02/2011	-	$524,000	762m	Full transfer	-	-	-	-	-	$524,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261816	10 Wyatt Place	18/02/2010	28/04/2010	-	$515,000	808m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	268272	24 Kavel Street	15/05/2010	30/06/2010	21/04/2010	$500,000	761m	Full transfer	3	1	1	1	-	$500,000	24	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.79
+2010	279351	42 Kavel Street	20/11/2010	02/02/2011	29/10/2010	$495,500	754m	Full transfer	4	1	1	1	1	$495,500	22	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.78
+2010	267261	2/9 Gouger Street	03/11/2010	-	08/09/2010	$480,000	1108m	Full transfer	3	1	1	-	2	$480,000	56	-	Allhomes Record	-	-	-	-	$467,000	0.97
+2010	280664	1/9 Gouger Street	03/11/2010	22/12/2010	-	$479,450	1108m	Full transfer	-	-	-	-	-	$479,450	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283606	18/5 Beasley Street	20/12/2010	15/02/2011	-	$431,500	14674m	Full transfer	-	-	-	-	-	$431,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266513	1/1 Batchelor Street	08/10/2010	-	09/09/2010	$416,500	14674m	Full transfer	3	1	-	1	-	$416,500	29	-	Allhomes Record	-	-	-	-	$2,784,000	6.68
+2010	280456	            1/5 Beasley Street	08/10/2010	06/12/2010	-	$416,500	14674m	Full transfer	-	-	-	-	-	$416,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273073	5 Cawker Place	30/08/2010	18/10/2010	-	$370,000	232m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263597	            5/5 Beasley Street	27/04/2010	09/06/2010	-	$365,000	14674m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257222	2/1 Basedow Street	05/03/2010	21/04/2010	-	$355,000	3046m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270412	122 Beasley Street	26/05/2010	17/09/2010	-	$234,500	903m	Full transfer	-	-	-	-	-	$234,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	413408	2 Torrens Place	23/09/2010	11/11/2013	-	$0	380m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2010	291530	7 Stevenson Street	02/07/2010	03/05/2011	-	-	813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272759	46 Hawker Street	06/08/2010	26/10/2010	-	-	2153m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274051	56 Gouger Street	22/09/2010	19/11/2010	-	-	1091m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276759	80 Gouger Street	17/03/2010	19/07/2010	-	-	1282m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267677	60 Gouger Street	04/06/2010	22/06/2010	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270216	13 Brookman Street	10/06/2010	23/08/2010	-	-	950m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254318	80 Gouger Street	13/01/2010	18/02/2010	-	-	1282m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267745	13 Parkin Street	13/06/2010	02/07/2010	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279144	38 Brookman Street	17/11/2010	01/02/2011	-	-	1304m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274050	37 Beasley Street	21/07/2010	19/11/2010	-	-	781m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269835	3/1 Basedow Street	26/04/2010	09/09/2010	-	-	3046m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	332825	3/1 Basedow Street	09/12/2010	27/07/2011	-	-	3046m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	275679	10 Howchin Place	03/10/2010	12/01/2011	-	-	878m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270051	10 Brookman Street	09/06/2010	28/07/2010	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272758	8 Perkins Place	29/07/2010	26/10/2010	-	-	932m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333360	111 Gouger Street	16/06/2011	02/08/2011	17/05/2011	$860,000	1405m	Full transfer	5	2	1	2	-	$860,000	30	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.68
+2011	283805	95 Gouger Street	15/01/2011	03/03/2011	-	$860,000	1189m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297026	119 Gouger Street	10/02/2011	24/05/2011	09/09/2010	$830,000	1405m	Full transfer	-	-	-	-	-	$830,000	154	-	Combined Record	-	-	-	Multiple unit dwelling	$604,000	0.73
+2011	300670	6 Coles Place	10/06/2011	20/07/2011	19/04/2011	$800,000	978m	Full transfer	4	2	-	1	0	$800,000	52	-	Combined Record	171	-	-	Single residential dwelling	$464,000	0.58
+2011	287296	18 Brookman Street	03/02/2011	28/03/2011	-	$760,000	978m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292248	6 Howard Street	23/03/2011	10/05/2011	22/02/2011	$755,000	723m	Full transfer	4	2	-	2	-	$755,000	29	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.55
+2011	336687	122 Gouger Street	21/07/2011	17/08/2011	21/06/2011	$735,000	898m	Full transfer	4	2	1	2	-	$735,000	30	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.7
+2011	300527	6 Hubbe Street	26/03/2011	12/07/2011	03/03/2011	$725,000	1202m	Full transfer	3	1	-	1	-	$725,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.69
+2011	347819	52 Gouger Street	18/08/2011	26/10/2011	17/06/2011	$722,000	1284m	Full transfer	4	1	1	2	-	$722,000	62	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.73
+2011	300526	1 Coles Place	27/05/2011	12/07/2011	08/02/2011	$700,000	1129m	Full transfer	4	1	1	2	-	$700,000	108	-	Combined Record	-	-	-	Single residential dwelling	$469,000	0.67
+2011	279349	14 Stevenson Street	11/01/2011	02/02/2011	01/11/2010	$697,000	1295m	Full transfer	5	1	1	2	-	$697,000	71	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.65
+2011	331723	56 Gouger Street	10/05/2011	01/07/2011	-	$680,000	1091m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296734	29 Brookman Street	06/05/2011	20/06/2011	04/02/2011	$680,000	1040m	Full transfer	4	2	1	-	1	$680,000	91	-	Combined Record	190	-	-	Single residential dwelling	$478,000	0.7
+2011	333156	21 Beasley Street	13/01/2011	26/07/2011	13/10/2010	$680,000	979m	Full transfer	4	2	-	2	-	$680,000	92	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.52
+2011	336119	41 Jefferis Street	25/05/2011	16/08/2011	-	$670,000	827m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	372602	10 Wyatt Place	29/09/2011	13/03/2012	-	$650,000	808m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346539	            2/12 Howard Street	13/10/2011	17/11/2011	-	$630,000	1058m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347346	18 Gouger Street	26/08/2011	01/11/2011	-	$620,000	864m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347347	28 Hawker Street	16/09/2011	04/11/2011	19/08/2011	$604,000	825m	Full transfer	4	1	1	1	-	$604,000	28	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.76
+2011	332906	            2/21A Batchelor Street	18/05/2011	01/08/2011	-	$595,000	906m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	289961	            21B Batchelor Street	19/05/2011	-	25/03/2011	$595,000	906m	Full transfer	3	1	1	1	-	$595,000	55	-	Allhomes Record	-	-	-	-	$227,970	0.38
+2011	291317	28 Duncan Street	21/03/2011	10/05/2011	-	$590,000	992m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333158	12 Brookman Street	30/05/2011	25/07/2011	-	$580,000	971m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292247	37 Horrocks Street	05/03/2011	10/05/2011	02/02/2011	$572,000	643m	Full transfer	3	1	-	1	-	$572,000	31	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.65
+2011	286085	26 Wyatt Street	02/02/2011	17/03/2011	06/01/2011	$561,000	802m	Full transfer	4	1	-	2	-	$561,000	27	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.76
+2011	331029	33 Jefferis Street	30/03/2011	10/05/2011	-	$560,000	778m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340838	27 Jefferis Street	13/07/2011	29/09/2011	04/02/2011	$553,500	802m	Full transfer	3	1	-	1	1	$553,500	159	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.74
+2011	292430	7 Kavel Street	15/01/2011	14/04/2011	11/11/2010	$553,000	679m	Full transfer	3	1	-	2	-	$553,000	65	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.72
+2011	296934	80 Beasley Street	15/04/2011	08/06/2011	29/10/2010	$545,000	789m	Full transfer	4	1	-	-	1	$545,000	168	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.63
+2011	296878	37 Beasley Street	31/03/2011	24/05/2011	20/01/2011	$545,000	781m	Full transfer	3	1	1	-	2	$545,000	70	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.62
+2011	336689	24 Kavel Street	16/07/2011	18/08/2011	10/06/2011	$535,000	761m	Full transfer	3	1	1	1	-	$535,000	36	-	Combined Record	161	-	-	Single residential dwelling	$417,000	0.78
+2011	300633	16 Howard Street	20/05/2011	04/07/2011	08/03/2011	$535,000	711m	Full transfer	3	1	-	1	-	$535,000	73	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.79
+2011	346537	8 Parsons Street	19/10/2011	21/11/2011	21/09/2011	$528,000	786m	Full transfer	3	1	-	-	1	$528,000	28	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.76
+2011	347822	86 Beasley Street	29/06/2011	27/10/2011	18/11/2010	$525,000	934m	Full transfer	4	1	-	-	2	$525,000	223	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.68
+2011	350432	30 Jefferis Street	14/11/2011	16/12/2011	01/09/2011	$525,000	796m	Full transfer	4	1	1	2	-	$525,000	74	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.78
+2011	291531	90 Batchelor Street	11/02/2011	04/05/2011	-	$520,000	820m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340704	52 Kavel Street	05/03/2011	22/09/2011	11/02/2011	$511,000	919m	Full transfer	3	1	-	3	1	$511,000	22	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.88
+2011	336725	44 Kavel Street	23/07/2011	29/08/2011	09/06/2011	$483,000	701m	Full transfer	3	1	-	-	1	$483,000	44	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.88
+2011	297734	15 Jefferis Street	18/03/2011	30/06/2011	07/01/2011	$470,000	731m	Full transfer	3	1	-	-	1	$470,000	70	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.87
+2011	337792	            9A Gouger Street	23/09/2011	-	15/08/2011	$425,000	-	Full transfer	2	1	-	1	-	$425,000	39	-	Allhomes Record	94	-	-	-	-	-
+2011	354842	            2/9 Gouger Street	23/09/2011	13/01/2012	-	$425,000	1108m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291236	16/5 Beasley Street	23/02/2011	20/05/2011	-	$409,500	14674m	Full transfer	-	-	-	-	-	$409,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287888	142 Beasley Street	05/02/2011	24/03/2011	06/01/2011	$400,000	770m	Full transfer	3	1	-	2	-	$400,000	30	-	Combined Record	129	-	-	Single residential dwelling	$353,000	0.88
+2011	300211	21 Stevenson Street	30/05/2011	20/07/2011	-	$387,500	859m	Full transfer	-	-	-	-	-	$387,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	371636	7/1 Basedow Street	14/11/2011	25/05/2012	-	$100,000	3046m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	377119	3 Coles Place	29/09/2011	24/07/2012	-	$0	955m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	380771	66 Gouger Street	29/11/2011	25/09/2012	-	$0	1027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360150	9 Darke Street	27/10/2011	13/02/2012	-	$0	1477m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347821	            1/23 Brookman Street	05/10/2011	30/10/2011	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346536	100 Gouger Street	01/10/2011	24/11/2011	-	$0	1409m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	410233	8 McCann Street	11/04/2011	13/09/2013	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	410234	8 McCann Street	06/02/2011	13/09/2013	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350179	39 Kavel Street	27/10/2011	28/11/2011	-	$0	715m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	467975	24 Basedow Street	14/09/2011	15/12/2015	-	$0	699m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365915	16 McCann Street	01/12/2011	29/02/2012	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	378837	33 Gouger Street	09/12/2011	28/08/2012	-	$0	885m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346535	9 Parkin Street	14/04/2011	25/11/2011	-	$0	937m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291509	16 Kavel Street	22/02/2011	12/04/2011	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296242	10 Duncan Street	05/02/2011	08/06/2011	-	-	649m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300212	30 Parsons Street	18/03/2011	19/07/2011	-	-	945m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287365	16 Stevenson Street	17/01/2011	24/03/2011	-	-	1020m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	360148	18 Stevenson Street	12/01/2012	16/02/2012	22/02/2011	$970,000	842m	Full transfer	6	2	2	2	-	$970,000	324	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.44
+2012	361031	53 Hawker Street	31/03/2012	-	29/02/2012	$926,000	1014m	Full transfer	4	1	1	2	-	$926,000	31	-	Allhomes Record	-	-	-	-	$500,000	0.54
+2012	389845	135 Gouger Street	19/01/2012	30/01/2013	-	$885,000	1076m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377252	            2/119 Gouger Street	25/02/2012	20/07/2012	-	$885,000	1405m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	356341	            119A Gouger Street	25/02/2012	-	22/12/2011	$885,000	-	Full transfer	3	2	1	2	-	$885,000	65	-	Allhomes Record	-	-	-	-	-	-
+2012	380773	40 Kavel Street	18/08/2012	26/09/2012	-	$880,000	754m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389843	29 Darke Street	26/10/2012	30/01/2013	18/10/2012	$840,000	940m	Full transfer	4	1	1	2	-	$840,000	8	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.61
+2012	388411	43 Basedow Street	02/11/2012	14/01/2013	01/11/2012	$825,000	1551m	Full transfer	5	1	1	2	-	$825,000	1	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.66
+2012	368292	72 Hawker Street	02/06/2012	-	03/05/2012	$750,500	1103m	Full transfer	4	1	3	2	-	$750,500	30	-	Allhomes Record	-	-	-	-	$500,000	0.67
+2012	395186	17 Hawker Street	12/11/2012	18/04/2013	30/08/2012	$750,000	924m	Full transfer	4	1	1	2	1	$750,000	74	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.67
+2012	392910	66 Gouger Street	07/11/2012	05/02/2013	25/10/2012	$750,000	1027m	Full transfer	5	1	2	2	-	$750,000	13	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.69
+2012	369368	46 Kavel Street	21/02/2012	16/04/2012	09/11/2011	$730,500	916m	Full transfer	3	1	1	1	-	$730,500	104	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.6
+2012	392912	22 Horrocks Street	21/12/2012	06/02/2013	27/11/2012	$727,500	752m	Full transfer	4	1	1	1	1	$727,500	24	-	Combined Record	153	-	-	Single residential dwelling	$418,000	0.57
+2012	373595	90 Hawker Street	27/07/2012	-	07/05/2012	$690,000	704m	Full transfer	4	1	1	2	-	$690,000	81	-	Allhomes Record	177	-	-	-	$406,000	0.59
+2012	387821	9 Darke Street	15/09/2012	04/01/2013	15/08/2012	$677,000	1477m	Full transfer	3	1	1	-	2	$677,000	31	-	Combined Record	157	-	-	Single residential dwelling	$460,000	0.68
+2012	372603	50 Kavel Street	11/02/2012	15/03/2012	19/01/2012	$657,500	791m	Full transfer	3	1	1	2	-	$657,500	23	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.66
+2012	371481	121 Gouger Street	18/02/2012	08/06/2012	-	$655,000	1121m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383862	20 Brookman Street	22/08/2012	12/11/2012	-	$600,000	1014m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392914	97 Beasley Street	11/12/2012	07/02/2013	24/10/2012	$600,000	978m	Full transfer	4	1	1	1	2	$600,000	48	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.62
+2012	392908	13 Basedow Street	21/12/2012	06/02/2013	14/11/2012	$550,000	733m	Full transfer	3	1	-	-	1	$550,000	37	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.59
+2012	384758	26 Kavel Street	25/01/2012	17/05/2012	05/01/2012	$532,000	807m	Full transfer	4	1	-	-	2	$532,000	20	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.8
+2012	383981	20 Torrens Place	15/10/2012	22/11/2012	-	$530,000	262m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Retail	-	-
+2012	372784	10/1 Basedow Street	21/02/2012	26/03/2012	24/01/2012	$530,000	3046m	Full transfer	3	2	-	-	2	$530,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	$1,697,000	3.2
+2012	377250	19 Kavel Street	08/06/2012	17/07/2012	19/04/2012	$530,000	775m	Full transfer	3	1	-	1	-	$530,000	50	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.75
+2012	372816	18 Kavel Street	22/03/2012	30/04/2012	17/02/2012	$530,000	679m	Full transfer	3	1	-	2	-	$530,000	34	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.75
+2012	369366	3 Hubbe Street	07/03/2012	20/04/2012	06/02/2012	$528,000	803m	Full transfer	3	1	-	1	1	$528,000	30	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.81
+2012	385924	5 McCann Street	18/10/2012	10/12/2012	-	$515,000	935m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379018	15 Jefferis Street	05/04/2012	07/09/2012	09/02/2012	$502,500	731m	Full transfer	3	1	-	-	1	$502,500	56	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.81
+2012	374804	24 Parkin Street	04/05/2012	12/06/2012	02/05/2011	$500,000	731m	Full transfer	3	1	-	2	-	$500,000	368	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.75
+2012	376782	14 Jefferis Street	15/06/2012	31/07/2012	19/04/2012	$500,000	808m	Full transfer	3	1	-	1	0	$500,000	57	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.81
+2012	370662	11 McCann Street	22/06/2012	-	12/04/2012	$496,000	920m	Full transfer	3	1	-	-	1	$496,000	71	-	Allhomes Record	-	-	-	-	$425,000	0.86
+2012	382854	18 Parkin Street	05/04/2012	11/05/2012	07/02/2012	$490,000	745m	Full transfer	3	1	-	1	2	$490,000	58	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.77
+2012	376422	14 Parkin Street	05/07/2012	10/08/2012	08/06/2012	$460,000	746m	Full transfer	3	1	-	2	-	$460,000	27	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.8
+2012	375821	10 Duncan Street	31/08/2012	-	02/08/2012	$445,000	648m	Full transfer	3	1	-	2	-	$445,000	29	-	Allhomes Record	-	-	-	-	$354,000	0.8
+2012	371635	9/1 Basedow Street	28/02/2012	22/05/2012	-	$418,000	3046m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	356762	9/1 Basedow Street	29/02/2012	-	24/11/2011	$418,000	3046m	Full transfer	2	1	-	-	1	$418,000	97	-	Allhomes Record	-	-	-	-	$1,697,000	4.06
+2012	383980	9/3 Davies Place	12/10/2012	20/11/2012	-	$380,000	2356m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	365211	7/3 Davies Place	19/01/2012	07/03/2012	-	$225,000	2356m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	399893	20 Basedow Street	06/12/2012	04/06/2013	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374277	23 Duncan Street	10/04/2012	26/06/2012	-	$0	812m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	463414	16 Basedow Street	24/07/2012	16/10/2015	-	$0	760m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379021	23 Hawker Street	24/07/2012	03/09/2012	-	$0	1067m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	479418	67 Beasley Street	09/01/2012	09/06/2016	-	$0	760m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379020	26 Brookman Street	30/08/2012	06/09/2012	-	$0	1141m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395185	            3/ Batchelor Street	28/11/2012	18/04/2013	-	$0	1462m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	398151	62 Hawker Street	23/02/2013	15/05/2013	31/01/2013	$940,000	1494m	Full transfer	4	2	1	2	2	$940,000	23	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.65
+2013	421471	100 Gouger Street	14/12/2013	19/02/2014	18/11/2013	$835,000	1409m	Full transfer	6	1	2	4	-	$835,000	26	-	Combined Record	265	-	-	Single residential dwelling	$566,000	0.68
+2013	410843	86 Gouger Street	26/08/2013	20/09/2013	24/05/2013	$800,000	1134m	Full transfer	5	1	2	2	-	$800,000	94	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.69
+2013	400083	4 Coles Place	25/03/2013	04/06/2013	-	$790,000	1011m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394834	20 Darke Street	13/02/2013	12/04/2013	-	$770,000	1342m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400078	29 Brookman Street	24/04/2013	07/06/2013	28/02/2013	$752,000	1040m	Full transfer	4	2	1	-	1	$752,000	55	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.64
+2013	407924	38 Hawker Street	15/06/2013	13/08/2013	17/05/2013	$750,000	1748m	Full transfer	4	1	2	2	-	$750,000	29	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.69
+2013	395183	114 Gouger Street	18/01/2013	18/04/2013	08/11/2012	$705,000	897m	Full transfer	4	2	1	1	1	$705,000	71	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.73
+2013	407921	19 Brookman Street	18/05/2013	12/08/2013	24/04/2013	$677,500	961m	Full transfer	5	2	1	2	-	$677,500	24	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.68
+2013	407646	10 Howchin Place	13/06/2013	23/08/2013	30/05/2013	$630,000	878m	Full transfer	3	1	-	2	-	$630,000	14	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.69
+2013	422619	96 Beasley Street	14/11/2013	26/03/2014	-	$630,000	1127m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	402465	11 Darke Street	09/05/2013	18/06/2013	21/03/2013	$610,000	908m	Full transfer	4	1	-	2	-	$610,000	49	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.7
+2013	428162	17 Batchelor Street	04/09/2013	01/05/2014	14/03/2013	$600,000	1332m	Full transfer	4	1	1	-	1	$600,000	174	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.62
+2013	398146	43 Kavel Street	23/01/2013	15/05/2013	17/10/2012	$585,000	734m	Full transfer	3	1	-	1	-	$585,000	98	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.7
+2013	412472	5 Howard Street	23/11/2013	-	31/10/2013	$580,000	958m	Full transfer	3	1	0	2	1	$580,000	23	-	Allhomes Record	-	-	-	-	$431,000	0.74
+2013	400549	22 Jefferis Street	13/04/2013	28/05/2013	08/03/2013	$580,000	699m	Full transfer	3	1	1	2	1	$580,000	36	-	Combined Record	151	-	-	Single residential dwelling	$398,000	0.69
+2013	410845	19 Howard Street	16/08/2013	20/09/2013	30/05/2013	$575,000	775m	Full transfer	4	1	-	1	2	$575,000	78	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.71
+2013	398148	8 Stevenson Street	25/01/2013	13/05/2013	17/01/2013	$575,000	984m	Full transfer	3	1	-	1	1	$575,000	8	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.74
+2013	400551	41 Brookman Street	02/03/2013	28/05/2013	29/01/2013	$570,000	990m	Full transfer	3	1	-	-	1	$570,000	32	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.76
+2013	407923	1/21A Batchelor Street	17/07/2013	13/08/2013	-	$567,000	906m	Full transfer	-	-	-	-	-	$567,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	401345	1/21 Batchelor Street	17/07/2013	-	22/04/2013	$567,000	-	Full transfer	3	1	1	1	-	$567,000	86	-	Allhomes Record	-	-	-	-	-	-
+2013	413935	4 Stevenson Street	18/09/2013	18/11/2013	-	$565,000	761m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394835	8 Batchelor Street	22/02/2013	10/04/2013	06/12/2012	$550,500	752m	Full transfer	3	1	1	-	4	$550,500	78	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.64
+2013	419246	34 Brookman Street	19/12/2013	14/02/2014	26/11/2013	$550,000	735m	Full transfer	3	1	-	2	-	$550,000	23	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.57
+2013	393605	45 Gouger Street	13/04/2013	-	21/03/2013	$550,000	1085m	Full transfer	3	1	-	-	2	$550,000	23	-	Allhomes Record	-	-	-	-	$407,000	0.74
+2013	412898	8 Davies Place	30/07/2013	31/10/2013	17/07/2013	$540,000	754m	Full transfer	4	1	1	1	-	$540,000	13	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.66
+2013	406698	43 Batchelor Street	25/05/2013	28/08/2013	30/04/2013	$536,000	1017m	Full transfer	3	1	-	2	0	$536,000	25	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.69
+2013	400080	5/3 Davies Place	15/03/2013	04/06/2013	27/02/2013	$534,000	2356m	Full transfer	3	2	-	-	2	$534,000	16	-	Combined Record	130	-	-	Multiple unit dwelling	$1,697,000	3.18
+2013	413406	9 Parkin Street	04/09/2013	14/11/2013	25/07/2013	$490,000	937m	Full transfer	2	1	1	-	2	$490,000	41	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.66
+2013	428160	19 Batchelor Street	04/09/2013	01/05/2014	14/03/2013	$453,000	900m	Full transfer	3	1	-	1	-	$453,000	174	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.78
+2013	407644	19 Parkin Street	11/07/2013	21/08/2013	10/04/2013	$440,000	690m	Full transfer	3	1	-	-	2	$440,000	92	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.8
+2013	406396	18/5 Beasley Street	30/10/2013	-	05/02/2013	$407,000	0m	Full transfer	2	1	0	0	0	$407,000	267	-	Allhomes Record	-	-	-	-	$3,668,000	9.01
+2013	398150	4/1 Basedow Street	28/03/2013	13/05/2013	-	$405,000	3046m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418344	2 Torrens Place	18/12/2013	06/01/2014	-	$190,000	380m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Office	-	-
+2013	403471	16 Darke Street	17/05/2013	04/07/2013	-	$0	1033m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410683	44 Basedow Street	16/08/2013	23/10/2013	-	$0	1165m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397495	30 Duncan Street	07/03/2013	10/05/2013	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410235	10 Duncan Street	23/07/2013	11/09/2013	-	$0	649m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	430443	26 McCann Street	13/11/2013	03/07/2014	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	426942	26 Gouger Street	19/12/2013	12/05/2014	-	$0	984m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419890	31 Beasley Street	02/11/2013	05/02/2014	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	431435	7 Howard Street	15/12/2013	24/07/2014	-	$0	980m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	441410	19 Basedow Street	27/01/2013	12/12/2014	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	444888	51 Beasley Street	25/10/2013	06/02/2015	-	$0	746m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424488	139 Gouger Street	05/11/2013	01/04/2014	-	$0	1197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424110	131 Gouger Street	14/01/2014	14/04/2014	-	$975,000	1139m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433447	14 Howard Street	12/07/2014	21/08/2014	19/06/2014	$921,000	844m	Full transfer	4	1	1	4	-	$921,000	23	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.47
+2014	437746	46 Hawker Street	29/08/2014	21/10/2014	-	$850,000	2153m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443342	            2/7 Hubbe Street	18/10/2014	08/01/2015	-	$823,500	985m	Full transfer	-	-	-	-	-	$823,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443343	1/7 Hubbe Street	18/10/2014	08/01/2015	-	$823,500	985m	Full transfer	-	-	-	-	-	$823,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435924	7 Hubbe Street	18/10/2014	-	23/09/2014	$823,500	985m	Full transfer	5	1	2	0	2	$823,500	25	-	Allhomes Record	-	-	-	-	$572,000	0.69
+2014	422620	69 Beasley Street	13/02/2014	25/03/2014	06/01/2014	$795,000	772m	Full transfer	4	2	-	1	-	$795,000	38	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.45
+2014	447871	27 Hawker Street	18/12/2014	17/03/2015	04/11/2014	$785,000	1388m	Full transfer	4	1	1	1	1	$785,000	44	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.7
+2014	442371	120 Gouger Street	31/10/2014	02/01/2015	25/08/2014	$775,000	853m	Full transfer	4	1	1	2	-	$775,000	67	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.65
+2014	441413	15 Beasley Street	08/10/2014	08/12/2014	02/09/2014	$749,000	752m	Full transfer	4	1	1	-	2	$749,000	36	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.45
+2014	433445	33 Basedow Street	19/07/2014	21/08/2014	26/06/2014	$712,000	771m	Full transfer	4	1	1	0	2	$712,000	23	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.57
+2014	427726	4 Brookman Street	22/03/2014	15/05/2014	24/02/2014	$702,000	842m	Full transfer	5	2	-	-	2	$702,000	26	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.58
+2014	429428	26 Parsons Street	03/05/2014	19/06/2014	12/03/2014	$635,000	1045m	Full transfer	4	1	1	-	2	$635,000	52	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.79
+2014	431929	32 Wyatt Street	12/08/2014	-	21/02/2014	$630,000	982m	Full transfer	4	1	1	-	-	$630,000	172	-	Allhomes Record	-	-	-	-	$431,000	0.68
+2014	446197	19 Basedow Street	08/11/2014	19/02/2015	10/10/2014	$630,000	894m	Full transfer	4	2	-	-	1	$630,000	29	-	Combined Record	165	-	-	Single residential dwelling	$400,000	0.63
+2014	429430	102 Beasley Street	30/04/2014	16/06/2014	01/04/2014	$630,000	924m	Full transfer	4	2	-	1	-	$630,000	29	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.57
+2014	442373	101 Batchelor Street	27/10/2014	02/01/2015	-	$605,000	304m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2014	441411	68 Gouger Street	11/10/2014	08/12/2014	18/09/2014	$590,000	1028m	Full transfer	4	1	1	0	2	$590,000	23	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.88
+2014	426945	10 Batchelor Street	22/04/2014	13/05/2014	-	$575,000	663m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427933	32 Kavel Street	17/04/2014	21/05/2014	26/03/2014	$565,000	751m	Full transfer	3	1	-	2	-	$565,000	22	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.75
+2014	427931	14 Horrocks Street	03/04/2014	21/05/2014	22/01/2014	$540,000	713m	Full transfer	3	1	1	1	-	$540,000	71	-	Combined Record	140	-	-	Single residential dwelling	$418,000	0.77
+2014	426262	31 Beasley Street	28/03/2014	08/05/2014	23/01/2014	$537,500	764m	Full transfer	3	1	0	1	1	$537,500	64	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.63
+2014	430999	17 Parkin Street	07/06/2014	15/07/2014	19/05/2014	$527,500	765m	Full transfer	4	1	-	-	1	$527,500	19	-	Combined Record	124	-	-	Single residential dwelling	$342,000	0.65
+2014	444886	19 Jefferis Street	04/12/2014	03/02/2015	09/10/2014	$525,000	725m	Full transfer	3	1	-	-	2	$525,000	56	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.78
+2014	434538	17 Howard Street	30/07/2014	05/09/2014	16/05/2014	$505,000	849m	Full transfer	3	1	-	-	2	$505,000	75	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.84
+2014	434536	25 Kavel Street	18/07/2014	04/09/2014	24/06/2014	$495,000	674m	Full transfer	3	1	-	-	1	$495,000	24	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.8
+2014	443344	59 Beasley Street	27/11/2014	08/01/2015	22/10/2014	$490,000	705m	Full transfer	3	2	-	2	0	$490,000	36	-	Combined Record	123	-	-	Single residential dwelling	$353,000	0.72
+2014	429663	3 Duncan Street	14/05/2014	29/06/2014	04/04/2014	$490,000	865m	Full transfer	3	1	-	-	-	$490,000	40	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.75
+2014	444889	61 Beasley Street	15/11/2014	04/02/2015	12/08/2014	$470,000	732m	Full transfer	3	1	-	2	-	$470,000	95	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.75
+2014	430444	10/5 Beasley Street	30/04/2014	03/07/2014	04/03/2014	$420,000	14674m	Full transfer	3	1	0	1	0	$420,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2014	435495	12/1 Basedow Street	13/08/2014	18/09/2014	10/04/2014	$390,000	3046m	Full transfer	2	1	0	0	1	$390,000	125	-	Combined Record	-	-	-	Multiple unit dwelling	$1,782,000	4.57
+2014	441415	18 Torrens Place	24/07/2014	08/12/2014	-	$340,000	118m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Retail	-	-
+2014	443341	27 Kavel Street	25/11/2014	07/01/2015	-	$250,000	680m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430128	25 McCann Street	10/03/2014	11/07/2014	-	$0	878m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473730	4/1 Davies Place	24/05/2014	23/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432376	22 Gouger Street	19/06/2014	05/08/2014	-	$0	1214m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473731	2/1 Davies Place	24/05/2014	23/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	473740	5/1 Davies Place	24/05/2014	22/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441111	37 Kavel Street	24/10/2014	04/12/2014	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	422515	1 Jefferis Street	18/01/2014	18/03/2014	-	$0	1004m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473742	1/1 Davies Place	24/05/2014	22/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	450850	137 Gouger Street	09/12/2014	27/04/2015	-	$0	1139m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473729	6/1 Davies Place	24/05/2014	22/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426944	24 Gouger Street	01/03/2014	13/05/2014	-	$0	1197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	473739	7/1 Davies Place	24/05/2014	22/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	473728	8/1 Davies Place	24/05/2014	22/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	473741	3/1 Davies Place	24/05/2014	23/03/2016	-	$0	2827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444296	52 Brookman Street	05/02/2015	-	21/03/2014	$1,125,000	1147m	Full transfer	5	2	2	1	1	$1,125,000	321	-	Allhomes Record	-	-	-	-	$489,000	0.43
+2015	453210	117 Gouger Street	14/03/2015	29/05/2015	18/02/2015	$1,110,000	1516m	Full transfer	4	1	1	2	0	$1,110,000	24	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.55
+2015	460080	7 Coles Place	17/06/2015	27/08/2015	11/05/2015	$978,000	983m	Full transfer	4	1	1	2	-	$978,000	37	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.51
+2015	455999	69 Gouger Street	21/05/2015	10/07/2015	30/04/2015	$940,000	1486m	Full transfer	4	1	1	2	0	$940,000	21	-	Combined Record	-	-	-	Single residential dwelling	$508,000	0.54
+2015	461406	80 Gouger Street	23/05/2015	07/09/2015	30/04/2015	$930,000	1282m	Full transfer	4	1	1	2	0	$930,000	23	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.59
+2015	461881	94 Beasley Street	10/10/2015	-	08/09/2015	$837,000	942m	Full transfer	4	1	2	2	2	$837,000	32	-	Allhomes Record	-	-	-	-	$359,000	0.43
+2015	471092	10 Parsons Street	26/11/2015	15/02/2016	21/10/2015	$820,000	810m	Full transfer	4	3	-	2	-	$820,000	36	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.49
+2015	463402	16 McCann Street	08/08/2015	14/10/2015	16/07/2015	$808,000	759m	Full transfer	4	1	1	4	1	$808,000	23	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.49
+2015	468568	46 Kavel Street	07/11/2015	06/01/2016	15/10/2015	$790,000	916m	Full transfer	3	1	1	1	0	$790,000	23	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.55
+2015	456883	7 Darke Street	25/04/2015	22/06/2015	-	$740,000	1057m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460082	53 Batchelor Street	04/07/2015	27/08/2015	09/06/2015	$736,000	906m	Full transfer	4	1	1	-	2	$736,000	25	-	Combined Record	189	-	-	Single residential dwelling	$354,000	0.48
+2015	455603	5 Hubbe Street	25/07/2015	-	25/06/2015	$732,000	803m	Full transfer	3	1	0	2	0	$732,000	30	-	Allhomes Record	-	-	-	-	$514,000	0.7
+2015	454242	26 Brookman Street	23/01/2015	11/06/2015	-	$685,000	1141m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462903	18 Wyatt Place	15/08/2015	08/10/2015	22/07/2015	$680,000	796m	Full transfer	3	1	0	0	1	$680,000	24	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.63
+2015	474447	38 Basedow Street	16/10/2015	05/04/2016	03/09/2015	$656,000	942m	Full transfer	4	2	-	2	0	$656,000	43	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.7
+2015	459140	37 Horrocks Street	11/06/2015	14/08/2015	20/04/2015	$630,000	643m	Full transfer	3	1	-	1	-	$630,000	52	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.59
+2015	466222	26 Wyatt Street	12/09/2015	20/11/2015	18/08/2015	$630,000	802m	Full transfer	4	1	-	1	-	$630,000	25	-	Combined Record	124	-	-	Single residential dwelling	$425,000	0.67
+2015	453287	86 Beasley Street	31/03/2015	29/05/2015	16/02/2015	$608,000	934m	Full transfer	4	1	-	-	2	$608,000	43	-	Combined Record	127	-	-	Single residential dwelling	$359,000	0.59
+2015	450855	10 Davies Place	13/03/2015	30/04/2015	-	$575,000	737m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461164	49 Beasley Street	04/07/2015	31/08/2015	11/06/2015	$574,000	742m	Full transfer	3	1	-	2	-	$574,000	23	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.61
+2015	460072	16 Howard Street	25/06/2015	26/08/2015	18/03/2015	$570,000	711m	Full transfer	3	1	0	0	1	$570,000	99	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.75
+2015	450792	4 Horrocks Street	06/03/2015	29/04/2015	27/01/2015	$540,000	662m	Full transfer	3	1	-	0	1	$540,000	38	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.75
+2015	455991	24 McCann Street	16/05/2015	06/07/2015	16/04/2015	$515,000	742m	Full transfer	3	1	0	2	0	$515,000	30	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.77
+2015	448600	4 McCann Street	06/02/2015	23/03/2015	-	$497,000	825m	Full transfer	-	-	-	-	-	$497,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451783	            2/5 Beasley Street	31/03/2015	07/05/2015	-	$430,000	14674m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448576	2/1 Batchelor Street	01/04/2015	-	25/02/2015	$430,000	14674m	Full transfer	3	1	-	-	1	$430,000	35	-	Allhomes Record	-	-	-	-	$3,668,000	8.53
+2015	453763	14/5 Beasley Street	17/06/2015	-	27/02/2015	$380,000	-	Full transfer	3	1	-	1	-	$380,000	110	-	Allhomes Record	-	-	-	-	$3,668,000	9.65
+2015	442715	4/109 Beasley Street	29/01/2015	-	04/11/2014	$372,500	-	Full transfer	2	1	1	1	-	$372,500	86	-	Allhomes Record	-	-	-	-	$1,289,000	3.46
+2015	449779	11/1 Basedow Street	07/02/2015	07/04/2015	-	$360,000	3046m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466212	3/3 Davies Place	25/09/2015	19/11/2015	21/07/2015	$210,000	2356m	Full transfer	1	-	-	-	1	$210,000	66	-	Combined Record	50	-	-	Multiple unit dwelling	$1,782,000	8.49
+2015	518824	72 Hawker Street	31/07/2015	12/09/2017	-	$0	1103m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453212	49 Beasley Street	14/02/2015	29/05/2015	-	$0	742m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	566062	35 Beasley Street	22/12/2015	01/08/2019	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	502692	86 Gouger Street	07/01/2015	13/04/2017	-	$0	1134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459626	16 Hawker Street	30/05/2015	18/08/2015	05/05/2015	$0	1187m	Full transfer	4	1	-	0	1	$0	25	-	Combined Record	-	-	-	Single residential dwelling	$409,000	8.49
+2015	459143	11 Perkins Place	03/06/2015	14/08/2015	-	$0	865m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	456001	16 Hawker Street	02/02/2015	10/07/2015	-	$0	1187m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472890	4 Duncan Street	04/06/2015	01/03/2016	-	$0	700m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471370	38 Basedow Street	27/10/2015	10/02/2016	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	446196	40 Brookman Street	17/01/2015	16/02/2015	-	$0	1086m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	532794	22 Stevenson Street	16/05/2015	15/05/2018	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	483491	23 Parsons Street	03/10/2015	05/08/2016	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	570378	11 Howchin Place	29/03/2015	24/09/2019	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	518926	72 Hawker Street	17/04/2015	12/09/2017	-	$0	1103m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450856	22 Howchin Place	02/03/2015	29/04/2015	-	$0	1001m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451299	43 Horrocks Street	12/02/2015	20/04/2015	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448625	52 Brookman Street	04/02/2015	24/03/2015	-	$0	1147m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458052	18 Parsons Street	10/02/2015	23/07/2015	-	$0	969m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497768	9 Coles Place	29/10/2016	21/02/2017	20/09/2016	$1,105,000	947m	Full transfer	4	1	1	2	-	$1,105,000	39	-	Combined Record	140	-	-	Single residential dwelling	$535,000	0.48
+2016	499720	51 Gouger Street	19/10/2016	09/03/2017	06/10/2016	$1,000,000	1202m	Full transfer	4	2	-	0	2	$1,000,000	13	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.42
+2016	488092	113 Gouger Street	21/07/2016	11/10/2016	-	$981,250	1315m	Full transfer	-	-	-	-	-	$981,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497527	48 Gouger Street	26/11/2016	24/02/2017	21/10/2016	$970,000	1080m	Full transfer	4	2	-	2	-	$970,000	36	-	Combined Record	223	-	-	Single residential dwelling	$513,000	0.53
+2016	476407	3 Cain Place	11/03/2016	28/04/2016	11/02/2016	$910,000	963m	Full transfer	4	1	1	2	-	$910,000	29	-	Combined Record	159	-	-	Single residential dwelling	$535,000	0.59
+2016	522131	            2/26A Wyatt Street	12/10/2016	12/12/2017	-	$815,000	802m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493034	15 Beasley Street	14/10/2016	07/12/2016	13/09/2016	$805,000	752m	Full transfer	4	1	1	-	2	$805,000	31	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.44
+2016	494900	18 Parsons Street	02/09/2016	11/01/2017	25/02/2016	$795,000	969m	Full transfer	5	3	0	1	0	$795,000	190	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.61
+2016	483570	32 Gouger Street	28/05/2016	08/08/2016	03/05/2016	$790,000	865m	Full transfer	4	1	1	2	-	$790,000	25	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.56
+2016	488928	31 Brookman Street	03/09/2016	24/10/2016	28/07/2016	$789,000	1102m	Full transfer	4	1	1	2	1	$789,000	37	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.63
+2016	495592	6 Hubbe Street	09/11/2016	31/01/2017	29/09/2016	$780,000	1202m	Full transfer	3	1	0	1	0	$780,000	41	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.67
+2016	479410	19 Beasley Street	21/03/2016	07/06/2016	24/02/2016	$779,000	769m	Full transfer	4	1	1	2	-	$779,000	26	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.46
+2016	480178	46 Gouger Street	02/04/2016	14/06/2016	08/03/2016	$760,000	1081m	Full transfer	4	1	0	0	2	$760,000	25	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.68
+2016	475093	5 Duncan Street	03/02/2016	12/04/2016	13/01/2016	$740,000	992m	Full transfer	4	1	1	1	1	$740,000	21	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.56
+2016	489414	23 Parkin Street	20/08/2016	17/10/2016	12/07/2016	$701,000	681m	Full transfer	4	2	-	1	1	$701,000	39	-	Combined Record	175	-	-	Single residential dwelling	$370,000	0.53
+2016	477463	12 Wyatt Place	31/05/2016	-	22/04/2016	$695,000	1075m	Full transfer	-	-	-	-	-	$695,000	39	-	Allhomes Record	-	-	-	-	$436,000	0.63
+2016	483171	6 Stevenson Street	11/06/2016	09/08/2016	11/05/2016	$684,000	934m	Full transfer	5	2	-	2	0	$684,000	31	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.62
+2016	498028	43 Batchelor Street	17/12/2016	16/02/2017	24/11/2016	$680,000	1017m	Full transfer	3	1	0	2	0	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.57
+2016	486621	47 Gouger Street	28/07/2016	12/09/2016	12/05/2016	$680,000	1035m	Full transfer	4	1	-	-	2	$680,000	77	-	Combined Record	178	-	-	Single residential dwelling	$427,000	0.63
+2016	488158	14 Duncan Street	29/07/2016	05/10/2016	17/03/2016	$677,000	767m	Full transfer	3	1	0	1	2	$677,000	134	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.57
+2016	490303	100 Beasley Street	27/08/2016	01/11/2016	28/09/2016	$675,000	903m	Full transfer	3	1	-	2	0	$675,000	-	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.55
+2016	475744	2 Kavel Street	06/02/2016	13/04/2016	17/11/2015	$672,000	906m	Full transfer	3	1	0	2	-	$672,000	81	-	Combined Record	145	-	-	Single residential dwelling...	$413,000	0.61
+2016	495669	5 Horrocks Street	17/11/2016	30/01/2017	-	$667,000	714m	Full transfer	-	-	-	-	-	$667,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504703	47 Batchelor Street	10/12/2016	02/05/2017	17/11/2016	$660,000	1115m	Full transfer	4	1	-	1	2	$660,000	23	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.63
+2016	482157	26 Batchelor Street	19/05/2016	19/07/2016	10/03/2016	$660,000	700m	Full transfer	4	1	1	2	1	$660,000	70	-	Combined Record	199	-	-	Single residential dwelling	$370,000	0.56
+2016	497441	18 Jefferis Street	25/11/2016	23/02/2017	16/11/2016	$652,000	716m	Full transfer	3	1	-	0	2	$652,000	9	-	Combined Record	-	-	-	Single residential dwelling	$417,000	0.64
+2016	497681	13 Beasley Street	23/12/2016	22/02/2017	25/11/2016	$650,000	969m	Full transfer	3	1	1	1	-	$650,000	28	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.57
+2016	485294	14 Parsons Street	21/06/2016	17/08/2016	12/04/2016	$650,000	939m	Full transfer	3	2	-	1	-	$650,000	70	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.65
+2016	497243	82 Batchelor Street	19/12/2016	10/02/2017	15/09/2016	$617,500	896m	Full transfer	3	1	0	1	0	$617,500	95	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.72
+2016	499144	168 Beasley Street	26/11/2016	01/03/2017	02/11/2016	$607,000	750m	Full transfer	3	2	-	1	0	$607,000	24	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.54
+2016	493686	25 Gouger Street	10/10/2016	19/12/2016	-	$575,000	806m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492977	21 Parkin Street	09/09/2016	05/12/2016	13/07/2016	$575,000	680m	Full transfer	3	1	-	-	1	$575,000	58	-	Combined Record	98	-	-	Single residential dwelling	$370,000	0.64
+2016	476400	17 Jefferis Street	08/03/2016	27/04/2016	04/02/2016	$565,000	698m	Full transfer	3	1	-	0	1	$565,000	33	-	Combined Record	-	-	-	Single residential dwelling	$66,000	0.12
+2016	480934	24 Batchelor Street	28/07/2016	-	15/05/2016	$550,000	-	Full transfer	3	1	-	2	-	$550,000	74	-	Allhomes Record	-	-	-	-	$370,000	0.67
+2016	475739	19 Jefferis Street	30/01/2016	15/04/2016	23/12/2015	$546,000	725m	Full transfer	3	1	0	0	2	$546,000	38	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.78
+2016	491001	104 Batchelor Street	10/12/2016	-	17/11/2016	$538,000	-	Full transfer	4	2	-	2	-	$538,000	23	-	Allhomes Record	146	-	-	-	$880,000	1.64
+2016	499117	5/104 Batchelor Street	10/12/2016	02/03/2017	-	$538,000	3397m	Full transfer	-	-	-	-	-	$538,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484621	8 Torrens Place	24/06/2016	18/08/2016	-	$460,000	195m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Retail	-	-
+2016	479691	8-10 Torrens Place	24/06/2016	-	03/06/2015	$460,000	0m	Full transfer	-	-	-	-	-	$460,000	387	-	Allhomes Record	-	-	-	-	$110,000	0.24
+2016	473511	5/109 Beasley Street	24/03/2016	-	27/11/2015	$405,000	1462m	Full transfer	2	1	1	2	-	$405,000	118	-	Allhomes Record	-	-	-	-	$1,289,000	3.18
+2016	476402	            5/ Batchelor Street	09/03/2016	26/04/2016	-	$405,000	1462m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491805	106 Beasley Street	21/11/2016	29/11/2016	-	$325,000	965m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495005	18 Jefferis Street	12/01/2016	11/01/2017	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	518475	23 Parsons Street	21/01/2016	09/09/2017	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489446	35 Horrocks Street	19/09/2016	18/10/2016	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491635	7 Parsons Street	14/06/2016	28/11/2016	-	$0	967m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484601	20 Perkins Place	20/06/2016	18/08/2016	-	$0	1172m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	536929	45 Hawker Street	29/11/2016	03/07/2018	-	$0	1082m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485645	18 Howchin Place	28/06/2016	30/08/2016	-	$0	1351m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503213	36 Duncan Street	07/10/2016	06/04/2017	-	$0	689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496936	30 Parsons Street	16/08/2016	10/02/2017	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484853	            1/119 Gouger Street	20/06/2016	24/08/2016	-	$0	1405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486293	16 Perkins Place	21/07/2016	07/09/2016	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497101	8 Batchelor Street	18/11/2016	08/02/2017	-	$0	752m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500899	12/3 Davies Place	22/01/2016	31/03/2017	-	$0	2356m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512564	2 Parkin Street	29/11/2016	08/05/2017	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474435	17 Duncan Street	16/02/2016	07/04/2016	-	$0	762m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486152	76 Hawker Street	06/07/2016	09/09/2016	-	$0	971m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	564649	23 Parkin Street	02/11/2016	18/07/2019	-	$0	681m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482426	10 Hawker Street	30/04/2016	27/07/2016	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515823	25 Duncan Street	25/06/2016	27/07/2017	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487216	82 Batchelor Street	05/06/2016	20/09/2016	-	$0	896m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498919	5/104 Batchelor Street	25/07/2016	02/03/2017	-	$0	3397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523119	77 Gouger Street	16/09/2017	09/01/2018	24/08/2017	$1,401,000	1711m	Full transfer	5	3	-	2	0	$1,401,000	23	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.43
+2017	532795	58 Gouger Street	28/10/2017	14/05/2018	05/10/2017	$1,150,000	1102m	Full transfer	4	2	-	3	0	$1,150,000	23	-	Combined Record	-	-	-	Single residential dwelling	$626,000	0.54
+2017	494763	119B Gouger Street	18/02/2017	-	25/01/2017	$1,015,000	-	Full transfer	3	3	0	2	0	$1,015,000	24	-	Allhomes Record	-	-	-	-	$825,000	0.81
+2017	513050	            1/119 Gouger Street	19/02/2017	08/06/2017	-	$1,015,000	1405m	Full transfer	-	-	-	-	-	$1,015,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515379	35 Batchelor Street	30/05/2017	10/07/2017	01/12/2016	$988,000	976m	Full transfer	6	3	-	3	1	$988,000	180	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.4
+2017	510670	27 Darke Street	16/12/2017	-	23/11/2017	$937,000	-	Full transfer	4	1	1	2	0	$937,000	23	-	Allhomes Record	-	-	-	-	$521,000	0.56
+2017	522891	11 Coles Place	17/10/2017	11/01/2018	19/09/2017	$895,000	947m	Full transfer	3	2	-	2	-	$895,000	28	-	Combined Record	167	-	-	Single residential dwelling	$539,000	0.6
+2017	522885	            1/9 Darke Street	23/06/2017	14/01/2018	-	$865,000	1477m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507847	9 Darke Street	12/09/2017	-	13/04/2017	$865,000	0m	Full transfer	3	2	1	2	0	$865,000	152	-	Allhomes Record	-	-	-	-	$478,000	0.55
+2017	510157	61 Hawker Street	02/12/2017	-	15/11/2017	$855,000	0m	Full transfer	4	1	-	2	0	$855,000	17	-	Allhomes Record	-	-	-	-	$478,000	0.56
+2017	518049	30 Parsons Street	04/03/2017	28/08/2017	09/02/2017	$842,000	945m	Full transfer	4	2	-	2	0	$842,000	23	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.58
+2017	523205	            2/9 Darke Street	14/06/2017	16/01/2018	-	$840,000	1477m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519077	            3/26 Brookman Street	24/05/2017	04/10/2017	-	$835,000	1141m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510416	8B Wyatt Place	08/12/2017	-	29/09/2017	$830,000	0m	Full transfer	3	3	-	2	0	$830,000	70	-	Allhomes Record	-	-	-	-	$494,000	0.6
+2017	538094	            2/8 Wyatt Place	08/12/2017	16/07/2018	-	$830,000	983m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524021	4 Parsons Street	01/11/2017	24/01/2018	31/08/2017	$825,000	869m	Full transfer	4	2	-	2	1	$825,000	62	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.5
+2017	496367	26 Brookman Street	03/03/2017	-	28/11/2016	$810,000	1141m	Full transfer	3	2	-	1	-	$810,000	95	-	Allhomes Record	302	-	-	-	$680,000	0.84
+2017	518448	            1/26 Brookman Street	03/03/2017	04/09/2017	-	$810,000	1141m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	502681	1 Stevenson Street	03/03/2017	11/04/2017	02/11/2016	$801,000	798m	Full transfer	5	2	-	-	2	$801,000	121	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.56
+2017	524737	18 McCann Street	23/11/2017	01/02/2018	06/11/2017	$800,000	749m	Full transfer	3	1	1	1	1	$800,000	17	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.56
+2017	532695	            3/7 Darke Street	09/11/2017	15/05/2018	-	$800,000	1057m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519141	            2/26 Brookman Street	06/04/2017	10/10/2017	-	$795,000	1141m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500501	26 Brookman Street	06/04/2017	-	28/11/2016	$795,000	1141m	Full transfer	3	2	-	1	-	$795,000	129	-	Allhomes Record	231	-	-	-	$680,000	0.86
+2017	509430	100A Beasley Street	11/11/2017	-	19/10/2017	$790,000	519m	Full transfer	3	2	-	1	-	$790,000	23	-	Allhomes Record	-	-	-	-	$373,000	0.47
+2017	524924	            2/100 Beasley Street	11/11/2017	02/02/2018	-	$790,000	903m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	533308	            1/7 Darke Street	10/11/2017	27/05/2018	-	$785,000	1057m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519380	21 Howchin Place	12/08/2017	12/10/2017	20/07/2017	$762,000	961m	Full transfer	3	1	-	0	1	$762,000	23	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.56
+2017	526887	19 McCann Street	07/12/2017	11/03/2018	14/11/2017	$760,000	840m	Full transfer	4	1	1	-	1	$760,000	23	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.59
+2017	513752	82 Hawker Street	01/04/2017	31/05/2017	17/03/2017	$742,000	901m	Full transfer	3	2	-	0	2	$742,000	15	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.65
+2017	522401	29 Horrocks Street	21/06/2017	12/12/2017	19/04/2017	$740,000	647m	Full transfer	4	2	-	2	0	$740,000	63	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.6
+2017	516867	9 Howchin Place	17/05/2017	01/08/2017	11/05/2017	$730,000	786m	Full transfer	3	1	-	2	0	$730,000	6	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.57
+2017	513824	120 Beasley Street	22/04/2017	20/06/2017	22/03/2017	$710,000	858m	Full transfer	4	1	-	2	-	$710,000	31	-	Combined Record	160	-	-	Single residential dwelling	$355,000	0.5
+2017	522220	19 Basedow Street	27/10/2017	14/12/2017	-	$700,000	894m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518934	51 Horrocks Street	05/08/2017	12/09/2017	19/06/2017	$681,000	955m	Full transfer	4	1	-	-	-	$681,000	47	-	Combined Record	127	-	-	Single residential dwelling	$418,000	0.61
+2017	518953	45 Gouger Street	04/07/2017	04/10/2017	-	$678,000	1085m	Full transfer	-	-	-	-	-	$678,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516784	55 Beasley Street	11/05/2017	03/08/2017	08/04/2017	$665,000	752m	Full transfer	4	1	-	1	0	$665,000	33	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.6
+2017	524200	4 Duncan Street	11/11/2017	23/01/2018	19/10/2017	$647,000	700m	Full transfer	3	1	-	0	0	$647,000	23	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.62
+2017	522042	18 Howard Street	08/09/2017	05/01/2018	-	$645,000	772m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517303	10 Kavel Street	24/06/2017	15/08/2017	06/06/2017	$620,000	759m	Full transfer	3	1	-	1	1	$620,000	18	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.75
+2017	506456	9 Horrocks Street	18/07/2017	-	20/06/2017	$620,000	652m	Full transfer	3	1	-	1	-	$620,000	28	-	Allhomes Record	-	-	-	-	$451,000	0.73
+2017	519692	34 Duncan Street	26/08/2017	20/10/2017	03/08/2017	$615,000	686m	Full transfer	3	1	-	0	0	$615,000	23	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.65
+2017	503215	11 Gouger Street	15/02/2017	06/04/2017	15/12/2016	$615,000	1066m	Full transfer	4	1	-	2	-	$615,000	62	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.65
+2017	521653	9 Jefferis Street	07/09/2017	22/12/2017	10/08/2017	$612,000	873m	Full transfer	7	2	-	0	1	$612,000	28	-	Combined Record	-	-	-	Single residential dwelling	$481,000	0.79
+2017	513881	31 Batchelor Street	14/03/2017	21/06/2017	-	$500,000	892m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502366	            6/5 Beasley Street	22/02/2017	19/04/2017	-	$385,000	14674m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	496081	6/1 Batchelor Street	22/02/2017	-	17/01/2017	$385,000	-	Full transfer	2	1	-	-	1	$385,000	36	-	Allhomes Record	80	-	-	-	$324,000	0.84
+2017	516562	12/3 Davies Place	02/06/2017	11/08/2017	28/04/2017	$355,000	2356m	Full transfer	2	1	-	-	1	$355,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	520693	106 Beasley Street	25/10/2017	08/11/2017	-	$325,000	965m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520422	106 Beasley Street	02/11/2017	08/11/2017	-	$325,000	965m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516826	1/3 Davies Place	25/05/2017	31/07/2017	-	$295,000	2356m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515887	16 Torrens Place	30/05/2017	27/07/2017	-	$254,500	117m	Full transfer	-	-	-	-	-	$254,500	-	-	Government Record	-	-	-	Retail	-	-
+2017	518884	23 Parsons Street	25/05/2017	11/09/2017	-	$213,333	867m	Full transfer	-	-	-	-	-	$213,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519059	            26A Wyatt Street	20/09/2017	05/10/2017	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2017	520701	106 Beasley Street	12/07/2017	08/11/2017	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512886	19 Hawker Street	14/03/2017	24/05/2017	-	$0	1010m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	547384	77 Beasley Street	14/08/2017	21/11/2018	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518734	4 Duncan Street	04/03/2017	28/09/2017	-	$0	700m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	567798	4 Howard Street	08/08/2017	20/08/2019	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529033	24 Gouger Street	17/12/2017	26/03/2018	-	$0	1197m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524852	16 Perkins Place	03/07/2017	02/02/2018	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520657	10 Duncan Street	30/06/2017	08/11/2017	-	$0	649m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	539370	7 Wyatt Street	01/11/2017	08/08/2018	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522657	61 Hawker Street	21/07/2017	10/01/2018	-	$0	1112m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521161	18 Gouger Street	31/05/2017	07/12/2017	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551043	109 Gouger Street	29/09/2018	09/01/2019	06/09/2018	$1,540,000	1338m	Full transfer	5	3	-	3	0	$1,540,000	23	-	Combined Record	-	-	-	Single residential dwelling...	$680,000	0.44
+2018	552950	135 Gouger Street	10/12/2018	06/02/2019	25/10/2018	$1,285,000	1076m	Full transfer	5	2	-	2	0	$1,285,000	46	-	Combined Record	-	-	-	Single residential dwelling	$649,000	0.51
+2018	549789	48 Brookman Street	30/10/2018	21/12/2018	30/08/2018	$1,265,000	1236m	Full transfer	4	1	1	4	-	$1,265,000	61	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.5
+2018	546994	97 Gouger Street	29/09/2018	28/11/2018	06/09/2018	$1,225,000	1189m	Full transfer	5	3	-	2	0	$1,225,000	23	-	Combined Record	-	-	-	Single residential dwelling	$649,000	0.53
+2018	548759	31 Horrocks Street	28/09/2018	14/01/2019	01/08/2018	$1,170,000	817m	Full transfer	4	2	-	2	-	$1,170,000	58	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.41
+2018	550964	99 Gouger Street	28/09/2018	09/01/2019	30/08/2018	$1,070,000	1207m	Full transfer	4	2	-	3	0	$1,070,000	29	-	Combined Record	-	-	-	Single residential dwelling	$649,000	0.61
+2018	544078	            1/119 Gouger Street	08/09/2018	19/10/2018	-	$1,050,000	1405m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540096	119B Gouger Street	08/09/2018	-	16/08/2018	$1,050,000	0m	Full transfer	4	3	-	2	0	$1,050,000	23	-	Allhomes Record	-	-	-	-	$850,000	0.81
+2018	530680	62 Hawker Street	23/04/2018	-	26/02/2018	$1,025,000	-	Full transfer	-	-	-	-	-	$1,025,000	56	-	Allhomes Record	-	-	-	-	$880,000	0.86
+2018	535551	62 Hawker Street	22/06/2018	22/06/2018	-	$1,025,000	1494m	Full transfer	-	-	-	-	-	$1,025,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533319	50 Hawker Street	25/05/2018	25/05/2018	-	$1,000,000	1301m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527501	50 Hawker Street	28/03/2018	-	23/01/2018	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	64	-	Allhomes Record	-	-	-	-	$840,000	0.84
+2018	548533	30 Horrocks Street	11/01/2018	20/12/2018	-	$990,000	823m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553155	22 Perkins Place	14/12/2018	06/02/2019	-	$960,000	1327m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536255	5 Gouger Street	11/05/2018	27/06/2018	01/03/2018	$936,000	1268m	Full transfer	4	2	0	0	2	$936,000	71	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.48
+2018	536403	20 Perkins Place	13/03/2018	25/06/2018	22/11/2017	$910,000	1172m	Full transfer	4	1	-	0	1	$910,000	111	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.63
+2018	549218	21 Beasley Street	11/10/2018	03/12/2018	20/09/2018	$880,000	979m	Full transfer	4	2	-	2	0	$880,000	21	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.49
+2018	537597	54 Brookman Street	26/05/2018	15/07/2018	03/05/2018	$865,000	1137m	Full transfer	4	2	-	2	-	$865,000	23	-	Combined Record	0	-	-	Single residential dwelling	$589,000	0.68
+2018	540032	74 Gouger Street	04/09/2018	-	25/07/2018	$847,000	-	Full transfer	-	-	-	-	-	$847,000	41	-	Allhomes Record	-	-	-	-	$518,000	0.61
+2018	539996	10 Jefferis Street	04/09/2018	-	25/07/2018	$835,000	-	Full transfer	-	-	-	-	-	$835,000	41	-	Allhomes Record	-	-	-	-	$396,000	0.47
+2018	549786	65 Hawker Street	27/10/2018	21/12/2018	18/10/2018	$825,000	737m	Full transfer	3	1	1	1	-	$825,000	9	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.55
+2018	542821	3 Parkin Street	27/06/2018	27/09/2018	20/06/2018	$820,000	742m	Full transfer	3	2	-	5	-	$820,000	7	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.53
+2018	531542	3 Darke Street	01/03/2018	23/04/2018	08/11/2017	$800,000	910m	Full transfer	4	2	-	-	4	$800,000	113	-	Combined Record	196	-	-	Single residential dwelling	$471,000	0.59
+2018	510950	7 Darke Street	08/01/2018	-	21/03/2017	$800,000	-	Full transfer	3	1	1	2	-	$800,000	293	-	Allhomes Record	-	-	-	-	$670,000	0.84
+2018	539428	33 Basedow Street	16/07/2018	07/08/2018	-	$800,000	771m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560526	4 Wyatt Street	03/10/2018	09/05/2019	25/07/2018	$797,500	933m	Full transfer	-	-	-	-	-	$797,500	70	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.51
+2018	550112	35 Brookman Street	22/09/2018	11/12/2018	30/08/2018	$790,000	985m	Full transfer	4	1	-	0	1	$790,000	23	-	Combined Record	-	-	-	Single residential dwelling	$560,000	0.71
+2018	560575	5 Darke Street	13/12/2018	18/02/2019	10/10/2018	$790,000	1044m	Full transfer	4	2	-	0	2	$790,000	64	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.6
+2018	547794	80 Hawker Street	22/10/2018	22/10/2018	-	$780,000	822m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537838	80 Hawker Street	24/07/2018	-	23/01/2018	$780,000	-	Full transfer	-	-	-	-	-	$780,000	182	-	Allhomes Record	-	-	-	-	$469,000	0.6
+2018	532643	            2/7 Darke Street	03/03/2018	17/05/2018	-	$757,500	1057m	Full transfer	-	-	-	-	-	$757,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525491	2/7 Darke Street	04/03/2018	-	08/02/2018	$757,500	-	Full transfer	3	2	-	2	-	$757,500	24	-	Allhomes Record	116	-	-	-	$670,000	0.88
+2018	540289	10 Hawker Street	09/06/2018	22/08/2018	24/05/2018	$750,000	898m	Full transfer	3	1	-	1	0	$750,000	16	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.59
+2018	551241	44 Kavel Street	28/09/2018	15/11/2018	26/07/2018	$730,000	701m	Full transfer	3	0	-	1	0	$730,000	64	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.71
+2018	536638	26 Horrocks Street	03/05/2018	27/06/2018	15/03/2018	$730,000	835m	Full transfer	3	1	-	1	0	$730,000	49	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.71
+2018	548626	77 Beasley Street	24/11/2018	14/01/2019	08/11/2018	$725,000	864m	Full transfer	4	2	-	2	2	$725,000	16	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.62
+2018	528167	20 Howard Street	24/01/2018	25/03/2018	-	$720,000	880m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533926	33 Jefferis Street	17/02/2018	31/05/2018	24/01/2018	$715,000	778m	Full transfer	3	2	-	1	-	$715,000	24	-	Combined Record	140	-	-	Single residential dwelling	$479,000	0.67
+2018	536219	17 Horrocks Street	27/04/2018	26/06/2018	10/04/2018	$711,000	693m	Full transfer	3	1	-	1	1	$711,000	17	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.68
+2018	552389	15 Brookman Street	21/11/2018	21/01/2019	-	$700,000	941m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549337	6 Batchelor Street	05/11/2018	05/11/2018	-	$693,000	729m	Full transfer	-	-	-	-	-	$693,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539995	6 Batchelor Street	04/09/2018	-	25/07/2018	$693,000	-	Full transfer	-	-	-	-	-	$693,000	41	-	Allhomes Record	-	-	-	-	$324,000	0.47
+2018	538266	6 Howard Street	01/08/2018	-	06/04/2018	$680,000	-	Full transfer	-	-	-	-	-	$680,000	117	-	Allhomes Record	-	-	-	-	$383,000	0.56
+2018	550552	6 Howard Street	30/10/2018	30/10/2018	-	$680,000	723m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537641	25 Jefferis Street	09/07/2018	09/07/2018	-	$677,000	866m	Full transfer	-	-	-	-	-	$677,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531727	25 Jefferis Street	09/05/2018	-	26/02/2018	$677,000	-	Full transfer	-	-	-	-	-	$677,000	72	-	Allhomes Record	-	-	-	-	$472,000	0.7
+2018	541062	28 Parkin Street	23/06/2018	29/08/2018	31/05/2018	$670,000	779m	Full transfer	3	1	0	1	0	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.71
+2018	551391	45 Beasley Street	13/11/2018	13/11/2018	06/04/2018	$658,500	778m	Full transfer	-	-	-	-	-	$658,500	221	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.46
+2018	546915	43 Kavel Street	30/11/2018	30/11/2018	25/07/2018	$650,000	734m	Full transfer	-	-	-	-	-	$650,000	128	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.63
+2018	548997	7 Jefferis Street	11/10/2018	14/01/2019	-	$650,000	859m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539687	22 Jefferis Street	16/08/2018	-	06/04/2018	$643,500	-	Full transfer	-	-	-	-	-	$643,500	132	-	Allhomes Record	-	-	-	-	$398,000	0.62
+2018	551398	22 Jefferis Street	13/11/2018	13/11/2018	-	$643,500	699m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544322	12/1 Basedow Street	30/08/2018	17/10/2018	08/08/2018	$468,000	3046m	Full transfer	2	1	-	0	1	$468,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	549129	16/5 Beasley Street	09/10/2018	19/12/2018	19/09/2018	$450,000	14674m	Full transfer	2	1	-	1	-	$450,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	528054	9 Cawker Place	11/01/2018	25/03/2018	-	$410,000	305m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532692	11/1 Basedow Street	24/03/2018	15/05/2018	01/03/2018	$407,000	3046m	Full transfer	1	1	-	0	1	$407,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	535232	6/3 Davies Place	28/06/2018	-	07/06/2018	$378,000	0m	Full transfer	2	1	-	1	0	$378,000	21	-	Allhomes Record	-	-	-	-	-	-
+2018	550141	            3/5 Beasley Street	19/10/2018	14/12/2018	-	$0	14674m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543381	4 Parsons Street	01/08/2018	05/10/2018	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550626	            3/9 Darke Street	14/09/2018	14/12/2018	-	$0	1477m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	556853	9 Kavel Street	27/10/2018	03/04/2019	-	$0	669m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560765	22 Gouger Street	03/07/2018	21/02/2019	-	$0	1214m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549402	100 Batchelor Street	08/02/2018	07/12/2018	-	$0	1267m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+2018	544220	36 Kavel Street	08/03/2018	16/10/2018	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547050	75 Beasley Street	19/09/2018	19/11/2018	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555420	21 Perkins Place	21/05/2018	13/03/2019	-	$0	1053m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549477	11 Darke Street	03/08/2018	02/11/2018	-	$0	908m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530206	14 Hawker Street	16/01/2018	09/04/2018	02/11/2017	$0	1188m	Full transfer	5	3	0	4	0	$0	75	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.62
+2018	558721	154 Beasley Street	13/11/2018	06/05/2019	-	$0	824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550323	113 Gouger Street	17/07/2018	10/12/2018	-	$0	1315m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547408	36 Kavel Street	05/11/2018	19/11/2018	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570365	            1/14 Parsons Street	29/07/2019	27/09/2019	-	$1,210,000	939m	Full transfer	-	-	-	-	-	$1,210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564475	14A Parsons Street	29/07/2019	-	17/04/2019	$1,210,000	0m	Full transfer	4	3	-	2	0	$1,210,000	103	-	Allhomes Record	220	-	-	-	$446,000	0.37
+2019	571155	4 Hubbe Street	19/10/2019	-	24/09/2019	$1,112,000	795m	Full transfer	4	2	-	-	1	$1,112,000	25	-	Allhomes Record	167	-	-	-	$471,000	0.42
+2019	573381	90 Gouger Street	21/11/2019	-	03/10/2019	$1,040,000	1175m	Full transfer	5	3	-	4	0	$1,040,000	49	-	Allhomes Record	-	-	-	-	$570,000	0.55
+2019	570574	58 Hawker Street	16/08/2019	23/09/2019	01/08/2019	$1,020,000	1286m	Full transfer	4	3	-	2	0	$1,020,000	15	-	Combined Record	-	-	-	Single residential dwelling	$649,000	0.64
+2019	555742	100 Batchelor Street	08/02/2019	21/03/2019	22/11/2018	$960,000	1267m	Full transfer	6	4	-	0	4	$960,000	78	-	Combined Record	-	-	-	Cluster housing medium density	$975,000	1.02
+2019	567494	            1/8 Wyatt Place	07/06/2019	22/08/2019	-	$960,000	983m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	560198	8 Wyatt Place	07/06/2019	-	22/10/2018	$960,000	0m	Full transfer	3	3	-	4	0	$960,000	228	-	Allhomes Record	-	-	-	-	$600,000	0.63
+2019	576942	            2/45 Beasley Street	21/12/2019	-	31/10/2019	$888,000	0m	Full transfer	4	2	-	2	0	$888,000	51	-	Allhomes Record	-	-	-	-	-	-
+2019	563754	1 Hawker Street	16/07/2019	-	30/05/2019	$870,000	1049m	Full transfer	-	-	-	-	-	$870,000	47	-	Allhomes Record	-	-	-	-	$324,000	0.37
+2019	554201	2 Howard Street	22/01/2019	01/03/2019	17/10/2018	$870,000	955m	Full transfer	4	3	-	0	2	$870,000	97	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.58
+2019	550488	74 Gouger Street	10/01/2019	10/01/2019	-	$847,000	1041m	Full transfer	-	-	-	-	-	$847,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573887	68 Gouger Street	28/11/2019	-	11/02/2019	$841,500	1024m	Full transfer	-	-	-	-	-	$841,500	290	-	Allhomes Record	-	-	-	-	$483,000	0.57
+2019	571595	8 Perkins Place	05/11/2019	-	20/09/2019	$841,000	932m	Full transfer	4	2	-	1	1	$841,000	46	-	Allhomes Record	-	-	-	-	$550,000	0.65
+2019	548616	10 Jefferis Street	15/01/2019	15/01/2019	-	$835,000	1010m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564795	22 Gouger Street	13/06/2019	12/07/2019	27/11/2018	$830,000	1214m	Full transfer	5	2	1	2	0	$830,000	198	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.63
+2019	572033	20 Brookman Street	26/06/2019	11/10/2019	25/03/2019	$810,000	1014m	Full transfer	4	2	-	-	2	$810,000	93	-	Combined Record	162	-	-	Single residential dwelling	$531,000	0.66
+2019	556495	31 Jefferis Street	10/04/2019	-	11/02/2019	$808,500	1195m	Full transfer	-	-	-	-	-	$808,500	58	-	Allhomes Record	-	-	-	-	$425,000	0.53
+2019	574293	14 Batchelor Street	09/10/2019	15/11/2019	26/06/2019	$790,000	921m	Full transfer	4	2	-	0	1	$790,000	105	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.55
+2019	564640	23 Parkin Street	18/06/2019	18/07/2019	-	$765,000	681m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565720	94 Batchelor Street	08/06/2019	24/07/2019	26/04/2019	$755,000	757m	Full transfer	4	1	1	-	2	$755,000	43	-	Combined Record	145	-	-	Single residential dwelling	$517,000	0.68
+2019	567540	96 Beasley Street	01/07/2019	23/08/2019	23/05/2019	$735,000	1127m	Full transfer	4	2	-	3	-	$735,000	39	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.55
+2019	562126	19 Howard Street	19/03/2019	06/06/2019	28/02/2019	$720,000	775m	Full transfer	4	1	-	1	2	$720,000	19	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.69
+2019	563365	10 Darke Street	24/04/2019	26/06/2019	28/03/2019	$698,000	914m	Full transfer	3	1	-	2	-	$698,000	27	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.7
+2019	573993	14 Jefferis Street	02/12/2019	-	11/02/2019	$682,000	803m	Full transfer	-	-	-	-	-	$682,000	294	-	Allhomes Record	-	-	-	-	$407,000	0.6
+2019	566019	35 Beasley Street	17/05/2019	01/08/2019	-	$675,000	797m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572347	5 Stevenson Street	30/08/2019	14/10/2019	07/08/2019	$665,000	731m	Full transfer	5	2	-	-	2	$665,000	23	-	Combined Record	171	-	-	Single residential dwelling	$497,000	0.75
+2019	572406	24 Batchelor Street	15/11/2019	-	07/11/2019	$655,000	0m	Full transfer	3	1	-	2	0	$655,000	8	-	Allhomes Record	-	-	-	-	$430,000	0.66
+2019	573243	24 Jefferis Street	13/09/2019	28/10/2019	25/07/2019	$646,000	694m	Full transfer	3	1	-	1	0	$646,000	50	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.75
+2019	567585	4 Howard Street	06/07/2019	20/08/2019	13/06/2019	$645,000	748m	Full transfer	3	1	-	2	0	$645,000	23	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.79
+2019	564667	21 Kavel Street	04/06/2019	15/07/2019	03/04/2019	$640,000	715m	Full transfer	3	1	-	1	0	$640,000	62	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.76
+2019	566546	20 Kavel Street	02/07/2019	08/08/2019	03/06/2019	$621,000	658m	Full transfer	2	1	-	0	0	$621,000	29	-	Combined Record	-	-	-	For residential purposes only	$497,000	0.8
+2019	574596	87 Beasley Street	23/09/2019	22/11/2019	-	$610,000	809m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556631	23 Beasley Street	08/03/2019	04/04/2019	-	$542,500	1010m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577211	9/1 Basedow Street	05/12/2019	16/12/2019	-	$430,000	3046m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570562	4 Kavel Street	12/03/2019	24/09/2019	-	$0	788m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570500	9/1 Basedow Street	19/02/2019	23/09/2019	-	$0	3046m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566075	            2/14 Parsons Street	28/06/2019	30/07/2019	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571935	19 Howchin Place	04/06/2019	10/10/2019	-	$0	1032m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575173	15 Howchin Place	27/08/2019	25/11/2019	-	$0	955m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566358	            1/14 Parsons Street	28/06/2019	30/07/2019	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
