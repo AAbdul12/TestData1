@@ -1,0 +1,868 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	74064	7 Kiddle Crescent	07/03/2006	-	24/01/2006	$435,000	1404m	Full transfer	4	1	1	2	4	$435,000	42	-	Allhomes Record	-	-	-	-	$162,000	0.37
+2006	225899	7 Kiddle Crescent	28/02/2006	03/05/2006	-	$434,000	1404m	Partial transfer	-	-	-	-	-	$434,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226042	20 Deamer Crescent	07/03/2006	04/05/2006	23/02/2006	$430,000	1145m	Full transfer	4	1	1	4	-	$430,000	12	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.36
+2006	168877	52 Fullerton Crescent	21/12/2006	06/02/2007	-	$418,000	921m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164288	18 Deamer Crescent	03/07/2006	16/08/2006	03/05/2006	$415,000	998m	Full transfer	5	1	2	1	-	$415,000	61	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.37
+2006	319834	7 Grigg Place	09/05/2006	31/05/2006	-	$415,000	688m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203744	3 Kiddle Crescent	07/06/2006	31/08/2006	20/04/2006	$405,000	840m	Full transfer	4	1	1	2	1	$405,000	48	-	Combined Record	-	-	-	Single residential dwelling	$152,000	0.38
+2006	225918	39 Kiddle Crescent	19/04/2006	15/06/2006	-	$376,000	1046m	Full transfer	-	-	-	-	-	$376,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	78075	2 Baynton Street	19/04/2006	-	23/03/2006	$376,000	1045m	Full transfer	3	1	1	2	-	$376,000	27	-	Allhomes Record	-	-	-	-	$138,000	0.37
+2006	226005	6 Prichard Circuit	05/05/2006	07/07/2006	05/04/2006	$375,000	907m	Full transfer	3	1	1	3	1	$375,000	30	-	Combined Record	-	-	-	Single residential dwelling	$144,000	0.38
+2006	35821	73 Clift Crescent	08/12/2006	11/01/2007	27/10/2006	$352,500	1128m	Full transfer	3	1	-	2	-	$352,500	42	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.37
+2006	168548	46 Hemmings Crescent	20/12/2006	05/03/2007	-	$352,000	699m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34613	59 Twamley Crescent	26/08/2006	27/09/2006	-	$349,000	906m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164946	20 Fullerton Crescent	28/08/2006	13/10/2006	13/07/2006	$346,000	1044m	Full transfer	3	1	-	2	-	$346,000	46	-	Combined Record	-	-	-	Single residential dwelling	$151,000	0.44
+2006	317904	1 Kiddle Crescent	16/06/2006	16/08/2006	-	$339,000	1036m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225925	24 Grimshaw Street	28/02/2006	07/04/2006	-	$338,000	945m	Full transfer	-	-	-	-	-	$338,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164286	63 Clift Crescent	27/06/2006	16/08/2006	-	$336,250	776m	Full transfer	-	-	-	-	-	$336,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	426285	65 Prichard Circuit	23/11/2006	08/05/2014	-	$335,000	850m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225912	2 Morduant Place	25/05/2006	11/07/2006	26/04/2006	$335,000	970m	Full transfer	3	1	-	2	-	$335,000	29	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.39
+2006	202584	7 Tuck Place	08/02/2006	31/07/2006	-	$335,000	737m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164945	18 Harford Street	08/08/2006	11/10/2006	20/07/2006	$329,000	732m	Full transfer	3	1	1	1	-	$329,000	19	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.45
+2006	225927	28 Hemmings Crescent	28/03/2006	10/05/2006	10/02/2006	$325,000	790m	Full transfer	4	1	1	-	1	$325,000	46	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.4
+2006	225934	7 Laker Crescent	17/01/2006	28/02/2006	-	$325,000	1127m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169621	59 Prichard Circuit	06/10/2006	14/11/2006	06/09/2006	$322,000	845m	Full transfer	3	1	-	1	2	$322,000	30	-	Combined Record	-	-	-	Single residential dwelling	$144,000	0.45
+2006	229538	38 Deamer Crescent	18/08/2006	23/10/2006	26/07/2006	$320,000	741m	Full transfer	3	1	-	-	-	$320,000	23	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.46
+2006	319820	15 Casson Street	12/05/2006	13/07/2006	-	$319,950	998m	Full transfer	-	-	-	-	-	$319,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229459	64 Chauncy Crescent	01/09/2006	24/10/2006	-	$317,000	745m	Full transfer	-	-	-	-	-	$317,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319829	3 Franc Place	01/04/2006	25/05/2006	-	$315,000	697m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32984	4 Cardell Place	27/10/2006	05/12/2006	-	$310,000	1000m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203745	17 Baynton Street	17/07/2006	01/09/2006	-	$310,000	902m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226075	44 Fullerton Crescent	23/02/2006	25/05/2006	-	$310,000	815m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225933	6 Austral Place	14/03/2006	10/05/2006	-	$310,000	936m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	315658	65 Rohan Street	13/10/2006	05/12/2006	-	$305,000	496m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225893	3 Hemmings Crescent	05/06/2006	11/07/2006	-	$305,000	860m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168815	1 Mack Street	16/11/2006	23/03/2007	16/10/2006	$300,000	551m	Full transfer	3	1	-	1	-	$300,000	31	-	Combined Record	-	-	-	Medium density dwelling	$135,000	0.45
+2006	226113	28 Longman Street	29/03/2006	28/04/2006	-	$300,000	746m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226072	3/40 Fullerton Crescent	01/02/2006	03/03/2006	-	$300,000	4673m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	119642	65 Twamley Crescent	28/09/2006	31/10/2006	-	$295,000	716m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226021	20 Chauncy Crescent	03/03/2006	05/04/2006	03/02/2006	$295,000	716m	Full transfer	3	1	-	-	1	$295,000	28	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.5
+2006	313697	39 Fullerton Crescent	11/03/2006	03/05/2006	-	$290,500	815m	Full transfer	-	-	-	-	-	$290,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226106	70 Twamley Crescent	18/05/2006	27/06/2006	21/04/2006	$290,000	657m	Full transfer	3	1	-	-	1	$290,000	27	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.53
+2006	319827	9 Prichard Circuit	28/04/2006	04/07/2006	-	$287,000	836m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203746	83 Chauncy Crescent	09/08/2006	29/08/2006	17/07/2006	$285,000	714m	Full transfer	3	1	-	1	-	$285,000	23	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.54
+2006	169029	95 Twamley Crescent	16/12/2006	08/02/2007	-	$285,000	835m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226018	28 Chauncy Crescent	21/02/2006	17/03/2006	-	$280,000	694m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202583	36 McBurney Crescent	15/06/2006	03/08/2006	10/05/2006	$275,000	848m	Full transfer	2	1	-	-	1	$275,000	36	-	Combined Record	-	-	-	Single residential dwelling	$142,000	0.52
+2006	34612	5 Rohan Street	09/06/2006	25/09/2006	26/04/2006	$275,000	619m	Full transfer	3	1	-	-	2	$275,000	44	-	Combined Record	-	-	-	Medium density dwelling	$148,000	0.54
+2006	226057	21 Fullerton Crescent	31/01/2006	16/03/2006	-	$275,000	987m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225971	1 Mellish Place	27/03/2006	15/05/2006	-	$270,000	1088m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	226071	10/40 Fullerton Crescent	20/02/2006	16/03/2006	16/11/2005	$270,000	4673m	Full transfer	3	1	-	1	-	$270,000	96	-	Combined Record	-	-	-	Multiple unit dwelling	$587,000	2.17
+2006	88295	40 Rohan Street	16/11/2006	-	13/09/2006	$269,000	566m	Full transfer	3	1	-	-	1	$269,000	64	-	Allhomes Record	-	-	-	-	$135,000	0.5
+2006	164287	130 Clift Crescent	06/07/2006	17/08/2006	-	$265,000	824m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	226000	28 Rohan Street	10/02/2006	10/04/2006	-	$264,000	484m	Full transfer	-	-	-	-	-	$264,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	225914	35 Baynton Street	13/01/2006	06/02/2006	-	$260,000	828m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	10505	            2/26 Grimshaw Street	14/11/2006	12/12/2006	-	$260,000	1043m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34984	9/32 Fullerton Crescent	20/07/2006	24/08/2006	-	$239,000	3535m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37455	13 Pogney Place	26/06/2006	18/09/2006	-	$239,000	766m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	235916	5/54 Deamer Crescent	21/12/2006	25/02/2008	-	$225,000	3175m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34983	23 McBurney Crescent	13/07/2006	25/08/2006	-	$108,333	858m	Partial transfer	-	-	-	-	-	$108,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168356	62 Fullerton Crescent	19/07/2006	07/08/2006	-	$80,000	868m	Partial transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37533	52 Chauncy Crescent	25/07/2006	18/09/2006	-	$3,650	805m	Partial transfer	-	-	-	-	-	$3,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203285	29 Laker Crescent	13/04/2006	17/01/2007	-	$0	1046m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	232896	146 Clift Crescent	05/10/2006	20/11/2007	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168033	4 Laker Crescent	26/09/2006	18/10/2007	-	$0	808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165134	38 Beattie Crescent	05/12/2006	16/02/2007	-	$0	940m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	3496	            64 Chauncey Crescent	01/09/2006	-	14/07/2006	-	745m	Full transfer	3	1	-	1	-	-	49	-	Allhomes Record	-	-	-	-	-	-
+2006	169622	17 Fullerton Crescent	15/09/2006	14/11/2006	-	-	816m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203507	73 Twamley Crescent	26/08/2006	13/09/2006	-	-	813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225944	84 Hemmings Crescent	11/04/2006	23/05/2006	-	-	943m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229516	38 Prichard Circuit	26/07/2006	29/10/2006	-	-	870m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225901	8 Kiddle Crescent	26/04/2006	10/07/2006	-	-	1160m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168767	7 Zadow Place	21/09/2006	04/10/2006	-	-	447m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	270410	10 Morduant Place	16/04/2006	14/09/2010	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	235187	34 Chauncy Crescent	13/12/2006	05/02/2008	-	-	1029m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	4150	            65 Twamley Street	28/09/2006	-	02/09/2006	-	-	Full transfer	3	1	-	-	-	-	26	-	Allhomes Record	-	-	-	-	-	-
+2006	226031	2 Leakey Place	06/03/2006	04/04/2006	-	-	921m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	225950	9 Casson Street	23/01/2006	30/03/2006	-	-	946m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225913	2 Morduant Place	11/04/2006	15/06/2006	-	-	970m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235126	41 Grimshaw Street	12/12/2007	08/02/2008	28/09/2007	$515,000	880m	Full transfer	5	2	-	2	-	$515,000	75	-	Combined Record	-	-	-	Single residential dwelling...	$138,000	0.27
+2007	235509	57 Twamley Crescent	01/12/2007	17/03/2008	-	$462,500	1090m	Full transfer	-	-	-	-	-	$462,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230264	9 Morduant Place	19/10/2007	24/04/2008	01/08/2007	$455,000	1026m	Full transfer	4	1	1	2	1	$455,000	79	-	Combined Record	-	-	-	Single residential dwelling	$125,000	0.27
+2007	168515	14 Grigg Place	08/01/2007	08/03/2007	-	$438,500	893m	Full transfer	-	-	-	-	-	$438,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235446	2 McBurney Crescent	17/12/2007	12/03/2008	-	$437,500	978m	Full transfer	-	-	-	-	-	$437,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232863	52 Chauncy Crescent	22/10/2007	15/11/2007	-	$426,000	805m	Full transfer	-	-	-	-	-	$426,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231023	38 Casson Street	14/11/2007	13/12/2007	-	$425,000	1271m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165135	29 Laker Crescent	10/01/2007	16/02/2007	20/09/2006	$415,000	1046m	Full transfer	3	1	1	2	-	$415,000	112	-	Combined Record	-	-	-	Single residential dwelling	$171,000	0.41
+2007	235188	51 Deamer Crescent	21/12/2007	08/02/2008	-	$410,000	874m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	318189	62 Fullerton Crescent	08/08/2007	05/09/2007	-	$410,000	868m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119797	33 Clift Crescent	28/02/2007	02/04/2007	31/01/2007	$408,000	972m	Full transfer	3	1	1	2	2	$408,000	28	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.34
+2007	314541	44 Rohan Street	20/10/2007	05/12/2007	-	$407,500	468m	Full transfer	-	-	-	-	-	$407,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	318164	57 Deamer Crescent	09/03/2007	13/04/2007	-	$405,000	964m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231789	29 Deamer Crescent	05/11/2007	19/12/2007	10/09/2007	$400,000	735m	Full transfer	3	1	-	1	-	$400,000	56	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.39
+2007	166528	68 Fullerton Crescent	04/07/2007	21/08/2007	28/05/2007	$399,999	834m	Full transfer	4	1	1	-	2	$399,999	37	-	Combined Record	-	-	-	Single residential dwelling	$177,000	0.44
+2007	316409	13 Grigg Place	21/03/2007	03/05/2007	-	$399,000	690m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167460	4 Mellish Place	06/08/2007	05/09/2007	19/06/2007	$395,000	934m	Full transfer	4	1	-	3	-	$395,000	48	-	Combined Record	-	-	-	Single residential dwelling...	$169,000	0.43
+2007	37021	138 Clift Crescent	26/05/2007	20/07/2007	02/05/2007	$395,000	1071m	Full transfer	3	1	-	1	1	$395,000	24	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.39
+2007	307057	6 Cardell Place	26/05/2007	25/07/2007	-	$393,000	1037m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168966	7 Casson Street	30/01/2007	22/03/2007	-	$390,000	903m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	318231	22 Fullerton Crescent	07/09/2007	17/10/2007	-	$388,000	843m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	318143	30 Beattie Crescent	06/07/2007	22/08/2007	-	$387,500	749m	Full transfer	-	-	-	-	-	$387,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166239	28 Laker Crescent	13/07/2007	14/08/2007	12/06/2007	$383,000	903m	Full transfer	3	1	-	4	-	$383,000	31	-	Combined Record	-	-	-	Single residential dwelling	$169,000	0.44
+2007	202644	154 Clift Crescent	21/08/2007	08/10/2007	-	$372,000	836m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120826	53 Deamer Crescent	29/03/2007	16/05/2007	-	$372,000	878m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234408	4/54 Deamer Crescent	30/11/2007	14/01/2008	-	$370,000	3175m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231394	70 Twamley Crescent	28/09/2007	21/11/2007	12/09/2007	$365,000	657m	Full transfer	3	1	-	-	2	$365,000	16	-	Combined Record	-	-	-	Single residential dwelling	$162,000	0.44
+2007	231186	48 Fullerton Crescent	19/11/2007	16/01/2008	26/10/2007	$365,000	735m	Full transfer	3	1	-	1	-	$365,000	24	-	Combined Record	-	-	-	Single residential dwelling	$126,000	0.35
+2007	230226	35 Baynton Street	27/11/2007	31/01/2008	-	$364,990	828m	Full transfer	-	-	-	-	-	$364,990	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	168017	28 Baynton Street	27/07/2007	16/10/2007	-	$360,000	805m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408642	8/54 Deamer Crescent	19/10/2007	26/11/2007	04/10/2007	$356,000	3175m	Full transfer	3	1	-	1	-	$356,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	233227	12 Leakey Place	16/11/2007	08/01/2008	31/03/2008	$355,000	1039m	Full transfer	3	1	1	1	0	$355,000	-	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.43
+2007	166921	18 Laker Crescent	25/06/2007	14/08/2007	13/06/2007	$350,000	751m	Full transfer	3	1	-	4	1	$350,000	12	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.46
+2007	314722	7 Gonzaga Place	29/09/2007	13/12/2007	-	$347,000	705m	Full transfer	-	-	-	-	-	$347,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167802	18 Beattie Crescent	07/08/2007	18/09/2007	10/07/2007	$345,000	697m	Full transfer	3	1	1	2	-	$345,000	28	-	Combined Record	-	-	-	Single residential dwelling	$128,000	0.37
+2007	307139	8 Zadow Place	30/06/2007	14/08/2007	-	$345,000	443m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	316327	46 Fullerton Crescent	22/02/2007	02/04/2007	-	$343,500	704m	Full transfer	-	-	-	-	-	$343,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231283	26 Harford Street	03/10/2007	25/11/2007	-	$335,000	706m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2007	121832	13 Vidal Place	03/08/2007	25/09/2007	21/06/2007	$331,500	1090m	Full transfer	3	1	-	-	2	$331,500	43	-	Combined Record	-	-	-	Single residential dwelling...	$154,000	0.46
+2007	231770	36 Deamer Crescent	30/06/2007	04/06/2008	-	$330,000	918m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	304310	142 Clift Crescent	28/07/2007	27/09/2007	-	$330,000	678m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	304047	36 Chauncy Crescent	10/03/2007	20/04/2007	-	$330,000	730m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202772	4 Cottrell Place	04/06/2007	08/10/2007	30/04/2007	$329,000	419m	Full transfer	3	1	-	-	1	$329,000	35	-	Combined Record	-	-	-	Medium density dwelling	$132,000	0.4
+2007	235186	46 Rohan Street	21/11/2007	04/02/2008	-	$328,000	475m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	315928	28 McBurney Crescent	18/04/2007	18/07/2007	-	$328,000	691m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232447	8 Dawbin Place	23/10/2007	14/01/2008	-	$315,000	940m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	121355	17 Baynton Street	22/02/2007	03/05/2007	08/02/2007	$311,500	902m	Full transfer	3	1	-	2	2	$311,500	14	-	Combined Record	-	-	-	Single residential dwelling	$111,000	0.36
+2007	165313	18 Chauncy Crescent	08/01/2007	14/02/2007	03/11/2006	$310,000	724m	Full transfer	3	1	-	2	-	$310,000	66	-	Combined Record	-	-	-	Single residential dwelling	$154,000	0.5
+2007	35369	4 Leakey Place	20/03/2007	19/06/2007	-	$310,000	827m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120070	4 Vidal Place	07/03/2007	20/04/2007	-	$305,000	807m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	33815	5 Baynton Street	06/04/2007	24/05/2007	22/02/2007	$300,000	745m	Full transfer	3	1	-	-	2	$300,000	43	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.46
+2007	164757	4 Oakey Place	12/03/2007	09/07/2007	13/02/2007	$299,000	582m	Full transfer	3	1	-	-	1	$299,000	27	-	Combined Record	-	-	-	Medium density dwelling	$131,000	0.44
+2007	24024	3/10 Zadow Place	19/02/2007	-	31/03/2008	$295,000	3019m	Full transfer	3	1	0	1	0	$295,000	-	-	Allhomes Record	-	-	-	-	$461,000	1.56
+2007	166753	11/40 Fullerton Crescent	02/05/2007	02/08/2007	-	$290,000	4673m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	316374	6 Pogney Place	26/03/2007	15/05/2007	-	$288,000	366m	Full transfer	-	-	-	-	-	$288,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	167311	13 Chauncy Crescent	09/03/2007	09/05/2007	-	$287,000	787m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	10259	            2/26 Grimshaw Street	09/02/2007	08/03/2007	-	$285,000	1043m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36420	28 Fullerton Crescent	24/04/2007	03/07/2007	-	$275,000	320m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	121127	6/32 Fullerton Crescent	16/06/2007	13/09/2007	-	$245,000	3535m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	165919	62 Twamley Crescent	10/07/2007	02/08/2007	-	$220,000	732m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202892	20 Wentcher Place	11/04/2007	13/06/2007	-	$0	995m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167519	16 Grigg Place	26/07/2007	05/09/2007	-	$0	783m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232937	29 Deamer Crescent	24/06/2007	19/12/2007	-	$0	735m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164431	9 Harford Street	20/01/2007	13/03/2007	-	$0	766m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35957	18 Laker Crescent	19/02/2007	06/07/2007	-	$0	751m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232556	63 Fullerton Crescent	29/04/2007	07/11/2007	-	$0	868m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36410	55 Clift Crescent	09/03/2007	02/07/2007	28/02/2007	$0	1006m	Full transfer	3	1	1	-	1	$0	9	-	Combined Record	-	-	-	Single residential dwelling	$138,000	1.56
+2007	166080	24 Grigg Place	02/07/2007	09/08/2007	-	$0	1026m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166179	24 Kiddle Crescent	02/07/2007	31/07/2007	01/06/2007	$0	891m	Full transfer	3	1	1	2	-	$0	31	-	Combined Record	-	-	-	Single residential dwelling	$160,000	1.56
+2007	122045	12 Mack Street	15/08/2007	24/09/2007	-	$0	510m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	97358	4 Howson Place	29/06/2007	04/12/2007	-	$0	682m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2007	238408	61 Fullerton Crescent	19/05/2007	17/04/2009	-	-	818m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233854	31 Grimshaw Street	19/11/2007	19/06/2008	-	-	823m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233669	24 Deamer Crescent	24/12/2007	04/06/2008	-	-	1088m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235508	5 Ackland Place	28/09/2007	19/03/2008	-	-	1029m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	21623	            13 Chauncey Crescent	09/03/2007	-	13/01/2007	-	787m	Full transfer	2	1	-	-	2	-	55	-	Allhomes Record	-	-	-	-	-	-
+2008	235576	35 Grimshaw Street	19/02/2008	07/05/2008	11/12/2007	$470,000	829m	Full transfer	4	1	1	4	-	$470,000	70	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.41
+2008	24666	66 Grimshaw Street	06/06/2008	-	06/05/2008	$430,000	570m	Full transfer	3	1	1	2	0	$430,000	31	-	Allhomes Record	-	-	-	-	$209,000	0.49
+2008	17681	            2/34 Hemmings Crescent	06/06/2008	12/08/2008	-	$430,000	1074m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239325	85 Twamley Crescent	18/09/2008	13/11/2008	-	$415,000	848m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320369	55 Kiddle Crescent	22/04/2008	06/06/2008	-	$410,000	1147m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229887	13 Baynton Street	26/02/2008	27/05/2008	-	$409,500	805m	Full transfer	-	-	-	-	-	$409,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	147985	31 Deamer Crescent	29/02/2008	10/04/2008	24/01/2008	$409,000	777m	Full transfer	4	1	-	2	-	$409,000	36	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.45
+2008	321908	3 Bale Place	17/09/2008	17/11/2008	-	$400,000	1045m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322788	10 Rohan Street	21/11/2008	31/01/2009	-	$387,000	452m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	242222	6 McBurney Crescent	19/12/2008	31/01/2009	19/11/2008	$385,000	1156m	Full transfer	3	1	0	2	2	$385,000	30	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.53
+2008	229933	3 Grigg Place	27/05/2008	15/07/2008	-	$380,000	809m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25353	44 Deamer Crescent	19/02/2008	-	09/11/2007	$380,000	1155m	Full transfer	3	1	-	2	-	$380,000	102	-	Allhomes Record	-	-	-	-	$227,000	0.6
+2008	242470	45 Deamer Crescent	03/12/2008	09/02/2009	08/09/2008	$378,500	983m	Full transfer	3	1	-	2	1	$378,500	86	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.55
+2008	322919	68 Hemmings Crescent	12/12/2008	11/02/2009	-	$377,500	914m	Full transfer	-	-	-	-	-	$377,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240025	38 Beattie Crescent	25/09/2008	14/10/2008	-	$370,000	940m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242329	8 Wentcher Place	03/12/2008	05/02/2009	14/11/2008	$365,000	803m	Full transfer	3	1	0	2	2	$365,000	19	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.53
+2008	321909	7 McBurney Crescent	29/09/2008	18/11/2008	-	$365,000	934m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241955	74 Hemmings Crescent	19/12/2008	21/01/2009	09/10/2008	$361,500	951m	Full transfer	3	1	-	2	-	$361,500	71	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.57
+2008	240961	85 Chauncy Crescent	25/07/2008	16/12/2008	14/04/2008	$360,000	741m	Full transfer	3	1	-	-	2	$360,000	102	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.51
+2008	241102	21 Vidal Street	06/11/2008	22/12/2008	13/08/2008	$357,000	778m	Full transfer	3	1	-	2	-	$357,000	85	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.52
+2008	233803	23 Mack Street	16/01/2008	01/05/2008	-	$352,000	582m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	237600	37 Vidal Street	03/11/2008	08/01/2009	20/08/2008	$350,000	725m	Full transfer	3	1	-	1	-	$350,000	75	-	Combined Record	-	-	-	Single residential dwelling	$151,000	0.43
+2008	237472	33 Vidal Street	13/10/2008	08/12/2008	04/09/2008	$350,000	773m	Full transfer	3	1	-	2	1	$350,000	39	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.53
+2008	240379	40 Deamer Crescent	10/10/2008	24/11/2008	15/07/2008	$350,000	751m	Full transfer	3	1	-	-	2	$350,000	87	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.53
+2008	243991	91 Chauncy Crescent	02/12/2008	28/05/2009	07/10/2008	$349,750	692m	Full transfer	3	1	-	1	1	$349,750	56	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.49
+2008	234663	17 Grimshaw Street	14/01/2008	19/03/2008	-	$349,000	770m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235447	64 Beattie Crescent	04/02/2008	12/03/2008	-	$340,000	921m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230602	34 Twamley Crescent	17/03/2008	21/04/2008	07/01/2008	$335,500	723m	Full transfer	3	1	-	-	-	$335,500	70	-	Combined Record	-	-	-	For residential purposes only	$190,000	0.57
+2008	321121	49 Prichard Circuit	28/07/2008	04/09/2008	-	$335,000	759m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240960	4 Pogney Place	09/11/2008	21/12/2008	-	$332,000	366m	Full transfer	-	-	-	-	-	$332,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	243377	22 Rohan Street	20/11/2008	16/03/2009	24/07/2008	$327,500	499m	Full transfer	3	1	-	2	-	$327,500	119	-	Combined Record	-	-	-	Medium density dwelling	$159,000	0.49
+2008	34166	4 Pogney Place	03/11/2008	-	21/10/2008	$322,000	366m	Full transfer	3	1	-	-	2	$322,000	13	-	Allhomes Record	-	-	-	-	$148,000	0.46
+2008	321850	5 Hourigan Place	05/09/2008	11/11/2008	-	$315,000	366m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	321120	25 McBurney Crescent	01/08/2008	02/09/2008	-	$314,000	815m	Full transfer	-	-	-	-	-	$314,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243094	12 Vidal Street	18/12/2008	13/03/2009	-	$300,000	922m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	233275	59 Deamer Crescent	07/01/2008	29/04/2008	-	$210,000	819m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239817	4 Gonzaga Place	27/04/2008	30/09/2008	-	$140,000	851m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237599	16 Casson Street	12/12/2008	07/01/2009	-	-	924m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	229618	76 Chauncy Crescent	06/05/2008	01/08/2008	-	-	947m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233362	2 Leakey Place	15/05/2008	16/06/2008	-	-	921m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	231773	5 Fullerton Crescent	08/05/2008	03/06/2008	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233361	48 Grimshaw Street	23/05/2008	16/06/2008	-	-	1092m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237362	37 Vidal Street	28/05/2008	21/08/2008	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	270303	10 Harford Street	08/07/2008	03/09/2010	-	-	799m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229619	75 Twamley Crescent	07/01/2008	30/07/2008	-	-	829m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238297	64 Twamley Crescent	21/11/2008	07/04/2009	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237877	9 Hemmings Crescent	03/08/2008	11/09/2008	-	-	990m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240460	2/54 Deamer Crescent	23/07/2008	25/09/2008	-	-	3175m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241748	6 Mary Mackillop Place	16/04/2009	20/05/2009	-	$575,000	795m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250004	37 Deamer Crescent	28/08/2009	18/11/2009	01/01/2009	$540,000	1351m	Full transfer	5	1	1	-	2	$540,000	239	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.41
+2009	324652	43 Fullerton Crescent	24/09/2009	22/10/2009	-	$485,000	817m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323227	73 Chauncy Crescent	06/02/2009	23/03/2009	-	$480,000	719m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250815	16 Kiddle Crescent	12/08/2009	13/12/2009	28/07/2009	$467,500	966m	Full transfer	3	1	1	2	0	$467,500	15	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.47
+2009	246414	35 Deamer Crescent	07/08/2009	03/09/2009	21/06/2009	$465,000	962m	Full transfer	4	1	1	2	-	$465,000	47	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.46
+2009	250152	6 Tuck Place	19/09/2009	26/11/2009	20/08/2009	$457,500	811m	Full transfer	3	1	1	2	-	$457,500	30	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.49
+2009	324803	33 Kiddle Crescent	09/09/2009	10/11/2009	-	$456,000	930m	Full transfer	-	-	-	-	-	$456,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263099	25 Deamer Crescent	11/11/2009	03/03/2010	15/09/2009	$455,000	1080m	Full transfer	4	1	1	2	-	$455,000	57	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.48
+2009	251611	19 Chauncy Crescent	19/09/2009	21/12/2009	-	$441,000	916m	Full transfer	-	-	-	-	-	$441,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	327347	8 Baynton Street	30/11/2009	25/01/2010	-	$432,000	849m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324651	14 Grimshaw Street	19/03/2009	20/10/2009	-	$430,000	898m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247909	4 McBurney Crescent	28/08/2009	14/10/2009	30/07/2009	$430,000	926m	Full transfer	3	1	0	2	0	$430,000	29	-	Combined Record	-	-	-	Single residential dwelling	$237,000	0.55
+2009	251959	56 Beattie Crescent	30/09/2009	22/12/2009	02/09/2009	$425,000	1130m	Full transfer	4	1	1	-	-	$425,000	28	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.47
+2009	241406	58 Twamley Crescent	24/03/2009	06/05/2009	21/10/2008	$420,000	839m	Full transfer	3	1	0	2	0	$420,000	154	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.52
+2009	263092	26 Casson Street	27/11/2009	15/02/2010	15/10/2009	$415,000	1198m	Full transfer	3	1	-	1	-	$415,000	43	-	Combined Record	-	-	-	Single residential dwelling...	$220,000	0.53
+2009	324311	46 Rohan Street	29/07/2009	16/09/2009	-	$414,000	475m	Full transfer	-	-	-	-	-	$414,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	325761	9 Hemmings Crescent	11/02/2009	23/03/2010	-	$410,500	990m	Full transfer	-	-	-	-	-	$410,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324102	32 Beattie Crescent	13/06/2009	25/08/2009	-	$410,000	893m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241610	25 Vidal Street	16/04/2009	15/05/2009	16/02/2009	$410,000	1086m	Full transfer	4	1	1	2	-	$410,000	59	-	Combined Record	-	-	-	Single residential dwelling	$204,000	0.5
+2009	245166	5 Bale Place	20/04/2009	16/06/2009	12/01/2009	$410,000	1401m	Full transfer	3	1	1	2	1	$410,000	98	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.55
+2009	323421	31 Grimshaw Street	24/04/2009	05/06/2009	-	$407,000	823m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323846	28 Laker Crescent	24/06/2009	03/08/2009	-	$406,000	903m	Full transfer	-	-	-	-	-	$406,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250002	5 Grimshaw Street	11/09/2009	17/11/2009	21/08/2009	$405,000	820m	Full transfer	3	1	0	2	0	$405,000	21	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.45
+2009	322637	4 Hemmings Crescent	09/04/2009	22/05/2009	-	$405,000	861m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323663	34 Chauncy Crescent	15/06/2009	22/07/2009	-	$399,000	1029m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323686	10 Casson Street	04/06/2009	13/07/2009	-	$399,000	911m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	128580	16 Deamer Crescent	28/08/2009	-	14/07/2009	$395,100	807m	Full transfer	3	1	1	-	2	$395,100	45	-	Allhomes Record	-	-	-	-	$206,000	0.52
+2009	324768	14 Harford Street	19/09/2009	06/11/2009	-	$395,000	758m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263093	40 Casson Street	13/11/2009	03/02/2010	14/10/2009	$395,000	763m	Full transfer	3	1	-	2	-	$395,000	30	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.46
+2009	139021	9 Cottrell Place	01/11/2009	-	03/10/2009	$395,000	373m	Full transfer	3	1	1	-	2	$395,000	29	-	Allhomes Record	-	-	-	-	$155,000	0.39
+2009	248809	5/40 Fullerton Crescent	14/09/2009	30/10/2009	-	$395,000	4673m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241405	16 Harford Street	19/03/2009	05/05/2009	-	$393,000	741m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250816	39 Baynton Street	21/10/2009	07/12/2009	-	$391,000	768m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323845	17 Baynton Street	18/04/2009	06/08/2009	-	$380,000	902m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238825	34 Deamer Crescent	20/01/2009	29/04/2009	-	$380,000	790m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261423	11 Harford Street	22/11/2009	27/01/2010	-	$375,000	723m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249304	5 Baynton Street	19/08/2009	02/10/2009	18/05/2009	$367,000	745m	Full transfer	3	1	-	-	2	$367,000	93	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.5
+2009	250003	5 Mack Street	11/08/2009	18/11/2009	08/07/2009	$365,000	352m	Full transfer	3	1	1	1	1	$365,000	34	-	Combined Record	-	-	-	Medium density dwelling	$163,000	0.45
+2009	256377	29 Prichard Circuit	23/12/2009	14/04/2010	-	$360,000	746m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	245373	11/40 Fullerton Crescent	01/05/2009	07/08/2009	-	$358,500	4673m	Full transfer	-	-	-	-	-	$358,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245374	8/32 Fullerton Crescent	03/07/2009	03/08/2009	-	$356,000	3535m	Full transfer	-	-	-	-	-	$356,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	251700	7 Ames Place	27/07/2009	05/01/2010	-	$355,000	672m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2009	244814	9/32 Fullerton Crescent	25/05/2009	02/07/2009	-	$353,000	3535m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	322593	12 Baynton Street	25/03/2009	15/05/2009	-	$350,000	798m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324953	6 Cottrell Place	18/09/2009	26/11/2009	-	$345,580	405m	Full transfer	-	-	-	-	-	$345,580	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	245285	6 Gonzaga Place	25/06/2009	29/07/2009	-	$332,500	708m	Full transfer	-	-	-	-	-	$332,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325497	59 Rohan Street	23/12/2009	16/02/2010	-	$325,000	414m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	247910	69 Rohan Street	03/06/2009	14/10/2009	-	$299,000	504m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2009	243990	17 Mack Street	11/02/2009	27/05/2009	13/11/2008	$295,000	371m	Full transfer	3	1	-	-	1	$295,000	90	-	Combined Record	-	-	-	Medium density dwelling	$163,000	0.55
+2009	245284	10 Leakey Place	16/06/2009	30/07/2009	-	$66,600	678m	Full transfer	-	-	-	-	-	$66,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251699	2 Morduant Place	12/11/2009	05/01/2010	-	$20	970m	Full transfer	-	-	-	-	-	$20	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	300214	10 Fullerton Crescent	27/08/2009	19/07/2011	-	-	705m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245167	12 Twamley Crescent	20/04/2009	19/06/2009	-	-	706m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246211	15 McBurney Crescent	22/07/2009	28/08/2009	-	-	846m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246561	16 Deamer Crescent	31/07/2009	08/09/2009	-	-	807m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261420	11 Morduant Place	05/09/2009	28/02/2010	-	-	1176m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254687	42 Rohan Street	22/12/2009	11/03/2010	-	-	462m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	270302	23 Hemmings Crescent	30/05/2009	03/09/2010	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244977	11 Morduant Place	08/02/2009	14/07/2009	-	-	1176m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241404	36 Chauncy Crescent	19/03/2009	08/05/2009	-	-	730m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263630	18 Chauncy Crescent	12/01/2009	25/05/2010	-	-	724m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258690	2 Pelloe Place	25/03/2010	10/05/2010	12/02/2010	$700,000	1057m	Full transfer	6	2	1	4	-	$700,000	41	-	Combined Record	-	-	-	Single residential dwelling...	$246,000	0.35
+2010	328235	22 Deamer Crescent	01/04/2010	25/06/2010	-	$495,000	1175m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263862	18 Deamer Crescent	05/03/2010	25/05/2010	10/11/2009	$490,000	998m	Full transfer	5	2	1	1	-	$490,000	115	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.53
+2010	265330	58 Deamer Crescent	17/08/2010	-	22/07/2010	$490,000	737m	Full transfer	4	1	1	2	-	$490,000	26	-	Allhomes Record	-	-	-	-	$265,000	0.54
+2010	328904	29 Casson Street	30/08/2010	07/11/2010	-	$485,000	963m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328608	22 Kiddle Crescent	09/07/2010	26/08/2010	-	$485,000	1001m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263356	22 Longman Street	18/06/2010	-	29/04/2010	$470,000	987m	Full transfer	4	1	1	2	-	$470,000	50	-	Allhomes Record	-	-	-	-	$265,000	0.56
+2010	329620	3 Tuck Place	22/10/2010	20/01/2011	-	$470,000	779m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273584	65 Hemmings Crescent	02/08/2010	15/10/2010	27/07/2010	$470,000	972m	Full transfer	3	1	1	2	-	$470,000	6	-	Combined Record	-	-	-	Single residential dwelling	$244,000	0.52
+2010	329622	32 Grimshaw Street	27/10/2010	19/01/2011	-	$467,500	1324m	Full transfer	-	-	-	-	-	$467,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329388	14 Morduant Place	09/10/2010	25/11/2010	-	$465,000	1056m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329715	24 Fullerton Crescent	17/11/2010	24/01/2011	-	$465,000	941m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	326581	65 Deamer Crescent	24/03/2010	18/05/2010	-	$449,950	787m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328444	71 Twamley Crescent	25/06/2010	29/07/2010	-	$442,000	751m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	325495	23 Kiddle Crescent	07/01/2010	15/02/2010	-	$440,000	942m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329793	5 Casson Street	18/12/2010	02/02/2011	-	$431,000	839m	Full transfer	-	-	-	-	-	$431,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	330224	14 Beattie Crescent	23/12/2010	17/02/2011	-	$430,000	671m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274658	72 Chauncy Crescent	12/10/2010	22/11/2010	17/07/2010	$426,000	763m	Full transfer	3	1	-	1	2	$426,000	87	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.58
+2010	328609	5 Fullerton Crescent	16/06/2010	25/08/2010	-	$425,000	753m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269502	1/34 Hemmings Crescent	09/07/2010	09/08/2010	-	$421,999	1074m	Full transfer	-	-	-	-	-	$421,999	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258325	74 Chauncy Crescent	27/02/2010	03/05/2010	04/02/2010	$420,000	779m	Full transfer	4	1	-	1	2	$420,000	23	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.59
+2010	286041	2 Cardell Place	09/12/2010	07/03/2011	03/11/2010	$417,500	1011m	Full transfer	3	1	-	2	-	$417,500	36	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.63
+2010	275809	46 Casson Street	03/11/2010	06/01/2011	11/08/2010	$416,000	730m	Full transfer	3	1	-	2	-	$416,000	84	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.64
+2010	258324	51 Prichard Circuit	16/02/2010	07/05/2010	12/01/2010	$415,000	785m	Full transfer	5	1	-	-	1	$415,000	35	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.59
+2010	263950	27 Deamer Crescent	09/04/2010	31/05/2010	26/02/2010	$415,000	780m	Full transfer	3	1	1	-	1	$415,000	42	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.59
+2010	330225	8 Fullerton Crescent	27/11/2010	15/02/2011	-	$412,500	757m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274139	9 Kennewell Place	14/10/2010	25/11/2010	-	$412,000	1276m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	263097	44 Chauncy Crescent	29/01/2010	04/03/2010	01/12/2009	$405,000	846m	Full transfer	4	1	-	2	-	$405,000	59	-	Combined Record	-	-	-	Single residential dwelling...	$241,000	0.6
+2010	325762	11 Hourigan Place	06/02/2010	25/03/2010	-	$405,000	676m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	329387	71 Chauncy Crescent	19/10/2010	22/11/2010	-	$405,000	742m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263094	7 Mack Street	19/01/2010	24/02/2010	16/12/2009	$400,000	356m	Full transfer	3	1	1	-	2	$400,000	34	-	Combined Record	-	-	-	Medium density dwelling	$187,000	0.47
+2010	267429	3/40 Fullerton Crescent	04/05/2010	25/06/2010	-	$399,900	4673m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280735	4 Oakey Place	08/11/2010	16/12/2010	-	$398,000	582m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	328023	67 Deamer Crescent	21/05/2010	06/07/2010	-	$390,000	794m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287729	5 Zadow Place	23/12/2010	04/04/2011	13/09/2010	$389,000	425m	Full transfer	3	1	-	2	-	$389,000	101	-	Combined Record	117	-	-	Medium density dwelling	$178,000	0.46
+2010	269987	            2/2 Mary Mackillop Place	04/08/2010	20/09/2010	-	$385,000	1155m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	328752	65 Rohan Street	29/05/2010	06/09/2010	-	$385,000	496m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	265045	2/44 Deamer Crescent	04/08/2010	-	23/06/2010	$385,000	1155m	Full transfer	3	1	-	2	-	$385,000	42	-	Allhomes Record	100	-	-	-	$249,000	0.65
+2010	328905	6 Austral Place	21/09/2010	01/11/2010	-	$380,000	936m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273474	30 Rohan Street	10/09/2010	28/10/2010	20/07/2010	$376,000	565m	Full transfer	3	1	-	-	2	$376,000	52	-	Combined Record	87	-	-	Medium density dwelling	$215,000	0.57
+2010	270107	17 Prichard Circuit	16/06/2010	09/08/2010	-	$360,000	720m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280563	5/32 Fullerton Crescent	17/11/2010	16/12/2010	-	$355,000	3535m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	329621	23 Vidal Street	15/12/2010	18/01/2011	-	$345,000	781m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255672	22 Fullerton Crescent	04/01/2010	24/03/2010	-	$202,500	843m	Full transfer	-	-	-	-	-	$202,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272762	10 Morduant Place	02/09/2010	27/10/2010	-	$200,000	862m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	449275	28 Deamer Crescent	25/07/2010	02/04/2015	-	$0	954m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291423	12 Laker Crescent	24/12/2010	11/05/2011	-	-	951m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280736	1 Cottrell Place	04/11/2010	16/12/2010	-	-	523m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	285806	39 Vidal Street	17/07/2010	09/03/2011	-	-	981m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269627	1/32 Fullerton Crescent	29/07/2010	25/08/2010	-	-	3535m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270106	12 Kiddle Crescent	04/06/2010	10/08/2010	-	-	983m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287569	            2/17 Grigg Place	14/09/2010	08/04/2011	-	-	971m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336080	8 Dawbin Place	29/06/2011	05/09/2011	-	$730,000	940m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	294232	             Dawbin Place	01/06/2011	-	16/04/2011	$730,000	940m	Full transfer	6	2	1	-	3	$730,000	46	-	Allhomes Record	-	-	-	-	$269,000	0.37
+2011	329940	52 Fullerton Crescent	08/02/2011	04/04/2011	-	$565,000	921m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340716	15 Longman Street	29/07/2011	20/09/2011	28/03/2011	$555,000	1295m	Full transfer	4	1	1	-	2	$555,000	123	-	Combined Record	190	-	-	Single residential dwelling	$242,000	0.44
+2011	342399	22 Longman Street	19/08/2011	07/10/2011	-	$505,000	987m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296884	36 Prichard Circuit	16/04/2011	25/05/2011	24/03/2011	$503,000	1035m	Full transfer	4	1	1	2	-	$503,000	23	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.56
+2011	340849	14 Grimshaw Street	25/08/2011	27/09/2011	-	$500,000	898m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360535	39 Grimshaw Street	05/12/2011	23/01/2012	31/10/2011	$465,500	845m	Full transfer	4	1	1	2	-	$465,500	35	-	Combined Record	160	-	-	Single residential dwelling	$281,000	0.6
+2011	286091	67 Prichard Circuit	04/02/2011	18/03/2011	14/01/2011	$460,000	824m	Full transfer	3	1	1	-	1	$460,000	21	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.57
+2011	347835	12 Leakey Place	05/09/2011	30/10/2011	-	$453,500	1039m	Full transfer	-	-	-	-	-	$453,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354856	62 Fullerton Crescent	29/11/2011	12/01/2012	-	$450,000	868m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342198	8 Baynton Street	09/08/2011	06/10/2011	-	$447,000	849m	Full transfer	-	-	-	-	-	$447,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365588	1 Laker Crescent	14/12/2011	20/02/2012	-	$445,000	1114m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348671	61 Hemmings Crescent	14/12/2011	-	21/11/2011	$445,000	-	Full transfer	3	1	-	-	1	$445,000	23	-	Allhomes Record	125	-	-	-	-	-
+2011	347833	10 Fullerton Crescent	05/09/2011	27/10/2011	-	$445,000	705m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	330443	70 Beattie Crescent	25/01/2011	17/03/2011	-	$445,000	904m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342197	138 Clift Crescent	19/08/2011	05/10/2011	-	$440,000	1071m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331603	5 Grigg Place	05/05/2011	15/06/2011	-	$440,000	738m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331803	75 Twamley Crescent	11/05/2011	13/07/2011	-	$440,000	829m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340720	68 Hemmings Crescent	09/08/2011	21/09/2011	14/06/2011	$440,000	914m	Full transfer	3	1	1	2	-	$440,000	56	-	Combined Record	133	-	-	Single residential dwelling	$300,000	0.68
+2011	333171	75 Chauncy Crescent	07/06/2011	26/07/2011	-	$435,000	709m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350191	13 Baynton Street	25/10/2011	28/11/2011	21/09/2011	$435,000	805m	Full transfer	3	1	1	-	2	$435,000	34	-	Combined Record	138	-	-	Single residential dwelling	$242,000	0.56
+2011	283811	10 Pogney Place	10/01/2011	02/03/2011	-	$430,000	379m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	492183	72 Twamley Crescent	20/02/2011	-	24/12/2016	$429,000	0m	Full transfer	3	1	-	2	0	$429,000	-	-	Allhomes Record	-	-	-	-	$284,000	0.66
+2011	353633	3 Mellish Place	22/11/2011	16/01/2012	02/05/2011	$425,000	1041m	Full transfer	3	1	-	-	2	$425,000	204	-	Combined Record	-	-	-	Single residential dwelling...	$296,000	0.7
+2011	340846	16 Prichard Circuit	27/07/2011	27/09/2011	01/06/2011	$425,000	816m	Full transfer	3	1	-	2	1	$425,000	56	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.63
+2011	340719	6 Deamer Crescent	05/08/2011	19/09/2011	-	$422,000	763m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336655	70 Hemmings Crescent	21/07/2011	22/08/2011	30/06/2011	$421,000	842m	Full transfer	3	1	-	2	-	$421,000	21	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.7
+2011	287807	72 Twamley Crescent	10/02/2011	30/03/2011	14/10/2010	$420,000	677m	Full transfer	3	1	-	2	-	$420,000	119	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.68
+2011	292471	42 Prichard Circuit	01/03/2011	04/05/2011	26/11/2010	$419,134	776m	Full transfer	3	1	-	2	-	$419,134	95	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.65
+2011	344401	11 Prichard Circuit	14/09/2011	20/10/2011	-	$415,000	871m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360170	91 Chauncy Crescent	22/12/2011	02/02/2012	06/10/2011	$412,500	692m	Full transfer	3	1	-	1	1	$412,500	77	-	Combined Record	-	-	-	Single residential dwelling	$249,000	0.6
+2011	331459	15 Rohan Street	26/03/2011	26/05/2011	-	$412,000	527m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	287568	            2/17 Grigg Place	22/01/2011	08/04/2011	-	$411,000	971m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354853	4/54 Deamer Crescent	04/11/2011	09/01/2012	17/08/2011	$410,000	3175m	Full transfer	3	1	-	2	-	$410,000	79	-	Combined Record	-	-	-	Multiple unit dwelling	$773,000	1.89
+2011	331726	43 Clift Crescent	19/05/2011	29/06/2011	-	$410,000	954m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354860	10 Cottrell Place	22/11/2011	10/01/2012	-	$409,000	575m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	291238	7/40 Fullerton Crescent	09/04/2011	18/05/2011	-	$400,000	4673m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347094	28 Longman Street	11/10/2011	18/11/2011	-	$400,000	746m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354857	16 Harford Street	21/11/2011	09/01/2012	31/03/2011	$399,000	741m	Full transfer	4	1	1	-	-	$399,000	235	-	Combined Record	130	-	-	Single residential dwelling	$271,000	0.68
+2011	347095	9 Mack Street	18/10/2011	15/11/2011	23/07/2011	$398,000	371m	Full transfer	3	1	1	-	2	$398,000	87	-	Combined Record	-	-	-	Medium density dwelling	$206,000	0.52
+2011	333373	12 Laker Crescent	08/07/2011	02/08/2011	01/06/2011	$395,000	951m	Full transfer	3	1	-	-	2	$395,000	37	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.75
+2011	286042	8 Zadow Place	20/01/2011	10/03/2011	02/12/2010	$386,000	443m	Full transfer	3	1	-	1	-	$386,000	49	-	Combined Record	-	-	-	Medium density dwelling	$196,000	0.51
+2011	360168	13 Fullerton Crescent	22/12/2011	03/02/2012	14/11/2011	$385,000	803m	Full transfer	3	1	-	2	1	$385,000	38	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.69
+2011	342133	6 Cottrell Place	31/08/2011	13/10/2011	-	$370,000	405m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	287367	41 Clift Crescent	16/02/2011	25/03/2011	-	$370,000	1062m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283252	12 Cottrell Place	17/01/2011	01/03/2011	-	$370,000	707m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	285856	7/32 Fullerton Crescent	20/01/2011	07/03/2011	-	$368,000	3535m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360534	1 Oakey Place	18/11/2011	24/01/2012	-	$365,000	471m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	300779	8 Pogney Place	30/05/2011	12/07/2011	22/03/2011	$355,000	366m	Full transfer	3	1	-	-	1	$355,000	69	-	Combined Record	-	-	-	Medium density dwelling	$206,000	0.58
+2011	340456	19 Mack Street	19/08/2011	30/09/2011	-	$185,000	371m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	360204	55 Kiddle Crescent	02/12/2011	17/02/2012	-	$22,000	1147m	Full transfer	-	-	-	-	-	$22,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	389397	3 Fullerton Crescent	06/04/2011	25/01/2013	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350447	64 Twamley Crescent	07/11/2011	13/12/2011	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354861	20 Grimshaw Street	21/10/2011	13/01/2012	-	$0	1145m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365586	57 Twamley Crescent	12/12/2011	21/02/2012	-	$0	1090m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350448	5 Dawbin Place	25/10/2011	13/12/2011	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	486566	38 Vidal Street	20/09/2011	13/09/2016	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	371848	1/17 Grigg Place	25/06/2011	03/06/2012	-	$0	971m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	365231	74 Hemmings Crescent	19/12/2011	06/03/2012	-	$0	951m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360173	15 Baynton Street	14/12/2011	02/02/2012	-	$0	921m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365587	82 Beattie Crescent	13/11/2011	21/02/2012	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	386117	44 Kiddle Crescent	30/08/2011	07/12/2012	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347836	45 Prichard Circuit	25/02/2011	27/10/2011	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291195	25 Chauncy Crescent	03/03/2011	29/04/2011	-	-	789m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342134	78 Hemmings Crescent	31/08/2011	12/10/2011	-	-	962m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296195	5/40 Fullerton Crescent	18/04/2011	10/06/2011	-	-	4673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336110	30 Deamer Crescent	29/06/2011	22/08/2011	-	-	894m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333372	68 Chauncy Crescent	07/06/2011	05/08/2011	-	-	805m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336079	29 McBurney Crescent	15/05/2011	07/09/2011	-	-	828m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336120	11 Prichard Circuit	25/02/2011	17/08/2011	-	-	871m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283253	15 Clift Crescent	14/01/2011	28/02/2011	-	-	903m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373852	39 Clift Crescent	28/04/2012	20/06/2012	28/03/2012	$542,500	977m	Full transfer	5	2	-	5	0	$542,500	31	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.45
+2012	378500	39 Clift Crescent	30/04/2012	-	17/10/2012	$542,500	976m	Full transfer	5	2	-	5	0	$542,500	-	-	Allhomes Record	-	-	-	-	$242,000	0.45
+2012	374808	6 Laker Crescent	09/05/2012	12/06/2012	-	$540,000	841m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365229	20 Deamer Crescent	21/02/2012	09/03/2012	-	$540,000	1145m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395214	73 Chauncy Crescent	10/12/2012	16/04/2013	22/11/2012	$540,000	719m	Full transfer	4	1	1	2	-	$540,000	18	-	Combined Record	-	-	-	Single residential dwelling	$257,000	0.48
+2012	369604	6 Laker Crescent	05/06/2012	-	05/03/2012	$537,000	841m	Full transfer	4	1	1	2	-	$537,000	92	-	Allhomes Record	-	-	-	-	$296,000	0.55
+2012	375024	15 Casson Street	07/08/2012	-	10/07/2012	$499,000	998m	Full transfer	4	1	-	-	2	$499,000	28	-	Allhomes Record	-	-	-	-	$296,000	0.59
+2012	386115	18 Grimshaw Street	13/09/2012	07/12/2012	29/06/2012	$485,000	853m	Full transfer	3	1	1	-	1	$485,000	76	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.5
+2012	379029	58 Beattie Crescent	24/07/2012	04/09/2012	25/06/2012	$481,000	1033m	Full transfer	4	1	1	2	2	$481,000	29	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.51
+2012	376795	38 Prichard Circuit	31/05/2012	30/07/2012	25/04/2012	$474,500	870m	Full transfer	4	3	-	5	0	$474,500	36	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.56
+2012	389850	150 Clift Crescent	21/12/2012	30/01/2013	04/07/2012	$470,000	866m	Full transfer	3	1	1	2	-	$470,000	170	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.57
+2012	380776	34 Deamer Crescent	26/07/2012	24/09/2012	06/03/2012	$470,000	790m	Full transfer	4	1	1	2	-	$470,000	142	-	Combined Record	145	-	-	Single residential dwelling	$277,000	0.59
+2012	377258	8 Franc Place	07/06/2012	17/07/2012	24/02/2012	$470,000	900m	Full transfer	4	1	1	-	2	$470,000	104	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.57
+2012	387835	5 Bale Place	19/11/2012	04/01/2013	27/08/2012	$470,000	1401m	Full transfer	3	1	1	2	1	$470,000	84	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.64
+2012	374806	6 Danvers Place	02/05/2012	12/06/2012	17/02/2012	$470,000	1138m	Full transfer	4	1	1	2	2	$470,000	75	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.68
+2012	380778	34 Chauncy Crescent	06/07/2012	30/09/2012	24/04/2012	$470,000	1029m	Full transfer	4	1	-	2	-	$470,000	73	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.6
+2012	380780	1 Bale Place	01/08/2012	25/09/2012	12/07/2012	$467,000	867m	Full transfer	3	1	1	2	2	$467,000	20	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.52
+2012	386113	50 Chauncy Crescent	23/10/2012	05/12/2012	19/09/2012	$462,500	795m	Full transfer	4	1	-	-	2	$462,500	34	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.59
+2012	387064	12 Twamley Crescent	01/11/2012	19/12/2012	-	$462,000	706m	Full transfer	-	-	-	-	-	$462,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393087	1 Fullerton Crescent	18/12/2012	12/02/2013	-	$458,000	833m	Full transfer	-	-	-	-	-	$458,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373854	21 Clift Crescent	15/05/2012	24/06/2012	-	$454,700	862m	Full transfer	-	-	-	-	-	$454,700	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372680	46 Casson Street	08/03/2012	12/04/2012	-	$445,000	730m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	366194	6 Fullerton Crescent	11/05/2012	-	24/04/2012	$445,000	806m	Full transfer	3	1	-	-	2	$445,000	17	-	Allhomes Record	-	-	-	-	$266,000	0.6
+2012	386112	26 Vidal Street	25/10/2012	05/12/2012	-	$442,500	730m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389400	46 Grimshaw Street	23/11/2012	21/01/2013	-	$439,000	783m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374308	6 Dawbin Place	23/05/2012	28/06/2012	11/04/2012	$435,000	949m	Full transfer	3	1	-	2	-	$435,000	42	-	Combined Record	-	-	-	Single residential dwelling...	$296,000	0.68
+2012	393393	7 Gonzaga Place	02/10/2012	08/03/2013	-	$435,000	705m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	369946	13 Cottrell Place	01/02/2012	28/03/2012	22/12/2011	$433,000	382m	Full transfer	3	1	1	2	-	$433,000	41	-	Combined Record	-	-	-	Medium density dwelling	$196,000	0.45
+2012	369389	20 Chauncy Crescent	02/03/2012	18/04/2012	-	$432,000	716m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389395	63 Fullerton Crescent	07/12/2012	22/01/2013	21/10/2012	$432,000	868m	Full transfer	3	1	-	2	2	$432,000	47	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.62
+2012	383630	4 Leakey Place	21/07/2012	07/11/2012	-	$430,000	827m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389399	4 Fullerton Crescent	12/12/2012	22/01/2013	-	$429,000	765m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387833	2/40 Fullerton Crescent	01/11/2012	03/01/2013	26/09/2012	$428,000	4673m	Full transfer	3	2	-	2	0	$428,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	$1,093,000	2.55
+2012	376797	19 Baynton Street	29/06/2012	30/07/2012	02/07/2012	$425,000	880m	Full transfer	3	2	-	1	0	$425,000	-	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.57
+2012	374306	7 Tuck Place	30/05/2012	27/06/2012	-	$425,000	737m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375601	31 Laker Crescent	27/08/2012	-	03/07/2012	$421,000	749m	Full transfer	3	1	-	1	-	$421,000	55	-	Allhomes Record	-	-	-	-	$292,000	0.69
+2012	370344	43 Prichard Circuit	13/06/2012	-	29/03/2012	$419,000	782m	Full transfer	3	1	-	4	2	$419,000	76	-	Allhomes Record	-	-	-	-	$271,000	0.65
+2012	371653	34 Twamley Crescent	16/04/2012	25/05/2012	-	$415,000	723m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2012	370944	13 Hemmings Crescent	11/04/2012	04/05/2012	13/02/2012	$414,000	970m	Full transfer	3	1	-	2	-	$414,000	58	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.68
+2012	370833	57 Fullerton Crescent	06/03/2012	26/04/2012	-	$412,000	942m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383987	1/40 Fullerton Crescent	27/06/2012	21/11/2012	08/03/2012	$408,000	4673m	Full transfer	3	1	1	1	-	$408,000	111	-	Combined Record	120	-	-	Multiple unit dwelling	$1,093,000	2.68
+2012	387065	53 Rohan Street	16/11/2012	19/12/2012	02/10/2012	$395,000	642m	Full transfer	2	1	-	1	-	$395,000	45	-	Combined Record	-	-	-	Medium density dwelling	$261,000	0.66
+2012	369944	63 Chauncy Crescent	16/02/2012	28/03/2012	14/12/2011	$392,000	783m	Full transfer	3	1	-	-	2	$392,000	64	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.69
+2012	386109	44 Twamley Crescent	23/10/2012	03/12/2012	-	$390,000	819m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	362916	10 Chauncy Crescent	19/04/2012	-	20/03/2012	$386,000	990m	Full transfer	2	1	-	-	2	$386,000	30	-	Allhomes Record	-	-	-	-	$266,000	0.69
+2012	377260	5 Rohan Street	01/05/2012	20/07/2012	29/03/2012	$385,000	619m	Full transfer	3	1	-	-	2	$385,000	33	-	Combined Record	-	-	-	Medium density dwelling	$261,000	0.68
+2012	388427	22 Fullerton Crescent	06/12/2012	16/01/2013	-	$222,500	843m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387832	7 Zadow Place	18/12/2012	04/01/2013	-	$200,000	447m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	402473	42 Twamley Crescent	06/12/2012	18/06/2013	-	$166,666	808m	Full transfer	-	-	-	-	-	$166,666	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392653	82 Beattie Crescent	18/12/2012	25/02/2013	-	$150,500	773m	Full transfer	-	-	-	-	-	$150,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371655	19 McBurney Crescent	19/01/2012	25/05/2012	-	$0	1033m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	410855	13 Cottrell Place	02/10/2012	16/09/2013	-	$0	382m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	374307	37 Twamley Crescent	14/05/2012	27/06/2012	-	$0	1307m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374809	8 Austral Place	04/02/2012	12/06/2012	-	$0	1016m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384773	9 Morduant Place	16/04/2012	16/05/2012	-	$0	1026m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371654	33 McBurney Crescent	19/01/2012	25/05/2012	-	$0	837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388426	75 Twamley Crescent	12/12/2012	18/01/2013	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386110	36 Vidal Street	04/04/2012	05/12/2012	-	$0	919m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	380782	3 Bale Place	13/08/2012	26/09/2012	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	370834	17 Clift Crescent	01/04/2012	26/04/2012	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383989	12 Chauncy Crescent	02/03/2012	23/11/2012	-	$0	957m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392421	14 Longman Street	17/10/2012	18/02/2013	-	$0	799m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379309	4 Streeter Place	25/07/2012	12/09/2012	21/03/2012	$0	680m	Full transfer	4	1	1	3	2	$0	126	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.68
+2012	414377	72 Twamley Crescent	20/11/2012	27/11/2013	-	$0	677m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365230	8 Pedley Place	30/01/2012	09/03/2012	-	$0	1013m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379308	15 Prichard Circuit	20/06/2012	16/09/2012	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416318	140 Clift Crescent	16/11/2013	20/12/2013	-	$550,000	1060m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416315	27 Chauncy Crescent	22/11/2013	18/12/2013	10/10/2013	$540,000	761m	Full transfer	4	1	1	2	-	$540,000	43	-	Combined Record	179	-	-	Single residential dwelling	$271,000	0.5
+2013	419266	37 Deamer Crescent	10/12/2013	11/02/2014	-	$535,000	1351m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413418	18 Hemmings Crescent	02/10/2013	14/11/2013	13/06/2013	$530,000	768m	Full transfer	4	1	1	2	0	$530,000	111	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.46
+2013	392649	24 Deamer Crescent	21/01/2013	26/02/2013	07/12/2012	$505,000	1088m	Full transfer	4	1	1	2	-	$505,000	45	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.57
+2013	412161	59 Twamley Crescent	14/11/2013	-	19/09/2013	$490,000	905m	Full transfer	3	1	1	0	0	$490,000	56	-	Allhomes Record	-	-	-	-	$292,000	0.6
+2013	416313	59 Twamley Crescent	13/11/2013	20/12/2013	15/01/2014	$490,000	906m	Full transfer	3	1	1	0	0	$490,000	-	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.6
+2013	397524	24 Fullerton Crescent	28/02/2013	10/05/2013	09/01/2013	$485,000	941m	Full transfer	4	1	1	-	2	$485,000	50	-	Combined Record	138	-	-	Single residential dwelling	$272,000	0.56
+2013	394249	56 Fullerton Crescent	11/02/2013	02/04/2013	24/01/2013	$480,000	745m	Full transfer	3	1	1	-	2	$480,000	18	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.47
+2013	414861	48 Twamley Crescent	20/12/2013	-	04/12/2013	$480,000	829m	Full transfer	3	2	-	2	-	$480,000	16	-	Allhomes Record	121	-	-	-	$289,000	0.6
+2013	393834	52 Deamer Crescent	21/02/2013	26/03/2013	12/12/2012	$480,000	813m	Full transfer	4	1	1	2	-	$480,000	71	-	Combined Record	-	-	-	Single residential dwelling	$273,000	0.57
+2013	419903	58 Fullerton Crescent	05/12/2013	07/02/2014	04/07/2013	$477,500	740m	Full transfer	4	1	1	0	1	$477,500	154	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.47
+2013	394848	9 Heagney Crescent	13/02/2013	11/04/2013	11/12/2012	$476,000	897m	Full transfer	4	1	1	2	2	$476,000	64	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.51
+2013	394844	35 Twamley Crescent	15/02/2013	09/04/2013	14/01/2013	$475,009	1063m	Full transfer	4	1	1	2	-	$475,009	32	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.6
+2013	395216	85 Hemmings Crescent	19/02/2013	17/04/2013	07/01/2013	$472,000	1011m	Full transfer	3	1	1	4	2	$472,000	43	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.63
+2013	404608	38 Casson Street	23/08/2013	-	26/04/2013	$470,000	1271m	Full transfer	4	1	-	4	-	$470,000	119	-	Allhomes Record	-	-	-	-	$300,000	0.64
+2013	402474	2 Lamport Place	13/05/2013	21/06/2013	20/03/2013	$470,000	999m	Full transfer	3	1	-	4	4	$470,000	54	-	Combined Record	-	-	-	Single residential dwelling...	$272,000	0.58
+2013	405140	18 Beattie Crescent	30/04/2013	25/07/2013	04/04/2013	$470,000	697m	Full transfer	3	1	1	2	-	$470,000	26	-	Combined Record	-	-	-	Single residential dwelling	$225,000	0.48
+2013	414379	22 Grigg Place	20/09/2013	27/11/2013	-	$469,000	641m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	393394	7 Morduant Place	18/01/2013	05/03/2013	05/12/2012	$468,000	1031m	Full transfer	3	2	-	2	0	$468,000	44	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.6
+2013	413417	51 Deamer Crescent	14/09/2013	14/11/2013	-	$465,000	874m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	398164	5 Wentcher Place	08/04/2013	15/05/2013	27/02/2013	$449,000	835m	Full transfer	3	1	-	4	0	$449,000	40	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.63
+2013	406713	11 Morduant Place	18/07/2013	27/08/2013	-	$447,500	1176m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	393836	25 Chauncy Crescent	18/02/2013	26/03/2013	01/02/2013	$445,000	789m	Full transfer	3	1	1	2	2	$445,000	17	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.61
+2013	412627	90 Hemmings Crescent	23/09/2013	04/11/2013	16/07/2013	$443,000	769m	Full transfer	3	1	-	2	-	$443,000	69	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.67
+2013	394846	97 Twamley Crescent	26/02/2013	12/04/2013	29/11/2012	$440,000	727m	Full transfer	3	1	-	-	1	$440,000	89	-	Combined Record	-	-	-	Single residential dwelling	$273,000	0.62
+2013	410856	48 Grimshaw Street	14/08/2013	18/09/2013	13/05/2013	$435,000	1092m	Full transfer	3	1	-	-	3	$435,000	93	-	Combined Record	110	-	-	Single residential dwelling	$220,000	0.51
+2013	402476	28 McBurney Crescent	07/05/2013	19/06/2013	12/03/2013	$429,000	691m	Full transfer	4	1	-	2	-	$429,000	56	-	Combined Record	123	-	-	Single residential dwelling	$282,000	0.66
+2013	417662	75 Twamley Crescent	26/10/2013	16/01/2014	-	$428,500	829m	Full transfer	-	-	-	-	-	$428,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406710	26 Baynton Street	30/07/2013	29/08/2013	18/02/2013	$426,000	769m	Full transfer	3	1	-	2	-	$426,000	162	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.57
+2013	415929	72 Twamley Crescent	11/11/2013	12/12/2013	28/08/2013	$425,000	677m	Full transfer	3	1	0	2	-	$425,000	75	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.67
+2013	400104	40 Deamer Crescent	05/04/2013	07/06/2013	06/03/2013	$425,000	751m	Full transfer	3	1	-	0	2	$425,000	30	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.64
+2013	414380	4 Cardell Place	27/09/2013	27/11/2013	31/07/2013	$421,500	1000m	Full transfer	3	1	1	2	-	$421,500	58	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.66
+2013	401553	30 Chauncy Crescent	03/04/2013	21/05/2013	04/03/2013	$420,000	908m	Full transfer	3	1	-	-	1	$420,000	30	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.63
+2013	397527	36 Chauncy Crescent	01/02/2013	09/05/2013	-	$415,000	730m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405536	17 Casson Street	27/06/2013	06/08/2013	24/05/2013	$415,000	996m	Full transfer	3	1	-	-	2	$415,000	34	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.71
+2013	397522	21 Fullerton Crescent	19/03/2013	09/05/2013	21/02/2013	$412,500	987m	Full transfer	3	1	-	-	-	$412,500	26	-	Combined Record	122	-	-	Single residential dwelling	$266,000	0.64
+2013	407950	12 Prichard Circuit	01/07/2013	13/08/2013	-	$410,000	690m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407947	19 Vidal Street	19/06/2013	16/08/2013	09/05/2013	$407,500	890m	Full transfer	3	1	-	2	0	$407,500	41	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.65
+2013	400109	44 Kiddle Crescent	08/04/2013	05/06/2013	-	$405,000	793m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407654	24 Twamley Crescent	30/05/2013	19/08/2013	14/05/2013	$405,000	738m	Full transfer	3	1	-	2	-	$405,000	16	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.72
+2013	411263	37 McBurney Crescent	21/08/2013	14/10/2013	-	$395,000	878m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	406709	6 Zadow Place	18/07/2013	28/08/2013	-	$394,000	425m	Full transfer	-	-	-	-	-	$394,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	400107	11 McBurney Crescent	01/05/2013	04/06/2013	-	$390,000	864m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	395213	8 Vidal Street	26/02/2013	15/04/2013	-	$386,000	633m	Full transfer	-	-	-	-	-	$386,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2013	403484	21 Harford Street	24/05/2013	01/07/2013	-	$385,000	714m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2013	418349	8 Howson Place	27/11/2013	09/01/2014	-	$383,600	730m	Full transfer	-	-	-	-	-	$383,600	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	419905	8 Devanny Place	11/12/2013	03/02/2014	-	$380,000	773m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	392651	6 Mack Street	17/01/2013	27/02/2013	16/05/2012	$377,500	637m	Full transfer	3	1	-	1	2	$377,500	246	-	Combined Record	-	-	-	Medium density dwelling	$261,000	0.69
+2013	407951	4 Pogney Place	02/07/2013	14/08/2013	14/12/2012	$370,000	366m	Full transfer	3	1	-	-	1	$370,000	200	-	Combined Record	-	-	-	Medium density dwelling	$206,000	0.56
+2013	424734	1/17 Grigg Place	10/12/2013	11/04/2014	-	$357,000	971m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414316	2/17 Grigg Place	10/12/2013	-	05/09/2013	$357,000	0m	Full transfer	3	1	-	0	1	$357,000	96	-	Allhomes Record	-	-	-	-	$342,000	0.96
+2013	412911	6 Mellish Place	18/06/2013	31/10/2013	-	$355,000	981m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	411261	28A Fullerton Crescent	22/08/2013	18/10/2013	-	$355,000	337m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	406246	            5A Streeter Place	18/09/2013	-	17/05/2013	$340,000	-	Full transfer	3	1	-	-	1	$340,000	124	-	Allhomes Record	-	-	-	-	-	-
+2013	414382	2/5A Streeter Place	18/09/2013	27/11/2013	-	$340,000	1266m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418050	74 Beattie Crescent	30/10/2013	20/01/2014	-	$305,850	853m	Full transfer	-	-	-	-	-	$305,850	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410254	73 Fullerton Crescent	15/07/2013	10/09/2013	-	$225,000	769m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411262	146 Clift Crescent	05/09/2013	18/10/2013	-	$195,000	802m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410255	73 Fullerton Crescent	03/02/2013	10/09/2013	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	412910	22 Deamer Crescent	28/06/2013	29/10/2013	-	$0	1175m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418049	19 Prichard Circuit	15/12/2013	21/01/2014	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407946	12 Vidal Street	30/05/2013	12/08/2013	-	$0	922m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	412909	10 Mary Mackillop Place	26/08/2013	29/10/2013	-	$0	726m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394251	10 Casson Street	05/02/2013	03/04/2013	-	$0	911m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397528	77 Hemmings Crescent	13/03/2013	08/05/2013	-	$0	825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417663	6 Fullerton Crescent	19/11/2013	14/01/2014	-	$0	806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	422632	1 Longman Street	14/02/2014	26/03/2014	12/12/2013	$560,000	1184m	Full transfer	6	1	1	3	2	$560,000	64	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.5
+2014	435511	50 Deamer Crescent	18/07/2014	18/09/2014	12/03/2014	$525,000	851m	Full transfer	5	3	-	-	2	$525,000	128	-	Combined Record	-	-	-	Single residential dwelling...	$322,000	0.61
+2014	444901	35 Vidal Street	10/10/2014	03/02/2015	-	$510,000	784m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427939	36 McBurney Crescent	26/03/2014	22/05/2014	06/12/2013	$510,000	848m	Full transfer	4	2	-	0	1	$510,000	110	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.53
+2014	439386	62 Fullerton Crescent	08/10/2014	11/11/2014	07/07/2014	$507,000	868m	Full transfer	4	1	1	2	-	$507,000	93	-	Combined Record	148	-	-	Single residential dwelling	$322,000	0.64
+2014	426963	50 Hemmings Crescent	29/03/2014	12/05/2014	-	$500,000	898m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443361	71 Hemmings Crescent	01/11/2014	08/01/2015	-	$500,000	852m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421619	89 Deamer Crescent	13/01/2014	06/03/2014	-	$482,500	888m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432875	10 Leakey Place	03/06/2014	13/08/2014	-	$475,000	678m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	451787	28 Vidal Street	08/12/2014	05/05/2015	21/11/2014	$470,000	721m	Full transfer	3	1	-	3	2	$470,000	17	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.6
+2014	431447	12 Grigg Place	18/06/2014	24/07/2014	08/05/2014	$470,000	940m	Full transfer	3	2	-	2	0	$470,000	41	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.67
+2014	441444	15 Grimshaw Street	21/10/2014	12/12/2014	01/10/2014	$465,000	826m	Full transfer	3	2	-	2	-	$465,000	20	-	Combined Record	155	-	-	Single residential dwelling	$292,000	0.63
+2014	434810	77 Rohan Street	04/07/2014	08/09/2014	24/01/2014	$465,000	439m	Full transfer	4	2	-	-	2	$465,000	161	-	Combined Record	-	-	-	For residential purposes only	$229,000	0.49
+2014	438498	59 Prichard Circuit	16/09/2014	28/10/2014	03/09/2014	$459,000	845m	Full transfer	3	1	-	1	2	$459,000	13	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.6
+2014	429671	16 Harford Street	15/05/2014	29/06/2014	10/04/2014	$455,000	741m	Full transfer	4	1	1	-	-	$455,000	35	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.62
+2014	432876	29 McBurney Crescent	11/07/2014	13/08/2014	16/05/2014	$450,000	828m	Full transfer	3	2	-	2	0	$450,000	56	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.68
+2014	426286	25 Rohan Street	07/03/2014	05/05/2014	14/02/2014	$450,000	611m	Full transfer	3	1	-	0	2	$450,000	21	-	Combined Record	-	-	-	Medium density dwelling	$270,000	0.6
+2014	426961	5 Tuck Place	10/04/2014	15/05/2014	-	$450,000	819m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	415522	65 Prichard Circuit	07/01/2014	-	11/12/2013	$443,200	850m	Full transfer	3	1	-	2	-	$443,200	27	-	Allhomes Record	-	-	-	-	$298,000	0.67
+2014	431005	44 Rohan Street	15/05/2014	17/07/2014	-	$435,000	468m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	437759	9 Chauncy Crescent	27/08/2014	22/10/2014	04/07/2014	$420,000	726m	Full transfer	3	1	-	4	2	$420,000	54	-	Combined Record	111	-	-	Single residential dwelling	$267,000	0.64
+2014	453832	4 Deamer Crescent	20/11/2014	03/06/2015	22/09/2014	$419,000	881m	Full transfer	3	1	-	-	2	$419,000	59	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.68
+2014	428947	55 Clift Crescent	05/05/2014	12/06/2014	25/03/2014	$419,000	1006m	Full transfer	3	1	1	-	1	$419,000	41	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.6
+2014	434809	45 Fullerton Crescent	05/07/2014	12/09/2014	-	$417,000	794m	Full transfer	-	-	-	-	-	$417,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428399	33 Fullerton Crescent	23/04/2014	03/06/2014	18/03/2014	$417,000	800m	Full transfer	3	1	-	4	-	$417,000	36	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.64
+2014	453822	14 Harford Street	10/10/2014	02/06/2015	28/07/2014	$415,000	758m	Full transfer	3	1	1	4	-	$415,000	74	-	Combined Record	132	-	-	Single residential dwelling	$282,000	0.68
+2014	446603	19 Prichard Circuit	29/11/2014	09/02/2015	-	$410,000	724m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441442	61 Fullerton Crescent	30/10/2014	08/12/2014	03/07/2014	$400,000	818m	Full transfer	3	1	-	0	1	$400,000	119	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.69
+2014	419267	142 Clift Crescent	14/01/2014	10/02/2014	12/12/2013	$400,000	678m	Full transfer	3	1	-	2	1	$400,000	33	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.6
+2014	437761	4 Prichard Circuit	08/09/2014	22/10/2014	-	$395,000	761m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426647	25 Grimshaw Street	05/04/2014	27/05/2014	14/03/2014	$390,000	913m	Full transfer	3	1	-	6	0	$390,000	22	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.75
+2014	438500	4 Pedley Place	17/09/2014	30/10/2014	-	$390,000	820m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446216	30 Kiddle Crescent	06/12/2014	18/02/2015	-	$385,000	888m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446604	2 Wentcher Place	18/12/2014	10/02/2015	-	$375,000	1061m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426288	15 Mack Street	31/03/2014	05/05/2014	25/09/2013	$370,000	492m	Full transfer	3	1	-	2	0	$370,000	187	-	Combined Record	-	-	-	Medium density dwelling	$229,000	0.62
+2014	440236	11 Pogney Place	17/10/2014	20/11/2014	04/07/2014	$365,000	430m	Full transfer	3	1	-	-	1	$365,000	105	-	Combined Record	86	-	-	Medium density dwelling	$229,000	0.63
+2014	436551	23 Mack Street	29/08/2014	01/10/2014	16/07/2014	$361,000	582m	Full transfer	3	1	-	-	1	$361,000	44	-	Combined Record	-	-	-	Medium density dwelling	$228,000	0.63
+2014	439384	7/54 Deamer Crescent	19/09/2014	11/11/2014	13/08/2014	$358,000	3175m	Full transfer	3	1	-	1	-	$358,000	37	-	Combined Record	103	-	-	Multiple unit dwelling	$973,000	2.72
+2014	437758	7/54 Deamer Crescent	14/02/2014	23/10/2014	-	$0	3175m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	457756	8 McBurney Crescent	24/07/2014	17/07/2015	-	$0	1099m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	429670	10 Deamer Crescent	28/04/2014	23/06/2014	-	$0	828m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464630	68 Twamley Crescent	20/12/2014	24/10/2015	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443359	19 Prichard Circuit	10/08/2014	07/01/2015	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	422634	50 Hemmings Crescent	03/02/2014	26/03/2014	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423084	14 Chauncy Crescent	12/02/2014	19/03/2014	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431006	34 Laker Crescent	24/02/2014	15/07/2014	-	$0	1001m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424453	45 Fullerton Crescent	10/02/2014	23/04/2014	-	$0	794m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451800	1 Grigg Place	10/04/2015	06/05/2015	18/11/2014	$561,000	843m	Full transfer	4	1	1	1	2	$561,000	143	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.51
+2015	464644	35 Grimshaw Street	20/08/2015	25/10/2015	21/06/2015	$560,000	829m	Full transfer	4	1	1	2	-	$560,000	60	-	Combined Record	166	-	-	Single residential dwelling	$285,000	0.51
+2015	466240	4 Streeter Place	19/10/2015	20/11/2015	02/10/2015	$550,000	680m	Full transfer	4	2	-	4	0	$550,000	17	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.52
+2015	462712	29 Grimshaw Street	27/10/2015	-	22/06/2015	$546,000	833m	Full transfer	3	2	1	2	-	$546,000	127	-	Allhomes Record	185	-	-	-	$285,000	0.52
+2015	465634	50 Deamer Crescent	23/09/2015	12/11/2015	16/06/2015	$519,000	851m	Full transfer	5	2	1	-	2	$519,000	99	-	Combined Record	-	-	-	Single residential dwelling...	$322,000	0.62
+2015	464631	42 Twamley Crescent	21/08/2015	21/10/2015	01/06/2015	$512,000	808m	Full transfer	5	1	2	-	2	$512,000	81	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.59
+2015	469124	24 Kiddle Crescent	09/11/2015	11/01/2016	20/10/2015	$510,000	891m	Full transfer	-	-	-	-	-	$510,000	20	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.56
+2015	466238	38 Prichard Circuit	26/08/2015	17/11/2015	24/02/2015	$510,000	870m	Full transfer	3	1	1	3	-	$510,000	183	-	Combined Record	150	-	-	Single residential dwelling	$269,000	0.53
+2015	467716	8 Gonzaga Place	18/11/2015	21/12/2015	11/08/2015	$505,000	731m	Full transfer	5	2	-	2	2	$505,000	99	-	Combined Record	212	-	-	Single residential dwelling	$286,000	0.57
+2015	450028	33 Grimshaw Street	27/04/2015	-	03/03/2015	$500,000	833m	Full transfer	3	1	1	2	-	$500,000	55	-	Allhomes Record	-	-	-	-	$285,000	0.57
+2015	456008	9 Tuck Place	10/06/2015	09/07/2015	17/02/2015	$500,000	957m	Full transfer	4	1	1	2	-	$500,000	113	-	Combined Record	164	-	-	Single residential dwelling	$318,000	0.64
+2015	464636	23 Hemmings Crescent	20/08/2015	21/10/2015	-	$490,000	826m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464327	68 Fullerton Crescent	28/04/2015	28/10/2015	30/01/2015	$480,000	834m	Full transfer	4	1	1	-	2	$480,000	88	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.67
+2015	456896	6 Pedley Place	06/05/2015	26/06/2015	-	$480,000	813m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461411	150 Clift Crescent	23/07/2015	07/09/2015	19/05/2015	$480,000	866m	Full transfer	3	1	1	2	-	$480,000	65	-	Combined Record	174	-	-	Single residential dwelling	$269,000	0.56
+2015	456023	22 Grigg Place	05/06/2015	10/07/2015	-	$473,000	641m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452711	138 Clift Crescent	26/03/2015	13/05/2015	20/02/2015	$465,000	1071m	Full transfer	3	1	-	2	1	$465,000	34	-	Combined Record	156	-	-	Single residential dwelling	$275,000	0.59
+2015	457749	6 McBurney Crescent	02/06/2015	13/07/2015	27/02/2015	$463,500	1156m	Full transfer	3	1	-	2	2	$463,500	95	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.66
+2015	464477	3 Prichard Circuit	20/08/2015	29/10/2015	22/07/2015	$460,000	727m	Full transfer	3	1	-	2	-	$460,000	29	-	Combined Record	138	-	-	Single residential dwelling	$260,000	0.57
+2015	453864	9 Fullerton Crescent	10/03/2015	04/06/2015	21/01/2015	$455,000	963m	Full transfer	4	1	-	2	-	$455,000	48	-	Combined Record	-	-	-	Cluster housing medium density	$269,000	0.59
+2015	457755	63 Twamley Crescent	30/05/2015	16/07/2015	-	$452,500	735m	Full transfer	-	-	-	-	-	$452,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462427	52 Twamley Crescent	20/10/2015	-	07/09/2015	$451,350	872m	Full transfer	3	1	-	2	2	$451,350	43	-	Allhomes Record	-	-	-	-	$300,000	0.66
+2015	461952	93 Twamley Crescent	14/10/2015	-	08/07/2015	$450,000	0m	Full transfer	3	1	-	2	0	$450,000	98	-	Allhomes Record	-	-	-	-	$288,000	0.64
+2015	466236	5 Harford Street	16/09/2015	16/11/2015	20/08/2015	$447,500	929m	Full transfer	3	2	-	4	0	$447,500	27	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.6
+2015	456484	42 McBurney Crescent	10/04/2015	30/06/2015	-	$445,000	807m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453076	42 McBurney Crescent	04/06/2015	-	17/03/2015	$445,000	807m	Full transfer	3	1	-	2	0	$445,000	79	-	Allhomes Record	-	-	-	-	$265,000	0.6
+2015	469971	6 Austral Place	29/10/2015	03/02/2016	24/09/2015	$442,000	936m	Full transfer	3	1	-	2	-	$442,000	35	-	Combined Record	122	-	-	Single residential dwelling	$219,000	0.5
+2015	469115	34 Laker Crescent	06/11/2015	14/01/2016	07/08/2015	$442,000	1001m	Full transfer	3	1	-	4	-	$442,000	91	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.67
+2015	465194	20 Laker Crescent	14/08/2015	05/11/2015	-	$440,000	863m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452387	43 Kiddle Crescent	10/04/2015	19/05/2015	18/02/2015	$440,000	872m	Full transfer	4	1	-	-	2	$440,000	51	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.56
+2015	450157	44 Rohan Street	12/03/2015	17/04/2015	17/02/2015	$435,000	468m	Full transfer	3	1	1	1	-	$435,000	23	-	Combined Record	141	-	-	Medium density dwelling	$240,000	0.55
+2015	461650	14 Kiddle Crescent	20/07/2015	15/09/2015	26/02/2015	$435,000	989m	Full transfer	3	1	-	0	0	$435,000	144	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.68
+2015	456471	152 Clift Crescent	23/02/2015	30/06/2015	12/11/2014	$430,000	903m	Full transfer	3	2	-	2	0	$430,000	103	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.63
+2015	456468	7 Gonzaga Place	22/04/2015	03/07/2015	-	$425,000	705m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462918	19 Rohan Street	16/08/2015	08/10/2015	29/04/2015	$420,000	546m	Full transfer	3	1	-	2	0	$420,000	109	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.61
+2015	462010	95 Twamley Crescent	25/06/2015	23/09/2015	16/04/2015	$420,000	835m	Full transfer	3	1	-	2	2	$420,000	70	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.69
+2015	455081	14 Twamley Crescent	22/04/2015	17/06/2015	02/02/2015	$420,000	681m	Full transfer	3	1	1	1	-	$420,000	79	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.7
+2015	448241	15 Clift Crescent	13/01/2015	05/03/2015	09/12/2014	$418,000	903m	Full transfer	4	1	1	-	1	$418,000	35	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.59
+2015	459632	14 Mary Mackillop Place	08/07/2015	23/08/2015	10/06/2015	$415,000	915m	Full transfer	3	1	-	2	0	$415,000	28	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.61
+2015	461168	34 Fullerton Crescent	21/07/2015	02/09/2015	-	$410,000	467m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	469969	50 Prichard Circuit	30/11/2015	03/02/2016	26/02/2015	$410,000	763m	Full transfer	3	1	-	2	-	$410,000	277	-	Combined Record	106	-	-	Single residential dwelling	$275,000	0.67
+2015	466041	3 Oakey Place	02/12/2015	-	07/09/2015	$410,000	576m	Full transfer	3	1	1	2	-	$410,000	86	-	Allhomes Record	-	-	-	-	$239,000	0.58
+2015	450868	5 Baynton Street	17/03/2015	01/05/2015	06/02/2015	$401,000	745m	Full transfer	3	1	-	-	2	$401,000	39	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.61
+2015	463428	130 Clift Crescent	14/07/2015	15/10/2015	27/05/2015	$391,250	824m	Full transfer	3	1	-	-	1	$391,250	48	-	Combined Record	107	-	-	Single residential dwelling...	$234,000	0.6
+2015	451727	10 Chauncy Crescent	19/05/2015	-	29/01/2015	$387,500	991m	Full transfer	2	1	-	2	2	$387,500	110	-	Allhomes Record	-	-	-	-	$269,000	0.69
+2015	457748	23 Prichard Circuit	01/06/2015	16/07/2015	-	$381,000	732m	Full transfer	-	-	-	-	-	$381,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	471396	8 Dawbin Place	21/12/2015	11/02/2016	-	$368,000	940m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	456024	21 Rohan Street	23/05/2015	06/07/2015	10/12/2014	$365,000	553m	Full transfer	3	1	-	0	1	$365,000	164	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.7
+2015	476433	38 May Gibbs Close	26/11/2015	26/04/2016	-	$363,000	779m	Full transfer	-	-	-	-	-	$363,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2015	451789	1 Cottrell Place	25/03/2015	06/05/2015	25/02/2014	$355,000	523m	Full transfer	3	1	-	-	1	$355,000	393	-	Combined Record	-	-	-	Medium density dwelling	$241,000	0.68
+2015	452379	19 Mack Street	02/04/2015	19/05/2015	18/11/2014	$350,000	371m	Full transfer	3	1	-	2	-	$350,000	135	-	Combined Record	114	-	-	Medium density dwelling	$223,000	0.64
+2015	450877	5/54 Deamer Crescent	16/03/2015	30/04/2015	22/10/2013	$337,000	3175m	Full transfer	3	1	-	1	-	$337,000	510	-	Combined Record	-	-	-	Multiple unit dwelling	$973,000	2.89
+2015	471113	36 Longman Street	23/12/2015	19/02/2016	-	$320,000	735m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450883	            2/26 Grimshaw Street	06/02/2015	01/05/2015	-	$316,000	1043m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444277	2/26A Grimshaw Street	06/02/2015	-	19/11/2014	$316,000	0m	Full transfer	2	1	-	0	2	$316,000	79	-	Allhomes Record	-	-	-	-	-	-
+2015	460099	56 Twamley Crescent	03/06/2015	24/08/2015	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466931	1/34 Hemmings Crescent	16/03/2015	01/12/2015	-	$0	1074m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469123	36 Longman Street	17/06/2015	14/01/2016	-	$0	735m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465187	13 Wentcher Place	23/07/2015	05/11/2015	-	$0	1048m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459641	51 Clift Crescent	12/02/2015	20/08/2015	-	$0	1128m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465532	83 Twamley Crescent	26/09/2015	11/11/2015	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464643	            1/5A Streeter Place	22/05/2015	21/10/2015	-	$0	1266m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468014	65 Rohan Street	04/07/2015	15/12/2015	-	$0	496m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	516905	48 Deamer Crescent	18/12/2015	31/07/2017	-	$0	923m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	460103	26 Twamley Crescent	16/07/2015	26/08/2015	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464634	28 Vidal Street	17/06/2015	19/10/2015	-	$0	721m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481939	65 Clift Crescent	17/05/2016	22/07/2016	06/04/2016	$610,000	859m	Full transfer	4	2	1	2	-	$610,000	41	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.41
+2016	493807	73 Hemmings Crescent	08/10/2016	23/12/2016	07/09/2016	$590,000	825m	Full transfer	4	3	-	2	-	$590,000	31	-	Combined Record	192	-	-	Single residential dwelling	$308,000	0.52
+2016	497965	62 Hemmings Crescent	20/12/2016	16/02/2017	16/11/2016	$558,000	823m	Full transfer	4	1	1	3	2	$558,000	34	-	Combined Record	130	-	-	Single residential dwelling	$308,000	0.55
+2016	487974	91 Twamley Crescent	04/08/2016	10/10/2016	06/07/2016	$555,000	925m	Full transfer	4	1	1	2	-	$555,000	29	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.56
+2016	484721	5 Dawbin Place	06/07/2016	18/08/2016	10/05/2016	$550,000	815m	Full transfer	4	2	-	2	0	$550,000	57	-	Combined Record	-	-	-	Single residential dwelling...	$308,000	0.56
+2016	486974	22 Deamer Crescent	20/08/2016	23/09/2016	26/07/2016	$530,000	1175m	Full transfer	4	2	-	0	1	$530,000	25	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.57
+2016	492603	34 Kiddle Crescent	23/09/2016	13/12/2016	-	$520,000	950m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497373	61 Chauncy Crescent	05/12/2016	07/02/2017	10/10/2016	$515,000	979m	Full transfer	3	1	1	4	-	$515,000	56	-	Combined Record	136	-	-	Single residential dwelling	$258,000	0.5
+2016	479940	25 Deamer Crescent	29/04/2016	21/06/2016	09/03/2016	$510,000	1080m	Full transfer	4	1	1	2	-	$510,000	51	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.6
+2016	490895	25 Vidal Street	06/09/2016	16/11/2016	16/08/2016	$510,000	1086m	Full transfer	4	1	1	2	-	$510,000	21	-	Combined Record	155	-	-	Single residential dwelling	$281,000	0.55
+2016	487178	123 Clift Crescent	12/08/2016	19/09/2016	28/07/2016	$507,000	1014m	Full transfer	4	1	1	-	-	$507,000	15	-	Combined Record	177	-	-	Single residential dwelling	$290,000	0.57
+2016	470649	34 Chauncy Cres	23/02/2016	-	14/01/2016	$505,000	0m	Full transfer	4	1	-	0	2	$505,000	40	-	Allhomes Record	-	-	-	-	$290,000	0.57
+2016	497530	75 Chauncy Crescent	17/11/2016	23/02/2017	25/10/2016	$502,000	709m	Full transfer	3	1	-	2	0	$502,000	23	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.53
+2016	479942	75 Fullerton Crescent	20/04/2016	21/06/2016	25/02/2016	$500,000	780m	Full transfer	3	1	-	1	3	$500,000	55	-	Combined Record	112	-	-	Single residential dwelling	$281,000	0.56
+2016	491790	73 Clift Crescent	14/10/2016	28/11/2016	25/08/2016	$490,000	1128m	Full transfer	3	1	-	2	2	$490,000	50	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.51
+2016	479129	19 Casson Street	08/03/2016	03/06/2016	12/01/2016	$480,000	1010m	Full transfer	3	1	-	2	2	$480,000	56	-	Combined Record	114	-	-	Single residential dwelling	$308,000	0.64
+2016	481705	20 Chauncy Crescent	12/08/2016	-	20/07/2016	$477,000	716m	Full transfer	3	1	-	2	-	$477,000	23	-	Allhomes Record	-	-	-	-	$281,000	0.59
+2016	484843	9 Grimshaw Street	13/07/2016	24/08/2016	23/02/2016	$465,000	796m	Full transfer	4	1	-	2	0	$465,000	141	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.62
+2016	479431	3 Franc Place	21/04/2016	06/06/2016	15/01/2016	$462,000	697m	Full transfer	3	1	1	1	1	$462,000	97	-	Combined Record	135	-	-	Single residential dwelling	$258,000	0.56
+2016	483194	5 Grigg Place	17/06/2016	09/08/2016	05/04/2016	$461,500	738m	Full transfer	3	1	-	2	0	$461,500	73	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.67
+2016	483156	18 Chauncy Crescent	29/04/2016	12/08/2016	07/04/2016	$455,000	724m	Full transfer	3	1	-	2	3	$455,000	22	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.62
+2016	475113	7 Prichard Circuit	17/02/2016	15/04/2016	19/08/2015	$455,000	743m	Full transfer	3	1	-	2	2	$455,000	182	-	Combined Record	106	-	-	Single residential dwelling	$266,000	0.58
+2016	487100	12 Laker Crescent	08/08/2016	21/09/2016	21/07/2016	$455,000	951m	Full transfer	3	1	-	-	2	$455,000	18	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.68
+2016	477525	21 Prichard Circuit	24/03/2016	12/05/2016	11/02/2016	$450,000	728m	Full transfer	3	1	-	2	2	$450,000	42	-	Combined Record	-	-	-	For residential purposes only	$231,000	0.51
+2016	492806	71 Chauncy Crescent	01/08/2016	16/12/2016	-	$450,000	742m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481366	26 Vidal Street	03/05/2016	14/07/2016	16/03/2016	$440,000	730m	Full transfer	3	1	-	2	0	$440,000	48	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.64
+2016	495542	5 Mack Street	13/12/2016	03/02/2017	26/10/2016	$430,000	352m	Full transfer	3	1	1	2	-	$430,000	48	-	Combined Record	121	-	-	Medium density dwelling	$228,000	0.53
+2016	477330	4/40 Fullerton Crescent	27/05/2016	-	25/02/2016	$425,000	0m	Full transfer	3	2	-	2	0	$425,000	92	-	Allhomes Record	-	-	-	-	-	-
+2016	474440	15 Rohan Street	12/02/2016	07/04/2016	19/11/2015	$420,000	527m	Full transfer	3	1	-	2	0	$420,000	85	-	Combined Record	-	-	-	Medium density dwelling	$263,000	0.63
+2016	476443	33 McBurney Crescent	01/03/2016	28/04/2016	03/12/2015	$412,500	837m	Full transfer	3	1	-	1	-	$412,500	89	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.71
+2016	478020	5 Rohan Street	23/03/2016	17/05/2016	04/11/2015	$410,000	619m	Full transfer	3	1	-	-	2	$410,000	140	-	Combined Record	109	-	-	Medium density dwelling	$289,000	0.7
+2016	485530	20 Rohan Street	03/08/2016	29/08/2016	16/06/2016	$398,000	613m	Full transfer	3	1	-	1	-	$398,000	48	-	Combined Record	-	-	-	Medium density dwelling	$289,000	0.73
+2016	490575	38 Vidal Street	19/07/2016	16/11/2016	21/06/2016	$390,000	978m	Full transfer	3	1	-	2	2	$390,000	28	-	Combined Record	-	-	-	Single residential dwelling	$275,000	0.71
+2016	476431	65 Rohan Street	09/03/2016	27/04/2016	14/01/2016	$385,000	496m	Full transfer	3	2	-	2	0	$385,000	55	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.64
+2016	477518	5 Pelloe Place	17/02/2016	12/05/2016	05/11/2015	$364,000	729m	Full transfer	3	1	-	-	1	$364,000	104	-	Combined Record	106	-	-	For residential purposes only	$258,000	0.71
+2016	486164	1 Hourigan Place	16/06/2016	07/09/2016	10/02/2016	$364,000	452m	Full transfer	3	1	-	2	0	$364,000	127	-	Combined Record	-	-	-	Medium density dwelling	$245,000	0.67
+2016	493842	5 Gonzaga Place	08/10/2016	20/12/2016	06/09/2016	$360,000	724m	Full transfer	2	1	-	1	0	$360,000	32	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.86
+2016	474067	17 Harford Street	13/04/2016	-	09/03/2016	$347,500	712m	Full transfer	3	1	-	0	0	$347,500	35	-	Allhomes Record	106	-	-	-	$250,000	0.72
+2016	487334	5 Tuck Place	24/08/2016	21/09/2016	-	$22,000	819m	Full transfer	-	-	-	-	-	$22,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502434	33 Deamer Crescent	19/10/2016	20/04/2017	-	$0	819m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502351	8 Danvers Place	24/12/2016	19/04/2017	-	$0	1033m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485315	16 Twamley Crescent	04/04/2016	16/08/2016	-	$0	668m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498054	73 Chauncy Crescent	20/12/2016	14/02/2017	29/11/2016	$0	719m	Full transfer	4	2	-	2	0	$0	21	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.72
+2016	484449	68 Twamley Crescent	12/08/2016	19/08/2016	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	471110	4 Mack Street	21/01/2016	17/02/2016	-	$0	547m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	484973	5 Gonzaga Place	12/03/2016	18/08/2016	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493076	60 Chauncy Crescent	10/11/2016	07/12/2016	-	$0	772m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475102	74 Hemmings Crescent	22/01/2016	12/04/2016	25/11/2015	$0	951m	Full transfer	3	1	-	0	-	$0	58	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.72
+2016	477520	72 Beattie Crescent	01/02/2016	12/05/2016	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496027	65 Deamer Crescent	14/11/2016	24/01/2017	-	$0	787m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500573	68 Twamley Crescent	20/11/2016	16/03/2017	-	$0	714m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494951	39 Clift Crescent	01/11/2016	11/01/2017	29/09/2016	$0	977m	Full transfer	5	1	1	4	1	$0	33	-	Combined Record	189	-	-	Single residential dwelling	$250,000	0.72
+2016	543483	14 Twamley Crescent	12/12/2016	03/10/2018	-	$0	681m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475879	34 Chauncy Crescent	01/03/2016	18/04/2016	-	$0	1029m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475115	7 Grimshaw Street	11/01/2016	15/04/2016	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510489	2 Grimshaw Street	11/12/2017	-	03/10/2017	$696,000	-	Full transfer	4	3	-	-	2	$696,000	69	-	Allhomes Record	177	-	-	-	$282,000	0.41
+2017	501650	27 Clift Crescent	13/01/2017	22/03/2017	05/11/2016	$635,000	1131m	Full transfer	4	1	1	2	-	$635,000	69	-	Combined Record	149	-	-	Single residential dwelling	$280,000	0.44
+2017	526994	29 Laker Crescent	28/11/2017	05/03/2018	06/10/2017	$612,500	1046m	Full transfer	4	1	1	4	2	$612,500	53	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.57
+2017	524118	36 Kiddle Crescent	25/11/2017	23/01/2018	01/11/2017	$610,000	1015m	Full transfer	5	2	-	4	1	$610,000	24	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.54
+2017	512496	18 Hemmings Crescent	30/03/2017	11/05/2017	14/03/2017	$600,000	768m	Full transfer	4	2	-	2	-	$600,000	16	-	Combined Record	146	-	-	Single residential dwelling	$282,000	0.47
+2017	502376	74 Beattie Crescent	07/02/2017	19/04/2017	-	$600,000	853m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522636	6 Prichard Circuit	09/09/2017	08/01/2018	16/08/2017	$595,000	907m	Full transfer	3	2	-	3	2	$595,000	24	-	Combined Record	145	-	-	Single residential dwelling	$310,000	0.52
+2017	534486	4 Prichard Circuit	28/10/2017	04/06/2018	02/10/2017	$587,000	761m	Full transfer	3	1	-	2	-	$587,000	26	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.54
+2017	503423	22 Kiddle Crescent	02/03/2017	03/04/2017	01/02/2017	$585,000	1001m	Full transfer	4	1	1	2	4	$585,000	29	-	Combined Record	134	-	-	Single residential dwelling	$328,000	0.56
+2017	501085	41 Fullerton Crescent	03/02/2017	31/03/2017	18/11/2016	$580,000	781m	Full transfer	3	2	-	2	1	$580,000	77	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.45
+2017	522152	71 Deamer Crescent	18/09/2017	11/12/2017	07/09/2017	$570,000	936m	Full transfer	3	1	-	3	-	$570,000	11	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.56
+2017	514600	34 Vidal Street	11/03/2017	05/07/2017	02/02/2017	$565,000	904m	Full transfer	4	3	-	2	-	$565,000	37	-	Combined Record	207	-	-	Single residential dwelling	$318,000	0.56
+2017	528144	9 Morduant Place	15/12/2017	25/03/2018	-	$557,500	1026m	Full transfer	-	-	-	-	-	$557,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516213	85 Twamley Crescent	24/05/2017	24/07/2017	07/03/2017	$540,000	848m	Full transfer	4	2	-	1	0	$540,000	78	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.65
+2017	524183	24 Twamley Crescent	10/11/2017	23/01/2018	18/10/2017	$536,000	738m	Full transfer	3	2	-	2	-	$536,000	23	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.65
+2017	502883	2 Casson Street	16/02/2017	10/04/2017	11/01/2017	$535,000	1022m	Full transfer	4	1	-	2	2	$535,000	36	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.66
+2017	500974	            2/34 Hemmings Crescent	14/02/2017	31/03/2017	-	$530,000	1074m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494596	66 Grimshaw Street	14/02/2017	-	16/11/2016	$530,000	-	Full transfer	3	1	1	1	1	$530,000	90	-	Allhomes Record	-	-	-	-	$357,000	0.67
+2017	515046	70 Chauncy Crescent	10/05/2017	03/07/2017	-	$520,000	812m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500799	44 Kiddle Crescent	10/01/2017	15/03/2017	23/11/2016	$520,000	793m	Full transfer	3	1	-	2	-	$520,000	48	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.56
+2017	503120	5 Morduant Place	21/02/2017	03/04/2017	10/01/2017	$510,000	888m	Full transfer	4	2	-	4	0	$510,000	42	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.64
+2017	522012	17 Kiddle Crescent	09/10/2017	02/01/2018	-	$509,000	823m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520179	45 Fullerton Crescent	29/08/2017	01/11/2017	09/08/2017	$505,000	794m	Full transfer	3	1	-	2	2	$505,000	20	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.51
+2017	506557	48 Casson Street	21/07/2017	-	15/05/2017	$500,000	798m	Full transfer	3	1	-	2	0	$500,000	67	-	Allhomes Record	-	-	-	-	$328,000	0.66
+2017	520294	13 Cottrell Place	04/09/2017	01/11/2017	27/07/2017	$500,000	382m	Full transfer	3	1	1	2	-	$500,000	39	-	Combined Record	125	-	-	Medium density dwelling	$246,000	0.49
+2017	502576	30 Baynton Street	15/02/2017	13/04/2017	-	$498,000	802m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523025	26 Baynton Street	03/10/2017	09/01/2018	24/08/2017	$495,000	769m	Full transfer	3	1	-	0	2	$495,000	40	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.57
+2017	518479	90 Hemmings Crescent	03/07/2017	09/09/2017	14/06/2017	$490,000	769m	Full transfer	3	1	-	2	-	$490,000	19	-	Combined Record	112	-	-	Single residential dwelling	$347,000	0.71
+2017	513465	8 Wentcher Place	01/03/2017	01/06/2017	19/01/2017	$487,500	803m	Full transfer	3	1	-	2	2	$487,500	41	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.67
+2017	524480	55 Kiddle Crescent	29/11/2017	01/02/2018	-	$485,000	1147m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521669	25 Rohan Street	26/09/2017	21/12/2017	30/08/2017	$485,000	611m	Full transfer	3	1	-	0	2	$485,000	27	-	Combined Record	-	-	-	Medium density dwelling	$326,000	0.67
+2017	521634	11 McBurney Crescent	09/10/2017	19/12/2017	24/08/2017	$485,000	864m	Full transfer	3	1	-	0	1	$485,000	46	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.72
+2017	520776	17 Longman Street	09/09/2017	20/11/2017	15/08/2017	$483,000	806m	Full transfer	3	2	-	2	2	$483,000	25	-	Combined Record	127	-	-	Single residential dwelling	$352,000	0.73
+2017	520794	9 Devanny Place	15/09/2017	22/11/2017	02/08/2017	$480,000	781m	Full transfer	3	1	-	2	0	$480,000	44	-	Combined Record	-	-	-	Single residential dwelling...	$280,000	0.58
+2017	512999	68 Twamley Crescent	24/03/2017	22/05/2017	16/02/2017	$480,000	714m	Full transfer	3	1	-	2	-	$480,000	36	-	Combined Record	120	-	-	Single residential dwelling	$349,000	0.73
+2017	513617	21 Chauncy Crescent	18/04/2017	01/06/2017	08/02/2017	$480,000	844m	Full transfer	3	1	-	2	-	$480,000	69	-	Combined Record	107	-	-	Single residential dwelling	$310,000	0.65
+2017	517002	13 McBurney Crescent	09/06/2017	01/08/2017	17/05/2017	$480,000	870m	Full transfer	3	1	-	2	0	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.72
+2017	515290	73 Deamer Crescent	19/05/2017	11/07/2017	22/11/2016	$477,000	844m	Full transfer	3	1	-	-	2	$477,000	178	-	Combined Record	103	-	-	Single residential dwelling	$322,000	0.68
+2017	517797	80 Fullerton Crescent	14/07/2017	29/08/2017	24/05/2017	$475,000	917m	Full transfer	3	1	-	4	0	$475,000	51	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.72
+2017	523244	6 Casson Street	16/09/2017	16/01/2018	30/08/2017	$472,000	836m	Full transfer	3	1	-	0	1	$472,000	17	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.7
+2017	518154	21 Grimshaw Street	09/06/2017	29/08/2017	23/05/2017	$471,001	773m	Full transfer	3	1	-	-	1	$471,001	17	-	Combined Record	127	-	-	Single residential dwelling	$301,000	0.64
+2017	525659	21 Casson Street	13/11/2017	12/02/2018	28/09/2017	$468,500	887m	Full transfer	3	1	-	4	1	$468,500	46	-	Combined Record	96	-	-	Single residential dwelling	$347,000	0.74
+2017	523990	26 Vidal Street	18/10/2017	23/01/2018	-	$465,000	730m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517450	13 Pogney Place	27/06/2017	25/08/2017	23/05/2017	$465,000	766m	Full transfer	3	1	-	2	2	$465,000	35	-	Combined Record	-	-	-	Medium density dwelling	$327,000	0.7
+2017	522945	22 Baynton Street	16/10/2017	09/01/2018	31/08/2017	$464,000	797m	Full transfer	3	1	-	2	2	$464,000	46	-	Combined Record	-	-	-	Single residential dwelling...	$282,000	0.61
+2017	518034	14 Chauncy Crescent	08/07/2017	28/08/2017	14/06/2017	$462,000	836m	Full transfer	3	1	-	2	-	$462,000	24	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.67
+2017	501439	44 Rohan Street	19/01/2017	22/03/2017	12/12/2016	$460,000	468m	Full transfer	4	2	-	1	0	$460,000	38	-	Combined Record	-	-	-	Medium density dwelling	$276,000	0.6
+2017	503374	48 Fullerton Crescent	28/02/2017	03/04/2017	-	$457,000	735m	Full transfer	-	-	-	-	-	$457,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504769	63 Deamer Crescent	29/03/2017	05/05/2017	01/03/2017	$455,000	710m	Full transfer	3	1	-	-	1	$455,000	28	-	Combined Record	112	-	-	Single residential dwelling	$271,000	0.6
+2017	526317	2 Kennewell Place	28/11/2017	01/03/2018	09/11/2017	$450,000	869m	Full transfer	3	1	-	0	0	$450,000	19	-	Combined Record	-	-	-	Single residential dwelling...	$347,000	0.77
+2017	520849	20 Rohan Street	13/09/2017	23/11/2017	06/07/2017	$450,000	613m	Full transfer	3	1	-	1	-	$450,000	69	-	Combined Record	-	-	-	Medium density dwelling	$326,000	0.72
+2017	525908	35 Baynton Street	16/10/2017	12/02/2018	20/09/2017	$436,000	828m	Full transfer	3	1	-	0	0	$436,000	26	-	Combined Record	-	-	-	Single residential dwelling...	$282,000	0.65
+2017	513041	            2/2 Mary Mackillop Place	10/05/2017	08/06/2017	-	$435,000	1155m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503681	44 Deamer Crescent	10/05/2017	-	23/02/2017	$435,000	0m	Full transfer	3	1	-	2	0	$435,000	76	-	Allhomes Record	-	-	-	-	$397,000	0.91
+2017	518106	5 Gonzaga Place	17/07/2017	28/08/2017	-	$435,000	724m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516585	8/10 Zadow Place	12/05/2017	11/08/2017	20/03/2017	$435,000	3019m	Full transfer	3	1	-	2	-	$435,000	53	-	Combined Record	108	-	-	Multiple unit dwelling	-	-
+2017	506371	5 Hourigan Place	28/06/2017	-	03/05/2017	$430,000	366m	Full transfer	4	1	-	0	0	$430,000	56	-	Allhomes Record	-	-	-	-	$257,000	0.6
+2017	505067	26 Chauncy Crescent	14/03/2017	01/05/2017	-	$420,000	778m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522374	9 Hourigan Place	03/10/2017	14/12/2017	05/09/2017	$412,000	423m	Full transfer	3	1	-	0	1	$412,000	28	-	Combined Record	-	-	-	Medium density dwelling	$276,000	0.67
+2017	514020	7 Cottrell Place	23/03/2017	21/06/2017	17/10/2016	$400,000	377m	Full transfer	3	1	1	-	2	$400,000	157	-	Combined Record	118	-	-	Medium density dwelling	$246,000	0.62
+2017	506578	9/32 Fullerton Crescent	24/07/2017	-	22/06/2017	$360,000	0m	Full transfer	3	1	-	1	0	$360,000	32	-	Allhomes Record	-	-	-	-	-	-
+2017	513673	4/40 Fullerton Crescent	17/02/2017	31/05/2017	-	$90,000	4673m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	543681	3 Austral Place	25/04/2017	11/10/2018	-	$0	864m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	531010	39 Baynton Street	09/04/2017	20/04/2018	-	$0	768m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518268	50 Twamley Crescent	30/06/2017	28/08/2017	21/06/2017	$0	837m	Full transfer	3	1	0	2	0	$0	9	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.62
+2017	547590	63 Prichard Circuit	10/08/2017	29/11/2018	-	$0	908m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537294	13 Leakey Place	08/12/2017	04/07/2018	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518091	41 Vidal Street	24/04/2017	29/08/2017	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514214	14 Chauncy Crescent	15/02/2017	28/06/2017	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529563	28 Grimshaw Street	14/06/2017	04/04/2018	-	$0	1112m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503093	9 Pedley Place	13/02/2017	05/04/2017	-	$0	795m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525818	31 Vidal Street	27/09/2017	14/02/2018	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523262	67 Prichard Circuit	24/11/2017	18/01/2018	-	$0	824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525992	8 Pedley Place	27/10/2017	14/02/2018	20/10/2017	$0	1013m	Full transfer	5	2	-	2	2	$0	7	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.62
+2017	518697	31 Clift Crescent	28/04/2017	19/09/2017	-	$0	962m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534979	30 Kiddle Crescent	13/04/2018	12/06/2018	16/11/2017	$750,000	888m	Full transfer	5	3	-	0	2	$750,000	148	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.44
+2018	551687	41 Grimshaw Street	15/11/2018	10/01/2019	29/08/2018	$668,000	880m	Full transfer	5	2	-	2	-	$668,000	78	-	Combined Record	-	-	-	Single residential dwelling...	$282,000	0.42
+2018	540961	1 Longman Street	30/06/2018	29/08/2018	07/06/2018	$657,000	1184m	Full transfer	5	2	-	3	2	$657,000	23	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.48
+2018	525487	12 Hemmings Crescent	02/03/2018	-	05/12/2017	$650,000	721m	Full transfer	5	2	-	2	2	$650,000	87	-	Allhomes Record	-	-	-	-	$282,000	0.43
+2018	538527	37 Deamer Crescent	07/06/2018	25/07/2018	07/02/2018	$645,000	1351m	Full transfer	5	2	-	0	2	$645,000	120	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.54
+2018	551737	89 Twamley Crescent	09/11/2018	07/01/2019	17/10/2018	$640,000	920m	Full transfer	4	1	1	2	2	$640,000	23	-	Combined Record	185	-	-	Single residential dwelling	$349,000	0.55
+2018	540887	37 Twamley Crescent	06/07/2018	27/08/2018	30/01/2018	$640,000	1307m	Full transfer	4	1	1	2	-	$640,000	157	-	Combined Record	202	-	-	Single residential dwelling	$346,000	0.54
+2018	548288	38 May Gibbs Close	13/09/2018	06/11/2018	-	$625,000	779m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2018	549161	87 Twamley Crescent	09/10/2018	24/12/2018	12/09/2018	$620,000	1184m	Full transfer	4	1	1	4	-	$620,000	27	-	Combined Record	162	-	-	Single residential dwelling	$360,000	0.58
+2018	538478	9 Tuck Place	11/05/2018	24/07/2018	24/04/2018	$610,000	957m	Full transfer	4	2	-	2	0	$610,000	17	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.6
+2018	544187	2 Baynton Street	27/10/2018	-	27/09/2018	$609,000	0m	Full transfer	3	2	-	2	0	$609,000	30	-	Allhomes Record	-	-	-	-	-	-
+2018	551716	39 Kiddle Crescent	27/10/2018	09/01/2019	-	$607,000	1046m	Full transfer	-	-	-	-	-	$607,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530374	48 Prichard Circuit	29/01/2018	11/04/2018	01/11/2017	$595,000	909m	Full transfer	3	1	1	-	2	$595,000	89	-	Combined Record	138	-	-	Single residential dwelling	$318,000	0.53
+2018	547670	1 McBurney Crescent	25/09/2018	30/11/2018	-	$593,000	1010m	Full transfer	-	-	-	-	-	$593,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528667	24 Deamer Crescent	19/01/2018	22/03/2018	14/12/2017	$590,000	1088m	Full transfer	4	2	-	2	0	$590,000	36	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.59
+2018	530093	12 Baynton Street	10/02/2018	09/04/2018	17/01/2018	$586,000	798m	Full transfer	3	1	-	4	0	$586,000	24	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.48
+2018	535619	38 Casson Street	19/04/2018	18/06/2018	27/02/2018	$580,000	1271m	Full transfer	4	1	-	2	0	$580,000	51	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.61
+2018	533292	8 Franc Place	23/03/2018	21/05/2018	24/01/2018	$580,000	900m	Full transfer	4	2	-	2	0	$580,000	58	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.53
+2018	538220	58 Twamley Crescent	24/05/2018	18/07/2018	02/05/2018	$577,000	839m	Full transfer	3	1	-	2	-	$577,000	22	-	Combined Record	122	-	-	Single residential dwelling	$346,000	0.6
+2018	535236	71 Chauncy Crescent	29/06/2018	-	04/06/2018	$570,000	0m	Full transfer	3	2	-	1	1	$570,000	25	-	Allhomes Record	-	-	-	-	$260,000	0.46
+2018	552293	38 Beattie Crescent	09/11/2018	21/01/2019	03/10/2018	$568,000	940m	Full transfer	3	1	-	2	0	$568,000	37	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.53
+2018	542737	28 Twamley Crescent	26/07/2018	28/09/2018	13/04/2018	$565,000	826m	Full transfer	3	1	-	2	0	$565,000	104	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.58
+2018	542077	8 Wentcher Place	04/10/2018	-	19/08/2018	$552,500	-	Full transfer	3	1	-	2	2	$552,500	46	-	Allhomes Record	124	-	-	-	$328,000	0.59
+2018	550953	1 Streeter Place	08/11/2018	09/01/2019	-	$550,000	956m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534063	34 Chauncy Crescent	28/03/2018	29/05/2018	08/03/2018	$549,000	1029m	Full transfer	4	1	-	0	2	$549,000	20	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.6
+2018	547679	44 Chauncy Crescent	14/09/2018	29/11/2018	09/08/2018	$545,000	846m	Full transfer	3	1	-	2	0	$545,000	36	-	Combined Record	-	-	-	Single residential dwelling...	$310,000	0.57
+2018	537415	89 Deamer Crescent	22/06/2018	11/07/2018	-	$545,000	888m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539110	15 Baynton Street	14/05/2018	02/08/2018	20/02/2018	$532,000	921m	Full transfer	3	1	-	2	-	$532,000	83	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.62
+2018	546842	12 Leakey Place	13/07/2018	30/11/2018	-	$530,000	1039m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543701	4 Tuck Place	18/08/2018	08/10/2018	17/07/2018	$527,500	810m	Full transfer	3	1	-	2	-	$527,500	32	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.66
+2018	534923	28 Vidal Street	03/04/2018	13/06/2018	-	$518,000	721m	Full transfer	-	-	-	-	-	$518,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549604	23 Casson Street	18/09/2018	01/11/2018	17/08/2018	$510,000	929m	Full transfer	3	1	-	-	2	$510,000	32	-	Combined Record	87	-	-	Single residential dwelling	$347,000	0.68
+2018	533407	75 Deamer Crescent	02/02/2018	27/05/2018	23/01/2018	$502,000	828m	Full transfer	4	2	-	2	-	$502,000	10	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.64
+2018	537110	41 Vidal Street	18/04/2018	05/07/2018	01/02/2018	$501,000	764m	Full transfer	3	1	-	0	1	$501,000	76	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.63
+2018	542404	10 Fullerton Crescent	17/07/2018	17/09/2018	-	$500,000	705m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535414	1 Mellish Place	16/04/2018	20/06/2018	-	$500,000	1088m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	533295	3 Wentcher Place	23/03/2018	27/05/2018	-	$495,000	867m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528415	31 Vidal Street	12/01/2018	25/03/2018	01/12/2017	$483,000	749m	Full transfer	3	1	-	2	0	$483,000	42	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.66
+2018	525586	7/40 Fullerton Crescent	05/03/2018	-	12/02/2018	$465,000	233m	Full transfer	3	2	-	2	0	$465,000	21	-	Allhomes Record	-	-	-	-	-	-
+2018	550137	3 Devanny Place	18/10/2018	10/12/2018	-	$458,500	961m	Full transfer	-	-	-	-	-	$458,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	536537	23 Harford Street	05/05/2018	28/06/2018	12/04/2018	$457,000	724m	Full transfer	3	1	-	1	-	$457,000	23	-	Combined Record	107	-	-	For residential purposes only	$282,000	0.62
+2018	525518	30 Twamley St	28/02/2018	-	30/01/2018	$445,000	-	Full transfer	3	1	-	-	-	$445,000	29	-	Allhomes Record	104	-	-	-	$327,000	0.73
+2018	533538	33 Baynton Street	20/03/2018	24/05/2018	20/02/2018	$445,000	828m	Full transfer	3	1	-	-	-	$445,000	28	-	Combined Record	-	-	-	Single residential dwelling...	$282,000	0.63
+2018	550462	47 Twamley Crescent	21/11/2018	10/01/2019	25/10/2018	$445,000	1097m	Full transfer	3	1	-	0	0	$445,000	27	-	Combined Record	-	-	-	Single residential dwelling...	$271,000	0.61
+2018	540393	9 Vidal Place	27/06/2018	21/08/2018	05/06/2018	$440,000	713m	Full transfer	3	1	-	0	0	$440,000	22	-	Combined Record	-	-	-	For residential purposes only	$300,000	0.68
+2018	526908	5/40 Fullerton Crescent	08/01/2018	07/03/2018	24/10/2017	$440,000	4673m	Full transfer	3	1	1	2	-	$440,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534442	6 Kennewell Place	04/04/2018	07/06/2018	05/03/2018	$432,000	768m	Full transfer	3	1	-	0	0	$432,000	30	-	Combined Record	-	-	-	Single residential dwelling...	$328,000	0.76
+2018	528250	25 McBurney Crescent	24/01/2018	25/03/2018	-	$420,000	815m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539499	10 Vidal Place	30/05/2018	08/08/2018	07/05/2018	$420,000	927m	Full transfer	3	1	-	0	1	$420,000	23	-	Combined Record	-	-	-	Single residential dwelling...	$310,000	0.74
+2018	544081	8/54 Deamer Crescent	05/09/2018	19/10/2018	19/07/2018	$410,000	3175m	Full transfer	3	1	-	1	-	$410,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	541217	30 Rohan Street	18/07/2018	06/09/2018	-	$176,000	565m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	533578	42 Casson Street	10/01/2018	21/05/2018	-	$0	779m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554575	5 Pogney Place	01/12/2018	05/03/2019	-	$0	393m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	567789	52 Prichard Circuit	05/03/2018	21/08/2019	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540983	66 Beattie Crescent	01/05/2018	30/08/2018	-	$0	1047m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540993	10 Gonzaga Place	05/06/2018	29/08/2018	13/04/2018	$0	773m	Full transfer	3	1	-	0	2	$0	53	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.74
+2018	542674	28 Grimshaw Street	13/07/2018	24/09/2018	31/05/2018	$0	1112m	Full transfer	3	2	-	2	0	$0	43	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.74
+2018	550415	14 Mack Street	22/09/2018	08/01/2019	-	$0	607m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	540268	55 Hemmings Crescent	02/06/2018	20/08/2018	-	$0	1224m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547653	6 Morduant Place	25/09/2018	27/11/2018	30/07/2018	$0	756m	Full transfer	5	2	-	0	1	$0	57	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.74
+2019	556142	19 McBurney Crescent	28/02/2019	29/03/2019	08/02/2019	$815,000	1033m	Full transfer	4	2	1	2	0	$815,000	20	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.43
+2019	574784	10 Longman Street	14/09/2019	14/11/2019	22/08/2019	$705,000	783m	Full transfer	4	2	-	2	1	$705,000	23	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.49
+2019	574217	6 Twamley Crescent	10/12/2019	-	21/11/2019	$655,500	1077m	Full transfer	3	2	-	2	0	$655,500	19	-	Allhomes Record	-	-	-	-	$352,000	0.54
+2019	574153	56 Beattie Crescent	07/12/2019	-	14/11/2019	$647,000	1130m	Full transfer	3	2	-	0	0	$647,000	23	-	Allhomes Record	-	-	-	-	$315,000	0.49
+2019	555878	8 Grigg Place	04/02/2019	20/03/2019	01/11/2018	$645,000	1105m	Partial transfer	4	2	-	4	-	$645,000	95	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.59
+2019	575697	39 Vidal Street	01/11/2019	07/12/2019	24/09/2019	$625,500	981m	Full transfer	4	1	-	2	-	$625,500	38	-	Combined Record	118	-	-	Single residential dwelling	$323,000	0.52
+2019	573387	24 Vidal Street	21/11/2019	-	09/10/2019	$625,000	0m	Full transfer	3	2	-	0	6	$625,000	43	-	Allhomes Record	-	-	-	-	$296,000	0.47
+2019	568281	32 Beattie Crescent	29/07/2019	28/08/2019	04/07/2019	$620,000	893m	Full transfer	3	2	-	2	2	$620,000	25	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.5
+2019	561061	10 Prichard Circuit	06/02/2019	13/03/2019	12/11/2018	$620,000	875m	Full transfer	4	1	1	-	2	$620,000	86	-	Combined Record	154	-	-	Single residential dwelling	$310,000	0.5
+2019	560335	18 Beattie Crescent	15/01/2019	20/02/2019	05/12/2018	$612,000	697m	Full transfer	3	2	-	2	0	$612,000	41	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.43
+2019	556340	39 Fullerton Crescent	23/02/2019	29/03/2019	17/10/2018	$600,000	815m	Full transfer	3	1	-	-	-	$600,000	129	-	Combined Record	-	-	-	Single residential dwelling	$281,000	0.47
+2019	576826	44 Kiddle Crescent	23/10/2019	12/12/2019	25/09/2019	$600,000	793m	Full transfer	3	1	-	2	0	$600,000	28	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.55
+2019	570170	45 Clift Crescent	11/10/2019	-	04/09/2019	$595,000	-	Full transfer	3	2	-	2	-	$595,000	37	-	Allhomes Record	122	-	-	-	$287,000	0.48
+2019	555926	24 Kiddle Crescent	01/02/2019	19/03/2019	26/11/2018	$595,000	891m	Full transfer	3	2	-	2	0	$595,000	67	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.55
+2019	575080	74 Twamley Crescent	11/12/2019	-	14/11/2019	$560,000	836m	Full transfer	3	1	-	0	2	$560,000	27	-	Allhomes Record	-	-	-	-	$352,000	0.63
+2019	573807	47 Fullerton Crescent	20/09/2019	04/11/2019	20/08/2019	$555,000	745m	Full transfer	3	1	-	2	2	$555,000	31	-	Combined Record	131	-	-	Single residential dwelling	$264,000	0.48
+2019	573513	31 Laker Crescent	25/11/2019	-	18/10/2019	$555,000	0m	Full transfer	3	1	-	1	-	$555,000	38	-	Allhomes Record	-	-	-	-	$348,000	0.63
+2019	554426	75 Twamley Crescent	22/01/2019	04/03/2019	05/12/2018	$550,000	829m	Full transfer	3	1	-	2	0	$550,000	48	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.6
+2019	561820	6 Deamer Crescent	06/03/2019	17/04/2019	13/02/2019	$540,500	763m	Full transfer	3	1	-	1	1	$540,500	21	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.61
+2019	574936	67 Clift Crescent	20/03/2019	18/11/2019	-	$540,000	992m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560259	12 Wentcher Place	20/02/2019	18/04/2019	24/01/2019	$535,000	867m	Full transfer	3	1	-	2	0	$535,000	27	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.61
+2019	565508	57 Prichard Circuit	18/06/2019	23/07/2019	06/03/2019	$533,000	787m	Full transfer	4	1	-	2	-	$533,000	104	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.59
+2019	556234	65 Prichard Circuit	22/02/2019	26/03/2019	23/01/2019	$532,000	850m	Full transfer	3	1	-	2	0	$532,000	30	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.63
+2019	575760	8 Fullerton Crescent	17/10/2019	07/12/2019	20/08/2019	$531,000	757m	Full transfer	3	1	-	4	2	$531,000	58	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.61
+2019	565397	7 Tuck Place	19/06/2019	26/07/2019	28/09/2018	$525,000	737m	Full transfer	3	2	-	2	-	$525,000	264	-	Combined Record	132	-	-	Single residential dwelling	$328,000	0.62
+2019	571316	            33 McBurney Street	24/10/2019	-	30/08/2019	$525,000	0m	Full transfer	3	1	-	1	-	$525,000	55	-	Allhomes Record	-	-	-	-	-	-
+2019	557668	85 Chauncy Crescent	05/03/2019	24/04/2019	22/01/2019	$525,000	741m	Full transfer	3	1	-	0	2	$525,000	42	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.6
+2019	568179	13 Prichard Circuit	07/08/2019	27/08/2019	17/07/2019	$525,000	820m	Full transfer	3	1	-	1	0	$525,000	21	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.59
+2019	576017	33 McBurney Crescent	24/10/2019	05/12/2019	-	$525,000	837m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572500	5 Casson Street	18/11/2019	-	30/09/2019	$515,000	839m	Full transfer	3	1	-	-	1	$515,000	49	-	Allhomes Record	-	-	-	-	$353,000	0.69
+2019	565526	3 Gonzaga Place	01/07/2019	24/07/2019	28/03/2019	$503,000	726m	Full transfer	3	1	-	2	-	$503,000	95	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.69
+2019	560246	5 Zadow Place	27/02/2019	03/04/2019	12/02/2019	$502,500	425m	Full transfer	3	1	-	0	2	$502,500	15	-	Combined Record	-	-	-	Medium density dwelling	$236,000	0.47
+2019	572369	1/32 Fullerton Crescent	21/08/2019	14/10/2019	-	$500,000	3535m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576897	5 Hourigan Place	20/12/2019	-	31/10/2019	$490,000	0m	Full transfer	3	1	-	1	1	$490,000	50	-	Allhomes Record	-	-	-	-	$261,000	0.53
+2019	576948	20 Rohan Street	20/12/2019	-	27/11/2019	$475,000	613m	Full transfer	3	1	-	1	0	$475,000	23	-	Allhomes Record	-	-	-	-	$331,000	0.7
+2019	570337	41 Twamley Crescent	09/08/2019	24/09/2019	12/06/2019	$465,000	767m	Full transfer	3	1	-	0	0	$465,000	58	-	Combined Record	-	-	-	Single residential dwelling...	$327,000	0.7
+2019	557666	10 Pogney Place	06/03/2019	17/04/2019	23/11/2018	$458,000	379m	Full transfer	4	2	-	0	1	$458,000	103	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.56
+2019	560279	55 Hemmings Crescent	08/03/2019	31/05/2019	-	$450,000	1224m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572072	2/10 Zadow Place	01/11/2019	-	20/08/2019	$435,000	0m	Full transfer	3	1	-	1	0	$435,000	73	-	Allhomes Record	-	-	-	-	-	-
+2019	560538	5 Pogney Place	19/03/2019	06/05/2019	07/03/2019	$430,000	393m	Full transfer	3	1	-	0	2	$430,000	12	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.6
+2019	576762	16 Baynton Street	10/10/2019	09/12/2019	-	$315,000	991m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576427	5 Hourigan Place	01/06/2019	13/12/2019	-	$0	366m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	565700	77 Fullerton Crescent	06/04/2019	26/07/2019	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
