@@ -1,0 +1,125 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	1891	            10/21 Temperley Street	12/07/2006	-	06/04/2006	$3,800,000	14001m	Full transfer	3	1	1	2	-	$3,800,000	97	-	Allhomes Record	-	-	-	-	-	-
+2006	4586	            9 Sue Geh Circuit	11/10/2006	-	15/09/2006	$1,000,000	999m	Full transfer	4	1	1	2	1	$1,000,000	26	-	Allhomes Record	-	-	-	-	-	-
+2006	3477	            2 Viner Place	14/08/2006	-	19/07/2006	$978,000	1202m	Full transfer	5	4	-	3	-	$978,000	26	-	Allhomes Record	-	-	-	-	-	-
+2006	1844	            22 Hendry Close	26/05/2006	-	31/03/2006	$840,000	890m	Full transfer	4	2	1	3	-	$840,000	56	-	Allhomes Record	-	-	-	-	-	-
+2006	4149	            73 Lexcen Avenue	28/09/2006	-	01/09/2006	$760,000	1004m	Full transfer	4	1	1	2	-	$760,000	27	-	Allhomes Record	-	-	-	-	-	-
+2006	4139	            8 Kleinig Street	13/11/2006	-	25/08/2006	$710,000	961m	Full transfer	5	1	2	2	-	$710,000	80	-	Allhomes Record	-	-	-	-	$224,000	0.32
+2006	4148	            10 Fleetwood-Smith Street	27/10/2006	-	01/09/2006	$625,000	731m	Full transfer	4	1	1	2	-	$625,000	56	-	Allhomes Record	-	-	-	-	$213,000	0.34
+2006	4616	            179 Temperley Street	06/12/2006	-	22/09/2006	$585,000	832m	Full transfer	4	1	1	3	-	$585,000	75	-	Allhomes Record	-	-	-	-	$211,000	0.36
+2006	4613	            137 Temperley Street	31/10/2006	-	21/09/2006	$563,000	868m	Full transfer	4	1	1	2	-	$563,000	40	-	Allhomes Record	-	-	-	-	$188,000	0.33
+2006	5682	            7 McShane Place	07/12/2006	-	16/11/2006	$552,000	813m	Full transfer	4	1	1	2	-	$552,000	21	-	Allhomes Record	-	-	-	-	-	-
+2006	5456	            8 McShane Place	02/12/2006	-	04/11/2006	$545,500	972m	Full transfer	5	1	1	2	-	$545,500	28	-	Allhomes Record	-	-	-	-	-	-
+2006	5232	            1/21 Krantzcke Circuit	05/12/2006	-	13/10/2006	$460,000	5748m	Full transfer	4	1	1	2	-	$460,000	53	-	Allhomes Record	-	-	-	-	-	-
+2006	21556	            15 Decima Circuit	15/09/2006	-	15/12/2005	$449,950	532m	Full transfer	4	1	1	2	-	$449,950	274	-	Allhomes Record	-	-	-	-	-	-
+2006	21436	            14/21 Krantzcke Circuit	26/01/2006	-	20/10/2005	$429,000	5748m	Full transfer	3	2	1	2	-	$429,000	98	-	Allhomes Record	-	-	-	-	-	-
+2006	2412	            5/149 Kelleway Avenue	09/06/2006	-	04/05/2006	$405,000	4514m	Full transfer	3	1	1	2	-	$405,000	36	-	Allhomes Record	-	-	-	-	-	-
+2006	21458	            3/21 Temperley Street	12/01/2006	-	19/10/2005	$372,000	14001m	Full transfer	3	1	1	2	-	$372,000	85	-	Allhomes Record	-	-	-	-	-	-
+2006	4134	            19 McAuliffe Court Bargain!	22/12/2006	-	21/08/2006	-	900m	Full transfer	4	1	1	2	-	-	123	-	Allhomes Record	-	-	-	-	$203,000	-
+2006	900	             It Will Sell This Weekend	25/03/2006	-	24/02/2006	-	882m	Full transfer	-	-	-	-	-	-	29	-	Allhomes Record	-	-	-	-	-	-
+2007	5008	            37 Sue Geh Circuit	28/06/2007	-	30/10/2006	$1,500,000	1055m	Full transfer	6	1	4	3	-	$1,500,000	241	-	Allhomes Record	-	-	-	-	-	-
+2007	21911	            63 Sue Geh Circuit	26/10/2007	-	10/08/2007	$1,100,000	867m	Full transfer	5	2	1	2	-	$1,100,000	77	-	Allhomes Record	-	-	-	-	-	-
+2007	22142	            7 Kleinig Street	20/04/2007	-	24/04/2007	$945,000	1044m	Full transfer	4	2	1	3	-	$945,000	-	-	Allhomes Record	-	-	-	-	-	-
+2007	21867	            38 Sue Geh Circuit	01/08/2007	-	28/06/2007	$930,000	815m	Full transfer	5	1	1	3	-	$930,000	34	-	Allhomes Record	-	-	-	-	-	-
+2007	38	            4 Dive Place	12/10/2007	-	31/03/2008	$925,000	1096m	Full transfer	4	1	1	2	0	$925,000	-	-	Allhomes Record	-	-	-	-	-	-
+2007	21711	            11 Viner Place	20/06/2007	-	13/03/2007	$915,000	1170m	Full transfer	4	2	1	3	-	$915,000	99	-	Allhomes Record	-	-	-	-	-	-
+2007	21631	            4 Dobbin Circuit	22/03/2007	-	18/01/2007	$825,000	821m	Full transfer	5	1	1	3	-	$825,000	63	-	Allhomes Record	-	-	-	-	-	-
+2007	5687	            23 Fitzsimmons Street	04/04/2007	-	17/11/2006	$815,000	1001m	Full transfer	4	1	1	2	-	$815,000	138	-	Allhomes Record	-	-	-	-	$338,000	0.41
+2007	21752	            16 Hendry Close	19/05/2007	-	13/04/2007	$795,000	1290m	Full transfer	4	2	1	2	-	$795,000	36	-	Allhomes Record	-	-	-	-	$242,000	0.3
+2007	21578	            89 Lexcen Avenue	19/11/2007	-	18/10/2007	$790,000	801m	Full transfer	5	1	2	2	-	$790,000	32	-	Allhomes Record	-	-	-	-	-	-
+2007	21952	            81 Sue Geh Circuit	14/09/2007	-	12/09/2007	$790,000	802m	Full transfer	4	1	1	2	-	$790,000	2	-	Allhomes Record	-	-	-	-	$244,000	0.31
+2007	21651	            6 Peken Place	23/02/2007	-	07/02/2007	$750,000	872m	Full transfer	4	1	1	2	-	$750,000	16	-	Allhomes Record	-	-	-	-	-	-
+2007	21613	            29 McClelland Avenue	15/02/2007	-	03/01/2007	$745,000	768m	Full transfer	4	1	1	2	-	$745,000	43	-	Allhomes Record	-	-	-	-	-	-
+2007	21640	            35 Sutcliffe Street	21/03/2007	-	25/01/2007	$739,000	820m	Full transfer	5	1	1	2	-	$739,000	55	-	Allhomes Record	-	-	-	-	$206,000	0.28
+2007	21850	            119 Temperley Street	17/07/2007	-	11/07/2007	$732,000	866m	Full transfer	4	1	1	2	-	$732,000	6	-	Allhomes Record	-	-	-	-	$182,000	0.25
+2007	21808	            8 Sue Geh Circuit	28/06/2007	-	10/05/2007	$705,000	975m	Full transfer	4	1	1	2	-	$705,000	49	-	Allhomes Record	-	-	-	-	-	-
+2007	21659	            28 Sue Geh Circuit	05/09/2007	-	08/02/2007	$700,000	1033m	Full transfer	4	1	1	2	-	$700,000	209	-	Allhomes Record	-	-	-	-	$230,000	0.33
+2007	21750	            27 Whatmore Court	11/05/2007	-	13/04/2007	$700,000	780m	Full transfer	4	2	1	2	-	$700,000	28	-	Allhomes Record	-	-	-	-	$200,000	0.29
+2007	22141	            28 McClelland Avenue	06/06/2007	-	23/03/2007	$688,000	813m	Full transfer	4	1	1	2	-	$688,000	75	-	Allhomes Record	-	-	-	-	-	-
+2007	5012	            45 Temperley Street	01/02/2007	-	29/09/2006	$685,000	899m	Full transfer	4	1	1	2	-	$685,000	125	-	Allhomes Record	-	-	-	-	-	-
+2007	1337	            8 McAuliffe Court	07/02/2007	-	10/03/2006	$680,000	892m	Full transfer	4	1	1	2	-	$680,000	334	-	Allhomes Record	-	-	-	-	-	-
+2007	6127	            9 Clemenger Street	23/03/2007	-	22/12/2006	$660,000	732m	Full transfer	4	2	1	2	-	$660,000	91	-	Allhomes Record	-	-	-	-	-	-
+2007	21876	            4 Rumbelow Court	09/08/2007	-	11/07/2007	$660,000	746m	Full transfer	4	1	1	2	-	$660,000	29	-	Allhomes Record	-	-	-	-	$215,000	0.33
+2007	21946	            35 McClelland Avenue	01/11/2007	-	13/09/2007	$649,800	758m	Full transfer	4	1	1	2	-	$649,800	49	-	Allhomes Record	-	-	-	-	-	-
+2007	21781	            1 Sue Geh Circuit	24/08/2007	-	03/05/2007	$649,000	1275m	Full transfer	4	1	1	2	-	$649,000	113	-	Allhomes Record	-	-	-	-	-	-
+2007	5011	            22 Donnan Street	30/01/2007	-	29/09/2006	$640,000	768m	Full transfer	4	2	1	3	-	$640,000	123	-	Allhomes Record	-	-	-	-	-	-
+2007	21854	            143 Temperley Street	14/07/2007	-	21/06/2007	$636,000	833m	Full transfer	5	1	1	2	-	$636,000	23	-	Allhomes Record	-	-	-	-	$188,000	0.3
+2007	21945	            141 Temperley Street	22/11/2007	-	13/09/2007	$635,000	851m	Full transfer	4	1	1	2	-	$635,000	70	-	Allhomes Record	-	-	-	-	-	-
+2007	5010	            4 Metcalfe Street	23/01/2007	-	01/11/2006	$635,000	805m	Full transfer	4	2	1	2	-	$635,000	83	-	Allhomes Record	-	-	-	-	$202,000	0.32
+2007	21870	            32 McClelland Avenue	30/07/2007	-	29/06/2007	$592,000	771m	Full transfer	4	1	1	2	-	$592,000	31	-	Allhomes Record	-	-	-	-	-	-
+2007	21624	            160 Temperley Street	27/04/2007	-	15/01/2007	$585,000	832m	Full transfer	4	1	1	2	-	$585,000	102	-	Allhomes Record	-	-	-	-	$220,000	0.38
+2007	21967	            6 Phillis Place	09/11/2007	-	20/09/2007	$585,000	718m	Full transfer	3	2	1	2	-	$585,000	50	-	Allhomes Record	-	-	-	-	-	-
+2007	21909	            10/35 Edie Payne Close	15/09/2007	-	09/08/2007	$580,000	16950m	Full transfer	3	1	1	2	-	$580,000	37	-	Allhomes Record	-	-	-	-	-	-
+2007	21823	            7 Moriarty Street	27/07/2007	-	31/05/2007	$580,000	706m	Full transfer	4	1	1	2	-	$580,000	57	-	Allhomes Record	-	-	-	-	-	-
+2007	21972	            4/7 Seaborn Place	19/10/2007	-	10/10/2007	$450,000	1835m	Full transfer	3	2	1	2	-	$450,000	9	-	Allhomes Record	-	-	-	-	-	-
+2007	21681	            3/123 Kelleway Avenue	23/03/2007	-	16/02/2007	$420,000	6339m	Full transfer	3	1	1	2	-	$420,000	35	-	Allhomes Record	-	-	-	-	-	-
+2007	21767	            3/87 Kelleway Avenue	11/10/2007	-	19/04/2007	$400,000	3579m	Full transfer	3	1	1	2	-	$400,000	175	-	Allhomes Record	-	-	-	-	-	-
+2007	21893	            9/87 Kelleway Avenue	27/08/2007	-	26/07/2007	$395,000	3579m	Full transfer	3	1	1	2	-	$395,000	32	-	Allhomes Record	-	-	-	-	-	-
+2008	22685	            1 Midwinter Place	02/05/2008	-	31/08/2007	$1,390,000	1517m	Full transfer	5	4	2	6	-	$1,390,000	245	-	Allhomes Record	-	-	-	-	-	-
+2008	22977	            4 Cecins Place	04/09/2008	-	17/10/2007	$1,150,000	1401m	Full transfer	5	2	1	2	-	$1,150,000	323	-	Allhomes Record	-	-	-	-	-	-
+2008	22317	            12 Fleetwood Smith St	04/04/2008	-	18/01/2008	$895,000	827m	Full transfer	4	2	1	3	-	$895,000	77	-	Allhomes Record	-	-	-	-	-	-
+2008	22695	            2 Keily Close	15/08/2008	-	08/05/2008	$795,000	828m	Full transfer	6	2	1	3	-	$795,000	99	-	Allhomes Record	-	-	-	-	-	-
+2008	22414	            177 Temperley Street	15/08/2008	-	22/05/2008	$705,000	799m	Full transfer	4	1	1	2	-	$705,000	85	-	Allhomes Record	-	-	-	-	-	-
+2008	25	            2 Eve Place	29/02/2008	-	31/03/2008	$701,000	767m	Full transfer	5	1	1	3	0	$701,000	-	-	Allhomes Record	-	-	-	-	-	-
+2008	22746	            3 McShane Place	11/04/2008	-	19/03/2008	$635,000	721m	Full transfer	5	1	1	2	-	$635,000	23	-	Allhomes Record	-	-	-	-	-	-
+2008	23030	            28 Whitfield Cct	05/12/2008	-	15/08/2008	$634,950	853m	Full transfer	3	1	1	2	-	$634,950	112	-	Allhomes Record	-	-	-	-	-	-
+2008	22273	            2 Tubman Place	16/01/2008	-	24/10/2007	$590,000	721m	Full transfer	4	1	1	2	-	$590,000	84	-	Allhomes Record	-	-	-	-	-	-
+2008	22700	            24/21 Temperley Street	03/10/2008	-	13/05/2008	$410,000	14001m	Full transfer	3	1	1	2	0	$410,000	143	-	Allhomes Record	-	-	-	-	-	-
+2008	22322	            1/133 Kelleway Avenue	14/03/2008	-	30/01/2008	$400,000	3949m	Full transfer	3	2	1	2	-	$400,000	44	-	Allhomes Record	-	-	-	-	-	-
+2008	22428	            3/149 Kelleway Avenue	15/08/2008	-	11/06/2008	$396,000	4514m	Full transfer	3	1	1	2	0	$396,000	65	-	Allhomes Record	-	-	-	-	-	-
+2009	23777	            9 Kleinig Street	14/10/2009	-	10/07/2009	$950,000	1025m	Full transfer	4	1	1	2	-	$950,000	96	-	Allhomes Record	-	-	-	-	-	-
+2009	23750	            7 Mc Ritchie Circuit	10/09/2009	-	21/08/2009	$895,000	894m	Full transfer	5	1	1	3	-	$895,000	20	-	Allhomes Record	-	-	-	-	-	-
+2009	139909	            22 Sue Geh Circuit	30/10/2009	-	25/09/2009	$855,000	891m	Full transfer	4	1	2	2	-	$855,000	35	-	Allhomes Record	-	-	-	-	$290,000	0.34
+2009	23770	            60 Lexcen Avenue	20/07/2009	-	03/06/2009	$690,000	1000m	Full transfer	4	1	2	2	0	$690,000	47	-	Allhomes Record	-	-	-	-	-	-
+2009	247193	            10/45 Dobbin Circuit	16/12/2009	-	23/10/2009	$660,000	6666m	Full transfer	3	1	1	2	-	$660,000	54	-	Allhomes Record	-	-	-	-	$1,293,000	1.96
+2009	247389	            5/29 Temperley Street	21/12/2009	-	27/10/2009	$610,000	12410m	Full transfer	3	1	1	2	-	$610,000	55	-	Allhomes Record	-	-	-	-	$2,974,000	4.88
+2009	23736	            23 Clemenger Street	02/07/2009	-	20/05/2009	$590,000	769m	Full transfer	4	1	1	2	0	$590,000	43	-	Allhomes Record	-	-	-	-	-	-
+2009	138670	            12/29 Temperley Street	23/11/2009	-	22/09/2009	$547,400	12411m	Full transfer	3	1	1	2	-	$547,400	62	-	Allhomes Record	-	-	-	-	-	-
+2010	256977	            31 Sue Geh Circuit	10/05/2010	-	08/04/2010	$1,280,000	1179m	Full transfer	4	2	2	2	-	$1,280,000	32	-	Allhomes Record	-	-	-	-	$375,000	0.29
+2010	257086	            25 Donnan Street	14/05/2010	-	21/04/2010	$1,065,000	779m	Full transfer	5	1	2	2	-	$1,065,000	23	-	Allhomes Record	-	-	-	-	$310,000	0.29
+2010	258020	            27 Donnan Street	07/06/2010	-	15/04/2010	$950,000	743m	Full transfer	5	1	2	3	-	$950,000	53	-	Allhomes Record	-	-	-	-	$310,000	0.33
+2010	252791	            1 Gordon Close	06/03/2010	-	17/02/2010	$735,000	836m	Full transfer	4	1	1	2	-	$735,000	17	-	Allhomes Record	-	-	-	-	$170,000	0.23
+2010	272558	            10 McKinnon Street	22/12/2010	-	11/11/2010	$685,000	723m	Full transfer	5	1	1	2	-	$685,000	41	-	Allhomes Record	-	-	-	-	$2,590,000	3.78
+2010	263458	            26/35 Edie Payne Close	21/06/2010	-	05/05/2010	$615,000	16950m	Full transfer	3	1	1	2	-	$615,000	47	-	Allhomes Record	158	-	-	-	$4,957,000	8.06
+2010	266162	22/35 Edie Payne Close	22/09/2010	-	24/08/2010	$610,000	16950m	Full transfer	3	1	1	2	-	$610,000	29	-	Allhomes Record	178	-	-	-	$5,453,000	8.94
+2010	265148	            4/23 Temperley Street	16/07/2010	-	25/05/2010	$572,000	12766m	Full transfer	3	1	1	2	-	$572,000	52	-	Allhomes Record	-	-	-	-	$3,123,000	5.46
+2010	256687	            33/35 Edie Payne Close	29/04/2010	-	26/03/2010	$570,000	16950m	Full transfer	3	1	1	2	-	$570,000	34	-	Allhomes Record	-	-	-	-	$4,957,000	8.7
+2010	263433	            4/21 Temperley Street	10/06/2010	-	05/05/2010	$531,000	14001m	Full transfer	3	1	1	2	-	$531,000	36	-	Allhomes Record	-	-	-	-	$3,348,000	6.31
+2010	258348	            25/21 Temperley Street	07/06/2010	-	08/04/2010	$501,000	14001m	Full transfer	3	1	1	2	-	$501,000	60	-	Allhomes Record	-	-	-	-	$3,348,000	6.68
+2011	348902	            6 Sutcliffe Street	22/12/2011	-	08/06/2011	$1,220,000	-	Full transfer	6	1	3	6	-	$1,220,000	197	-	Allhomes Record	415	-	-	-	-	-
+2011	341944	            6 Midwinter Place	24/10/2011	-	13/10/2011	$1,100,000	953m	Full transfer	5	1	1	2	-	$1,100,000	11	-	Allhomes Record	-	-	-	-	$394,000	0.36
+2011	341406	            21 Whiteside Court	25/10/2011	-	28/07/2011	$830,000	1017m	Full transfer	6	2	2	2	-	$830,000	89	-	Allhomes Record	-	-	-	-	$444,000	0.53
+2011	339831	            142 Temperley Street	15/10/2011	-	21/09/2011	$806,000	1245m	Full transfer	5	1	1	2	-	$806,000	24	-	Allhomes Record	-	-	-	-	$491,000	0.61
+2011	338221	            4 Tange Place	29/09/2011	-	17/08/2011	$760,000	757m	Full transfer	5	2	1	2	4	$760,000	43	-	Allhomes Record	-	-	-	-	$285,000	0.38
+2011	348762	            50 Temperley Street	20/12/2011	-	16/11/2011	$730,000	874m	Full transfer	4	1	1	2	-	$730,000	34	-	Allhomes Record	-	-	-	-	$372,000	0.51
+2011	326041	            4 Barclay Place	16/08/2011	-	15/06/2011	$710,000	739m	Full transfer	4	1	1	2	-	$710,000	62	-	Allhomes Record	-	-	-	-	$325,000	0.46
+2011	348522	            2 Tubman Place	12/12/2011	-	05/10/2011	$678,000	721m	Full transfer	5	1	1	2	-	$678,000	68	-	Allhomes Record	-	-	-	-	$334,000	0.49
+2011	294173	            3 McKinnon Street	16/06/2011	-	10/05/2011	$657,000	794m	Full transfer	4	1	1	2	-	$657,000	37	-	Allhomes Record	-	-	-	-	$259,000	0.39
+2011	300991	            9/21 Krantzcke Circuit	05/08/2011	-	25/05/2011	$545,000	5748m	Full transfer	4	1	1	2	-	$545,000	72	-	Allhomes Record	-	-	-	-	-	-
+2011	287201	4/7 Seaborn Place	29/04/2011	-	03/03/2011	$510,000	1835m	Full transfer	3	1	1	2	-	$510,000	57	-	Allhomes Record	-	-	-	-	$839,000	1.65
+2011	285551	            3/149 Kelleway Avenue	12/04/2011	-	03/03/2011	$447,000	4514m	Full transfer	3	1	1	2	-	$447,000	40	-	Allhomes Record	-	-	-	-	$492,000	1.1
+2012	375044	            15 Donnan Street	08/08/2012	-	11/07/2012	$848,000	921m	Full transfer	5	1	1	3	-	$848,000	28	-	Allhomes Record	-	-	-	-	$368,000	0.43
+2012	375797	            11 Fitzsimmons Street	31/08/2012	-	19/07/2012	$725,000	957m	Full transfer	4	1	1	2	-	$725,000	43	-	Allhomes Record	-	-	-	-	$368,000	0.51
+2012	385130	            84 McClelland Avenue	21/12/2012	-	04/12/2012	$715,000	735m	Full transfer	5	1	1	2	-	$715,000	17	-	Allhomes Record	-	-	-	-	$334,000	0.47
+2012	363501	            8 Donnan Street	14/04/2012	-	11/11/2011	$695,000	797m	Full transfer	4	1	1	2	-	$695,000	155	-	Allhomes Record	-	-	-	-	$353,000	0.51
+2012	366171	            6 Rumbelow Court	10/05/2012	-	29/02/2012	$660,000	747m	Full transfer	4	1	1	2	-	$660,000	71	-	Allhomes Record	-	-	-	-	$350,000	0.53
+2012	361463	            182 Temperley Street	04/04/2012	-	28/09/2011	$645,000	865m	Full transfer	4	1	1	2	-	$645,000	189	-	Allhomes Record	-	-	-	-	$354,000	0.55
+2012	370324	            11/45 Dobbin Circuit	13/05/2012	-	18/04/2012	$625,000	6666m	Full transfer	4	1	1	2	-	$625,000	25	-	Allhomes Record	-	-	-	-	$154,137	0.25
+2012	362402	            17 Decima Circuit	13/04/2012	-	25/01/2012	$622,000	588m	Full transfer	4	1	1	2	-	$622,000	79	-	Allhomes Record	-	-	-	-	$258,000	0.41
+2013	398841	            1 Peken Place	14/06/2013	-	29/05/2013	$1,067,000	853m	Full transfer	5	2	1	2	-	$1,067,000	16	-	Allhomes Record	-	-	-	-	$398,000	0.37
+2013	408412	            8 Viner Place	14/10/2013	-	24/09/2013	$955,000	995m	Full transfer	4	1	2	3	0	$955,000	20	-	Allhomes Record	-	-	-	-	$453,000	0.47
+2013	399732	            5 Fleetwood-Smith Street	04/07/2013	-	14/01/2013	$940,000	701m	Full transfer	4	2	1	2	1	$940,000	171	-	Allhomes Record	-	-	-	-	$330,000	0.35
+2013	388885	            2 Stedman Place	14/02/2013	-	18/10/2012	$935,000	856m	Full transfer	5	2	1	2	-	$935,000	119	-	Allhomes Record	-	-	-	-	$374,000	0.4
+2013	414354	            4 Hutcheon Place	12/12/2013	-	30/10/2013	$890,000	933m	Full transfer	4	1	1	2	0	$890,000	43	-	Allhomes Record	-	-	-	-	$373,000	0.42
+2013	409685	            62 Sue Geh Circuit	18/10/2013	-	11/09/2013	$890,000	839m	Full transfer	4	1	1	4	0	$890,000	37	-	Allhomes Record	-	-	-	-	$372,000	0.42
+2013	414781	            12 McRitchie Circuit	19/12/2013	-	06/11/2013	$855,000	864m	Full transfer	5	1	1	2	0	$855,000	43	-	Allhomes Record	-	-	-	-	$436,000	0.51
+2013	405963	            36 McClelland Avenue	05/09/2013	-	11/04/2013	$850,000	800m	Full transfer	4	2	1	2	1	$850,000	147	-	Allhomes Record	-	-	-	-	$313,000	0.37
+2013	396901	            9 Metcalfe Street	23/05/2013	-	20/03/2013	$783,000	805m	Full transfer	4	2	1	2	-	$783,000	64	-	Allhomes Record	-	-	-	-	$391,000	0.5
+2013	390988	            17 Fitzsimmons Street	27/03/2013	-	06/02/2013	$762,000	805m	Full transfer	4	1	1	2	1	$762,000	49	-	Allhomes Record	-	-	-	-	$457,000	0.6
+2013	414245	            3 Hellings Place	10/12/2013	-	16/10/2013	$719,000	673m	Full transfer	5	1	1	2	0	$719,000	55	-	Allhomes Record	-	-	-	-	$300,333	0.42
+2013	388073	            10/23 Temperley Street	05/02/2013	-	14/01/2013	$580,000	12766m	Full transfer	3	1	1	2	-	$580,000	22	-	Allhomes Record	-	-	-	-	$189,640	0.33
+2013	412006	            18/21 Temperley Street	08/11/2013	-	20/08/2013	$450,000	0m	Full transfer	3	1	1	2	0	$450,000	80	-	Allhomes Record	-	-	-	-	$172,210	0.38
+2014	438205	            169 Temperley Street	15/11/2014	-	31/10/2014	$1,152,500	1146m	Full transfer	5	2	1	3	0	$1,152,500	15	-	Allhomes Record	-	-	-	-	$473,000	0.41
+2014	440634	            1 Kleinig Street	16/12/2014	-	28/11/2014	$800,000	992m	Full transfer	4	1	1	2	0	$800,000	18	-	Allhomes Record	-	-	-	-	$324,000	0.41
+2014	433283	            123 Temperley Street	03/09/2014	-	08/08/2014	$665,000	792m	Full transfer	4	1	1	2	0	$665,000	26	-	Allhomes Record	-	-	-	-	$331,000	0.5
+2014	428813	            4/23 Temperley Street	04/07/2014	-	26/03/2014	$502,000	12766m	Full transfer	3	1	1	2	0	$502,000	100	-	Allhomes Record	-	-	-	-	$4,526,000	9.02
