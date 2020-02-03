@@ -1,0 +1,1128 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	169406	2/1 Pollock Street	20/11/2006	12/12/2006	13/06/2006	$592,000	945m	Full transfer	3	1	1	2	-	$592,000	160	-	Combined Record	-	-	-	Multiple unit dwelling	$270,000	0.46
+2006	33170	15 Charteris Crescent	30/10/2006	05/12/2006	-	$580,000	1322m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	602	            2/40 Eggleston Crescent	26/05/2006	05/09/2006	-	$555,000	821m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	265	            1/1 Pollock Street	20/11/2006	21/12/2006	-	$550,000	945m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	277	            2/10 Purser Street	13/09/2006	28/11/2006	-	$540,000	890m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	202409	1/2 Pollock Street	26/06/2006	02/08/2006	30/08/2005	$540,000	1027m	Full transfer	3	1	1	1	-	$540,000	300	-	Combined Record	-	-	-	Multiple unit dwelling	$340,000	0.63
+2006	229564	1/40 Eggleston Crescent	19/09/2006	25/10/2006	-	$537,500	821m	Full transfer	-	-	-	-	-	$537,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208180	54 MacFarland Crescent	13/05/2006	27/06/2006	03/04/2006	$530,000	769m	Full transfer	4	1	1	2	-	$530,000	40	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.49
+2006	169473	35 Eggleston Crescent	11/09/2006	14/11/2006	-	$500,000	1443m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	5265	            2/26A Eggleston Crescent	07/09/2006	31/10/2006	-	$495,000	1007m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208256	103 Eggleston Crescent	27/05/2006	10/07/2006	27/04/2006	$485,000	1039m	Full transfer	6	2	-	1	1	$485,000	30	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.55
+2006	14300	2/36 Medley Street	19/04/2006	21/06/2006	-	$460,000	840m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	14299	1/36 Medley Street	17/03/2006	21/04/2006	-	$460,000	840m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	229537	25 Allwood Street	14/09/2006	23/10/2006	30/08/2006	$450,000	990m	Full transfer	3	1	-	1	2	$450,000	15	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.64
+2006	202408	2 Thomson Street	18/05/2006	31/07/2006	01/07/2005	$435,000	1022m	Full transfer	3	1	-	-	1	$435,000	321	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.55
+2006	164827	124 Eggleston Crescent	24/08/2006	13/10/2006	11/08/2006	$431,000	925m	Full transfer	4	1	-	2	1	$431,000	13	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.55
+2006	34309	7 Pollock Street	20/10/2006	29/11/2006	-	$425,000	769m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34677	15 Threlfall Street	08/07/2006	23/08/2006	09/06/2006	$425,000	1330m	Full transfer	3	1	-	1	-	$425,000	29	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.72
+2006	169472	56 MacFarland Crescent	04/09/2006	13/11/2006	-	$425,000	1006m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	14297	            1/22 Threlfall Street	02/02/2006	21/02/2006	-	$419,300	867m	Full transfer	-	-	-	-	-	$419,300	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	9389	            2/129A Eggleston Crescent	21/06/2006	14/08/2006	-	$415,000	845m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208251	1/129A Eggleston Crescent	03/05/2006	23/05/2006	-	$415,000	845m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169720	33 Gledden Street	12/10/2006	11/12/2006	05/10/2006	$413,000	890m	Full transfer	3	1	-	1	-	$413,000	7	-	Combined Record	-	-	-	Single residential dwelling...	$302,000	0.73
+2006	88448	9 Carslaw Street	17/11/2006	-	14/09/2006	$412,000	744m	Full transfer	3	1	-	-	1	$412,000	64	-	Allhomes Record	-	-	-	-	$234,000	0.57
+2006	169282	48 Medley Street	15/12/2006	22/02/2007	-	$410,000	725m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33005	41 Eggleston Crescent	06/10/2006	05/12/2006	-	$400,000	770m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33169	43 Eggleston Crescent	06/10/2006	05/12/2006	-	$400,000	833m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165269	58 Eggleston Crescent	22/12/2006	15/02/2007	-	$400,000	865m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165638	112 Eggleston Crescent	16/09/2006	21/11/2006	-	$398,000	893m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169210	50 MacFarland Crescent	22/12/2006	22/02/2007	-	$393,000	826m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164117	26 Mayne Street	30/06/2006	15/08/2006	-	$390,000	845m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34398	5 Shann Place	11/08/2006	27/09/2006	-	$380,000	836m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208262	17 Pollock Street	24/03/2006	23/05/2006	-	$370,000	727m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208208	32 Charteris Crescent	03/02/2006	12/05/2006	16/08/2005	$365,000	768m	Full transfer	3	1	-	2	-	$365,000	171	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.65
+2006	203566	111 Eggleston Crescent	14/08/2006	29/08/2006	-	$360,000	755m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208198	102 Eggleston Crescent	07/03/2006	13/04/2006	-	$360,000	876m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202407	3 Lamb Place	26/06/2006	31/07/2006	-	$355,000	710m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208153	8 Board Place	07/03/2006	04/05/2006	18/01/2006	$350,000	737m	Full transfer	3	-	-	-	-	$350,000	48	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.76
+2006	208224	8 Thomson Street	30/03/2006	19/05/2006	-	$345,000	746m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208184	3 Wilsmore Crescent	19/05/2006	26/06/2006	26/04/2006	$345,000	792m	Full transfer	3	1	-	1	-	$345,000	23	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.62
+2006	165191	11/48 Charteris Crescent	15/12/2006	14/02/2007	-	$336,000	5930m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208225	29 MacLaurin Crescent	27/01/2006	06/03/2006	04/11/2005	$332,000	788m	Full transfer	3	1	-	-	2	$332,000	84	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.74
+2006	203379	62 Eggleston Crescent	26/07/2006	14/09/2006	-	$330,000	511m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208187	29 MacFarland Crescent	08/03/2006	12/07/2006	-	$320,000	790m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229488	6/43 Anderson Street	12/09/2006	23/10/2006	-	$308,000	5353m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208105	28/6 MacLaurin Crescent	10/05/2006	01/08/2006	-	$295,000	7271m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208193	96 Eggleston Crescent	01/05/2006	22/06/2006	-	$265,000	559m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2006	208266	1/1 Chifley Place	30/05/2006	12/07/2006	-	$264,000	1338m	Full transfer	-	-	-	-	-	$264,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208240	45/17 Medley Street	16/03/2006	28/04/2006	-	$245,000	10736m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37272	73/17 Medley Street	15/05/2006	21/09/2006	-	$243,000	10736m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	72781	12/17 Medley Street	02/03/2006	-	21/12/2005	$240,000	10736m	Full transfer	2	1	-	-	2	$240,000	71	-	Allhomes Record	-	-	-	-	-	-
+2006	169800	53/7 Medley Street	27/10/2006	13/12/2006	-	$240,000	10778m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208232	20/17 Medley Street	06/04/2006	26/04/2006	-	$240,000	10736m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208228	12/17 Medley Street	01/03/2006	24/04/2006	-	$240,000	10736m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208244	63/17 Medley Street	31/03/2006	11/05/2006	-	$239,000	10736m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	89192	12/7 Medley Street	27/10/2006	-	27/09/2006	$227,000	10778m	Full transfer	2	1	-	-	1	$227,000	30	-	Allhomes Record	-	-	-	-	-	-
+2006	32867	12/7 Medley Street	26/10/2006	05/12/2006	-	$227,000	10778m	Full transfer	-	-	-	-	-	$227,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	208241	46/17 Medley Street	16/06/2006	27/07/2006	-	$200,000	10736m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168959	3 McDonald Street	07/09/2006	22/03/2007	-	$0	889m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	409463	6 Warren Place	28/11/2006	30/10/2007	-	$0	1594m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203035	54/7 Medley Street	15/10/2006	05/01/2007	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	120112	17 Renwick Street	24/04/2006	18/04/2007	-	$0	992m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169325	12 Thomson Street	21/12/2006	22/02/2007	-	$0	728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32843	15 Allwood Street	11/07/2006	24/04/2007	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	71847	22A Threlfall Street	02/02/2006	-	04/12/2005	-	435m	Full transfer	3	1	1	-	1	-	60	-	Allhomes Record	-	-	-	-	$341,000	-
+2006	202410	1/129A Eggleston Crescent	26/02/2006	02/08/2006	-	-	845m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	229581	28 Allwood Street	22/07/2006	29/10/2006	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203565	7 Salmond Street	19/06/2006	29/08/2006	-	-	770m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	208257	101 Eggleston Crescent	11/04/2006	19/05/2006	-	-	964m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	67726	36A Medley Street	03/03/2006	-	12/10/2005	-	-	Full transfer	3	1	1	2	-	-	142	-	Allhomes Record	-	-	-	-	$290,000	-
+2006	3059	            61 Mac Laurin Crescent	20/11/2006	-	13/06/2006	-	464m	Full transfer	3	1	1	1	-	-	160	-	Allhomes Record	-	-	-	-	-	-
+2006	5243	            15 Charteris Street	27/10/2006	-	20/10/2006	-	-	Full transfer	4	2	-	1	1	-	7	-	Allhomes Record	-	-	-	-	-	-
+2006	2185	            28/6 MacLaurin Street	10/05/2006	-	20/04/2006	-	7270m	Full transfer	3	1	-	1	-	-	20	-	Allhomes Record	-	-	-	-	$2,538,000	-
+2006	74019	36B Medley Street	20/04/2006	-	24/01/2006	-	-	Full transfer	3	1	1	2	-	-	86	-	Allhomes Record	-	-	-	-	$290,000	-
+2006	82789	26B Eggleston Crescent	07/09/2006	-	15/06/2006	-	510m	Full transfer	4	2	-	2	-	-	84	-	Allhomes Record	-	-	-	-	$249,000	-
+2007	167583	33 Eggleston Crescent	03/09/2007	04/10/2007	-	$1,400,000	2466m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202742	3 Pell Place	18/06/2007	14/10/2007	-	$875,000	1593m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	226267	6 Pell Place	01/09/2007	15/01/2008	10/08/2007	$850,000	946m	Full transfer	4	1	1	2	-	$850,000	22	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.36
+2007	231034	15 Gledden Street	20/11/2007	13/12/2007	16/10/2007	$705,000	1259m	Full transfer	3	1	1	1	-	$705,000	35	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.45
+2007	409460	104 Eggleston Crescent	25/07/2007	30/10/2007	-	$677,500	967m	Full transfer	-	-	-	-	-	$677,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232178	9 Anderson Street	23/08/2007	03/12/2007	-	$665,000	1433m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230597	2/1 Thomson Street	05/12/2007	16/04/2008	-	$632,500	1118m	Full transfer	-	-	-	-	-	$632,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166764	46 MacLaurin Crescent	15/06/2007	07/08/2007	11/06/2007	$600,000	1427m	Full transfer	5	1	1	-	1	$600,000	4	-	Combined Record	-	-	-	Single residential dwelling...	$258,000	0.43
+2007	230575	1 MacLaurin Crescent	15/12/2007	18/02/2008	29/11/2007	$600,000	937m	Full transfer	3	1	-	1	-	$600,000	16	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.37
+2007	409464	56 Wilsmore Crescent	11/09/2007	26/10/2007	05/07/2007	$595,000	1250m	Full transfer	5	1	1	1	1	$595,000	68	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.52
+2007	35390	28 Anderson Street	20/04/2007	18/06/2007	22/03/2007	$577,500	938m	Full transfer	3	1	1	2	1	$577,500	29	-	Combined Record	-	-	-	Single residential dwelling	$252,000	0.44
+2007	409455	2/107 Eggleston Crescent	15/10/2007	05/12/2007	14/09/2007	$574,000	959m	Full transfer	3	1	1	2	-	$574,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	231486	1 MacLaurin Crescent	25/08/2007	21/11/2007	-	$571,000	937m	Full transfer	-	-	-	-	-	$571,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164794	29 Wilsmore Crescent	26/05/2007	13/07/2007	26/04/2007	$561,000	833m	Full transfer	4	2	1	1	2	$561,000	30	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.48
+2007	166895	3 Anderson Street	15/06/2007	07/08/2007	-	$560,000	844m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	232554	31 Eggleston Crescent	03/09/2007	07/11/2007	-	$550,000	853m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	110061	4 Barff Place	29/10/2007	-	18/10/2007	$545,000	820m	Full transfer	3	1	-	2	-	$545,000	11	-	Allhomes Record	-	-	-	-	$268,000	0.49
+2007	164606	4 Lamb Place	04/05/2007	11/07/2007	-	$540,000	633m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235028	33 Anderson Street	05/12/2007	08/02/2008	-	$525,000	906m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167656	49 MacLaurin Crescent	22/08/2007	03/10/2007	-	$525,000	794m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	5308	            1/10 Purser Street	19/01/2007	17/04/2007	-	$515,000	890m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231019	13 Thomson Street	12/11/2007	13/12/2007	26/10/2007	$491,000	698m	Full transfer	3	1	-	-	1	$491,000	17	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.53
+2007	36009	9 Renwick Street	16/05/2007	06/07/2007	-	$490,000	916m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231705	9 Mayne Street	06/10/2007	17/12/2007	12/09/2007	$478,500	695m	Full transfer	3	1	-	2	-	$478,500	24	-	Combined Record	-	-	-	For residential purposes only	$235,000	0.49
+2007	120089	120 Eggleston Crescent	08/02/2007	20/04/2007	24/01/2007	$475,000	1148m	Full transfer	3	1	-	1	1	$475,000	15	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.54
+2007	33513	39 MacFarland Crescent	09/03/2007	24/05/2007	17/10/2006	$472,500	784m	Full transfer	4	1	-	2	-	$472,500	143	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.58
+2007	166546	3 Bosch Place	04/06/2007	24/07/2007	-	$469,000	718m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167447	31 Eggleston Crescent	29/06/2007	07/09/2007	15/06/2007	$465,000	853m	Full transfer	3	1	1	-	1	$465,000	14	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.45
+2007	203248	27 Allwood Street	14/03/2007	31/05/2007	30/01/2007	$465,000	887m	Full transfer	3	1	-	-	2	$465,000	43	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.66
+2007	36991	1 Boyce Place	02/06/2007	19/07/2007	12/05/2007	$460,000	937m	Full transfer	3	1	-	2	-	$460,000	21	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.58
+2007	32788	1 Thomson Street	23/02/2007	27/03/2007	-	$460,000	1118m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231353	21 Salmond Street	11/09/2007	29/11/2007	-	$460,000	1097m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35179	46 Wilsmore Crescent	17/04/2007	06/06/2007	-	$460,000	1198m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235798	17 Renwick Street	19/05/2007	19/03/2008	19/04/2007	$457,000	992m	Full transfer	3	1	-	2	1	$457,000	30	-	Combined Record	-	-	-	Single residential dwelling	$236,000	0.52
+2007	235134	7 Gledden Street	20/11/2007	08/02/2008	-	$457,000	914m	Full transfer	-	-	-	-	-	$457,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36506	3 MacLaurin Crescent	07/05/2007	06/07/2007	09/03/2007	$455,000	701m	Full transfer	4	1	1	2	-	$455,000	59	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.47
+2007	120344	11 Board Place	14/03/2007	14/05/2007	27/02/2007	$449,000	721m	Full transfer	3	1	-	1	-	$449,000	15	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.61
+2007	164364	10 Threlfall Street	29/01/2007	12/03/2007	28/11/2006	$440,000	705m	Full transfer	3	1	1	2	-	$440,000	62	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.62
+2007	121512	4 Welsh Place	17/07/2007	28/08/2007	-	$440,000	1039m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164538	15 Carslaw Street	07/03/2007	12/07/2007	28/02/2007	$430,000	916m	Full transfer	3	1	-	2	-	$430,000	7	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.64
+2007	121100	4 Allwood Street	27/07/2007	12/09/2007	-	$430,000	769m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231162	5 Mayne Street	26/10/2007	10/12/2007	03/10/2007	$420,000	693m	Full transfer	3	1	-	1	-	$420,000	23	-	Combined Record	-	-	-	Single residential dwelling	$228,000	0.54
+2007	120010	12 Shann Place	22/01/2007	02/04/2007	12/12/2006	$420,000	709m	Full transfer	3	1	-	1	1	$420,000	41	-	Combined Record	-	-	-	For residential purposes only	$247,000	0.59
+2007	169366	12 Anderson Street	10/01/2007	22/02/2007	-	$408,000	697m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119854	23 Coghlan Street	07/02/2007	02/04/2007	08/01/2007	$405,000	658m	Full transfer	3	1	1	1	-	$405,000	30	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.68
+2007	409461	102 Eggleston Crescent	25/07/2007	30/10/2007	-	$382,500	876m	Full transfer	-	-	-	-	-	$382,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	122068	28 Allwood Street	11/05/2007	25/09/2007	-	$360,000	800m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	94054	11/48 Charteris Crescent	12/01/2007	-	01/12/2006	$343,000	5930m	Full transfer	2	1	-	1	-	$343,000	42	-	Allhomes Record	-	-	-	-	-	-
+2007	315162	4/43 Anderson Street	25/10/2007	04/12/2007	-	$340,000	5353m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202695	40 MacFarland Crescent	04/07/2007	10/10/2007	-	$340,000	789m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	104974	43 Anderson Street	25/10/2007	-	21/06/2007	$340,000	203m	Full transfer	2	2	-	-	2	$340,000	126	-	Allhomes Record	-	-	-	-	$1,260,000	3.71
+2007	235049	15/7 Medley Street	19/12/2007	06/02/2008	-	$310,000	10778m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233651	55/17 Medley Street	20/11/2007	21/01/2008	-	$309,000	10736m	Full transfer	-	-	-	-	-	$309,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	37006	11/43 Anderson Street	12/06/2007	18/07/2007	-	$300,000	5353m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202785	3/6 MacLaurin Crescent	14/09/2007	10/10/2007	-	$295,000	7271m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409456	34/17 Medley Street	13/02/2007	26/03/2007	22/01/2007	$285,000	10736m	Full transfer	2	1	-	1	-	$285,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	234483	8/17 Medley Street	19/10/2007	25/11/2007	-	$285,000	10736m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	164545	19/6 MacLaurin Crescent	01/06/2007	13/07/2007	-	$285,000	7271m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166447	63/17 Medley Street	13/06/2007	31/07/2007	-	$275,000	10736m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409459	39/7 Medley Street	11/09/2007	31/10/2007	-	$275,000	10778m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33472	11/6 MacLaurin Crescent	30/03/2007	24/05/2007	16/03/2007	$253,000	7271m	Full transfer	2	1	-	-	1	$253,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	$2,538,000	10.03
+2007	35416	52/7 Medley Street	19/01/2007	22/06/2007	-	$247,000	10778m	Full transfer	-	-	-	-	-	$247,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235854	35/17 Medley Street	28/07/2007	08/11/2007	-	$243,000	10736m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33722	28/17 Medley Street	12/03/2007	22/05/2007	-	$232,000	10736m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36445	54/17 Medley Street	24/05/2007	06/07/2007	-	$215,000	10736m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121632	10/48 Charteris Crescent	27/06/2007	29/08/2007	-	$3,160	5930m	Full transfer	-	-	-	-	-	$3,160	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35969	39 Charteris Crescent	02/05/2007	06/07/2007	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32764	6 Lyle Place	23/02/2007	29/03/2007	25/01/2007	$0	773m	Full transfer	4	1	-	2	-	$0	29	-	Combined Record	-	-	-	Single residential dwelling	$281,000	10.03
+2007	35080	10 Coghlan Street	28/03/2007	08/06/2007	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409462	10 Roper Place	13/09/2007	01/11/2007	15/06/2007	$0	988m	Full transfer	5	1	2	3	-	$0	90	-	Combined Record	-	-	-	Single residential dwelling	$319,000	10.03
+2007	166039	19 Thomson Street	13/06/2007	31/07/2007	-	$0	782m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409458	2A Thomson Street	28/09/2007	31/10/2007	-	$0	1022m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	36228	11 Haswell Place	18/04/2007	04/07/2007	23/01/2007	$0	748m	Full transfer	3	1	1	1	1	$0	85	-	Combined Record	-	-	-	Single residential dwelling	$274,000	10.03
+2007	35312	1 Boyce Place	03/01/2007	10/06/2007	-	$0	937m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233492	24 Carslaw Street	12/10/2007	02/06/2008	-	-	852m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	335854	4 D'Arcy Place	27/02/2007	16/08/2011	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232461	30 Anderson Street	23/06/2007	27/06/2008	-	-	779m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21917	            3/6 MacLaurin Street	03/09/2007	-	17/08/2007	-	-	Full transfer	2	1	-	-	1	-	17	-	Allhomes Record	-	-	-	-	-	-
+2007	263573	15/43 Anderson Street	06/06/2007	07/06/2010	-	-	5353m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235725	34/6 MacLaurin Crescent	28/09/2007	27/03/2008	17/01/2002	-	7271m	Full transfer	2	1	-	-	1	-	2080	-	Combined Record	-	-	-	Multiple unit dwelling	$4,754,000	-
+2007	234857	24 Medley Street	12/11/2007	25/03/2008	-	-	739m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	232940	133 Eggleston Crescent	02/04/2007	07/01/2008	-	-	897m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	336187	6 D'Arcy Place	27/02/2007	16/08/2011	-	-	1003m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242260	42 Wilsmore Crescent	27/10/2008	02/02/2009	24/09/2008	$875,000	1631m	Full transfer	4	1	1	-	2	$875,000	33	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.53
+2008	232468	9 Gledden Street	14/04/2008	27/06/2008	11/02/2008	$660,000	961m	Full transfer	4	1	1	1	-	$660,000	63	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.52
+2008	229645	2/41 Eggleston Crescent	03/03/2008	14/07/2008	-	$650,000	1603m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229644	1/41 Eggleston Crescent	03/03/2008	14/07/2008	-	$650,000	1603m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229585	3/41 Eggleston Crescent	03/03/2008	14/07/2008	-	$630,000	1603m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229586	4/41 Eggleston Crescent	03/03/2008	14/07/2008	-	$630,000	1603m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236360	30 Salmond Street	02/02/2008	03/04/2008	-	$630,000	938m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240134	59 MacLaurin Crescent	11/08/2008	27/10/2008	-	$610,000	680m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233736	37 MacLaurin Crescent	16/02/2008	01/07/2008	-	$610,000	841m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	321142	46 MacLaurin Crescent	25/11/2008	08/01/2009	-	$580,000	1427m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	163499	21 Mayne Street	21/02/2008	09/04/2008	23/01/2008	$575,000	711m	Full transfer	3	1	-	-	-	$575,000	29	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.52
+2008	242111	3 Wood Place	05/12/2008	29/01/2009	24/09/2008	$575,000	899m	Full transfer	4	1	-	1	-	$575,000	72	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.64
+2008	236043	10 Lyle Place	09/02/2008	31/03/2008	-	$570,000	761m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236416	21 MacLaurin Crescent	18/04/2008	23/05/2008	29/02/2008	$540,000	845m	Full transfer	4	1	1	1	-	$540,000	49	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.58
+2008	240133	39 Anderson Street	11/09/2008	27/10/2008	04/08/2008	$537,500	981m	Full transfer	3	1	0	-	0	$537,500	38	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.53
+2008	230934	116 Eggleston Crescent	12/04/2008	18/06/2008	11/03/2008	$535,000	1028m	Full transfer	4	2	-	1	-	$535,000	32	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.58
+2008	239929	37 Allwood Street	30/07/2008	15/10/2008	-	$515,000	803m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320567	5 Roper Place	26/03/2008	30/04/2008	-	$515,000	797m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235366	22 Medley Street	21/01/2008	25/02/2008	-	$500,000	679m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235462	106 Eggleston Crescent	11/02/2008	19/03/2008	-	$499,000	950m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242655	3 Charteris Crescent	28/10/2008	26/02/2009	21/04/2008	$485,000	1038m	Full transfer	3	1	0	1	1	$485,000	190	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.76
+2008	229901	4 Boyce Place	30/05/2008	24/07/2008	-	$485,000	1002m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232751	11 Pollock Street	22/02/2008	28/05/2008	-	$485,000	752m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	22922	            2/33 Anderson Street	23/12/2008	-	10/09/2008	$480,000	-	Full transfer	3	1	1	1	1	$480,000	104	-	Allhomes Record	-	-	-	-	-	-
+2008	233818	44 Medley Street	24/05/2008	27/06/2008	-	$480,000	807m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	19206	            2/33A Anderson Street	23/12/2008	24/02/2009	-	$480,000	906m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229900	28 Eggleston Crescent	29/04/2008	22/07/2008	-	$474,000	686m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240630	32 Salmond Street	08/10/2008	05/12/2008	-	$470,000	752m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241202	44 MacFarland Crescent	11/12/2008	18/01/2009	10/10/2008	$459,000	767m	Full transfer	3	1	-	1	-	$459,000	62	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.68
+2008	231043	5 Bosch Place	15/03/2008	22/05/2008	13/04/2008	$458,000	671m	Full transfer	3	1	0	-	1	$458,000	-	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.74
+2008	240052	5 Pollock Street	19/08/2008	23/10/2008	-	$450,000	716m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239848	5 Charteris Crescent	03/09/2008	07/10/2008	-	$450,000	1153m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	17702	            2/31 Anderson Street	26/02/2008	14/04/2008	-	$449,000	906m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	112040	31B Anderson Street	26/02/2008	-	08/02/2008	$449,000	906m	Full transfer	3	1	-	2	-	$449,000	18	-	Allhomes Record	-	-	-	-	$319,000	0.71
+2008	19305	            2/3 Anderson Street	15/12/2008	17/03/2009	-	$447,000	844m	Full transfer	-	-	-	-	-	$447,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239353	17 Wilsmore Crescent	24/09/2008	18/11/2008	24/07/2008	$437,000	845m	Full transfer	3	1	-	2	-	$437,000	62	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.75
+2008	242261	45 MacFarland Crescent	09/12/2008	06/02/2009	26/08/2008	$420,000	778m	Full transfer	3	1	0	1	0	$420,000	105	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.8
+2008	241869	30 Anderson Street	05/12/2008	20/01/2009	20/10/2008	$415,000	779m	Full transfer	3	1	-	2	-	$415,000	46	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.73
+2008	238241	115 Eggleston Crescent	12/12/2008	06/04/2009	09/10/2008	$398,000	813m	Full transfer	3	1	-	2	-	$398,000	64	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.71
+2008	233931	34/6 MacLaurin Crescent	30/05/2008	04/07/2008	-	$339,950	7271m	Full transfer	-	-	-	-	-	$339,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24231	34/6 MacLaurin Crescent	18/04/2008	-	08/04/2008	$339,950	7271m	Full transfer	3	1	-	1	-	$339,950	10	-	Allhomes Record	-	-	-	-	$2,792,000	8.21
+2008	242565	7/17 Medley Street	08/12/2008	23/02/2009	-	$315,000	10736m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239096	48/17 Medley Street	17/10/2008	20/11/2008	-	$313,000	10736m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	118398	48/17 Medley Street	20/10/2008	-	23/09/2008	$313,000	10736m	Full transfer	2	1	-	2	-	$313,000	27	-	Allhomes Record	-	-	-	-	-	-
+2008	237225	65/17 Medley Street	21/07/2008	19/08/2008	-	$305,000	10736m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240788	10/1 Chifley Place	18/09/2008	21/12/2008	-	$300,000	1338m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242943	70/7 Medley Street	12/12/2008	10/03/2009	-	$295,000	10778m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236113	14 Chifley Place	25/01/2008	14/05/2008	-	$295,000	223m	Partial transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Retail	-	-
+2008	233932	69/7 Medley Street	04/06/2008	04/07/2008	-	$295,000	10778m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236090	8/1 Chifley Place	28/02/2008	20/05/2008	-	$295,000	1338m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236819	68/17 Medley Street	03/07/2008	03/09/2008	-	$291,000	10736m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238128	16/17 Medley Street	07/08/2008	12/09/2008	-	$285,000	10736m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233410	2/7 Medley Street	14/05/2008	19/06/2008	-	$280,000	10778m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240587	47/17 Medley Street	29/09/2008	01/12/2008	-	$265,000	10736m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	117896	47/17 Medley Street	30/09/2008	-	08/09/2008	$265,000	10736m	Full transfer	1	1	-	-	1	$265,000	22	-	Allhomes Record	-	-	-	-	-	-
+2008	239050	33/17 Medley Street	17/10/2008	11/11/2008	-	$258,500	10736m	Full transfer	-	-	-	-	-	$258,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230381	21/6 MacLaurin Crescent	04/06/2008	11/08/2008	-	$247,500	7271m	Full transfer	-	-	-	-	-	$247,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	113758	21/6 MacLaurin Crescent	04/07/2008	-	22/05/2008	$247,500	7271m	Full transfer	1	1	-	1	-	$247,500	43	-	Allhomes Record	-	-	-	-	$2,792,000	11.28
+2008	231799	6/1 Chifley Place	11/04/2008	01/07/2008	-	$230,000	1338m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234397	2/45 Eggleston Crescent	01/05/2008	11/06/2008	-	$172,000	1931m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	221351	13/45 Eggleston Crescent	20/02/2008	10/04/2008	-	$160,000	1931m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236820	17/45 Eggleston Crescent	22/07/2008	03/09/2008	-	$153,000	1931m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237076	5/45 Eggleston Crescent	17/10/2008	10/12/2008	-	$147,000	1931m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	118664	17/45 Eggleston Crescent	21/10/2008	-	25/09/2008	$147,000	1931m	Full transfer	-	1	-	-	1	$147,000	26	-	Allhomes Record	-	-	-	-	$93,065	0.63
+2008	239739	1 Warren Place	25/08/2008	03/10/2008	-	$70,000	1202m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234119	7 Stops Place	26/03/2008	11/06/2008	-	$61,000	944m	Full transfer	-	-	-	-	-	$61,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	461596	50 MacLaurin Crescent	16/07/2008	07/09/2015	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239930	115 Eggleston Crescent	08/02/2008	14/10/2008	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236861	3 Eggleston Crescent	02/02/2008	01/09/2008	-	-	886m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242112	3 Charteris Crescent	30/03/2008	29/01/2009	-	-	1038m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239847	126 Eggleston Crescent	15/09/2008	09/10/2008	-	-	903m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239849	5 Haswell Place	25/09/2008	07/10/2008	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234050	2/2A Thomson Street	25/05/2008	23/06/2008	-	-	1022m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241061	1 Anderson Street	28/06/2008	22/12/2008	-	-	875m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239148	4 Warren Place	17/09/2008	09/11/2008	-	-	1564m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	244031	10 Allwood Street	10/09/2008	01/06/2009	-	-	761m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230031	1/40 Eggleston Crescent	24/07/2008	28/07/2008	-	-	821m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	244029	4 Coghlan Street	17/10/2008	05/06/2009	-	-	836m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236862	7 Shann Place	28/06/2008	02/09/2008	-	-	837m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	233694	5/43 Anderson Street	03/04/2008	02/06/2008	-	-	5353m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234069	27 Wilsmore Crescent	22/04/2008	27/06/2008	-	-	833m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240051	13 Board Place	16/09/2008	23/10/2008	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262392	13 Wilsmore Crescent	23/12/2009	23/02/2010	20/11/2009	$820,000	814m	Full transfer	4	2	-	2	-	$820,000	33	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.39
+2009	250608	5 D'Arcy Place	26/10/2009	01/12/2009	09/07/2009	$722,000	1105m	Full transfer	5	1	2	2	-	$722,000	109	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.62
+2009	140657	            9A Anderson Street	22/10/2009	-	22/05/2009	$720,000	1433m	Full transfer	4	1	1	2	0	$720,000	153	-	Allhomes Record	-	-	-	-	$311,000	0.43
+2009	249050	            1/9 Anderson Street	22/10/2009	29/11/2009	-	$720,000	1433m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	140658	            9B Anderson Street	21/08/2009	-	22/05/2009	$710,000	1433m	Full transfer	4	1	1	-	0	$710,000	91	-	Allhomes Record	-	-	-	-	$311,000	0.44
+2009	248879	            2/9 Anderson Street	21/08/2009	10/11/2009	-	$710,000	1433m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253901	2/1 Thomson Street	18/12/2009	05/03/2010	-	$705,000	1118m	Full transfer	-	-	-	-	-	$705,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	262397	59 MacLaurin Crescent	28/10/2009	01/02/2010	01/10/2009	$700,000	680m	Full transfer	3	1	1	2	-	$700,000	27	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.56
+2009	125496	35 Threlfall Street	08/05/2009	-	08/04/2009	$670,000	1530m	Full transfer	3	1	0	1	0	$670,000	30	-	Allhomes Record	-	-	-	-	$436,000	0.65
+2009	250554	1/1 MacLaurin Crescent	10/08/2009	10/12/2009	-	$660,000	937m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263826	16 Gledden Street	24/11/2009	24/05/2010	05/11/2009	$660,000	872m	Full transfer	4	1	1	-	2	$660,000	19	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.56
+2009	251570	            2/1 MacLaurin Crescent	22/10/2009	11/01/2010	-	$640,000	937m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	127364	135 Eggleston Crescent	21/10/2009	-	28/05/2009	$640,000	937m	Full transfer	3	1	1	2	-	$640,000	146	-	Allhomes Record	-	-	-	-	$450,000	0.7
+2009	246084	21 MacLaurin Crescent	01/07/2009	24/08/2009	18/06/2009	$580,000	845m	Full transfer	4	1	1	2	-	$580,000	13	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.78
+2009	262391	9 Salmond Street	05/12/2009	17/02/2010	09/11/2009	$580,000	856m	Full transfer	3	1	-	2	-	$580,000	26	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.57
+2009	23447	            116B Eggleston Crescent	16/06/2009	-	05/02/2009	$565,000	1027m	Full transfer	3	1	1	2	-	$565,000	131	-	Allhomes Record	-	-	-	-	$311,000	0.55
+2009	259204	            2/116 Eggleston Crescent	16/06/2009	01/03/2010	-	$565,000	1028m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238737	3 Threlfall Street	25/02/2009	29/04/2009	-	$560,000	926m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	241667	6 Coghlan Street	27/02/2009	22/05/2009	-	$552,500	902m	Full transfer	-	-	-	-	-	$552,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245517	26 Gledden Street	20/06/2009	06/08/2009	14/05/2009	$551,500	750m	Full transfer	3	1	0	4	0	$551,500	37	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.67
+2009	248058	47 Gledden Street	23/07/2009	15/09/2009	-	$545,000	910m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	120903	39 MacLaurin Crescent	12/05/2009	-	18/11/2008	$535,000	722m	Full transfer	4	1	1	1	1	$535,000	175	-	Allhomes Record	-	-	-	-	$390,000	0.73
+2009	250467	10 Shann Place	10/07/2009	08/10/2009	15/06/2009	$529,000	764m	Full transfer	3	2	-	1	1	$529,000	25	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.57
+2009	262395	4 Charteris Crescent	01/12/2009	22/02/2010	28/10/2009	$525,000	711m	Full transfer	3	1	-	1	-	$525,000	34	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.63
+2009	250046	35 MacFarland Crescent	21/10/2009	26/11/2009	12/09/2009	$525,000	764m	Full transfer	4	1	1	-	-	$525,000	39	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.63
+2009	249564	17 Renwick Street	11/08/2009	27/10/2009	22/07/2008	$520,000	992m	Full transfer	3	1	-	2	-	$520,000	385	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.55
+2009	250607	3 Bosch Place	29/10/2009	02/12/2009	17/09/2009	$520,000	718m	Full transfer	3	1	1	1	-	$520,000	42	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.65
+2009	262398	5 Pollock Street	28/11/2009	08/02/2010	31/10/2009	$517,500	716m	Full transfer	3	1	1	1	-	$517,500	28	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.75
+2009	262393	24 Threlfall Street	07/12/2009	29/01/2010	-	$510,000	867m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	127466	33B Anderson Street	05/08/2009	-	02/06/2009	$505,000	906m	Full transfer	3	1	1	1	0	$505,000	64	-	Allhomes Record	-	-	-	-	$284,000	0.56
+2009	262394	43 MacFarland Crescent	31/10/2009	08/02/2010	06/10/2009	$500,000	778m	Full transfer	3	1	-	1	-	$500,000	25	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.66
+2009	253828	1/116 Eggleston Crescent	23/10/2009	24/02/2010	-	$495,000	1028m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249882	29 Eggleston Crescent	26/09/2009	17/11/2009	27/08/2009	$487,000	762m	Full transfer	3	1	-	1	-	$487,000	30	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2009	323922	17 Mayne Street	04/06/2009	12/08/2009	-	$485,000	748m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243530	1 Anderson Street	05/02/2009	30/03/2009	07/11/2008	$480,000	875m	Full transfer	3	1	-	1	1	$480,000	90	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.88
+2009	238738	111 Eggleston Crescent	17/03/2009	30/04/2009	06/02/2009	$475,000	755m	Full transfer	3	1	-	-	1	$475,000	39	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.82
+2009	244841	2 Jull Place	09/04/2009	01/07/2009	25/03/2009	$470,000	921m	Full transfer	3	1	-	-	2	$470,000	15	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.73
+2009	238739	109 Eggleston Crescent	17/03/2009	30/04/2009	-	$465,000	823m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246083	10 Allwood Street	16/07/2009	25/08/2009	25/06/2009	$465,000	761m	Full transfer	3	1	-	-	1	$465,000	21	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.84
+2009	125519	16A Mauldon Street	08/07/2009	-	09/04/2009	$463,000	973m	Full transfer	4	1	1	-	1	$463,000	90	-	Allhomes Record	-	-	-	-	$390,000	0.84
+2009	19641	            1/16 Mauldon Street	08/07/2009	17/08/2009	-	$463,000	973m	Full transfer	-	-	-	-	-	$463,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249131	17 MacLaurin Crescent	19/08/2009	29/09/2009	-	$455,000	767m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23307	            1/33 Anderson Street	21/04/2009	-	10/09/2008	$450,000	905m	Full transfer	3	1	-	-	2	$450,000	223	-	Allhomes Record	-	-	-	-	-	-
+2009	244262	1/33A Anderson Street	21/04/2009	04/06/2009	-	$450,000	906m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	120483	9 Lamb Place	23/02/2009	-	06/11/2008	$435,000	911m	Full transfer	3	1	-	2	2	$435,000	109	-	Allhomes Record	-	-	-	-	$368,000	0.85
+2009	19308	            2/25 Anderson Street	10/02/2009	30/03/2009	-	$405,000	906m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246314	133 Eggleston Crescent	13/07/2009	31/08/2009	-	$400,000	897m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19114	            2/4 Pell Place	14/01/2009	28/01/2009	-	$390,000	1129m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	114451	4A Pell Place	15/01/2009	-	03/06/2008	$390,000	1129m	Full transfer	2	1	-	1	-	$390,000	226	-	Allhomes Record	-	-	-	-	$368,000	0.94
+2009	259206	52/7 Medley Street	22/12/2009	10/02/2010	-	$335,000	10778m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128156	32/17 Medley Street	19/08/2009	-	25/06/2009	$329,950	10736m	Full transfer	2	1	-	-	1	$329,950	55	-	Allhomes Record	-	-	-	-	-	-
+2009	248554	32/17 Medley Street	18/08/2009	29/09/2009	-	$329,950	10736m	Full transfer	-	-	-	-	-	$329,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242779	64 Eggleston Crescent	27/01/2009	06/03/2009	-	$320,000	482m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250914	34/17 Medley Street	11/11/2009	-	06/10/2009	$316,000	10736m	Full transfer	2	1	-	-	2	$316,000	36	-	Allhomes Record	-	-	-	-	-	-
+2009	248355	34/17 Medley Street	16/11/2009	16/12/2009	-	$316,000	10736m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259205	14/7 Medley Street	23/10/2009	10/01/2010	-	$315,000	10778m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248553	27/7 Medley Street	10/08/2009	09/10/2009	-	$315,000	10778m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	255439	57/17 Medley Street	29/07/2009	24/03/2010	-	$315,000	10736m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	120579	17/17 Medley Street	22/05/2009	-	11/11/2008	$312,000	10736m	Full transfer	2	1	-	-	1	$312,000	192	-	Allhomes Record	-	-	-	-	-	-
+2009	245254	17/17 Medley Street	18/06/2009	30/07/2009	-	$312,000	10736m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243263	12/1 Chifley Place	24/02/2009	30/03/2009	-	$297,000	1338m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245666	4/7 Medley Street	04/06/2009	12/08/2009	-	$287,000	10778m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248552	16/6 MacLaurin Crescent	14/08/2009	29/09/2009	-	$286,000	7271m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128858	16/6 MacLaurin Crescent	18/08/2009	-	22/07/2009	$286,000	7271m	Full transfer	2	1	-	-	1	$286,000	27	-	Allhomes Record	-	-	-	-	$3,281,000	11.47
+2009	248744	33/17 Medley Street	02/09/2009	30/10/2009	-	$285,000	10736m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	129440	33/17 Medley Street	08/09/2009	-	17/08/2009	$285,000	10736m	Full transfer	1	1	-	-	1	$285,000	22	-	Allhomes Record	-	-	-	-	-	-
+2009	248650	56/17 Medley Street	05/06/2009	20/10/2009	-	$280,000	10736m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245714	53/17 Medley Street	16/06/2009	17/08/2009	-	$244,000	10736m	Full transfer	-	-	-	-	-	$244,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	287344	54 Wilsmore Crescent	12/11/2009	29/03/2011	-	$230,000	989m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250484	19/45 Eggleston Crescent	02/11/2009	02/12/2009	-	$154,000	1931m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263509	59/17 Medley Street	02/10/2009	31/05/2010	-	-	10736m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244030	4 Coghlan Street	26/04/2009	05/06/2009	-	-	836m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	237701	8 Anderson Street	15/01/2009	18/02/2009	-	-	818m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258110	3 D'Arcy Place	06/04/2009	06/05/2010	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245085	20 Renwick Street	05/03/2009	17/06/2009	-	-	707m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247999	            1/22 Threlfall Street	30/06/2009	21/09/2009	-	-	867m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249051	23/17 Medley Street	08/08/2009	26/11/2009	-	-	10736m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238240	3 D'Arcy Place	01/04/2009	08/04/2009	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255032	102 Eggleston Crescent	04/02/2010	23/02/2010	-	$1,410,000	1843m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2010	276794	8 Wilsmore Crescent	11/06/2010	21/07/2010	06/05/2010	$840,000	926m	Full transfer	4	1	1	2	-	$840,000	36	-	Combined Record	-	-	-	Single residential dwelling...	$372,000	0.44
+2010	339001	            39A Gledden Street	26/05/2010	-	28/04/2010	$785,000	-	Full transfer	4	1	1	2	-	$785,000	28	-	Allhomes Record	262	-	-	-	-	-
+2010	280596	            1/39 Gledden Street	26/05/2010	22/12/2010	-	$785,000	1215m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273248	            1/1 Thomson Street	05/08/2010	13/10/2010	-	$745,000	1118m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271056	15 Gledden Street	03/07/2010	07/09/2010	08/06/2010	$745,000	1259m	Full transfer	4	2	1	-	1	$745,000	25	-	Combined Record	-	-	-	Single residential dwelling	$473,000	0.63
+2010	265059	1/7 MacLaurin Crescent	05/08/2010	-	27/07/2010	$745,000	1118m	Full transfer	4	1	1	2	-	$745,000	9	-	Allhomes Record	-	-	-	-	-	-
+2010	329729	9 Gledden Street	13/11/2010	24/01/2011	-	$736,000	961m	Full transfer	-	-	-	-	-	$736,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270679	1/2 Pollock Street	16/06/2010	30/08/2010	19/01/2010	$660,000	1027m	Full transfer	3	1	1	-	1	$660,000	148	-	Combined Record	-	-	-	Multiple unit dwelling	$495,000	0.75
+2010	286129	6 McDonald Street	24/12/2010	17/03/2011	26/08/2010	$660,000	975m	Full transfer	4	1	1	2	2	$660,000	120	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.48
+2010	270117	53 Medley Street	21/06/2010	20/08/2010	-	$657,000	905m	Full transfer	-	-	-	-	-	$657,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	270118	131 Eggleston Crescent	22/03/2010	19/08/2010	-	$650,000	853m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283651	2/107 Eggleston Crescent	23/11/2010	14/02/2011	-	$650,000	959m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257239	29 Anderson Street	23/02/2010	21/04/2010	-	$650,000	906m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263575	            1/26 Salmond Street	22/04/2010	09/06/2010	-	$650,000	884m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272807	30 Charteris Crescent	17/08/2010	26/10/2010	-	$645,500	917m	Full transfer	-	-	-	-	-	$645,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270819	13 Waldock Street	16/07/2010	16/08/2010	24/06/2010	$641,000	808m	Full transfer	3	1	-	2	1	$641,000	22	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.58
+2010	276733	101 Eggleston Crescent	31/05/2010	19/07/2010	-	$620,000	964m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255268	19 Thomson Street	13/04/2010	-	11/03/2010	$616,000	782m	Full transfer	5	-	1	1	1	$616,000	33	-	Allhomes Record	-	-	-	-	$410,000	0.67
+2010	382753	5/131 Eggleston Crescent	01/11/2010	07/11/2012	-	$609,950	1750m	Full transfer	-	-	-	-	-	$609,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270820	29 MacLaurin Crescent	10/07/2010	19/08/2010	17/06/2010	$600,000	788m	Full transfer	3	1	-	-	2	$600,000	23	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.68
+2010	266635	            120A Eggleston Crescent	13/10/2010	-	22/06/2010	$590,000	1148m	Full transfer	4	2	1	-	2	$590,000	113	-	Allhomes Record	-	-	-	-	$420,000	0.71
+2010	274228	1/120 Eggleston Crescent	12/10/2010	08/11/2010	-	$590,000	1148m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273557	7 McDonald Street	03/08/2010	20/10/2010	17/05/2010	$588,000	920m	Full transfer	3	1	1	1	1	$588,000	78	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.56
+2010	256616	1/107 Eggleston Crescent	27/04/2010	-	09/03/2010	$585,000	959m	Full transfer	3	1	1	2	-	$585,000	49	-	Allhomes Record	-	-	-	-	-	-
+2010	261602	4 Medley Street	24/02/2010	08/04/2010	-	$585,000	719m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267339	1/107 Eggleston Crescent	23/04/2010	21/06/2010	-	$585,000	959m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	376049	2/131 Eggleston Crescent	01/11/2010	02/08/2012	-	$579,950	1750m	Full transfer	-	-	-	-	-	$579,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263883	5 Salmond Street	07/04/2010	01/06/2010	24/03/2010	$575,000	756m	Full transfer	3	1	-	4	-	$575,000	14	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.57
+2010	256217	99 Eggleston Crescent	08/02/2010	30/03/2010	-	$565,000	947m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271153	3 Plunkett Street	14/08/2010	23/09/2010	23/07/2010	$555,000	739m	Full transfer	3	1	-	-	-	$555,000	22	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.56
+2010	273711	50 Gledden Street	28/08/2010	12/10/2010	26/07/2010	$553,000	978m	Full transfer	3	1	1	1	-	$553,000	33	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.7
+2010	258620	30 Carslaw Street	12/03/2010	14/05/2010	17/11/2009	$552,000	725m	Full transfer	4	1	1	1	1	$552,000	115	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.56
+2010	279241	72 Eggleston Crescent	30/10/2010	02/02/2011	07/10/2010	$543,000	490m	Full transfer	3	1	-	2	-	$543,000	23	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.52
+2010	300059	4/102 Eggleston Crescent	13/05/2010	19/07/2011	-	$529,500	1843m	Full transfer	-	-	-	-	-	$529,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257932	            102-104 Eggleston Crescent	04/06/2010	-	08/02/2010	$529,500	-	Full transfer	2	-	2	-	2	$529,500	116	-	Allhomes Record	-	-	-	-	-	-
+2010	332851	1/102 Eggleston Crescent	23/02/2010	01/08/2011	-	$525,500	1843m	Full transfer	-	-	-	-	-	$525,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	335815	2/102 Eggleston Crescent	21/04/2010	08/08/2011	-	$525,500	1843m	Full transfer	-	-	-	-	-	$525,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270320	15 Waldock Street	02/07/2010	07/09/2010	-	$520,000	893m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273869	3 Boyce Place	29/09/2010	08/11/2010	-	$520,000	920m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269072	3 Renwick Street	24/04/2010	21/06/2010	03/04/2010	$517,500	777m	Full transfer	3	1	-	1	-	$517,500	21	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.63
+2010	333040	6/102 Eggleston Crescent	04/06/2010	27/07/2011	-	$515,750	1843m	Full transfer	-	-	-	-	-	$515,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258410	12 MacFarland Crescent	13/03/2010	28/04/2010	15/02/2010	$512,000	671m	Full transfer	3	1	-	1	-	$512,000	26	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.8
+2010	300058	5/102 Eggleston Crescent	13/01/2010	20/07/2011	-	$509,500	1843m	Full transfer	-	-	-	-	-	$509,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	300057	7/102 Eggleston Crescent	12/02/2010	20/07/2011	-	$495,500	1843m	Full transfer	-	-	-	-	-	$495,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277748	11/1 Chifley Place	12/11/2010	19/01/2011	-	$381,000	1338m	Full transfer	-	-	-	-	-	$381,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271379	            19/7 Medley St	10/11/2010	-	09/09/2010	$367,000	10778m	Full transfer	2	1	-	1	-	$367,000	62	-	Allhomes Record	-	-	-	-	-	-
+2010	277749	19/7 Medley Street	10/11/2010	19/01/2011	-	$367,000	10778m	Full transfer	-	-	-	-	-	$367,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263471	27/6 MacLaurin Crescent	23/04/2010	26/05/2010	-	$357,000	7271m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256772	            27/6 MacLaurin Cres	23/04/2010	-	03/03/2010	$357,000	7271m	Full transfer	2	1	-	1	-	$357,000	51	-	Allhomes Record	-	-	-	-	-	-
+2010	263574	15/43 Anderson Street	19/02/2010	07/06/2010	-	$355,000	5353m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267338	64/7 Medley Street	10/05/2010	21/06/2010	-	$348,000	10778m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264159	64/17 Medley Street	25/06/2010	-	25/05/2010	$348,000	10736m	Full transfer	2	1	-	-	1	$348,000	31	-	Allhomes Record	-	-	-	-	-	-
+2010	263576	34/7 Medley Street	30/04/2010	11/06/2010	-	$345,000	10778m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283515	43/17 Medley Street	23/12/2010	02/03/2011	-	$342,000	10736m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252931	            43C/7 Medley Street	11/03/2010	-	03/02/2010	$332,000	10778m	Full transfer	2	1	-	-	1	$332,000	36	-	Allhomes Record	-	-	-	-	$90,597	0.27
+2010	269937	27/17 Medley Street	12/08/2010	23/09/2010	-	$330,000	10736m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263472	46/17 Medley Street	31/03/2010	30/05/2010	-	$330,000	10736m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	265423	16/7 Medley Street	20/08/2010	-	28/05/2010	$330,000	10778m	Full transfer	2	1	-	-	1	$330,000	84	-	Allhomes Record	-	-	-	-	-	-
+2010	279030	12/7 Medley Street	03/12/2010	31/01/2011	-	$327,000	10778m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273900	23/17 Medley Street	22/10/2010	29/11/2010	-	$322,500	10736m	Full transfer	-	-	-	-	-	$322,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283402	20 Renwick Street	11/10/2010	16/02/2011	-	$300,000	707m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283652	4/17 Medley Street	24/12/2010	17/02/2011	-	$300,000	10736m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280488	75/17 Medley Street	07/08/2010	16/12/2010	-	$295,000	10736m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	265204	52/17 Medley Street	12/08/2010	-	22/04/2010	$285,000	10736m	Full transfer	1	1	-	-	1	$285,000	112	-	Allhomes Record	-	-	-	-	-	-
+2010	333116	3 Lamb Place	26/11/2010	02/08/2011	-	$170,000	710m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276734	8 Barff Place	21/03/2010	19/07/2010	-	-	1011m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267577	127 Eggleston Crescent	03/06/2010	21/06/2010	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	296542	29/6 MacLaurin Crescent	28/12/2010	31/05/2011	-	-	7271m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277721	6 Bosch Place	10/08/2010	19/01/2011	-	-	744m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287540	61/7 Medley Street	08/05/2010	22/03/2011	-	-	10778m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272842	29 Allwood Street	30/08/2010	21/10/2010	-	-	846m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263646	101 Eggleston Crescent	24/02/2010	01/06/2010	-	-	964m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277916	25/6 MacLaurin Crescent	10/12/2010	27/01/2011	-	-	7271m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	296106	2 Gledden Street	22/12/2010	01/06/2011	-	-	880m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272746	3 D'Arcy Place	20/05/2010	01/11/2010	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	374155	            0/31 Eggleston Crescent	05/04/2011	19/06/2012	-	$1,950,000	3320m	Full transfer	-	-	-	-	-	$1,950,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	284861	            31-35 Eggleston Crescent	06/04/2011	-	26/11/2009	$1,950,000	-	Full transfer	-	-	-	-	-	$1,950,000	496	-	Allhomes Record	-	-	-	-	-	-
+2011	339911	             Charteris Crescent	14/10/2011	-	14/09/2011	$1,450,000	-	Full transfer	-	-	-	-	-	$1,450,000	30	-	Allhomes Record	-	-	-	-	-	-
+2011	349866	6 Roper Place	29/10/2011	12/12/2011	27/09/2011	$791,000	1048m	Full transfer	4	1	1	2	1	$791,000	32	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.56
+2011	379795	15 Charteris Crescent	14/10/2011	30/08/2012	-	$785,000	1322m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	411668	            10/3A Pell Place	06/10/2011	16/10/2013	-	$690,000	3458m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340504	1/41 Eggleston Crescent	21/07/2011	21/09/2011	-	$685,000	1603m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340666	9 Pollock Street	31/08/2011	28/09/2011	25/01/2011	$685,000	760m	Full transfer	4	2	-	2	-	$685,000	218	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.66
+2011	379794	13 Charteris Crescent	14/10/2011	30/08/2012	-	$665,000	1049m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296219	133 Eggleston Crescent	25/02/2011	20/06/2011	-	$655,000	897m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296218	131 Eggleston Crescent	25/02/2011	20/06/2011	-	$655,000	853m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300740	10 Anderson Street	02/03/2011	04/07/2011	24/02/2011	$620,000	1020m	Full transfer	3	1	-	2	-	$620,000	6	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.59
+2011	377019	4/131 Eggleston Crescent	29/03/2011	31/07/2012	-	$619,950	1750m	Full transfer	-	-	-	-	-	$619,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	374666	            8/31 Eggleston Crescent	14/11/2011	28/06/2012	-	$610,000	3320m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	377020	3/131 Eggleston Crescent	18/07/2011	01/08/2012	-	$609,950	1750m	Full transfer	-	-	-	-	-	$609,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	374667	            5/31 Eggleston Crescent	05/12/2011	28/06/2012	-	$600,000	3320m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	379793	1/131 Eggleston Crescent	10/06/2011	27/08/2012	-	$600,000	1750m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	374154	            7/31 Eggleston Crescent	07/12/2011	20/06/2012	-	$600,000	3320m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296904	25 Allwood Street	13/05/2011	21/06/2011	15/03/2011	$600,000	990m	Full transfer	3	1	-	1	2	$600,000	59	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.81
+2011	297086	16 Medley Street	05/04/2011	23/05/2011	03/03/2011	$595,000	719m	Full transfer	4	1	1	1	-	$595,000	33	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.76
+2011	348119	2/36 Medley Street	19/09/2011	26/10/2011	-	$580,000	840m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360415	1/116 Eggleston Crescent	06/10/2011	14/02/2012	-	$575,000	1028m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	292109	14 Medley Street	09/03/2011	04/05/2011	22/01/2011	$570,000	743m	Full transfer	3	1	-	-	1	$570,000	46	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.79
+2011	338533	15 Threlfall Street	06/08/2011	15/09/2011	11/07/2011	$568,000	1330m	Full transfer	3	1	-	1	-	$568,000	26	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.79
+2011	333115	4 Lyle Place	21/06/2011	02/08/2011	-	$565,000	747m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297001	2 Threlfall Street	13/04/2011	08/06/2011	08/03/2011	$560,000	889m	Full transfer	3	1	-	2	2	$560,000	36	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.61
+2011	286130	13 Salmond Street	14/01/2011	17/03/2011	15/11/2010	$555,000	796m	Full transfer	3	1	-	2	2	$555,000	60	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.69
+2011	349868	9 Mayne Street	12/10/2011	12/12/2011	01/09/2011	$550,000	695m	Full transfer	3	1	-	2	-	$550,000	41	-	Combined Record	-	-	-	For residential purposes only	$359,000	0.65
+2011	286128	13 Allwood Street	04/02/2011	16/03/2011	10/01/2011	$550,000	710m	Full transfer	3	1	-	-	1	$550,000	25	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.82
+2011	340872	16 Mayne Street	15/08/2011	21/09/2011	04/08/2011	$541,000	845m	Full transfer	3	1	-	-	-	$541,000	11	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.76
+2011	374669	            1/31 Eggleston Crescent	21/07/2011	27/06/2012	-	$519,900	3320m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300012	3/102 Eggleston Crescent	19/02/2011	14/07/2011	-	$519,500	1843m	Full transfer	-	-	-	-	-	$519,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360049	29 MacFarland Crescent	12/12/2011	27/01/2012	-	$505,000	790m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338543	14 McDonald Street	02/07/2011	14/09/2011	06/06/2011	$500,000	857m	Full transfer	3	1	-	-	1	$500,000	26	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.76
+2011	300011	8/102 Eggleston Crescent	17/02/2011	14/07/2011	-	$499,500	1843m	Full transfer	-	-	-	-	-	$499,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354125	1/25 Anderson Street	13/12/2011	12/01/2012	22/09/2011	$492,000	906m	Full transfer	4	1	1	-	2	$492,000	82	-	Combined Record	-	-	-	Multiple unit dwelling	$520,000	1.06
+2011	349870	20 McDonald Street	31/08/2011	12/12/2011	26/11/2010	$490,000	853m	Full transfer	3	1	-	2	-	$490,000	278	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.73
+2011	354612	86 Eggleston Crescent	08/12/2011	19/01/2012	24/11/2011	$485,000	886m	Full transfer	3	1	-	1	1	$485,000	14	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.77
+2011	292081	8 Lamb Place	22/03/2011	10/05/2011	20/01/2011	$485,000	705m	Full transfer	3	1	-	1	-	$485,000	61	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.81
+2011	287866	66 Eggleston Crescent	08/02/2011	30/03/2011	22/12/2010	$480,000	480m	Full transfer	3	1	-	1	-	$480,000	48	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.64
+2011	354743	51 Medley Street	01/11/2011	04/01/2012	-	$465,000	744m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	332850	9/102 Eggleston Crescent	15/03/2011	05/08/2011	-	$415,500	1843m	Full transfer	-	-	-	-	-	$415,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	349872	7 Eggleston Crescent	21/10/2011	12/12/2011	06/10/2011	$415,000	822m	Full transfer	3	1	-	2	-	$415,000	15	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.82
+2011	291616	5/1 Chifley Place	03/03/2011	19/05/2011	-	$380,000	1338m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	281282	5/1 Chifley Place	11/03/2011	-	03/02/2011	$380,000	1338m	Full transfer	2	1	-	-	1	$380,000	36	-	Allhomes Record	-	-	-	-	$1,299,000	3.42
+2011	366100	17/6 MacLaurin Crescent	22/12/2011	27/02/2012	-	$360,000	7271m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300378	46/17 Medley Street	26/05/2011	15/07/2011	-	$343,000	10736m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287538	59/17 Medley Street	11/02/2011	24/03/2011	-	$331,000	10736m	Full transfer	-	-	-	-	-	$331,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291398	39/7 Medley Street	08/03/2011	13/05/2011	-	$330,000	10778m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354444	26/17 Medley Street	02/09/2011	20/12/2011	16/06/2011	$328,000	10736m	Full transfer	2	1	-	-	1	$328,000	78	-	Combined Record	-	-	-	Multiple unit dwelling	$9,171,000	27.96
+2011	287539	8/7 Medley Street	04/02/2011	23/03/2011	-	$325,000	10778m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346857	61/7 Medley Street	01/09/2011	19/11/2011	-	$310,000	10778m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291397	28/17 Medley Street	25/03/2011	10/05/2011	-	$307,000	10736m	Full transfer	-	-	-	-	-	$307,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354446	13/6 MacLaurin Crescent	11/11/2011	19/12/2011	03/08/2011	$305,000	7271m	Full transfer	2	1	-	-	1	$305,000	100	-	Combined Record	65	-	-	Multiple unit dwelling	$3,609,000	11.83
+2011	291170	3 Stops Place	18/01/2011	10/05/2011	-	$300,000	808m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296426	60/17 Medley Street	20/04/2011	23/05/2011	-	$280,000	10736m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291615	1/45 Eggleston Crescent	31/03/2011	19/05/2011	-	$185,000	1931m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300803	8/45 Eggleston Crescent	03/08/2011	-	30/06/2011	$180,000	1931m	Full transfer	1	1	-	-	-	$180,000	34	-	Allhomes Record	-	-	-	-	$2,349,000	13.05
+2011	338497	20/45 Eggleston Crescent	03/08/2011	12/09/2011	-	$180,000	1931m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346860	37/6 MacLaurin Crescent	02/09/2011	16/11/2011	-	$165,000	7271m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	384335	16 Wilsmore Crescent	22/12/2011	20/11/2012	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348120	44 MacLaurin Crescent	07/09/2011	30/10/2011	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354744	19 Renwick Street	23/11/2011	04/01/2012	-	$0	1167m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	379486	38 Gledden Street	10/08/2011	21/09/2012	-	$0	789m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	376134	18 MacFarland Crescent	18/03/2011	06/08/2012	-	$0	972m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	366099	56 Eggleston Crescent	03/04/2011	01/03/2012	-	$0	1126m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346858	28/7 Medley Street	30/05/2011	25/11/2011	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	376709	1/7 Medley Street	21/05/2011	23/07/2012	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346859	20 McDonald Street	03/08/2011	23/11/2011	-	$0	853m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336359	4 D'Arcy Place	20/06/2011	16/08/2011	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300173	35 Medley Street	16/05/2011	12/07/2011	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336101	9 Coghlan Street	06/07/2011	29/08/2011	-	-	884m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336360	3 Pell Place	20/06/2011	16/08/2011	-	-	1593m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287277	28 Carslaw Street	18/02/2011	05/04/2011	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287276	4 Anderson Street	28/02/2011	04/04/2011	-	-	808m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	335853	6 D'Arcy Place	20/06/2011	16/08/2011	-	-	1003m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336102	3 Purser Street	07/04/2011	01/09/2011	-	-	691m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333113	5 Purser Street	31/03/2011	04/08/2011	-	-	840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379796	17 Charteris Crescent	08/02/2012	30/08/2012	-	$930,000	1466m	Full transfer	-	-	-	-	-	$930,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376053	52 Wilsmore Crescent	20/04/2012	01/08/2012	02/02/2012	$785,000	989m	Full transfer	4	1	1	2	-	$785,000	78	-	Combined Record	-	-	-	Single residential dwelling	$519,000	0.66
+2012	386980	9 Warren Place	02/11/2012	24/12/2012	-	$780,000	988m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	381163	46 Wilsmore Crescent	25/08/2012	02/10/2012	02/08/2012	$710,000	1198m	Full transfer	3	1	-	4	-	$710,000	23	-	Combined Record	-	-	-	Single residential dwelling	$536,000	0.75
+2012	377018	2 Chifley Place	02/05/2012	03/08/2012	-	$693,000	260m	Full transfer	-	-	-	-	-	$693,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2012	411574	            9/3A Pell Place	06/06/2012	23/10/2013	-	$680,000	3458m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375065	6 D'Arcy Place	09/08/2012	-	18/08/2011	$680,000	-	Full transfer	3	1	1	2	-	$680,000	357	-	Allhomes Record	-	-	-	-	-	-
+2012	369644	            7/6 D'Arcy Place	06/06/2012	-	27/02/2012	$679,000	-	Full transfer	3	1	1	2	-	$679,000	100	-	Allhomes Record	-	-	-	-	-	-
+2012	413196	            7/3A Pell Place	01/06/2012	28/10/2013	-	$679,000	3458m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382754	76 Eggleston Crescent	14/09/2012	08/11/2012	13/08/2012	$675,000	1037m	Full transfer	5	1	1	2	-	$675,000	32	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.56
+2012	411669	            1/3A Pell Place	01/03/2012	14/10/2013	-	$674,860	3458m	Full transfer	-	-	-	-	-	$674,860	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	384333	3 Stops Place	21/09/2012	21/11/2012	02/07/2012	$670,000	808m	Full transfer	3	2	-	1	2	$670,000	81	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.7
+2012	411667	            4/3A Pell Place	07/08/2012	15/10/2013	-	$665,000	3458m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375064	            4/6 D'Arcy Place	09/08/2012	-	24/02/2012	$665,000	-	Full transfer	3	1	1	2	-	$665,000	167	-	Allhomes Record	-	-	-	-	-	-
+2012	411575	            6/3A Pell Place	06/02/2012	24/10/2013	-	$665,000	3458m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368232	19 MacLaurin Crescent	01/06/2012	-	10/05/2012	$650,000	805m	Full transfer	3	1	1	2	2	$650,000	22	-	Allhomes Record	-	-	-	-	$507,000	0.78
+2012	387738	124 Eggleston Crescent	30/11/2012	10/01/2013	08/11/2012	$645,000	925m	Full transfer	4	1	-	2	-	$645,000	22	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.73
+2012	412814	            5/3A Pell Place	11/07/2012	08/11/2013	-	$638,000	3458m	Full transfer	-	-	-	-	-	$638,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	377592	8 Barff Place	15/09/2012	-	22/08/2012	$630,000	1011m	Full transfer	4	1	-	2	-	$630,000	24	-	Allhomes Record	-	-	-	-	$436,000	0.69
+2012	387740	3 Wood Place	04/11/2012	11/01/2013	22/10/2012	$615,000	899m	Full transfer	4	1	-	2	-	$615,000	13	-	Combined Record	145	-	-	Single residential dwelling	$470,000	0.76
+2012	382756	9 Salmond Street	13/07/2012	08/11/2012	23/05/2012	$612,500	856m	Full transfer	3	1	-	2	-	$612,500	51	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.61
+2012	371788	22 Anderson Street	11/02/2012	22/05/2012	12/12/2011	$602,000	837m	Full transfer	3	1	1	1	-	$602,000	61	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.84
+2012	370120	24 Gledden Street	08/02/2012	26/03/2012	21/09/2011	$600,000	695m	Full transfer	4	2	-	-	2	$600,000	140	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.67
+2012	375716	19 Charteris Crescent	29/08/2012	-	27/06/2012	$595,000	1043m	Full transfer	3	1	-	1	1	$595,000	63	-	Allhomes Record	-	-	-	-	$474,000	0.8
+2012	372941	            1/4 Pell Place	10/02/2012	01/05/2012	-	$590,000	1129m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	358031	1/4 Pell Place	09/03/2012	-	11/11/2011	$590,000	1129m	Full transfer	3	1	-	2	-	$590,000	119	-	Allhomes Record	-	-	-	-	$520,000	0.88
+2012	381774	6/33 Eggleston Crescent	26/11/2012	-	24/07/2012	$585,000	-	Full transfer	3	1	1	2	-	$585,000	125	-	Allhomes Record	130	-	-	-	-	-
+2012	376051	30 Anderson Street	04/05/2012	02/08/2012	26/03/2012	$580,000	779m	Full transfer	3	1	-	2	-	$580,000	39	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.76
+2012	378451	3 Boyce Place	15/10/2012	-	14/06/2012	$570,000	-	Full transfer	3	1	1	1	1	$570,000	123	-	Allhomes Record	-	-	-	-	$415,000	0.73
+2012	374670	6 Bosch Place	11/04/2012	25/06/2012	30/11/2011	$565,000	744m	Full transfer	3	1	-	1	-	$565,000	133	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.67
+2012	387376	            6/31 Eggleston Crescent	22/11/2012	19/12/2012	-	$565,000	3320m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	356461	            2/6 D'Arcy Place	27/02/2012	-	12/10/2011	$560,000	-	Full transfer	2	2	-	1	-	$560,000	138	-	Allhomes Record	102	-	-	-	-	-
+2012	411576	            2/3A Pell Place	08/02/2012	22/10/2013	-	$560,000	3458m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	384331	7 MacFarland Crescent	10/10/2012	23/11/2012	18/06/2012	$556,000	904m	Full transfer	3	1	1	2	-	$556,000	114	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.58
+2012	391852	            11/31 Eggleston Crescent	02/04/2012	18/02/2013	-	$550,000	3320m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	372064	27 Mayne Street	11/07/2012	-	24/04/2012	$550,000	716m	Full transfer	3	1	-	1	-	$550,000	78	-	Allhomes Record	122	-	-	-	$399,000	0.73
+2012	392136	13 Pollock Street	06/12/2012	05/03/2013	25/10/2012	$530,000	744m	Full transfer	3	1	-	-	1	$530,000	42	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.83
+2012	383584	7 Riley Place	28/08/2012	12/11/2012	05/07/2012	$525,000	676m	Full transfer	3	1	0	-	1	$525,000	54	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.67
+2012	375066	2/33 Eggleston Crescent	09/08/2012	-	24/07/2012	$519,000	-	Full transfer	2	1	1	1	-	$519,000	16	-	Allhomes Record	115	-	-	-	-	-
+2012	389999	5 Mayne Street	21/11/2012	30/01/2013	11/10/2012	$518,000	693m	Full transfer	3	1	-	1	-	$518,000	41	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.67
+2012	374668	            3/31 Eggleston Crescent	17/05/2012	27/06/2012	-	$508,000	3320m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382193	2/33 Eggleston Crescent	07/12/2012	-	17/08/2012	$505,000	-	Full transfer	2	1	1	1	-	$505,000	112	-	Allhomes Record	115	-	-	-	-	-
+2012	379792	            2/31 Eggleston Crescent	17/08/2012	30/08/2012	-	$495,000	3320m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	377376	36 MacFarland Crescent	08/09/2012	-	15/08/2012	$490,000	873m	Full transfer	3	1	-	1	-	$490,000	24	-	Allhomes Record	-	-	-	-	$373,000	0.76
+2012	373512	19 Salmond Street	26/07/2012	-	21/06/2012	$480,000	826m	Full transfer	3	1	-	1	-	$480,000	35	-	Allhomes Record	-	-	-	-	$373,000	0.78
+2012	387378	8 McDonald Street	31/10/2012	19/12/2012	01/08/2012	$470,000	772m	Full transfer	3	1	-	-	1	$470,000	91	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.75
+2012	372071	13/43 Anderson Street	10/07/2012	-	08/05/2012	$390,000	5353m	Full transfer	2	1	1	-	2	$390,000	63	-	Allhomes Record	-	-	-	-	$2,044,000	5.24
+2012	385656	12/1 Chifley Place	31/10/2012	11/12/2012	03/09/2012	$372,000	1338m	Full transfer	2	1	-	-	1	$372,000	58	-	Combined Record	91	-	-	Multiple unit dwelling	$1,630,000	4.38
+2012	348931	17/6 MacLaurin Crescent	31/01/2012	-	21/11/2011	$360,000	7271m	Full transfer	2	1	-	-	1	$360,000	71	-	Allhomes Record	-	-	-	-	-	-
+2012	391809	37/6 MacLaurin Crescent	21/12/2012	01/03/2013	24/09/2012	$338,000	7271m	Full transfer	2	1	-	-	1	$338,000	88	-	Combined Record	-	-	-	Multiple unit dwelling	$4,528,000	13.4
+2012	372943	24/6 MacLaurin Crescent	26/03/2012	01/05/2012	-	$325,000	7271m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	383582	45/17 Medley Street	06/09/2012	15/11/2012	02/04/2012	$316,000	10736m	Full transfer	2	1	-	-	1	$316,000	157	-	Combined Record	80	-	-	Multiple unit dwelling	$9,171,000	29.02
+2012	365456	75/17 Medley Street	08/02/2012	09/03/2012	23/11/2011	$315,000	10736m	Full transfer	2	1	-	-	2	$315,000	77	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	392989	28/7 Medley Street	29/03/2012	22/02/2013	-	$292,500	10778m	Full transfer	-	-	-	-	-	$292,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	377897	38/7 Medley Street	24/09/2012	-	09/08/2012	$290,000	10778m	Full transfer	2	1	-	-	1	$290,000	46	-	Allhomes Record	-	-	-	-	$9,060,000	31.24
+2012	391934	2/7 Medley Street	01/12/2012	05/02/2013	-	$281,000	10778m	Full transfer	-	-	-	-	-	$281,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375256	1/7 Medley Street	15/08/2012	-	16/05/2012	$280,000	10778m	Full transfer	2	1	-	-	1	$280,000	91	-	Allhomes Record	-	-	-	-	$9,060,000	32.36
+2012	383156	56/17 Medley Street	25/10/2012	29/11/2012	15/08/2012	$267,000	10736m	Full transfer	1	1	-	-	1	$267,000	71	-	Combined Record	68	-	-	Multiple unit dwelling	$9,171,000	34.35
+2012	370119	9/45 Eggleston Crescent	30/01/2012	27/03/2012	-	$195,000	1931m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376050	49/7 Medley Street	18/06/2012	01/08/2012	-	$165,000	10778m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386297	44 Medley Street	19/04/2012	04/12/2012	-	$91,800	807m	Full transfer	-	-	-	-	-	$91,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379232	8 Barff Place	23/06/2012	06/09/2012	-	$0	1011m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387380	8 Renwick Street	08/08/2012	19/12/2012	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	400322	105 Eggleston Crescent	15/07/2012	04/06/2013	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389597	16 Gledden Street	05/11/2012	21/01/2013	-	$0	872m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	385658	20 Threlfall Street	26/04/2012	11/12/2012	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395459	44 MacLaurin Crescent	26/06/2012	18/04/2013	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387377	1/36 Medley Street	07/11/2012	18/12/2012	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376710	13/43 Anderson Street	02/04/2012	23/07/2012	-	$0	5353m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	394007	34 Eggleston Crescent	04/07/2012	18/03/2013	-	$0	915m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	381162	27 Threlfall Street	14/08/2012	03/10/2012	-	$0	1146m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379968	9/1 Chifley Place	26/04/2012	11/09/2012	-	$0	1338m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	461321	42/7 Medley Street	29/03/2012	01/09/2015	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380968	16 MacFarland Crescent	13/07/2012	24/09/2012	-	$0	858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379969	9/1 Chifley Place	06/07/2012	11/09/2012	-	$0	1338m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	384330	2/1 Thomson Street	07/10/2012	23/11/2012	-	$0	1118m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368885	44 Wilsmore Crescent	20/03/2012	20/04/2012	-	$0	1426m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392990	6 McDonald Street	21/05/2012	22/02/2013	-	$0	975m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416789	5 Boyce Place	26/09/2013	02/01/2014	31/07/2013	$880,000	1502m	Full transfer	5	2	-	2	-	$880,000	57	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.55
+2013	410565	11 Warren Place	17/01/2013	13/09/2013	13/08/2012	$860,000	1498m	Full transfer	4	1	2	2	-	$860,000	157	-	Combined Record	247	-	-	Single residential dwelling	$509,000	0.59
+2013	422985	5 Haswell Place	19/11/2013	26/03/2014	12/11/2013	$730,000	749m	Full transfer	4	1	1	2	-	$730,000	7	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.6
+2013	403822	15 MacFarland Crescent	24/05/2013	15/07/2013	21/03/2013	$695,000	813m	Full transfer	4	1	1	2	1	$695,000	64	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.49
+2013	390708	7 Coghlan Street	20/03/2013	-	14/11/2012	$692,500	940m	Full transfer	3	1	1	2	-	$692,500	126	-	Allhomes Record	-	-	-	-	$592,000	0.85
+2013	398068	2/7 Coghlan Street	19/03/2013	13/05/2013	-	$692,500	940m	Full transfer	-	-	-	-	-	$692,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	415776	10 Lyle Place	26/10/2013	12/12/2013	03/10/2013	$680,000	761m	Full transfer	5	1	2	2	-	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.56
+2013	409810	            120B Eggleston Crescent	23/10/2013	-	04/04/2013	$670,000	585m	Full transfer	4	2	1	2	-	$670,000	202	-	Allhomes Record	161	-	-	-	$258,910	0.39
+2013	419625	            2/120 Eggleston Crescent	23/10/2013	06/02/2014	-	$670,000	1148m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	403621	8 Shann Place	20/05/2013	04/07/2013	21/03/2013	$650,000	782m	Full transfer	3	1	1	2	-	$650,000	60	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.54
+2013	416589	56 Wilsmore Crescent	08/11/2013	16/12/2013	17/04/2013	$650,000	1250m	Full transfer	5	1	1	1	0	$650,000	205	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.72
+2013	406476	26 Salmond Street	26/09/2013	-	07/06/2013	$640,000	863m	Full transfer	3	2	1	1	1	$640,000	111	-	Allhomes Record	-	-	-	-	$543,000	0.85
+2013	402373	1/13 Renwick Street	24/05/2013	28/06/2013	18/03/2013	$630,000	1341m	Full transfer	4	1	1	2	-	$630,000	67	-	Combined Record	193	-	-	Multiple unit dwelling	$202,000	0.32
+2013	403623	15 Wilsmore Crescent	28/05/2013	04/07/2013	21/02/2013	$602,500	822m	Full transfer	4	1	-	-	1	$602,500	96	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.68
+2013	396544	10 Mauldon Street	21/01/2013	22/04/2013	-	$600,000	1037m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	398064	56 Eggleston Crescent	15/03/2013	16/05/2013	07/02/2013	$585,000	1126m	Full transfer	3	1	-	2	-	$585,000	36	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.87
+2013	416785	4 Plunkett Street	22/10/2013	03/01/2014	29/08/2013	$585,000	722m	Full transfer	4	1	1	1	0	$585,000	54	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.57
+2013	414155	            1/10 Purser Street	15/10/2013	20/11/2013	-	$582,000	890m	Full transfer	-	-	-	-	-	$582,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406557	16 MacFarland Crescent	16/07/2013	02/09/2013	02/04/2013	$575,000	858m	Full transfer	3	1	1	2	2	$575,000	105	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.88
+2013	398071	34 Eggleston Crescent	22/02/2013	15/05/2013	23/01/2013	$575,000	915m	Full transfer	3	1	-	-	1	$575,000	30	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.84
+2013	417895	6 Medley Street	06/11/2013	15/01/2014	16/10/2013	$575,000	730m	Full transfer	3	1	0	2	0	$575,000	21	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.77
+2013	398069	16 Coghlan Street	14/03/2013	15/05/2013	25/10/2012	$575,000	705m	Full transfer	3	1	-	1	-	$575,000	140	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.77
+2013	403824	20 Salmond Street	07/06/2013	18/07/2013	25/02/2013	$575,000	793m	Full transfer	3	1	1	1	-	$575,000	102	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.66
+2013	400020	31 Mayne Street	05/04/2013	21/05/2013	12/02/2013	$570,000	946m	Full transfer	3	1	-	1	-	$570,000	52	-	Combined Record	131	-	-	Single residential dwelling	$448,000	0.79
+2013	398066	44 MacLaurin Crescent	23/02/2013	13/05/2013	18/12/2012	$550,000	780m	Full transfer	4	1	1	-	1	$550,000	67	-	Combined Record	160	-	-	Single residential dwelling	$440,000	0.8
+2013	400323	86 Eggleston Crescent	22/03/2013	04/06/2013	06/03/2013	$549,000	886m	Full transfer	3	1	-	1	1	$549,000	16	-	Combined Record	103	-	-	Single residential dwelling	$373,000	0.68
+2013	388108	42 Gledden Street	06/02/2013	-	17/09/2012	$520,000	689m	Full transfer	3	1	-	-	1	$520,000	142	-	Allhomes Record	-	-	-	-	$416,000	0.8
+2013	411665	4 Wilsmore Crescent	31/08/2013	18/10/2013	25/07/2013	$515,000	809m	Full transfer	3	1	0	0	2	$515,000	37	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.79
+2013	394005	48/7 Medley Street	06/02/2013	22/03/2013	19/11/2012	$320,000	10778m	Full transfer	2	1	-	-	1	$320,000	79	-	Combined Record	10778	-	-	Multiple unit dwelling	$9,060,000	28.31
+2013	415243	50/17 Medley Street	24/07/2013	03/12/2013	13/05/2013	$309,500	10736m	Full transfer	2	1	-	-	1	$309,500	72	-	Combined Record	-	-	-	Multiple unit dwelling	$9,171,000	29.63
+2013	400326	12/6 MacLaurin Crescent	12/02/2013	04/06/2013	-	$305,000	7271m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	411572	9/7 Medley Street	28/08/2013	24/10/2013	07/08/2013	$293,000	10778m	Full transfer	2	1	-	-	1	$293,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	$9,060,000	30.92
+2013	394331	21/17 Medley Street	19/02/2013	02/04/2013	24/01/2013	$282,500	10736m	Full transfer	2	1	-	-	-	$282,500	26	-	Combined Record	-	-	-	Multiple unit dwelling	$9,171,000	32.46
+2013	416788	60/7 Medley Street	04/12/2013	03/01/2014	-	$270,000	10778m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	411176	7 Lamb Place	27/07/2013	18/09/2013	-	$245,000	1019m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418223	3 Board Place	30/10/2013	23/01/2014	-	$0	1089m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407763	29 Wilsmore Crescent	20/06/2013	21/08/2013	-	$0	833m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416787	4 Plunkett Street	23/07/2013	03/01/2014	-	$0	722m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415775	111 Eggleston Crescent	11/07/2013	09/12/2013	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397387	2 D'Arcy Place	15/02/2013	08/05/2013	-	$0	1052m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	395460	9 Eggleston Crescent	28/02/2013	16/04/2013	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415774	109 Eggleston Crescent	11/07/2013	09/12/2013	-	$0	823m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418498	9 McDonald Street	16/07/2013	07/01/2014	-	$0	854m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	426828	17 Mayne Street	16/11/2013	28/05/2014	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406556	16 Anderson Street	27/06/2013	03/09/2013	-	$0	753m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413526	7 Allwood Street	05/07/2013	11/11/2013	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407123	13/48 Charteris Crescent	15/05/2013	12/08/2013	-	$0	5930m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427270	8 Purser Street	17/03/2014	05/05/2014	-	$1,100,000	884m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421741	48 Wilsmore Crescent	19/02/2014	06/03/2014	02/10/2013	$820,000	1017m	Full transfer	4	2	-	1	-	$820,000	140	-	Combined Record	230	-	-	Single residential dwelling	$531,000	0.65
+2014	443043	10 Warren Place	18/11/2014	08/01/2015	01/10/2014	$810,000	1201m	Full transfer	3	1	1	1	-	$810,000	48	-	Combined Record	156	-	-	Single residential dwelling	$537,000	0.66
+2014	470996	5/15 Charteris Crescent	16/10/2014	08/02/2016	-	$750,000	3837m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440423	14 Gledden Street	12/07/2014	19/11/2014	06/06/2014	$745,000	882m	Full transfer	3	2	1	2	-	$745,000	36	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.55
+2014	473202	4/15 Charteris Crescent	08/10/2014	01/03/2016	-	$742,500	3837m	Full transfer	-	-	-	-	-	$742,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427269	1/7 Coghlan Street	05/03/2014	08/05/2014	-	$735,000	940m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	420162	2 Board Place	05/03/2014	-	05/02/2014	$735,000	-	Full transfer	3	1	1	2	-	$735,000	28	-	Allhomes Record	-	-	-	-	$605,000	0.82
+2014	471005	6/15 Charteris Crescent	19/12/2014	11/02/2016	-	$730,000	3837m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	421739	2/1 Thomson Street	05/02/2014	04/03/2014	22/10/2013	$720,000	1118m	Full transfer	3	1	1	2	-	$720,000	106	-	Combined Record	190	-	-	Multiple unit dwelling	$507,000	0.7
+2014	440421	7 Allwood Street	20/09/2014	20/11/2014	27/08/2014	$720,000	744m	Full transfer	3	1	1	1	-	$720,000	24	-	Combined Record	148	-	-	Single residential dwelling	$450,000	0.63
+2014	440168	54 MacFarland Crescent	13/10/2014	26/11/2014	17/08/2014	$705,000	769m	Full transfer	4	2	-	2	-	$705,000	57	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.54
+2014	471006	11/15 Charteris Crescent	10/10/2014	10/02/2016	-	$693,870	3837m	Full transfer	-	-	-	-	-	$693,870	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443047	            0/6 Coghlan Street	26/11/2014	09/01/2015	-	$673,500	902m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443046	1/6 Coghlan Street	26/11/2014	09/01/2015	-	$673,500	902m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443045	            2/6 Coghlan Street	26/11/2014	09/01/2015	-	$673,500	902m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443048	6 Coghlan Street	26/11/2014	09/01/2015	-	$673,500	902m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441768	7 Waldock Street	20/10/2014	11/12/2014	08/10/2014	$671,000	923m	Full transfer	3	1	-	2	-	$671,000	12	-	Combined Record	123	-	-	Single residential dwelling	$408,000	0.61
+2014	435813	4/131 Eggleston Crescent	24/05/2014	17/09/2014	30/04/2014	$660,000	1750m	Full transfer	3	1	1	2	0	$660,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	$257,500	0.39
+2014	441763	27 Allwood Street	22/10/2014	11/12/2014	08/10/2014	$650,000	887m	Full transfer	3	1	0	0	2	$650,000	14	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.75
+2014	420675	3 Board Place	22/03/2014	-	21/02/2014	$643,000	1089m	Full transfer	3	1	1	0	2	$643,000	29	-	Allhomes Record	-	-	-	-	$507,000	0.79
+2014	441765	29 Charteris Crescent	30/09/2014	08/12/2014	-	$635,000	1116m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428716	19 Allwood Street	02/05/2014	05/06/2014	14/03/2014	$630,000	733m	Full transfer	4	1	1	2	0	$630,000	49	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.71
+2014	428037	6 Allwood Street	25/02/2014	14/05/2014	13/11/2013	$625,000	832m	Full transfer	3	2	0	1	1	$625,000	104	-	Combined Record	-	-	-	Single residential dwelling	$519,000	0.83
+2014	427784	26 Gledden Street	17/02/2014	29/04/2014	10/01/2014	$622,000	750m	Full transfer	3	1	-	4	-	$622,000	38	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.68
+2014	428296	21 Mayne Street	12/04/2014	21/05/2014	19/03/2014	$620,000	711m	Full transfer	3	1	0	0	0	$620,000	24	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.63
+2014	439998	22A Threlfall Street	09/12/2014	-	04/11/2014	$601,000	-	Full transfer	3	1	1	-	1	$601,000	35	-	Allhomes Record	-	-	-	-	$500,000	0.83
+2014	427266	41 Gledden Street	15/03/2014	06/05/2014	17/02/2014	$601,000	910m	Full transfer	3	1	-	-	1	$601,000	26	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.74
+2014	446051	            1/22 Threlfall Street	08/12/2014	13/02/2015	-	$601,000	867m	Full transfer	-	-	-	-	-	$601,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436684	50 Medley Street	21/06/2014	02/10/2014	-	$595,000	864m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438746	20 Threlfall Street	16/08/2014	29/10/2014	18/07/2014	$595,000	867m	Full transfer	3	1	1	1	1	$595,000	29	-	Combined Record	143	-	-	Single residential dwelling	$425,000	0.71
+2014	430337	5 Roper Place	05/06/2014	10/07/2014	03/04/2014	$585,000	797m	Full transfer	3	1	-	1	-	$585,000	63	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.66
+2014	424035	17 Renwick Street	23/01/2014	31/03/2014	-	$578,000	992m	Full transfer	-	-	-	-	-	$578,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424411	13 Allwood Street	01/03/2014	10/04/2014	06/02/2014	$575,000	710m	Full transfer	3	1	0	0	1	$575,000	23	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.78
+2014	446494	38 MacFarland Crescent	26/11/2014	17/02/2015	10/11/2014	$575,000	793m	Full transfer	3	1	-	2	-	$575,000	16	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.62
+2014	447278	14 Anderson Street	09/12/2014	23/02/2015	21/10/2014	$575,000	725m	Full transfer	4	1	1	2	-	$575,000	49	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.78
+2014	446496	4 Lyle Place	20/11/2014	17/02/2015	15/10/2014	$567,000	747m	Full transfer	3	1	-	1	-	$567,000	36	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.69
+2014	436249	21 Pollock Street	22/08/2014	26/09/2014	28/04/2014	$560,000	713m	Full transfer	3	1	-	1	-	$560,000	116	-	Combined Record	105	-	-	Single residential dwelling	$450,000	0.8
+2014	441766	4 Threlfall Street	05/11/2014	11/12/2014	16/10/2014	$554,000	920m	Full transfer	3	1	0	4	0	$554,000	20	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.69
+2014	427782	7 Allwood Street	28/03/2014	02/05/2014	18/02/2014	$550,000	744m	Full transfer	3	1	-	1	-	$550,000	38	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.82
+2014	491491	4/101 Eggleston Crescent	31/03/2014	23/11/2016	-	$549,000	2949m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435816	15 Allwood Street	04/06/2014	15/09/2014	11/03/2014	$542,500	733m	Full transfer	3	1	0	0	2	$542,500	85	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.83
+2014	435818	8 Board Place	13/08/2014	18/09/2014	31/07/2014	$540,000	737m	Full transfer	3	1	-	1	1	$540,000	13	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.83
+2014	441003	3B Anderson Street	19/12/2014	-	20/10/2014	$536,000	844m	Full transfer	3	1	1	1	-	$536,000	60	-	Allhomes Record	113	-	-	-	$519,000	0.97
+2014	449339	            2/3 Anderson Street	19/12/2014	01/04/2015	-	$536,000	844m	Full transfer	-	-	-	-	-	$536,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432541	5 Allwood Street	15/07/2014	04/08/2014	-	$530,000	768m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428039	41 Charteris Crescent	01/04/2014	12/05/2014	-	$530,000	1023m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436687	1 Lamb Place	23/08/2014	30/09/2014	23/05/2014	$528,000	818m	Full transfer	3	1	-	1	0	$528,000	92	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.74
+2014	438744	9 Allwood Street	30/08/2014	27/10/2014	12/08/2014	$520,000	710m	Full transfer	3	1	-	1	1	$520,000	18	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.87
+2014	491509	11/101 Eggleston Crescent	04/12/2014	22/11/2016	-	$509,000	2949m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	490148	12/101 Eggleston Crescent	15/08/2014	03/11/2016	-	$509,000	2949m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429855	10 Bosch Place	22/04/2014	24/06/2014	-	$500,000	906m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432205	17 Mayne Street	01/07/2014	28/07/2014	-	$495,000	748m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436685	8 McDonald Street	11/08/2014	30/09/2014	29/04/2014	$480,000	772m	Full transfer	3	1	-	-	2	$480,000	104	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.75
+2014	434442	44 Wilsmore Crescent	09/07/2014	01/09/2014	-	$425,000	1426m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427264	15/48 Charteris Crescent	16/04/2014	09/05/2014	21/02/2014	$390,000	5930m	Full transfer	3	1	0	-	1	$390,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	$2,259,000	5.79
+2014	431657	5/43 Anderson Street	16/06/2014	24/07/2014	11/09/2013	$315,000	5353m	Full transfer	2	0	2	0	0	$315,000	278	-	Combined Record	-	-	-	Multiple unit dwelling	$2,146,000	6.81
+2014	433053	29/17 Medley Street	12/03/2014	12/08/2014	-	$310,000	10736m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	448364	7 Lamb Place	17/12/2014	05/03/2015	-	$309,000	1019m	Full transfer	-	-	-	-	-	$309,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	418708	17/7 Medley Street	11/02/2014	-	07/01/2014	$307,500	10778m	Full transfer	2	1	0	0	1	$307,500	35	-	Allhomes Record	-	-	-	-	$9,513,000	30.94
+2014	427262	10/7 Medley Street	18/03/2014	07/05/2014	14/01/2014	$285,000	10778m	Full transfer	2	1	-	-	1	$285,000	63	-	Combined Record	70	-	-	Multiple unit dwelling	$9,513,000	33.38
+2014	438742	18/7 Medley Street	25/08/2014	28/10/2014	04/06/2014	$277,500	10778m	Full transfer	2	1	-	1	-	$277,500	82	-	Combined Record	-	-	-	Multiple unit dwelling	$9,513,000	34.28
+2014	440420	67/7 Medley Street	01/10/2014	19/11/2014	-	$270,000	10778m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	444099	21/45 Eggleston Crescent	01/10/2014	30/01/2015	-	$180,000	1931m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446050	84 Eggleston Crescent	18/11/2014	12/02/2015	-	$100,000	957m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437998	52 Eggleston Crescent	31/07/2014	22/10/2014	-	$0	981m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448134	14 Warren Place	15/11/2014	18/03/2015	-	$0	2956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435815	1/131 Eggleston Crescent	05/08/2014	15/09/2014	-	$0	1750m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	418619	44 Wilsmore Crescent	29/01/2014	29/01/2014	-	$0	1426m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427268	16 Wilsmore Crescent	01/04/2014	08/05/2014	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	463595	32 Gledden Street	25/12/2014	12/10/2015	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447277	20 Thomson Street	11/12/2014	26/02/2015	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439646	14 McDonald Street	07/07/2014	14/11/2014	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439033	121 Eggleston Crescent	18/08/2014	07/11/2014	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433666	110 Eggleston Crescent	15/07/2014	22/08/2014	-	$0	887m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	495042	25/7 Medley Street	25/12/2014	10/01/2017	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	421839	13 MacFarland Crescent	11/01/2014	20/02/2014	-	$0	771m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461090	 MacLaurin Crescent	30/09/2015	-	01/09/2015	$1,270,000	1596m	Full transfer	4	-	-	-	-	$1,270,000	29	-	Allhomes Record	-	-	-	-	$465,000	0.37
+2015	475599	52 Wilsmore Crescent	12/12/2015	15/04/2016	19/11/2015	$1,120,000	989m	Full transfer	4	1	1	2	0	$1,120,000	23	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.49
+2015	459966	37 Gledden Street	11/06/2015	17/08/2015	03/06/2015	$1,100,000	901m	Full transfer	4	1	1	2	-	$1,100,000	8	-	Combined Record	-	-	-	Single residential dwelling	$458,000	0.42
+2015	451176	3 Plunkett Street	21/03/2015	30/04/2015	19/02/2015	$951,000	739m	Full transfer	4	1	1	2	0	$951,000	30	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.37
+2015	470997	34 Salmond Street	18/12/2015	11/02/2016	-	$900,000	439m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468329	13 McDonald Street	30/10/2015	15/12/2015	14/10/2015	$880,000	845m	Full transfer	5	3	-	2	-	$880,000	16	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.45
+2015	450510	2B Thomson Street	03/05/2015	-	01/04/2015	$865,000	1022m	Full transfer	3	1	1	2	0	$865,000	32	-	Allhomes Record	-	-	-	-	$552,000	0.64
+2015	458128	            1/2A Thomson Street	02/05/2015	23/07/2015	-	$865,000	1022m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469441	34 Eggleston Crescent	13/11/2015	11/01/2016	04/09/2015	$835,000	476m	Full transfer	4	3	-	0	2	$835,000	70	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.61
+2015	469444	29 Wilsmore Crescent	12/11/2015	14/01/2016	15/10/2015	$835,000	833m	Full transfer	5	2	1	1	1	$835,000	28	-	Combined Record	-	-	-	Single residential dwelling	$438,000	0.52
+2015	465452	20 McDonald Street	15/08/2015	04/11/2015	-	$830,000	853m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462646	20 McDonald Street	21/10/2015	-	01/05/2015	$830,000	853m	Full transfer	3	1	-	2	-	$830,000	173	-	Allhomes Record	-	-	-	-	$371,000	0.45
+2015	448362	8 Wilsmore Crescent	16/01/2015	03/03/2015	03/10/2014	$820,000	926m	Full transfer	4	1	1	2	-	$820,000	105	-	Combined Record	-	-	-	Single residential dwelling...	$432,000	0.53
+2015	464158	19 Thomson Street	10/11/2015	-	29/10/2015	$815,000	782m	Full transfer	5	1	1	1	0	$815,000	12	-	Allhomes Record	-	-	-	-	$465,000	0.57
+2015	459962	            2/30 Mayne Street	26/06/2015	18/08/2015	-	$790,000	1118m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	454570	43 Wilsmore Crescent	15/06/2015	-	04/03/2015	$790,000	0m	Full transfer	4	2	-	2	0	$790,000	103	-	Allhomes Record	-	-	-	-	$551,000	0.7
+2015	459052	11 Wilsmore Crescent	05/06/2015	03/08/2015	10/04/2015	$780,000	727m	Full transfer	4	3	-	1	0	$780,000	56	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.52
+2015	471752	7/15 Charteris Crescent	11/05/2015	15/02/2016	-	$777,000	3837m	Full transfer	-	-	-	-	-	$777,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462584	114 Eggleston Crescent	24/10/2015	-	21/09/2015	$741,000	955m	Full transfer	3	1	-	1	2	$741,000	33	-	Allhomes Record	140	-	-	-	$501,000	0.68
+2015	452008	95 Eggleston Crescent	18/03/2015	04/05/2015	-	$740,000	1019m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472424	1/15 Charteris Crescent	05/05/2015	23/02/2016	-	$740,000	3837m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448135	30 Carslaw Street	22/01/2015	16/03/2015	-	$690,000	725m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459042	27 Threlfall Street	13/06/2015	07/08/2015	04/05/2015	$683,000	1146m	Full transfer	3	1	-	-	2	$683,000	40	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.73
+2015	456732	            1/26 Salmond Street	28/03/2015	02/07/2015	-	$680,000	884m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	447659	2 Lyle Place	28/03/2015	-	05/03/2015	$680,000	438m	Full transfer	3	2	1	1	1	$680,000	23	-	Allhomes Record	-	-	-	-	$574,000	0.84
+2015	467070	22 McDonald Street	16/10/2015	01/12/2015	07/09/2015	$675,000	902m	Full transfer	3	1	-	-	1	$675,000	39	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.5
+2015	454603	46 Medley Street	27/06/2015	-	03/06/2015	$668,000	0m	Full transfer	3	1	-	0	1	$668,000	24	-	Allhomes Record	-	-	-	-	$465,000	0.7
+2015	468860	82 Eggleston Crescent	07/11/2015	06/01/2016	08/10/2015	$664,000	1111m	Full transfer	4	2	-	2	0	$664,000	30	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.64
+2015	459325	22 Gledden Street	13/06/2015	11/08/2015	22/05/2015	$655,000	729m	Full transfer	3	2	-	1	-	$655,000	22	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.65
+2015	467424	19 Renwick Street	18/12/2015	-	01/12/2015	$645,000	0m	Full transfer	4	1	-	1	2	$645,000	17	-	Allhomes Record	-	-	-	-	$354,000	0.55
+2015	456730	37 Allwood Street	05/03/2015	30/06/2015	26/02/2015	$645,000	803m	Full transfer	3	1	1	4	0	$645,000	7	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.78
+2015	448907	3/131 Eggleston Crescent	14/02/2015	24/03/2015	22/01/2015	$640,000	1750m	Full transfer	3	1	1	2	0	$640,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	$1,250,000	1.95
+2015	463273	121 Eggleston Crescent	11/08/2015	08/10/2015	21/07/2015	$640,000	813m	Full transfer	3	1	0	1	1	$640,000	21	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.8
+2015	461582	44 Medley Street	27/06/2015	09/09/2015	03/06/2015	$631,000	807m	Full transfer	3	1	0	0	0	$631,000	24	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.79
+2015	465456	32 Gledden Street	12/09/2015	03/11/2015	06/08/2015	$612,500	845m	Full transfer	3	1	-	2	-	$612,500	37	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.72
+2015	467882	6 Wilsmore Crescent	23/09/2015	23/12/2015	-	$600,000	788m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457943	12 MacFarland Crescent	06/06/2015	16/07/2015	12/05/2015	$598,000	671m	Full transfer	3	1	-	1	-	$598,000	25	-	Combined Record	-	-	-	Single residential dwelling	$465,000	0.78
+2015	454341	            1/3 Anderson Street	01/05/2015	09/06/2015	-	$583,500	844m	Full transfer	-	-	-	-	-	$583,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453532	6 Mayne Street	30/03/2015	29/05/2015	04/02/2015	$555,000	785m	Full transfer	3	1	-	-	1	$555,000	54	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.74
+2015	490094	3/101 Eggleston Crescent	28/08/2015	09/11/2016	-	$554,850	2949m	Full transfer	-	-	-	-	-	$554,850	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460343	40 Gledden Street	04/07/2015	27/08/2015	02/06/2015	$552,000	679m	Full transfer	3	1	-	1	-	$552,000	32	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.8
+2015	459973	32 Carslaw Street	24/06/2015	18/08/2015	06/05/2015	$551,600	725m	Full transfer	3	1	1	1	1	$551,600	49	-	Combined Record	118	-	-	Single residential dwelling	$371,000	0.67
+2015	461604	2 Salmond Street	30/07/2015	10/09/2015	24/03/2015	$545,000	925m	Full transfer	3	1	-	1	-	$545,000	128	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.65
+2015	457087	            2/7 Warren Place	06/05/2015	23/06/2015	-	$540,000	1010m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450648	7B Warren Place	06/05/2015	-	26/03/2015	$540,000	554m	Full transfer	3	1	1	0	0	$540,000	41	-	Allhomes Record	-	-	-	-	$497,000	0.92
+2015	465784	66 Eggleston Crescent	19/09/2015	12/11/2015	26/08/2015	$530,000	480m	Full transfer	3	1	0	1	0	$530,000	24	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.6
+2015	492741	6/101 Eggleston Crescent	22/04/2015	16/12/2016	-	$525,000	2949m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	491560	5/101 Eggleston Crescent	04/05/2015	29/11/2016	-	$519,000	2949m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	491532	1/101 Eggleston Crescent	01/09/2015	23/11/2016	-	$515,000	2949m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	490751	10/101 Eggleston Crescent	28/04/2015	16/11/2016	21/05/2014	$509,000	2949m	Full transfer	2	1	1	2	-	$509,000	342	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	492895	9/101 Eggleston Crescent	11/06/2015	16/12/2016	-	$509,000	2949m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	459961	28 Medley Street	01/07/2015	20/08/2015	-	$500,000	873m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	488996	14/101 Eggleston Crescent	26/03/2015	26/10/2016	-	$485,000	2949m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	491282	13/101 Eggleston Crescent	29/04/2015	23/11/2016	21/05/2014	$485,000	2949m	Full transfer	2	1	1	1	-	$485,000	343	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	467423	5/48 Charteris Crescent	23/12/2015	-	17/09/2015	$385,000	5930m	Full transfer	2	1	0	1	0	$385,000	97	-	Allhomes Record	-	-	-	-	$2,259,000	5.87
+2015	470994	26/7 Medley Street	21/09/2015	10/02/2016	23/03/2015	$310,000	10778m	Full transfer	3	1	-	0	1	$310,000	182	-	Combined Record	-	-	-	Multiple unit dwelling	$9,513,000	30.69
+2015	452013	2/7 Medley Street	19/03/2015	04/05/2015	-	$307,000	10778m	Full transfer	-	-	-	-	-	$307,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	455291	48/17 Medley Street	01/05/2015	16/06/2015	19/01/2015	$302,500	10736m	Full transfer	2	1	-	-	1	$302,500	102	-	Combined Record	-	-	-	Multiple unit dwelling	$9,630,000	31.83
+2015	456177	42/17 Medley Street	19/05/2015	07/07/2015	17/03/2015	$295,000	10736m	Full transfer	2	1	0	0	0	$295,000	63	-	Combined Record	71	-	-	Multiple unit dwelling	$4,164,000	14.12
+2015	463268	71/7 Medley Street	14/08/2015	08/10/2015	16/02/2015	$285,000	10778m	Full transfer	2	1	-	-	1	$285,000	179	-	Combined Record	-	-	-	Multiple unit dwelling	$9,513,000	33.38
+2015	465451	75/17 Medley Street	11/09/2015	02/11/2015	-	$284,500	10736m	Full transfer	-	-	-	-	-	$284,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456728	43/7 Medley Street	21/05/2015	01/07/2015	10/04/2015	$277,777	10778m	Full transfer	2	1	-	1	-	$277,777	41	-	Combined Record	-	-	-	Multiple unit dwelling	$9,513,000	34.25
+2015	444493	67/7 Medley Street	13/01/2015	-	13/08/2014	$277,500	10778m	Full transfer	2	1	-	-	-	$277,500	153	-	Allhomes Record	-	-	-	-	$9,513,000	34.28
+2015	456734	32/7 Medley Street	02/05/2015	30/06/2015	-	$265,000	10778m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457942	5 Wurth Place	29/03/2015	13/07/2015	-	$0	1149m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460337	46 Medley Street	14/07/2015	24/08/2015	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471751	7/1 Chifley Place	11/09/2015	15/02/2016	-	$0	1338m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456735	56 MacFarland Crescent	02/05/2015	30/06/2015	04/11/2014	$0	1006m	Full transfer	5	2	-	2	0	$0	179	-	Combined Record	-	-	-	Single residential dwelling	$449,000	34.28
+2015	458134	31/6 MacLaurin Crescent	10/02/2015	23/07/2015	-	$0	7271m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458133	4/102 Eggleston Crescent	11/05/2015	20/07/2015	-	$0	1843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	471753	2 Haswell Place	21/08/2015	16/02/2016	-	$0	974m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471754	2/15 Charteris Crescent	17/06/2015	15/02/2016	-	$0	3837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462202	13 Allwood Street	29/06/2015	25/09/2015	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470213	53 Medley Street	27/02/2015	27/01/2016	-	$0	470m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450425	2 Warren Place	10/02/2015	14/04/2015	-	$0	1445m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470206	34 Charteris Crescent	27/02/2015	27/01/2016	-	$0	435m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472845	6 Stops Place	19/10/2015	07/03/2016	-	$0	885m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451499	8 Allwood Street	14/03/2015	23/04/2015	12/02/2015	$0	787m	Full transfer	4	1	1	1	1	$0	30	-	Combined Record	-	-	-	Single residential dwelling	$465,000	34.28
+2015	449355	45 MacFarland Crescent	26/02/2015	31/03/2015	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499990	14 Warren Place	05/11/2016	08/03/2017	13/10/2016	$1,495,000	2956m	Full transfer	4	3	0	2	0	$1,495,000	23	-	Combined Record	-	-	-	Single residential dwelling	$663,000	0.44
+2016	498097	15 Waldock Street	08/10/2016	16/02/2017	13/09/2016	$1,218,000	893m	Full transfer	4	1	1	2	-	$1,218,000	25	-	Combined Record	248	-	-	Single residential dwelling	$463,000	0.38
+2016	498117	5 Boyce Place	16/11/2016	14/02/2017	08/07/2016	$1,040,000	1502m	Full transfer	4	1	1	2	0	$1,040,000	131	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.52
+2016	497256	13 Allwood Street	05/11/2016	10/02/2017	13/10/2016	$995,000	710m	Full transfer	4	1	1	2	0	$995,000	23	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.48
+2016	477220	12 Salmond Street	27/02/2016	06/05/2016	25/01/2016	$955,000	861m	Full transfer	4	1	1	2	-	$955,000	33	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.43
+2016	493354	4 Salmond Street	19/10/2016	07/12/2016	31/05/2016	$892,500	960m	Full transfer	5	2	-	2	0	$892,500	141	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.39
+2016	488072	20 Wilsmore Crescent	12/08/2016	14/10/2016	04/02/2016	$890,000	1073m	Full transfer	5	2	1	2	-	$890,000	190	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.56
+2016	493841	            1/3 Board Place	15/11/2016	20/12/2016	-	$889,000	1089m	Full transfer	-	-	-	-	-	$889,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487732	3 Board Place	22/10/2016	-	29/09/2016	$889,000	598m	Full transfer	4	2	-	2	-	$889,000	23	-	Allhomes Record	190	-	-	-	$640,000	0.72
+2016	480284	2/1 Thomson Street	21/04/2016	15/06/2016	31/03/2016	$860,000	1118m	Full transfer	3	2	0	2	0	$860,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	$262,640	0.31
+2016	480796	5 Wurth Place	30/03/2016	30/06/2016	02/03/2016	$830,000	1149m	Full transfer	3	2	-	1	-	$830,000	28	-	Combined Record	-	-	-	Single residential dwelling	$640,000	0.77
+2016	490177	3/15 Charteris Crescent	27/07/2016	03/11/2016	-	$820,000	3837m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486198	105 Eggleston Crescent	25/06/2016	07/09/2016	31/05/2016	$810,000	1077m	Full transfer	3	1	-	1	-	$810,000	25	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.64
+2016	497379	3 Pollock Street	22/10/2016	06/02/2017	29/09/2016	$802,000	656m	Full transfer	3	2	-	2	0	$802,000	23	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.59
+2016	492760	13 Anderson Street	23/07/2016	16/12/2016	28/06/2016	$775,000	1047m	Full transfer	4	1	1	1	1	$775,000	25	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.71
+2016	501521	39 MacLaurin Crescent	14/12/2016	24/03/2017	28/11/2016	$774,000	722m	Full transfer	4	1	1	1	1	$774,000	16	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.61
+2016	486288	3 Threlfall Street	25/07/2016	09/09/2016	07/07/2016	$764,000	926m	Full transfer	4	1	1	0	2	$764,000	18	-	Combined Record	-	-	-	Single residential dwelling...	$402,000	0.53
+2016	485169	110 Eggleston Crescent	27/02/2016	17/08/2016	04/02/2016	$750,000	887m	Full transfer	3	1	-	2	0	$750,000	23	-	Combined Record	-	-	-	Single residential dwelling	$512,000	0.68
+2016	500659	1/107 Eggleston Crescent	22/12/2016	14/03/2017	10/11/2016	$750,000	959m	Full transfer	3	2	-	2	0	$750,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	482502	11 Haswell Place	04/06/2016	26/07/2016	10/05/2016	$736,000	748m	Full transfer	3	1	1	1	1	$736,000	25	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.65
+2016	476838	9 Coghlan Street	02/03/2016	29/04/2016	16/02/2016	$735,000	884m	Full transfer	3	1	-	1	0	$735,000	15	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.75
+2016	481400	2 Mauldon Street	27/04/2016	14/07/2016	09/03/2016	$730,000	1033m	Full transfer	3	2	-	2	-	$730,000	49	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.69
+2016	474012	3A Board Place	12/04/2016	-	03/02/2016	$730,000	0m	Full transfer	3	2	-	2	-	$730,000	69	-	Allhomes Record	-	-	-	-	$640,000	0.88
+2016	476050	4 Coghlan Street	15/02/2016	18/04/2016	-	$720,000	836m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479581	108 Eggleston Crescent	05/03/2016	08/06/2016	11/02/2016	$710,000	918m	Full transfer	3	1	1	1	0	$710,000	23	-	Combined Record	-	-	-	Single residential dwelling	$512,000	0.72
+2016	481405	112 Eggleston Crescent	27/02/2016	12/07/2016	03/02/2016	$710,000	893m	Full transfer	3	1	0	1	0	$710,000	24	-	Combined Record	-	-	-	Single residential dwelling	$512,000	0.72
+2016	491539	111 Eggleston Crescent	12/09/2016	23/11/2016	-	$697,500	755m	Full transfer	-	-	-	-	-	$697,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483969	             Eggleston Crescent	12/09/2016	-	30/06/2016	$697,500	823m	Full transfer	3	1	-	0	0	$697,500	74	-	Allhomes Record	-	-	-	-	-	-
+2016	490681	12 Anderson Street	10/09/2016	15/11/2016	17/08/2016	$697,500	697m	Full transfer	4	2	0	1	0	$697,500	24	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.68
+2016	491543	109 Eggleston Crescent	12/09/2016	23/11/2016	-	$697,500	823m	Full transfer	-	-	-	-	-	$697,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484400	9/15 Charteris Crescent	18/02/2016	16/08/2016	-	$694,000	3837m	Full transfer	-	-	-	-	-	$694,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493088	10/15 Charteris Crescent	23/09/2016	06/12/2016	07/11/2013	$694,000	3837m	Full transfer	3	2	-	2	-	$694,000	1051	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	490110	123 Eggleston Crescent	20/08/2016	09/11/2016	28/07/2016	$690,000	813m	Full transfer	3	1	-	1	-	$690,000	23	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.76
+2016	488231	24 Renwick Street	30/04/2016	07/10/2016	07/04/2016	$690,000	704m	Full transfer	5	2	-	2	0	$690,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.54
+2016	498042	125 Eggleston Crescent	25/11/2016	13/02/2017	08/09/2016	$676,500	813m	Full transfer	3	1	0	1	0	$676,500	78	-	Combined Record	-	-	-	Single residential dwelling	$521,000	0.77
+2016	480806	11 Waldock Street	28/04/2016	28/06/2016	07/04/2016	$672,000	755m	Full transfer	3	1	-	2	0	$672,000	21	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.66
+2016	500564	16 Anderson Street	30/06/2016	17/03/2017	-	$670,000	753m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479358	19 Renwick Street	23/03/2016	01/06/2016	-	$645,000	1167m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484553	47 MacLaurin Crescent	24/03/2016	19/08/2016	-	$645,000	802m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484913	49 MacLaurin Crescent	24/03/2016	19/08/2016	-	$645,000	794m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486997	12 Mauldon Street	23/07/2016	21/09/2016	27/06/2016	$640,000	1008m	Full transfer	3	1	-	1	1	$640,000	26	-	Combined Record	118	-	-	Single residential dwelling	$448,000	0.7
+2016	475591	16 MacFarland Crescent	27/01/2016	12/04/2016	-	$640,000	858m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476844	11 Plunkett Street	04/02/2016	26/04/2016	10/01/2016	$640,000	656m	Full transfer	4	2	-	1	-	$640,000	25	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.57
+2016	503365	32 MacFarland Crescent	05/12/2016	03/04/2017	08/08/2016	$635,000	1036m	Full transfer	4	1	-	2	0	$635,000	119	-	Combined Record	110	-	-	Single residential dwelling...	$410,000	0.65
+2016	477846	120A Eggleston Crescent	30/05/2016	-	11/02/2016	$628,000	1148m	Full transfer	4	1	2	-	2	$628,000	109	-	Allhomes Record	-	-	-	-	$600,000	0.96
+2016	474817	2/129 Eggleston Crescent	29/04/2016	-	27/10/2015	$612,000	845m	Full transfer	3	1	1	1	1	$612,000	185	-	Allhomes Record	122	-	-	-	$548,000	0.9
+2016	472781	3 Riley Place	24/03/2016	-	30/03/2016	$555,000	662m	Full transfer	2	1	-	1	0	$555,000	-	-	Allhomes Record	-	-	-	-	$379,000	0.68
+2016	472771	3 Riley Place	24/02/2016	-	13/01/2016	$555,000	662m	Full transfer	2	1	-	1	-	$555,000	42	-	Allhomes Record	-	-	-	-	$379,000	0.68
+2016	487008	            2/39 Anderson Street	06/08/2016	21/09/2016	-	$550,000	981m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	478513	22B Threlfall Street	07/06/2016	-	01/03/2016	$550,000	0m	Full transfer	3	2	-	1	0	$550,000	98	-	Allhomes Record	-	-	-	-	$536,000	0.97
+2016	481579	39B Anderson Street	06/08/2016	-	13/07/2016	$550,000	-	Full transfer	3	1	0	1	1	$550,000	24	-	Allhomes Record	-	-	-	-	$548,000	1.0
+2016	497115	90 Eggleston Crescent	30/11/2016	08/02/2017	-	$540,000	587m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477765	28 Eggleston Crescent	23/03/2016	13/05/2016	03/03/2016	$531,000	686m	Full transfer	3	1	0	2	0	$531,000	20	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.61
+2016	498459	2/101 Eggleston Crescent	22/12/2016	15/02/2017	-	$525,000	2949m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	477756	            2/31 Eggleston Crescent	16/03/2016	10/05/2016	-	$495,000	3320m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472092	2/33 Eggleston Crescent	16/03/2016	-	10/09/2015	$495,000	3320m	Full transfer	2	1	1	1	0	$495,000	188	-	Allhomes Record	-	-	-	-	$1,870,000	3.78
+2016	496851	1/39 Anderson Street	14/12/2016	10/02/2017	-	$495,000	981m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	490859	4/102 Eggleston Crescent	19/09/2016	17/11/2016	08/07/2015	$440,000	1843m	Full transfer	2	0	2	2	0	$440,000	439	-	Combined Record	-	-	-	Multiple unit dwelling	$1,490,000	3.39
+2016	499124	8/101 Eggleston Crescent	11/11/2016	02/03/2017	-	$410,000	2949m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	494006	9/1 Chifley Place	31/10/2016	21/12/2016	25/08/2016	$376,000	1338m	Full transfer	2	1	-	-	1	$376,000	67	-	Combined Record	91	-	-	Multiple unit dwelling	-	-
+2016	485926	8/1 Chifley Place	29/06/2016	19/08/2016	19/05/2016	$346,000	1338m	Full transfer	2	1	-	0	1	$346,000	41	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	487499	2/6 MacLaurin Crescent	19/07/2016	27/09/2016	27/04/2016	$297,000	7271m	Full transfer	2	1	-	-	1	$297,000	83	-	Combined Record	79	-	-	Multiple unit dwelling	$4,754,000	16.01
+2016	487971	38/7 Medley Street	30/08/2016	14/10/2016	29/03/2016	$290,000	10778m	Full transfer	2	1	-	1	-	$290,000	154	-	Combined Record	65	-	-	Multiple unit dwelling	$9,513,000	32.8
+2016	478403	20/17 Medley Street	20/04/2016	19/05/2016	09/09/2015	$286,000	10736m	Full transfer	2	1	-	-	-	$286,000	224	-	Combined Record	-	-	-	Multiple unit dwelling	$9,630,000	33.67
+2016	478391	62/17 Medley Street	16/03/2016	16/05/2016	04/09/2015	$285,000	10736m	Full transfer	2	1	-	-	1	$285,000	194	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	476057	28/7 Medley Street	16/02/2016	18/04/2016	18/08/2015	$280,000	10778m	Full transfer	2	1	-	-	1	$280,000	182	-	Combined Record	-	-	-	Multiple unit dwelling	$9,513,000	33.98
+2016	500741	43/17 Medley Street	30/06/2016	17/03/2017	-	$275,000	10736m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491257	70/17 Medley Street	21/09/2016	22/11/2016	18/08/2016	$272,000	10736m	Full transfer	2	1	0	0	1	$272,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	$9,630,000	35.4
+2016	495140	67/7 Medley Street	15/11/2016	19/01/2017	16/09/2016	$264,900	10778m	Full transfer	2	1	-	-	1	$264,900	60	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	500670	25/7 Medley Street	19/12/2016	17/03/2017	12/04/2016	$262,500	10778m	Full transfer	2	1	-	0	1	$262,500	251	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	485923	38/6 MacLaurin Crescent	20/06/2016	15/08/2016	11/04/2016	$260,000	7271m	Full transfer	2	1	-	0	1	$260,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	495993	28/17 Medley Street	11/10/2016	27/01/2017	02/09/2014	$225,000	10736m	Full transfer	1	1	-	-	1	$225,000	770	-	Combined Record	56	-	-	Multiple unit dwelling	$9,630,000	42.8
+2016	478979	35/17 Medley Street	20/06/2016	-	21/04/2015	$220,000	10736m	Full transfer	1	1	-	-	1	$220,000	426	-	Allhomes Record	56	-	-	-	$9,630,000	43.77
+2016	476264	30/17 Medley Street	17/05/2016	-	18/11/2015	$220,000	10736m	Full transfer	1	1	-	-	1	$220,000	181	-	Allhomes Record	-	-	-	-	$9,630,000	43.77
+2016	485703	17 Thomson Street	08/08/2016	04/09/2016	-	$82,000	683m	Full transfer	-	-	-	-	-	$82,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499926	1/36 Eggleston Crescent	11/05/2016	08/03/2017	-	$0	1019m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	478878	5 Barff Place	09/02/2016	24/05/2016	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479590	11 Gledden Street	01/04/2016	06/06/2016	-	$0	982m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493313	            2/50 Medley Street	24/11/2016	05/12/2016	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513069	12 Mayne Street	30/06/2016	06/06/2017	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487281	4 Pollock Street	18/05/2016	21/09/2016	-	$0	803m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503112	5 Thomson Street	20/11/2016	06/04/2017	-	$0	736m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475598	6 Welsh Place	25/01/2016	12/04/2016	-	$0	881m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478883	8/15 Charteris Crescent	07/04/2016	25/05/2016	-	$0	3837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486650	18 MacFarland Crescent	29/08/2016	12/09/2016	-	$0	972m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499856	            2/36 Eggleston Crescent	11/05/2016	08/03/2017	-	$0	1019m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522299	12 Purser Street	01/07/2016	12/12/2017	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476837	35 Threlfall Street	23/02/2016	26/04/2016	-	$0	1530m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497345	10 Eggleston Crescent	23/06/2016	07/02/2017	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	495823	1 Welsh Place	28/09/2016	03/01/2017	-	$0	876m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493304	            1/50 Medley Street	24/11/2016	05/12/2016	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486229	24/7 Medley Street	11/04/2016	07/09/2016	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	498980	56 Wilsmore Crescent	22/11/2016	01/03/2017	-	$0	1250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479591	3 Lamb Place	01/04/2016	10/06/2016	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500681	49 Medley Street	31/08/2016	14/03/2017	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	565416	29 Gledden Street	01/07/2016	23/07/2019	-	$0	1011m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497123	24/7 Medley Street	20/10/2016	08/02/2017	-	$0	10778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	498426	11 Mayne Street	31/08/2016	14/02/2017	-	$0	695m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484767	10 Roper Place	30/06/2016	25/08/2016	-	$0	988m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482530	6 Riley Place	01/01/2016	28/07/2016	-	$0	948m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520798	4 Allwood Street	16/09/2017	20/11/2017	24/08/2017	$1,210,000	769m	Full transfer	4	2	-	3	0	$1,210,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.41
+2017	516297	37 Threlfall Street	04/05/2017	11/08/2017	-	$1,200,000	1702m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503829	32 Charteris Crescent	06/03/2017	28/04/2017	19/01/2017	$1,185,000	768m	Full transfer	4	2	-	2	0	$1,185,000	46	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.42
+2017	515842	4 Charteris Crescent	26/05/2017	25/07/2017	15/03/2017	$1,150,000	711m	Full transfer	5	3	-	2	0	$1,150,000	72	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.37
+2017	521968	13 Wilsmore Crescent	23/09/2017	05/01/2018	31/08/2017	$1,085,000	814m	Full transfer	4	2	-	2	0	$1,085,000	23	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.44
+2017	509211	34 MacLaurin Crescent	01/10/2017	-	10/07/2017	$1,075,000	1143m	Full transfer	-	-	-	-	-	$1,075,000	83	-	Allhomes Record	-	-	-	-	$544,000	0.51
+2017	519625	34 MacLaurin Crescent	09/10/2017	09/10/2017	-	$1,075,000	1144m	Full transfer	-	-	-	-	-	$1,075,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	572556	            1 Coghlan Street	23/11/2017	21/10/2019	-	$1,050,000	570m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Residential	-	-
+2017	515612	18 Thomson Street	05/06/2017	20/07/2017	09/03/2017	$975,000	776m	Full transfer	4	2	-	2	-	$975,000	88	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.51
+2017	532755	            1/95 Eggleston Crescent	30/10/2017	15/05/2018	-	$928,000	1019m	Full transfer	-	-	-	-	-	$928,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523384	15 Wilsmore Crescent	18/09/2017	19/01/2018	21/08/2017	$915,000	822m	Full transfer	4	1	-	-	1	$915,000	28	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.52
+2017	527684	3/15 Charteris Crescent	10/10/2017	14/03/2018	17/08/2017	$915,000	3837m	Full transfer	4	2	-	4	2	$915,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	553990	15 Wilsmore Crescent	16/09/2017	-	07/03/2019	$915,000	0m	Full transfer	4	1	-	-	1	$915,000	-	-	Allhomes Record	-	-	-	-	$475,000	0.52
+2017	520146	41 Threlfall Street	03/11/2017	03/11/2017	-	$900,000	1857m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509104	51 MacFarland Crescent	02/11/2017	-	12/10/2017	$900,000	1163m	Full transfer	-	-	-	-	-	$900,000	21	-	Allhomes Record	-	-	-	-	$404,000	0.45
+2017	509102	3 Charteris Crescent	02/11/2017	-	12/10/2017	$900,000	1037m	Full transfer	-	-	-	-	-	$900,000	21	-	Allhomes Record	-	-	-	-	$485,000	0.54
+2017	528359	41 MacFarland Crescent	25/11/2017	22/03/2018	02/11/2017	$896,000	778m	Full transfer	4	2	-	2	-	$896,000	23	-	Combined Record	184	-	-	Single residential dwelling	$423,000	0.47
+2017	524656	15 Gledden Street	07/09/2017	01/02/2018	06/07/2017	$885,000	1259m	Full transfer	4	3	-	0	1	$885,000	63	-	Combined Record	-	-	-	Single residential dwelling	$577,000	0.65
+2017	502361	76 Eggleston Crescent	18/02/2017	19/04/2017	13/12/2016	$870,000	1037m	Full transfer	4	1	1	1	1	$870,000	67	-	Combined Record	171	-	-	Single residential dwelling	$432,000	0.5
+2017	520488	8 Stops Place	26/08/2017	10/11/2017	03/08/2017	$865,000	913m	Full transfer	4	1	0	2	0	$865,000	23	-	Combined Record	-	-	-	Single residential dwelling	$547,000	0.63
+2017	509111	50 Gledden Street	02/11/2017	-	12/10/2017	$865,000	973m	Full transfer	-	-	-	-	-	$865,000	21	-	Allhomes Record	-	-	-	-	$425,000	0.49
+2017	506979	1 Warren Place	08/08/2017	-	07/07/2017	$840,000	0m	Full transfer	-	-	-	-	-	$840,000	32	-	Allhomes Record	-	-	-	-	$481,000	0.57
+2017	504786	7 Roper Place	25/03/2017	04/05/2017	02/03/2017	$837,500	933m	Full transfer	4	2	-	1	0	$837,500	23	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.56
+2017	503835	5 Haswell Place	25/02/2017	24/04/2017	02/02/2017	$837,000	749m	Full transfer	4	1	1	2	-	$837,000	23	-	Combined Record	177	-	-	Single residential dwelling	$500,000	0.6
+2017	504834	4 Mauldon Street	18/02/2017	04/05/2017	24/01/2017	$825,000	757m	Full transfer	5	2	-	0	4	$825,000	25	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.57
+2017	516787	9 Coghlan Street	23/05/2017	03/08/2017	-	$820,000	884m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509110	6 Wood Place	02/11/2017	-	12/10/2017	$805,000	-	Full transfer	-	-	-	-	-	$805,000	21	-	Allhomes Record	-	-	-	-	$556,000	0.69
+2017	529102	            3/10 Allwood Street	16/01/2017	28/03/2018	-	$800,000	1499m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527084	8 Pollock Street	04/11/2017	05/03/2018	12/10/2017	$790,000	1045m	Full transfer	4	2	-	1	0	$790,000	23	-	Combined Record	-	-	-	Single residential dwelling	$577,000	0.73
+2017	518019	30 Salmond Street	30/06/2017	29/08/2017	06/03/2017	$780,000	938m	Full transfer	4	1	1	-	1	$780,000	116	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.71
+2017	525983	7 Gledden Street	11/12/2017	15/02/2018	23/11/2017	$762,000	914m	Full transfer	3	1	-	2	0	$762,000	18	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.71
+2017	517305	5 Thomson Street	10/06/2017	16/08/2017	18/05/2017	$751,000	736m	Full transfer	3	1	-	2	-	$751,000	23	-	Combined Record	120	-	-	Single residential dwelling	$500,000	0.67
+2017	528561	41 Medley Street	04/11/2017	22/03/2018	12/10/2017	$750,000	710m	Full transfer	3	1	-	0	1	$750,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.67
+2017	512427	1 Welsh Place	25/02/2017	10/05/2017	24/01/2017	$736,000	876m	Full transfer	3	2	-	3	-	$736,000	32	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.64
+2017	516188	14 Plunkett Street	20/05/2017	27/07/2017	26/04/2017	$715,000	816m	Full transfer	3	1	-	0	2	$715,000	24	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.56
+2017	501247	5 Bosch Place	11/02/2017	28/03/2017	19/01/2017	$715,000	671m	Full transfer	3	1	-	0	1	$715,000	23	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.61
+2017	509103	4 Barff Place	02/11/2017	-	12/10/2017	$715,000	-	Full transfer	-	-	-	-	-	$715,000	21	-	Allhomes Record	-	-	-	-	$419,000	0.59
+2017	538118	            10/110 Eggleston Crescent	09/08/2017	17/07/2018	-	$714,950	2698m	Full transfer	-	-	-	-	-	$714,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507427	110 Eggleston Crescent	29/08/2017	-	08/02/2017	$714,950	2698m	Full transfer	3	2	1	2	-	$714,950	202	-	Allhomes Record	-	-	-	-	$512,000	0.72
+2017	538584	            5/110 Eggleston Crescent	22/12/2017	25/07/2018	-	$695,000	2698m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524699	6 Bosch Place	05/12/2017	30/01/2018	26/09/2017	$695,000	744m	Full transfer	3	1	-	1	-	$695,000	70	-	Combined Record	94	-	-	Single residential dwelling	$434,000	0.62
+2017	538575	            1/110 Eggleston Crescent	31/08/2017	23/07/2018	-	$694,950	2698m	Full transfer	-	-	-	-	-	$694,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506982	6 Barff Place	08/08/2017	-	07/07/2017	$690,000	0m	Full transfer	-	-	-	-	-	$690,000	32	-	Allhomes Record	-	-	-	-	$449,000	0.65
+2017	519624	6 Barff Place	09/10/2017	09/10/2017	-	$690,000	901m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	538219	            4/110 Eggleston Crescent	08/08/2017	18/07/2018	-	$684,950	2698m	Full transfer	-	-	-	-	-	$684,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	538814	            6/110 Eggleston Crescent	06/03/2017	01/08/2018	-	$684,950	2698m	Full transfer	-	-	-	-	-	$684,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515011	2 Medley Street	20/03/2017	04/07/2017	23/02/2017	$680,000	788m	Full transfer	3	1	-	1	0	$680,000	25	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.74
+2017	515952	16 Mayne Street	05/06/2017	27/07/2017	-	$675,000	845m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508222	10A Purser Street	27/09/2017	-	07/09/2017	$675,000	-	Full transfer	3	2	0	2	0	$675,000	20	-	Allhomes Record	-	-	-	-	$604,000	0.89
+2017	521993	            1/10 Purser Street	27/09/2017	04/01/2018	-	$675,000	890m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522804	15 Mayne Street	03/11/2017	11/01/2018	15/09/2017	$660,000	741m	Full transfer	3	1	-	1	1	$660,000	49	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.65
+2017	507892	10 Eggleston Crescent	08/09/2017	-	19/07/2017	$640,000	0m	Full transfer	3	1	-	0	0	$640,000	51	-	Allhomes Record	-	-	-	-	$379,000	0.59
+2017	519435	31 MacLaurin Crescent	09/10/2017	09/10/2017	-	$640,000	752m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506990	31 MacLaurin Crescent	08/08/2017	-	07/07/2017	$640,000	0m	Full transfer	-	-	-	-	-	$640,000	32	-	Allhomes Record	-	-	-	-	$467,000	0.73
+2017	509019	13 Mauldon Street	30/10/2017	-	07/07/2017	$635,000	0m	Full transfer	-	-	-	-	-	$635,000	115	-	Allhomes Record	-	-	-	-	$381,000	0.6
+2017	507852	18 Renwick Street	12/09/2017	-	07/07/2017	$630,000	0m	Full transfer	-	-	-	-	-	$630,000	67	-	Allhomes Record	-	-	-	-	$343,000	0.54
+2017	510653	11 Mayne Street	16/12/2017	-	28/11/2017	$600,000	695m	Full transfer	3	1	0	2	0	$600,000	18	-	Allhomes Record	-	-	-	-	$422,000	0.7
+2017	506891	110 Eggleston Crescent	01/08/2017	-	29/06/2017	$599,950	0m	Full transfer	2	2	-	2	-	$599,950	33	-	Allhomes Record	-	-	-	-	$512,000	0.85
+2017	537306	            8/110 Eggleston Crescent	08/09/2017	15/07/2018	-	$599,950	2698m	Full transfer	-	-	-	-	-	$599,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507853	110 Eggleston Crescent	13/09/2017	-	08/02/2017	$599,950	2698m	Full transfer	2	1	1	2	-	$599,950	217	-	Allhomes Record	-	-	-	-	$512,000	0.85
+2017	539089	            9/110 Eggleston Crescent	31/05/2017	30/07/2018	-	$599,950	2698m	Full transfer	-	-	-	-	-	$599,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	530819	6 Riley Place	11/11/2017	16/04/2018	19/10/2017	$595,000	948m	Full transfer	3	1	-	1	0	$595,000	23	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.61
+2017	517670	10 Carslaw Street	26/06/2017	24/08/2017	-	$580,000	896m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515339	5 MacFarland Crescent	15/05/2017	10/07/2017	-	$570,000	693m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513772	11/101 Eggleston Crescent	30/03/2017	29/05/2017	-	$540,000	2949m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522854	            2/25 Anderson Street	22/08/2017	08/01/2018	-	$530,000	906m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507299	25A Anderson Street	26/06/2017	-	15/06/2017	$530,000	0m	Full transfer	3	2	-	0	1	$530,000	11	-	Allhomes Record	-	-	-	-	$577,000	1.09
+2017	494630	101 Eggleston Crescent	13/02/2017	-	01/11/2013	$390,000	2949m	Full transfer	2	2	-	0	0	$390,000	1200	-	Allhomes Record	-	-	-	-	$1,925,000	4.94
+2017	503318	7/101 Eggleston Crescent	31/01/2017	04/04/2017	-	$390,000	2949m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521343	16/17 Medley Street	18/09/2017	05/12/2017	-	$365,000	10736m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503756	            22B/7 Medley Street	13/05/2017	-	21/04/2017	$335,000	0m	Full transfer	2	1	-	0	1	$335,000	22	-	Allhomes Record	-	-	-	-	-	-
+2017	517049	22/7 Medley Street	13/05/2017	03/08/2017	-	$335,000	10778m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518451	31/6 MacLaurin Crescent	22/07/2017	09/09/2017	29/06/2017	$332,000	7271m	Full transfer	2	1	0	1	0	$332,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	$4,754,000	14.32
+2017	509534	51/17 Medley Street	14/11/2017	-	21/07/2016	$325,000	10736m	Full transfer	2	1	-	-	1	$325,000	481	-	Allhomes Record	-	-	-	-	-	-
+2017	521046	7/17 Medley Street	18/08/2017	29/11/2017	-	$300,000	10736m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519724	13/7 Medley Street	13/10/2017	16/10/2017	-	$295,000	10778m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	502288	3/7 Medley Street	20/02/2017	19/04/2017	03/11/2016	$290,000	10778m	Full transfer	2	1	0	0	1	$290,000	109	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523294	73/17 Medley Street	07/09/2017	15/01/2018	11/08/2016	$280,000	10736m	Full transfer	2	1	-	-	1	$280,000	392	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	528378	53/7 Medley Street	22/12/2017	21/03/2018	13/10/2017	$275,000	10778m	Full transfer	2	1	-	0	1	$275,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	524753	19/17 Medley Street	30/11/2017	30/01/2018	11/10/2017	$265,000	10736m	Full transfer	2	1	-	-	1	$265,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	517439	20/6 MacLaurin Crescent	22/06/2017	23/08/2017	01/06/2017	$258,000	7271m	Full transfer	1	1	-	1	-	$258,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	527635	56/17 Medley Street	15/12/2017	14/03/2018	20/10/2017	$227,000	10736m	Full transfer	1	1	-	0	1	$227,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	510131	54/17 Medley Street	30/11/2017	-	18/10/2017	$215,000	0m	Full transfer	1	1	-	-	1	$215,000	43	-	Allhomes Record	-	-	-	-	$9,630,000	44.79
+2017	519551	60/17 Medley Street	14/08/2017	12/10/2017	18/05/2017	$210,000	10736m	Full transfer	1	1	-	0	1	$210,000	88	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	514577	22 Gledden Street	11/05/2017	03/07/2017	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515266	4 Haswell Place	16/03/2017	10/07/2017	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503150	50 MacFarland Crescent	17/01/2017	05/04/2017	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517384	8 Stops Place	25/05/2017	22/08/2017	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523619	6 Wurth Place	11/08/2017	17/01/2018	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523560	11 Mayne Street	21/08/2017	18/01/2018	-	$0	695m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517558	7 Riley Place	18/03/2017	22/08/2017	-	$0	676m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	538505	10 Pollock Street	28/07/2017	25/07/2018	-	$0	1187m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517486	9 Riley Place	18/03/2017	22/08/2017	-	$0	690m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	541944	12 Roper Place	05/12/2017	11/09/2018	-	$0	1526m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522633	2 Riley Place	24/05/2017	11/01/2018	-	$0	1158m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528984	6 Shann Place	20/04/2017	29/03/2018	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518568	5/1 Chifley Place	07/08/2017	09/09/2017	-	$0	1338m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512588	49 Medley Street	11/02/2017	11/05/2017	12/01/2017	$0	786m	Full transfer	3	1	-	0	1	$0	30	-	Combined Record	-	-	-	Single residential dwelling	$500,000	44.79
+2017	520604	41 MacFarland Crescent	20/07/2017	08/11/2017	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501410	7 Anderson Street	14/01/2017	20/03/2017	-	$0	751m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533771	             Eggleston Crescent	14/06/2018	-	09/03/2018	$1,730,000	0m	Full transfer	0	1	-	0	0	$1,730,000	97	-	Allhomes Record	-	-	-	-	-	-
+2018	542053	            21 Threlfall Street	25/09/2018	-	13/03/2018	$1,450,000	0m	Full transfer	4	2	-	2	0	$1,450,000	196	-	Allhomes Record	-	-	-	-	-	-
+2018	558492	            2/1 Warren Place	25/09/2018	01/05/2019	-	$1,450,000	1202m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533403	13 Wilsmore Crescent	17/03/2018	27/05/2018	22/02/2018	$1,085,000	814m	Full transfer	4	2	-	2	-	$1,085,000	23	-	Combined Record	224	-	-	Single residential dwelling	$499,000	0.46
+2018	535913	5 Charteris Crescent	21/02/2018	24/06/2018	-	$1,075,000	1153m	Full transfer	-	-	-	-	-	$1,075,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	551448	1 Lamb Place	15/09/2018	12/11/2018	23/08/2018	$1,075,000	818m	Full transfer	4	2	-	2	0	$1,075,000	23	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.42
+2018	547845	27 Charteris Crescent	06/09/2018	22/10/2018	26/07/2018	$985,000	1184m	Full transfer	4	2	-	0	2	$985,000	42	-	Combined Record	-	-	-	Single residential dwelling	$566,000	0.57
+2018	560700	10 Pollock Street	19/12/2018	16/04/2019	04/09/2018	$975,000	1187m	Full transfer	3	2	-	4	0	$975,000	106	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.62
+2018	548194	            16B MacFarland Crescent	30/08/2018	05/11/2018	-	$905,000	449m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525038	3 Charteris Crescent	31/01/2018	31/01/2018	-	$900,000	1038m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	524511	51 MacFarland Crescent	31/01/2018	31/01/2018	-	$900,000	1016m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550147	109 Eggleston Crescent	14/06/2018	10/12/2018	-	$865,000	823m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	524950	50 Gledden Street	01/02/2018	01/02/2018	-	$865,000	978m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548919	6 Allwood Street	10/11/2018	14/01/2019	18/10/2018	$865,000	832m	Full transfer	3	2	-	1	1	$865,000	23	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.7
+2018	550138	111 Eggleston Crescent	14/06/2018	10/12/2018	-	$865,000	755m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538652	6 Stops Place	31/05/2018	24/07/2018	-	$860,000	885m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525439	7 Wurth Place	01/03/2018	-	18/01/2018	$850,000	-	Full transfer	-	-	-	-	-	$850,000	42	-	Allhomes Record	-	-	-	-	$700,000	0.82
+2018	537966	44 MacLaurin Crescent	01/08/2018	-	07/06/2018	$850,000	780m	Full transfer	4	2	-	1	0	$850,000	55	-	Allhomes Record	-	-	-	-	$525,000	0.62
+2018	550385	12 Purser Street	03/11/2018	09/01/2019	10/10/2018	$840,000	852m	Full transfer	3	1	-	1	0	$840,000	24	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.69
+2018	535440	26 Gledden Street	27/04/2018	21/06/2018	12/04/2018	$813,000	750m	Full transfer	4	2	-	0	2	$813,000	15	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.61
+2018	538731	1 Purser Street	09/08/2018	-	05/04/2018	$810,000	425m	Full transfer	4	2	-	2	0	$810,000	126	-	Allhomes Record	-	-	-	-	$606,000	0.75
+2018	543263	            2/40 Eggleston Crescent	09/08/2018	02/10/2018	-	$810,000	821m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	524752	6 Wood Place	31/01/2018	31/01/2018	-	$805,000	1167m	Full transfer	-	-	-	-	-	$805,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549736	36 MacLaurin Crescent	18/12/2018	18/12/2018	-	$800,000	1359m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	570059	            3/13 Anderson Street	23/04/2018	19/09/2019	-	$789,000	1047m	Full transfer	-	-	-	-	-	$789,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534136	5 Thomson Street	10/04/2018	03/06/2018	-	$775,000	736m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529205	            4/10 Allwood Street	31/01/2018	27/03/2018	-	$769,000	1499m	Full transfer	-	-	-	-	-	$769,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550288	7 Thomson Street	17/09/2018	14/12/2018	30/08/2018	$768,500	753m	Full transfer	3	1	-	3	0	$768,500	18	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.68
+2018	548205	            1/105 Eggleston Crescent	29/06/2018	08/11/2018	-	$760,000	1077m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537846	1/13 Anderson Street	16/07/2018	-	25/01/2018	$755,000	0m	Full transfer	4	2	-	2	-	$755,000	172	-	Allhomes Record	-	-	-	-	$606,000	0.8
+2018	533015	105 Eggleston Crescent	31/05/2018	-	21/02/2018	$755,000	1077m	Full transfer	3	1	1	2	-	$755,000	99	-	Allhomes Record	175	-	-	-	$575,000	0.76
+2018	551576	5 Anderson Street	25/08/2018	14/11/2018	02/08/2018	$750,000	810m	Full transfer	3	1	-	2	-	$750,000	23	-	Combined Record	105	-	-	Single residential dwelling	$566,000	0.75
+2018	541408	27 Allwood Street	02/07/2018	03/09/2018	-	$750,000	887m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550610	            2/105 Eggleston Crescent	23/04/2018	30/10/2018	-	$745,000	1077m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538974	            7/110 Eggleston Crescent	08/02/2018	02/08/2018	-	$743,950	2698m	Full transfer	-	-	-	-	-	$743,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531637	3 Salmond Street	25/01/2018	29/04/2018	11/01/2018	$740,000	881m	Full transfer	3	1	-	0	0	$740,000	14	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.54
+2018	550927	4 Welsh Place	22/09/2018	09/01/2019	30/08/2018	$730,000	1039m	Full transfer	3	1	-	2	2	$730,000	23	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.71
+2018	560389	2 Anderson Street	10/11/2018	30/01/2019	18/10/2018	$730,000	964m	Full transfer	3	1	-	0	0	$730,000	23	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.83
+2018	544008	14 MacFarland Crescent	25/08/2018	12/10/2018	02/08/2018	$730,000	730m	Full transfer	4	2	-	0	1	$730,000	23	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.72
+2018	527866	2/14 Coghlan Street	04/04/2018	-	16/02/2018	$725,000	0m	Full transfer	3	2	-	0	2	$725,000	47	-	Allhomes Record	-	-	-	-	$500,000	0.69
+2018	541205	4 Thomson Street	02/07/2018	05/09/2018	07/05/2018	$725,000	751m	Full transfer	3	1	-	-	1	$725,000	56	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.72
+2018	552432	            2/7 Wood Place	26/10/2018	29/01/2019	-	$725,000	1046m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544137	7B Wood Place	26/10/2018	-	17/10/2018	$725,000	539m	Full transfer	3	2	-	2	0	$725,000	9	-	Allhomes Record	-	-	-	-	$660,000	0.91
+2018	525490	12 Medley Street	03/03/2018	-	08/02/2018	$720,000	0m	Full transfer	3	2	-	2	1	$720,000	23	-	Allhomes Record	-	-	-	-	$525,000	0.73
+2018	551695	2/13 Renwick Street	02/11/2018	09/01/2019	25/07/2018	$720,000	1341m	Full transfer	4	2	-	2	0	$720,000	100	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	547053	            1/16 Mauldon Street	27/08/2018	19/11/2018	-	$720,000	973m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539829	16A Mauldon Street	24/08/2018	-	12/07/2018	$720,000	0m	Full transfer	3	2	-	0	1	$720,000	43	-	Allhomes Record	-	-	-	-	$642,000	0.89
+2018	524906	4 Barff Place	31/01/2018	31/01/2018	-	$715,000	820m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549486	            1/114 Eggleston Crescent	07/09/2018	01/11/2018	-	$715,000	955m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551249	            2/114 Eggleston Crescent	16/10/2018	16/11/2018	-	$705,000	955m	Full transfer	-	-	-	-	-	$705,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	560346	115 Eggleston Crescent	07/12/2018	18/02/2019	22/11/2018	$700,000	813m	Full transfer	3	1	-	2	0	$700,000	15	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.82
+2018	547348	            3/114 Eggleston Crescent	13/09/2018	23/11/2018	-	$699,000	955m	Full transfer	-	-	-	-	-	$699,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541043	            2/110 Eggleston Crescent	26/06/2018	27/08/2018	-	$680,000	2698m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543788	            3/110 Eggleston Crescent	23/08/2018	12/10/2018	-	$680,000	2698m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530385	2 Riley Place	01/02/2018	09/04/2018	31/10/2017	$675,000	1158m	Full transfer	3	1	-	2	-	$675,000	93	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.57
+2018	551033	1/25 Anderson Street	02/11/2018	10/01/2019	-	$670,000	906m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	523766	13 Mauldon Street	15/01/2018	15/01/2018	-	$635,000	685m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	524944	18 Renwick Street	02/02/2018	02/02/2018	-	$630,000	745m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552922	3 Carslaw Street	01/12/2018	04/02/2019	08/11/2018	$620,000	748m	Full transfer	3	1	-	2	0	$620,000	23	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.62
+2018	512015	9 Mauldon Street	14/02/2018	-	12/10/2017	$610,000	694m	Full transfer	-	-	-	-	-	$610,000	125	-	Allhomes Record	-	-	-	-	$479,000	0.79
+2018	544475	20 Eggleston Crescent	12/10/2018	17/10/2018	-	$600,000	909m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537897	33A Anderson Street	28/07/2018	-	05/07/2018	$533,000	0m	Full transfer	3	1	-	0	2	$533,000	23	-	Allhomes Record	-	-	-	-	$606,000	1.14
+2018	542204	1/33A Anderson Street	28/07/2018	20/09/2018	-	$533,000	906m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542365	5/102 Eggleston Crescent	04/07/2018	17/09/2018	04/06/2018	$510,000	1843m	Full transfer	2	2	-	2	-	$510,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	537238	8/102 Eggleston Crescent	16/05/2018	03/07/2018	-	$480,000	1843m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531907	8/102-104 Eggleston Crescent	10/04/2018	-	08/03/2018	$480,000	0m	Full transfer	2	2	-	2	0	$480,000	33	-	Allhomes Record	-	-	-	-	$1,490,000	3.1
+2018	536356	16/48 Charteris Crescent	03/05/2018	28/06/2018	05/04/2018	$415,000	5930m	Full transfer	2	1	0	0	1	$415,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	536903	9/43 Anderson Street	03/05/2018	05/07/2018	11/01/2018	$395,000	5353m	Full transfer	2	2	-	0	1	$395,000	112	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	548945	10/1 Chifley Place	21/11/2018	16/01/2019	10/10/2018	$392,500	1338m	Full transfer	2	1	-	-	1	$392,500	42	-	Combined Record	95	-	-	Multiple unit dwelling	$1,712,000	4.36
+2018	535633	11/1 Chifley Place	26/04/2018	24/06/2018	19/03/2018	$385,000	1338m	Full transfer	2	1	-	-	1	$385,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551943	13/43 Anderson Street	21/12/2018	31/01/2019	25/10/2018	$385,000	5353m	Full transfer	2	2	-	0	2	$385,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	529544	5 Pollock Street	02/03/2018	05/04/2018	-	$370,000	716m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550416	12/7 Medley Street	21/11/2018	08/01/2019	18/10/2018	$320,000	10778m	Full transfer	2	1	-	0	1	$320,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	531404	62/17 Medley Street	15/02/2018	23/04/2018	09/01/2018	$305,500	10736m	Full transfer	2	1	-	-	-	$305,500	37	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	543851	23/17 Medley Street	02/08/2018	09/10/2018	04/07/2018	$305,000	10736m	Full transfer	2	1	-	0	2	$305,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	549228	45/17 Medley Street	15/10/2018	03/12/2018	12/04/2018	$300,000	10736m	Full transfer	2	1	-	-	1	$300,000	186	-	Combined Record	80	-	-	Multiple unit dwelling	-	-
+2018	550049	34/7 Medley Street	08/11/2018	14/12/2018	23/10/2018	$300,000	10778m	Full transfer	2	1	-	0	1	$300,000	16	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	538030	39/7 Medley Street	15/05/2018	16/07/2018	12/04/2018	$282,000	10778m	Full transfer	2	1	-	0	1	$282,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	536606	35/7 Medley Street	09/05/2018	28/06/2018	15/03/2018	$280,000	10778m	Full transfer	2	1	-	0	1	$280,000	55	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	533914	46/7 Medley Street	27/03/2018	31/05/2018	-	$250,000	10778m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544264	13/43 Anderson Street	30/07/2018	19/10/2018	-	$0	5353m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543469	26 MacLaurin Crescent	21/08/2018	03/10/2018	-	$0	964m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535783	37 Wilsmore Crescent	16/04/2018	19/06/2018	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537305	17 Thomson Street	12/03/2018	02/07/2018	-	$0	683m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540664	92 Eggleston Crescent	17/01/2018	20/08/2018	-	$0	581m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532757	16/48 Charteris Crescent	24/01/2018	14/05/2018	-	$0	5930m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532756	4 Mayne Street	14/05/2018	14/05/2018	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551572	57 MacLaurin Crescent	27/09/2018	16/11/2018	-	$0	715m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563973	13/101 Eggleston Crescent	02/11/2018	01/07/2019	-	$0	2949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537428	29 Mayne Street	13/05/2018	10/07/2018	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543508	44 MacLaurin Crescent	31/07/2018	02/10/2018	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548190	            3/105 Eggleston Crescent	31/05/2018	06/11/2018	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549704	17 McDonald Street	25/07/2018	21/12/2018	-	$0	799m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537108	2/13 Renwick Street	30/04/2018	08/07/2018	-	$0	1341m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	555098	1 Warren Place	02/04/2019	-	13/03/2018	$1,400,000	0m	Full transfer	4	2	-	2	0	$1,400,000	385	-	Allhomes Record	-	-	-	-	$735,000	0.53
+2019	574134	10 Mauldon Street	08/12/2019	-	14/11/2019	$1,385,000	1037m	Full transfer	6	5	-	3	0	$1,385,000	24	-	Allhomes Record	-	-	-	-	$496,000	0.36
+2019	569393	14 Gledden Street	03/09/2019	13/09/2019	-	$1,300,000	882m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557766	24 Threlfall Street	13/03/2019	17/04/2019	07/02/2019	$1,300,000	867m	Full transfer	4	2	-	2	-	$1,300,000	34	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.4
+2019	573500	41 MacFarland Crescent	25/11/2019	-	31/10/2019	$1,235,000	778m	Full transfer	4	2	-	2	0	$1,235,000	25	-	Allhomes Record	-	-	-	-	$444,000	0.36
+2019	573475	50 Gledden Street	24/11/2019	-	31/10/2019	$1,225,000	0m	Full transfer	4	3	-	2	0	$1,225,000	24	-	Allhomes Record	-	-	-	-	$700,000	0.57
+2019	572881	56 Eggleston Crescent	21/09/2019	25/10/2019	22/08/2019	$1,172,500	556m	Full transfer	4	4	-	2	0	$1,172,500	30	-	Combined Record	-	-	-	Residential	$606,000	0.52
+2019	571139	11 Carslaw Street	19/10/2019	-	19/09/2019	$1,050,000	1041m	Full transfer	4	2	-	1	-	$1,050,000	30	-	Allhomes Record	-	-	-	-	$408,000	0.39
+2019	561275	26 Wilsmore Crescent	28/03/2019	06/05/2019	21/03/2019	$955,000	1101m	Full transfer	4	2	-	1	0	$955,000	7	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.6
+2019	562330	3 Wurth Place	21/04/2019	06/06/2019	27/03/2019	$950,000	1232m	Full transfer	4	1	3	3	-	$950,000	25	-	Combined Record	-	-	-	Single residential dwelling	$699,000	0.74
+2019	569039	51 MacFarland Crescent	12/07/2019	05/09/2019	13/03/2019	$945,000	1016m	Full transfer	-	-	-	-	-	$945,000	121	-	Combined Record	-	-	-	Single residential dwelling	$710,000	0.75
+2019	574013	            2/34 MacLaurin Crescent	03/12/2019	-	15/08/2019	$930,000	0m	Full transfer	4	2	-	2	0	$930,000	110	-	Allhomes Record	-	-	-	-	-	-
+2019	570685	11 Purser Street	16/10/2019	-	10/10/2019	$925,000	1137m	Full transfer	3	1	-	0	1	$925,000	6	-	Allhomes Record	-	-	-	-	$606,000	0.66
+2019	576887	10 Warren Place	19/10/2019	09/12/2019	26/09/2019	$915,000	1201m	Full transfer	3	2	-	-	1	$915,000	23	-	Combined Record	169	-	-	Single residential dwelling	$639,000	0.7
+2019	565005	            1/123 Eggleston Crescent	28/03/2019	08/07/2019	-	$890,000	813m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565691	19 Haswell Place	22/07/2019	26/07/2019	-	$890,000	1612m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	555056	123A Eggleston Crescent	29/03/2019	-	30/11/2018	$890,000	406m	Full transfer	4	1	1	1	1	$890,000	119	-	Allhomes Record	-	-	-	-	$575,000	0.65
+2019	561563	12 Shann Place	18/01/2019	21/02/2019	07/11/2018	$885,000	709m	Full transfer	3	2	-	2	0	$885,000	72	-	Combined Record	-	-	-	For residential purposes only	$525,000	0.59
+2019	552694		14/02/2019	-	18/01/2019	$871,500	-	Full transfer	3	2	-	2	-	$871,500	27	-	Allhomes Record	-	-	-	-	-	-
+2019	573204	            1/34 MacLaurin Crescent	14/02/2019	28/10/2019	-	$871,500	1144m	Full transfer	-	-	-	-	-	$871,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573168	126 Eggleston Crescent	31/08/2019	28/10/2019	07/08/2019	$860,000	903m	Full transfer	4	2	-	1	2	$860,000	24	-	Combined Record	-	-	-	Single residential dwelling	$566,000	0.66
+2019	573167	10 Wilsmore Crescent	09/08/2019	29/10/2019	-	$835,000	1112m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572584	            44B Medley Street	26/06/2019	24/10/2019	-	$830,000	368m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560293	13 Mayne Street	11/04/2019	28/05/2019	13/02/2019	$825,500	695m	Full transfer	4	2	-	1	-	$825,500	57	-	Combined Record	-	-	-	Single residential dwelling	$448,000	0.54
+2019	571413	8 Shann Place	31/10/2019	-	16/10/2019	$825,000	782m	Full transfer	3	2	-	2	0	$825,000	15	-	Allhomes Record	-	-	-	-	$419,000	0.51
+2019	564240	2 Riley Place	16/05/2019	01/07/2019	14/03/2019	$820,000	1158m	Full transfer	3	1	-	2	0	$820,000	63	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.47
+2019	573837	            3/7 Allwood Street	27/11/2019	-	18/09/2019	$819,000	0m	Full transfer	4	2	-	2	0	$819,000	70	-	Allhomes Record	145	-	-	-	-	-
+2019	575144	            4/7 Allwood Street	13/12/2019	-	28/11/2019	$810,000	0m	Full transfer	4	2	-	2	0	$810,000	15	-	Allhomes Record	-	-	-	-	-	-
+2019	572899	4 Medley Street	12/07/2019	25/10/2019	16/05/2019	$804,000	719m	Full transfer	3	2	-	0	0	$804,000	57	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.65
+2019	572764	            44A Medley Street	10/09/2019	23/10/2019	-	$800,000	391m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574168	29 MacLaurin Crescent	07/12/2019	-	21/11/2019	$787,500	788m	Full transfer	3	2	-	2	0	$787,500	16	-	Allhomes Record	-	-	-	-	$525,000	0.67
+2019	559981	2 Charteris Crescent	12/04/2019	20/05/2019	21/03/2019	$781,000	707m	Full transfer	5	3	-	2	0	$781,000	22	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.48
+2019	574482	            4/47A MacLaurin Crescent	06/06/2019	21/11/2019	-	$762,500	1596m	Full transfer	-	-	-	-	-	$762,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558776	            1/121 Eggleston Crescent	05/04/2019	06/05/2019	-	$760,000	813m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569126	            1/13 Anderson Street	18/07/2019	11/09/2019	-	$755,000	1047m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564208	1/2 Pollock Street	28/03/2019	04/07/2019	-	$750,000	1027m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573211	            1/47A MacLaurin Crescent	05/06/2019	28/10/2019	-	$750,000	1596m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562785	47-49 MacLaurin Crescent	04/06/2019	-	09/04/2019	$750,000	0m	Full transfer	4	3	-	2	0	$750,000	56	-	Allhomes Record	-	-	-	-	$577,000	0.77
+2019	554986	2 Pollock Street	25/03/2019	-	14/01/2019	$750,000	0m	Full transfer	3	2	-	1	1	$750,000	70	-	Allhomes Record	-	-	-	-	$670,000	0.89
+2019	564128	10 Threlfall Street	29/05/2019	02/07/2019	11/04/2019	$745,000	705m	Full transfer	3	2	-	2	0	$745,000	48	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.6
+2019	571134	43 Medley Street	21/10/2019	-	26/09/2019	$741,000	710m	Full transfer	3	1	-	1	0	$741,000	25	-	Allhomes Record	-	-	-	-	$525,000	0.71
+2019	568147	1/16 Charteris Crescent	22/06/2019	27/08/2019	-	$736,000	1078m	Full transfer	-	-	-	-	-	$736,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563848	57 MacLaurin Crescent	17/05/2019	03/07/2019	28/03/2019	$732,500	715m	Full transfer	3	2	-	2	0	$732,500	50	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.72
+2019	573152	            2/47A MacLaurin Crescent	28/06/2019	31/10/2019	-	$730,000	1596m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573197	            3/47A MacLaurin Crescent	20/06/2019	30/10/2019	-	$730,000	1596m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568811	4 Shann Place	25/05/2019	03/09/2019	01/05/2019	$730,000	733m	Full transfer	3	2	-	-	1	$730,000	24	-	Combined Record	148	-	-	Single residential dwelling	$400,000	0.55
+2019	574036	2/13 Anderson Street	03/12/2019	-	15/11/2018	$710,000	0m	Full transfer	4	2	-	2	0	$710,000	383	-	Allhomes Record	-	-	-	-	$606,000	0.85
+2019	556826	            1/26 Salmond Street	23/02/2019	01/04/2019	-	$708,000	884m	Full transfer	-	-	-	-	-	$708,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	553612	2 Lyle Place	23/02/2019	-	01/02/2019	$708,000	438m	Full transfer	3	2	-	1	1	$708,000	22	-	Allhomes Record	-	-	-	-	$648,000	0.92
+2019	574585	1 Haswell Place	19/09/2019	18/11/2019	12/06/2019	$700,000	752m	Full transfer	3	1	-	1	1	$700,000	99	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.75
+2019	558296	            2/121 Eggleston Crescent	08/04/2019	02/05/2019	-	$690,000	813m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572865	7 Bosch Place	26/09/2019	22/10/2019	-	$690,000	1036m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563901	3 Bosch Place	26/04/2019	01/07/2019	18/10/2018	$660,000	718m	Full transfer	3	2	-	2	0	$660,000	190	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.69
+2019	574334	17 McDonald Street	10/10/2019	15/11/2019	-	$650,000	799m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573809	38 MacFarland Crescent	17/09/2019	04/11/2019	19/11/2018	$645,000	793m	Full transfer	3	1	-	2	-	$645,000	302	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.65
+2019	575355	            11/31 Eggleston Crescent	18/10/2019	29/11/2019	-	$625,000	3320m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571122	11/33 Eggleston Crescent	05/10/2019	-	05/09/2019	$625,000	0m	Full transfer	3	2	-	2	0	$625,000	30	-	Allhomes Record	-	-	-	-	-	-
+2019	572099	13/101 Eggleston Crescent	13/11/2019	-	19/09/2019	$499,000	0m	Full transfer	2	2	-	1	0	$499,000	55	-	Allhomes Record	-	-	-	-	-	-
+2019	559160	1/48 Charteris Crescent	05/04/2019	13/05/2019	07/02/2019	$405,000	5930m	Full transfer	2	1	-	1	0	$405,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	571407	3A Anderson Street	31/10/2019	-	25/09/2019	$375,000	844m	Full transfer	-	-	-	-	-	$375,000	36	-	Allhomes Record	-	-	-	-	$606,000	1.62
+2019	574377	30/6 MacLaurin Crescent	23/09/2019	15/11/2019	26/04/2019	$371,000	7271m	Full transfer	3	1	-	1	-	$371,000	150	-	Combined Record	91	-	-	Multiple unit dwelling	-	-
+2019	559861	33/6 MacLaurin Crescent	10/04/2019	23/05/2019	04/12/2018	$330,000	7271m	Full transfer	2	1	-	1	-	$330,000	127	-	Combined Record	71	-	-	Multiple unit dwelling	-	-
+2019	570111	13/6 MacLaurin Crescent	06/08/2019	19/09/2019	27/06/2019	$324,000	7271m	Full transfer	2	1	-	1	0	$324,000	40	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	562296	5 Allwood Street	24/04/2019	03/06/2019	-	$318,000	768m	Full transfer	-	-	-	-	-	$318,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563483	27/7 Medley Street	24/05/2019	25/06/2019	14/03/2019	$310,000	10778m	Full transfer	2	1	-	1	-	$310,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	573611	25/17 Medley Street	14/10/2019	04/11/2019	13/06/2019	$297,500	10736m	Full transfer	2	1	-	2	0	$297,500	123	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	574203	39/6 MacLaurin Crescent	09/12/2019	-	07/08/2019	$296,500	0m	Full transfer	2	1	-	0	1	$296,500	124	-	Allhomes Record	-	-	-	-	-	-
+2019	556409	68/17 Medley Street	18/01/2019	27/03/2019	23/07/2018	$295,000	10736m	Full transfer	2	1	-	0	2	$295,000	179	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	572325	57/7 Medley Street	12/09/2019	14/10/2019	03/12/2018	$285,000	10778m	Full transfer	2	1	-	1	0	$285,000	283	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	556747	12/17 Medley Street	27/02/2019	05/04/2019	05/10/2017	$280,000	10736m	Full transfer	2	1	-	0	1	$280,000	510	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	567878	15/17 Medley Street	02/07/2019	20/08/2019	06/06/2019	$270,000	10736m	Full transfer	1	1	-	0	1	$270,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	564178	74/17 Medley Street	16/05/2019	01/07/2019	14/03/2019	$239,000	10736m	Full transfer	1	1	-	0	1	$239,000	63	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	566602	58/17 Medley Street	01/07/2019	05/08/2019	14/03/2019	$203,000	10736m	Full transfer	1	1	-	0	1	$203,000	109	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	570887	47/17 Medley Street	20/08/2019	02/10/2019	-	$200,000	10736m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573658	7 Barff Place	28/06/2019	07/11/2019	-	$187,500	914m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566010	1/116 Eggleston Crescent	10/06/2019	02/08/2019	-	$0	1028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558308	            1/1 Warren Place	01/04/2019	02/05/2019	-	$0	1202m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558411	10 Mauldon Street	04/03/2019	02/05/2019	-	$0	1037m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560447	3 Mauldon Street	08/04/2019	30/05/2019	-	$0	715m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564044	4 Shann Place	05/02/2019	03/07/2019	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
