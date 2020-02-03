@@ -1,0 +1,1186 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	165700	9/11 Tryon Street	04/10/2006	24/11/2006	-	$1,641,000	2225m	Full transfer	-	-	-	-	-	$1,641,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	33025	12 Verco Street	09/09/2006	04/12/2006	11/08/2006	$1,120,000	1221m	Full transfer	5	2	1	2	-	$1,120,000	29	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.36
+2006	34369	101 Rivett Street	29/09/2006	01/12/2006	09/08/2006	$830,000	1070m	Full transfer	3	2	-	2	-	$830,000	51	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.45
+2006	167232	27 Richards Street	25/11/2006	12/04/2007	27/10/2006	$730,000	1210m	Full transfer	4	1	-	-	1	$730,000	29	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.55
+2006	311623	6 Taylor Place	24/02/2006	21/04/2006	-	$729,000	722m	Full transfer	-	-	-	-	-	$729,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216315	4 Mackenzie Street	11/04/2006	02/06/2006	-	$720,000	736m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35872	20 Mackenzie Street	20/10/2006	11/01/2007	25/08/2006	$717,500	684m	Full transfer	3	2	-	2	-	$717,500	56	-	Combined Record	-	-	-	Single residential dwelling	$252,000	0.35
+2006	119637	5 Verco Street	22/09/2006	31/10/2006	01/08/2006	$625,000	652m	Full transfer	3	1	1	2	-	$625,000	52	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.49
+2006	169759	26 Bragg Street	06/09/2006	13/12/2006	16/03/2006	$620,000	791m	Full transfer	4	1	1	-	1	$620,000	174	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.53
+2006	37675	8 Gilruth Street	18/09/2006	18/10/2006	09/08/2006	$600,000	959m	Full transfer	5	1	1	4	-	$600,000	40	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.51
+2006	33163	221 Phillip Avenue	07/09/2006	04/12/2006	19/07/2006	$580,000	748m	Full transfer	4	-	1	-	-	$580,000	50	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.42
+2006	33088	29 Stanley Street	14/10/2006	06/12/2006	12/09/2006	$576,500	746m	Full transfer	3	1	1	-	-	$576,500	32	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.48
+2006	216290	1 French Street	25/02/2006	06/04/2006	27/01/2006	$570,000	784m	Full transfer	4	1	1	2	-	$570,000	29	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.54
+2006	216307	10 Richards Street	19/05/2006	28/06/2006	28/04/2006	$547,500	795m	Full transfer	3	1	-	-	-	$547,500	21	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.59
+2006	37341	29 Selwyn Street	28/07/2006	20/09/2006	18/07/2006	$545,000	1047m	Full transfer	4	1	-	-	2	$545,000	10	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.6
+2006	165475	11 Selwyn Street	05/07/2006	31/01/2007	-	$530,000	924m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164884	17 Gilruth Street	20/07/2006	12/10/2006	17/02/2006	$520,000	782m	Full transfer	4	1	1	2	-	$520,000	153	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.54
+2006	33137	9 Brennan Street	29/10/2006	04/12/2006	19/09/2006	$510,000	912m	Full transfer	3	1	1	1	1	$510,000	40	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.71
+2006	216270	32 Rivett Street	08/02/2006	08/03/2006	23/09/2005	$502,500	796m	Full transfer	4	1	1	1	-	$502,500	138	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.61
+2006	169157	40 Rivett Street	16/12/2006	20/02/2007	22/11/2006	$502,000	1276m	Full transfer	3	2	-	2	-	$502,000	24	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.77
+2006	203067	48 Russell Street	24/11/2006	04/01/2007	09/11/2006	$495,000	805m	Full transfer	3	1	-	1	-	$495,000	15	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.7
+2006	35671	16 Bragg Street	20/10/2006	11/01/2007	07/09/2006	$485,000	1028m	Full transfer	3	1	-	1	-	$485,000	43	-	Combined Record	-	-	-	Single residential dwelling	$397,000	0.82
+2006	216220	219 Phillip Avenue	18/05/2006	30/06/2006	10/03/2006	$485,000	748m	Full transfer	4	1	1	2	-	$485,000	69	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.5
+2006	34509	65 Maitland Street	25/08/2006	29/09/2006	03/08/2006	$482,000	783m	Full transfer	3	1	-	1	1	$482,000	22	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.59
+2006	168481	5 Mills Street	13/12/2006	24/01/2007	26/09/2006	$480,000	679m	Full transfer	5	2	-	2	-	$480,000	78	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.57
+2006	32137	24 Brennan Street	19/10/2006	18/12/2006	28/09/2006	$480,000	804m	Full transfer	3	1	-	1	2	$480,000	21	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.72
+2006	169072	33 Rivett Street	11/12/2006	07/02/2007	19/10/2006	$475,000	664m	Full transfer	3	1	-	1	-	$475,000	53	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.63
+2006	319351	102 Mackenzie Street	21/03/2006	17/05/2006	-	$475,000	761m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35840	55 Rivett Street	22/09/2006	10/01/2007	-	$475,000	894m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34778	88 Mackenzie Street	21/06/2006	22/08/2006	25/05/2006	$475,000	1014m	Full transfer	3	1	1	-	1	$475,000	27	-	Combined Record	-	-	-	Single residential dwelling	$397,000	0.84
+2006	216365	136 Mackenzie Street	27/04/2006	22/06/2006	23/03/2006	$463,000	918m	Full transfer	3	1	-	2	-	$463,000	35	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.69
+2006	164187	61 Rivett Street	03/07/2006	16/08/2006	08/05/2006	$445,000	795m	Full transfer	3	1	-	1	-	$445,000	56	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.69
+2006	35696	23 Selwyn Street	27/10/2006	09/01/2007	-	$445,000	906m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36405	25 Harris Street	04/12/2006	06/07/2007	13/09/2006	$445,000	831m	Full transfer	3	2	-	-	-	$445,000	82	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.73
+2006	169703	37 Caldwell Street	01/11/2006	11/12/2006	12/10/2006	$435,900	746m	Full transfer	4	1	-	1	-	$435,900	20	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.65
+2006	216396	15 Hedley Street	30/05/2006	10/07/2006	04/05/2006	$435,000	755m	Full transfer	3	1	-	1	-	$435,000	26	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.62
+2006	34776	18 Selwyn Street	17/07/2006	22/08/2006	29/06/2006	$435,000	655m	Full transfer	3	1	-	2	-	$435,000	18	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.68
+2006	216352	101 Madigan Street	08/02/2006	09/03/2006	25/10/2005	$430,000	711m	Full transfer	3	1	-	2	-	$430,000	106	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.63
+2006	164883	67 Maitland Street	18/05/2006	13/10/2006	07/07/2006	$425,000	728m	Full transfer	3	1	-	1	1	$425,000	-	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.67
+2006	216226	39 Caldwell Street	17/02/2006	29/05/2006	-	$421,000	752m	Full transfer	-	-	-	-	-	$421,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169534	15 Caldwell Street	08/09/2006	13/11/2006	16/08/2006	$416,000	712m	Full transfer	3	1	-	-	2	$416,000	23	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.68
+2006	34774	26 Caldwell Street	11/07/2006	21/08/2006	-	$415,000	710m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32125	32 Russell Street	23/08/2006	06/11/2006	05/06/2006	$415,000	676m	Full transfer	3	1	-	1	-	$415,000	79	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.76
+2006	216389	6 Skeats Street	07/02/2006	13/03/2006	10/11/2005	$408,000	653m	Full transfer	3	1	-	2	-	$408,000	89	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.6
+2006	169067	31 Gilbert Street	30/11/2006	09/02/2007	04/10/2006	$405,000	634m	Full transfer	3	1	-	2	-	$405,000	57	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.74
+2006	229476	56 Stanley Street	08/08/2006	26/10/2006	-	$400,000	759m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165699	300 Antill Street	19/09/2006	20/11/2006	-	$398,000	644m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168269	8 Gilbert Street	29/06/2006	08/08/2006	-	$396,000	682m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216313	123 Rivett Street	03/02/2006	17/03/2006	29/09/2005	$388,000	714m	Full transfer	3	1	-	1	-	$388,000	127	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.8
+2006	216312	10 Tryon Street	11/02/2006	11/04/2006	13/01/2006	$380,100	833m	Full transfer	3	1	-	2	-	$380,100	29	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.82
+2006	165311	49 Madigan Street	06/12/2006	14/02/2007	10/11/2006	$380,000	540m	Full transfer	3	1	-	1	-	$380,000	26	-	Combined Record	-	-	-	Single residential dwelling	$211,000	0.56
+2006	165274	3 Rivett Street	20/12/2006	15/02/2007	-	$380,000	583m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	78439	46 Maitland Street	21/04/2006	-	28/03/2006	$376,500	583m	Full transfer	3	1	-	-	1	$376,500	24	-	Allhomes Record	-	-	-	-	$263,000	0.7
+2006	203106	97 Maitland Street	23/11/2006	05/01/2007	-	$370,000	670m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202995	36 Haddon Street	06/11/2006	05/01/2007	19/09/2006	$368,500	478m	Full transfer	3	1	-	2	-	$368,500	48	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.58
+2006	216341	18 Madigan Street	03/05/2006	23/06/2006	29/01/2006	$368,000	588m	Full transfer	3	1	-	1	-	$368,000	94	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.63
+2006	15331	            10/34 Grayson Street	24/05/2006	11/07/2006	-	$365,000	6517m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	35874	5 Maitland Street	15/11/2006	11/01/2007	-	$360,000	756m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	270	            4/34 Grayson Street	08/11/2006	19/12/2006	-	$356,500	6517m	Full transfer	-	-	-	-	-	$356,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	91637	38 Grayson Street	08/11/2006	-	26/10/2006	$356,500	-	Full transfer	2	1	-	2	-	$356,500	13	-	Allhomes Record	-	-	-	-	$1,024,000	2.87
+2006	34510	8 Harris Street	24/08/2006	27/09/2006	-	$345,000	687m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	91670	106 Grayson Street	08/12/2006	-	27/10/2006	$301,000	-	Full transfer	2	1	-	-	1	$301,000	42	-	Allhomes Record	-	-	-	-	$1,164,000	3.87
+2006	10469	            12/84 Grayson Street	08/12/2006	21/02/2007	-	$301,000	7340m	Full transfer	-	-	-	-	-	$301,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	83481	102 Grayson Street	03/08/2006	-	28/06/2006	$300,000	-	Full transfer	2	1	-	-	1	$300,000	36	-	Allhomes Record	-	-	-	-	$1,164,000	3.88
+2006	673	            10/84 Grayson Street	03/08/2006	20/09/2006	-	$300,000	7340m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	9551	            13/84 Grayson Street	07/09/2006	10/10/2006	-	$290,000	7340m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	81751	108 Grayson Street	07/09/2006	-	25/05/2006	$290,000	481m	Full transfer	2	1	-	1	-	$290,000	105	-	Allhomes Record	-	-	-	-	$1,164,000	4.01
+2006	203296	5/70 Madigan Street	07/12/2006	17/01/2007	-	$284,000	2513m	Full transfer	-	-	-	-	-	$284,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216357	11/127 Madigan Street	22/03/2006	05/05/2006	09/02/2006	$215,000	3717m	Full transfer	2	1	-	-	-	$215,000	41	-	Combined Record	-	-	-	Multiple unit dwelling	$83,625	0.39
+2006	15323	            17/133 Rivett Street	02/03/2006	25/05/2006	-	$187,500	2417m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216322	3/11 Tryon Street	13/06/2006	27/07/2006	-	$186,000	2225m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	78537	3/11 Tryon Street	14/06/2006	-	31/03/2006	$186,000	2225m	Full transfer	2	1	-	-	1	$186,000	75	-	Allhomes Record	-	-	-	-	$87,116	0.47
+2006	89533	12/127 Rivett Street	08/12/2006	-	02/10/2006	$170,000	2417m	Full transfer	1	1	-	-	-	$170,000	67	-	Allhomes Record	-	-	-	-	-	-
+2006	119812	12/127 Rivett Street	07/12/2006	02/04/2007	-	$170,000	2417m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216359	16/127 Madigan Street	17/01/2006	15/02/2006	-	$165,000	3717m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216235	14 Hackett Place	30/01/2006	24/02/2006	-	$143,000	214m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Retail	-	-
+2006	203281	217 Phillip Avenue	23/06/2006	17/01/2007	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169233	175 Phillip Avenue	08/12/2006	21/02/2007	-	$0	670m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169398	12 Newton Street	31/10/2006	22/02/2007	-	$0	701m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203259	296 Antill Street	27/05/2006	31/05/2007	-	$0	683m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203303	9 Mills Street	06/04/2006	19/01/2007	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36000	28 Gilbert Street	01/12/2006	05/07/2007	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164663	193 Phillip Avenue	24/08/2006	13/07/2007	-	$0	760m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	167182	6/70 Madigan Street	17/11/2006	11/04/2007	-	$0	2513m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216381	5 Hull Place	29/03/2006	13/04/2006	-	-	1130m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216246	46 Maitland Street	26/04/2006	25/05/2006	-	-	584m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216214	3 Steele Street	06/07/2006	06/07/2006	-	-	610m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216372	4 Bragg Street	28/04/2006	05/05/2006	-	-	793m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34777	27 Richards Street	26/03/2006	24/08/2006	-	-	1210m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216222	18 Steele Street	18/01/2006	09/03/2006	-	-	698m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34775	7 Rivett Street	05/08/2006	23/08/2006	-	-	664m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37342	81 Mackenzie Street	01/06/2006	19/09/2006	-	-	1183m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34015	113 Maitland Street	16/10/2006	21/12/2006	-	-	775m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216344	246 Antill Street	14/02/2006	06/04/2006	-	-	634m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168270	41 Rivett Street	11/07/2006	08/08/2006	-	-	690m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	248213	231 Phillip Avenue	20/02/2006	21/09/2009	-	-	876m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32967	5 Maitland Street	21/08/2006	05/12/2006	-	-	756m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216358	13/127 Madigan Street	14/02/2006	13/06/2006	-	-	3717m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	216257	4 Gilbert Street	30/05/2006	28/07/2006	-	-	682m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	216294	40 French Street	17/02/2006	08/06/2006	-	-	713m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230281	4 Selwyn Street	11/01/2007	20/02/2008	08/11/2007	$975,000	1277m	Full transfer	4	1	2	2	-	$975,000	-	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.46
+2007	167705	7 Richards Street	21/06/2007	02/10/2007	06/06/2007	$900,000	1033m	Full transfer	4	1	1	2	-	$900,000	15	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.43
+2007	121573	59 Rivett Street	13/07/2007	29/08/2007	04/07/2007	$780,000	769m	Full transfer	3	1	2	2	-	$780,000	9	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.42
+2007	232790	10 Verco Street	16/07/2007	19/11/2007	-	$760,000	1084m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121794	1 Hackett Place	31/08/2007	25/09/2007	-	$750,000	669m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2007	231156	26 Harris Street	20/10/2007	15/01/2008	19/09/2007	$730,000	745m	Full transfer	4	1	1	-	1	$730,000	31	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.44
+2007	230406	17 Jukes Street	03/12/2007	28/05/2008	08/11/2007	$675,000	1047m	Full transfer	4	2	-	2	-	$675,000	25	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.61
+2007	230975	41 Harris Street	29/11/2007	22/01/2008	31/10/2007	$662,500	786m	Full transfer	3	1	-	2	-	$662,500	29	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.49
+2007	235156	4 French Street	24/12/2007	06/02/2008	-	$655,000	782m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167579	19 French Street	23/07/2007	03/10/2007	-	$650,000	856m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35274	2 Steele Street	22/03/2007	06/06/2007	-	$630,000	870m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36457	88 Rivett Street	16/05/2007	06/07/2007	04/04/2007	$620,000	939m	Full transfer	3	1	1	-	2	$620,000	42	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.58
+2007	120329	4 Steele Street	08/03/2007	15/05/2007	09/11/2006	$610,000	1172m	Full transfer	6	2	-	1	-	$610,000	119	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.56
+2007	35167	63 Rivett Street	12/03/2007	04/06/2007	08/02/2007	$595,000	998m	Full transfer	4	1	-	3	-	$595,000	32	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.62
+2007	168884	109 Rivett Street	31/01/2007	22/03/2007	17/11/2006	$580,000	792m	Full transfer	5	2	-	1	-	$580,000	75	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.56
+2007	36215	1 Kenny Place	16/05/2007	06/07/2007	19/04/2007	$560,000	868m	Full transfer	4	1	1	2	-	$560,000	27	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.61
+2007	231227	27 Hedley Street	31/08/2007	15/01/2008	16/08/2007	$549,000	752m	Full transfer	3	1	-	2	-	$549,000	15	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.54
+2007	167706	117 Madigan Street	10/08/2007	02/10/2007	01/08/2007	$545,500	877m	Full transfer	3	1	-	-	2	$545,500	9	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.51
+2007	99235	9 Hedley Street	18/05/2007	-	08/03/2007	$545,000	917m	Full transfer	3	1	-	-	2	$545,000	71	-	Allhomes Record	-	-	-	-	$301,000	0.55
+2007	121795	24 Harris Street	05/07/2007	25/09/2007	21/06/2007	$540,500	716m	Full transfer	3	1	-	-	1	$540,500	14	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.6
+2007	35385	36 Harris Street	10/05/2007	22/06/2007	12/04/2007	$540,000	923m	Full transfer	3	1	-	1	-	$540,000	28	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.66
+2007	33822	13 French Street	28/03/2007	24/05/2007	01/03/2007	$530,000	900m	Full transfer	4	1	-	-	-	$530,000	27	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.64
+2007	33780	16 Maitland Street	21/03/2007	24/05/2007	02/11/2006	$520,000	876m	Full transfer	4	1	1	1	1	$520,000	139	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.57
+2007	236742	13 Dunlop Street	13/12/2007	23/04/2008	31/10/2007	$519,000	780m	Full transfer	3	1	-	1	-	$519,000	43	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.65
+2007	25038	13 Stanley Street	27/11/2007	-	11/10/2007	$515,000	688m	Full transfer	3	1	-	2	1	$515,000	47	-	Allhomes Record	-	-	-	-	$287,000	0.56
+2007	230283	19 Hedley Street	17/10/2007	19/02/2008	19/09/2007	$515,000	632m	Full transfer	4	1	-	1	-	$515,000	28	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.55
+2007	166755	3 Dunlop Street	20/06/2007	06/08/2007	24/05/2007	$515,000	752m	Full transfer	3	1	-	-	-	$515,000	27	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.66
+2007	230719	8 Harris Street	23/11/2007	15/01/2008	09/08/2007	$510,000	687m	Full transfer	3	1	-	1	-	$510,000	106	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.61
+2007	165320	142 Mackenzie Street	22/01/2007	15/02/2007	-	$510,000	665m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36117	38 Mills Street	03/05/2007	02/07/2007	07/12/2006	$505,000	748m	Full transfer	3	1	-	3	2	$505,000	147	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.6
+2007	25326	296 Antill Street	06/12/2007	-	08/11/2007	$495,000	683m	Full transfer	3	1	-	1	-	$495,000	28	-	Allhomes Record	-	-	-	-	$278,000	0.56
+2007	230282	22 Stanley Street	17/11/2007	20/02/2008	26/10/2007	$492,000	827m	Full transfer	3	1	-	-	1	$492,000	22	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.61
+2007	232248	49 Gilbert Street	17/10/2007	04/12/2007	-	$490,000	687m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166245	48 Maitland Street	20/04/2007	15/08/2007	29/03/2007	$489,000	615m	Full transfer	3	1	-	1	1	$489,000	22	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.58
+2007	164602	99 Maitland Street	17/04/2007	11/07/2007	07/02/2007	$479,950	781m	Full transfer	3	1	-	-	4	$479,950	69	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.59
+2007	167610	12 Newton Street	01/08/2007	03/10/2007	12/07/2007	$479,000	701m	Full transfer	4	1	-	-	1	$479,000	20	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.59
+2007	167493	193 Phillip Avenue	30/07/2007	05/09/2007	07/03/2007	$475,000	760m	Full transfer	3	1	-	1	1	$475,000	145	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.54
+2007	167187	10 French Street	24/01/2007	12/04/2007	17/11/2006	$470,000	736m	Full transfer	4	1	1	-	1	$470,000	68	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.69
+2007	120801	6 Newton Street	23/03/2007	17/05/2007	26/02/2007	$455,000	686m	Full transfer	3	1	-	-	-	$455,000	25	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.62
+2007	231553	48 Stanley Street	28/07/2007	07/11/2007	05/07/2007	$445,000	688m	Full transfer	3	1	-	-	1	$445,000	23	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.64
+2007	235088	9 Rivett Street	30/11/2007	06/02/2008	13/09/2007	$440,000	664m	Full transfer	2	1	-	-	2	$440,000	78	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.62
+2007	120464	27 Haddon Street	29/03/2007	15/05/2007	-	$439,000	675m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232890	13 Brennan Street	08/08/2007	18/11/2007	-	$430,000	1285m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32553	292 Antill Street	21/02/2007	29/03/2007	09/02/2007	$430,000	683m	Full transfer	3	1	-	1	-	$430,000	12	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.65
+2007	235089	4 Tryon Street	03/11/2007	08/02/2008	10/10/2007	$420,000	712m	Full transfer	2	1	-	2	1	$420,000	24	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.75
+2007	121664	24 Haddon Street	17/07/2007	28/08/2007	29/06/2007	$395,000	408m	Full transfer	3	1	-	1	-	$395,000	18	-	Combined Record	-	-	-	Single residential dwelling	$223,000	0.56
+2007	103632	116 Grayson Street	20/06/2007	-	25/05/2007	$388,500	-	Full transfer	3	1	1	2	-	$388,500	26	-	Allhomes Record	-	-	-	-	$1,126,000	2.9
+2007	9914	            8/130 Grayson Street	20/06/2007	17/08/2007	-	$388,500	7784m	Full transfer	-	-	-	-	-	$388,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232609	58 Maitland Street	02/10/2007	21/11/2007	-	$330,000	629m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36133	6/70 Madigan Street	30/04/2007	04/07/2007	-	$320,000	2513m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168504	8/48 Madigan Street	25/01/2007	06/03/2007	-	$310,000	1706m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202648	10 Jukes Street	28/08/2007	09/10/2007	-	$283,800	744m	Full transfer	-	-	-	-	-	$283,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164553	10/11 Tryon Street	15/05/2007	13/07/2007	-	$234,000	2225m	Full transfer	-	-	-	-	-	$234,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168994	12/127 Madigan Street	05/02/2007	22/03/2007	17/01/2007	$229,000	3717m	Full transfer	2	1	-	-	-	$229,000	19	-	Combined Record	-	-	-	Multiple unit dwelling	$80,850	0.35
+2007	307243	10/127 Rivett Street	12/03/2007	07/05/2007	-	$166,000	2417m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409181	6/127 Madigan Street	13/03/2007	11/04/2007	13/02/2007	$162,000	3717m	Full transfer	1	1	-	-	-	$162,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	232210	32 Harris Street	28/09/2007	04/12/2007	-	$0	988m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168513	93 Madigan Street	02/02/2007	08/03/2007	-	$0	768m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232358	7 French Street	03/01/2007	11/12/2007	-	$0	938m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	9683	            8/130 Grayson Street	16/01/2007	17/08/2007	-	$0	7784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232168	65 Madigan Street	29/06/2007	04/12/2007	-	$0	440m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	409182	4/11 Tryon Street	29/05/2007	29/08/2007	-	$0	2225m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35050	6 French Street	18/02/2007	07/06/2007	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121693	73 Maitland Street	23/08/2007	31/08/2007	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167972	11 Haddon Street	28/03/2007	16/10/2007	-	$0	666m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	232320	5 Kenny Place	07/10/2007	11/12/2007	-	$0	1278m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35381	56 Maitland Street	17/05/2007	21/06/2007	-	$0	723m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232208	53 Madigan Street	29/06/2007	04/12/2007	-	$0	433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	36992	13 Brennan Street	03/01/2007	20/07/2007	-	$0	1285m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	165019	21 Hedley Street	02/04/2007	25/06/2007	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36423	32 Madigan Street	30/03/2007	04/07/2007	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232770	276 Antill Street	15/11/2007	28/11/2007	-	$0	536m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409179	5 Hedley Street	23/02/2007	13/07/2007	17/01/2007	$0	708m	Full transfer	3	1	-	1	-	$0	37	-	Combined Record	-	-	-	Single residential dwelling	$287,000	0.35
+2007	18837	            2/24 Grayson Street	29/07/2007	02/10/2008	-	-	6314m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	236234	56 Maitland Street	02/12/2007	21/05/2008	-	-	723m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236145	37 Madigan Street	25/11/2007	15/05/2008	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	245818	11 Stanley Street	26/10/2007	10/08/2009	-	-	741m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237725	7 Tryon Street	15/09/2007	20/02/2009	-	-	258m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232422	33 Haddon Street	02/07/2007	18/01/2008	-	-	675m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234871	31 Russell Street	01/11/2007	30/03/2008	-	-	879m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18503	            15/133 Rivett Street	01/08/2007	02/09/2008	-	-	2417m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235155	34 Caldwell Street	06/12/2007	08/02/2008	-	-	772m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230987	6 Richards Street	17/12/2007	16/06/2008	-	-	797m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230470	38 Harris Street	07/05/2008	13/08/2008	26/03/2008	$740,000	874m	Full transfer	4	2	1	2	-	$740,000	42	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.51
+2008	240681	4 Jukes Place	20/09/2008	03/12/2008	22/08/2008	$720,000	846m	Full transfer	4	1	1	2	0	$720,000	29	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.54
+2008	229725	5 Grayson Street	07/06/2008	29/07/2008	28/04/2008	$719,000	933m	Full transfer	4	1	1	2	0	$719,000	40	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.55
+2008	229949	13 Steele Street	07/05/2008	15/07/2008	24/04/2008	$690,000	781m	Full transfer	4	1	1	2	-	$690,000	13	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.47
+2008	231939	9 Dunlop Street	03/04/2008	02/07/2008	20/02/2008	$635,000	1105m	Full transfer	3	1	-	2	-	$635,000	43	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.73
+2008	241908	14 Brennan Street	13/10/2008	20/01/2009	15/08/2008	$595,000	820m	Full transfer	4	1	1	2	1	$595,000	59	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.66
+2008	239393	32 Rivett Street	13/10/2008	17/11/2008	21/08/2008	$590,000	796m	Full transfer	4	1	1	1	-	$590,000	53	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.61
+2008	241909	31 Bragg Street	08/12/2008	19/01/2009	-	$580,000	829m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241907	44 Stanley Street	30/10/2008	21/01/2009	16/10/2008	$559,000	885m	Full transfer	3	1	-	2	-	$559,000	14	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.56
+2008	242153	19 Hedley Street	17/11/2008	28/01/2009	17/09/2008	$552,000	632m	Full transfer	4	1	-	1	-	$552,000	61	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.57
+2008	233960	5 Mills Street	19/05/2008	30/06/2008	02/04/2008	$545,000	679m	Full transfer	5	2	-	2	-	$545,000	47	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.55
+2008	229859	7 Haddon Street	10/06/2008	21/07/2008	10/04/2008	$530,000	694m	Full transfer	4	1	1	2	-	$530,000	61	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.59
+2008	156372	18 Richards Street	14/02/2008	09/04/2008	22/11/2007	$530,000	681m	Full transfer	3	1	-	-	1	$530,000	84	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.67
+2008	236903	85 Maitland Street	16/07/2008	03/09/2008	19/06/2008	$515,000	787m	Full transfer	3	1	-	1	-	$515,000	27	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.63
+2008	239270	326 Antill Street	16/09/2008	11/11/2008	27/08/2008	$511,000	805m	Full transfer	4	1	-	-	2	$511,000	20	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.67
+2008	240171	99 Madigan Street	19/09/2008	29/10/2008	04/09/2008	$510,000	725m	Full transfer	3	2	-	-	1	$510,000	15	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.6
+2008	156778	2 Madigan Street	29/02/2008	09/04/2008	-	$510,000	739m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25245	99 Maitland Street	08/01/2008	-	31/10/2007	$509,000	781m	Full transfer	3	1	-	2	-	$509,000	69	-	Allhomes Record	-	-	-	-	$312,000	0.61
+2008	230327	34 Mills Street	16/07/2008	07/08/2008	12/06/2008	$508,500	748m	Full transfer	4	1	-	1	-	$508,500	34	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.62
+2008	240406	38 Mills Street	25/11/2008	28/11/2008	07/12/2006	$505,000	748m	Full transfer	3	1	-	3	2	$505,000	719	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.6
+2008	241910	128 Mackenzie Street	17/12/2008	20/01/2009	22/11/2008	$497,000	691m	Full transfer	3	1	0	1	0	$497,000	25	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.69
+2008	240170	26 Gilbert Street	15/09/2008	27/10/2008	14/08/2008	$485,000	850m	Full transfer	3	1	-	-	-	$485,000	32	-	Combined Record	-	-	-	Single residential dwelling...	$375,000	0.77
+2008	237941	21 Maitland Street	04/07/2008	19/09/2008	04/06/2008	$482,000	667m	Full transfer	3	1	-	1	-	$482,000	30	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.65
+2008	234290	17 Stanley Street	19/03/2008	08/05/2008	18/02/2008	$480,000	755m	Full transfer	3	1	-	-	1	$480,000	30	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.63
+2008	240898	45 Maitland Street	02/11/2008	21/12/2008	24/09/2008	$475,000	724m	Full transfer	3	1	-	2	-	$475,000	39	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.66
+2008	242695	53 Gilbert Street	23/12/2008	23/02/2009	-	$469,000	687m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234870	33 Haddon Street	15/02/2008	27/03/2008	11/10/2007	$452,500	675m	Full transfer	3	1	-	2	-	$452,500	127	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.69
+2008	25720	8/70 Madigan Street	11/01/2008	-	13/12/2007	$445,000	2513m	Full transfer	3	1	1	2	-	$445,000	29	-	Allhomes Record	-	-	-	-	$1,707,000	3.84
+2008	120878	6 Burrell Street	19/12/2008	-	17/11/2008	$440,000	371m	Full transfer	3	1	1	-	1	$440,000	32	-	Allhomes Record	-	-	-	-	$233,000	0.53
+2008	17640	            10/34 Grayson Street	20/06/2008	17/07/2008	-	$440,000	6517m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24040	50 Grayson Street	20/06/2008	-	31/03/2008	$440,000	6517m	Full transfer	3	1	1	2	-	$440,000	81	-	Allhomes Record	-	-	-	-	$1,323,000	3.01
+2008	230649	25 Haddon Street	21/02/2008	14/04/2008	-	$430,000	675m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242291	37 Madigan Street	05/12/2008	05/02/2009	24/09/2008	$430,000	800m	Full transfer	3	1	-	2	2	$430,000	72	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.68
+2008	239269	63 Madigan Street	04/08/2008	10/11/2008	15/07/2008	$425,000	432m	Full transfer	3	1	-	2	1	$425,000	20	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.55
+2008	241222	169 Phillip Avenue	13/12/2008	12/01/2009	19/11/2008	$422,000	832m	Full transfer	3	1	-	-	-	$422,000	24	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.65
+2008	236904	12 Mackenzie Street	11/07/2008	01/09/2008	21/02/2008	$417,500	413m	Full transfer	3	1	1	-	2	$417,500	141	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.61
+2008	230988	250 Antill Street	29/05/2008	16/06/2008	13/03/2008	$408,000	468m	Full transfer	3	2	-	1	-	$408,000	77	-	Combined Record	-	-	-	Single residential dwelling	$237,000	0.58
+2008	112925	70-76 Madigan Street	01/06/2008	-	26/02/2008	$395,000	2513m	Full transfer	2	1	-	1	-	$395,000	96	-	Allhomes Record	-	-	-	-	-	-
+2008	239706	16/70 Madigan Street	17/09/2008	29/10/2008	-	$355,000	2513m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18751	            6/130 Grayson Street	11/09/2008	05/11/2008	-	$347,500	7784m	Full transfer	-	-	-	-	-	$347,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24674	120 Grayson Street	11/09/2008	-	06/05/2008	$347,500	-	Full transfer	2	1	-	1	-	$347,500	128	-	Allhomes Record	-	-	-	-	$1,323,000	3.81
+2008	18805	            2/24 Grayson Street	04/08/2008	11/11/2008	-	$330,000	6314m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239392	14 Hackett Place	31/07/2008	21/11/2008	-	$307,500	214m	Full transfer	-	-	-	-	-	$307,500	-	-	Government Record	-	-	-	Retail	-	-
+2008	239102	12/127 Madigan Street	24/10/2008	17/11/2008	-	$285,000	3717m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242570	19/127 Madigan Street	07/11/2008	26/02/2009	-	$280,000	3717m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237834	19/127 Madigan Street	14/06/2008	15/09/2008	-	$260,000	3717m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233612	9/127 Madigan Street	19/03/2008	28/04/2008	-	$255,000	3717m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230756	4/11 Tryon Street	07/03/2008	29/04/2008	-	$242,500	2225m	Full transfer	-	-	-	-	-	$242,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	111772	4/11-13 Tryon Street	07/03/2008	-	06/02/2008	$242,500	-	Full transfer	2	1	-	-	1	$242,500	30	-	Allhomes Record	-	-	-	-	-	-
+2008	18912	            15/133 Rivett Street	20/09/2008	30/10/2008	-	$225,000	2417m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	117418	15/131 Rivett Street	20/09/2008	-	26/08/2008	$225,000	2417m	Full transfer	2	1	-	-	1	$225,000	25	-	Allhomes Record	-	-	-	-	-	-
+2008	24916	26/127 Madigan Street	13/03/2008	-	13/08/2007	$220,000	3717m	Full transfer	1	1	-	-	-	$220,000	213	-	Allhomes Record	-	-	-	-	$2,331,000	10.6
+2008	180198	8/127 Madigan Street	12/03/2008	09/04/2008	-	$215,000	3717m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236482	31 Rivett Street	08/01/2008	02/04/2008	-	$214,452	664m	Full transfer	-	-	-	-	-	$214,452	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242014	17/127 Madigan Street	10/12/2008	27/01/2009	-	$202,000	3717m	Full transfer	-	-	-	-	-	$202,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239057	14/127 Madigan Street	01/10/2008	13/11/2008	-	$195,000	3717m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231935	53 Gilbert Street	06/06/2008	04/07/2008	-	-	687m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243449	6 Dunn Place	07/11/2008	23/03/2009	-	-	1182m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	249208	214 Antill Street	03/10/2008	06/10/2009	-	-	634m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248681	7/127 Madigan Street	26/11/2008	19/10/2009	-	-	3717m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239970	169 Phillip Avenue	07/07/2008	17/10/2008	-	-	832m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229724	44 Rivett Street	03/04/2008	01/08/2008	-	-	1085m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243034	6 Burrell Street	18/12/2008	12/03/2009	-	-	371m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240351	43 Harris Street	03/08/2008	28/11/2008	-	-	957m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243033	6 Burrell Street	09/09/2008	12/03/2009	-	-	371m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235481	4 Jukes Place	30/01/2008	17/03/2008	-	-	846m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238351	30 Gilruth Street	27/09/2008	17/04/2009	-	-	649m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235424	53 Maitland Street	05/03/2008	12/03/2008	-	-	633m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240601	1 Hackett Place	31/07/2008	05/12/2008	-	-	669m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2008	230618	12 Bragg Street	18/04/2008	23/04/2008	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258483	91 Rivett Street	21/11/2009	20/04/2010	19/11/2009	$950,000	966m	Full transfer	4	1	1	1	-	$950,000	2	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.43
+2009	250782	2 Tryon Street	19/09/2009	07/12/2009	-	$885,000	908m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258484	65 Mackenzie Street	09/12/2009	08/04/2010	14/10/2009	$873,000	1063m	Full transfer	4	1	1	-	2	$873,000	56	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.49
+2009	249931	99 Rivett Street	31/08/2009	17/11/2009	13/08/2009	$830,000	1038m	Full transfer	4	1	-	1	-	$830,000	18	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.52
+2009	262714	3 Jukes Street	17/12/2009	04/03/2010	02/12/2009	$800,500	1095m	Full transfer	4	1	-	1	-	$800,500	15	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.54
+2009	262716	1 Kenny Place	28/11/2009	02/02/2010	-	$800,000	868m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241542	37 Russell Street	03/04/2009	15/05/2009	20/11/2008	$780,000	982m	Full transfer	4	1	1	1	1	$780,000	134	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.52
+2009	248215	81 Rivett Street	01/08/2009	24/09/2009	11/06/2009	$725,000	812m	Full transfer	4	1	-	1	1	$725,000	51	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.54
+2009	238679	97 Rivett Street	14/03/2009	23/04/2009	12/02/2009	$650,000	906m	Full transfer	4	1	1	2	1	$650,000	30	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.63
+2009	262715	6 Dunlop Street	18/11/2009	27/01/2010	22/10/2009	$628,000	930m	Full transfer	4	1	-	-	2	$628,000	27	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.65
+2009	250784	94 Mackenzie Street	29/10/2009	08/12/2009	29/09/2009	$620,000	912m	Full transfer	4	1	1	1	2	$620,000	30	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.6
+2009	248214	2 Gilbert Street	24/07/2009	21/09/2009	30/06/2009	$617,000	746m	Full transfer	3	1	1	-	2	$617,000	24	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.58
+2009	244179	181 Phillip Avenue	05/03/2009	09/06/2009	04/12/2008	$608,000	666m	Full transfer	4	1	1	1	1	$608,000	91	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.44
+2009	323944	6 Hull Place	05/06/2009	13/08/2009	-	$605,000	874m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249933	3 Hull Place	13/06/2009	16/11/2009	26/05/2009	$600,000	917m	Full transfer	3	1	-	1	-	$600,000	18	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.62
+2009	243589	66 Rivett Street	25/02/2009	30/03/2009	07/01/2009	$600,000	825m	Full transfer	4	1	1	2	-	$600,000	49	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.63
+2009	245418	34 Gilruth Street	13/05/2009	05/08/2009	29/01/2009	$595,000	935m	Full transfer	3	2	-	2	-	$595,000	104	-	Combined Record	-	-	-	Single residential dwelling...	$342,000	0.57
+2009	249210	130 Mackenzie Street	17/08/2009	01/10/2009	29/07/2009	$580,000	691m	Full transfer	3	1	-	1	1	$580,000	19	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.59
+2009	244943	10 Jukes Street	29/05/2009	13/07/2009	29/04/2009	$570,000	744m	Full transfer	3	1	1	1	-	$570,000	30	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.66
+2009	241707	43 Rivett Street	09/04/2009	20/05/2009	18/03/2009	$567,500	721m	Full transfer	3	1	1	1	-	$567,500	22	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.61
+2009	246360	12 Brennan Street	21/05/2009	01/09/2009	09/04/2009	$563,000	828m	Full transfer	3	1	-	1	-	$563,000	42	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.7
+2009	262717	34 Madigan Street	12/12/2009	03/02/2010	04/11/2009	$555,000	706m	Full transfer	3	1	-	1	1	$555,000	38	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.5
+2009	251941	10 Harris Street	27/10/2009	22/12/2009	06/10/2009	$550,000	773m	Full transfer	2	2	-	2	-	$550,000	21	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.65
+2009	238262	18 Richards Street	11/03/2009	07/04/2009	16/02/2009	$550,000	681m	Full transfer	3	1	-	-	2	$550,000	23	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.65
+2009	244539	127 Mackenzie Street	27/03/2009	22/07/2009	11/03/2009	$530,000	886m	Full transfer	3	2	-	-	2	$530,000	16	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.67
+2009	238678	9 Newton Street	23/02/2009	21/04/2009	30/01/2009	$515,000	652m	Full transfer	3	1	-	1	-	$515,000	24	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.61
+2009	246145	34 Haddon Street	20/07/2009	25/08/2009	30/06/2009	$508,000	412m	Full transfer	3	1	-	1	1	$508,000	20	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.46
+2009	248764	            2/84 Grayson Street	05/09/2009	26/10/2009	-	$471,000	7340m	Full transfer	-	-	-	-	-	$471,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	140217	86 Grayson Street	05/09/2009	-	18/07/2009	$471,000	7340m	Full transfer	3	1	1	2	0	$471,000	49	-	Allhomes Record	-	-	-	-	$1,504,000	3.19
+2009	244538	16 Madigan Street	24/06/2009	24/07/2009	-	$465,000	664m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324620	12 Hedley Street	03/09/2009	25/10/2009	-	$465,000	687m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241361	55 Maitland Street	31/03/2009	04/05/2009	-	$460,000	638m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248844	1/32 Maitland Street	30/09/2009	05/11/2009	21/08/2009	$450,000	858m	Full transfer	3	1	0	-	1	$450,000	40	-	Combined Record	-	-	-	Multiple unit dwelling	$119,000	0.26
+2009	249209	214 Antill Street	19/06/2009	06/10/2009	-	$440,000	634m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248679	            4/130 Grayson Street	16/09/2009	21/10/2009	-	$438,000	7784m	Full transfer	-	-	-	-	-	$438,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	129800	124 Grayson Street	16/09/2009	-	26/08/2009	$438,000	7784m	Full transfer	2	1	-	1	-	$438,000	21	-	Allhomes Record	-	-	-	-	$1,323,000	3.02
+2009	246871	17/70-76 Madigan Street	04/12/2009	-	02/11/2009	$420,000	2513m	Full transfer	2	1	-	1	-	$420,000	32	-	Allhomes Record	-	-	-	-	$97,000	0.23
+2009	259428	17/70 Madigan Street	04/12/2009	29/01/2010	-	$420,000	2513m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248680	            12/56 Grayson Street	01/04/2009	25/10/2009	-	$390,000	8892m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	123413	12/76 Grayson Street	01/04/2009	-	12/02/2009	$390,000	542m	Full transfer	2	1	-	-	2	$390,000	48	-	Allhomes Record	-	-	-	-	$103,944	0.27
+2009	255547	            7/34 Grayson Street	10/08/2009	07/04/2010	-	$380,000	6517m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128490	44 Grayson Street	10/08/2009	-	08/07/2009	$380,000	6517m	Full transfer	2	1	-	-	2	$380,000	33	-	Allhomes Record	-	-	-	-	$1,323,000	3.48
+2009	237726	37 Maitland Street	16/01/2009	20/02/2009	-	$306,000	803m	Full transfer	-	-	-	-	-	$306,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248012	            16/133 Rivett Street	28/08/2009	25/09/2009	-	$275,000	2417m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128133	16/131 Rivett Street	28/08/2009	-	24/06/2009	$275,000	2416m	Full transfer	2	1	-	-	-	$275,000	65	-	Allhomes Record	-	-	-	-	$775,000	2.82
+2009	241452	5/133 Rivett Street	20/04/2009	15/05/2009	-	$258,000	2417m	Full transfer	-	-	-	-	-	$258,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259430	27/127 Madigan Street	20/11/2009	27/01/2010	-	$257,100	3717m	Full transfer	-	-	-	-	-	$257,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248845	25/127 Madigan Street	03/09/2009	06/11/2009	-	$245,000	3717m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23723	25/127 Madigan Street	04/09/2009	-	09/06/2009	$245,000	3717m	Full transfer	1	1	-	-	-	$245,000	87	-	Allhomes Record	-	-	-	-	-	-
+2009	241644	22/127 Madigan Street	26/03/2009	20/05/2009	-	$240,000	3717m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	123062	22/127 Madigan Street	05/05/2009	-	04/02/2009	$240,000	3717m	Full transfer	1	1	-	-	1	$240,000	90	-	Allhomes Record	-	-	-	-	$2,739,000	11.41
+2009	120212	15/127 Rivett Street	18/02/2009	-	30/10/2008	$239,000	2417m	Full transfer	2	1	-	-	1	$239,000	111	-	Allhomes Record	-	-	-	-	$1,885,000	7.89
+2009	19339	            12/133 Rivett Street	05/03/2009	06/06/2009	-	$237,000	2417m	Full transfer	-	-	-	-	-	$237,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	122792	12/131 Rivett Street	18/03/2009	-	29/01/2009	$237,000	-	Full transfer	1	1	-	-	-	$237,000	48	-	Allhomes Record	-	-	-	-	-	-
+2009	243185	15/127 Rivett Street	17/02/2009	20/03/2009	-	$235,000	2417m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243186	15/127 Madigan Street	03/02/2009	18/03/2009	-	$227,000	3717m	Full transfer	-	-	-	-	-	$227,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242614	2/127 Rivett Street	29/01/2009	05/03/2009	-	$196,000	2417m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	276654	18/70 Madigan Street	19/11/2009	21/07/2010	-	$190,000	2513m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243226	1/133 Rivett Street	22/01/2009	23/03/2009	-	$185,000	2417m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	495273	17 Haddon Street	25/04/2009	20/01/2017	-	$0	1036m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	543808	17 Selwyn Street	17/03/2009	10/10/2018	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250783	17 Dunlop Street	24/09/2009	07/12/2009	-	-	791m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241708	3 Fison Street	30/01/2009	20/05/2009	-	-	763m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241709	84 Rivett Street	04/03/2009	21/05/2009	-	-	829m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249723	5 Steele Street	16/09/2009	06/11/2009	-	-	645m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	257267	9 Gilbert Street	14/10/2009	21/04/2010	-	-	660m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	291351	110 Rivett Street	06/10/2009	13/05/2011	-	-	765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244065	15 Bragg Street	25/05/2009	02/06/2009	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250098	11 Caldwell Street	13/10/2009	24/11/2009	-	-	712m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	270130	5 Brennan Street	22/06/2009	19/08/2010	-	-	968m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244557	45 Mackenzie Street	18/01/2009	30/06/2009	-	-	1107m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	269954	            5/24 Grayson Street	09/11/2009	21/09/2010	-	-	6314m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248093	45 Mackenzie Street	20/07/2009	14/09/2009	-	-	1107m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	256429	17 Grayson Street	03/07/2009	15/04/2010	-	-	683m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248980	            15/56 Grayson Street	15/07/2009	16/11/2009	-	-	8892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245900	7 Verco Street	22/06/2009	17/08/2009	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251662	125 Madigan Street	26/08/2009	10/01/2010	-	-	773m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249932	121 Mackenzie Street	28/10/2009	18/11/2009	-	-	1089m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	296466	89 Mackenzie Street	11/07/2009	25/05/2011	-	-	1189m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261938	24 Richards Street	13/07/2009	18/05/2010	-	-	665m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242694	32 Caldwell Street	13/01/2009	24/02/2009	-	-	757m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238677	17 Steele Street	08/04/2009	24/04/2009	-	-	714m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19678	            2/84 Grayson Street	26/05/2009	26/08/2009	-	-	7340m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	255619	21 Stanley Street	15/11/2009	25/03/2010	-	-	773m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244440	17 Bragg Street	28/05/2009	09/07/2009	-	-	746m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261937	179 Phillip Avenue	25/11/2009	20/05/2010	-	-	611m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245127	12 Hedley Street	12/05/2009	16/06/2009	-	-	687m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248092	5 Steele Street	30/03/2009	18/09/2009	-	-	645m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	287527	38 French Street	08/09/2009	28/03/2011	-	-	730m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283848	77 Mackenzie Street	20/11/2010	28/02/2011	21/10/2010	$1,075,000	1630m	Full transfer	5	1	2	2	-	$1,075,000	30	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.54
+2010	275785	1 Hackett Place	19/11/2010	13/01/2011	-	$900,000	669m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2010	284001	51 Mackenzie Street	29/11/2010	18/02/2011	10/11/2010	$880,000	906m	Full transfer	4	2	-	2	-	$880,000	19	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.53
+2010	271180	13 Steele Street	09/08/2010	24/09/2010	14/07/2010	$867,000	781m	Full transfer	4	1	1	-	1	$867,000	26	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.43
+2010	284002	3 Dakin Place	21/12/2010	17/02/2011	16/11/2010	$850,000	688m	Full transfer	4	1	1	-	1	$850,000	35	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.42
+2010	263839	97 Mackenzie Street	25/03/2010	30/05/2010	24/02/2010	$830,000	1129m	Full transfer	3	1	-	-	2	$830,000	29	-	Combined Record	-	-	-	Single residential dwelling	$535,000	0.64
+2010	286112	234 Antill Street	23/12/2010	17/03/2011	24/11/2010	$767,000	829m	Full transfer	4	1	1	3	-	$767,000	29	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.49
+2010	271181	2 Dakin Place	05/06/2010	20/09/2010	13/05/2010	$765,000	695m	Full transfer	4	2	-	-	1	$765,000	23	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.47
+2010	279409	320 Antill Street	04/12/2010	02/02/2011	03/11/2010	$735,000	745m	Full transfer	4	1	1	-	2	$735,000	31	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.52
+2010	270725	77 Maitland Street	13/05/2010	26/07/2010	15/04/2010	$728,000	746m	Full transfer	4	1	-	2	1	$728,000	28	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.49
+2010	328780	229 Phillip Avenue	07/07/2010	15/09/2010	09/06/2010	$713,000	694m	Full transfer	4	2	-	-	1	$713,000	28	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.49
+2010	270988	14 French Street	30/06/2010	02/09/2010	28/05/2010	$711,000	718m	Full transfer	3	1	-	1	-	$711,000	33	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.58
+2010	559952	57 Rivett Street	15/07/2010	23/05/2019	01/07/2010	$705,000	962m	Full transfer	3	1	-	-	2	$705,000	14	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.64
+2010	269142	17 Mackenzie Street	17/05/2010	27/06/2010	10/03/2010	$700,000	727m	Full transfer	4	1	-	1	-	$700,000	68	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.58
+2010	269141	17 Newton Street	17/04/2010	25/06/2010	17/03/2010	$695,500	655m	Full transfer	3	1	1	2	-	$695,500	31	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.52
+2010	273537	5 French Street	11/08/2010	18/10/2010	21/07/2010	$695,000	940m	Full transfer	3	1	-	1	-	$695,000	21	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.65
+2010	258737	31 Rivett Street	30/03/2010	20/05/2010	10/03/2010	$685,250	664m	Full transfer	3	1	-	1	1	$685,250	20	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.57
+2010	267635	22 Gilbert Street	11/05/2010	25/06/2010	-	$665,000	847m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283847	111 Madigan Street	15/12/2010	01/03/2011	10/08/2010	$663,000	696m	Full transfer	3	1	1	-	1	$663,000	127	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.5
+2010	251007	103 Maitland Street	18/01/2010	-	19/11/2009	$652,500	412m	Full transfer	3	1	1	2	-	$652,500	60	-	Allhomes Record	-	-	-	-	$469,000	0.72
+2010	253847	            1/37 Stanley Street	18/01/2010	28/02/2010	-	$652,500	824m	Full transfer	-	-	-	-	-	$652,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	329424	13 Gilruth Street	27/10/2010	04/01/2011	-	$645,000	788m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280751	24 Brennan Street	12/11/2010	16/12/2010	-	$645,000	804m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283846	11 Caldwell Street	27/11/2010	02/03/2011	01/11/2010	$642,000	712m	Full transfer	3	1	1	-	1	$642,000	26	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.56
+2010	279175	25 Harris Street	09/12/2010	03/02/2011	-	$635,000	831m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272201	25 Harris Street	10/12/2010	-	11/11/2010	$635,000	831m	Full transfer	3	2	-	-	-	$635,000	29	-	Allhomes Record	-	-	-	-	$430,000	0.68
+2010	275891	6 Tryon Street	23/09/2010	12/01/2011	19/08/2010	$635,000	717m	Full transfer	3	1	-	1	-	$635,000	35	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.68
+2010	263913	324 Antill Street	30/03/2010	02/06/2010	12/03/2010	$630,156	984m	Full transfer	3	1	-	1	-	$630,156	18	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.65
+2010	258653	67 Maitland Street	25/02/2010	10/05/2010	12/02/2010	$610,000	728m	Full transfer	3	1	-	1	1	$610,000	13	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.62
+2010	258481	30 Gilbert Street	23/02/2010	12/04/2010	28/01/2010	$605,000	714m	Full transfer	4	2	-	1	-	$605,000	26	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.68
+2010	328963	7 Gilruth Street	14/09/2010	25/10/2010	-	$600,000	715m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270907	4 Madigan Street	16/07/2010	24/08/2010	17/06/2010	$593,000	609m	Full transfer	3	1	-	-	1	$593,000	29	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.5
+2010	291266	227 Phillip Avenue	01/11/2010	19/05/2011	-	$585,000	694m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258279	32 Stanley Street	20/02/2010	03/05/2010	23/03/2010	$584,000	631m	Full transfer	3	1	1	1	-	$584,000	-	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.67
+2010	257407	9 Gilbert Street	01/02/2010	21/04/2010	11/01/2010	$580,000	660m	Full transfer	4	2	-	1	-	$580,000	21	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.68
+2010	258654	21 Stanley Street	17/03/2010	10/05/2010	18/02/2010	$580,000	773m	Full transfer	3	1	-	-	1	$580,000	27	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.68
+2010	258134	10 Newton Street	15/03/2010	04/05/2010	-	$575,000	699m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271182	23 Maitland Street	07/08/2010	20/09/2010	13/07/2010	$573,000	688m	Full transfer	3	1	-	1	-	$573,000	25	-	Combined Record	147	-	-	Single residential dwelling	$360,000	0.63
+2010	260994	6 Stanley Street	17/02/2010	24/03/2010	-	$565,000	711m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279408	21 Gilruth Street	30/11/2010	02/02/2011	24/08/2010	$552,000	625m	Full transfer	3	1	-	1	-	$552,000	98	-	Combined Record	97	-	-	Single residential dwelling	$360,000	0.65
+2010	273612	40 Newton Street	11/09/2010	07/11/2010	12/08/2010	$546,000	720m	Full transfer	3	1	-	-	-	$546,000	30	-	Combined Record	111	-	-	Single residential dwelling	$312,000	0.57
+2010	273646	7 Mills Street	20/07/2010	12/10/2010	08/06/2010	$530,000	676m	Full transfer	2	1	-	1	-	$530,000	42	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.74
+2010	272469	90 Grayson Street	18/12/2010	-	30/11/2010	$525,500	-	Full transfer	3	1	1	2	-	$525,500	18	-	Allhomes Record	112	-	-	-	$1,730,000	3.29
+2010	283673	            4/84 Grayson Street	18/12/2010	11/02/2011	-	$525,000	7340m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261940	125 Madigan Street	22/02/2010	21/05/2010	-	$520,000	773m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	253915	            5/56 Grayson Street	19/01/2010	01/03/2010	-	$515,000	8892m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	251055	62 Grayson Street	19/01/2010	-	17/12/2009	$515,000	8892m	Full transfer	3	1	1	2	-	$515,000	33	-	Allhomes Record	-	-	-	-	$1,960,000	3.81
+2010	266843	18 Grayson Street	19/10/2010	-	16/09/2010	$476,500	-	Full transfer	2	1	-	-	2	$476,500	33	-	Allhomes Record	-	-	-	-	$1,331,000	2.79
+2010	280626	            4/24 Grayson Street	21/10/2010	22/12/2010	-	$476,500	6314m	Full transfer	-	-	-	-	-	$476,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253483	58 Grayson Street	30/03/2010	-	03/03/2010	$441,100	8892m	Full transfer	2	1	-	-	2	$441,100	27	-	Allhomes Record	-	-	-	-	$1,960,000	4.44
+2010	263584	            2/56 Grayson Street	30/03/2010	09/06/2010	-	$441,100	8892m	Full transfer	-	-	-	-	-	$441,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	276655	8/48 Madigan Street	20/05/2010	20/07/2010	-	$421,900	1706m	Full transfer	-	-	-	-	-	$421,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273887	6/48 Madigan Street	21/10/2010	03/12/2010	-	$416,200	1706m	Full transfer	-	-	-	-	-	$416,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277566	9/48 Madigan Street	30/11/2010	18/01/2011	-	$390,000	1706m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283487	11/127 Madigan Street	30/11/2010	28/02/2011	-	$345,000	3717m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271956	11/127 Madigan Street	29/11/2010	-	03/10/2010	$335,000	3717m	Full transfer	2	1	-	-	-	$335,000	57	-	Allhomes Record	-	-	-	-	-	-
+2010	273134	            15/133 Rivett Street	26/08/2010	13/10/2010	-	$325,000	2417m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	265574	15/131 Rivett Street	26/08/2010	-	27/07/2010	$325,000	2417m	Full transfer	2	1	-	-	1	$325,000	30	-	Allhomes Record	-	-	-	-	$113,307	0.35
+2010	280689	58 Maitland Street	04/11/2010	22/12/2010	-	$310,000	629m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263533	6/127 Madigan Street	13/04/2010	01/06/2010	-	$265,000	3717m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	255274	6/127 Madigan Street	14/04/2010	-	10/03/2010	$265,000	3717m	Full transfer	1	1	-	-	-	$265,000	35	-	Allhomes Record	-	-	-	-	-	-
+2010	273029	1/133 Rivett Street	25/08/2010	18/10/2010	-	$243,000	2417m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	396468	12 Mills Place	24/11/2010	23/04/2013	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	347167	13 Caldwell Street	31/08/2010	08/11/2011	-	$0	779m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	253654	250 Antill Street	04/01/2010	16/02/2010	-	-	468m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273845	35 Caldwell Street	20/02/2010	08/11/2010	-	-	746m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276715	40 Newton Street	28/05/2010	21/07/2010	-	-	720m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280712	63 Maitland Street	10/06/2010	06/12/2010	-	-	661m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270131	7 Hull Place	07/05/2010	16/08/2010	-	-	1043m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270023	3 French Street	07/06/2010	27/07/2010	-	-	927m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269543	            8/130 Grayson Street	25/01/2010	16/08/2010	-	-	7784m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272899	96 Mackenzie Street	25/08/2010	15/10/2010	-	-	680m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272822	35 Madigan Street	22/02/2010	19/10/2010	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260997	72 Rivett Street	04/01/2010	18/02/2010	-	-	681m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260998	7 Selwyn Street	08/02/2010	05/03/2010	-	-	952m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272821	10 Selwyn Street	27/09/2010	24/10/2010	-	-	1214m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280752	92 Rivett Street	02/08/2010	16/12/2010	-	-	1003m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261857	8 French Street	22/01/2010	11/05/2010	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272874	22 Haddon Street	12/05/2010	04/11/2010	-	-	404m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283499	75 Rivett Street	19/08/2010	23/02/2011	-	-	906m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255621	15 Dunlop Street	20/01/2010	24/03/2010	-	-	791m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	336168	71 Mackenzie Street	15/02/2010	22/08/2011	-	-	1301m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291164	113 Mackenzie Street	15/01/2010	10/05/2011	-	-	1320m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276714	4 Rivett Street	19/01/2010	20/07/2010	-	-	692m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261858	23 Mackenzie Street	09/04/2010	13/05/2010	-	-	881m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254548	14 Jukes Street	27/01/2010	05/03/2010	-	-	732m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254546	17 Newton Street	15/02/2010	04/03/2010	-	-	655m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274160	31 Stanley Street	21/07/2010	22/11/2010	-	-	746m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292184	25 Jukes Street	15/04/2011	20/05/2011	23/03/2011	$1,000,000	990m	Full transfer	4	1	1	1	-	$1,000,000	23	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.6
+2011	347562	23 Jukes Street	28/09/2011	03/11/2011	-	$993,000	1045m	Full transfer	-	-	-	-	-	$993,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300692	109 Rivett Street	19/03/2011	20/07/2011	17/02/2011	$970,000	792m	Full transfer	4	2	1	1	2	$970,000	30	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.49
+2011	346739	21 Brennan Street	06/10/2011	17/11/2011	31/08/2011	$922,500	1014m	Full transfer	4	2	-	2	-	$922,500	36	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.61
+2011	355088	25 French Street	22/10/2011	11/01/2012	15/09/2011	$905,000	935m	Full transfer	4	1	2	1	2	$905,000	37	-	Combined Record	220	-	-	Single residential dwelling	$520,000	0.57
+2011	344106	99 Mackenzie Street	13/07/2011	18/10/2011	25/05/2011	$900,000	1175m	Full transfer	3	1	-	-	2	$900,000	49	-	Combined Record	-	-	-	Single residential dwelling	$589,000	0.65
+2011	344631	43 Mackenzie Street	17/11/2011	-	09/09/2011	$890,000	993m	Full transfer	4	2	-	2	-	$890,000	69	-	Allhomes Record	-	-	-	-	$514,000	0.58
+2011	340794	37 Russell Street	16/07/2011	21/09/2011	21/06/2011	$850,000	982m	Full transfer	4	1	1	1	1	$850,000	25	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.61
+2011	359747	113 Mackenzie Street	22/12/2011	30/01/2012	17/11/2011	$850,000	1320m	Full transfer	4	1	1	-	2	$850,000	35	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.71
+2011	331961	87 Maitland Street	16/02/2011	20/07/2011	01/04/2011	$831,000	763m	Full transfer	4	2	-	-	2	$831,000	-	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.5
+2011	285191	            73A Mackenzie Street	08/04/2011	-	03/03/2011	$830,000	-	Full transfer	4	2	-	2	-	$830,000	36	-	Allhomes Record	-	-	-	-	-	-
+2011	296514	            2/73 Mackenzie Street	08/04/2011	30/05/2011	-	$830,000	1609m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347168	5 Jukes Street	06/09/2011	10/11/2011	11/08/2011	$760,000	951m	Full transfer	3	1	-	1	-	$760,000	26	-	Combined Record	-	-	-	Single residential dwelling	$546,000	0.72
+2011	300660	99 Madigan Street	28/04/2011	07/07/2011	29/03/2011	$735,000	725m	Full transfer	4	1	1	1	-	$735,000	30	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.52
+2011	340652	31 Bragg Street	25/07/2011	27/09/2011	30/05/2011	$730,000	829m	Full transfer	3	1	1	1	1	$730,000	56	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.68
+2011	292185	50 Stanley Street	01/03/2011	18/05/2011	01/02/2011	$720,000	688m	Full transfer	3	1	-	1	-	$720,000	28	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.58
+2011	347559	50 Rivett Street	13/10/2011	01/11/2011	26/09/2011	$700,000	686m	Full transfer	3	1	-	-	1	$700,000	17	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.65
+2011	300693	25 Selwyn Street	01/06/2011	22/07/2011	11/05/2011	$692,500	906m	Full transfer	4	1	1	1	1	$692,500	21	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.67
+2011	347565	4 Caldwell Street	29/09/2011	03/11/2011	05/09/2011	$675,000	728m	Full transfer	4	1	-	2	-	$675,000	24	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.6
+2011	300694	43 Harris Street	14/05/2011	22/07/2011	05/04/2011	$665,000	957m	Full transfer	4	1	-	-	1	$665,000	39	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.78
+2011	348202	16 Gilbert Street	13/12/2011	-	12/10/2011	$663,500	800m	Full transfer	3	2	-	1	-	$663,500	62	-	Allhomes Record	133	-	-	-	$495,000	0.75
+2011	355085	22 Bragg Street	23/09/2011	10/01/2012	31/08/2011	$650,000	791m	Full transfer	3	1	-	-	2	$650,000	23	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.72
+2011	292293	10 Gilbert Street	15/02/2011	10/05/2011	27/01/2011	$620,000	719m	Full transfer	3	1	-	1	-	$620,000	19	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.76
+2011	295202	1/15 Maitland Street	27/06/2011	-	30/05/2011	$620,000	-	Full transfer	3	1	1	2	-	$620,000	28	-	Allhomes Record	-	-	-	-	-	-
+2011	347960	17 Hedley Street	23/09/2011	27/10/2011	24/08/2011	$620,000	677m	Full transfer	4	1	1	1	-	$620,000	30	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.67
+2011	353777	12 Madigan Street	02/12/2011	20/01/2012	09/09/2011	$620,000	664m	Full transfer	3	2	-	1	1	$620,000	84	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.62
+2011	333059	            1/1 Hedley Street	27/06/2011	02/08/2011	-	$620,000	973m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347173	179 Phillip Avenue	15/09/2011	07/11/2011	08/06/2011	$620,000	611m	Full transfer	4	2	-	2	-	$620,000	99	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.55
+2011	347563	52 Stanley Street	15/06/2011	01/11/2011	19/05/2011	$610,000	688m	Full transfer	3	1	-	-	1	$610,000	27	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.68
+2011	359937	3 Gilruth Street	24/11/2011	24/01/2012	11/11/2011	$610,000	644m	Full transfer	3	1	-	1	1	$610,000	13	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.68
+2011	389313	1 Madigan Street	18/11/2011	-	25/02/2013	$610,000	629m	Full transfer	3	1	0	1	1	$610,000	-	-	Allhomes Record	-	-	-	-	$340,000	0.56
+2011	355090	1 Madigan Street	28/11/2011	09/01/2012	10/11/2011	$610,000	629m	Full transfer	3	1	-	1	1	$610,000	18	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.56
+2011	345451	39 Caldwell Street	18/11/2011	-	01/11/2011	$600,000	752m	Full transfer	3	1	-	-	-	$600,000	17	-	Allhomes Record	-	-	-	-	$435,000	0.73
+2011	340385	40 Russell Street	11/08/2011	20/09/2011	-	$595,000	738m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	288801	227 Phillip Avenue	28/03/2011	-	04/11/2010	$590,000	694m	Full transfer	3	1	1	-	1	$590,000	144	-	Allhomes Record	100	-	-	-	$405,000	0.69
+2011	292292	110 Rivett Street	03/03/2011	13/05/2011	03/12/2010	$565,200	765m	Full transfer	3	1	-	-	1	$565,200	90	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.83
+2011	296082	276 Antill Street	01/04/2011	01/06/2011	-	$565,000	536m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300573	175 Phillip Avenue	25/05/2011	12/07/2011	28/04/2011	$562,000	670m	Full transfer	3	1	-	-	1	$562,000	27	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.63
+2011	333060	44 Selwyn Street	28/05/2011	03/08/2011	02/05/2011	$555,000	738m	Full transfer	3	1	-	1	-	$555,000	26	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.93
+2011	300200	40 Caldwell Street	15/02/2011	05/07/2011	-	$550,000	917m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346741	            8/56 Grayson Street	28/09/2011	21/11/2011	-	$545,000	8892m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340315	10 Burrell Street	22/06/2011	28/09/2011	-	$530,000	371m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333025	36 Haddon Street	14/06/2011	01/08/2011	19/01/2011	$530,000	478m	Full transfer	3	1	-	2	-	$530,000	146	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.66
+2011	278754	128 Grayson Street	26/02/2011	-	01/02/2011	$525,000	-	Full transfer	3	1	1	2	-	$525,000	25	-	Allhomes Record	112	-	-	-	$1,680,000	3.2
+2011	291355	            2/130 Grayson Street	26/02/2011	10/05/2011	-	$525,000	7784m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	344110	38 Newton Street	05/07/2011	18/10/2011	24/03/2011	$515,000	716m	Full transfer	3	1	-	1	-	$515,000	103	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.81
+2011	296755	32 Haddon Street	27/04/2011	22/06/2011	15/02/2011	$500,000	407m	Full transfer	3	1	-	2	1	$500,000	71	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.7
+2011	297581	            8/130 Grayson Street	27/05/2011	30/06/2011	-	$470,000	7784m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347962	            12/56 Grayson Street	02/09/2011	25/10/2011	-	$465,000	8892m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	334201	76 Grayson Street	02/09/2011	-	04/08/2011	$465,000	-	Full transfer	2	1	-	2	-	$465,000	29	-	Allhomes Record	-	-	-	-	$2,164,000	4.65
+2011	300760	3/70 Madigan Street	07/06/2011	20/07/2011	08/06/2011	$460,000	2513m	Full transfer	-	-	-	-	-	$460,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	300361	4/70 Madigan Street	19/04/2011	15/07/2011	-	$457,000	2513m	Full transfer	-	-	-	-	-	$457,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	286681	            4/70-76 Madigan Street	19/04/2011	-	22/03/2011	$457,000	2513m	Full transfer	2	1	-	1	-	$457,000	28	-	Allhomes Record	-	-	-	-	-	-
+2011	359749	            12/84 Grayson Street	22/12/2011	30/01/2012	-	$456,500	7340m	Full transfer	-	-	-	-	-	$456,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	348961	106 Grayson Street	23/12/2011	-	17/11/2011	$456,500	-	Full transfer	2	1	-	1	-	$456,500	36	-	Allhomes Record	-	-	-	-	$1,910,000	4.18
+2011	344108	5/48 Madigan Street	18/07/2011	18/10/2011	01/06/2011	$430,000	1706m	Full transfer	2	1	-	1	-	$430,000	47	-	Combined Record	81	-	-	Multiple unit dwelling	$1,239,000	2.88
+2011	347170	18/70 Madigan Street	27/09/2011	08/11/2011	13/07/2011	$420,000	2513m	Full transfer	2	1	-	1	-	$420,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	300360	3/11 Tryon Street	26/05/2011	15/07/2011	-	$350,000	2225m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291142	            3/11-13 Tryon Street	26/05/2011	-	27/04/2011	$350,000	2225m	Full transfer	2	1	-	-	1	$350,000	29	-	Allhomes Record	-	-	-	-	-	-
+2011	291496	4/11 Tryon Street	04/03/2011	18/04/2011	-	$318,000	2225m	Full transfer	-	-	-	-	-	$318,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	279721	            4/11-13 Tryon Street	04/03/2011	-	19/11/2010	$318,000	-	Full transfer	2	1	-	-	1	$318,000	105	-	Allhomes Record	-	-	-	-	-	-
+2011	347558	15/127 Rivett Street	27/09/2011	01/11/2011	-	$310,000	2417m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347172	10 Hackett Place	05/10/2011	10/11/2011	-	$300,000	167m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	340424	8/127 Rivett Street	22/08/2011	27/09/2011	-	$292,500	2417m	Full transfer	-	-	-	-	-	$292,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291354	18/127 Madigan Street	05/04/2011	10/05/2011	-	$255,000	3717m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	335959	            4/56 Grayson Street	01/08/2011	22/08/2011	-	$250,000	8892m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	389316	            8/11-13 Tryon Street	21/12/2011	-	25/02/2013	$238,950	103m	Full transfer	1	1	0	0	1	$238,950	-	-	Allhomes Record	-	-	-	-	-	-
+2011	359750	54 Rivett Street	07/12/2011	30/01/2012	08/11/2011	$0	836m	Full transfer	3	1	-	1	1	$0	29	-	Combined Record	-	-	-	Single residential dwelling	$495,000	2.88
+2011	355087	107 Rivett Street	16/10/2011	09/01/2012	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349765	10 Gilruth Street	16/11/2011	16/12/2011	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347557	52 Mackenzie Street	29/01/2011	03/11/2011	-	$0	998m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347561	71 Rivett Street	18/04/2011	01/11/2011	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	473085	3 Grayson Street	27/01/2011	01/03/2016	-	$0	979m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	495871	10 Mills Place	08/12/2011	04/01/2017	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346737	17 Gilruth Street	03/09/2011	24/11/2011	-	$0	782m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365345	20 Hedley Street	23/12/2011	05/03/2012	-	$0	698m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	366020	37 Harris Street	10/11/2011	28/02/2012	18/10/2011	$0	725m	Full transfer	3	1	1	-	2	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$471,000	2.88
+2011	353779	89 Maitland Street	02/11/2011	16/01/2012	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350049	28 Madigan Street	07/10/2011	05/12/2011	-	$0	780m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368549	113 Rivett Street	27/05/2011	20/03/2012	-	$0	800m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346738	4 Dunlop Street	23/11/2011	24/11/2011	-	$0	1228m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	359939	18 Steele Street	21/10/2011	23/01/2012	-	$0	698m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344112	38 Newton Street	05/02/2011	18/10/2011	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333271	33 Madigan Street	06/05/2011	29/07/2011	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300199	7 Hull Place	15/03/2011	07/07/2011	-	-	1043m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300154	7 Jukes Street	20/06/2011	11/07/2011	-	-	940m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291265	16 Richards Street	28/04/2011	18/05/2011	-	-	693m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296515	            4/56 Grayson Street	08/02/2011	30/05/2011	-	-	8892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	342174	3 Gilruth Street	14/09/2011	13/10/2011	-	-	644m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333494	35 Stanley Street	01/06/2011	01/08/2011	-	-	770m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338388	            2/34 Grayson Street	07/07/2011	18/09/2011	-	-	6517m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296453	9 Caldwell Street	17/04/2011	17/06/2011	-	-	716m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387245	38 Rivett Street	27/03/2012	17/12/2012	-	$1,160,000	1230m	Full transfer	-	-	-	-	-	$1,160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374516	96 Rivett Street	23/04/2012	28/06/2012	18/10/2011	$935,000	944m	Full transfer	4	1	1	4	2	$935,000	188	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.56
+2012	392170	2 Newton Street	26/11/2012	06/02/2013	23/08/2012	$839,000	1111m	Full transfer	4	1	1	2	2	$839,000	95	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.57
+2012	374245	3 French Street	04/04/2012	13/06/2012	06/03/2012	$821,000	927m	Full transfer	4	1	1	1	-	$821,000	29	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.63
+2012	377734	7 Hull Place	19/09/2012	-	15/02/2012	$820,000	1043m	Full transfer	4	1	1	2	-	$820,000	217	-	Allhomes Record	-	-	-	-	$495,000	0.6
+2012	379881	75 Mackenzie Street	14/07/2012	12/09/2012	20/06/2012	$817,000	1676m	Full transfer	3	1	-	2	-	$817,000	24	-	Combined Record	-	-	-	Single residential dwelling	$637,000	0.78
+2012	373324	65 Rivett Street	29/02/2012	25/05/2012	09/09/2011	$790,000	858m	Full transfer	4	1	1	1	2	$790,000	173	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.65
+2012	365690	1 Jukes Place	12/01/2012	24/02/2012	14/11/2011	$765,000	806m	Full transfer	4	2	-	1	-	$765,000	59	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.68
+2012	380510	57 Gilbert Street	20/04/2012	30/09/2012	15/11/2011	$750,000	666m	Full transfer	4	1	1	-	1	$750,000	157	-	Combined Record	187	-	-	Single residential dwelling	$454,000	0.61
+2012	379141	16 Bragg Street	16/07/2012	06/09/2012	28/06/2012	$730,000	1028m	Full transfer	3	1	-	-	-	$730,000	18	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.77
+2012	384890	88 Mackenzie Street	06/03/2012	14/05/2012	25/08/2011	$710,000	1014m	Full transfer	3	1	1	-	1	$710,000	194	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.8
+2012	370769	107 Rivett Street	20/03/2012	30/04/2012	12/01/2012	$663,000	786m	Full transfer	3	1	-	1	-	$663,000	68	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.71
+2012	384623	14 Gilbert Street	02/05/2012	07/05/2012	21/02/2012	$658,000	801m	Full transfer	4	1	-	1	1	$658,000	71	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.75
+2012	376881	231 Phillip Avenue	12/06/2012	03/08/2012	04/04/2012	$640,000	876m	Full transfer	4	1	1	1	1	$640,000	69	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.6
+2012	370765	28 Gilruth Street	29/03/2012	02/05/2012	22/09/2011	$635,000	649m	Full transfer	3	2	-	2	-	$635,000	189	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.65
+2012	376621	31 Gilbert Street	18/05/2012	25/07/2012	08/11/2011	$619,000	634m	Full transfer	3	1	-	2	-	$619,000	192	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.8
+2012	370767	10 Gilruth Street	30/03/2012	04/05/2012	24/01/2012	$615,000	814m	Full transfer	4	2	-	-	1	$615,000	66	-	Combined Record	147	-	-	Single residential dwelling	$435,000	0.71
+2012	392168	21 Haddon Street	23/11/2012	05/02/2013	02/05/2012	$610,000	672m	Full transfer	3	1	-	2	-	$610,000	205	-	Combined Record	671	-	-	Single residential dwelling	$470,000	0.77
+2012	368761	18 Steele Street	21/03/2012	18/04/2012	21/02/2012	$590,000	698m	Full transfer	3	1	1	1	1	$590,000	29	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.7
+2012	372702	73 Maitland Street	14/02/2012	13/04/2012	25/08/2011	$580,000	817m	Full transfer	3	1	-	-	2	$580,000	173	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.78
+2012	387243	3 Dunlop Street	01/11/2012	19/12/2012	22/08/2012	$578,000	752m	Full transfer	3	1	-	-	1	$578,000	71	-	Combined Record	752	-	-	Single residential dwelling	$471,000	0.81
+2012	368547	15 Gilruth Street	14/02/2012	21/03/2012	18/01/2012	$575,000	879m	Full transfer	2	1	-	2	2	$575,000	27	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.76
+2012	365348	294 Antill Street	31/01/2012	06/03/2012	10/11/2011	$575,000	683m	Full transfer	3	1	-	1	1	$575,000	82	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.7
+2012	379433	1 Gilbert Street	15/08/2012	19/09/2012	23/05/2012	$575,000	746m	Full transfer	3	1	-	2	1	$575,000	84	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.82
+2012	393515	5 Hedley Street	29/06/2012	05/03/2013	29/02/2012	$575,000	708m	Full transfer	3	1	-	2	-	$575,000	121	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.79
+2012	397995	32 Mills Street	29/08/2012	16/05/2013	07/03/2012	$570,000	760m	Full transfer	5	2	-	2	-	$570,000	175	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.79
+2012	376619	31 Hedley Street	13/06/2012	24/07/2012	07/05/2012	$565,000	821m	Full transfer	2	1	-	-	1	$565,000	37	-	Combined Record	821	-	-	Single residential dwelling	$435,000	0.77
+2012	373326	40 Newton Street	03/05/2012	25/05/2012	15/03/2012	$565,000	720m	Full transfer	3	1	-	-	-	$565,000	49	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.73
+2012	374518	6 Rivett Street	26/04/2012	28/06/2012	13/03/2012	$560,000	749m	Full transfer	3	1	-	-	1	$560,000	44	-	Combined Record	98	-	-	Single residential dwelling	$454,000	0.81
+2012	371575	236 Antill Street	26/04/2012	05/06/2012	21/03/2012	$545,000	634m	Full transfer	3	1	0	1	0	$545,000	36	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.74
+2012	368550	214 Antill Street	31/01/2012	22/03/2012	17/11/2011	$540,000	634m	Full transfer	3	1	-	1	1	$540,000	75	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.75
+2012	371938	36 Haddon Street	04/04/2012	31/05/2012	-	$530,000	478m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388570	1/32 Maitland Street	23/11/2012	16/01/2013	-	$522,500	858m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381995	32 Maitland Street	23/11/2012	-	23/10/2012	$522,500	858m	Full transfer	3	1	-	-	1	$522,500	31	-	Allhomes Record	-	-	-	-	$444,000	0.85
+2012	378012	266 Antill Street	28/09/2012	-	28/03/2012	$490,000	502m	Full transfer	3	1	-	-	2	$490,000	184	-	Allhomes Record	-	-	-	-	$323,000	0.66
+2012	363981	100 Grayson Street	30/04/2012	-	07/03/2012	$457,000	-	Full transfer	2	1	-	-	1	$457,000	54	-	Allhomes Record	-	-	-	-	$1,910,000	4.18
+2012	367763	22 Grayson Street	26/05/2012	-	26/04/2012	$425,000	-	Full transfer	2	1	-	-	2	$425,000	30	-	Allhomes Record	-	-	-	-	$1,469,000	3.46
+2012	365692	6/48 Madigan Street	23/01/2012	24/02/2012	06/12/2011	$415,000	1706m	Full transfer	2	1	-	1	-	$415,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	$1,368,000	3.3
+2012	387606	            16/133 Rivett Street	19/11/2012	07/01/2013	-	$305,000	2417m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381503	16/131 Rivett Street	19/11/2012	-	02/08/2012	$305,000	2417m	Full transfer	2	1	-	-	-	$305,000	109	-	Allhomes Record	-	-	-	-	$2,394,000	7.85
+2012	364951	9/131 Rivett Street	09/05/2012	-	07/03/2012	$302,000	-	Full transfer	2	1	-	-	1	$302,000	63	-	Allhomes Record	-	-	-	-	-	-
+2012	376880	9/133 Rivett Street	08/05/2012	30/07/2012	-	$302,000	2417m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	394497	8/133 Rivett Street	24/10/2012	18/03/2013	15/05/2012	$302,000	2417m	Full transfer	2	1	-	-	1	$302,000	162	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	365346	8/11 Tryon Street	25/01/2012	07/03/2012	15/11/2011	$238,500	2225m	Full transfer	1	1	-	-	1	$238,500	71	-	Combined Record	103	-	-	Multiple unit dwelling	-	-
+2012	371577	            9/84 Grayson Street	30/04/2012	06/06/2012	-	$0	7340m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	393880	13 Hedley Street	28/10/2012	26/03/2013	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	403951	110 Rivett Street	09/05/2012	02/07/2013	-	$0	765m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384892	76 Maitland Street	07/03/2012	14/05/2012	-	$0	697m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	397990	29 Russell Street	23/04/2012	15/05/2013	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	406831	20 Rivett Street	03/12/2012	28/08/2013	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374515	17 Richards Street	11/05/2012	26/06/2012	-	$0	1007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392167	1 Dunlop Street	17/08/2012	05/02/2013	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386205	3 Mills Street	25/06/2012	07/12/2012	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	413039	24 French Street	11/08/2012	28/10/2013	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383393	9 Stanley Street	02/11/2012	14/11/2012	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	403950	8 Maitland Street	14/09/2012	02/07/2013	-	$0	533m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392532	32 Newton Street	16/03/2012	21/02/2013	-	$0	770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368552	66 Maitland Street	25/01/2012	19/03/2012	-	$0	859m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	406640	34 Rivett Street	27/11/2012	21/08/2013	-	$0	924m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	406832	2/70 Madigan Street	10/12/2012	27/08/2013	-	$0	2513m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	395357	8 Steele Street	31/10/2012	19/04/2013	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397993	27 Jukes Street	23/03/2013	13/05/2013	15/02/2013	$1,275,000	910m	Full transfer	5	3	-	2	0	$1,275,000	36	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.47
+2013	400173	6 Taylor Place	08/04/2013	04/06/2013	24/01/2013	$930,000	722m	Full transfer	4	1	1	2	-	$930,000	74	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.48
+2013	404913	1 French Street	17/05/2013	06/08/2013	09/05/2013	$900,000	784m	Full transfer	5	2	1	2	-	$900,000	8	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.52
+2013	413321	48 Russell Street	05/08/2013	04/11/2013	28/02/2013	$875,000	805m	Full transfer	4	1	1	1	2	$875,000	158	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.57
+2013	401693	1 Bragg Street	05/04/2013	21/05/2013	21/03/2013	$845,000	831m	Full transfer	5	2	1	2	-	$845,000	15	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.59
+2013	423351	1 Prell Place	20/11/2013	-	16/04/2014	$840,000	883m	Full transfer	5	3	0	1	0	$840,000	-	-	Allhomes Record	-	-	-	-	$471,000	0.56
+2013	418149	1 Prell Place	21/11/2013	22/01/2014	04/04/2013	$840,000	883m	Full transfer	5	3	0	1	0	$840,000	231	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.56
+2013	407916	8 Caldwell Street	10/07/2013	06/09/2013	21/03/2013	$815,000	660m	Full transfer	4	1	1	1	2	$815,000	111	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.51
+2013	393517	112 Mackenzie Street	30/01/2013	04/03/2013	21/12/2012	$815,000	817m	Full transfer	4	1	1	2	-	$815,000	40	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.61
+2013	406828	29 Russell Street	06/06/2013	26/08/2013	14/05/2013	$790,000	797m	Full transfer	5	2	1	2	-	$790,000	23	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.6
+2013	395353	113 Mackenzie Street	22/02/2013	17/04/2013	10/12/2012	$790,000	1320m	Full transfer	4	1	1	-	2	$790,000	74	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.77
+2013	388762	            1/22 Stanley Street	12/02/2013	-	28/09/2012	$780,000	0m	Full transfer	3	2	-	2	0	$780,000	137	-	Allhomes Record	-	-	-	-	-	-
+2013	394173	            1/22 Stanley Street	11/02/2013	02/04/2013	-	$780,000	827m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418151	7 Harris Place	22/11/2013	22/01/2014	31/10/2013	$748,000	792m	Full transfer	4	1	1	-	1	$748,000	22	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.63
+2013	413036	4 Kenny Place	21/09/2013	29/10/2013	27/08/2013	$722,000	872m	Full transfer	4	1	1	1	1	$722,000	25	-	Combined Record	152	-	-	Single residential dwelling	$471,000	0.65
+2013	441024	6 Brennan Street	01/05/2013	-	07/01/2015	$708,000	911m	Full transfer	3	2	-	4	0	$708,000	-	-	Allhomes Record	-	-	-	-	$517,000	0.73
+2013	396469	121 Mackenzie Street	25/03/2013	26/04/2013	06/10/2012	$700,000	1089m	Full transfer	4	2	-	1	1	$700,000	170	-	Combined Record	-	-	-	Single residential dwelling	$517,000	0.74
+2013	416871	19 Hedley Street	08/11/2013	18/12/2013	14/01/2014	$665,000	632m	Full transfer	4	1	0	1	0	$665,000	-	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.62
+2013	401699	67 Maitland Street	12/03/2013	21/05/2013	20/02/2013	$652,000	728m	Full transfer	3	1	0	1	1	$652,000	20	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.67
+2013	395901	26 Rivett Street	09/05/2013	-	15/10/2012	$650,000	962m	Full transfer	4	1	1	1	-	$650,000	206	-	Allhomes Record	193	-	-	-	$495,000	0.76
+2013	400685	2/1 Hedley Street	28/03/2013	28/05/2013	26/02/2013	$650,000	973m	Full transfer	3	1	1	2	-	$650,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	$255,850	0.39
+2013	416873	10 Madigan Street	13/11/2013	16/12/2013	23/10/2013	$618,000	513m	Full transfer	4	1	-	-	-	$618,000	21	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.66
+2013	401695	4 Prell Place	09/04/2013	23/05/2013	07/02/2013	$617,000	759m	Full transfer	3	1	-	-	1	$617,000	61	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.73
+2013	405256	33 Haddon Street	06/06/2013	24/07/2013	31/01/2013	$605,000	675m	Full transfer	3	1	-	1	-	$605,000	126	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.78
+2013	389082	32 Russell Street	20/02/2013	-	27/09/2012	$592,000	676m	Full transfer	3	1	-	4	-	$592,000	146	-	Allhomes Record	-	-	-	-	$450,000	0.76
+2013	403952	44 Selwyn Street	13/05/2013	04/07/2013	04/04/2013	$584,000	738m	Full transfer	3	1	0	1	0	$584,000	39	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.88
+2013	399621	13 Hedley Street	02/07/2013	-	16/04/2013	$582,000	769m	Full transfer	4	1	-	-	2	$582,000	77	-	Allhomes Record	189	-	-	-	$415,000	0.71
+2013	410441	13 Hedley Street	06/06/2013	09/09/2013	-	$580,000	769m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397997	21 Stanley Street	20/03/2013	15/05/2013	24/01/2013	$575,000	773m	Full transfer	3	1	-	-	1	$575,000	55	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.79
+2013	403084	27 Stanley Street	06/08/2013	-	07/05/2013	$574,000	746m	Full transfer	3	1	-	1	-	$574,000	91	-	Allhomes Record	-	-	-	-	$453,000	0.79
+2013	397647	13 Gilbert Street	20/03/2013	08/05/2013	27/02/2013	$570,000	720m	Full transfer	3	1	-	-	1	$570,000	21	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.83
+2013	411365	24 Mills Street	24/07/2013	15/10/2013	16/05/2013	$570,000	555m	Full transfer	3	1	-	1	-	$570,000	69	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.77
+2013	404041	59 Madigan Street	08/05/2013	10/07/2013	03/04/2013	$570,000	432m	Full transfer	3	1	-	1	1	$570,000	35	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.61
+2013	411602	9 Gilruth Street	30/08/2013	15/10/2013	04/07/2013	$567,500	675m	Full transfer	2	1	-	2	1	$567,500	57	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.73
+2013	397645	328 Antill Street	13/03/2013	08/05/2013	10/01/2013	$555,000	664m	Full transfer	3	1	-	1	-	$555,000	62	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.76
+2013	397991	            3/84 Grayson Street	25/03/2013	14/05/2013	-	$550,000	7340m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	403948	19 Caldwell Street	11/04/2013	03/07/2013	08/11/2012	$550,000	676m	Full transfer	3	1	-	-	1	$550,000	154	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.75
+2013	401697	54 Stanley Street	05/04/2013	21/05/2013	06/03/2013	$549,000	711m	Full transfer	3	1	-	1	1	$549,000	30	-	Combined Record	122	-	-	Single residential dwelling	$415,000	0.76
+2013	421292	86 Maitland Street	14/12/2013	26/02/2014	28/11/2013	$546,000	752m	Full transfer	3	1	0	1	1	$546,000	16	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.8
+2013	419418	4 Harris Street	07/12/2013	11/02/2014	13/11/2013	$541,000	682m	Full transfer	3	1	-	1	-	$541,000	24	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.84
+2013	406398	189 Phillip Avenue	27/03/2013	-	23/09/2013	$530,000	872m	Full transfer	4	1	0	1	0	$530,000	-	-	Allhomes Record	-	-	-	-	$367,000	0.69
+2013	397651	35 Madigan Street	06/03/2013	08/05/2013	12/02/2013	$525,000	767m	Full transfer	3	1	0	1	0	$525,000	22	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.84
+2013	397649	39 Rivett Street	20/03/2013	09/05/2013	07/11/2012	$525,000	664m	Full transfer	2	1	-	-	1	$525,000	133	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.86
+2013	406830	            11/84 Grayson Street	12/07/2013	27/08/2013	-	$455,000	7340m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	401143	104 Grayson Street	12/07/2013	-	06/06/2013	$455,000	-	Full transfer	2	1	-	-	1	$455,000	36	-	Allhomes Record	-	-	-	-	$2,006,000	4.41
+2013	411068	2/70 Madigan Street	23/07/2013	19/09/2013	25/06/2013	$395,000	2513m	Full transfer	2	1	-	1	-	$395,000	28	-	Combined Record	86	-	-	Multiple unit dwelling	-	-
+2013	405052	1/127 Madigan Street	16/06/2013	30/07/2013	-	$305,000	3717m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395355	5/127 Rivett Street	04/03/2013	17/04/2013	15/01/2013	$280,000	2417m	Full transfer	2	1	-	0	1	$280,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	$2,514,000	8.98
+2013	405053	3/133 Rivett Street	18/06/2013	30/07/2013	-	$270,000	2417m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406391	21/127 Madigan Street	20/09/2013	-	21/02/2013	$261,000	3717m	Full transfer	1	1	-	-	-	$261,000	211	-	Allhomes Record	45	-	-	-	$3,479,000	13.33
+2013	428232	7 Hull Place	16/08/2013	22/05/2014	-	$0	1043m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	423235	75 Mackenzie Street	10/12/2013	19/03/2014	10/07/2013	$0	1676m	Full transfer	3	1	-	1	-	$0	153	-	Combined Record	-	-	-	Single residential dwelling	$637,000	13.33
+2013	411070	22 Caldwell Street	20/04/2013	18/09/2013	-	$0	705m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411601	14 Mills Place	24/01/2013	18/10/2013	-	$0	1030m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415616	12 Caldwell Street	10/08/2013	12/12/2013	-	$0	750m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415162	40 Russell Street	02/08/2013	04/12/2013	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	402724	8 Richards Street	19/05/2013	25/06/2013	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	458958	213 Phillip Avenue	28/12/2013	04/08/2015	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406641	27 Stanley Street	02/04/2013	21/08/2013	-	$0	746m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411604	11 Brennan Street	13/08/2013	15/10/2013	-	$0	1284m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428585	13 Stanley Street	31/10/2013	05/06/2014	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417776	38 Selwyn Street	05/12/2013	13/01/2014	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406983	17 Richards Street	12/07/2013	14/08/2013	-	$0	1007m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	468160	332 Antill Street	21/11/2013	15/12/2015	-	$0	664m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406833	42 Newton Street	21/02/2013	29/08/2013	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427619	6 Hedley Street	16/12/2013	01/05/2014	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	434359	3 Hull Place	06/11/2013	02/09/2014	-	$0	917m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417101	67 Mackenzie Street	18/10/2013	23/12/2013	-	$0	951m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421065	23 Richards Street	30/09/2013	13/03/2014	-	$0	874m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397992	10 Verco Street	06/02/2013	13/05/2013	-	$0	1084m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420091	11 Stanley Street	20/12/2013	07/02/2014	-	$0	741m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413323	1 Stanley Street	18/09/2013	08/11/2013	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419420	7 Rivett Street	19/07/2013	13/02/2014	-	$0	664m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413038	26 French Street	01/09/2013	01/11/2013	-	$0	690m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427620	13/70 Madigan Street	18/01/2013	01/05/2014	-	$0	2513m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429772	26 Jukes Street	29/03/2014	25/06/2014	26/02/2014	$1,370,000	1389m	Full transfer	6	4	1	3	2	$1,370,000	31	-	Combined Record	-	-	-	Single residential dwelling	$718,000	0.52
+2014	448776	81 Mackenzie Street	30/10/2014	23/03/2015	02/10/2014	$1,207,000	1183m	Full transfer	6	3	0	2	0	$1,207,000	28	-	Combined Record	-	-	-	Single residential dwelling	$584,000	0.48
+2014	431107	4 Selwyn Street	05/04/2014	16/07/2014	04/07/2014	$1,160,000	1277m	Full transfer	5	3	-	2	0	$1,160,000	-	-	Combined Record	-	-	-	Single residential dwelling	$611,000	0.53
+2014	437536	19 Dunlop Street	18/07/2014	13/10/2014	20/03/2014	$915,000	791m	Full transfer	5	2	1	2	-	$915,000	120	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.53
+2014	445078	13 Brennan Street	11/11/2014	03/02/2015	19/08/2014	$870,000	1285m	Full transfer	5	3	-	4	-	$870,000	84	-	Combined Record	-	-	-	Single residential dwelling	$602,000	0.69
+2014	424316	10 Steele Street	10/02/2014	09/04/2014	22/10/2013	$870,000	808m	Full transfer	3	1	1	2	-	$870,000	111	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.52
+2014	442187	17 Jukes Street	13/10/2014	18/12/2014	28/08/2014	$835,000	1047m	Full transfer	4	2	-	2	-	$835,000	46	-	Combined Record	-	-	-	Single residential dwelling	$615,000	0.74
+2014	424314	83 Rivett Street	25/02/2014	08/04/2014	29/01/2014	$830,500	906m	Full transfer	4	2	-	2	-	$830,500	27	-	Combined Record	-	-	-	Single residential dwelling	$559,000	0.67
+2014	428233	112 Rivett Street	19/03/2014	20/05/2014	06/12/2013	$795,000	727m	Full transfer	5	2	0	2	0	$795,000	103	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.61
+2014	430266	30 French Street	02/07/2014	08/07/2014	30/04/2014	$780,000	854m	Full transfer	3	1	1	-	2	$780,000	63	-	Combined Record	-	-	-	Single residential dwelling	$512,000	0.66
+2014	423233	8 Gilruth Street	05/02/2014	19/03/2014	13/11/2013	$777,000	959m	Full transfer	4	1	1	2	-	$777,000	84	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.63
+2014	424572	3 Caldwell Street	07/02/2014	01/04/2014	17/10/2013	$760,000	706m	Full transfer	4	1	1	-	1	$760,000	113	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.55
+2014	426479	17 Gilruth Street	04/04/2014	09/05/2014	05/03/2014	$760,000	782m	Full transfer	4	1	1	1	1	$760,000	30	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.59
+2014	446369	23 Hedley Street	19/12/2014	17/02/2015	-	$750,000	774m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441632	8 Richards Street	01/10/2014	12/12/2014	04/09/2014	$741,000	764m	Full transfer	5	3	-	3	0	$741,000	27	-	Combined Record	-	-	-	Single residential dwelling	$512,000	0.69
+2014	438955	27 Selwyn Street	01/05/2014	06/11/2014	-	$715,000	963m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440533	8 Dunlop Street	13/12/2014	-	20/11/2014	$710,000	890m	Full transfer	4	2	1	1	1	$710,000	23	-	Allhomes Record	-	-	-	-	$512,000	0.72
+2014	427149	8 Mills Place	09/04/2014	13/05/2014	02/04/2014	$682,000	731m	Full transfer	3	1	1	-	-	$682,000	7	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.67
+2014	431565	17 Hedley Street	04/06/2014	23/07/2014	15/05/2014	$675,000	677m	Full transfer	4	1	1	-	1	$675,000	20	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.64
+2014	436168	76 Maitland Street	08/08/2014	22/09/2014	16/07/2014	$675,000	697m	Full transfer	4	1	-	1	-	$675,000	23	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.64
+2014	434360	1 Dunlop Street	02/08/2014	05/09/2014	10/07/2014	$670,000	797m	Full transfer	4	1	-	2	0	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.73
+2014	437886	38 Newton Street	08/08/2014	22/10/2014	05/05/2014	$661,000	716m	Full transfer	3	1	1	1	-	$661,000	95	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.65
+2014	446777	7 Steele Street	13/12/2014	10/02/2015	03/12/2014	$659,000	669m	Full transfer	3	1	-	4	0	$659,000	10	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.65
+2014	437883	5 Dunlop Street	12/09/2014	22/10/2014	22/08/2014	$650,000	746m	Full transfer	3	1	-	2	-	$650,000	21	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.75
+2014	443788	142 Mackenzie Street	25/11/2014	15/01/2015	30/07/2014	$650,000	665m	Full transfer	4	2	-	1	2	$650,000	118	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.63
+2014	446775	4 Newton Street	05/12/2014	10/02/2015	13/11/2014	$650,000	921m	Full transfer	3	1	1	1	-	$650,000	22	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.69
+2014	440332	226 Antill Street	16/10/2014	20/11/2014	20/08/2014	$650,000	851m	Full transfer	4	2	-	1	-	$650,000	57	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.64
+2014	424242	24 French Street	10/02/2014	16/04/2014	31/10/2013	$645,000	776m	Full transfer	3	1	-	1	-	$645,000	102	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.76
+2014	429015	4 Rivett Street	14/03/2014	11/06/2014	21/11/2013	$645,000	692m	Full transfer	4	1	-	-	1	$645,000	113	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.67
+2014	427151	5 Maitland Street	09/04/2014	15/05/2014	20/03/2014	$645,000	756m	Full transfer	3	1	0	1	0	$645,000	20	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.63
+2014	432974	51 Gilbert Street	03/07/2014	15/08/2014	11/06/2014	$620,730	687m	Full transfer	3	1	-	1	-	$620,730	22	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.76
+2014	434895	74 Rivett Street	21/07/2014	12/09/2014	11/06/2014	$615,000	668m	Full transfer	3	1	-	1	1	$615,000	40	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.76
+2014	432976	223 Phillip Avenue	27/06/2014	14/08/2014	-	$610,000	694m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434010	37 Rivett Street	18/07/2014	29/08/2014	25/06/2014	$600,000	664m	Full transfer	4	1	-	1	2	$600,000	23	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.78
+2014	432455	2 Harris Street	30/06/2014	07/08/2014	11/06/2014	$595,000	746m	Full transfer	4	2	-	0	0	$595,000	19	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.82
+2014	442185	25 Haddon Street	04/10/2014	17/12/2014	30/10/2014	$591,500	675m	Full transfer	3	1	0	2	0	$591,500	-	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.76
+2014	438956	22 Caldwell Street	23/08/2014	07/11/2014	30/07/2014	$589,000	705m	Full transfer	3	1	-	2	-	$589,000	24	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.73
+2014	442435	264 Antill Street	12/11/2014	02/01/2015	16/10/2014	$560,000	494m	Full transfer	3	1	-	-	1	$560,000	27	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.6
+2014	430669	48 Stanley Street	04/06/2014	03/07/2014	10/04/2014	$550,000	688m	Full transfer	3	1	-	-	1	$550,000	55	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.78
+2014	443787	4 Mills Street	29/05/2014	15/01/2015	-	$550,000	656m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423238	3 Rivett Street	30/01/2014	19/03/2014	20/11/2013	$530,000	583m	Full transfer	3	1	0	1	0	$530,000	71	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.69
+2014	441635	7 Rivett Street	30/10/2014	10/12/2014	27/08/2014	$522,500	664m	Full transfer	3	1	-	1	-	$522,500	64	-	Combined Record	93	-	-	Single residential dwelling	$412,000	0.79
+2014	430665	22 Gilruth Street	12/05/2014	02/07/2014	-	$505,000	639m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440842	34 Grayson Street	22/12/2014	-	26/11/2014	$500,000	-	Full transfer	2	1	-	1	-	$500,000	26	-	Allhomes Record	-	-	-	-	$1,764,000	3.53
+2014	445080	            2/34 Grayson Street	22/12/2014	06/02/2015	-	$500,000	6517m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446372	2/14 Harris Street	20/12/2014	18/02/2015	25/11/2014	$460,000	748m	Full transfer	2	1	-	2	-	$460,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	$487,000	1.06
+2014	429011	7 Tryon Street	14/04/2014	11/06/2014	19/02/2014	$416,000	258m	Full transfer	3	2	-	1	0	$416,000	54	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.81
+2014	430667	13/70 Madigan Street	26/03/2014	03/07/2014	19/02/2014	$370,000	2513m	Full transfer	2	1	-	1	-	$370,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	$2,675,000	7.23
+2014	436166	2/48 Madigan Street	07/08/2014	23/09/2014	-	$355,000	1706m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426481	10 Hackett Place	03/04/2014	07/05/2014	-	$300,000	167m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2014	436772	19/127 Madigan Street	03/09/2014	07/10/2014	14/05/2014	$285,000	3717m	Full transfer	2	1	-	1	0	$285,000	112	-	Combined Record	-	-	-	Multiple unit dwelling	$3,653,000	12.82
+2014	428583	27/127 Madigan Street	15/04/2014	03/06/2014	29/11/2013	$250,000	3717m	Full transfer	1	1	-	0	0	$250,000	137	-	Combined Record	-	-	-	Multiple unit dwelling	$3,653,000	14.61
+2014	429013	8/127 Madigan Street	16/05/2014	10/06/2014	21/03/2014	$245,000	3717m	Full transfer	1	1	-	-	-	$245,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	$3,653,000	14.91
+2014	435701	14/127 Rivett Street	06/08/2014	15/09/2014	-	$240,000	2417m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	477119	120 Mackenzie Street	10/09/2014	02/05/2016	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431567	226 Antill Street	18/04/2014	23/07/2014	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	461492	7 Dunn Place	15/11/2014	07/09/2015	-	$0	1033m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432973	114 Mackenzie Street	18/03/2014	12/08/2014	-	$0	915m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440335	7 Steele Street	27/08/2014	20/11/2014	-	$0	669m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	449309	57 Gilbert Street	24/04/2014	01/04/2015	-	$0	666m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432135	74 Rivett Street	25/01/2014	30/07/2014	-	$0	668m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438954	9 Grayson Street	10/10/2014	07/11/2014	-	$0	890m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443774	12 Steele Street	20/09/2014	23/01/2015	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430666	13 French Street	26/05/2014	03/07/2014	-	$0	900m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436167	22 Caldwell Street	15/08/2014	23/09/2014	-	$0	705m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436165	27 Richards Street	19/01/2014	25/09/2014	-	$0	1210m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440334	2/14 Harris Street	14/09/2014	20/11/2014	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	450308	31 Maitland Street	15/12/2014	15/04/2015	-	$0	739m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	452820	            7/130 Grayson Street	29/12/2014	13/05/2015	-	$0	7784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441634	4 Newton Street	19/07/2014	09/12/2014	-	$0	921m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423240	80 Maitland Street	29/01/2014	19/03/2014	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	445081	44 Mills Street	28/08/2014	03/02/2015	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442909	185 Phillip Avenue	10/08/2014	08/01/2015	-	$0	720m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430265	7 Dunlop Street	26/01/2014	07/07/2014	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437885	292 Antill Street	20/04/2014	24/10/2014	-	$0	683m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441631	26 Bragg Street	30/09/2014	10/12/2014	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443773	33 Richards Street	04/06/2014	19/01/2015	-	$0	995m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442908	1 Caldwell Street	20/09/2014	08/01/2015	-	$0	676m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434897	7 Newton Street	29/07/2014	09/09/2014	-	$0	647m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	461515	87 Rivett Street	16/01/2014	13/09/2015	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464430	75-77 Madigan Street	19/11/2015	-	15/10/2015	$3,801,000	2260m	Full transfer	-	-	-	-	-	$3,801,000	35	-	Allhomes Record	-	-	-	-	$2,286,000	0.6
+2015	468714	4 Dunlop Street	14/10/2015	07/01/2016	07/09/2015	$996,114	1228m	Full transfer	5	2	1	-	4	$996,114	37	-	Combined Record	-	-	-	Single residential dwelling	$617,000	0.62
+2015	472326	3 Newton Street	23/12/2015	24/02/2016	25/11/2015	$990,000	731m	Full transfer	4	3	-	2	0	$990,000	28	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.45
+2015	463101	11 Brennan Street	15/08/2015	08/10/2015	24/07/2015	$980,000	1284m	Full transfer	4	2	-	0	2	$980,000	22	-	Combined Record	-	-	-	Single residential dwelling	$617,000	0.63
+2015	467797	13 French Street	10/10/2015	22/12/2015	15/09/2015	$980,000	900m	Full transfer	4	1	-	-	-	$980,000	25	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.54
+2015	473076	60 Rivett Street	24/10/2015	01/03/2016	01/10/2015	$950,000	846m	Full transfer	3	1	-	0	2	$950,000	23	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.55
+2015	446370	96 Rivett Street	09/01/2015	18/02/2015	14/11/2014	$950,000	944m	Full transfer	4	1	1	2	0	$950,000	56	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.58
+2015	464825	51 Rivett Street	29/09/2015	21/10/2015	-	$950,000	842m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466988	42 Rivett Street	18/08/2015	04/12/2015	-	$905,000	956m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458709	7 Dunn Place	22/08/2015	-	27/07/2015	$880,000	1033m	Full transfer	4	1	1	1	2	$880,000	26	-	Allhomes Record	130	-	-	-	$501,000	0.57
+2015	454313	57 Gilbert Street	21/03/2015	11/06/2015	19/02/2015	$852,000	666m	Full transfer	4	1	1	1	-	$852,000	30	-	Combined Record	-	-	-	Single residential dwelling	$482,000	0.57
+2015	457437	22 Gilruth Street	05/06/2015	10/07/2015	10/03/2015	$825,000	639m	Full transfer	4	1	1	3	1	$825,000	87	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.55
+2015	451034	33 Richards Street	18/03/2015	01/05/2015	-	$817,000	995m	Full transfer	-	-	-	-	-	$817,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	454877	33 Richards Street	11/04/2015	-	10/02/2015	$817,000	995m	Full transfer	3	1	-	1	1	$817,000	60	-	Allhomes Record	-	-	-	-	$573,000	0.7
+2015	473396	10 Gilbert Street	26/11/2015	16/03/2016	12/11/2015	$812,000	719m	Full transfer	3	1	-	1	-	$812,000	14	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.61
+2015	457002	            2/22 Stanley Street	08/04/2015	26/06/2015	-	$810,000	827m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468716	24 Harris Street	13/11/2015	06/01/2016	-	$810,000	716m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448778	12 French Street	16/02/2015	23/03/2015	21/01/2015	$808,100	698m	Full transfer	4	2	-	2	-	$808,100	26	-	Combined Record	-	-	-	Single residential dwelling	$482,000	0.6
+2015	449085	22A Stanley Street	08/04/2015	-	19/11/2014	$800,000	-	Full transfer	3	1	1	2	-	$800,000	140	-	Allhomes Record	-	-	-	-	$500,000	0.63
+2015	452524	            1/22 Stanley Street	31/03/2015	19/05/2015	-	$800,000	827m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448493	22 Stanley Street	31/03/2015	-	17/02/2015	$800,000	827m	Full transfer	3	1	1	2	-	$800,000	42	-	Allhomes Record	-	-	-	-	$500,000	0.63
+2015	451029	17 Dunlop Street	13/02/2015	27/04/2015	22/04/2014	$792,000	791m	Full transfer	5	1	-	-	2	$792,000	297	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.63
+2015	471612	5 Taylor Place	15/12/2015	15/02/2016	26/11/2015	$790,000	748m	Full transfer	4	1	1	0	2	$790,000	19	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.6
+2015	473086	18 Gilbert Street	24/12/2015	02/03/2016	23/10/2015	$785,000	932m	Full transfer	4	2	-	2	0	$785,000	62	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.7
+2015	452525	1 Dakin Place	20/03/2015	20/05/2015	05/03/2015	$783,000	769m	Full transfer	5	2	-	-	1	$783,000	15	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.57
+2015	462133	122 Mackenzie Street	15/05/2015	23/09/2015	-	$760,000	696m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451425	14 Gilruth Street	11/02/2015	23/04/2015	30/03/2015	$760,000	892m	Full transfer	3	1	-	2	0	$760,000	-	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.65
+2015	470804	94 Mackenzie Street	07/11/2015	08/02/2016	13/10/2015	$760,000	912m	Full transfer	4	1	1	1	2	$760,000	25	-	Combined Record	130	-	-	Single residential dwelling	$499,000	0.66
+2015	459834	60 Maitland Street	05/06/2015	18/08/2015	17/03/2015	$755,000	741m	Full transfer	4	1	-	1	1	$755,000	80	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.58
+2015	466374	5 Caldwell Street	13/10/2015	20/11/2015	07/09/2015	$753,377	722m	Full transfer	3	1	-	1	-	$753,377	36	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.6
+2015	465134	33 Rivett Street	19/08/2015	26/10/2015	03/08/2015	$750,060	664m	Full transfer	3	1	-	1	-	$750,060	16	-	Combined Record	-	-	-	Single residential dwelling	$482,000	0.64
+2015	455210	52 Stanley Street	23/04/2015	21/06/2015	30/03/2015	$730,000	688m	Full transfer	3	1	-	2	-	$730,000	24	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.62
+2015	471614	84 Rivett Street	27/11/2015	15/02/2016	18/11/2015	$715,000	829m	Full transfer	3	1	-	1	0	$715,000	9	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.73
+2015	457017	18 Mackenzie Street	24/03/2015	23/06/2015	09/06/2015	$711,000	557m	Full transfer	3	2	-	2	0	$711,000	-	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.55
+2015	467809	20 Caldwell Street	15/10/2015	21/12/2015	07/08/2015	$700,000	736m	Full transfer	3	1	-	0	2	$700,000	69	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.64
+2015	451421	136 Mackenzie Street	06/03/2015	23/04/2015	05/01/2015	$692,000	918m	Full transfer	3	1	-	3	-	$692,000	60	-	Combined Record	-	-	-	Single residential dwelling	$482,000	0.7
+2015	466876	2 Burrell Street	12/12/2015	-	19/11/2015	$689,000	0m	Full transfer	3	1	-	1	0	$689,000	23	-	Allhomes Record	-	-	-	-	$536,000	0.78
+2015	452824	15 Stanley Street	31/03/2015	17/05/2015	24/02/2015	$685,000	635m	Full transfer	4	1	-	-	2	$685,000	35	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.64
+2015	459822	16 Gilbert Street	09/05/2015	18/08/2015	02/04/2015	$680,000	800m	Full transfer	4	2	-	1	-	$680,000	37	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.77
+2015	464826	213 Phillip Avenue	15/08/2015	22/10/2015	15/07/2015	$670,000	748m	Full transfer	3	1	-	1	-	$670,000	31	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.61
+2015	447742	78 Maitland Street	23/01/2015	09/03/2015	10/11/2014	$670,000	694m	Full transfer	4	1	-	1	-	$670,000	74	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.67
+2015	465136	207 Phillip Avenue	09/09/2015	28/10/2015	13/08/2015	$665,000	694m	Full transfer	3	1	-	2	0	$665,000	27	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.6
+2015	469296	24 French Street	11/11/2015	11/01/2016	-	$650,000	776m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470806	4 Madigan Street	17/12/2015	11/02/2016	24/11/2015	$640,000	609m	Full transfer	3	1	-	-	1	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$367,000	0.57
+2015	448532	2 Burrell Street	01/04/2015	-	17/02/2015	$635,000	823m	Full transfer	3	1	-	-	1	$635,000	43	-	Allhomes Record	134	-	-	-	$536,000	0.84
+2015	452823	            2/2 Burrell Street	01/04/2015	13/05/2015	-	$635,000	823m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453422	7 Newton Street	09/04/2015	29/05/2015	19/11/2014	$630,000	647m	Full transfer	3	1	-	1	1	$630,000	141	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.71
+2015	462711	7 Mills Street	23/10/2015	-	06/10/2015	$630,000	676m	Full transfer	2	1	-	1	-	$630,000	17	-	Allhomes Record	-	-	-	-	$436,000	0.69
+2015	443775	22 Steele Street	09/01/2015	20/01/2015	13/11/2014	$613,000	740m	Full transfer	3	1	-	-	-	$613,000	57	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.68
+2015	447740	292 Antill Street	29/01/2015	13/03/2015	13/11/2014	$610,000	683m	Full transfer	3	1	-	1	-	$610,000	77	-	Combined Record	-	-	-	Single residential dwelling	$430,000	0.7
+2015	463109	238 Antill Street	18/07/2015	08/10/2015	25/06/2015	$610,000	634m	Full transfer	3	1	0	1	0	$610,000	23	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.72
+2015	451918	3 Rivett Street	18/03/2015	10/05/2015	26/02/2015	$567,500	583m	Full transfer	3	1	-	1	0	$567,500	20	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.66
+2015	449861	57 Madigan Street	27/02/2015	09/04/2015	04/02/2015	$565,000	433m	Full transfer	3	1	-	-	1	$565,000	23	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.59
+2015	457858	            11/34 Grayson Street	22/06/2015	17/07/2015	-	$555,000	6517m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	454476	52 Grayson Street	22/06/2015	-	27/05/2015	$555,000	6517m	Full transfer	3	1	1	2	-	$555,000	26	-	Allhomes Record	-	-	-	-	$1,764,000	3.18
+2015	452519	11 Newton Street	09/04/2015	20/05/2015	13/03/2015	$546,000	692m	Full transfer	2	1	-	1	-	$546,000	27	-	Combined Record	-	-	-	Single residential dwelling...	$450,000	0.82
+2015	470813	            4/24 Grayson Street	02/12/2015	10/02/2016	-	$525,500	6314m	Full transfer	-	-	-	-	-	$525,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466087	18 Grayson Street	03/12/2015	-	12/11/2015	$525,500	-	Full transfer	2	1	-	-	2	$525,500	21	-	Allhomes Record	-	-	-	-	$1,542,000	2.93
+2015	444347	22 Haddon Street	12/02/2015	-	02/02/2015	$523,000	404m	Full transfer	3	1	-	2	0	$523,000	10	-	Allhomes Record	-	-	-	-	$339,000	0.65
+2015	462524	124 Grayson Street	21/10/2015	-	18/09/2015	$518,000	-	Full transfer	2	1	-	1	-	$518,000	33	-	Allhomes Record	-	-	-	-	$1,764,000	3.41
+2015	468384	            4/130 Grayson Street	21/10/2015	21/12/2015	-	$518,000	7784m	Full transfer	-	-	-	-	-	$518,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	445750	44 Grayson Street	03/03/2015	-	04/02/2015	$485,000	-	Full transfer	2	1	-	2	-	$485,000	27	-	Allhomes Record	-	-	-	-	$1,764,000	3.64
+2015	450292	            7/34 Grayson Street	03/03/2015	14/04/2015	-	$485,000	6517m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	452523	29 Maitland Street	02/04/2015	21/05/2015	-	$485,000	723m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457867	55 Madigan Street	08/04/2015	17/07/2015	-	$480,000	432m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	453348	55 Madigan Street	12/06/2015	-	27/02/2015	$480,000	432m	Full transfer	3	1	-	-	-	$480,000	105	-	Allhomes Record	-	-	-	-	$336,000	0.7
+2015	463535	            10/84 Grayson Street	05/06/2015	12/10/2015	-	$476,000	7340m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451912	            11/84 Grayson Street	27/03/2015	10/05/2015	-	$463,500	7340m	Full transfer	-	-	-	-	-	$463,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453298	118 Grayson Street	11/06/2015	-	28/04/2015	$415,000	-	Full transfer	2	1	-	1	-	$415,000	44	-	Allhomes Record	-	-	-	-	$1,764,000	4.25
+2015	458467	            7/130 Grayson Street	11/06/2015	27/07/2015	-	$415,000	7784m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444361	10/11-13 Tryon Street	27/01/2015	-	31/07/2014	$260,000	-	Full transfer	2	1	-	-	1	$260,000	180	-	Allhomes Record	-	-	-	-	-	-
+2015	449847	10/11 Tryon Street	13/02/2015	10/04/2015	-	$260,000	2225m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457864	28/127 Madigan Street	20/05/2015	16/07/2015	16/12/2014	$230,000	3717m	Full transfer	1	1	0	0	0	$230,000	155	-	Combined Record	-	-	-	Multiple unit dwelling	$3,653,000	15.88
+2015	470062	14/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470058	5/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470066	6/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470072	11/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470067	4/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470071	13/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470068	2/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470070	15/75 Madigan Street	16/12/2015	03/02/2016	-	$223,878	2260m	Full transfer	-	-	-	-	-	$223,878	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470059	3/75 Madigan Street	16/12/2015	03/02/2016	-	$219,699	2260m	Full transfer	-	-	-	-	-	$219,699	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470074	10/75 Madigan Street	16/12/2015	03/02/2016	-	$219,699	2260m	Full transfer	-	-	-	-	-	$219,699	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470073	12/75 Madigan Street	16/12/2015	03/02/2016	-	$219,699	2260m	Full transfer	-	-	-	-	-	$219,699	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470083	1/75 Madigan Street	16/12/2015	03/02/2016	-	$219,699	2260m	Full transfer	-	-	-	-	-	$219,699	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463107	4/127 Madigan Street	13/08/2015	08/10/2015	07/07/2015	$215,000	3717m	Full transfer	1	1	-	-	1	$215,000	37	-	Combined Record	-	-	-	Multiple unit dwelling	$3,653,000	16.99
+2015	449323	8/11 Tryon Street	20/02/2015	02/04/2015	18/11/2014	$213,000	2225m	Full transfer	1	1	-	0	1	$213,000	94	-	Combined Record	-	-	-	Multiple unit dwelling	$2,514,000	11.8
+2015	468724	7/11 Tryon Street	13/11/2015	04/01/2016	-	$189,000	2225m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464347	7/11 Tyron Street	13/11/2015	-	30/07/2015	$189,000	0m	Full transfer	1	1	-	1	-	$189,000	106	-	Allhomes Record	-	-	-	-	$2,514,000	13.3
+2015	470065	8/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470069	17/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470061	16/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470060	18/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470056	9/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	470057	7/75 Madigan Street	16/12/2015	03/02/2016	-	$188,530	2260m	Full transfer	-	-	-	-	-	$188,530	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	492512	15/70 Madigan Street	19/11/2015	13/12/2016	-	$0	2513m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	474615	            8/24 Grayson Street	25/12/2015	05/04/2016	-	$0	6314m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463100	52 Russell Street	03/06/2015	09/10/2015	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461513	107 Rivett Street	17/07/2015	13/09/2015	30/06/2015	$0	786m	Full transfer	3	1	-	1	-	$0	17	-	Combined Record	-	-	-	Single residential dwelling	$499,000	13.3
+2015	455209	12 Jukes Street	21/04/2015	19/06/2015	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474623	            2/2 Burrell Street	12/12/2015	05/04/2016	-	$0	823m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	473084	22 Brennan Street	09/09/2015	02/03/2016	-	$0	798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470240	18 Gilbert Street	23/02/2015	20/01/2016	-	$0	932m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	489012	322 Antill Street	15/06/2015	24/10/2016	-	$0	943m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466694	61 Madigan Street	23/10/2015	23/11/2015	-	$0	433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	450309	6 Selwyn Street	11/02/2015	15/04/2015	-	$0	1292m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	491321	7 Brennan Street	05/06/2015	24/11/2016	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459225	238 Antill Street	24/04/2015	13/08/2015	-	$0	634m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452821	13 Selwyn Street	21/03/2015	17/05/2015	25/02/2015	$0	790m	Full transfer	4	3	-	2	0	$0	24	-	Combined Record	-	-	-	Single residential dwelling	$499,000	13.3
+2015	457445	20 Caldwell Street	02/05/2015	08/07/2015	-	$0	736m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	488106	95 Rivett Street	15/07/2015	11/10/2016	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468377	1 Selwyn Street	27/11/2015	21/12/2015	-	$0	935m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487510	6 Selwyn Street	02/06/2015	27/09/2016	-	$0	1292m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457866	15 Madigan Street	23/02/2015	17/07/2015	-	$0	740m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465339	9/70 Madigan Street	14/09/2015	02/11/2015	-	$0	2513m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460234	95 Rivett Street	10/06/2015	27/08/2015	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465126	33 Russell Street	23/02/2015	27/10/2015	-	$0	1013m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493999	14 Verco Street	24/09/2016	22/12/2016	01/09/2016	$1,300,000	1152m	Full transfer	4	1	2	2	1	$1,300,000	23	-	Combined Record	-	-	-	Single residential dwelling	$661,000	0.51
+2016	503291	85 Mackenzie Street	10/12/2016	05/04/2017	17/11/2016	$1,207,000	1272m	Full transfer	6	3	0	1	0	$1,207,000	23	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.54
+2016	497161	15 Mackenzie Street	25/10/2016	08/02/2017	-	$1,175,000	689m	Full transfer	-	-	-	-	-	$1,175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500091	63 Rivett Street	20/12/2016	08/03/2017	07/10/2016	$1,095,000	998m	Full transfer	4	1	-	1	-	$1,095,000	74	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.55
+2016	482475	37 Russell Street	01/04/2016	26/07/2016	10/03/2016	$1,085,000	982m	Full transfer	4	1	1	1	1	$1,085,000	22	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.53
+2016	493738	14 Brennan Street	05/11/2016	22/12/2016	13/10/2016	$1,040,000	820m	Full transfer	4	2	1	4	0	$1,040,000	23	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.53
+2016	495481	101 Madigan Street	05/11/2016	03/02/2017	13/10/2016	$955,000	711m	Full transfer	3	2	-	2	0	$955,000	23	-	Combined Record	-	-	-	Single residential dwelling	$426,000	0.45
+2016	487883	14 Bragg Street	07/04/2016	14/10/2016	21/03/2016	$926,400	855m	Full transfer	4	1	1	1	-	$926,400	17	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.59
+2016	486215	72 Rivett Street	01/07/2016	06/09/2016	10/03/2016	$920,500	681m	Full transfer	3	1	1	-	-	$920,500	113	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.55
+2016	472124	5 Hull Place	15/03/2016	-	18/02/2016	$910,000	1130m	Full transfer	3	2	-	3	-	$910,000	26	-	Allhomes Record	-	-	-	-	$575,000	0.63
+2016	497708	30 Brennan Street	19/11/2016	22/02/2017	27/10/2016	$905,000	788m	Partial transfer	3	1	-	0	2	$905,000	23	-	Combined Record	-	-	-	Single residential dwelling	$523,000	0.58
+2016	490435	10 Verco Street	01/12/2016	-	17/10/2016	$900,000	1081m	Full transfer	-	-	-	-	-	$900,000	45	-	Allhomes Record	-	-	-	-	$588,000	0.65
+2016	490846	33 Russell Street	26/08/2016	16/11/2016	21/08/2016	$900,000	1013m	Full transfer	3	1	-	1	1	$900,000	5	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.7
+2016	492403	14 Steele Street	22/10/2016	12/12/2016	-	$900,000	727m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	480030	2 Kenny Place	16/04/2016	22/06/2016	30/03/2016	$865,000	753m	Full transfer	3	3	-	2	0	$865,000	17	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.58
+2016	497242	13 Maitland Street	16/11/2016	09/02/2017	20/10/2016	$865,000	812m	Full transfer	3	1	-	2	0	$865,000	27	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.55
+2016	483498	11 Grayson Street	09/06/2016	05/08/2016	-	$850,000	869m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489309	55 Gilbert Street	02/09/2016	17/10/2016	-	$830,000	687m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491349	6 Tryon Street	26/08/2016	22/11/2016	17/08/2016	$830,000	717m	Full transfer	3	1	-	0	0	$830,000	9	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.6
+2016	477129	55 Rivett Street	03/03/2016	05/05/2016	25/02/2016	$820,000	894m	Full transfer	3	1	-	2	1	$820,000	7	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.67
+2016	483456	22 Brennan Street	08/06/2016	02/08/2016	28/04/2016	$820,000	798m	Full transfer	4	2	0	2	0	$820,000	41	-	Combined Record	-	-	-	Single residential dwelling	$523,000	0.64
+2016	483442	24 Madigan Street	07/05/2016	04/08/2016	14/04/2016	$812,500	751m	Full transfer	5	2	-	0	2	$812,500	23	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.52
+2016	490356	17 Steele Street	11/08/2016	02/11/2016	28/07/2016	$807,000	714m	Full transfer	4	1	-	0	1	$807,000	14	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.63
+2016	482462	28 Rivett Street	30/04/2016	26/07/2016	07/04/2016	$785,000	733m	Full transfer	3	1	-	0	1	$785,000	23	-	Combined Record	-	-	-	Single residential dwelling	$523,000	0.67
+2016	495025	19 Madigan Street	15/11/2016	13/01/2017	13/10/2016	$780,000	740m	Full transfer	3	1	-	0	0	$780,000	33	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.58
+2016	479520	48 Rivett Street	21/03/2016	07/06/2016	03/02/2016	$775,000	885m	Full transfer	3	2	-	1	1	$775,000	47	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.71
+2016	490450	48 Russell Street	01/12/2016	-	17/10/2016	$760,000	834m	Full transfer	-	-	-	-	-	$760,000	45	-	Allhomes Record	-	-	-	-	$512,000	0.67
+2016	496984	38 Mills Street	13/09/2016	07/02/2017	01/09/2016	$760,000	748m	Full transfer	3	1	-	3	2	$760,000	12	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.63
+2016	495256	13 Caldwell Street	25/11/2016	18/01/2017	08/11/2016	$753,500	779m	Full transfer	4	1	-	-	2	$753,500	17	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.73
+2016	498377	209 Phillip Avenue	17/12/2016	17/02/2017	16/01/2017	$750,000	694m	Full transfer	3	1	-	2	0	$750,000	-	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.57
+2016	484638	193 Phillip Avenue	25/05/2016	16/08/2016	28/04/2016	$725,500	760m	Full transfer	3	1	-	2	1	$725,500	27	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.57
+2016	495495	27 Haddon Street	26/11/2016	30/01/2017	03/11/2016	$705,000	675m	Full transfer	3	1	-	0	1	$705,000	23	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.67
+2016	491747	7 Dunlop Street	17/09/2016	28/11/2016	16/08/2016	$685,000	810m	Full transfer	3	1	-	1	-	$685,000	32	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.8
+2016	480032	21 Gilbert Street	05/03/2016	21/06/2016	09/02/2016	$675,000	690m	Full transfer	3	1	-	1	-	$675,000	25	-	Combined Record	94	-	-	Single residential dwelling	$505,000	0.75
+2016	491505	59 Madigan Street	22/09/2016	22/11/2016	11/08/2016	$670,000	432m	Full transfer	3	1	-	1	0	$670,000	42	-	Combined Record	-	-	-	Single residential dwelling	$353,000	0.53
+2016	477427	7/70 Madigan Street	30/05/2016	-	08/04/2016	$650,000	2513m	Full transfer	3	1	1	2	-	$650,000	52	-	Allhomes Record	-	-	-	-	-	-
+2016	488625	7 Bragg Street	03/11/2016	-	23/09/2016	$650,000	714m	Full transfer	-	-	-	-	-	$650,000	41	-	Allhomes Record	-	-	-	-	$487,000	0.75
+2016	475387	8 Taylor Place	17/02/2016	15/04/2016	20/01/2016	$645,000	763m	Full transfer	4	2	-	-	1	$645,000	28	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.78
+2016	473078	32 Newton Street	18/01/2016	01/03/2016	29/10/2015	$640,000	770m	Full transfer	3	1	-	1	-	$640,000	81	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.76
+2016	493217	46 Stanley Street	20/08/2016	08/12/2016	12/07/2016	$632,000	688m	Full transfer	3	1	-	2	-	$632,000	39	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.77
+2016	496718	36 Mills Street	08/11/2016	-	23/09/2016	$625,000	746m	Full transfer	-	-	-	-	-	$625,000	46	-	Allhomes Record	-	-	-	-	$457,000	0.73
+2016	478788	45 Madigan Street	06/04/2016	24/05/2016	-	$620,000	459m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	501052	            9/84 Grayson Street	08/06/2016	28/03/2017	-	$486,000	7340m	Full transfer	-	-	-	-	-	$486,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474987	16 Grayson Street	04/05/2016	-	23/03/2016	$479,000	0m	Full transfer	2	1	-	2	0	$479,000	42	-	Allhomes Record	-	-	-	-	$1,542,000	3.22
+2016	493050	            15/133 Rivett Street	17/10/2016	09/12/2016	-	$310,000	2417m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487688	15/131 Rivett Street	17/10/2016	-	20/08/2015	$310,000	2417m	Full transfer	2	1	-	1	-	$310,000	424	-	Allhomes Record	50	-	-	-	$2,514,000	8.11
+2016	497849	6/11 Tryon Street	29/11/2016	21/02/2017	04/11/2016	$263,000	2225m	Full transfer	2	1	-	1	-	$263,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	475393	13/11 Tryon Street	02/02/2016	12/04/2016	25/11/2015	$239,000	2225m	Full transfer	2	1	-	0	1	$239,000	69	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	474818	12/127 Rivett Street	27/04/2016	-	01/10/2014	$222,500	2417m	Full transfer	1	1	-	-	-	$222,500	574	-	Allhomes Record	-	-	-	-	$2,514,000	11.3
+2016	493121	95 Rivett Street	13/10/2016	07/12/2016	-	$202,500	845m	Full transfer	-	-	-	-	-	$202,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486486	1/127 Rivett Street	29/06/2016	12/09/2016	-	$199,000	2417m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	489238	17/11 Tryon Street	06/09/2016	18/10/2016	-	$195,000	2225m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484051	17/11 Tryon Street	16/09/2016	-	17/07/2016	$195,000	2225m	Full transfer	1	1	-	-	1	$195,000	61	-	Allhomes Record	-	-	-	-	$2,514,000	12.89
+2016	497534	13/127 Madigan Street	29/11/2016	23/02/2017	-	$179,000	3717m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	477633	6 Rivett Street	23/03/2016	12/05/2016	-	$675	749m	Full transfer	-	-	-	-	-	$675	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477612	10 Mackenzie Street	02/03/2016	10/05/2016	-	$0	258m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	480236	134 Mackenzie Street	28/04/2016	15/06/2016	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484797	            11/130 Grayson Street	09/03/2016	24/08/2016	-	$0	7784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	543884	            3/130 Grayson Street	09/03/2016	11/10/2018	-	$0	7784m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486787	133 Mackenzie Street	19/02/2016	13/09/2016	-	$0	1025m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483308	11 Madigan Street	23/04/2016	04/08/2016	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	505094	11 Bragg Street	25/03/2016	05/05/2017	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503349	8 Mackenzie Street	03/10/2016	07/04/2017	-	$0	258m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	512061	96 Mackenzie Street	08/10/2016	19/05/2017	-	$0	680m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492792	30 Brennan Street	09/05/2016	16/12/2016	-	$0	788m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515410	19 Gilruth Street	12/08/2016	10/07/2017	-	$0	685m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	518904	17/127 Madigan Street	23/08/2016	12/09/2017	-	$0	3717m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487468	27 Grayson Street	08/07/2016	29/09/2016	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489514	6 Prell Place	28/07/2016	17/10/2016	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	516845	26 Harris Street	27/07/2016	31/07/2017	-	$0	745m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488046	3 Bragg Street	01/08/2016	14/10/2016	-	$0	712m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497581	46 Maitland Street	05/12/2016	24/02/2017	-	$0	584m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489383	46 Stanley Street	02/07/2016	21/10/2016	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513706	217 Phillip Avenue	16/12/2016	30/05/2017	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482238	12 Dunlop Street	07/07/2016	22/07/2016	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481053	14 Maitland Street	06/05/2016	08/07/2016	07/04/2016	$0	711m	Full transfer	3	1	-	-	1	$0	29	-	Combined Record	-	-	-	Single residential dwelling	$471,000	12.89
+2016	483009	43 Russell Street	16/06/2016	08/08/2016	-	$0	827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488908	13 Mackenzie Street	14/02/2016	25/10/2016	-	$0	654m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497905	12 Dunlop Street	10/11/2016	22/02/2017	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503496	38 Rivett Street	08/02/2017	05/04/2017	05/11/2016	$1,600,000	1230m	Full transfer	5	2	1	4	-	$1,600,000	95	-	Combined Record	385	-	-	Single residential dwelling	$741,000	0.46
+2017	518821	4 Verco Street	05/08/2017	12/09/2017	12/07/2017	$1,260,000	987m	Full transfer	5	2	-	2	0	$1,260,000	24	-	Combined Record	-	-	-	Single residential dwelling	$676,000	0.54
+2017	502465	69 Mackenzie Street	11/02/2017	18/04/2017	18/01/2017	$1,246,000	1301m	Full transfer	5	3	1	2	-	$1,246,000	24	-	Combined Record	-	-	-	Single residential dwelling	$767,000	0.62
+2017	521984	35 Rivett Street	23/08/2017	04/01/2018	17/08/2017	$1,225,000	664m	Full transfer	4	2	-	3	1	$1,225,000	6	-	Combined Record	-	-	-	Single residential dwelling	$569,000	0.46
+2017	516509	10 Steele Street	02/06/2017	08/08/2017	22/05/2017	$1,156,000	808m	Full transfer	3	2	-	2	2	$1,156,000	11	-	Combined Record	-	-	-	Single residential dwelling	$577,000	0.5
+2017	521532	5 Verco Street	15/09/2017	21/12/2017	02/08/2017	$1,100,000	652m	Full transfer	3	2	-	2	0	$1,100,000	44	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.54
+2017	507277	4 Brennan Street	21/08/2017	-	27/07/2017	$1,060,000	958m	Full transfer	4	1	-	2	0	$1,060,000	25	-	Allhomes Record	-	-	-	-	$648,000	0.61
+2017	515587	4 French Street	27/05/2017	19/07/2017	04/05/2017	$1,055,000	782m	Full transfer	4	2	-	1	1	$1,055,000	23	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.56
+2017	528248	6 Dunn Place	11/11/2017	25/03/2018	11/10/2017	$1,050,000	1182m	Full transfer	4	1	-	1	3	$1,050,000	31	-	Combined Record	-	-	-	Single residential dwelling	$648,000	0.62
+2017	527001	7 Harris Place	22/11/2017	05/03/2018	03/11/2017	$1,025,000	792m	Full transfer	4	2	-	1	0	$1,025,000	19	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.58
+2017	526224	10 Verco Street	04/12/2017	27/02/2018	-	$1,010,000	1084m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522427	23 Brennan Street	11/12/2017	11/12/2017	-	$1,010,000	974m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507032	23 Brennan Street	10/08/2017	-	23/06/2017	$1,010,000	973m	Full transfer	-	-	-	-	-	$1,010,000	48	-	Allhomes Record	-	-	-	-	$514,000	0.51
+2017	523848	230 Antill Street	14/10/2017	15/01/2018	21/09/2017	$985,000	693m	Full transfer	4	2	-	1	1	$985,000	23	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.55
+2017	508131	5 Jukes Street	23/09/2017	-	31/08/2017	$975,000	951m	Full transfer	3	2	-	1	1	$975,000	23	-	Allhomes Record	-	-	-	-	$684,000	0.7
+2017	505128	17 Dunlop Street	18/03/2017	03/05/2017	23/02/2017	$920,000	791m	Full transfer	5	1	-	0	0	$920,000	23	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.64
+2017	498785	10 Verco Street	01/03/2017	01/03/2017	-	$900,000	1084m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528047	4 Caldwell Street	18/11/2017	25/03/2018	26/10/2017	$892,500	728m	Full transfer	4	1	-	2	0	$892,500	23	-	Combined Record	-	-	-	Single residential dwelling	$534,000	0.6
+2017	504892	22 Selwyn Street	15/03/2017	05/05/2017	17/02/2017	$870,000	709m	Full transfer	5	2	-	2	0	$870,000	26	-	Combined Record	-	-	-	Single residential dwelling	$590,000	0.68
+2017	508956	9 Newton Street	28/10/2017	-	03/10/2017	$870,000	652m	Full transfer	3	1	-	1	0	$870,000	25	-	Allhomes Record	-	-	-	-	$550,000	0.63
+2017	520405	20 Hedley Street	26/08/2017	02/11/2017	27/07/2017	$870,000	698m	Full transfer	3	1	-	1	1	$870,000	30	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.63
+2017	508854	22 Harris Street	26/10/2017	-	30/06/2017	$865,000	695m	Full transfer	3	1	-	1	0	$865,000	118	-	Allhomes Record	-	-	-	-	$569,000	0.66
+2017	503856	28 Harris Street	25/02/2017	28/04/2017	02/02/2017	$854,000	851m	Full transfer	3	1	-	1	0	$854,000	23	-	Combined Record	-	-	-	Single residential dwelling	$620,000	0.73
+2017	513728	67 Mackenzie Street	02/06/2017	02/06/2017	-	$850,000	951m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509831	35 Caldwell Street	22/11/2017	-	16/11/2017	$850,000	746m	Full transfer	4	1	-	1	0	$850,000	6	-	Allhomes Record	-	-	-	-	$577,000	0.68
+2017	499424	67 Mackenzie Street	30/03/2017	-	20/02/2017	$850,000	948m	Full transfer	-	-	-	-	-	$850,000	38	-	Allhomes Record	-	-	-	-	$532,000	0.63
+2017	512108	87 Rivett Street	17/05/2017	17/05/2017	-	$845,000	906m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498538	87 Rivett Street	16/03/2017	-	23/02/2017	$845,000	904m	Full transfer	-	-	-	-	-	$845,000	21	-	Allhomes Record	-	-	-	-	$760,000	0.9
+2017	499277	11 Bragg Street	25/03/2017	-	02/03/2017	$832,500	0m	Full transfer	3	1	-	2	0	$832,500	23	-	Allhomes Record	-	-	-	-	$590,000	0.71
+2017	507031	2 Bragg Street	10/08/2017	-	23/06/2017	$830,000	837m	Full transfer	-	-	-	-	-	$830,000	48	-	Allhomes Record	-	-	-	-	$620,000	0.75
+2017	519137	2 Bragg Street	11/10/2017	11/10/2017	-	$830,000	837m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522309	22 Harris Street	31/08/2017	12/12/2017	-	$830,000	695m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516658	23 Stanley Street	27/05/2017	10/08/2017	09/05/2017	$811,000	766m	Full transfer	2	1	-	2	0	$811,000	18	-	Combined Record	-	-	-	Single residential dwelling	$533,000	0.66
+2017	499402	18 Bragg Street	30/03/2017	-	22/02/2017	$810,000	790m	Full transfer	-	-	-	-	-	$810,000	36	-	Allhomes Record	-	-	-	-	$735,000	0.91
+2017	513471	18 Bragg Street	29/05/2017	29/05/2017	-	$810,000	791m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498536	6 Bragg Street	16/03/2017	-	23/02/2017	$800,000	847m	Full transfer	-	-	-	-	-	$800,000	21	-	Allhomes Record	-	-	-	-	$725,000	0.91
+2017	502374	28 Gilruth Street	04/03/2017	19/04/2017	08/02/2017	$800,000	649m	Full transfer	3	2	-	0	1	$800,000	24	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.69
+2017	512297	6 Bragg Street	15/05/2017	15/05/2017	-	$800,000	853m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505006	119 Madigan Street	16/03/2017	01/05/2017	02/03/2017	$795,000	725m	Full transfer	4	2	-	0	1	$795,000	14	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.58
+2017	502442	175 Phillip Avenue	11/02/2017	19/04/2017	12/12/2016	$775,000	670m	Full transfer	3	1	-	-	1	$775,000	61	-	Combined Record	135	-	-	Single residential dwelling	$471,000	0.61
+2017	502467	5 Steele Street	25/02/2017	18/04/2017	02/02/2017	$768,000	645m	Full transfer	3	1	-	2	0	$768,000	23	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.72
+2017	513412	35 Harris Street	30/05/2017	30/05/2017	-	$760,000	725m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499423	35 Harris Street	30/03/2017	-	17/02/2017	$760,000	720m	Full transfer	-	-	-	-	-	$760,000	41	-	Allhomes Record	-	-	-	-	$690,000	0.91
+2017	495673	48 Russell Street	01/02/2017	01/02/2017	-	$760,000	835m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502690	1 Caldwell Street	21/02/2017	13/04/2017	10/11/2016	$750,000	676m	Full transfer	3	1	-	1	1	$750,000	103	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.73
+2017	500997	10 Mills Place	28/01/2017	29/03/2017	05/12/2016	$736,000	710m	Full transfer	3	1	1	-	1	$736,000	54	-	Combined Record	126	-	-	Single residential dwelling	$550,000	0.75
+2017	505467	37 Stanley Street	10/06/2017	-	03/05/2017	$730,000	412m	Full transfer	3	1	1	-	2	$730,000	38	-	Allhomes Record	127	-	-	-	$518,000	0.71
+2017	516898	2/37 Stanley Street	10/06/2017	31/07/2017	-	$730,000	824m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524335	24 Haddon Street	04/11/2017	24/01/2018	09/10/2017	$725,000	408m	Full transfer	3	1	-	2	-	$725,000	26	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.56
+2017	495105	6 Brennan Street	13/01/2017	13/01/2017	-	$715,000	911m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513547	320 Antill Street	29/05/2017	29/05/2017	-	$710,000	745m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499414	320 Antill Street	30/03/2017	-	17/02/2017	$710,000	739m	Full transfer	-	-	-	-	-	$710,000	41	-	Allhomes Record	-	-	-	-	$640,000	0.9
+2017	512079	324 Antill Street	17/05/2017	17/05/2017	-	$705,000	984m	Full transfer	-	-	-	-	-	$705,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498535	324 Antill Street	16/03/2017	-	03/02/2017	$705,000	980m	Full transfer	-	-	-	-	-	$705,000	41	-	Allhomes Record	-	-	-	-	$635,000	0.9
+2017	506355	31 Hedley Street	07/07/2017	-	12/04/2017	$700,000	815m	Full transfer	-	-	-	-	-	$700,000	86	-	Allhomes Record	-	-	-	-	$540,000	0.77
+2017	518342	31 Hedley Street	05/09/2017	05/09/2017	-	$700,000	821m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520299	332 Antill Street	27/07/2017	02/11/2017	06/07/2017	$690,000	664m	Full transfer	7	2	-	1	1	$690,000	21	-	Combined Record	-	-	-	Single residential dwelling	$528,000	0.77
+2017	510076	110 Grayson Street	24/11/2017	-	16/11/2017	$690,000	0m	Full transfer	3	2	-	2	0	$690,000	8	-	Allhomes Record	-	-	-	-	$1,764,000	2.56
+2017	526022	            11/130 Grayson Street	24/11/2017	13/02/2018	-	$690,000	7784m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501783	29 Hedley Street	11/04/2017	-	03/02/2017	$675,000	834m	Full transfer	-	-	-	-	-	$675,000	67	-	Allhomes Record	-	-	-	-	$451,000	0.67
+2017	514066	29 Hedley Street	13/06/2017	13/06/2017	-	$675,000	837m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499425	17 Newton Street	30/03/2017	-	21/02/2017	$655,000	651m	Full transfer	-	-	-	-	-	$655,000	37	-	Allhomes Record	-	-	-	-	$430,000	0.66
+2017	513338	17 Newton Street	01/06/2017	01/06/2017	-	$655,000	655m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512685	27 Hedley Street	26/05/2017	26/05/2017	-	$650,000	752m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499409	27 Hedley Street	30/03/2017	-	23/02/2017	$650,000	746m	Full transfer	-	-	-	-	-	$650,000	35	-	Allhomes Record	-	-	-	-	$585,000	0.9
+2017	512877	29 Rivett Street	25/05/2017	25/05/2017	-	$630,000	664m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498547	29 Rivett Street	16/03/2017	-	03/02/2017	$630,000	663m	Full transfer	-	-	-	-	-	$630,000	41	-	Allhomes Record	-	-	-	-	$569,000	0.9
+2017	498001	36 Mills Street	13/02/2017	13/02/2017	-	$626,000	748m	Full transfer	-	-	-	-	-	$626,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514444	8 Mackenzie Street	22/03/2017	05/07/2017	02/03/2017	$610,000	258m	Full transfer	3	1	1	-	2	$610,000	20	-	Combined Record	136	-	-	Single residential dwelling	$408,000	0.67
+2017	513072	4 Skeats Street	09/06/2017	09/06/2017	17/10/2016	$600,000	536m	Full transfer	-	-	-	-	-	$600,000	235	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.6
+2017	503204	            4/56 Grayson Street	16/02/2017	06/04/2017	-	$590,000	8892m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512698	25 Madigan Street	23/05/2017	23/05/2017	-	$550,000	687m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498537	25 Madigan Street	16/03/2017	-	03/02/2017	$550,000	682m	Full transfer	-	-	-	-	-	$550,000	41	-	Allhomes Record	-	-	-	-	$480,000	0.87
+2017	517332	13/70 Madigan Street	20/06/2017	15/08/2017	05/05/2017	$521,000	2513m	Full transfer	2	1	-	1	-	$521,000	46	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512916	6/48 Madigan Street	12/04/2017	26/05/2017	16/03/2017	$415,000	1706m	Full transfer	2	1	-	1	-	$415,000	27	-	Combined Record	75	-	-	Multiple unit dwelling	$1,436,000	3.46
+2017	535161	244 Antill Street	01/12/2017	13/06/2018	-	$365,000	634m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518553	19/127 Madigan Street	16/08/2017	09/09/2017	05/07/2017	$305,000	3717m	Full transfer	2	1	-	0	0	$305,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	513048	1/11 Tryon Street	10/05/2017	09/06/2017	04/04/2017	$289,000	2225m	Full transfer	2	1	-	1	0	$289,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	502997	6/127 Madigan Street	06/03/2017	12/04/2017	08/02/2017	$242,000	3717m	Full transfer	1	1	-	0	1	$242,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	508580	12/127 Rivett Street	13/10/2017	-	29/08/2017	$234,000	0m	Full transfer	1	1	-	0	1	$234,000	45	-	Allhomes Record	-	-	-	-	-	-
+2017	528297	            7/130 Grayson Street	24/11/2017	21/03/2018	-	$231,250	7784m	Full transfer	-	-	-	-	-	$231,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510511	10/131 Rivett Street	08/12/2017	-	27/03/2017	$220,000	2417m	Full transfer	1	1	-	-	-	$220,000	256	-	Allhomes Record	-	-	-	-	-	-
+2017	525855	17/11 Tryon Street	05/12/2017	12/02/2018	08/05/2017	$210,000	2225m	Full transfer	1	1	-	1	0	$210,000	211	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	526338	            10/133 Rivett Street	08/12/2017	01/03/2018	-	$205,000	2417m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494185	13/127 Madigan Street	30/01/2017	-	01/10/2016	$179,000	3717m	Full transfer	1	1	-	-	-	$179,000	121	-	Allhomes Record	-	-	-	-	$3,653,000	20.41
+2017	550653	             Holtze Close	15/12/2017	11/12/2018	-	$110,000	254m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Place of worship	-	-
+2017	532334	3 Mackenzie Street	25/10/2017	07/05/2018	-	$0	771m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519214	4 Brennan Street	19/08/2017	13/10/2017	-	$0	958m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533426	1/133 Rivett Street	30/07/2017	22/05/2018	-	$0	2417m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520477	            1/37 Stanley Street	04/07/2017	07/11/2017	-	$0	824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	532872	95 Mackenzie Street	13/10/2017	14/05/2018	-	$0	1122m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522808	30 Caldwell Street	24/06/2017	11/01/2018	-	$0	798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523822	36 Stanley Street	18/04/2017	16/01/2018	-	$0	819m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517453	3 Verco Street	15/05/2017	23/08/2017	-	$0	835m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525723	35 Caldwell Street	21/11/2017	12/02/2018	-	$0	746m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	527590	            6/56 Grayson Street	09/11/2017	14/03/2018	-	$0	8892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	532746	            6/84 Grayson Street	09/05/2017	14/05/2018	-	$0	7340m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	531013	121 Madigan Street	07/09/2017	18/04/2018	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518806	97 Maitland Street	27/04/2017	13/09/2017	-	$0	670m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505120	5 Gilruth Street	02/02/2017	03/05/2017	-	$0	667m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535077	79 Mackenzie Street	23/02/2018	12/06/2018	29/11/2017	$1,390,000	1083m	Full transfer	4	2	-	2	0	$1,390,000	86	-	Combined Record	-	-	-	Single residential dwelling	$736,000	0.53
+2018	549895	95 Mackenzie Street	31/08/2018	19/12/2018	06/08/2018	$1,390,000	1122m	Full transfer	4	2	-	3	-	$1,390,000	25	-	Combined Record	-	-	-	Single residential dwelling	$802,000	0.58
+2018	549844	4 Steele Street	19/10/2018	17/12/2018	12/10/2018	$1,350,000	1172m	Full transfer	5	2	-	1	0	$1,350,000	7	-	Combined Record	-	-	-	Single residential dwelling	$727,000	0.54
+2018	532362	34 Selwyn Street	10/02/2018	08/05/2018	15/01/2018	$1,295,000	727m	Full transfer	4	2	-	2	0	$1,295,000	26	-	Combined Record	-	-	-	Single residential dwelling	$613,000	0.47
+2018	547488	41 Harris Street	28/08/2018	22/11/2018	09/07/2018	$1,275,000	786m	Full transfer	4	2	-	2	-	$1,275,000	50	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.49
+2018	531390	9 Dakin Place	24/02/2018	26/04/2018	31/01/2018	$1,160,000	810m	Full transfer	4	2	-	2	2	$1,160,000	24	-	Combined Record	-	-	-	Single residential dwelling	$657,000	0.57
+2018	541419	21 Dunlop Street	30/06/2018	06/09/2018	06/06/2018	$1,110,000	807m	Full transfer	4	2	-	0	2	$1,110,000	24	-	Combined Record	-	-	-	Single residential dwelling	$675,000	0.61
+2018	552344	11 Caldwell Street	22/11/2018	21/01/2019	-	$1,100,000	712m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551450	34 Rivett Street	22/09/2018	12/11/2018	29/08/2018	$1,100,000	924m	Full transfer	4	2	-	0	3	$1,100,000	24	-	Combined Record	-	-	-	Single residential dwelling	$684,000	0.62
+2018	561851	10 French Street	17/11/2018	05/02/2019	25/10/2018	$1,050,000	736m	Full transfer	5	2	-	0	0	$1,050,000	23	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.59
+2018	535761	30 Caldwell Street	21/04/2018	20/06/2018	22/03/2018	$990,000	798m	Full transfer	4	1	-	0	0	$990,000	30	-	Combined Record	-	-	-	Single residential dwelling	$629,000	0.64
+2018	539006	128 Mackenzie Street	06/06/2018	31/07/2018	01/06/2018	$920,000	691m	Full transfer	3	1	-	1	0	$920,000	5	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.64
+2018	550924	13 Gilbert Street	13/10/2018	10/01/2019	20/09/2018	$910,000	720m	Full transfer	3	1	-	0	1	$910,000	23	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.68
+2018	547746	31 Rivett Street	07/09/2018	26/10/2018	13/08/2018	$900,000	664m	Full transfer	3	1	-	1	-	$900,000	25	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.66
+2018	534084	21 Stanley Street	24/03/2018	29/05/2018	28/02/2018	$880,000	773m	Full transfer	3	1	-	0	1	$880,000	24	-	Combined Record	-	-	-	Single residential dwelling	$581,000	0.66
+2018	537509	16 Richards Street	30/04/2018	09/07/2018	24/01/2018	$877,500	693m	Full transfer	3	1	-	1	0	$877,500	96	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.71
+2018	535528	23 Caldwell Street	30/04/2018	24/06/2018	12/04/2018	$850,000	1012m	Full transfer	4	2	0	3	0	$850,000	18	-	Combined Record	-	-	-	Single residential dwelling	$720,000	0.85
+2018	530999	20 Rivett Street	24/02/2018	17/04/2018	01/02/2018	$850,000	703m	Full transfer	3	1	-	1	0	$850,000	23	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.73
+2018	554449	27 Haddon Street	12/12/2018	04/03/2019	29/11/2018	$835,000	675m	Full transfer	3	1	-	0	1	$835,000	13	-	Combined Record	-	-	-	Single residential dwelling	$560,000	0.67
+2018	552061	18 Mackenzie Street	07/11/2018	30/01/2019	11/10/2018	$830,000	557m	Full transfer	3	2	-	2	0	$830,000	27	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.6
+2018	539450	17 Haddon Street	01/03/2018	08/08/2018	31/01/2018	$828,800	1036m	Full transfer	3	1	-	1	0	$828,800	29	-	Combined Record	-	-	-	Single residential dwelling	$684,000	0.83
+2018	551790	35 Madigan Street	24/11/2018	31/01/2019	01/11/2018	$820,000	767m	Full transfer	3	1	-	0	1	$820,000	23	-	Combined Record	-	-	-	Single residential dwelling	$531,000	0.65
+2018	552136	34 Caldwell Street	29/11/2018	22/01/2019	04/10/2018	$820,000	772m	Full transfer	3	2	-	4	1	$820,000	56	-	Combined Record	-	-	-	Single residential dwelling	$629,000	0.77
+2018	539187	3 Mackenzie Street	05/05/2018	31/07/2018	11/04/2018	$817,000	771m	Full transfer	3	1	-	0	1	$817,000	24	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.76
+2018	533372	6 Skeats Street	21/03/2018	23/05/2018	01/03/2018	$817,000	653m	Full transfer	4	1	-	2	0	$817,000	20	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.6
+2018	538098	121 Madigan Street	25/05/2018	18/07/2018	05/04/2018	$810,000	747m	Full transfer	4	1	-	1	1	$810,000	50	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.62
+2018	561321	            13/56 Grayson Street	01/12/2018	22/02/2019	-	$806,000	8892m	Full transfer	-	-	-	-	-	$806,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	545486	78 Grayson Street	01/12/2018	-	09/11/2018	$806,000	0m	Full transfer	3	2	-	2	0	$806,000	22	-	Allhomes Record	-	-	-	-	$2,272,000	2.82
+2018	550158	13 Hedley Street	26/10/2018	11/12/2018	02/08/2018	$800,000	769m	Full transfer	4	2	-	2	0	$800,000	85	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.75
+2018	545602	98 Rivett Street	05/12/2018	-	31/10/2018	$790,000	-	Full transfer	-	-	-	-	-	$790,000	35	-	Allhomes Record	-	-	-	-	$578,000	0.73
+2018	530953	7 Rivett Street	30/01/2018	19/04/2018	31/08/2017	$779,000	664m	Full transfer	3	1	-	1	-	$779,000	152	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.67
+2018	543820	183 Phillip Avenue	17/08/2018	08/10/2018	14/06/2018	$770,000	729m	Full transfer	3	2	-	1	1	$770,000	64	-	Combined Record	-	-	-	Single residential dwelling	$542,000	0.7
+2018	536948	40 Mills Street	17/02/2018	02/07/2018	24/01/2018	$762,000	748m	Full transfer	3	1	-	2	0	$762,000	24	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.75
+2018	548457	13 Steele Street	05/11/2018	05/11/2018	-	$760,000	781m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539990	13 Steele Street	04/09/2018	-	24/07/2018	$760,000	-	Full transfer	-	-	-	-	-	$760,000	42	-	Allhomes Record	-	-	-	-	$534,000	0.7
+2018	553326	52 Maitland Street	22/12/2018	15/02/2019	02/10/2018	$750,000	653m	Full transfer	3	2	-	1	0	$750,000	81	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.8
+2018	558220	            1/36 Mills Street	21/12/2018	02/05/2019	-	$727,500	748m	Full transfer	-	-	-	-	-	$727,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550263	58 Maitland Street	25/09/2018	11/12/2018	-	$720,000	629m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	562108	            2/36 Mills Street	09/08/2018	05/06/2019	-	$720,000	748m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540806	36A Mills Street	09/08/2018	-	26/04/2018	$720,000	0m	Full transfer	3	3	-	1	0	$720,000	105	-	Allhomes Record	-	-	-	-	$585,000	0.81
+2018	531926	27 Rivett Street	15/05/2018	-	26/02/2018	$700,000	-	Full transfer	-	-	-	-	-	$700,000	78	-	Allhomes Record	-	-	-	-	$534,000	0.76
+2018	538247	27 Rivett Street	16/07/2018	16/07/2018	-	$700,000	715m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536364	30 Madigan Street	05/05/2018	26/06/2018	11/04/2018	$670,000	780m	Full transfer	4	2	-	1	0	$670,000	24	-	Combined Record	-	-	-	Single residential dwelling	$531,000	0.79
+2018	550879	            2/34 Grayson Street	16/11/2018	11/01/2019	-	$650,000	6517m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	545094	34 Grayson Street	16/11/2018	-	18/10/2018	$650,000	0m	Full transfer	2	1	-	1	0	$650,000	29	-	Allhomes Record	-	-	-	-	$1,764,000	2.71
+2018	549022	28 Haddon Street	19/09/2018	19/12/2018	23/08/2018	$640,000	406m	Full transfer	3	2	-	1	0	$640,000	27	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.67
+2018	538210	            6/56 Grayson Street	17/03/2018	17/07/2018	-	$612,000	8892m	Full transfer	-	-	-	-	-	$612,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	526672	64 Grayson Street	17/03/2018	-	20/02/2018	$612,000	-	Full transfer	2	1	-	-	2	$612,000	25	-	Allhomes Record	-	-	-	-	$2,272,000	3.71
+2018	550361	3 Taylor Place	12/11/2018	10/01/2019	-	$600,000	733m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537861	10/70-76 Madigan Street	26/07/2018	-	23/05/2018	$511,005	0m	Full transfer	2	1	-	1	0	$511,005	64	-	Allhomes Record	-	-	-	-	-	-
+2018	542409	10/70 Madigan Street	26/07/2018	17/09/2018	-	$511,005	2513m	Full transfer	-	-	-	-	-	$511,005	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541926	10/11 Tryon Street	23/07/2018	13/09/2018	-	$295,000	2225m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537806	10/11-13 Tryon Street	24/07/2018	-	28/03/2018	$295,000	0m	Full transfer	2	1	-	0	1	$295,000	118	-	Allhomes Record	-	-	-	-	-	-
+2018	538548	3/11 Tryon Street	02/05/2018	29/07/2018	29/01/2018	$280,000	2225m	Full transfer	2	1	-	-	-	$280,000	93	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	543842	17/127 Madigan Street	20/08/2018	10/10/2018	19/07/2018	$215,000	3717m	Full transfer	1	1	-	1	0	$215,000	32	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534438	8/11 Tryon Street	26/04/2018	04/06/2018	-	$210,000	2225m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531494	19 Gilbert Street	26/10/2018	29/04/2018	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561774	171 Phillip Avenue	29/10/2018	18/02/2019	-	$0	750m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544387	20 Harris Street	14/09/2018	17/10/2018	-	$0	762m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550051	332 Antill Street	24/10/2018	14/12/2018	05/10/2018	$0	664m	Full transfer	5	3	-	2	-	$0	19	-	Combined Record	-	-	-	Single residential dwelling	$554,000	3.71
+2018	576513	4 Gilbert Street	12/05/2018	09/12/2019	-	$0	682m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553387	            6/130 Grayson Street	23/11/2018	12/02/2019	-	$0	7784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550671	1/2 Burrell Street	21/10/2018	14/12/2018	-	$0	823m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	550689	129 Mackenzie Street	10/11/2018	11/01/2019	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	556724	53 Rivett Street	04/11/2018	02/04/2019	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560545	4 Kellaway Street	30/09/2018	20/02/2019	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547714	11 Verco Street	22/09/2018	29/11/2018	30/08/2018	$0	802m	Full transfer	4	2	-	2	0	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$684,000	3.71
+2018	543185	40 Newton Street	07/08/2018	02/10/2018	01/06/2018	$0	720m	Full transfer	3	1	-	0	0	$0	67	-	Combined Record	-	-	-	Single residential dwelling	$600,000	3.71
+2018	549198	67 Madigan Street	21/10/2018	04/12/2018	-	$0	508m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547305	6 Stott Street	30/05/2018	19/11/2018	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575234	27 Rivett Street	12/10/2019	26/11/2019	18/09/2019	$1,593,000	715m	Full transfer	4	2	-	2	0	$1,593,000	24	-	Combined Record	-	-	-	Single residential dwelling	$670,000	0.42
+2019	571850	12 Selwyn Street	11/11/2019	-	15/10/2019	$1,500,000	0m	Full transfer	4	2	-	2	0	$1,500,000	27	-	Allhomes Record	-	-	-	-	$781,000	0.52
+2019	568113	71 Mackenzie Street	19/07/2019	30/08/2019	17/01/2019	$1,500,000	1301m	Full transfer	5	3	-	2	1	$1,500,000	183	-	Combined Record	-	-	-	Single residential dwelling	$835,000	0.56
+2019	559928	57 Rivett Street	06/04/2019	23/05/2019	14/03/2019	$1,375,000	962m	Full transfer	4	2	-	1	0	$1,375,000	23	-	Combined Record	-	-	-	Single residential dwelling	$684,000	0.5
+2019	563828	15 Mackenzie Street	28/05/2019	04/07/2019	21/02/2019	$1,220,000	689m	Full transfer	4	2	-	2	0	$1,220,000	96	-	Combined Record	-	-	-	Single residential dwelling	$568,000	0.47
+2019	574546	4 Dunlop Street	24/08/2019	21/11/2019	01/08/2019	$1,160,000	1228m	Full transfer	5	3	-	3	0	$1,160,000	23	-	Combined Record	-	-	-	Single residential dwelling	$793,000	0.68
+2019	577069	142 Mackenzie Street	09/11/2019	16/12/2019	24/10/2019	$1,105,000	665m	Full transfer	4	2	-	3	0	$1,105,000	16	-	Combined Record	-	-	-	Single residential dwelling	$559,000	0.51
+2019	557408	58 Mackenzie Street	18/03/2019	09/04/2019	-	$1,100,000	984m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569836	72 Rivett Street	11/06/2019	18/09/2019	02/05/2019	$1,100,000	681m	Full transfer	4	2	-	0	0	$1,100,000	40	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.54
+2019	558693	8 Caldwell Street	03/04/2019	08/05/2019	06/02/2019	$1,100,000	660m	Full transfer	4	3	-	-	2	$1,100,000	56	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.55
+2019	563379	21 Brennan Street	07/05/2019	26/06/2019	-	$1,100,000	1014m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571513	23 Richards Street	02/11/2019	-	09/10/2019	$1,072,000	874m	Full transfer	4	1	-	1	0	$1,072,000	24	-	Allhomes Record	-	-	-	-	$674,000	0.63
+2019	573263	6 Hull Place	18/09/2019	31/10/2019	29/08/2019	$1,030,000	874m	Full transfer	4	2	-	1	2	$1,030,000	20	-	Combined Record	-	-	-	Single residential dwelling	$637,000	0.62
+2019	566202	187 Phillip Avenue	27/06/2019	29/07/2019	-	$1,020,000	784m	Full transfer	-	-	-	-	-	$1,020,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572648	4 Dakin Place	08/10/2019	23/10/2019	-	$1,000,000	645m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574079	56 Stanley Street	04/12/2019	-	13/11/2019	$995,000	758m	Full transfer	3	1	-	0	1	$995,000	21	-	Allhomes Record	-	-	-	-	$600,000	0.6
+2019	577005	27 Bragg Street	12/12/2019	-	14/11/2019	$990,000	0m	Full transfer	4	2	-	1	1	$990,000	28	-	Allhomes Record	-	-	-	-	$700,000	0.71
+2019	572604	16 French Street	15/08/2019	22/10/2019	25/07/2019	$977,000	805m	Full transfer	3	1	-	1	0	$977,000	21	-	Combined Record	-	-	-	Single residential dwelling	$650,000	0.67
+2019	556213	5 Dunn Place	11/02/2019	27/03/2019	03/10/2018	$970,000	897m	Full transfer	4	1	-	1	1	$970,000	131	-	Combined Record	-	-	-	Single residential dwelling	$633,000	0.65
+2019	562479	129 Mackenzie Street	13/04/2019	13/06/2019	20/03/2019	$967,000	891m	Full transfer	4	2	-	0	2	$967,000	24	-	Combined Record	-	-	-	Single residential dwelling	$614,000	0.63
+2019	556238	24 Bragg Street	12/02/2019	25/03/2019	09/01/2019	$954,000	791m	Full transfer	3	1	-	1	1	$954,000	34	-	Combined Record	-	-	-	Single residential dwelling	$642,000	0.67
+2019	565775	123 Mackenzie Street	17/05/2019	22/07/2019	06/02/2019	$945,000	1055m	Full transfer	4	3	-	0	2	$945,000	100	-	Combined Record	-	-	-	Single residential dwelling	$675,000	0.71
+2019	560309	19 Grayson Street	29/03/2019	14/05/2019	23/01/2019	$945,000	781m	Full transfer	4	2	-	1	2	$945,000	65	-	Combined Record	-	-	-	Single residential dwelling	$614,000	0.65
+2019	573778	223 Phillip Avenue	02/10/2019	08/11/2019	12/09/2019	$941,000	694m	Full transfer	4	1	-	1	0	$941,000	20	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.62
+2019	569097	            1/29A Hedley Street	16/02/2019	11/09/2019	-	$912,000	837m	Full transfer	-	-	-	-	-	$912,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570537	124 Mackenzie Street	24/07/2019	23/09/2019	23/05/2019	$911,000	691m	Full transfer	3	1	-	2	0	$911,000	62	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.64
+2019	570251	181 Phillip Avenue	10/10/2019	-	19/09/2019	$905,000	666m	Full transfer	4	2	-	2	0	$905,000	21	-	Allhomes Record	-	-	-	-	$514,000	0.57
+2019	564140	16 Gilbert Street	07/05/2019	01/07/2019	11/01/2019	$900,000	800m	Full transfer	4	2	-	1	-	$900,000	116	-	Combined Record	-	-	-	Single residential dwelling	$650,000	0.72
+2019	559166	35 Stanley Street	11/04/2019	13/05/2019	27/02/2019	$897,500	770m	Full transfer	4	2	-	2	0	$897,500	43	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.68
+2019	577238	21 Haddon Street	22/10/2019	16/12/2019	26/09/2019	$885,000	672m	Full transfer	3	1	-	1	0	$885,000	26	-	Combined Record	-	-	-	Single residential dwelling	$560,000	0.63
+2019	562256	324 Antill Street	20/02/2019	06/06/2019	-	$867,500	984m	Full transfer	-	-	-	-	-	$867,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575161	45 Maitland Street	26/10/2019	27/11/2019	03/10/2019	$865,000	724m	Full transfer	3	1	-	2	0	$865,000	23	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.69
+2019	555234	10 Burrell Street	01/02/2019	14/03/2019	16/10/2018	$845,000	371m	Full transfer	4	2	-	1	0	$845,000	108	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.5
+2019	555012	31A Hedley Street	29/03/2019	-	31/10/2018	$840,000	400m	Full transfer	3	2	-	2	0	$840,000	149	-	Allhomes Record	-	-	-	-	$605,000	0.72
+2019	557304	            1/31 Hedley Street	19/03/2019	12/04/2019	-	$838,888	821m	Full transfer	-	-	-	-	-	$838,888	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572593	17 Selwyn Street	24/08/2019	22/10/2019	01/08/2019	$835,500	727m	Full transfer	3	1	-	2	0	$835,500	23	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.74
+2019	565117	65 Maitland Street	27/04/2019	09/07/2019	01/04/2019	$826,000	783m	Full transfer	3	1	-	2	2	$826,000	26	-	Combined Record	-	-	-	Single residential dwelling	$629,000	0.76
+2019	568881	            1/37 Stanley Street	11/06/2019	05/09/2019	-	$820,000	824m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573046	15 Hedley Street	06/08/2019	29/10/2019	02/05/2019	$816,000	755m	Full transfer	3	1	-	1	0	$816,000	96	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.74
+2019	576830	34 Mills Street	31/10/2019	10/12/2019	05/09/2019	$807,500	748m	Full transfer	4	1	-	0	1	$807,500	56	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.74
+2019	557882	11 Mackenzie Street	06/03/2019	17/04/2019	07/02/2019	$806,000	654m	Full transfer	3	1	-	2	-	$806,000	27	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.74
+2019	561741	98 Rivett Street	04/03/2019	04/03/2019	-	$790,000	857m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574318	227 Phillip Avenue	01/10/2019	11/11/2019	08/08/2019	$786,000	694m	Full transfer	3	1	-	1	0	$786,000	54	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.75
+2019	573205	5 Harris Place	18/09/2019	01/11/2019	01/11/2018	$759,000	685m	Full transfer	3	1	-	1	0	$759,000	321	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.79
+2019	572942	            1/27 Hedley Street	16/08/2019	21/10/2019	-	$745,000	752m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574850	44 Maitland Street	13/09/2019	11/11/2019	18/07/2019	$730,000	525m	Full transfer	3	1	-	0	2	$730,000	57	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.8
+2019	554440	            7/84 Grayson Street	22/01/2019	04/03/2019	-	$712,000	7340m	Full transfer	-	-	-	-	-	$712,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	546375	96 Grayson Street	22/01/2019	-	24/10/2018	$712,000	0m	Full transfer	4	2	-	2	0	$712,000	90	-	Allhomes Record	-	-	-	-	$2,006,000	2.82
+2019	568215	6 Harris Street	04/07/2019	27/08/2019	23/05/2019	$710,000	682m	Full transfer	2	1	-	1	0	$710,000	42	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.84
+2019	573886	            27B Hedley Street	28/11/2019	-	01/11/2018	$703,000	752m	Full transfer	3	2	-	1	1	$703,000	392	-	Allhomes Record	-	-	-	-	$638,000	0.91
+2019	573428	22 Haddon Street	21/11/2019	-	31/10/2019	$697,000	0m	Full transfer	3	1	-	3	0	$697,000	21	-	Allhomes Record	-	-	-	-	$446,000	0.64
+2019	564213	171 Phillip Avenue	09/05/2019	02/07/2019	11/04/2019	$665,000	750m	Full transfer	3	1	-	1	0	$665,000	28	-	Combined Record	-	-	-	Single residential dwelling	$542,000	0.82
+2019	567573	17 Newton Street	14/06/2019	21/08/2019	03/05/2018	$665,000	655m	Full transfer	-	-	-	-	-	$665,000	407	-	Combined Record	-	-	-	Single residential dwelling	$600,000	0.9
+2019	576966	3 Tryon Street	19/12/2019	-	14/11/2019	$650,000	0m	Full transfer	3	2	-	2	0	$650,000	35	-	Allhomes Record	-	-	-	-	$340,000	0.52
+2019	575713	            7/34 Grayson Street	12/10/2019	05/12/2019	-	$630,000	6517m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570238	7/44 Grayson Street	12/10/2019	-	20/09/2019	$630,000	0m	Full transfer	2	1	-	2	0	$630,000	22	-	Allhomes Record	-	-	-	-	-	-
+2019	564823	            13/84 Grayson Street	20/05/2019	09/07/2019	-	$618,500	7340m	Full transfer	-	-	-	-	-	$618,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571272	2/14 Harris Street	25/10/2019	-	13/09/2019	$600,000	0m	Full transfer	2	1	-	2	0	$600,000	42	-	Allhomes Record	-	-	-	-	-	-
+2019	558608	12/127 Madigan Street	12/03/2019	02/05/2019	20/12/2018	$305,000	3717m	Full transfer	2	1	-	0	0	$305,000	82	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	566924	18/131 Rivett Street	27/08/2019	-	24/07/2019	$278,000	0m	Full transfer	2	1	-	0	1	$278,000	34	-	Allhomes Record	-	-	-	-	-	-
+2019	571925	            18/133 Rivett Street	27/08/2019	10/10/2019	-	$278,000	2417m	Full transfer	-	-	-	-	-	$278,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573413	5/127 Rivett Street	21/11/2019	-	27/08/2019	$230,000	0m	Full transfer	2	1	-	0	1	$230,000	86	-	Allhomes Record	-	-	-	-	-	-
+2019	575736	1/127 Rivett Street	23/10/2019	07/12/2019	-	$210,500	2417m	Full transfer	-	-	-	-	-	$210,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559452	1/133 Rivett Street	01/05/2019	15/05/2019	02/12/2018	$210,000	2417m	Full transfer	1	1	-	-	-	$210,000	150	-	Combined Record	47	-	-	Multiple unit dwelling	-	-
+2019	573443	1/127 Rivett Street	25/11/2019	-	14/06/2019	$208,050	0m	Full transfer	1	1	-	0	0	$208,050	164	-	Allhomes Record	-	-	-	-	-	-
+2019	566958	18/11-13 Tryon Street	27/08/2019	-	19/07/2019	$195,000	0m	Full transfer	1	1	-	0	1	$195,000	39	-	Allhomes Record	-	-	-	-	-	-
+2019	572231	18/11 Tryon Street	27/08/2019	14/10/2019	-	$195,000	2225m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556913	17/127 Madigan Street	27/03/2019	01/04/2019	-	$107,500	3717m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556701	8/133 Rivett Street	22/03/2019	05/04/2019	-	$71,250	2417m	Full transfer	-	-	-	-	-	$71,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567204	3 Stanley Street	12/08/2019	12/08/2019	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563924	145 Mackenzie Street	24/04/2019	05/07/2019	-	$0	982m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565049	222 Antill Street	20/04/2019	09/07/2019	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559287	34 Selwyn Street	08/04/2019	14/05/2019	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567581	7 Jukes Place	19/03/2019	20/08/2019	-	$0	1083m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577256	3 Stanley Street	22/10/2019	23/12/2019	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559411	145 Mackenzie Street	11/03/2019	13/05/2019	-	$0	982m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574872	27 Bragg Street	04/10/2019	14/11/2019	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562997	19 Harris Place	27/02/2019	20/06/2019	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577085	8 Mackenzie Street	16/07/2019	16/12/2019	-	$0	258m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	552711	29A Hedley Street	16/02/2019	-	23/02/2018	-	0m	Full transfer	4	2	-	1	0	-	358	-	Allhomes Record	150	-	-	-	$660,000	-
+2019	561883	103 Maitland Street	11/06/2019	-	19/03/2019	-	412m	Full transfer	3	2	-	0	2	-	84	-	Allhomes Record	-	-	-	-	$518,000	-
