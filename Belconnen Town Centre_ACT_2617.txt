@@ -1,0 +1,8 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2008	22438	            8/51 Totterdell Street	05/09/2008	-	20/06/2008	$314,000	3801m	Full transfer	2	1	-	-	1	$314,000	77	-	Allhomes Record	-	-	-	-	-	-
+2008	22813	            1/18 Thurlow Place	16/09/2008	-	20/06/2008	$265,000	2310m	Full transfer	2	1	-	-	1	$265,000	88	-	Allhomes Record	-	-	-	-	$0	0.0
+2009	133320	            B29/9 Chandler Street	20/10/2009	-	16/09/2009	$385,000	6774m	Full transfer	2	1	-	-	1	$385,000	34	-	Allhomes Record	-	-	-	-	-	-
+2011	345723	            58/57 Benjamin Way	29/11/2011	-	30/09/2011	$440,000	7654m	Full transfer	2	1	1	2	-	$440,000	60	-	Allhomes Record	-	-	-	-	-	-
+2016	480880	225/60 College Street	26/07/2016	-	02/06/2016	$285,000	21903m	Full transfer	1	1	-	1	-	$285,000	54	-	Allhomes Record	-	-	-	-	$5,700,000	20.0
+2018	511208	            214/41 Chandler Street	22/01/2018	-	09/12/2016	$420,000	7709m	Full transfer	2	1	-	-	-	$420,000	409	-	Allhomes Record	85	-	-	-	-	-
+2018	527881	157/64 College St	04/04/2018	-	21/02/2018	$410,000	-	Full transfer	2	1	1	2	-	$410,000	42	-	Allhomes Record	85	-	-	-	$5,700,000	13.9
