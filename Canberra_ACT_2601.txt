@@ -1,0 +1,257 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2007	21568	             Mobile Dog Washing Business	22/11/2007	-	07/05/2007	$13,000	-	Full transfer	-	-	-	-	-	$13,000	199	-	Allhomes Record	-	-	-	-	-	-
+2007	4591	             Black Pepper Cafe	28/05/2007	-	19/09/2006	-	-	Full transfer	-	-	-	-	-	-	251	-	Allhomes Record	-	-	-	-	-	-
+2007	5956	             Restaurant Griffith Shops	19/07/2007	-	07/12/2006	-	-	Full transfer	-	-	-	-	-	-	224	-	Allhomes Record	-	-	-	-	-	-
+2008	21995	             You Don't Need To Be Gordon Ramsay To Own This Restaurant.....	08/08/2008	-	28/05/2008	$180,000	-	Full transfer	-	2	-	-	-	$180,000	72	-	Allhomes Record	-	-	-	-	-	-
+2008	22268	             Gift & Jewellery Shop	07/03/2008	-	22/11/2007	$21,500	-	Full transfer	-	-	-	-	-	$21,500	106	-	Allhomes Record	-	-	-	-	-	-
+2009	139251	             Aroma Cafe Bar	24/11/2009	-	04/08/2009	$365,000	-	Full transfer	-	-	-	-	-	$365,000	112	-	Allhomes Record	-	-	-	-	-	-
+2009	23604	             City Walk Cafe	27/07/2009	-	22/07/2009	$200,000	-	Full transfer	-	-	-	-	-	$200,000	5	-	Allhomes Record	-	-	-	-	-	-
+2009	23488	             My Coffee Cup	25/06/2009	-	19/03/2009	$195,000	-	Full transfer	-	-	-	-	-	$195,000	98	-	Allhomes Record	-	-	-	-	-	-
+2009	21347	             Synthetic Lawn And Turf Business.	01/03/2009	-	17/07/2008	$185,000	-	Full transfer	-	-	-	-	-	$185,000	227	-	Allhomes Record	-	-	-	-	-	-
+2009	256275	             Wet-Seal - Act Franchise	12/10/2009	-	29/10/2008	$110,000	-	Full transfer	-	-	-	-	-	$110,000	348	-	Allhomes Record	-	-	-	-	-	-
+2009	23400	             Beauty Redefined	26/03/2009	-	20/11/2008	$105,000	-	Full transfer	-	-	-	-	-	$105,000	126	-	Allhomes Record	-	-	-	-	-	-
+2009	23606	             Civic Video – Beautiful New Store In Exceptional Location – Well Below Set-Up Cost	28/07/2009	-	28/02/2008	$100,000	-	Full transfer	-	-	-	-	-	$100,000	516	-	Allhomes Record	-	-	-	-	-	-
+2009	23485	             Jamison Rent-A-Ute	24/06/2009	-	08/05/2009	$89,000	-	Full transfer	-	-	-	-	-	$89,000	47	-	Allhomes Record	-	-	-	-	-	-
+2009	23399	             Mobile Coffee Van	09/04/2009	-	12/01/2009	$57,750	-	Full transfer	-	-	-	-	-	$57,750	87	-	Allhomes Record	-	-	-	-	-	-
+2009	23622	             10 Retail Stores - $4,500,000 In Sales - $781,000 In Profits.	02/08/2009	-	20/02/2009	$1	-	Full transfer	-	-	-	-	-	$1	163	-	Allhomes Record	-	-	-	-	-	-
+2010	257788	             Let The Profits Persuade You...	31/05/2010	-	05/11/2009	$1,500,000	-	Full transfer	-	-	-	-	-	$1,500,000	207	-	Allhomes Record	-	-	-	-	-	-
+2010	257790	             Supermarket	31/05/2010	-	23/09/2009	$675,000	-	Full transfer	-	-	-	-	-	$675,000	250	-	Allhomes Record	-	-	-	-	-	-
+2010	247644	             Lynwood Cafe	11/01/2010	-	14/09/2009	$670,000	-	Full transfer	-	-	-	-	-	$670,000	119	-	Allhomes Record	-	-	-	-	-	-
+2010	264816	            2 London Circuit	16/06/2010	-	01/07/2010	$535,000	-	Full transfer	-	-	-	-	-	$535,000	-	-	Allhomes Record	-	-	-	-	-	-
+2010	266279	            804/222 City Walk	23/08/2010	-	01/03/2010	$520,000	1137m	Full transfer	2	2	1	1	-	$520,000	175	-	Allhomes Record	-	-	-	-	$7,720,000	14.85
+2010	264552	             Mitchell Iga Friendly Grocer	15/07/2010	-	21/08/2009	$420,000	-	Full transfer	-	-	-	-	-	$420,000	328	-	Allhomes Record	-	-	-	-	-	-
+2010	264551	             Waramanga General	15/07/2010	-	21/08/2009	$419,950	-	Full transfer	-	-	-	-	-	$419,950	328	-	Allhomes Record	-	-	-	-	-	-
+2010	257791	             Higgins Foodworks	31/05/2010	-	18/08/2009	$350,000	-	Full transfer	-	-	-	-	-	$350,000	286	-	Allhomes Record	-	-	-	-	-	-
+2010	257761	             Red Belly Black	31/05/2010	-	20/11/2009	$325,000	-	Full transfer	-	-	-	-	-	$325,000	192	-	Allhomes Record	-	-	-	-	-	-
+2010	266903	             Four Leaf Clover	29/08/2010	-	20/01/2010	$220,000	-	Full transfer	-	-	-	-	-	$220,000	221	-	Allhomes Record	-	-	-	-	-	-
+2010	271693	             Canlab And Bica Proframe	23/11/2010	-	06/05/2010	$200,000	-	Full transfer	-	-	-	-	-	$200,000	201	-	Allhomes Record	-	-	-	-	-	-
+2010	264501	             Cut Price Supermarket	13/07/2010	-	24/11/2009	$160,000	-	Full transfer	-	-	-	-	-	$160,000	231	-	Allhomes Record	-	-	-	-	-	-
+2010	264556	             Ali Baba	15/07/2010	-	09/11/2009	$149,950	-	Full transfer	-	-	-	-	-	$149,950	248	-	Allhomes Record	-	-	-	-	-	-
+2010	267027	             Lica's Furniture World	29/10/2010	-	04/06/2010	$60,000	-	Full transfer	-	-	-	-	-	$60,000	147	-	Allhomes Record	-	-	-	-	-	-
+2010	255284	             Specialist Pet Service / Garden Maintenance Business	05/04/2010	-	16/02/2010	$5,000	-	Full transfer	-	-	-	-	-	$5,000	48	-	Allhomes Record	-	-	-	-	-	-
+2010	265565	             The Soul Bar	27/08/2010	-	10/12/2009	$1	-	Full transfer	-	-	-	-	-	$1	260	-	Allhomes Record	-	-	-	-	-	-
+2010	265567	             Iga Lyons	27/08/2010	-	02/09/2009	$1	-	Full transfer	-	-	-	-	-	$1	359	-	Allhomes Record	-	-	-	-	-	-
+2011	343032	             Metal Fabrication And Supplies Business	07/11/2011	-	05/05/2011	$2,000,000	-	Full transfer	-	-	-	-	-	$2,000,000	186	-	Allhomes Record	-	-	-	-	-	-
+2011	276482	             Boost Juice Canberra - Number 1!!!	14/02/2011	-	11/01/2010	$590,000	-	Full transfer	-	-	-	-	-	$590,000	399	-	Allhomes Record	-	-	-	-	-	-
+2011	294162	             El Dorado's	17/06/2011	-	02/11/2010	$440,000	-	Full transfer	-	-	-	-	-	$440,000	227	-	Allhomes Record	-	-	-	-	-	-
+2011	294163	             Ogilvie Auto Repairs	17/06/2011	-	14/03/2011	$350,000	-	Full transfer	-	-	-	-	-	$350,000	95	-	Allhomes Record	-	-	-	-	-	-
+2011	294161	             Le Rendezvous	17/06/2011	-	15/02/2011	$319,950	-	Full transfer	-	-	-	-	-	$319,950	122	-	Allhomes Record	-	-	-	-	-	-
+2011	287124	             Curtin Milk Bar	28/04/2011	-	23/06/2010	$310,000	-	Full transfer	-	-	-	-	-	$310,000	309	-	Allhomes Record	-	-	-	-	-	-
+2011	291123	             Metro Espresso	30/05/2011	-	30/05/2011	$300,000	-	Full transfer	-	-	-	-	-	$300,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	290851	             Fire Your Boss	27/05/2011	-	28/04/2010	$300,000	-	Full transfer	-	-	-	-	-	$300,000	394	-	Allhomes Record	-	-	-	-	-	-
+2011	276484	             Interstate Owned – Retail Business - $167,000 Under Management Profits.	14/02/2011	-	19/03/2010	$279,950	-	Full transfer	-	-	-	-	-	$279,950	332	-	Allhomes Record	-	-	-	-	-	-
+2011	276483	             Carlo’s At Watson	07/02/2011	-	20/10/2010	$199,950	-	Full transfer	-	-	-	-	-	$199,950	110	-	Allhomes Record	-	-	-	-	-	-
+2011	345602	             The Hobart Coffee Lounge	29/11/2011	-	27/07/2010	$149,950	-	Full transfer	-	-	-	-	-	$149,950	490	-	Allhomes Record	-	-	-	-	-	-
+2011	275008	             The Barrow	24/01/2011	-	28/05/2010	$129,950	-	Full transfer	-	-	-	-	-	$129,950	241	-	Allhomes Record	-	-	-	-	-	-
+2011	338771	             Chinese Takeaway	04/10/2011	-	14/06/2011	$89,950	-	Full transfer	-	-	-	-	-	$89,950	112	-	Allhomes Record	-	-	-	-	-	-
+2011	274951	             John Brennan Hair Salon	18/01/2011	-	08/07/2010	$75,000	-	Full transfer	-	-	-	-	-	$75,000	194	-	Allhomes Record	-	-	-	-	-	-
+2011	275452	             For Next To Nothing You Can Take Control…..	07/02/2011	-	15/11/2010	$49,950	-	Full transfer	-	-	-	-	-	$49,950	84	-	Allhomes Record	-	-	-	-	-	-
+2012	358651	             5 Day Cafe - Government Building	01/03/2012	-	07/02/2012	$550,000	-	Full transfer	-	-	-	-	-	$550,000	23	-	Allhomes Record	-	-	-	-	-	-
+2012	381860	             Compare Then Buy... High Profit... Low Price	29/11/2012	-	17/09/2012	$500,000	-	Full transfer	-	-	-	-	-	$500,000	73	-	Allhomes Record	-	-	-	-	-	-
+2012	386332	             Commercial Milk Run	21/12/2012	-	18/04/2012	$400,000	-	Full transfer	-	-	-	-	-	$400,000	247	-	Allhomes Record	-	-	-	-	-	-
+2012	381233	             Inner South Licensed Post Office And Newsagency	09/11/2012	-	12/08/2011	$249,950	-	Full transfer	-	-	-	-	-	$249,950	455	-	Allhomes Record	-	-	-	-	-	-
+2012	378595	             Zambrero Manuka	18/10/2012	-	29/07/2011	$220,000	-	Full transfer	-	-	-	-	-	$220,000	447	-	Allhomes Record	-	-	-	-	-	-
+2012	363298	             Florist - Design A Bunch	20/04/2012	-	12/09/2011	$200,000	-	Full transfer	-	-	-	-	-	$200,000	221	-	Allhomes Record	-	-	-	-	-	-
+2012	382861	             Automotive Mechanic	19/12/2012	-	14/06/2012	$195,000	-	Full transfer	-	-	-	-	-	$195,000	188	-	Allhomes Record	-	-	-	-	-	-
+2012	377524	             Coffee Guru	14/09/2012	-	02/03/2012	$195,000	-	Full transfer	-	-	-	-	-	$195,000	196	-	Allhomes Record	-	-	-	-	-	-
+2012	382261	             Angelic Inspirations - Sold By Brindabella Business Brokers	10/12/2012	-	23/02/2012	$190,000	-	Full transfer	-	-	-	-	-	$190,000	291	-	Allhomes Record	-	-	-	-	-	-
+2012	380259	             Canberra Reptile Sanctuary - Sold By Brindabella Business Brokers	01/11/2012	-	14/02/2012	$95,000	-	Full transfer	-	-	-	-	-	$95,000	261	-	Allhomes Record	-	-	-	-	-	-
+2012	363941	             Hair And Beauty Salon	30/04/2012	-	31/10/2011	$85,000	-	Full transfer	-	-	-	-	-	$85,000	182	-	Allhomes Record	-	-	-	-	-	-
+2012	381197	             Keltie Street	07/11/2012	-	28/03/2011	$57,000	-	Full transfer	-	-	-	-	-	$57,000	590	-	Allhomes Record	-	-	-	-	-	-
+2012	378323	             Wedding & Event Decoration Business	08/10/2012	-	05/06/2012	$50,000	-	Full transfer	-	-	-	-	-	$50,000	125	-	Allhomes Record	-	-	-	-	-	-
+2012	380461	             Kingston Beauty Salon - Sold By Brindabella Business Brokers	07/11/2012	-	21/09/2011	$45,000	-	Full transfer	-	-	-	-	-	$45,000	413	-	Allhomes Record	-	-	-	-	-	-
+2013	388224	             Super, Super Market.	07/02/2013	-	11/09/2012	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	149	-	Allhomes Record	-	-	-	-	-	-
+2013	408450	             Be Greedy While Others Are Cautious...	16/10/2013	-	29/08/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	48	-	Allhomes Record	-	-	-	-	-	-
+2013	403275	             Your Own Hairdressing Salon	09/08/2013	-	16/04/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	115	-	Allhomes Record	-	-	-	-	-	-
+2013	412042	             Trendy, Busy, City Cafe	09/11/2013	-	13/05/2013	$450,000	-	Full transfer	-	-	-	-	-	$450,000	180	-	Allhomes Record	-	-	-	-	-	-
+2013	399592	             Follow The Chocolate To The Bank	02/07/2013	-	21/03/2013	$450,000	-	Full transfer	-	-	-	-	-	$450,000	103	-	Allhomes Record	-	-	-	-	-	-
+2013	390229	             Yarralumla Cafe	05/03/2013	-	10/10/2012	$450,000	-	Full transfer	-	-	-	-	-	$450,000	146	-	Allhomes Record	-	-	-	-	-	-
+2013	401223	             Woden Food Franchise - Under Management	15/07/2013	-	19/03/2013	$385,000	-	Full transfer	-	-	-	-	-	$385,000	118	-	Allhomes Record	-	-	-	-	-	-
+2013	406032	             When You Hear The Name, You'll Be Interested	07/09/2013	-	28/11/2012	$300,000	-	Full transfer	-	-	-	-	-	$300,000	283	-	Allhomes Record	-	-	-	-	-	-
+2013	404512	             Hermitage Restaurant In Civic	16/08/2013	-	17/04/2013	$265,000	-	Full transfer	-	-	-	-	-	$265,000	121	-	Allhomes Record	-	-	-	-	-	-
+2013	391136	             Civic Cocktail Bar - Owners Profits $265k	02/04/2013	-	29/11/2012	$215,000	-	Full transfer	-	-	-	-	-	$215,000	124	-	Allhomes Record	-	-	-	-	-	-
+2013	403451	             5 Day Cafe - 35kg Coffee With 3 Year Old Fitout	12/08/2013	-	19/12/2012	$210,000	-	Full transfer	-	-	-	-	-	$210,000	236	-	Allhomes Record	-	-	-	-	-	-
+2013	385403	             Uptown Cafe	08/01/2013	-	03/07/2012	$200,000	-	Full transfer	-	-	-	-	-	$200,000	189	-	Allhomes Record	-	-	-	-	-	-
+2013	399485	             5.5 Day Cafe 20kg Coffee Civic	28/06/2013	-	24/05/2013	$165,000	-	Full transfer	-	-	-	-	-	$165,000	35	-	Allhomes Record	-	-	-	-	-	-
+2013	386896	             Profitable Beauty Salon - Sold By Brindabella Business Brokers	01/02/2013	-	16/03/2012	$165,000	-	Full transfer	-	-	-	-	-	$165,000	322	-	Allhomes Record	-	-	-	-	-	-
+2013	398432	             Remote Controlled Cafe, Westfield Belconnen	06/06/2013	-	08/01/2013	$160,000	-	Full transfer	-	-	-	-	-	$160,000	149	-	Allhomes Record	-	-	-	-	-	-
+2013	391062	             Kingston Cafe With No Competition	28/03/2013	-	22/08/2012	$145,000	-	Full transfer	-	-	-	-	-	$145,000	218	-	Allhomes Record	-	-	-	-	-	-
+2013	386333	             Hughes Post Office	17/01/2013	-	01/06/2012	$100,000	-	Full transfer	-	-	-	-	-	$100,000	230	-	Allhomes Record	-	-	-	-	-	-
+2013	414548	             6 Day Cafe Fyshwick	13/12/2013	-	03/09/2013	$80,000	-	Full transfer	-	-	-	-	-	$80,000	101	-	Allhomes Record	-	-	-	-	-	-
+2013	409869	             Be Ambitious While Others Tremble	24/10/2013	-	05/06/2013	$60,000	-	Full transfer	-	-	-	-	-	$60,000	141	-	Allhomes Record	-	-	-	-	-	-
+2013	390570	             Card And Gift Store	14/03/2013	-	14/06/2011	$50,000	-	Full transfer	-	-	-	-	-	$50,000	639	-	Allhomes Record	-	-	-	-	-	-
+2013	404531	             Administrators Appointed - Restaurant Plant And Equipment For Sale	20/08/2013	-	07/05/2013	$25,000	-	Full transfer	-	-	-	-	-	$25,000	105	-	Allhomes Record	-	-	-	-	-	-
+2013	391015	             Abc Sports Clean	28/03/2013	-	06/12/2012	$20,000	-	Full transfer	-	-	-	-	-	$20,000	112	-	Allhomes Record	-	-	-	-	-	-
+2014	492090	             Bs2625	01/04/2014	-	23/12/2016	$1,800,000	-	Full transfer	-	-	-	-	-	$1,800,000	-	-	Allhomes Record	-	-	-	-	-	-
+2014	439188	            0 Full Line Hotel - Pokies Plus - 90k A Week.	27/11/2014	-	29/08/2014	$1,100,000	-	Full transfer	-	-	-	-	-	$1,100,000	90	-	Allhomes Record	-	-	-	-	-	-
+2014	416108	             Established Beauty Salon, Inner South	20/01/2014	-	02/08/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	171	-	Allhomes Record	-	-	-	-	-	-
+2014	416081	             Hottest Bakery	18/01/2014	-	15/08/2012	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	521	-	Allhomes Record	-	-	-	-	-	-
+2014	416109	             Asian Grocer, Busy Shopping Mall	20/01/2014	-	31/07/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	173	-	Allhomes Record	-	-	-	-	-	-
+2014	415463	             Remote Controlled Cafe, Westfield Belconnen	13/01/2014	-	19/07/2013	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	178	-	Allhomes Record	-	-	-	-	-	-
+2014	420375	             5 Day Cafe - 60kg Coffee - Run Under Full Management	13/03/2014	-	18/11/2013	$500,000	-	Full transfer	-	-	-	-	-	$500,000	115	-	Allhomes Record	-	-	-	-	-	-
+2014	434186	            CPTBA L P Road	19/09/2014	-	04/08/2014	$459,000	404700m	Full transfer	-	-	-	-	-	$459,000	46	-	Allhomes Record	-	-	-	-	-	-
+2014	432665	5/1 The Mews	20/08/2014	-	17/06/2014	$399,000	0m	Full transfer	1	1	-	1	0	$399,000	64	-	Allhomes Record	-	-	-	-	-	-
+2014	437264	3/2 Edinburgh Avenue	07/11/2014	-	08/09/2014	$395,000	6923m	Full transfer	1	1	0	0	0	$395,000	60	-	Allhomes Record	-	-	-	-	$14,990,850	37.95
+2014	439247	            16/3 London Circuit	25/11/2014	-	23/08/2014	$392,500	0m	Full transfer	1	1	-	0	1	$392,500	94	-	Allhomes Record	-	-	-	-	-	-
+2014	425723	             45kg Coffee No Kitchen And Run Under Management	13/06/2014	-	11/04/2014	$330,000	-	Full transfer	-	-	-	-	-	$330,000	63	-	Allhomes Record	-	-	-	-	-	-
+2014	435970	            0 City Cafe - Aps Building	20/10/2014	-	15/02/2014	$330,000	-	Full transfer	-	-	-	-	-	$330,000	247	-	Allhomes Record	-	-	-	-	-	-
+2014	420605	             Liquor Outlet Still Strong After 48 Years	20/03/2014	-	29/03/2013	$300,000	-	Full transfer	-	-	-	-	-	$300,000	356	-	Allhomes Record	-	-	-	-	-	-
+2014	422381	             Prestige Motor Repairer - Owners Profit $368,000	11/04/2014	-	31/07/2013	$260,000	-	Full transfer	-	-	-	-	-	$260,000	254	-	Allhomes Record	-	-	-	-	-	-
+2014	435971	            0 Massive Newsagency Delivers For Investors	20/10/2014	-	29/05/2014	$259,950	-	Full transfer	-	-	-	-	-	$259,950	144	-	Allhomes Record	-	-	-	-	-	-
+2014	423425	             Ken's Marine	13/03/2014	-	10/01/2012	$250,000	-	Full transfer	-	-	-	-	-	$250,000	793	-	Allhomes Record	-	-	-	-	-	-
+2014	425994	             Established Inner North Newsagency And Lpo	25/06/2014	-	09/11/2013	$245,000	-	Full transfer	-	-	-	-	-	$245,000	228	-	Allhomes Record	-	-	-	-	-	-
+2014	425966	             Inner North Cafe With New Fit Out	25/06/2014	-	07/02/2014	$210,000	-	Full transfer	-	-	-	-	-	$210,000	138	-	Allhomes Record	-	-	-	-	-	-
+2014	431261	            1 Must Sell Make An Offer Northside Dj Cocktail Bar	31/07/2014	-	19/08/2013	$160,000	-	Full transfer	-	-	-	-	-	$160,000	346	-	Allhomes Record	-	-	-	-	-	-
+2014	437244	            0 Mooreish On Moore	07/11/2014	-	13/05/2014	$119,950	-	Full transfer	-	-	-	-	-	$119,950	178	-	Allhomes Record	-	-	-	-	-	-
+2014	421944	             Huge Potential In Healthy Drink Distributorship	28/03/2014	-	04/06/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	297	-	Allhomes Record	-	-	-	-	-	-
+2014	426042	            0 Get Lucky - Own This Nightclub	27/06/2014	-	03/04/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	85	-	Allhomes Record	-	-	-	-	-	-
+2014	431225	            0 Impressive Tuggeranong Based Post Office And Newsagency.	30/07/2014	-	23/06/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	37	-	Allhomes Record	-	-	-	-	-	-
+2014	435986	            0 City Nightclub	20/10/2014	-	01/08/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	80	-	Allhomes Record	-	-	-	-	-	-
+2014	435231	            0 Compact Supermarket, Impressive Profits	09/10/2014	-	01/05/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	161	-	Allhomes Record	-	-	-	-	-	-
+2014	426041	             Rent Roll	27/06/2014	-	08/02/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	139	-	Allhomes Record	-	-	-	-	-	-
+2014	421945	             Invest In An Event Newspaper Shop	28/03/2014	-	07/05/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	325	-	Allhomes Record	-	-	-	-	-	-
+2014	423376	             Col Western Sheds	16/04/2014	-	29/01/2014	$100,000	-	Full transfer	-	-	-	-	-	$100,000	77	-	Allhomes Record	-	-	-	-	-	-
+2014	417325	             Beautiful Salon	03/02/2014	-	31/08/2012	$100,000	-	Full transfer	-	-	-	-	-	$100,000	521	-	Allhomes Record	-	-	-	-	-	-
+2014	421916	             Profitable Wholesale Bakery	28/03/2014	-	11/06/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	290	-	Allhomes Record	-	-	-	-	-	-
+2014	421943	             Takeaway Seafood	28/03/2014	-	11/07/2012	$100,000	-	Full transfer	-	-	-	-	-	$100,000	625	-	Allhomes Record	-	-	-	-	-	-
+2014	418667	             Stalwart North-Side Newsagency	14/02/2014	-	20/06/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	239	-	Allhomes Record	-	-	-	-	-	-
+2014	422434	             Iconic Cafe - New Price	14/04/2014	-	18/09/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	208	-	Allhomes Record	-	-	-	-	-	-
+2014	421949	             Beppes Cafe	28/03/2014	-	14/12/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	104	-	Allhomes Record	-	-	-	-	-	-
+2014	440963	             Muffin Break Tuggeranong	24/12/2014	-	26/09/2013	$100,000	-	Full transfer	-	-	-	-	-	$100,000	454	-	Allhomes Record	-	-	-	-	-	-
+2014	420653	             Beauty Salon Northside - Owners Profit $154,000	21/03/2014	-	14/03/2013	$95,000	-	Full transfer	-	-	-	-	-	$95,000	372	-	Allhomes Record	-	-	-	-	-	-
+2014	435978	            0 Best Coffee In Area	20/10/2014	-	21/04/2014	$79,950	-	Full transfer	-	-	-	-	-	$79,950	182	-	Allhomes Record	-	-	-	-	-	-
+2014	437104	             Cafe For Sale - Canberra City	04/11/2014	-	18/06/2014	$55,000	-	Full transfer	-	-	-	-	-	$55,000	139	-	Allhomes Record	-	-	-	-	-	-
+2014	439187	            9/15 Prime Location Cafe Fit-Out	27/11/2014	-	25/03/2014	$49,950	-	Full transfer	-	-	-	-	-	$49,950	247	-	Allhomes Record	-	-	-	-	-	-
+2014	423706	             5 Day Small Cafe With No Kitchen Woden	30/04/2014	-	04/09/2013	$45,000	-	Full transfer	-	-	-	-	-	$45,000	238	-	Allhomes Record	-	-	-	-	-	-
+2014	425388	             Spice India Belconnen	30/05/2014	-	12/12/2013	$45,000	-	Full transfer	-	-	-	-	-	$45,000	169	-	Allhomes Record	-	-	-	-	-	-
+2014	417207	             Secure Document Destruction	29/01/2014	-	06/08/2013	$30,000	-	Full transfer	-	-	-	-	-	$30,000	176	-	Allhomes Record	-	-	-	-	-	-
+2014	423707	            1 Gourment Pizza Business	30/04/2014	-	10/03/2014	$25,000	-	Full transfer	-	-	-	-	-	$25,000	51	-	Allhomes Record	-	-	-	-	-	-
+2014	418661	             20 Year Air Con And Heating Installer	14/02/2014	-	19/07/2013	$25,000	-	Full transfer	-	-	-	-	-	$25,000	210	-	Allhomes Record	-	-	-	-	-	-
+2014	425989	             Canberra Hire Car Sub-Lease Plate	25/06/2014	-	22/01/2014	$16,000	-	Full transfer	-	-	-	-	-	$16,000	154	-	Allhomes Record	-	-	-	-	-	-
+2015	460562	             Brand New Indoor Trampoline Arena	09/09/2015	-	11/06/2015	$800,000	-	Full transfer	-	-	-	-	-	$800,000	90	-	Allhomes Record	-	-	-	-	-	-
+2015	466052	             Temporary Fence And Toilet Hire	02/12/2015	-	05/06/2015	$565,000	-	Full transfer	-	-	-	-	-	$565,000	180	-	Allhomes Record	-	-	-	-	-	-
+2015	454768	             5 Day Cafe 95kg Coffee Per Week	03/07/2015	-	24/04/2015	$500,000	-	Full transfer	-	-	-	-	-	$500,000	70	-	Allhomes Record	-	-	-	-	-	-
+2015	444735	103/16 Moore Street	12/02/2015	-	15/01/2015	$459,950	-	Full transfer	2	1	1	1	0	$459,950	28	-	Allhomes Record	-	-	-	-	$4,182,700	9.09
+2015	442704	517/240 Bunda Street	19/01/2015	-	03/07/2014	$420,000	4181m	Full transfer	1	1	-	1	-	$420,000	200	-	Allhomes Record	60	-	-	-	$19,500,000	46.43
+2015	462303	4/35 Childers Street	15/10/2015	-	09/05/2014	$320,000	8534m	Full transfer	-	-	-	-	-	$320,000	524	-	Allhomes Record	-	-	-	-	$1,420,000	4.44
+2015	449609	             7 Day Cafe Under Management $145k Profit	20/04/2015	-	09/10/2014	$300,000	-	Full transfer	-	-	-	-	-	$300,000	193	-	Allhomes Record	-	-	-	-	-	-
+2015	454738	             7 Day Cafe New Fit Out Under Management	02/07/2015	-	13/04/2015	$295,000	-	Full transfer	-	-	-	-	-	$295,000	80	-	Allhomes Record	-	-	-	-	-	-
+2015	442536	             Cafe For Sale In High Growth Area	28/01/2015	-	11/06/2014	$239,000	-	Full transfer	-	-	-	-	-	$239,000	231	-	Allhomes Record	-	-	-	-	-	-
+2015	450644	             Exclusive Rights To Printers & Consumables Sold Australia Wide	05/05/2015	-	18/06/2014	$195,000	-	Full transfer	-	-	-	-	-	$195,000	321	-	Allhomes Record	-	-	-	-	-	-
+2015	492092	             Bs4613	22/09/2015	-	23/12/2016	$100,000	-	Full transfer	-	-	-	-	-	$100,000	-	-	Allhomes Record	-	-	-	-	-	-
+2015	467359	            1 Giles Street	01/12/2015	-	12/08/2015	$49,000	-	Full transfer	-	-	-	-	-	$49,000	111	-	Allhomes Record	235	-	-	-	-	-
+2015	458740	            _ 6 Day Hair Salon	24/08/2015	-	12/08/2014	$45,000	-	Full transfer	-	-	-	-	-	$45,000	377	-	Allhomes Record	-	-	-	-	-	-
+2015	466839	             Bs4922	10/12/2015	-	25/05/2015	$11,000	-	Full transfer	-	-	-	-	-	$11,000	199	-	Allhomes Record	-	-	-	-	-	-
+2015	454535	             Photobooth Hire - Corporate, Weddings And Kids Parties	25/06/2015	-	14/11/2013	$1	-	Full transfer	-	-	-	-	-	$1	588	-	Allhomes Record	-	-	-	-	-	-
+2016	492043	             Bs4431	01/12/2016	-	22/12/2016	$1,500,000	-	Full transfer	-	-	-	-	-	$1,500,000	-	-	Allhomes Record	-	-	-	-	-	-
+2016	490027	             Iga Supermarket	28/11/2016	-	07/09/2016	$950,000	-	Full transfer	-	-	-	-	-	$950,000	82	-	Allhomes Record	-	-	-	-	-	-
+2016	490950	             Iga Supermarket	08/12/2016	-	03/10/2016	$500,000	-	Full transfer	-	-	-	-	-	$500,000	66	-	Allhomes Record	-	-	-	-	-	-
+2016	479064	             Bakery Makes Owner Over $330,000	22/06/2016	-	03/12/2015	$500,000	-	Full transfer	-	-	-	-	-	$500,000	202	-	Allhomes Record	-	-	-	-	-	-
+2016	478988	507/2 Akuna Street	10/06/2016	-	21/04/2016	$435,000	0m	Full transfer	2	1	-	1	0	$435,000	50	-	Allhomes Record	-	-	-	-	$10,052,000	23.11
+2016	477416	6/66 Allara Street	30/05/2016	-	29/10/2015	$425,000	0m	Full transfer	1	1	-	0	1	$425,000	214	-	Allhomes Record	-	-	-	-	$3,283,000	7.72
+2016	474281	            2 Akuna	22/04/2016	-	21/04/2016	$181,500	-	Full transfer	-	-	-	-	-	$181,500	1	-	Allhomes Record	-	-	-	-	-	-
+2016	475061	             Bs5563	02/05/2016	-	04/12/2015	$150,000	-	Full transfer	-	-	-	-	-	$150,000	150	-	Allhomes Record	-	-	-	-	-	-
+2016	485364	             Business Name:  7 Day Cafe Under Management Location: Canberra	23/09/2016	-	14/01/2016	$150,000	-	Full transfer	-	-	-	-	-	$150,000	253	-	Allhomes Record	-	-	-	-	-	-
+2016	487847	            75 Leader Joinery - Administrator Sale	26/10/2016	-	05/09/2016	$100,000	-	Full transfer	-	-	-	-	-	$100,000	51	-	Allhomes Record	-	-	-	-	-	-
+2016	485828	            75 Fruit, Veg And Meat - Find Better Value Buy It!	29/09/2016	-	22/08/2016	$80,000	-	Full transfer	-	-	-	-	-	$80,000	38	-	Allhomes Record	-	-	-	-	-	-
+2016	476970	             Australian Distribution Rights To Chemical Cleaners	26/05/2016	-	25/02/2016	$80,000	-	Full transfer	-	-	-	-	-	$80,000	91	-	Allhomes Record	-	-	-	-	-	-
+2016	474202	             Snag Stand	18/04/2016	-	01/02/2016	$50,000	-	Full transfer	-	-	-	-	-	$50,000	77	-	Allhomes Record	-	-	-	-	-	-
+2016	489675	            75 Bali Essence Day Spa	16/11/2016	-	22/08/2016	$39,950	-	Full transfer	-	-	-	-	-	$39,950	86	-	Allhomes Record	-	-	-	-	-	-
+2016	487753	             Car Care Canberra	21/10/2016	-	07/09/2016	$25,000	-	Full transfer	-	-	-	-	-	$25,000	44	-	Allhomes Record	-	-	-	-	-	-
+2016	483983	             Iconic Pub Under Management For $nil	12/09/2016	-	04/12/2015	$1	-	Full transfer	-	-	-	-	-	$1	283	-	Allhomes Record	-	-	-	-	-	-
+2016	491113	             Formerly Suburban For $nil	13/12/2016	-	18/08/2016	$1	-	Full transfer	-	-	-	-	-	$1	117	-	Allhomes Record	-	-	-	-	-	-
+2017	505985	            75 Canberra Based Rent Roll - 200+ Properties	27/06/2017	-	07/04/2017	$1,115,000	-	Full transfer	-	-	-	-	-	$1,115,000	81	-	Allhomes Record	-	-	-	-	-	-
+2017	510784		07/12/2017	-	13/05/2016	$959,900	-	Full transfer	3	2	-	2	-	$959,900	573	-	Allhomes Record	-	-	-	-	-	-
+2017	507298	805/222 City Walk	22/08/2017	-	19/07/2017	$770,000	0m	Full transfer	3	2	-	0	1	$770,000	34	-	Allhomes Record	-	-	-	-	$10,294,000	13.37
+2017	509148	1319/240 Bunda Street	30/10/2017	-	30/09/2017	$752,000	0m	Full transfer	2	2	-	2	0	$752,000	30	-	Allhomes Record	-	-	-	-	$19,500,000	25.93
+2017	506011	            1 Natural Living Fyshwick Markets - Very Profitable	27/06/2017	-	06/03/2017	$750,000	-	Full transfer	-	-	-	-	-	$750,000	113	-	Allhomes Record	-	-	-	-	-	-
+2017	508171	            75 Canberra Pergola Business	26/09/2017	-	02/09/2017	$609,201	-	Full transfer	-	-	-	-	-	$609,201	24	-	Allhomes Record	-	-	-	-	-	-
+2017	506821	            75 5 Days - 10 Hours - $170k Profits	04/08/2017	-	15/02/2017	$549,950	-	Full transfer	-	-	-	-	-	$549,950	170	-	Allhomes Record	-	-	-	-	-	-
+2017	507878	            91/66 Allara Street	13/09/2017	-	01/09/2017	$515,000	0m	Full transfer	2	2	-	1	0	$515,000	12	-	Allhomes Record	-	-	-	-	-	-
+2017	493444	            75 Rent Roll Sale 80-100 Managements	13/01/2017	-	12/08/2016	$500,000	-	Full transfer	-	-	-	-	-	$500,000	154	-	Allhomes Record	-	-	-	-	-	-
+2017	506433		04/07/2017	-	13/05/2016	$499,900	-	Full transfer	1	1	-	1	-	$499,900	417	-	Allhomes Record	-	-	-	-	-	-
+2017	500351	             Cocktail Bar Under Management Very Profitable	06/04/2017	-	18/08/2016	$480,000	-	Full transfer	-	-	-	-	-	$480,000	231	-	Allhomes Record	-	-	-	-	-	-
+2017	504146	513/240 Bunda Street	19/05/2017	-	08/09/2016	$446,000	0m	Full transfer	1	1	-	0	1	$446,000	253	-	Allhomes Record	-	-	-	-	$19,500,000	43.72
+2017	510269	            75 Lonsdale Street Cyclery	05/12/2017	-	21/10/2017	$420,000	-	Full transfer	-	-	-	-	-	$420,000	45	-	Allhomes Record	-	-	-	-	-	-
+2017	508377	             Bs6981	03/10/2017	-	21/04/2017	$380,000	-	Full transfer	-	-	-	-	-	$380,000	165	-	Allhomes Record	-	-	-	-	-	-
+2017	499463	             The Shed Cafe- Westfield Woden	31/03/2017	-	01/11/2016	$349,000	-	Full transfer	-	-	-	-	-	$349,000	150	-	Allhomes Record	-	-	-	-	-	-
+2017	506618	            75 Franchise Coffee Shop 7 Days	26/07/2017	-	07/01/2017	$339,000	-	Full transfer	-	-	-	-	-	$339,000	200	-	Allhomes Record	-	-	-	-	-	-
+2017	509067	            75 Quizine - 5 1/2 Day A Week Cafe Big On Opportunity Low On Costs!	01/11/2017	-	21/10/2017	$299,950	-	Full transfer	-	-	-	-	-	$299,950	11	-	Allhomes Record	-	-	-	-	-	-
+2017	502104	             Bs6243	28/04/2017	-	07/09/2016	$295,000	-	Full transfer	-	-	-	-	-	$295,000	233	-	Allhomes Record	-	-	-	-	-	-
+2017	506617	            75 Coffee Guru Canberra Centre	26/07/2017	-	09/01/2017	$295,000	-	Full transfer	-	-	-	-	-	$295,000	198	-	Allhomes Record	-	-	-	-	-	-
+2017	507843	            75 5-Day Week Cafe Surrounded By Government Offices Low Rent And Secure Lease.	13/09/2017	-	16/01/2017	$285,000	-	Full transfer	-	-	-	-	-	$285,000	240	-	Allhomes Record	-	-	-	-	-	-
+2017	505315	            75 Jet Flight Simulator Canberra	06/06/2017	-	09/01/2017	$279,950	-	Full transfer	-	-	-	-	-	$279,950	148	-	Allhomes Record	-	-	-	-	-	-
+2017	506731	            75 Mitchell Supermarket	31/07/2017	-	07/01/2017	$270,000	-	Full transfer	-	-	-	-	-	$270,000	205	-	Allhomes Record	-	-	-	-	-	-
+2017	508591	            1 Mini Golf King Very Profitable	12/10/2017	-	09/05/2017	$220,000	-	Full transfer	-	-	-	-	-	$220,000	156	-	Allhomes Record	-	-	-	-	-	-
+2017	496362	             Under Management Cafe 70kg Of Coffee	03/03/2017	-	30/09/2016	$150,000	-	Full transfer	-	-	-	-	-	$150,000	154	-	Allhomes Record	-	-	-	-	-	-
+2017	508889	            75 Mackas Griffith Newsagency	27/10/2017	-	21/10/2017	$139,950	-	Full transfer	-	-	-	-	-	$139,950	6	-	Allhomes Record	-	-	-	-	-	-
+2017	510065	            1 Coffee Guru Lanyon - Run Under Management	28/11/2017	-	07/09/2017	$135,000	-	Full transfer	-	-	-	-	-	$135,000	82	-	Allhomes Record	-	-	-	-	-	-
+2017	508736	            1 5 Day 40kg Coffee Run By Staff	20/10/2017	-	15/06/2017	$135,000	-	Full transfer	-	-	-	-	-	$135,000	127	-	Allhomes Record	-	-	-	-	-	-
+2017	499182	            75 Fyshwick One Stop	22/03/2017	-	26/11/2016	$125,000	-	Full transfer	-	-	-	-	-	$125,000	116	-	Allhomes Record	-	-	-	-	-	-
+2017	509859	            75 Jiparu Cellars	22/11/2017	-	21/10/2017	$115,000	-	Full transfer	-	-	-	-	-	$115,000	32	-	Allhomes Record	-	-	-	-	-	-
+2017	499196	            75 Small But Sweet - Rent Roll 21 Managements	22/03/2017	-	23/01/2017	$110,000	-	Full transfer	-	-	-	-	-	$110,000	58	-	Allhomes Record	-	-	-	-	-	-
+2017	494341	            75 Braddon Cafe Restaurant	07/02/2017	-	05/11/2016	$100,000	-	Full transfer	-	-	-	-	-	$100,000	94	-	Allhomes Record	-	-	-	-	-	-
+2017	493435	            75 Hughes Commercial Furniture	12/01/2017	-	05/11/2016	$100,000	-	Full transfer	-	-	-	-	-	$100,000	68	-	Allhomes Record	-	-	-	-	-	-
+2017	496055	            75 Canberra Best Value Newsagency	22/02/2017	-	22/10/2016	$99,500	-	Full transfer	-	-	-	-	-	$99,500	123	-	Allhomes Record	-	-	-	-	-	-
+2017	507476	            75 Pistachio Dining At Torrens	30/08/2017	-	12/04/2017	$95,000	-	Full transfer	-	-	-	-	-	$95,000	140	-	Allhomes Record	-	-	-	-	-	-
+2017	507327	            75 Pearce Cafe Lounge	22/08/2017	-	29/04/2017	$69,950	-	Full transfer	-	-	-	-	-	$69,950	115	-	Allhomes Record	-	-	-	-	-	-
+2017	503665	            75 Dynamic Electrical And Data Communications Systems Integration Business	10/05/2017	-	23/03/2017	$65,000	-	Full transfer	-	-	-	-	-	$65,000	48	-	Allhomes Record	-	-	-	-	-	-
+2017	507837	            75 Tallow And Thyme	12/09/2017	-	01/08/2017	$60,000	-	Full transfer	-	-	-	-	-	$60,000	42	-	Allhomes Record	-	-	-	-	-	-
+2017	506359	            75 Stone Wall Cafe - Civic Act	12/07/2017	-	07/06/2017	$50,000	-	Full transfer	-	-	-	-	-	$50,000	35	-	Allhomes Record	-	-	-	-	-	-
+2017	506799	            1 Wheat & Oats - Selling Cheap To Sell Quickly	03/08/2017	-	24/05/2017	$49,000	-	Full transfer	-	-	-	-	-	$49,000	71	-	Allhomes Record	-	-	-	-	-	-
+2017	509066	            75 Northside Post Office Over $100,000 Reasons To Say Yes	01/11/2017	-	21/10/2017	$35,000	-	Full transfer	-	-	-	-	-	$35,000	11	-	Allhomes Record	-	-	-	-	-	-
+2017	507672	             Bs6412	30/08/2017	-	29/06/2017	$30,000	-	Full transfer	-	-	-	-	-	$30,000	62	-	Allhomes Record	-	-	-	-	-	-
+2018	531743	1402/19 Marcus Clarke Street	10/05/2018	-	23/02/2018	$1,120,000	-	Full transfer	2	1	1	2	-	$1,120,000	76	-	Allhomes Record	112	-	-	-	$11,290,650	10.08
+2018	537954		20/07/2018	-	13/05/2016	$649,900	-	Full transfer	2	2	-	1	-	$649,900	798	-	Allhomes Record	-	-	-	-	-	-
+2018	533747		17/05/2018	-	17/07/2017	$549,900	-	Full transfer	2	1	-	-	-	$549,900	304	-	Allhomes Record	-	-	-	-	-	-
+2018	526408	            1 $200,000 Profit And Remotely Managed	08/03/2018	-	18/07/2017	$450,000	-	Full transfer	-	-	-	-	-	$450,000	233	-	Allhomes Record	-	-	-	-	-	-
+2018	544648	24 Lonsdale Street	31/10/2018	-	28/06/2018	$379,000	-	Full transfer	-	-	-	-	-	$379,000	125	-	Allhomes Record	-	-	-	-	$15,675,000	41.36
+2018	536779	75 Jones & Co	10/07/2018	-	13/03/2018	$350,000	-	Full transfer	-	-	-	-	-	$350,000	119	-	Allhomes Record	-	-	-	-	$1,182,000	3.38
+2018	536780	75 Dexion Canberra & Dizzy Office Furniture	10/07/2018	-	21/10/2017	$295,000	-	Full transfer	-	-	-	-	-	$295,000	262	-	Allhomes Record	-	-	-	-	-	-
+2018	534205	            2 Akuna	06/06/2018	-	28/02/2018	$260,000	-	Full transfer	1	1	-	-	-	$260,000	98	-	Allhomes Record	45	-	-	-	$10,052,000	38.66
+2018	538708	75 Lc Digital - Rsm	08/08/2018	-	18/07/2018	$200,000	-	Full transfer	-	-	-	-	-	$200,000	21	-	Allhomes Record	-	-	-	-	$3,114,000	15.57
+2018	542019	305/2 Akuna Street	28/09/2018	-	31/08/2018	$195,000	0m	Full transfer	1	1	-	0	0	$195,000	28	-	Allhomes Record	-	-	-	-	$10,052,000	51.55
+2018	531191	1 Canberra	02/05/2018	-	28/02/2018	$150,000	-	Full transfer	-	-	-	-	-	$150,000	63	-	Allhomes Record	-	-	-	-	$9,025,000	60.17
+2018	536778	            75 Go Vita Tuggeranong	10/07/2018	-	21/10/2017	$139,000	-	Full transfer	-	-	-	-	-	$139,000	262	-	Allhomes Record	-	-	-	-	-	-
+2018	536790	            75 Crown Espresso	10/07/2018	-	08/12/2017	$117,000	-	Full transfer	-	-	-	-	-	$117,000	214	-	Allhomes Record	-	-	-	-	-	-
+2018	529332	            75 City Based Rent Roll	13/04/2018	-	11/12/2017	$100,000	-	Full transfer	-	-	-	-	-	$100,000	123	-	Allhomes Record	-	-	-	-	-	-
+2018	545028	75 Kebab & Takeaway Shop Batemans Bay Location	15/11/2018	-	18/10/2018	$100,000	-	Full transfer	-	-	-	-	-	$100,000	28	-	Allhomes Record	-	-	-	-	-	-
+2018	543595	75 Hang Ups Canberra	23/10/2018	-	02/10/2018	$100,000	-	Full transfer	-	-	-	-	-	$100,000	21	-	Allhomes Record	-	-	-	-	-	-
+2018	544649	75 The Loading Zone	31/10/2018	-	04/06/2018	$100,000	-	Full transfer	-	-	-	-	-	$100,000	149	-	Allhomes Record	-	-	-	-	$5,375,000	53.75
+2018	511559	             Bs7851	05/02/2018	-	20/09/2017	$100,000	-	Full transfer	-	-	-	-	-	$100,000	138	-	Allhomes Record	-	-	-	-	-	-
+2018	531108	            75 Canberra Based Labour Hire Company	01/05/2018	-	06/03/2018	$100,000	-	Full transfer	-	-	-	-	-	$100,000	56	-	Allhomes Record	-	-	-	-	-	-
+2018	535281	1/28 Fyshwick	02/07/2018	-	20/04/2018	$100,000	-	Full transfer	-	-	-	-	-	$100,000	73	-	Allhomes Record	-	-	-	-	$5,559,000	55.59
+2018	544640	75 Hawker Takeaway	31/10/2018	-	21/10/2017	$99,950	-	Full transfer	-	-	-	-	-	$99,950	375	-	Allhomes Record	-	-	-	-	-	-
+2018	511057	            75 Pearce Cafe Lounge	15/01/2018	-	15/11/2017	$97,000	-	Full transfer	-	-	-	-	-	$97,000	61	-	Allhomes Record	-	-	-	-	-	-
+2018	531723	             Bs5502	23/04/2018	-	18/01/2018	$80,000	-	Full transfer	-	-	-	-	-	$80,000	95	-	Allhomes Record	-	-	-	-	-	-
+2018	535288	             Bs8787	02/07/2018	-	06/04/2018	$50,000	-	Full transfer	-	-	-	-	-	$50,000	87	-	Allhomes Record	-	-	-	-	-	-
+2018	546039	            1 School Children Photography Profitable	21/12/2018	-	07/09/2018	$49,000	-	Full transfer	-	-	-	-	-	$49,000	105	-	Allhomes Record	-	-	-	-	-	-
+2018	511224	             Bs5967	25/01/2018	-	25/01/2018	$40,000	-	Full transfer	-	-	-	-	-	$40,000	-	-	Allhomes Record	-	-	-	-	-	-
+2018	535241	25 Form Haircutters Kingston	29/06/2018	-	24/04/2018	$39,000	-	Full transfer	-	-	-	-	-	$39,000	66	-	Allhomes Record	-	-	-	-	$994,000	25.49
+2018	535287	            BS8223	02/07/2018	-	25/10/2017	$10,000	-	Full transfer	-	-	-	-	-	$10,000	250	-	Allhomes Record	-	-	-	-	-	-
+2018	544639	            75 Canberra Rent Roll 180-200 Managements	31/10/2018	-	25/05/2018	$10,000	-	Full transfer	-	-	-	-	-	$10,000	159	-	Allhomes Record	-	-	-	-	-	-
+2018	525299	             Inxpress Canberra	26/02/2018	-	21/11/2017	$1	-	Full transfer	-	-	-	-	-	$1	97	-	Allhomes Record	-	-	-	-	-	-
+2018	532501	1 Walk Into A Brand New Civic Bar And Restaurant Over 3 Levels	27/05/2018	-	17/10/2017	$1	-	Full transfer	-	-	-	-	-	$1	222	-	Allhomes Record	-	-	-	-	$5,375,000	5375000.0
+2018	525301	             The Bearded Bean	26/02/2018	-	21/11/2017	$1	-	Full transfer	-	-	-	-	-	$1	97	-	Allhomes Record	-	-	-	-	-	-
+2018	525300	             Coffee Guru	26/02/2018	-	21/11/2017	$1	-	Full transfer	-	-	-	-	-	$1	97	-	Allhomes Record	-	-	-	-	-	-
+2018	525280	             Lone Star Rib House	26/02/2018	-	21/11/2017	$1	-	Full transfer	-	-	-	-	-	$1	97	-	Allhomes Record	-	-	-	-	-	-
+2018	526631	            1 Formerly Uni Pub For $nil	16/03/2018	-	31/03/2017	$1	-	Full transfer	-	-	-	-	-	$1	350	-	Allhomes Record	-	-	-	-	-	-
+2018	525306	             Pangallo's Homemade Italian Bread	20/02/2018	-	21/11/2017	$1	-	Full transfer	-	-	-	-	-	$1	91	-	Allhomes Record	-	-	-	-	-	-
+2019	570192	            1 Very Profitable Metal Business Run By General Manager	11/10/2019	-	16/05/2019	$1,000,000	-	Full transfer	-	-	-	-	-	$1,000,000	148	-	Allhomes Record	-	-	-	-	-	-
+2019	575130	            1422/240 Bunda Street	05/12/2019	-	27/09/2019	$750,000	0m	Full transfer	2	2	-	2	0	$750,000	69	-	Allhomes Record	-	-	-	-	-	-
+2019	576265	            123/45 West Row	13/12/2019	-	05/09/2019	$690,888	245m	Full transfer	2	1	1	-	-	$690,888	99	-	Allhomes Record	88	-	-	-	-	-
+2019	574047	            264 City Walk	29/11/2019	-	14/05/2019	$679,900	1665m	Full transfer	2	2	-	-	-	$679,900	199	-	Allhomes Record	-	-	-	-	-	-
+2019	574046	            264 City Walk	14/11/2019	-	14/05/2019	$650,000	1665m	Full transfer	2	2	-	-	-	$650,000	184	-	Allhomes Record	-	-	-	-	-	-
+2019	565886	            68/2 Edinburgh Avenue	02/08/2019	-	26/07/2019	$632,000	0m	Full transfer	2	2	-	2	0	$632,000	7	-	Allhomes Record	-	-	-	-	-	-
+2019	574064	            26/1 Gordon Street	03/12/2019	-	23/10/2019	$394,500	0m	Full transfer	1	1	-	1	0	$394,500	41	-	Allhomes Record	-	-	-	-	-	-
+2019	572474	            24/66 Allara Street	29/10/2019	-	26/06/2019	$390,000	0m	Full transfer	1	1	-	1	0	$390,000	125	-	Allhomes Record	-	-	-	-	-	-
+2019	562783	1 5 Day Glass Manufacture Products Profitable	01/07/2019	-	04/11/2018	$325,000	-	Full transfer	-	-	-	-	-	$325,000	239	-	Allhomes Record	-	-	-	-	-	-
+2019	564456	            1 Property Styling Profitable Family Friendly Hours	29/07/2019	-	17/04/2019	$265,000	-	Full transfer	-	-	-	-	-	$265,000	103	-	Allhomes Record	-	-	-	-	-	-
+2019	553694	109/2 Akuna Street	26/02/2019	-	11/12/2018	$205,000	0m	Full transfer	1	1	-	0	0	$205,000	77	-	Allhomes Record	-	-	-	-	$10,052,000	49.03
+2019	562708	75 Queanbeyan Paper Shop	25/06/2019	-	12/10/2018	$189,000	-	Full transfer	-	-	-	-	-	$189,000	256	-	Allhomes Record	-	-	-	-	-	-
+2019	568065	            1 Gladstone Street	06/09/2019	-	26/01/2019	$100,000	-	Full transfer	-	-	-	-	-	$100,000	223	-	Allhomes Record	-	-	-	-	-	-
+2019	571818	             Bs142092	11/11/2019	-	14/08/2019	$100,000	-	Full transfer	-	-	-	-	-	$100,000	89	-	Allhomes Record	-	-	-	-	-	-
+2019	575487	            10 Anonymous St	16/12/2019	-	10/09/2019	$49,900	-	Full transfer	-	-	-	-	-	$49,900	97	-	Allhomes Record	-	-	-	-	-	-
+2019	573376	            16/18 Mort Street	07/11/2019	-	25/09/2019	$35,000	1533m	Full transfer	-	-	-	-	-	$35,000	43	-	Allhomes Record	-	-	-	-	-	-
+2019	557558	             Bs140938	08/05/2019	-	28/02/2019	$10,000	-	Full transfer	-	-	-	-	-	$10,000	69	-	Allhomes Record	-	-	-	-	-	-
+2019	560176	             Bs9602	07/06/2019	-	18/12/2018	$10,000	-	Full transfer	-	-	-	-	-	$10,000	171	-	Allhomes Record	-	-	-	-	-	-
