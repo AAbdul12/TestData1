@@ -1,0 +1,1049 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	226174	325 Hindmarsh Drive	13/05/2006	03/07/2006	20/04/2006	$565,000	914m	Full transfer	4	1	1	2	-	$565,000	23	-	Combined Record	-	-	-	Single residential dwelling	$189,000	0.33
+2006	165821	106 Streeton Drive	23/10/2006	24/11/2006	-	$550,000	878m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32381	15 Yate Gardens	12/10/2006	09/11/2006	27/09/2006	$536,000	1638m	Full transfer	5	2	1	-	2	$536,000	15	-	Combined Record	-	-	-	Single residential dwelling	$222,000	0.41
+2006	226134	255 Hindmarsh Drive	25/02/2006	10/05/2006	02/02/2006	$460,000	755m	Full transfer	4	1	1	2	-	$460,000	23	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.39
+2006	33376	319 Hindmarsh Drive	22/12/2006	26/02/2007	18/08/2006	$450,000	853m	Full transfer	4	2	-	1	-	$450,000	126	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.42
+2006	169385	14 Croton Street	22/12/2006	20/02/2007	13/11/2006	$440,000	819m	Full transfer	4	2	-	-	1	$440,000	39	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.45
+2006	34616	7/9 Tristania Street	21/07/2006	27/09/2006	06/04/2006	$432,000	13397m	Full transfer	3	1	1	2	-	$432,000	106	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	165102	6 Sollya Place	07/12/2006	15/02/2007	-	$430,000	754m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226312	51 Darwinia Terrace	10/03/2006	26/04/2006	06/10/2005	$425,000	1095m	Full transfer	4	1	-	4	-	$425,000	155	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.46
+2006	34615	221 Hindmarsh Drive	24/08/2006	25/09/2006	-	$415,000	847m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34327	6 Burgan Place	30/09/2006	29/11/2006	08/09/2006	$415,000	880m	Full transfer	4	1	1	2	-	$415,000	22	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.42
+2006	37621	16 Salsola Street	13/09/2006	22/10/2006	-	$410,000	831m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319838	333 Hindmarsh Drive	14/02/2006	09/03/2006	-	$410,000	1058m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	306470	3 Eugenia Street	08/07/2006	17/08/2006	-	$406,000	1256m	Full transfer	-	-	-	-	-	$406,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226219	108 Streeton Drive	24/04/2006	15/06/2006	25/01/2006	$376,000	941m	Full transfer	4	1	1	-	1	$376,000	89	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.51
+2006	202587	25 Yate Gardens	21/06/2006	03/08/2006	01/06/2006	$372,500	908m	Full transfer	3	1	-	-	1	$372,500	20	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.54
+2006	226173	7 Darwinia Terrace	06/03/2006	24/03/2006	-	$370,500	815m	Full transfer	-	-	-	-	-	$370,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226149	1 Bangalay Crescent	15/05/2006	23/06/2006	-	$365,000	987m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203014	31 Tristania Street	21/11/2006	03/01/2007	-	$360,000	1316m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119669	36 Carbeen Street	22/09/2006	31/10/2006	30/08/2006	$356,000	798m	Full transfer	3	1	-	-	1	$356,000	23	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.51
+2006	203747	3 Casuarina Street	21/07/2006	30/08/2006	11/05/2006	$355,000	682m	Full transfer	3	1	-	-	1	$355,000	71	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.54
+2006	33096	5 Astelia Place	13/11/2006	07/12/2006	26/10/2006	$355,000	934m	Full transfer	3	1	-	-	2	$355,000	18	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.54
+2006	202586	26 Gungurra Crescent	20/06/2006	06/08/2006	02/06/2006	$349,000	679m	Full transfer	3	1	-	1	-	$349,000	18	-	Combined Record	-	-	-	Single residential dwelling	$179,000	0.51
+2006	165357	9 Toona Place	18/05/2006	15/02/2007	27/04/2006	$346,000	959m	Full transfer	3	1	-	2	-	$346,000	21	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.6
+2006	226321	38 Croton Street	10/05/2006	02/06/2006	-	$346,000	720m	Full transfer	-	-	-	-	-	$346,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226324	75 Croton Street	07/02/2006	17/03/2006	12/01/2006	$340,000	730m	Full transfer	3	1	1	-	2	$340,000	26	-	Combined Record	-	-	-	Single residential dwelling	$197,000	0.58
+2006	165111	10 Croton Street	18/12/2006	15/02/2007	06/12/2006	$339,000	804m	Full transfer	3	1	-	2	-	$339,000	12	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.59
+2006	226143	25 Hibiscus Crescent	25/01/2006	24/02/2006	-	$335,000	753m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164289	71 Croton Street	30/06/2006	17/08/2006	-	$333,000	756m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226258	16 Casuarina Street	18/05/2006	21/07/2006	06/04/2006	$324,500	807m	Full transfer	3	1	-	-	2	$324,500	42	-	Combined Record	-	-	-	Single residential dwelling	$184,000	0.57
+2006	226272	16 Kanooka Street	27/04/2006	04/07/2006	10/03/2006	$323,000	915m	Full transfer	3	1	-	1	-	$323,000	48	-	Combined Record	-	-	-	Single residential dwelling	$190,000	0.59
+2006	34140	19 Casuarina Street	24/10/2006	01/12/2006	-	$322,500	780m	Full transfer	-	-	-	-	-	$322,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	87548	213 Hindmarsh Drive	27/10/2006	-	31/08/2006	$321,000	815m	Full transfer	3	1	-	2	-	$321,000	57	-	Allhomes Record	-	-	-	-	$175,000	0.55
+2006	165513	19 Carbeen Street	08/12/2006	30/01/2007	-	$320,000	822m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165822	22 Croton Street	07/10/2006	21/11/2006	13/09/2006	$320,000	838m	Full transfer	3	1	1	2	1	$320,000	24	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.62
+2006	36784	6 Casuarina Street	14/08/2006	05/09/2006	-	$320,000	787m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	313707	5 Hibiscus Crescent	10/01/2006	08/02/2006	-	$319,000	730m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226247	28 Woollum Crescent	10/01/2006	24/02/2006	26/10/2005	$317,500	753m	Full transfer	3	1	-	2	1	$317,500	76	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.65
+2006	226302	2 Blancoa Place	28/04/2006	23/05/2006	30/11/2005	$312,000	371m	Full transfer	3	1	-	1	-	$312,000	149	-	Combined Record	-	-	-	Single residential dwelling	$151,000	0.48
+2006	169623	227 Hindmarsh Drive	04/10/2006	13/11/2006	-	$310,000	742m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226268	9 Kanooka Street	03/05/2006	15/06/2006	-	$305,000	694m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226119	37 Darwinia Terrace	05/05/2006	20/06/2006	-	$288,000	911m	Full transfer	-	-	-	-	-	$288,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169624	42 Marlock Street	20/10/2006	13/11/2006	-	$280,000	694m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226151	31 Santalum Street	07/02/2006	01/03/2006	25/01/2006	$279,000	745m	Full transfer	3	1	-	1	-	$279,000	13	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.65
+2006	203101	18/5 Tristania Street	09/11/2006	05/01/2007	-	$265,000	10408m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	164292	16/5 Tristania Street	03/07/2006	18/08/2006	-	$243,000	10408m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34985	27 Marlock Street	29/06/2006	22/08/2006	-	$230,000	776m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226289	22 Burgan Place	24/04/2006	16/06/2006	-	$3,650	863m	Partial transfer	-	-	-	-	-	$3,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202991	15 Goodenia Street	10/12/2006	04/01/2007	-	$0	915m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35948	17 Hibiscus Crescent	13/10/2006	05/07/2007	-	$0	684m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32521	23 Angophora Street	22/12/2006	27/03/2007	-	$0	972m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164947	38 Streeton Drive	21/07/2006	13/10/2006	-	-	834m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226255	50 Nelumbo Street	11/02/2006	11/02/2006	-	-	716m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	21565	            7 Darwinia Street	07/02/2006	-	23/12/2005	-	815m	Full transfer	3	1	-	1	-	-	46	-	Allhomes Record	-	-	-	-	-	-
+2006	34070	4 Burgan Place	08/06/2006	18/12/2006	-	-	631m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226237	7 Drosera Place	16/02/2006	05/05/2006	-	-	1016m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34614	4 Cassia Place	15/09/2006	25/09/2006	-	-	758m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	13222	            11/1 Tristania Street	14/06/2006	06/08/2006	-	-	7942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	202585	50 Carbeen Street	17/05/2006	04/08/2006	-	-	989m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226245	104 Bangalay Crescent	04/04/2006	31/05/2006	-	-	704m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	5239	            EHR001 Willemsen Design	07/11/2006	-	19/10/2006	-	-	Full transfer	2	1	-	1	-	-	19	-	Allhomes Record	-	-	-	-	-	-
+2006	164290	47 Carbeen Street	14/06/2006	14/08/2006	-	-	755m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226301	41 Goodenia Street	19/01/2006	31/03/2006	-	-	239m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203508	22 Croton Street	13/06/2006	14/09/2006	-	-	838m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226193	14 Marlock Street	19/01/2006	02/05/2006	-	-	727m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226144	227 Hindmarsh Drive	30/03/2006	24/05/2006	-	-	742m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	226180	28 Tristania Street	25/01/2006	23/02/2006	-	-	696m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	408632	110 Streeton Drive	22/09/2007	30/10/2007	17/08/2007	$525,000	878m	Full transfer	4	2	1	-	2	$525,000	36	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.38
+2007	165999	4 Burgan Place	12/05/2007	23/07/2007	18/04/2007	$522,500	631m	Full transfer	4	1	1	2	-	$522,500	24	-	Combined Record	-	-	-	Single residential dwelling	$206,000	0.39
+2007	318095	4 Sollya Place	18/06/2007	31/07/2007	-	$520,000	754m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231052	59 Woollum Crescent	12/11/2007	21/01/2008	28/09/2007	$515,000	1323m	Full transfer	3	1	-	2	-	$515,000	45	-	Combined Record	-	-	-	Single residential dwelling	$181,000	0.35
+2007	318773	2 Astelia Place	02/04/2007	31/05/2007	-	$510,000	824m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	99472	1 Geebung Place	01/05/2007	-	09/03/2007	$510,000	1060m	Full transfer	4	1	1	2	-	$510,000	53	-	Allhomes Record	-	-	-	-	$219,000	0.43
+2007	35121	1 Geebung Place	23/03/2007	08/06/2007	-	$500,000	1060m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232249	79 Croton Street	08/08/2007	05/12/2007	-	$500,000	756m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236502	8 Bangalay Crescent	05/12/2007	22/05/2008	-	$470,000	911m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35289	48 Streeton Drive	20/03/2007	10/06/2007	20/02/2007	$465,000	1001m	Full transfer	5	1	-	2	-	$465,000	28	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.43
+2007	234664	21 Hibiscus Crescent	21/12/2007	19/03/2008	28/11/2007	$460,000	914m	Full transfer	3	1	-	2	-	$460,000	23	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.48
+2007	166515	57 Woollum Crescent	10/05/2007	15/08/2007	-	$455,000	1048m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231767	31 Santalum Street	15/11/2007	21/12/2007	-	$450,000	745m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	229738	13 Epacris Place	14/12/2007	27/01/2008	-	$445,000	798m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166629	88 Bangalay Crescent	24/05/2007	09/08/2007	-	$442,500	883m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167535	65 Croton Street	01/06/2007	03/09/2007	-	$435,000	747m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121791	22 Nelumbo Street	08/08/2007	25/09/2007	-	$435,000	751m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232449	36 Bangalay Crescent	05/10/2007	14/01/2008	-	$432,000	781m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36856	29 Santalum Street	17/05/2007	18/07/2007	27/04/2007	$430,000	802m	Full transfer	3	1	-	2	-	$430,000	20	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.45
+2007	306589	291 Hindmarsh Drive	03/05/2007	11/07/2007	-	$430,000	821m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166437	12 Kanooka Street	22/05/2007	25/07/2007	26/04/2007	$429,000	714m	Full transfer	3	1	1	2	-	$429,000	26	-	Combined Record	-	-	-	Single residential dwelling	$189,000	0.44
+2007	121766	29 Nelumbo Street	16/06/2007	30/08/2007	24/05/2007	$426,500	681m	Full transfer	3	1	-	1	1	$426,500	23	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.45
+2007	408631	3 Themeda Place	02/10/2007	30/10/2007	-	$420,000	737m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	109946	17 Salsola Street	10/11/2007	-	11/10/2007	$415,500	748m	Full transfer	3	1	-	1	-	$415,500	30	-	Allhomes Record	-	-	-	-	$206,000	0.5
+2007	166427	4 Mentha Place	06/06/2007	25/07/2007	-	$414,000	737m	Full transfer	-	-	-	-	-	$414,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202719	26 Pavonia Street	18/08/2007	10/10/2007	18/07/2007	$411,000	1008m	Full transfer	3	1	-	-	3	$411,000	31	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.53
+2007	167485	65 Salsola Street	07/05/2007	03/09/2007	12/04/2007	$406,000	694m	Full transfer	3	1	-	-	2	$406,000	25	-	Combined Record	-	-	-	Single residential dwelling	$200,000	0.49
+2007	230782	47 Santalum Street	17/11/2007	04/01/2008	-	$406,000	748m	Full transfer	-	-	-	-	-	$406,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36427	34 Streeton Drive	17/05/2007	05/07/2007	30/04/2007	$405,000	836m	Full transfer	3	1	-	1	1	$405,000	17	-	Combined Record	-	-	-	Single residential dwelling	$181,000	0.45
+2007	234504	19/9 Tristania Street	28/11/2007	16/01/2008	-	$405,000	13397m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	229739	36 Angophora Street	12/12/2007	31/01/2008	-	$405,000	813m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121495	317 Hindmarsh Drive	29/03/2007	29/08/2007	07/03/2007	$405,000	932m	Full transfer	3	1	-	-	2	$405,000	22	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.49
+2007	33745	34 Salsola Street	03/03/2007	24/05/2007	02/02/2007	$405,000	899m	Full transfer	3	1	1	-	2	$405,000	29	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.51
+2007	105937	39 Marlock Street	09/08/2007	-	12/07/2007	$402,500	673m	Full transfer	3	1	-	2	-	$402,500	28	-	Allhomes Record	-	-	-	-	$188,000	0.47
+2007	166450	21 Casuarina Street	27/04/2007	31/07/2007	-	$397,000	761m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	101871	12 Eugenia Street	22/05/2007	-	26/04/2007	$393,000	963m	Full transfer	3	1	-	2	-	$393,000	26	-	Allhomes Record	-	-	-	-	$215,000	0.55
+2007	317958	12 Eugenia Street	12/07/2007	12/07/2007	-	$393,000	963m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35087	6 Nelumbo Street	11/04/2007	10/06/2007	-	$389,000	739m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231245	3 Lomatia Place	11/10/2007	26/11/2007	10/09/2007	$388,000	309m	Full transfer	3	1	-	2	-	$388,000	31	-	Combined Record	-	-	-	For residential purposes only	$159,000	0.41
+2007	121176	20 Kanooka Street	26/06/2007	12/09/2007	08/03/2007	$388,000	694m	Full transfer	3	1	1	1	1	$388,000	110	-	Combined Record	-	-	-	Single residential dwelling	$188,000	0.48
+2007	231336	38 Gungurra Crescent	28/09/2007	13/11/2007	-	$387,000	717m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231480	128 Streeton Drive	18/08/2007	29/11/2007	20/07/2007	$381,000	900m	Full transfer	3	1	-	1	-	$381,000	29	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.57
+2007	167197	14 Salsola Street	02/03/2007	10/04/2007	15/02/2007	$380,000	752m	Full transfer	3	1	1	1	-	$380,000	15	-	Combined Record	-	-	-	Single residential dwelling	$212,000	0.56
+2007	36467	59 Woollum Crescent	27/04/2007	03/07/2007	-	$380,000	1323m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166864	203 Hindmarsh Drive	04/06/2007	31/07/2007	-	$380,000	878m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166412	2/313 Hindmarsh Drive	07/06/2007	24/07/2007	-	$370,000	989m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166794	9 Burgan Place	02/03/2007	16/08/2007	-	$369,000	701m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167142	10 Cassia Place	13/03/2007	13/04/2007	31/01/2007	$368,000	695m	Full transfer	3	1	-	2	-	$368,000	41	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.57
+2007	121873	4 Croton Street	15/08/2007	27/09/2007	-	$365,000	733m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164344	40 Rapanea Street	31/01/2007	12/03/2007	-	$365,000	695m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232830	12 Bangalay Crescent	07/09/2007	18/11/2007	-	$365,000	743m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33735	17 Bangalay Crescent	15/03/2007	22/05/2007	14/12/2006	$362,000	889m	Full transfer	4	1	-	1	-	$362,000	91	-	Combined Record	-	-	-	Single residential dwelling	$194,000	0.54
+2007	121475	53 Carbeen Street	14/06/2007	27/08/2007	-	$360,000	813m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166354	12 Salsola Street	29/06/2007	07/08/2007	-	$360,000	734m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168553	15 Astelia Place	02/02/2007	06/03/2007	12/01/2007	$360,000	760m	Full transfer	3	1	-	-	2	$360,000	21	-	Combined Record	-	-	-	Single residential dwelling	$163,000	0.45
+2007	231303	3 Blancoa Place	05/10/2007	27/11/2007	23/08/2007	$355,000	295m	Full transfer	3	1	-	-	2	$355,000	43	-	Combined Record	-	-	-	Single residential dwelling	$144,000	0.41
+2007	168127	12 Cassia Place	06/09/2007	16/10/2007	17/08/2007	$355,000	654m	Full transfer	3	1	-	1	-	$355,000	20	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.59
+2007	231720	14 Marlock Street	27/10/2007	07/01/2008	05/10/2007	$355,000	727m	Full transfer	3	1	-	2	-	$355,000	22	-	Combined Record	-	-	-	Single residential dwelling	$189,000	0.53
+2007	121370	19 Rapanea Street	16/03/2007	04/05/2007	-	$350,000	885m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168913	2 Mentha Place	02/02/2007	22/03/2007	-	$347,500	853m	Full transfer	-	-	-	-	-	$347,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235691	7 Eugenia Street	12/09/2007	27/03/2008	-	$345,000	709m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	166213	20 Blancoa Place	18/06/2007	08/08/2007	17/05/2007	$345,000	345m	Full transfer	3	1	-	-	2	$345,000	32	-	Combined Record	-	-	-	For residential purposes only	$159,000	0.46
+2007	32710	227 Hindmarsh Drive	01/03/2007	29/03/2007	10/11/2006	$345,000	742m	Full transfer	3	1	-	-	-	$345,000	111	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.52
+2007	120371	24 Salsola Street	28/03/2007	16/05/2007	-	$342,000	789m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35273	53 Salsola Street	18/04/2007	06/06/2007	-	$341,500	694m	Full transfer	-	-	-	-	-	$341,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203263	106 Bangalay Crescent	16/04/2007	01/06/2007	08/03/2007	$341,000	687m	Full transfer	3	1	-	1	-	$341,000	39	-	Combined Record	-	-	-	Single residential dwelling	$174,000	0.51
+2007	121282	17 Hibiscus Crescent	16/06/2007	11/09/2007	17/05/2007	$340,000	684m	Full transfer	3	1	-	1	-	$340,000	30	-	Combined Record	-	-	-	Single residential dwelling	$179,000	0.53
+2007	233375	8/5 Tristania Street	19/11/2007	13/12/2007	-	$327,500	10408m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	315802	41 Goodenia Street	29/03/2007	04/06/2007	-	$325,250	239m	Full transfer	-	-	-	-	-	$325,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167894	45 Marlock Street	10/07/2007	17/09/2007	-	$315,000	841m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36271	4/1 Tristania Street	03/05/2007	04/07/2007	-	$315,000	7942m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120656	1/1 Tristania Street	01/03/2007	15/05/2007	-	$315,000	7942m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121476	1/5 Tristania Street	25/05/2007	27/08/2007	16/04/2007	$310,000	10408m	Full transfer	2	1	-	-	1	$310,000	39	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	35074	2/1 Tristania Street	18/04/2007	06/06/2007	-	$310,000	7942m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408641	22/5 Tristania Street	15/02/2007	30/03/2007	19/01/2007	$295,000	10408m	Full transfer	2	1	-	-	-	$295,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	210	            6/1 Tristania Street	11/01/2007	28/02/2007	-	$265,000	7942m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	5955	            1/1 Carbeen Street	11/01/2007	-	07/12/2006	$265,000	441m	Full transfer	2	1	-	-	1	$265,000	35	-	Allhomes Record	-	-	-	-	-	-
+2007	37074	14/5 Tristania Street	23/05/2007	18/07/2007	-	$250,000	10408m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36266	34 Bangalay Crescent	04/04/2007	04/07/2007	-	$40,500	836m	Full transfer	-	-	-	-	-	$40,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167945	39 Marlock Street	08/08/2007	18/09/2007	-	$0	673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33469	279 Hindmarsh Drive	15/03/2007	24/05/2007	-	$0	827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166551	4 Goodenia Street	25/06/2007	24/07/2007	-	$0	641m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32514	281 Hindmarsh Drive	13/02/2007	27/03/2007	-	$0	834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121806	15 Angophora Street	28/08/2007	26/09/2007	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119876	104 Bangalay Crescent	12/03/2007	02/04/2007	-	$0	704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	522159	30 Gungurra Crescent	17/04/2007	12/12/2017	-	$0	650m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166876	30 Woollum Crescent	02/08/2007	02/08/2007	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168969	35 Carbeen Street	22/02/2007	22/03/2007	-	$0	726m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202856	41 Eugenia Street	06/01/2007	14/06/2007	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164630	105 Bangalay Crescent	24/02/2007	11/07/2007	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120707	8 Cordia Place	30/03/2007	17/05/2007	-	$0	384m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	258152	9 Darwinia Terrace	26/07/2007	04/05/2010	-	-	815m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	99734	1C Tristania Street	18/04/2007	-	14/03/2007	-	-	Full transfer	2	1	-	-	1	-	35	-	Allhomes Record	-	-	-	-	-	-
+2007	230163	15 Mirbelia Crescent	01/11/2007	31/01/2008	-	-	772m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	101450	1A Tristania Street	08/05/2007	-	13/04/2007	-	-	Full transfer	2	1	-	-	1	-	25	-	Allhomes Record	-	-	-	-	-	-
+2007	232485	15 Santalum Street	23/12/2007	16/01/2008	-	-	684m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233367	2 Toona Place	04/05/2007	17/06/2008	-	-	802m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232405	43 Goodenia Street	23/09/2007	17/01/2008	-	-	244m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	98951	1D Tristania Street	31/03/2007	-	02/03/2007	-	-	Full transfer	2	1	-	-	1	-	29	-	Allhomes Record	-	-	-	-	-	-
+2007	235448	23 Rapanea Street	14/08/2007	12/03/2008	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237473	6 Hibiscus Crescent	04/07/2007	09/12/2008	-	-	850m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229888	27 Woollum Place	21/02/2008	27/05/2008	21/01/2008	$655,000	1295m	Full transfer	5	2	1	4	2	$655,000	31	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.41
+2008	235813	29 Darwinia Terrace	05/05/2008	13/06/2008	13/02/2008	$625,000	791m	Full transfer	4	1	1	2	-	$625,000	82	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.37
+2008	237601	15 Morrell Place	07/10/2008	08/01/2009	25/03/2008	$560,000	1011m	Full transfer	4	1	1	2	2	$560,000	196	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.48
+2008	321910	10 Mallee Place	08/08/2008	17/11/2008	-	$557,000	1028m	Full transfer	-	-	-	-	-	$557,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	19208	            2/21A Hibiscus Crescent	12/08/2008	06/03/2009	-	$549,000	914m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234739	289 Hindmarsh Drive	09/07/2008	18/09/2008	-	$547,000	852m	Full transfer	-	-	-	-	-	$547,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322989	243 Hindmarsh Drive	08/11/2008	25/02/2009	-	$542,000	1146m	Full transfer	-	-	-	-	-	$542,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241103	12 Angophora Street	25/11/2008	22/12/2008	23/10/2008	$540,000	813m	Full transfer	5	1	1	2	-	$540,000	33	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.43
+2008	242225	39 Salsola Street	27/11/2008	31/01/2009	30/10/2008	$510,000	911m	Full transfer	4	1	1	2	-	$510,000	28	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.5
+2008	229935	83 Darwinia Terrace	19/06/2008	17/07/2008	10/04/2008	$501,000	793m	Full transfer	3	1	1	-	1	$501,000	70	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.43
+2008	229934	17 Rapanea Street	03/05/2008	18/07/2008	09/04/2008	$497,500	841m	Full transfer	3	1	1	3	1	$497,500	24	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.47
+2008	321245	46 Woollum Crescent	01/05/2008	21/08/2008	-	$495,000	720m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231997	2 Toona Place	15/03/2008	02/07/2008	25/04/2008	$495,000	802m	Full transfer	4	1	1	-	2	$495,000	-	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.49
+2008	230353	23 Eugenia Street	01/07/2008	07/08/2008	07/01/2008	$495,000	1064m	Full transfer	3	1	-	2	-	$495,000	176	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.57
+2008	322254	237 Hindmarsh Drive	14/08/2008	22/09/2008	-	$487,500	830m	Full transfer	-	-	-	-	-	$487,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239204	261 Hindmarsh Drive	16/07/2008	05/11/2008	20/06/2008	$485,000	813m	Full transfer	4	1	1	2	-	$485,000	26	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.48
+2008	239327	19 Nelumbo Street	21/07/2008	12/11/2008	19/06/2008	$472,000	748m	Full transfer	5	2	-	-	2	$472,000	32	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.48
+2008	229832	31 Croton Street	04/06/2008	25/07/2008	11/02/2008	$470,000	699m	Full transfer	4	1	1	2	1	$470,000	114	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.52
+2008	233481	36 Bangalay Crescent	01/05/2008	16/06/2008	07/03/2008	$460,000	781m	Full transfer	4	1	1	-	2	$460,000	55	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.47
+2008	233648	9 Bangalay Crescent	05/03/2008	29/04/2008	-	$446,000	975m	Full transfer	-	-	-	-	-	$446,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240118	21 Darwinia Terrace	22/09/2008	22/10/2008	04/09/2008	$445,000	878m	Full transfer	3	1	-	2	-	$445,000	18	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.54
+2008	233366	15 Darwinia Terrace	23/04/2008	18/06/2008	25/03/2008	$445,000	878m	Full transfer	4	1	-	2	-	$445,000	29	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.54
+2008	241241	47 Darwinia Terrace	20/11/2008	13/01/2009	16/10/2008	$435,000	976m	Full transfer	3	1	1	2	-	$435,000	35	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.55
+2008	235690	27 Hibiscus Crescent	03/03/2008	27/03/2008	31/01/2008	$435,000	740m	Full transfer	3	1	-	1	-	$435,000	32	-	Combined Record	-	-	-	Single residential dwelling	$212,000	0.49
+2008	233775	1 Epacris Place	23/04/2008	03/07/2008	-	$432,000	872m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233482	17 Wirilda Street	21/04/2008	17/06/2008	13/02/2008	$430,000	785m	Full transfer	3	1	-	2	1	$430,000	68	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.53
+2008	239818	57 Carbeen Street	22/08/2008	01/10/2008	03/06/2008	$430,000	813m	Full transfer	4	1	1	1	1	$430,000	80	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.54
+2008	234045	67 Darwinia Terrace	02/06/2008	27/06/2008	06/03/2008	$429,000	829m	Full transfer	3	1	-	1	-	$429,000	88	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.56
+2008	233485	6 Cooba Place	29/04/2008	17/06/2008	03/04/2008	$425,000	876m	Full transfer	3	1	-	-	-	$425,000	26	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.55
+2008	240712	12 Woollum Crescent	30/10/2008	05/12/2008	-	$425,000	716m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	229831	1 Bangalay Crescent	16/05/2008	21/07/2008	22/04/2008	$425,000	987m	Full transfer	3	1	-	1	-	$425,000	24	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.56
+2008	239819	25 Woollum Crescent	13/08/2008	30/09/2008	24/07/2008	$420,000	789m	Full transfer	3	1	-	1	1	$420,000	20	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.62
+2008	237760	25 Carbeen Street	11/12/2008	16/02/2009	-	$415,000	832m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25334	38 Nelumbo Street	15/01/2008	-	08/11/2007	$412,000	689m	Full transfer	3	1	-	2	-	$412,000	68	-	Allhomes Record	-	-	-	-	$240,000	0.58
+2008	127353	3 Mallee Place	23/01/2008	10/04/2008	15/11/2007	$410,000	667m	Full transfer	3	1	-	1	2	$410,000	69	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.57
+2008	233670	39 Santalum Street	30/04/2008	02/06/2008	06/03/2008	$405,000	997m	Full transfer	3	1	-	2	-	$405,000	55	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.59
+2008	240026	5 Casuarina Street	29/08/2008	14/10/2008	10/07/2008	$402,000	789m	Full transfer	3	1	-	-	2	$402,000	50	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.63
+2008	239326	32 Santalum Street	16/10/2008	13/11/2008	27/08/2008	$400,000	740m	Full transfer	3	1	1	-	1	$400,000	50	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.57
+2008	240962	8 Cordia Place	11/11/2008	17/12/2008	20/02/2008	$400,000	384m	Full transfer	3	1	1	2	-	$400,000	265	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.48
+2008	112499	75 Carbeen Street	30/06/2008	-	20/02/2008	$400,000	788m	Full transfer	3	1	-	2	-	$400,000	131	-	Allhomes Record	-	-	-	-	$227,000	0.57
+2008	237474	84 Streeton Drive	15/10/2008	10/12/2008	25/08/2008	$395,000	910m	Full transfer	3	1	-	2	-	$395,000	51	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.61
+2008	237002	1/9 Tristania Street	12/09/2008	05/01/2009	-	$395,000	13397m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239820	16 Angophora Street	19/08/2008	30/09/2008	17/04/2008	$390,000	790m	Full transfer	4	1	-	4	-	$390,000	124	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.58
+2008	239206	43 Kanooka Street	17/09/2008	03/11/2008	26/08/2008	$390,000	796m	Full transfer	3	1	-	-	2	$390,000	22	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.65
+2008	232204	57 Salsola Street	12/03/2008	09/05/2008	25/02/2008	$387,000	694m	Full transfer	3	1	-	2	-	$387,000	16	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.62
+2008	239205	50 Carbeen Street	17/09/2008	06/11/2008	27/08/2008	$385,000	989m	Full transfer	3	1	0	-	0	$385,000	21	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.62
+2008	229620	11 Rapanea Street	04/07/2008	01/08/2008	-	$383,000	884m	Full transfer	-	-	-	-	-	$383,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239438	40 Santalum Street	03/10/2008	17/11/2008	02/09/2008	$380,000	730m	Full transfer	3	1	0	1	0	$380,000	31	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.6
+2008	233363	67 Croton Street	30/04/2008	16/06/2008	30/01/2008	$380,000	765m	Full transfer	3	1	-	-	1	$380,000	91	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.68
+2008	237443	9 Eugenia Street	18/07/2008	26/08/2008	01/07/2008	$368,000	673m	Full transfer	4	1	1	-	2	$368,000	17	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.69
+2008	231993	4 Eugenia Street	20/05/2008	30/06/2008	14/04/2008	$358,000	808m	Full transfer	3	1	0	1	0	$358,000	36	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.71
+2008	236193	3 Tuart Place	03/04/2008	13/05/2008	-	$356,000	532m	Full transfer	-	-	-	-	-	$356,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	229621	33 Angophora Street	11/03/2008	01/08/2008	15/02/2008	$351,500	878m	Full transfer	3	1	-	4	1	$351,500	25	-	Combined Record	-	-	-	Single residential dwelling...	$224,000	0.64
+2008	242031	23/5 Tristania Street	05/11/2008	27/01/2009	-	$345,000	10408m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18919	            11/1 Tristania Street	30/09/2008	31/10/2008	-	$335,000	7942m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22724	            3D 'Boronia Gardens' Tristania Street	16/06/2008	-	10/04/2008	$325,000	10408m	Full transfer	2	1	-	-	1	$325,000	67	-	Allhomes Record	-	-	-	-	$1,878,000	5.78
+2008	112194	11/5 Tristania Street	10/05/2008	-	14/02/2008	$325,000	10408m	Full transfer	2	1	-	-	1	$325,000	86	-	Allhomes Record	-	-	-	-	$1,878,000	5.78
+2008	235601	11/5 Tristania Street	05/05/2008	13/06/2008	-	$315,000	10408m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242226	12 Sollya Place	18/11/2008	29/01/2009	-	$213,400	819m	Full transfer	-	-	-	-	-	$213,400	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18840	            7/1 Tristania Street	10/06/2008	29/09/2008	-	$40,000	7942m	Full transfer	-	-	-	-	-	$40,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241407	3 Rapanea Street	09/08/2008	05/05/2009	-	-	811m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	36568	49 Salsola Street	20/02/2008	06/08/2008	-	-	832m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	244979	25 Darwinia Terrace	07/03/2008	14/07/2009	-	-	845m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242471	98 Streeton Drive	20/11/2008	13/02/2009	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237364	45 Angophora Street	25/01/2008	22/08/2008	-	-	912m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	248382	15 Nelumbo Street	14/12/2008	16/12/2009	-	-	726m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237365	8 Diselma Place	20/04/2008	18/08/2008	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238826	4 Casuarina Street	26/12/2008	29/04/2009	-	-	739m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240711	4 Hibiscus Crescent	29/05/2008	02/12/2008	-	-	669m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239439	45 Santalum Street	30/04/2008	19/11/2008	-	-	740m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229970	18/9 Tristania Street	14/07/2008	29/07/2008	-	-	13397m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	283358	14 Angophora Street	25/03/2008	14/02/2011	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	254615	34 Gungurra Crescent	22/12/2008	04/03/2010	-	-	682m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231102	8 Geebung Place	19/05/2008	17/06/2008	-	-	751m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	270304	32 Carbeen Street	17/07/2008	03/09/2010	-	-	864m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241749	12 Croton Street	07/12/2008	19/05/2009	-	-	838m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233364	9 Hibiscus Crescent	29/03/2008	18/06/2008	-	-	684m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233671	6 Goodenia Street	20/05/2008	04/06/2008	-	-	687m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235692	6 Astelia Place	06/03/2008	27/03/2008	-	-	888m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249306	34 Streeton Drive	29/07/2009	08/10/2009	24/06/2009	$827,000	836m	Full transfer	4	2	1	2	-	$827,000	35	-	Combined Record	-	-	-	Single residential dwelling	$217,000	0.26
+2009	248383	59 Darwinia Terrace	21/08/2009	16/12/2009	16/07/2009	$695,000	791m	Full transfer	4	1	1	2	-	$695,000	36	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.34
+2009	248035	2/59 Woollum Crescent	16/07/2009	25/09/2009	-	$550,000	1323m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23611	             Woolum Crescent	30/07/2009	-	11/02/2009	$550,000	1323m	Full transfer	3	1	1	2	-	$550,000	169	-	Allhomes Record	-	-	-	-	$218,000	0.4
+2009	330764	1/26 Pavonia Street	26/10/2009	25/01/2010	-	$545,000	1008m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248623	1/59 Woollum Crescent	30/07/2009	28/09/2009	-	$540,000	1323m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246430	5/57 Woollum Crescent	22/04/2009	03/09/2009	-	$540,000	1804m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254935	            3/57 Woollum Crescent	02/09/2009	03/03/2010	-	$530,000	1804m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244238	33 Salsola Street	22/04/2009	11/06/2009	-	$530,000	1298m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244269	1/21A Hibiscus Crescent	04/05/2009	02/06/2009	-	$520,000	914m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263103	149 Darwinia Terrace	25/11/2009	19/01/2010	29/10/2009	$520,000	808m	Full transfer	4	2	-	1	-	$520,000	27	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.5
+2009	23395	            1/21 Hibiscus Street	05/05/2009	-	20/10/2008	$520,000	914m	Full transfer	-	-	-	-	-	$520,000	197	-	Allhomes Record	-	-	-	-	$221,000	0.43
+2009	250166	            4/57 Woollum Crescent	03/06/2009	29/09/2009	-	$520,000	1804m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263101	21 Salsola Street	25/11/2009	02/02/2010	04/11/2009	$518,500	694m	Full transfer	3	1	-	1	1	$518,500	21	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.46
+2009	263107	27 Pavonia Street	12/12/2009	23/02/2010	-	$507,500	684m	Full transfer	-	-	-	-	-	$507,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325395	42 Croton Street	17/11/2009	08/02/2010	-	$500,000	793m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246562	5 Drosera Place	08/05/2009	09/09/2009	26/03/2009	$495,000	727m	Full transfer	3	1	-	2	-	$495,000	43	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.5
+2009	250190	1/57 Woollum Crescent	08/09/2009	17/11/2009	21/10/2008	$495,000	1804m	Full transfer	3	1	1	2	-	$495,000	322	-	Combined Record	-	-	-	Multiple unit dwelling	$1,202,000	2.43
+2009	249305	25 Darwinia Terrace	27/08/2009	02/10/2009	30/07/2009	$490,000	845m	Full transfer	4	1	1	1	-	$490,000	28	-	Combined Record	-	-	-	Single residential dwelling	$239,000	0.49
+2009	243496	14 Croton Street	24/02/2009	24/03/2009	25/11/2008	$485,000	819m	Full transfer	4	2	0	-	2	$485,000	91	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.52
+2009	254455	3 Salsola Street	23/12/2009	28/02/2010	17/11/2009	$479,000	904m	Full transfer	3	1	-	1	-	$479,000	36	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.53
+2009	263106	23 Angophora Street	23/12/2009	08/02/2010	29/09/2009	$463,000	972m	Full transfer	3	1	-	-	2	$463,000	85	-	Combined Record	-	-	-	Single residential dwelling	$229,000	0.49
+2009	321540	8 Mallee Place	28/02/2009	07/04/2009	-	$460,000	850m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263105	96 Bangalay Crescent	15/12/2009	02/02/2010	19/11/2009	$460,000	857m	Full transfer	3	1	-	1	-	$460,000	26	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.52
+2009	323363	19 Santalum Street	18/04/2009	28/05/2009	-	$460,000	684m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249307	102 Streeton Drive	17/07/2009	02/10/2009	18/06/2009	$459,000	878m	Full transfer	3	1	-	2	-	$459,000	29	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.54
+2009	251960	12 Croton Street	19/11/2009	24/12/2009	01/08/2009	$450,000	838m	Full transfer	3	1	-	4	2	$450,000	110	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.56
+2009	263100	7 Cassia Place	19/12/2009	11/02/2010	23/11/2009	$446,000	771m	Full transfer	3	1	-	-	1	$446,000	26	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.69
+2009	323423	58 Rapanea Street	14/04/2009	02/06/2009	-	$441,550	790m	Full transfer	-	-	-	-	-	$441,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250005	33 Angophora Street	29/09/2009	19/11/2009	-	$440,000	878m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	245168	20 Mirbelia Crescent	22/05/2009	19/06/2009	-	$440,000	772m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246415	27 Croton Street	10/07/2009	31/08/2009	-	$438,000	719m	Full transfer	-	-	-	-	-	$438,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249503	15 Astelia Place	09/09/2009	20/10/2009	19/08/2009	$436,500	760m	Full transfer	3	1	0	-	2	$436,500	21	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.45
+2009	244236	47 Santalum Street	01/04/2009	12/06/2009	11/02/2009	$436,150	748m	Full transfer	3	1	-	-	2	$436,150	49	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.52
+2009	244982	14 Burgan Place	04/06/2009	14/07/2009	20/03/2009	$430,000	897m	Full transfer	3	1	1	-	1	$430,000	76	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.51
+2009	261428	239 Hindmarsh Drive	17/12/2009	16/02/2010	-	$430,000	1048m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	125916	38 Angophora Street	12/05/2009	-	22/04/2009	$425,000	755m	Full transfer	-	-	-	-	-	$425,000	20	-	Allhomes Record	-	-	-	-	$227,000	0.53
+2009	244237	3 Rapanea Street	11/02/2009	09/06/2009	21/10/2008	$421,000	811m	Full transfer	3	1	-	-	1	$421,000	113	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.56
+2009	244110	223 Hindmarsh Drive	22/04/2009	04/06/2009	06/01/2009	$415,000	884m	Full transfer	4	1	-	-	2	$415,000	106	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.53
+2009	257290	118 Streeton Drive	30/09/2009	23/04/2010	-	$400,000	931m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243656	108 Bangalay Crescent	10/03/2009	01/04/2009	23/01/2009	$398,000	732m	Full transfer	3	1	-	1	1	$398,000	46	-	Combined Record	-	-	-	Single residential dwelling	$209,000	0.53
+2009	125454	16/9 Tristania Street	08/05/2009	-	04/04/2009	$395,000	13397m	Full transfer	3	1	-	2	-	$395,000	34	-	Allhomes Record	-	-	-	-	$1,733,000	4.39
+2009	259765	24/5 Tristania Street	02/12/2009	02/02/2010	-	$391,000	10408m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	237762	18 Croton Street	16/01/2009	16/02/2009	-	$385,000	844m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238409	3 Drosera Place	17/02/2009	16/04/2009	-	$380,000	709m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323687	13 Casuarina Street	09/05/2009	13/07/2009	-	$375,000	935m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243378	6 Cordia Place	25/02/2009	19/03/2009	24/09/2008	$368,800	285m	Full transfer	3	1	-	2	-	$368,800	154	-	Combined Record	-	-	-	For residential purposes only	$173,000	0.47
+2009	248622	21/5 Tristania Street	23/06/2009	29/09/2009	-	$362,500	10408m	Full transfer	-	-	-	-	-	$362,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23595	            3M Tristania	22/07/2009	-	06/05/2009	$335,000	-	Full transfer	2	1	-	-	1	$335,000	77	-	Allhomes Record	-	-	-	-	-	-
+2009	244405	1/1 Tristania Street	11/06/2009	07/07/2009	-	$333,000	7942m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250591	6/5 Tristania Street	11/09/2009	10/12/2009	-	$328,000	10408m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	140519	6/5 Tristania Street	14/09/2009	-	19/06/2009	$328,000	10408m	Full transfer	2	1	0	-	0	$328,000	87	-	Allhomes Record	-	-	-	-	$2,207,000	6.73
+2009	261962	34 Gungurra Crescent	28/08/2009	17/05/2010	-	$200,000	682m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	376431	69 Darwinia Terrace	09/06/2009	06/08/2012	-	$0	768m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251457	12 Astelia Place	13/08/2009	05/01/2010	-	-	1285m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261963	50 Nelumbo Street	30/12/2009	20/05/2010	-	-	716m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259764	            18/1 Tristania Street	22/07/2009	28/01/2010	-	-	7942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	251736	22 Rapanea Street	01/12/2009	14/01/2010	-	-	1551m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244466	7 Bangalay Crescent	19/05/2009	07/07/2009	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248285	11 Mirbelia Crescent	30/07/2009	24/09/2009	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259763	            14/1 Tristania Street	14/08/2009	05/03/2010	-	-	7942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249026	2/313 Hindmarsh Drive	05/07/2009	17/11/2009	-	-	989m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	296029	101 Bangalay Crescent	01/06/2009	22/06/2011	-	-	870m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261433	17 Yate Gardens	23/12/2009	13/01/2010	-	-	1124m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242224	57 Croton Street	12/01/2009	31/01/2009	-	-	783m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248286	293 Hindmarsh Drive	25/04/2009	23/09/2009	-	-	882m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251735	239 Hindmarsh Drive	09/09/2009	11/01/2010	-	-	1048m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244640	53 Woollum Crescent	30/05/2009	03/07/2009	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	237761	39 Kanooka Street	11/02/2009	20/02/2009	-	-	1026m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275686	101 Darwinia Terrace	23/10/2010	12/01/2011	21/09/2010	$680,000	775m	Full transfer	4	2	-	1	-	$680,000	32	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.43
+2010	279358	42 Nelumbo Street	06/11/2010	02/02/2011	-	$640,000	767m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273473	20 Salsola Street	09/07/2010	28/10/2010	15/06/2010	$575,000	874m	Full transfer	4	1	1	2	1	$575,000	24	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.43
+2010	283809	13 Yate Gardens	17/12/2010	01/03/2011	25/11/2010	$574,750	1100m	Full transfer	4	1	-	2	-	$574,750	22	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.58
+2010	269235	54 Salsola Street	28/04/2010	25/06/2010	31/03/2010	$560,000	682m	Full transfer	4	2	-	2	-	$560,000	28	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.52
+2010	280371	237 Hindmarsh Drive	02/11/2010	22/12/2010	09/09/2010	$557,500	830m	Full transfer	4	1	1	2	2	$557,500	54	-	Combined Record	161	-	-	Single residential dwelling	$221,000	0.4
+2010	264025	2 Gungurra Crescent	15/04/2010	10/06/2010	10/03/2010	$555,000	856m	Full transfer	4	1	-	-	1	$555,000	36	-	Combined Record	-	-	-	Single residential dwelling	$234,000	0.42
+2010	270750	9 Darwinia Terrace	10/05/2010	27/07/2010	29/04/2010	$550,000	815m	Full transfer	3	1	-	-	1	$550,000	11	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.53
+2010	254934	            2/26 Pavonia Street	12/01/2010	01/03/2010	-	$540,000	1008m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280306	90 Bangalay Crescent	23/09/2010	22/12/2010	01/09/2010	$538,500	811m	Full transfer	3	1	-	2	-	$538,500	22	-	Combined Record	153	-	-	Single residential dwelling	$290,000	0.54
+2010	258326	6 Tristania Street	22/02/2010	06/05/2010	19/11/2009	$535,000	943m	Full transfer	4	1	1	2	-	$535,000	95	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.54
+2010	329792	4 Carbeen Street	10/11/2010	02/02/2011	-	$534,000	767m	Full transfer	-	-	-	-	-	$534,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269236	52 Croton Street	31/05/2010	25/06/2010	11/05/2010	$532,500	783m	Full transfer	3	1	-	2	-	$532,500	20	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.49
+2010	270870	5 Themeda Place	05/06/2010	18/08/2010	13/05/2010	$532,500	761m	Full transfer	3	1	-	2	-	$532,500	23	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.51
+2010	265870	2 Nealie Place	28/10/2010	-	29/07/2010	$530,000	954m	Full transfer	4	2	1	2	-	$530,000	91	-	Allhomes Record	-	-	-	-	$290,000	0.55
+2010	269234	11 Santalum Street	01/05/2010	25/06/2010	08/04/2010	$522,000	778m	Full transfer	4	1	1	2	2	$522,000	23	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.52
+2010	269233	65 Croton Street	09/04/2010	23/06/2010	10/03/2010	$521,500	747m	Full transfer	3	2	-	-	2	$521,500	30	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.55
+2010	260065	            2/1 Marlock Street	20/02/2010	20/04/2010	-	$520,000	916m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264322	249 Hindmarsh Drive	05/07/2010	-	10/04/2010	$520,000	812m	Full transfer	6	1	1	2	-	$520,000	86	-	Allhomes Record	-	-	-	-	$282,000	0.54
+2010	253257	41 Tristania Street	20/02/2010	-	23/03/2010	$520,000	916m	Full transfer	3	1	1	1	-	$520,000	-	-	Allhomes Record	-	-	-	-	$358,000	0.69
+2010	329385	64 Rapanea Street	21/10/2010	22/11/2010	17/09/2010	$520,000	809m	Full transfer	3	1	-	1	2	$520,000	34	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.54
+2010	258153	114 Bangalay Crescent	27/03/2010	06/05/2010	-	$519,000	872m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	257441	46 Angophora Street	06/02/2010	20/04/2010	13/01/2010	$518,000	737m	Full transfer	3	1	1	2	1	$518,000	24	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.53
+2010	327361	2 Salsola Street	01/02/2010	23/03/2010	-	$511,000	743m	Full transfer	-	-	-	-	-	$511,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328024	4 Tristania Street	04/06/2010	09/07/2010	-	$510,000	817m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280384	2 Epacris Place	19/10/2010	14/12/2010	03/09/2010	$505,000	1192m	Full transfer	4	1	-	2	-	$505,000	46	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.6
+2010	258576	30 Casuarina Street	24/02/2010	13/04/2010	29/01/2010	$501,000	986m	Full transfer	4	1	-	-	1	$501,000	26	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.58
+2010	283359	12 Astelia Place	13/12/2010	16/02/2011	-	$501,000	1285m	Full transfer	-	-	-	-	-	$501,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276761	45 Woollum Crescent	22/03/2010	19/07/2010	-	$500,000	694m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263631	102 Bangalay Crescent	23/03/2010	24/05/2010	-	$495,000	767m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269568	12/9 Tristania Street	02/07/2010	17/08/2010	-	$490,000	13397m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271084	5 Hibiscus Crescent	04/08/2010	09/09/2010	29/06/2010	$490,000	730m	Full transfer	3	1	-	-	2	$490,000	36	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.5
+2010	258327	1 Sollya Place	24/02/2010	07/05/2010	27/01/2010	$490,000	741m	Full transfer	4	1	-	2	-	$490,000	28	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.61
+2010	280383	41 Kanooka Street	13/10/2010	16/12/2010	28/07/2010	$489,000	911m	Full transfer	3	1	-	-	1	$489,000	77	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.52
+2010	276762	13 Casuarina Street	22/06/2010	19/07/2010	-	$482,600	935m	Full transfer	-	-	-	-	-	$482,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263863	50 Marlock Street	10/04/2010	24/05/2010	09/03/2010	$480,000	905m	Full transfer	5	1	1	2	-	$480,000	32	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.6
+2010	274424	38 Gungurra Crescent	11/10/2010	03/12/2010	29/07/2010	$480,000	717m	Full transfer	3	1	-	2	-	$480,000	74	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.57
+2010	280307	23 Wirilda Street	25/10/2010	22/12/2010	18/06/2010	$479,000	730m	Full transfer	3	1	-	1	1	$479,000	129	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.57
+2010	283810	6 Cooba Place	06/11/2010	02/03/2011	12/10/2010	$478,000	876m	Full transfer	3	1	-	1	-	$478,000	25	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.59
+2010	328610	20 Goodenia Street	26/06/2010	24/08/2010	-	$470,000	684m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273443	22 Tristania Street	15/09/2010	02/11/2010	20/05/2010	$469,000	763m	Full transfer	3	1	-	2	-	$469,000	118	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.58
+2010	280727	32 Gungurra Crescent	03/11/2010	22/12/2010	-	$465,000	682m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271214	34 Tristania Street	26/08/2010	20/09/2010	15/07/2010	$457,000	773m	Full transfer	3	1	-	2	-	$457,000	42	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.6
+2010	257440	2 Blancoa Place	15/03/2010	23/04/2010	04/02/2010	$428,750	371m	Full transfer	3	1	-	-	1	$428,750	39	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.45
+2010	266568	            3K Tristania Street	06/10/2010	-	30/08/2010	$363,000	-	Full transfer	2	1	-	-	1	$363,000	37	-	Allhomes Record	-	-	-	-	-	-
+2010	274183	            16/1 Tristania Street	06/10/2010	10/11/2010	-	$363,000	7942m	Full transfer	-	-	-	-	-	$363,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260142	            7/1 Tristania Street	07/04/2010	11/05/2010	-	$345,000	7942m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	255202	            3A Tristania Street	07/04/2010	-	23/02/2010	$345,000	-	Full transfer	2	1	-	-	1	$345,000	43	-	Allhomes Record	-	-	-	-	-	-
+2010	258094	            14/1 Tristania Street	20/03/2010	04/05/2010	-	$336,500	7942m	Full transfer	-	-	-	-	-	$336,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253193	            14/3H Tristania Street	20/03/2010	-	24/02/2010	$336,500	7942m	Full transfer	2	1	-	-	1	$336,500	24	-	Allhomes Record	-	-	-	-	$87,618	0.26
+2010	283313	20 Gungurra Crescent	19/01/2010	25/02/2011	-	-	748m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255673	39 Darwinia Terrace	26/02/2010	23/03/2010	-	-	945m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258154	21 Yate Gardens	19/04/2010	03/05/2010	-	-	956m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291422	21 Croton Street	29/11/2010	10/05/2011	-	-	1071m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272761	1 Eugenia Street	06/10/2010	27/10/2010	-	-	825m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272760	2 Nealie Place	07/09/2010	28/10/2010	-	-	954m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267739	5 Croton Street	18/06/2010	01/07/2010	-	-	755m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270108	7 Marlock Street	04/04/2010	10/08/2010	-	-	728m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267672	7 Mentha Place	15/05/2010	21/06/2010	-	-	734m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272861	16 Croton Street	31/03/2010	13/10/2010	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280726	2 Tristania Street	01/08/2010	22/12/2010	-	-	891m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	297693	43 Salsola Street	14/02/2010	01/07/2011	-	-	1114m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261430	22 Wirilda Street	08/01/2010	23/02/2010	-	-	673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287304	45 Carbeen Street	16/08/2010	30/03/2011	-	-	755m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273003	            16/1 Tristania Street	28/06/2010	22/10/2010	-	-	7942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261888	4 Cassia Place	17/03/2010	11/05/2010	-	-	758m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261805	57 Salsola Street	15/01/2010	01/04/2010	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277680	315 Hindmarsh Drive	13/03/2010	27/01/2011	-	-	873m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270466	7 Bangalay Crescent	16/04/2010	21/09/2010	-	-	814m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	369941	64 Streeton Drive	10/12/2011	26/03/2012	-	$640,000	986m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365919	83 Darwinia Terrace	10/12/2011	01/03/2012	15/11/2011	$610,000	793m	Full transfer	4	1	1	-	1	$610,000	25	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.5
+2011	330570	233 Hindmarsh Drive	02/02/2011	29/03/2011	-	$588,500	800m	Full transfer	-	-	-	-	-	$588,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300635	3 Woollum Crescent	30/04/2011	07/07/2011	07/04/2011	$585,800	1210m	Full transfer	3	1	1	4	2	$585,800	23	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.61
+2011	341723	4 Cooba Place	19/10/2011	-	21/07/2011	$585,000	-	Full transfer	4	1	1	1	1	$585,000	90	-	Allhomes Record	-	-	-	-	$334,000	0.57
+2011	342132	4 Cooba Place	22/08/2011	12/10/2011	-	$580,000	926m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333162	5 Pavonia Street	28/06/2011	27/07/2011	16/02/2011	$569,000	790m	Full transfer	4	1	1	2	-	$569,000	132	-	Combined Record	150	-	-	Single residential dwelling	$335,000	0.59
+2011	354550	8 Goodenia Street	15/11/2011	04/01/2012	22/09/2011	$555,000	987m	Full transfer	3	1	1	2	-	$555,000	54	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.63
+2011	331802	46 Woollum Crescent	27/04/2011	13/07/2011	-	$545,000	720m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360528	279 Hindmarsh Drive	22/11/2011	23/01/2012	12/10/2011	$545,000	827m	Full transfer	4	1	1	2	2	$545,000	41	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.6
+2011	336697	29 Gungurra Crescent	12/07/2011	18/08/2011	30/03/2011	$530,000	692m	Full transfer	4	1	1	2	-	$530,000	104	-	Combined Record	164	-	-	Single residential dwelling	$315,000	0.59
+2011	296883	16 Salsola Street	12/04/2011	25/05/2011	10/03/2011	$530,000	831m	Full transfer	4	1	1	2	1	$530,000	33	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.66
+2011	342144	5 Woollum Crescent	18/08/2011	11/10/2011	02/05/2011	$520,000	823m	Full transfer	3	1	-	4	-	$520,000	108	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.65
+2011	333167	26 Hibiscus Crescent	24/06/2011	29/07/2011	05/05/2011	$515,000	1011m	Full transfer	3	1	-	1	-	$515,000	50	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.67
+2011	292384	3 Marlock Street	25/03/2011	10/05/2011	16/01/2011	$515,000	1012m	Full transfer	3	1	2	1	2	$515,000	68	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.64
+2011	353629	75 Carbeen Street	25/11/2011	16/01/2012	04/10/2011	$515,000	788m	Full transfer	3	1	-	4	-	$515,000	52	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.61
+2011	360531	65 Croton Street	07/12/2011	24/01/2012	14/10/2011	$510,000	747m	Full transfer	3	2	-	-	2	$510,000	54	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.65
+2011	330441	8 Melia Place	04/02/2011	17/03/2011	-	$510,000	649m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349943	20 Burgan Place	12/10/2011	05/12/2011	15/09/2011	$506,050	655m	Full transfer	3	1	-	1	1	$506,050	27	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.68
+2011	292130	31 Angophora Street	14/02/2011	21/04/2011	02/11/2010	$505,000	756m	Full transfer	4	1	-	1	1	$505,000	104	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.57
+2011	353929	1 Yate Gardens	15/11/2011	22/12/2011	07/04/2011	$505,000	787m	Full transfer	3	1	-	2	-	$505,000	222	-	Combined Record	130	-	-	Single residential dwelling	$354,000	0.7
+2011	296030	8 Bangalay Crescent	05/01/2011	22/06/2011	-	$500,000	911m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296129	            1/8 Bangalay Crescent	05/01/2011	22/06/2011	-	$500,000	911m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347092	104 Streeton Drive	06/10/2011	17/11/2011	19/07/2011	$500,000	878m	Full transfer	3	1	1	2	2	$500,000	79	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.7
+2011	296502	            2/8 Bangalay Crescent	05/01/2011	22/06/2011	-	$500,000	911m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354851	7 Drosera Place	17/11/2011	11/01/2012	13/10/2011	$496,000	1016m	Full transfer	3	1	-	2	2	$496,000	35	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.74
+2011	333370	71 Croton Street	04/07/2011	02/08/2011	30/05/2011	$493,000	756m	Full transfer	3	1	-	1	-	$493,000	35	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.7
+2011	353931	25 Mirbelia Crescent	22/11/2011	20/12/2011	26/09/2011	$490,000	763m	Full transfer	4	1	1	1	2	$490,000	57	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.64
+2011	333166	34 Carbeen Street	28/05/2011	28/07/2011	-	$480,000	820m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347829	1/1 Marlock Street	16/09/2011	27/10/2011	18/05/2011	$477,000	916m	Full transfer	3	1	1	1	-	$477,000	121	-	Combined Record	125	-	-	Multiple unit dwelling	$358,000	0.75
+2011	349945	40 Bangalay Crescent	23/09/2011	05/12/2011	02/09/2011	$477,000	699m	Full transfer	3	1	-	1	1	$477,000	21	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.53
+2011	336695	25 Rapanea Street	01/07/2011	15/08/2011	02/06/2011	$475,000	716m	Full transfer	3	1	-	4	2	$475,000	29	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.67
+2011	353627	17 Wirilda Street	08/11/2011	18/01/2012	29/09/2011	$475,000	785m	Full transfer	3	1	-	2	1	$475,000	40	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.67
+2011	353631	26 Bangalay Crescent	26/10/2011	16/01/2012	25/08/2011	$470,000	732m	Full transfer	3	1	-	2	1	$470,000	62	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.62
+2011	336870	45 Carbeen Street	29/06/2011	09/08/2011	31/03/2011	$462,000	755m	Full transfer	3	1	-	1	1	$462,000	90	-	Combined Record	100	-	-	Single residential dwelling	$316,000	0.68
+2011	365923	25 Wirilda Street	22/12/2011	01/03/2012	12/10/2011	$460,000	696m	Full transfer	4	1	-	1	1	$460,000	71	-	Combined Record	114	-	-	Single residential dwelling	$315,000	0.68
+2011	333841	42 Marlock Street	27/09/2011	-	25/07/2011	$455,000	-	Full transfer	3	1	-	2	1	$455,000	64	-	Allhomes Record	-	-	-	-	$315,000	0.69
+2011	350189	12 Marlock Street	28/10/2011	01/12/2011	08/09/2011	$452,500	712m	Full transfer	3	1	-	1	-	$452,500	50	-	Combined Record	104	-	-	Single residential dwelling	$316,000	0.7
+2011	360167	25 Marlock Street	09/12/2011	30/01/2012	-	$445,000	790m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342196	42 Marlock Street	29/08/2011	06/10/2011	-	$445,000	694m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340844	227 Hindmarsh Drive	25/08/2011	28/09/2011	08/07/2011	$440,000	742m	Full transfer	3	1	-	-	-	$440,000	48	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.68
+2011	353626	26 Eugenia Street	15/11/2011	16/01/2012	-	$430,000	887m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340842	32 Marlock Street	23/08/2011	26/09/2011	14/07/2011	$430,000	694m	Full transfer	2	1	-	1	-	$430,000	40	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.73
+2011	338481	50 Nelumbo Street	01/07/2011	15/09/2011	-	$430,000	716m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292383	10 Cordia Place	18/03/2011	10/05/2011	25/01/2011	$418,000	605m	Full transfer	3	1	-	-	2	$418,000	52	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.7
+2011	344399	41 Goodenia Street	25/03/2011	20/10/2011	-	$396,500	239m	Full transfer	-	-	-	-	-	$396,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	335923	2/5 Tristania Street	13/07/2011	15/08/2011	-	$373,000	10408m	Full transfer	-	-	-	-	-	$373,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300329	4/1 Tristania Street	09/06/2011	20/07/2011	-	$350,000	7942m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347831	15/5 Tristania Street	23/08/2011	26/10/2011	-	$350,000	10408m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	365921	114 Streeton Drive	29/11/2011	27/02/2012	-	$0	878m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	430460	101 Bangalay Crescent	11/02/2011	01/07/2014	-	$0	870m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350446	49 Santalum Street	22/11/2011	13/12/2011	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	472826	14 Rivett Place	04/04/2011	07/03/2016	-	$0	134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	472189	205 Hindmarsh Drive	14/09/2011	24/02/2016	-	$0	941m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360530	25 Marlock Street	06/06/2011	23/01/2012	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365585	21 Nelumbo Street	23/01/2011	21/02/2012	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353934	26 Bangalay Crescent	25/03/2011	20/12/2011	-	$0	732m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	473311	16 Rivett Place	04/04/2011	18/03/2016	-	$0	134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	392925	20 Croton Street	31/10/2011	04/02/2013	-	$0	833m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353933	63 Carbeen Street	19/12/2011	22/12/2011	-	$0	765m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	571992	50 Carbeen Street	04/11/2011	10/10/2019	-	$0	989m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346552	22 Croton Street	29/09/2011	23/11/2011	-	$0	838m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	379305	32 Eugenia Street	07/02/2011	16/09/2012	-	$0	788m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296444	7 Diselma Place	29/04/2011	15/06/2011	-	-	1576m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297695	12/9 Tristania Street	22/03/2011	28/06/2011	-	-	13397m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300132	9 Bangalay Crescent	19/02/2011	11/07/2011	-	-	975m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340455	31 Salsola Street	15/07/2011	28/09/2011	-	-	842m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287303	35 Kanooka Street	25/02/2011	31/03/2011	-	-	1089m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	285903	111 Bangalay Crescent	11/03/2011	17/03/2011	-	-	856m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296054	4 Cooba Place	11/04/2011	31/05/2011	-	-	926m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291510	10 Tristania Street	18/03/2011	15/04/2011	-	-	800m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340352	65 Croton Street	02/07/2011	23/09/2011	-	-	747m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333164	104 Streeton Drive	20/05/2011	26/07/2011	-	-	878m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333169	31 Darwinia Terrace	28/04/2011	25/07/2011	-	-	757m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296327	3/1 Tristania Street	02/03/2011	30/05/2011	-	-	7942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336109	6 Carbeen Street	26/05/2011	25/08/2011	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300385	25 Pavonia Street	29/04/2011	06/07/2011	-	-	684m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	369938	127 Darwinia Terrace	27/01/2012	26/03/2012	17/01/2012	$690,000	1097m	Full transfer	4	1	2	2	-	$690,000	10	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.51
+2012	370943	            1/8 Bangalay Crescent	16/02/2012	30/04/2012	-	$680,000	911m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	355592	            1 Hibiscus Crescent	17/02/2012	-	21/07/2011	$680,000	-	Full transfer	4	2	1	2	-	$680,000	211	-	Allhomes Record	-	-	-	-	-	-
+2012	365228	17 Darwinia Terrace	01/02/2012	07/03/2012	-	$650,000	878m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371074	28 Santalum Street	27/06/2012	-	28/02/2012	$595,000	709m	Full transfer	5	1	2	2	1	$595,000	120	-	Allhomes Record	211	-	-	-	$304,000	0.51
+2012	379027	319 Hindmarsh Drive	22/05/2012	03/09/2012	03/05/2012	$590,000	853m	Full transfer	4	1	1	-	2	$590,000	19	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.57
+2012	372609	259 Hindmarsh Drive	09/01/2012	16/03/2012	21/07/2011	$570,000	755m	Full transfer	4	1	-	-	1	$570,000	172	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.55
+2012	384770	6 Burgan Place	04/04/2012	15/05/2012	08/12/2011	$560,000	880m	Full transfer	4	1	1	1	2	$560,000	118	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.55
+2012	379025	61 Woollum Crescent	18/07/2012	06/09/2012	24/02/2012	$558,000	1254m	Full transfer	5	1	1	2	-	$558,000	145	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.52
+2012	383875	2/8 Bangalay Crescent	17/09/2012	12/11/2012	-	$550,000	911m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	360902	45 Angophora Street	29/03/2012	-	02/02/2012	$545,000	912m	Full transfer	4	1	-	1	-	$545,000	56	-	Allhomes Record	-	-	-	-	$304,000	0.56
+2012	382962	279 Hindmarsh Drive	19/10/2012	28/11/2012	16/08/2012	$540,000	827m	Full transfer	4	1	1	2	2	$540,000	64	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.6
+2012	384488	13 Croton Street	24/02/2012	08/05/2012	11/01/2012	$539,000	821m	Full transfer	3	1	1	2	1	$539,000	44	-	Combined Record	133	-	-	Single residential dwelling	$336,000	0.62
+2012	378849	12 Kanooka Street	21/06/2012	27/08/2012	01/06/2012	$525,000	714m	Full transfer	3	1	1	2	-	$525,000	20	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.6
+2012	388425	25 Woollum Crescent	23/11/2012	14/01/2013	-	$522,000	789m	Full transfer	-	-	-	-	-	$522,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	381673	25 Woollum Place	23/11/2012	-	24/10/2012	$522,000	789m	Full transfer	3	1	-	1	2	$522,000	30	-	Allhomes Record	101	-	-	-	$345,000	0.66
+2012	378976	114 Streeton Drive	20/04/2012	-	25/10/2012	$520,000	873m	Full transfer	3	2	-	2	0	$520,000	-	-	Allhomes Record	-	-	-	-	$334,000	0.64
+2012	375912	32 Hibiscus Crescent	31/08/2012	-	29/06/2012	$500,000	843m	Full transfer	4	1	-	1	-	$500,000	63	-	Allhomes Record	-	-	-	-	$312,000	0.62
+2012	360203	15 Rapanea Street	18/01/2012	15/02/2012	-	$495,000	779m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377256	21 Santalum Street	08/06/2012	20/07/2012	12/04/2012	$490,000	684m	Full transfer	3	1	-	1	-	$490,000	57	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.64
+2012	367792	98 Streeton Drive	28/05/2012	-	08/03/2012	$483,000	1113m	Full transfer	3	1	1	-	1	$483,000	81	-	Allhomes Record	-	-	-	-	$348,000	0.72
+2012	392419	22 Bangalay Crescent	11/12/2012	18/02/2013	29/10/2012	$480,000	743m	Full transfer	3	1	-	1	-	$480,000	43	-	Combined Record	122	-	-	Single residential dwelling	$291,000	0.61
+2012	378845	1 Sollya Place	13/07/2012	29/08/2012	22/02/2012	$480,000	741m	Full transfer	4	1	-	2	-	$480,000	142	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.71
+2012	384490	15 Salsola Street	12/04/2012	10/05/2012	29/03/2012	$480,000	748m	Full transfer	3	1	-	-	1	$480,000	14	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.71
+2012	365226	8 Casuarina Street	13/01/2012	06/03/2012	20/10/2011	$476,000	769m	Full transfer	3	1	-	-	1	$476,000	85	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.74
+2012	394839	34 Rapanea Street	16/11/2012	11/04/2013	29/03/2013	$470,000	698m	Full transfer	3	1	-	0	1	$470,000	-	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.57
+2012	377128	67 Carbeen Street	14/06/2012	26/07/2012	-	$470,000	944m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392266	2 Bangalay Crescent	29/10/2012	13/03/2013	-	$470,000	888m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387061	40 Santalum Street	11/10/2012	19/12/2012	12/09/2012	$470,000	730m	Full transfer	3	1	-	1	-	$470,000	29	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.67
+2012	385932	24 Bangalay Crescent	27/10/2012	11/12/2012	25/09/2012	$466,000	813m	Full transfer	3	1	1	2	-	$466,000	32	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.67
+2012	375131	17 Hibiscus Crescent	11/08/2012	-	19/07/2012	$465,000	684m	Full transfer	3	1	-	1	-	$465,000	23	-	Allhomes Record	-	-	-	-	$285,000	0.61
+2012	387059	5 Melia Place	13/11/2012	19/12/2012	12/10/2012	$460,000	799m	Full transfer	4	1	-	-	2	$460,000	32	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.77
+2012	372606	23 Angophora Street	04/02/2012	15/03/2012	-	$460,000	972m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	378847	69 Darwinia Terrace	27/07/2012	30/08/2012	22/05/2012	$460,000	768m	Full transfer	3	1	-	1	-	$460,000	66	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.66
+2012	377551	67 Croton Street	14/09/2012	-	28/06/2012	$460,000	765m	Full transfer	3	1	-	-	1	$460,000	78	-	Allhomes Record	-	-	-	-	$345,000	0.75
+2012	369942	3 Wirilda Street	14/02/2012	27/03/2012	01/02/2012	$459,000	1010m	Full transfer	3	1	-	2	-	$459,000	13	-	Combined Record	100	-	-	Single residential dwelling	$330,000	0.72
+2012	379306	6/9 Tristania Street	15/08/2012	13/09/2012	19/07/2012	$456,000	13397m	Full transfer	3	1	1	2	-	$456,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	$2,496,000	5.47
+2012	367962	15 Angophora Street	29/05/2012	-	29/04/2012	$455,000	813m	Full transfer	3	1	-	-	2	$455,000	30	-	Allhomes Record	-	-	-	-	$297,000	0.65
+2012	388423	128 Streeton Drive	26/11/2012	17/01/2013	16/08/2012	$455,000	900m	Full transfer	3	1	-	1	-	$455,000	102	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.79
+2012	372466	16 Casuarina Street	20/07/2012	-	14/06/2012	$453,000	807m	Full transfer	3	1	-	-	2	$453,000	36	-	Allhomes Record	104	-	-	-	$325,000	0.72
+2012	369064	19 Casuarina Street	03/03/2012	04/04/2012	19/10/2011	$452,000	780m	Full transfer	3	1	-	-	1	$452,000	136	-	Combined Record	101	-	-	Single residential dwelling	$354,000	0.78
+2012	383627	30 Bangalay Crescent	22/09/2012	07/11/2012	30/08/2012	$450,000	829m	Full transfer	3	1	-	-	2	$450,000	23	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.74
+2012	349492	25 Marlock Street	03/01/2012	-	23/03/2011	$445,000	790m	Full transfer	4	1	-	-	1	$445,000	286	-	Allhomes Record	-	-	-	-	$316,000	0.71
+2012	367401	40 Marlock Street	23/05/2012	-	22/03/2012	$437,500	694m	Full transfer	3	1	-	-	1	$437,500	62	-	Allhomes Record	-	-	-	-	$315,000	0.72
+2012	372607	15 Wirilda Street	27/01/2012	15/03/2012	09/01/2012	$432,000	843m	Full transfer	3	1	-	2	-	$432,000	18	-	Combined Record	139	-	-	Single residential dwelling	$325,000	0.75
+2012	392928	30 Santalum Street	05/06/2012	06/02/2013	-	$425,000	703m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372346	18/5 Tristania Street	18/07/2012	-	14/06/2012	$417,000	10408m	Full transfer	2	1	-	-	1	$417,000	34	-	Allhomes Record	-	-	-	-	$3,178,000	7.62
+2012	362452	2 Marlock Street	14/04/2012	-	22/03/2012	$395,000	835m	Full transfer	4	1	1	1	-	$395,000	23	-	Allhomes Record	-	-	-	-	$325,000	0.82
+2012	555647	6 Cordia Place	29/08/2012	20/03/2019	13/06/2012	$392,500	285m	Full transfer	3	1	-	2	-	$392,500	77	-	Combined Record	110	-	-	For residential purposes only	$241,000	0.61
+2012	383986	45 Angophora Street	31/05/2012	20/11/2012	-	$2	912m	Full transfer	-	-	-	-	-	$2	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387831	31 Salsola Street	25/09/2012	03/01/2013	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394843	5 Mallee Place	19/09/2012	09/04/2013	-	$0	621m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	558687	12 Santalum Street	16/08/2012	10/05/2019	-	$0	695m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392262	3 Croton Street	24/04/2012	12/03/2013	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393391	9 Epacris Place	21/05/2012	04/03/2013	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371486	10/9 Tristania Street	31/01/2012	07/06/2012	-	$0	13397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	400103	239 Hindmarsh Drive	21/06/2012	04/06/2013	-	$0	1048m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383626	25 Croton Street	06/08/2012	09/11/2012	-	$0	666m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392418	66 Streeton Drive	27/12/2012	18/02/2013	-	$0	1448m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392929	30 Santalum Street	21/02/2012	06/02/2013	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384772	27 Rapanea Street	22/04/2012	16/05/2012	-	$0	767m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392263	34 Rapanea Street	27/07/2012	13/03/2013	-	$0	698m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392648	4 Eugenia Street	12/11/2012	28/02/2013	-	$0	808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365922	62 Rapanea Street	01/02/2012	01/03/2012	-	-	716m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397520	94 Streeton Drive	14/03/2013	08/05/2013	08/01/2013	$620,000	1023m	Full transfer	5	1	1	1	1	$620,000	65	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.55
+2013	392264	2 Astelia Place	08/02/2013	14/03/2013	15/10/2012	$590,000	824m	Full transfer	4	1	1	2	2	$590,000	116	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.57
+2013	410701	10 Geebung Place	30/08/2013	21/10/2013	-	$560,000	1029m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419257	47 Kanooka Street	10/10/2013	11/02/2014	12/09/2013	$545,000	772m	Full transfer	3	1	-	2	-	$545,000	28	-	Combined Record	126	-	-	Single residential dwelling	$354,000	0.65
+2013	419255	3 Goodenia Street	18/12/2013	12/02/2014	27/11/2013	$540,000	706m	Full transfer	4	1	1	2	2	$540,000	21	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.64
+2013	419261	8 Nealie Place	18/12/2013	14/02/2014	27/11/2013	$539,000	823m	Full transfer	4	1	-	2	-	$539,000	21	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.62
+2013	394462	2 Croton Street	07/02/2013	18/03/2013	02/10/2012	$522,000	863m	Full transfer	3	1	-	1	1	$522,000	128	-	Combined Record	139	-	-	Single residential dwelling	$336,000	0.64
+2013	423082	4 Astelia Place	16/12/2013	20/03/2014	24/10/2013	$521,000	835m	Full transfer	4	1	1	1	0	$521,000	53	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.64
+2013	419259	151 Darwinia Terrace	23/12/2013	12/02/2014	03/10/2013	$520,000	782m	Full transfer	4	1	-	1	1	$520,000	81	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.68
+2013	411259	104 Streeton Drive	03/08/2013	14/10/2013	-	$510,000	878m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404551	29 Nelumbo Street	20/08/2013	-	30/07/2013	$509,000	681m	Full transfer	3	1	-	1	1	$509,000	21	-	Allhomes Record	98	-	-	-	$320,000	0.63
+2013	396673	21 Darwinia Terrace	13/03/2013	26/04/2013	31/01/2013	$507,500	878m	Full transfer	3	1	-	2	1	$507,500	41	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.66
+2013	413414	28 Nelumbo Street	30/08/2013	13/11/2013	07/08/2013	$497,000	793m	Full transfer	3	1	-	-	2	$497,000	23	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.71
+2013	421480	4 Wirilda Street	10/12/2013	18/02/2014	11/11/2013	$491,000	737m	Full transfer	3	1	-	1	-	$491,000	29	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.66
+2013	422629	97 Darwinia Terrace	29/10/2013	25/03/2014	13/08/2013	$490,000	843m	Full transfer	4	1	1	-	1	$490,000	77	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.68
+2013	395206	75 Croton Street	05/03/2013	15/04/2013	08/02/2013	$490,000	730m	Full transfer	3	1	1	-	2	$490,000	25	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.68
+2013	406706	34 Marlock Street	17/06/2013	29/08/2013	18/03/2013	$489,000	694m	Full transfer	3	1	-	1	1	$489,000	91	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.66
+2013	413951	53 Carbeen Street	12/09/2013	22/11/2013	-	$485,000	813m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	402471	31 Tristania Street	26/03/2013	21/06/2013	01/11/2012	$482,000	1316m	Full transfer	4	1	-	2	2	$482,000	145	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.78
+2013	418347	207 Hindmarsh Drive	23/11/2013	08/01/2014	29/10/2013	$480,000	941m	Full transfer	3	1	0	1	0	$480,000	25	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.69
+2013	401551	12 Woollum Crescent	10/04/2013	24/05/2013	14/03/2013	$480,000	716m	Full transfer	3	1	-	2	-	$480,000	27	-	Combined Record	-	-	-	Single residential dwelling...	$331,000	0.69
+2013	392926	20 Tristania Street	07/01/2013	05/02/2013	15/10/2012	$477,000	815m	Full transfer	3	1	-	2	-	$477,000	84	-	Combined Record	111	-	-	Single residential dwelling	$334,000	0.7
+2013	416311	9 Eugenia Street	03/12/2013	18/12/2013	23/10/2013	$476,500	673m	Full transfer	4	1	1	-	2	$476,500	41	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.71
+2013	394841	213 Hindmarsh Drive	09/02/2013	12/04/2013	17/01/2013	$471,000	815m	Full transfer	3	1	-	-	1	$471,000	23	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.65
+2013	417079	41 Salsola Street	15/11/2013	24/12/2013	03/10/2013	$470,000	938m	Full transfer	3	1	1	1	-	$470,000	43	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.75
+2013	416306	81 Darwinia Terrace	09/11/2013	18/12/2013	15/10/2013	$467,000	804m	Full transfer	3	1	0	2	1	$467,000	25	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.66
+2013	402630	18 Rapanea Street	31/05/2013	27/06/2013	06/03/2013	$464,000	725m	Full transfer	3	1	-	-	1	$464,000	86	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.7
+2013	419263	32 Marlock Street	13/12/2013	10/02/2014	24/10/2013	$460,000	694m	Full transfer	3	1	-	1	-	$460,000	50	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.7
+2013	413949	35 Eugenia Street	29/10/2013	21/11/2013	05/09/2013	$460,000	709m	Full transfer	3	1	0	0	0	$460,000	54	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.72
+2013	407460	29 Angophora Street	06/06/2013	06/09/2013	09/01/2013	$460,000	721m	Full transfer	3	1	-	-	1	$460,000	148	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.63
+2013	413947	24 Nelumbo Street	02/10/2013	18/11/2013	14/08/2013	$455,000	766m	Full transfer	3	1	0	0	0	$455,000	49	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.69
+2013	407942	20 Woollum Crescent	07/05/2013	14/08/2013	22/01/2013	$455,000	748m	Full transfer	3	1	-	-	-	$455,000	105	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.73
+2013	395210	31 Salsola Street	02/03/2013	16/04/2013	29/01/2013	$450,000	842m	Full transfer	4	1	1	1	1	$450,000	32	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.77
+2013	406705	6 Mentha Place	29/07/2013	28/08/2013	-	$450,000	774m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410252	14 Gungurra Crescent	07/08/2013	11/09/2013	28/06/2013	$445,000	684m	Full transfer	3	1	-	-	1	$445,000	40	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.73
+2013	410112	            20/5 Tristania	02/11/2013	-	24/09/2013	$441,000	246m	Full transfer	2	1	0	0	1	$441,000	39	-	Allhomes Record	-	-	-	-	$3,337,000	7.57
+2013	415928	20/5 Tristania Street	02/11/2013	13/12/2013	-	$441,000	10408m	Full transfer	-	-	-	-	-	$441,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	398162	20 Angophora Street	28/03/2013	15/05/2013	14/02/2013	$437,000	733m	Full transfer	3	1	-	1	2	$437,000	42	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.72
+2013	416309	22 Wirilda Street	02/11/2013	18/12/2013	18/09/2013	$435,000	673m	Full transfer	3	1	-	-	1	$435,000	45	-	Combined Record	98	-	-	Single residential dwelling	$324,000	0.74
+2013	400571	1 Mentha Place	18/04/2013	28/05/2013	-	$430,000	1238m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	395208	22 Kanooka Street	01/03/2013	15/04/2013	24/01/2013	$430,000	687m	Full transfer	3	1	-	1	-	$430,000	36	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.73
+2013	412625	50 Streeton Drive	04/10/2013	07/11/2013	17/09/2013	$426,000	950m	Full transfer	3	1	-	2	-	$426,000	17	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.78
+2013	407944	231 Hindmarsh Drive	06/07/2013	16/08/2013	13/06/2013	$415,000	746m	Full transfer	3	1	-	1	-	$415,000	23	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.72
+2013	421482	6/5 Tristania Street	06/12/2013	19/02/2014	17/10/2013	$415,000	10408m	Full transfer	2	1	0	0	1	$415,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	$3,337,000	8.04
+2013	403483	46 Marlock Street	03/06/2013	01/07/2013	-	$414,700	915m	Full transfer	-	-	-	-	-	$414,700	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	412623	133 Darwinia Terrace	28/08/2013	06/11/2013	-	$410,000	764m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405970	25 Croton Street	06/09/2013	-	11/07/2013	$410,000	666m	Full transfer	3	1	-	-	-	$410,000	57	-	Allhomes Record	104	-	-	-	$311,000	0.76
+2013	410699	16 Blancoa Place	27/08/2013	24/10/2013	-	$410,000	406m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417660	10 Santalum Street	03/10/2013	14/01/2014	-	$400,000	784m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	395661	2/313 Hindmarsh Drive	04/05/2013	-	09/04/2013	$395,000	989m	Full transfer	2	1	1	-	1	$395,000	25	-	Allhomes Record	-	-	-	-	$398,000	1.01
+2013	411260	23 Santalum Street	27/08/2013	16/10/2013	-	$390,000	669m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	419901	1 Lomatia Place	20/11/2013	07/02/2014	30/10/2013	$380,000	298m	Full transfer	3	1	0	0	0	$380,000	21	-	Combined Record	-	-	-	Single residential dwelling...	$241,000	0.63
+2013	400101	16/5 Tristania Street	18/04/2013	04/06/2013	05/02/2013	$365,000	10408m	Full transfer	2	1	-	-	1	$365,000	72	-	Combined Record	-	-	-	Multiple unit dwelling	$3,178,000	8.71
+2013	415071	104 Streeton Drive	30/08/2013	02/12/2013	-	$345,000	878m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407459	23 Kanooka Street	10/07/2013	04/09/2013	-	$220,000	1197m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	418540	5 Croton Street	05/11/2013	31/01/2014	-	$125,000	755m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400570	46 Angophora Street	14/03/2013	28/05/2013	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407458	101 Darwinia Terrace	23/07/2013	02/09/2013	-	$0	775m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396625	207 Hindmarsh Drive	03/03/2013	29/04/2013	-	$0	941m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418048	97 Darwinia Terrace	25/07/2013	24/01/2014	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415927	57 Darwinia Terrace	05/11/2013	12/12/2013	-	$0	732m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	423079	59 Darwinia Terrace	18/12/2013	21/03/2014	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	412624	133 Darwinia Terrace	02/02/2013	06/11/2013	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416308	23 Angophora Street	30/10/2013	16/12/2013	-	$0	972m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410702	63 Darwinia Terrace	31/07/2013	24/10/2013	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	433459	10 Tristania Street	09/07/2013	18/08/2014	-	$0	800m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	402632	26 Wirilda Street	10/05/2013	24/06/2013	-	$0	705m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	430136	31 Darwinia Terrace	21/12/2013	10/07/2014	-	$0	757m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407653	31 Pavonia Street	27/02/2013	22/08/2013	-	$0	684m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421614	4 Salsola Street	20/12/2013	06/03/2014	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405011	            2/21A Hibiscus Crescent	07/05/2013	30/07/2013	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	434547	57 Bangalay Crescent	05/06/2014	04/09/2014	13/08/2014	$880,000	1372m	Full transfer	-	-	-	-	-	$880,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	$244,000	0.28
+2014	448239	29 Darwinia Terrace	29/11/2014	06/03/2015	05/11/2014	$721,000	791m	Full transfer	4	1	1	4	-	$721,000	24	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.45
+2014	432001	7 Toona Place	17/05/2014	29/07/2014	23/04/2014	$645,000	1093m	Full transfer	3	1	1	1	2	$645,000	24	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.52
+2014	439380	6 Drosera Place	23/09/2014	11/11/2014	09/09/2014	$635,000	913m	Full transfer	4	1	1	1	1	$635,000	14	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.55
+2014	443356	1 Burgan Place	09/10/2014	08/01/2015	15/09/2014	$610,000	1204m	Full transfer	4	2	-	2	-	$610,000	24	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.61
+2014	439382	72 Streeton Drive	24/09/2014	14/11/2014	-	$595,000	884m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	420413	50 Croton Street	14/03/2014	-	09/02/2014	$563,000	833m	Full transfer	4	1	1	-	2	$563,000	33	-	Allhomes Record	-	-	-	-	$336,000	0.6
+2014	424120	277 Hindmarsh Drive	05/03/2014	16/04/2014	15/01/2014	$552,000	842m	Full transfer	4	1	1	2	-	$552,000	49	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.59
+2014	453354	129 Darwinia Terrace	23/09/2014	29/05/2015	-	$540,000	1266m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439378	20 Burgan Place	08/10/2014	14/11/2014	12/08/2014	$540,000	655m	Full transfer	3	1	-	1	1	$540,000	57	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.64
+2014	426283	259 Hindmarsh Drive	06/03/2014	05/05/2014	21/11/2013	$535,000	755m	Full transfer	4	1	-	-	2	$535,000	105	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.59
+2014	426279	22 Woollum Crescent	02/04/2014	07/05/2014	13/03/2014	$530,500	819m	Full transfer	3	1	-	-	2	$530,500	20	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.63
+2014	427937	43 Carbeen Street	05/04/2014	20/05/2014	07/03/2014	$530,000	751m	Full transfer	4	2	0	0	1	$530,000	29	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.61
+2014	423080	116 Streeton Drive	13/02/2014	20/03/2014	06/11/2013	$528,000	890m	Full transfer	4	1	1	1	-	$528,000	99	-	Combined Record	145	-	-	Single residential dwelling	$334,000	0.63
+2014	447149	17 Yate Gardens	04/12/2014	24/02/2015	13/10/2014	$520,000	1124m	Full transfer	4	1	-	2	1	$520,000	52	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.73
+2014	443658	75 Carbeen Street	21/11/2014	19/01/2015	07/10/2014	$520,000	788m	Full transfer	3	1	-	2	-	$520,000	45	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.61
+2014	430458	13 Croton Street	28/05/2014	03/07/2014	09/04/2014	$520,000	821m	Full transfer	3	1	1	2	1	$520,000	49	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.65
+2014	428397	27 Hibiscus Crescent	16/04/2014	05/06/2014	21/03/2014	$516,000	740m	Full transfer	3	1	1	1	1	$516,000	26	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.55
+2014	432872	15 Goodenia Street	05/07/2014	12/08/2014	10/06/2014	$515,000	915m	Full transfer	4	1	0	2	0	$515,000	25	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.68
+2014	443142	10 Cassia Place	19/12/2014	13/01/2015	07/10/2014	$510,500	695m	Full transfer	3	1	-	2	-	$510,500	73	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.66
+2014	426282	5 Hibiscus Crescent	06/03/2014	05/05/2014	-	$510,000	730m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443140	2 Salsola Street	19/12/2014	13/01/2015	21/10/2014	$505,500	743m	Full transfer	3	1	-	2	2	$505,500	59	-	Combined Record	123	-	-	Single residential dwelling	$302,000	0.6
+2014	421022	21 Croton Street	22/01/2014	12/03/2014	05/11/2013	$502,000	1071m	Full transfer	4	1	0	2	0	$502,000	78	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.69
+2014	435510	25 Eugenia Street	19/07/2014	17/09/2014	-	$500,000	823m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443354	49 Darwinia Terrace	14/11/2014	07/01/2015	18/09/2014	$500,000	982m	Full transfer	3	1	-	1	-	$500,000	57	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.67
+2014	443656	58 Rapanea Street	06/11/2014	21/01/2015	13/10/2014	$495,000	790m	Full transfer	3	1	-	0	2	$495,000	24	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.66
+2014	429443	31 Woollum Place	09/05/2014	18/06/2014	02/04/2014	$491,000	948m	Full transfer	3	1	-	1	1	$491,000	37	-	Combined Record	-	-	-	Single residential dwelling	$344,000	0.7
+2014	432003	16 Santalum Street	23/06/2014	01/08/2014	12/06/2014	$490,000	662m	Full transfer	3	1	-	1	1	$490,000	11	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.66
+2014	421613	4 Salsola Street	20/01/2014	06/03/2014	-	$490,000	747m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446210	3 Melia Place	08/11/2014	17/02/2015	28/01/2015	$480,000	795m	Full transfer	3	1	-	0	2	$480,000	-	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.74
+2014	438495	16 Woollum Crescent	15/09/2014	29/10/2014	22/07/2014	$480,000	708m	Full transfer	3	1	0	0	1	$480,000	55	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.69
+2014	426959	12/9 Tristania Street	18/02/2014	14/05/2014	26/11/2013	$478,000	13397m	Full transfer	3	1	-	2	-	$478,000	84	-	Combined Record	-	-	-	Multiple unit dwelling	$2,621,000	5.48
+2014	423077	27 Croton Street	13/02/2014	20/03/2014	15/01/2014	$476,000	719m	Full transfer	3	1	-	2	-	$476,000	29	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.7
+2014	440055	257 Hindmarsh Drive	17/10/2014	24/11/2014	13/10/2014	$468,000	755m	Full transfer	3	1	-	2	-	$468,000	4	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.68
+2014	421616	22 Tristania Street	11/02/2014	06/03/2014	09/10/2013	$461,000	763m	Full transfer	3	1	-	2	-	$461,000	125	-	Combined Record	121	-	-	Single residential dwelling	$325,000	0.7
+2014	441439	9 Kanooka Street	24/10/2014	08/12/2014	29/07/2014	$460,000	694m	Full transfer	3	1	0	1	1	$460,000	87	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.73
+2014	441114	94 Bangalay Crescent	17/10/2014	05/12/2014	24/09/2014	$455,000	811m	Full transfer	3	1	-	0	1	$455,000	23	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.73
+2014	426645	44 Woollum Crescent	10/04/2014	30/05/2014	30/01/2014	$452,000	757m	Full transfer	3	1	0	0	1	$452,000	70	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.76
+2014	434549	5 Marlock Street	06/08/2014	05/09/2014	04/06/2014	$450,000	776m	Full transfer	4	1	-	1	2	$450,000	63	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.72
+2014	426277	31 Nelumbo Street	21/03/2014	06/05/2014	23/10/2013	$445,000	736m	Full transfer	3	1	1	1	-	$445,000	149	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.71
+2014	428180	2 Mentha Place	18/02/2014	02/05/2014	15/01/2014	$442,500	853m	Full transfer	2	1	-	1	-	$442,500	34	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.79
+2014	430456	4 Mentha Place	07/05/2014	01/07/2014	03/04/2014	$442,500	737m	Full transfer	3	1	0	0	2	$442,500	34	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.78
+2014	420453	28 Salsola Street	15/03/2014	-	17/02/2014	$421,000	834m	Full transfer	4	1	-	2	-	$421,000	26	-	Allhomes Record	-	-	-	-	$348,000	0.83
+2014	433454	12 Mentha Place	16/07/2014	20/08/2014	24/06/2014	$410,000	679m	Full transfer	3	1	-	-	2	$410,000	22	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.81
+2014	428182	14 Woollum Crescent	01/03/2014	30/04/2014	03/02/2014	$400,000	690m	Full transfer	3	1	0	1	1	$400,000	26	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.82
+2014	434183	3G Tristania Street	19/09/2014	-	17/01/2014	$399,000	7942m	Full transfer	2	1	0	0	1	$399,000	245	-	Allhomes Record	-	-	-	-	$132,486	0.33
+2014	438497	            13/1 Tristania Street	18/09/2014	30/10/2014	-	$399,000	7942m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	437456	            17/1 Tristania Street	26/08/2014	13/10/2014	-	$392,000	7942m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432779	M/3L Tristania Street	26/08/2014	-	11/06/2014	$392,000	-	Full transfer	2	1	-	-	1	$392,000	76	-	Allhomes Record	-	-	-	-	$2,385,000	6.08
+2014	441117	46 Marlock Street	16/08/2014	05/12/2014	-	$380,000	915m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	441437	22 Blancoa Place	25/09/2014	10/12/2014	29/05/2014	$360,000	317m	Full transfer	3	1	-	-	2	$360,000	119	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.74
+2014	433456	5 Cordia Place	11/07/2014	18/08/2014	27/02/2014	$310,000	248m	Full transfer	3	1	-	2	-	$310,000	134	-	Combined Record	-	-	-	For residential purposes only	$241,000	0.78
+2014	487063	2 Sollya Place	17/07/2014	21/09/2016	-	$0	871m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432005	3 Mallee Place	20/06/2014	31/07/2014	-	$0	667m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439383	43 Marlock Street	17/01/2014	14/11/2014	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441441	19/9 Tristania Street	04/07/2014	08/12/2014	-	$0	13397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438835	35 Marlock Street	19/09/2014	06/11/2014	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	422631	327 Hindmarsh Drive	04/02/2014	26/03/2014	-	$0	969m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431446	94 Bangalay Crescent	17/01/2014	25/07/2014	-	$0	811m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421615	14 Rapanea Street	16/01/2014	06/03/2014	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431445	95 Darwinia Terrace	20/02/2014	22/07/2014	-	$0	931m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	456465	8 Diselma Place	18/09/2014	02/07/2015	-	$0	800m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433866	35 Croton Street	14/08/2014	28/08/2014	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	444900	47 Marlock Street	11/10/2014	06/02/2015	-	$0	809m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	535849	5/57 Woollum Crescent	29/10/2014	21/06/2018	-	$0	1804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430135	5 Marlock Street	16/04/2014	10/07/2014	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446601	7 Burgan Place	15/11/2014	12/02/2015	-	$0	690m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	513913	6 Eugenia Street	28/11/2014	23/06/2017	-	$0	805m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446214	11 Darwinia Terrace	03/12/2014	18/02/2015	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426281	2 Rivett Place	19/01/2014	05/05/2014	-	$0	320m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2014	440054	38 Nelumbo Street	02/09/2014	24/11/2014	-	$0	689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446213	64 Streeton Drive	20/12/2014	18/02/2015	-	$0	986m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	458384	28 Salsola Street	14/04/2014	30/07/2015	-	$0	834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433458	30 Tristania Street	03/06/2014	22/08/2014	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448653	29 Gungurra Crescent	23/12/2014	27/03/2015	-	$0	692m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440235	2 Burgan Place	24/09/2014	19/11/2014	-	$0	833m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	456006	37 Darwinia Terrace	09/05/2015	06/07/2015	09/04/2015	$885,000	911m	Full transfer	4	1	1	2	0	$885,000	30	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.4
+2015	460097	10 Croton Street	04/07/2015	25/08/2015	11/06/2015	$740,000	804m	Full transfer	4	1	1	2	0	$740,000	23	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.47
+2015	452377	9 Morrell Place	05/03/2015	21/05/2015	02/01/2015	$690,000	1326m	Full transfer	4	1	1	2	-	$690,000	62	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.45
+2015	465186	2 Burgan Place	26/09/2015	05/11/2015	-	$690,000	833m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471394	1 Geebung Place	28/11/2015	11/02/2016	31/10/2015	$645,000	1060m	Full transfer	4	1	1	2	-	$645,000	28	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.6
+2015	448635	15 Darwinia Terrace	05/02/2015	23/03/2015	12/01/2015	$622,000	878m	Full transfer	4	1	-	2	-	$622,000	24	-	Combined Record	140	-	-	Single residential dwelling	$349,000	0.56
+2015	456893	28 Salsola Street	11/05/2015	23/06/2015	13/04/2015	$617,500	834m	Full transfer	4	1	1	2	-	$617,500	28	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.59
+2015	471104	47 Tristania Street	12/12/2015	15/02/2016	18/11/2015	$617,000	792m	Full transfer	4	1	1	2	0	$617,000	24	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.55
+2015	451798	25 Carbeen Street	18/03/2015	04/05/2015	27/01/2015	$601,000	832m	Full transfer	4	2	1	2	-	$601,000	50	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.58
+2015	462008	149 Darwinia Terrace	25/07/2015	23/09/2015	24/06/2015	$600,000	808m	Full transfer	4	2	-	1	-	$600,000	31	-	Combined Record	169	-	-	Single residential dwelling	$377,000	0.63
+2015	471098	128 Streeton Drive	27/11/2015	17/02/2016	26/10/2015	$598,000	900m	Full transfer	3	1	-	1	-	$598,000	32	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.63
+2015	450861	29 Kanooka Street	18/03/2015	29/04/2015	04/03/2015	$590,000	837m	Full transfer	4	1	1	2	-	$590,000	14	-	Combined Record	151	-	-	Single residential dwelling	$365,000	0.62
+2015	471108	26 Carbeen Street	12/10/2015	15/02/2016	09/06/2015	$590,000	813m	Full transfer	4	1	-	1	1	$590,000	125	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.59
+2015	447684	7 Salsola Street	16/01/2015	11/03/2015	07/12/2014	$587,500	1266m	Full transfer	4	1	-	-	2	$587,500	40	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.66
+2015	473309	22 Nelumbo Street	24/11/2015	16/03/2016	17/08/2015	$585,000	751m	Full transfer	4	1	1	1	-	$585,000	99	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.57
+2015	452385	49 Angophora Street	10/03/2015	20/05/2015	12/02/2015	$580,500	878m	Full transfer	4	1	1	2	-	$580,500	26	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.56
+2015	449714	26 Pavonia Street	24/04/2015	-	10/03/2015	$580,000	503m	Full transfer	4	1	1	2	-	$580,000	45	-	Allhomes Record	169	-	-	-	$433,000	0.75
+2015	459638	1/26 Pavonia Street	24/04/2015	20/08/2015	-	$580,000	1008m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468574	47 Kanooka Street	14/11/2015	07/01/2016	22/10/2015	$580,000	772m	Full transfer	3	1	-	2	0	$580,000	23	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.64
+2015	453084	2 Angophora Street	03/06/2015	-	05/05/2015	$578,000	852m	Full transfer	4	2	-	2	-	$578,000	29	-	Allhomes Record	-	-	-	-	$349,000	0.6
+2015	450875	5 Geebung Place	21/02/2015	01/05/2015	22/01/2015	$575,000	841m	Full transfer	4	2	1	1	0	$575,000	30	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.63
+2015	450166	7 Burgan Place	28/02/2015	14/04/2015	04/02/2015	$575,000	690m	Full transfer	5	1	2	3	0	$575,000	24	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.62
+2015	458883	12 Casuarina Street	19/06/2015	06/08/2015	25/05/2015	$572,000	915m	Full transfer	4	1	1	2	-	$572,000	25	-	Combined Record	177	-	-	Single residential dwelling	$369,000	0.65
+2015	452708	46 Santalum Street	30/03/2015	13/05/2015	25/03/2015	$570,000	1104m	Full transfer	3	1	-	2	-	$570,000	5	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.66
+2015	452699	33 Angophora Street	21/03/2015	12/05/2015	25/02/2015	$547,500	878m	Full transfer	3	1	1	4	-	$547,500	24	-	Combined Record	-	-	-	Single residential dwelling...	$310,000	0.57
+2015	450173	8 Melia Place	05/03/2015	17/04/2015	08/12/2014	$545,000	649m	Full transfer	4	1	-	2	-	$545,000	87	-	Combined Record	138	-	-	Single residential dwelling	$350,000	0.64
+2015	451321	19 Kanooka Street	28/02/2015	23/04/2015	02/02/2015	$545,000	754m	Full transfer	3	1	1	2	-	$545,000	26	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.68
+2015	450175	8 Goodenia Street	27/02/2015	15/04/2015	10/02/2015	$540,000	987m	Full transfer	3	1	1	2	-	$540,000	17	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.68
+2015	469956	35 Carbeen Street	14/11/2015	05/02/2016	22/10/2015	$540,000	726m	Full transfer	4	1	0	1	0	$540,000	23	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.61
+2015	448644	50 Marlock Street	07/02/2015	23/03/2015	08/01/2015	$540,000	905m	Full transfer	3	1	1	2	0	$540,000	30	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.67
+2015	453829	12 Eugenia Street	18/04/2015	02/06/2015	25/03/2015	$540,000	963m	Full transfer	3	1	-	2	-	$540,000	24	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.66
+2015	459639	32 Santalum Street	22/04/2015	18/08/2015	23/03/2015	$535,000	740m	Full transfer	3	1	1	2	1	$535,000	30	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.64
+2015	471082	18 Nelumbo Street	17/12/2015	17/02/2016	21/10/2015	$528,000	692m	Full transfer	4	1	1	2	-	$528,000	57	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.63
+2015	473307	297 Hindmarsh Drive	17/12/2015	17/03/2016	25/11/2015	$525,000	791m	Full transfer	3	2	-	2	0	$525,000	22	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.63
+2015	460952	14 Nelumbo Street	23/09/2015	-	02/09/2015	$525,000	692m	Full transfer	3	1	-	2	-	$525,000	21	-	Allhomes Record	132	-	-	-	$335,000	0.64
+2015	464620	11 Rapanea Street	18/08/2015	20/10/2015	12/06/2015	$520,000	884m	Full transfer	3	1	-	1	1	$520,000	67	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.67
+2015	456467	            2/1 Marlock Street	23/04/2015	02/07/2015	-	$520,000	916m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468576	31 Angophora Street	16/11/2015	07/01/2016	17/09/2015	$518,000	756m	Full transfer	4	1	0	1	1	$518,000	60	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.58
+2015	451796	10 Casuarina Street	27/03/2015	07/05/2015	17/11/2014	$515,000	823m	Full transfer	4	1	1	2	1	$515,000	130	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.71
+2015	471389	39 Woollum Crescent	04/12/2015	09/02/2016	26/10/2015	$512,000	870m	Full transfer	3	1	-	2	-	$512,000	39	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.69
+2015	461967	24B Bangalay Crescent	14/10/2015	-	07/07/2015	$500,000	-	Full transfer	3	1	1	1	-	$500,000	99	-	Allhomes Record	-	-	-	-	$329,000	0.66
+2015	473457	12 Salsola Street	25/11/2015	01/03/2016	02/11/2015	$500,000	734m	Full transfer	3	1	-	1	1	$500,000	23	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.72
+2015	443999	36 Streeton Drive	12/01/2015	29/01/2015	02/12/2014	$500,000	820m	Full transfer	3	1	-	2	-	$500,000	41	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.6
+2015	456889	8 Diselma Place	06/05/2015	23/06/2015	14/04/2015	$493,500	800m	Full transfer	3	1	-	2	0	$493,500	22	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.75
+2015	456891	22 Carbeen Street	15/05/2015	23/06/2015	22/04/2015	$490,000	813m	Full transfer	3	1	-	2	-	$490,000	23	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.71
+2015	464622	223 Hindmarsh Drive	24/06/2015	20/10/2015	23/04/2015	$487,000	884m	Full transfer	4	1	-	-	1	$487,000	62	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.66
+2015	462002	101 Bangalay Crescent	04/08/2015	22/09/2015	04/05/2015	$480,000	870m	Full transfer	3	1	-	-	3	$480,000	92	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.66
+2015	456466	17 Wirilda Street	24/04/2015	30/06/2015	-	$480,000	785m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452707	21 Nelumbo Street	02/02/2015	14/05/2015	-	$480,000	727m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	449785	25 Pavonia Street	27/02/2015	07/04/2015	13/10/2014	$475,000	684m	Full transfer	4	2	0	2	0	$475,000	137	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.74
+2015	456478	9 Woollum Crescent	12/05/2015	30/06/2015	12/03/2015	$472,000	795m	Full transfer	3	1	0	0	1	$472,000	61	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.76
+2015	450178	62 Rapanea Street	28/02/2015	16/04/2015	-	$471,500	716m	Full transfer	-	-	-	-	-	$471,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459151	37 Carbeen Street	01/07/2015	13/08/2015	-	$470,000	871m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	449273	39 Marlock Street	08/01/2015	02/04/2015	18/11/2014	$458,000	673m	Full transfer	3	1	-	2	-	$458,000	51	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.74
+2015	473312	7 Eugenia Street	07/12/2015	16/03/2016	-	$455,000	709m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	450168	19/9 Tristania Street	27/02/2015	16/04/2015	27/11/2014	$450,000	13397m	Full transfer	3	1	-	2	-	$450,000	92	-	Combined Record	-	-	-	Multiple unit dwelling	$2,621,000	5.82
+2015	461174	2 Blancoa Place	19/06/2015	31/08/2015	14/05/2015	$446,000	371m	Full transfer	3	1	-	2	-	$446,000	36	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.63
+2015	468570	30 Blancoa Place	04/11/2015	07/01/2016	13/10/2015	$425,000	555m	Full transfer	3	1	-	-	2	$425,000	22	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.77
+2015	455084	43 Marlock Street	15/04/2015	19/06/2015	17/03/2015	$408,000	763m	Full transfer	3	1	-	0	0	$408,000	29	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.83
+2015	471100	22/5 Tristania Street	23/11/2015	15/02/2016	19/10/2015	$376,500	10408m	Full transfer	2	1	-	-	1	$376,500	35	-	Combined Record	63	-	-	Multiple unit dwelling	$3,337,000	8.86
+2015	471106	13/5 Tristania Street	24/12/2015	15/02/2016	29/09/2015	$350,000	10408m	Full transfer	2	1	-	-	1	$350,000	86	-	Combined Record	-	-	-	Multiple unit dwelling	$3,337,000	9.53
+2015	471102	            14/1 Tristania Street	10/11/2015	17/02/2016	-	$342,500	7942m	Full transfer	-	-	-	-	-	$342,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464384	 Tristania Street	10/11/2015	-	18/02/2015	$342,500	-	Full transfer	2	1	-	-	1	$342,500	265	-	Allhomes Record	-	-	-	-	$2,385,000	6.96
+2015	465633	31 Nelumbo Street	25/07/2015	09/11/2015	-	$0	736m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452710	25 Bangalay Crescent	13/03/2015	14/05/2015	-	$0	1100m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448238	15 Yate Gardens	23/01/2015	03/03/2015	-	$0	1638m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	485144	47 Carbeen Street	24/03/2015	19/08/2016	-	$0	755m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474454	2 Tristania Street	12/08/2015	06/04/2016	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	486250	45 Angophora Street	28/12/2015	09/09/2016	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	483265	27 Carbeen Street	20/06/2015	03/08/2016	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468013	24 Burgan Place	23/10/2015	18/12/2015	-	$0	1163m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460092	23 Santalum Street	30/04/2015	27/08/2015	-	$0	669m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	482527	100 Streeton Drive	21/11/2015	29/07/2016	-	$0	878m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	467723	5 Sollya Place	21/05/2015	21/12/2015	-	$0	765m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475112	12/9 Tristania Street	10/08/2015	15/04/2016	-	$0	13397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460091	5 Salsola Street	28/05/2015	26/08/2015	-	$0	1307m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461410	40 Marlock Street	10/07/2015	10/09/2015	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500144	19 Darwinia Terrace	10/12/2016	06/03/2017	17/11/2016	$720,000	878m	Full transfer	4	1	-	2	0	$720,000	23	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.48
+2016	473318	42 Nelumbo Street	11/01/2016	16/03/2016	06/10/2015	$710,000	767m	Full transfer	7	2	1	1	-	$710,000	97	-	Combined Record	264	-	-	Single residential dwelling	$371,000	0.52
+2016	482353	5 Marlock Street	28/05/2016	26/07/2016	28/04/2016	$710,000	776m	Full transfer	3	2	-	2	0	$710,000	30	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.5
+2016	492622	6 Diselma Place	09/11/2016	14/12/2016	21/10/2016	$697,000	1306m	Full transfer	4	1	-	1	1	$697,000	19	-	Combined Record	-	-	-	Single residential dwelling...	$388,000	0.56
+2016	482540	71 Darwinia Terrace	14/05/2016	27/07/2016	21/04/2016	$670,000	763m	Full transfer	3	1	1	2	0	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.47
+2016	490082	4 Cooba Place	23/07/2016	07/11/2016	30/06/2016	$637,000	926m	Full transfer	4	2	-	1	2	$637,000	23	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.55
+2016	486459	26 Bangalay Crescent	27/07/2016	14/09/2016	06/07/2016	$621,000	732m	Full transfer	3	1	-	2	1	$621,000	21	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.49
+2016	487293	10 Angophora Street	06/08/2016	21/09/2016	12/07/2016	$620,000	813m	Full transfer	3	2	-	2	-	$620,000	25	-	Combined Record	170	-	-	Single residential dwelling	$341,000	0.55
+2016	495548	91 Darwinia Terrace	29/09/2016	30/01/2017	08/09/2016	$615,000	973m	Full transfer	3	2	-	0	2	$615,000	21	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.53
+2016	476427	3 Cooba Place	10/03/2016	29/04/2016	04/03/2015	$610,000	713m	Full transfer	4	1	1	1	-	$610,000	372	-	Combined Record	131	-	-	Single residential dwelling	$331,000	0.54
+2016	473323	1/21A Hibiscus Crescent	22/01/2016	16/03/2016	-	$610,000	914m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	468425	21A Hibiscus Crescent	22/01/2016	-	15/01/2016	$610,000	914m	Full transfer	3	2	-	2	0	$610,000	7	-	Allhomes Record	-	-	-	-	$402,000	0.66
+2016	493229	40 Angophora Street	10/10/2016	07/12/2016	-	$605,000	755m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500216	32 Hibiscus Crescent	24/11/2016	07/03/2017	26/10/2016	$595,000	843m	Full transfer	4	1	-	1	0	$595,000	29	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.55
+2016	484731	137 Darwinia Terrace	30/04/2016	18/08/2016	29/03/2016	$585,000	826m	Full transfer	3	1	-	1	-	$585,000	32	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.64
+2016	489606	6 Astelia Place	12/11/2016	-	19/10/2016	$585,000	-	Full transfer	4	1	1	-	2	$585,000	24	-	Allhomes Record	-	-	-	-	$364,000	0.62
+2016	480678	97 Darwinia Terrace	23/04/2016	30/06/2016	31/03/2016	$580,000	843m	Full transfer	4	2	-	1	0	$580,000	23	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.6
+2016	473320	1 Salsola Street	21/01/2016	16/03/2016	14/01/2016	$580,000	846m	Full transfer	4	1	-	2	-	$580,000	7	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.59
+2016	476421	6 Santalum Street	13/02/2016	27/04/2016	19/01/2016	$571,000	1032m	Full transfer	3	2	-	0	2	$571,000	25	-	Combined Record	-	-	-	Single residential dwelling...	$371,000	0.65
+2016	479430	259 Hindmarsh Drive	07/04/2016	06/06/2016	-	$570,000	755m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481078	6 Hibiscus Crescent	01/04/2016	08/07/2016	-	$570,000	850m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483167	203 Hindmarsh Drive	28/05/2016	09/08/2016	04/05/2016	$567,000	878m	Full transfer	3	1	-	1	1	$567,000	24	-	Combined Record	127	-	-	Single residential dwelling	$323,000	0.57
+2016	488270	48 Croton Street	11/08/2016	05/10/2016	27/07/2016	$565,000	1092m	Full transfer	3	1	0	2	0	$565,000	15	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.64
+2016	487469	34 Rapanea Street	17/08/2016	29/09/2016	19/07/2016	$565,000	698m	Full transfer	3	1	-	1	2	$565,000	29	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.53
+2016	475100	46 Woollum Crescent	06/02/2016	12/04/2016	14/01/2016	$561,000	720m	Full transfer	3	1	1	1	-	$561,000	23	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.61
+2016	467673	48 Streeton Drive	22/01/2016	-	14/12/2015	$560,000	1001m	Full transfer	5	1	-	2	-	$560,000	39	-	Allhomes Record	200	-	-	-	$349,000	0.62
+2016	489223	11 Kanooka Street	30/08/2016	17/10/2016	03/08/2016	$556,000	748m	Full transfer	3	1	-	2	0	$556,000	27	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.65
+2016	477516	7 Themeda Place	03/03/2016	10/05/2016	10/02/2016	$555,000	721m	Full transfer	3	1	-	2	-	$555,000	22	-	Combined Record	133	-	-	Single residential dwelling	$331,000	0.6
+2016	476429	1 Epacris Place	22/02/2016	27/04/2016	11/01/2016	$553,000	872m	Full transfer	4	1	-	1	-	$553,000	42	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.63
+2016	489334	9 Bangalay Crescent	30/06/2016	19/10/2016	10/03/2016	$550,000	975m	Full transfer	3	1	-	2	1	$550,000	112	-	Combined Record	143	-	-	Single residential dwelling	$350,000	0.64
+2016	490167	16 Angophora Street	16/09/2016	03/11/2016	25/07/2016	$545,000	790m	Full transfer	4	1	-	2	-	$545,000	53	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.61
+2016	485641	5 Themeda Place	22/07/2016	30/08/2016	04/07/2016	$545,000	761m	Full transfer	3	1	-	2	-	$545,000	18	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.61
+2016	484339	47 Carbeen Street	05/07/2016	19/08/2016	04/03/2016	$540,000	755m	Full transfer	4	1	-	2	-	$540,000	123	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.66
+2016	489312	102 Bangalay Crescent	14/07/2016	17/10/2016	27/06/2016	$538,000	767m	Full transfer	3	1	-	-	2	$538,000	17	-	Combined Record	123	-	-	Single residential dwelling	$316,000	0.59
+2016	492594	24A Bangalay Crescent	12/10/2016	13/12/2016	01/09/2016	$538,000	440m	Full transfer	3	2	-	1	0	$538,000	41	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.61
+2016	490186	15 Carbeen Street	23/07/2016	01/11/2016	30/06/2016	$536,000	817m	Full transfer	3	2	-	2	0	$536,000	23	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.66
+2016	478018	6 Mentha Place	19/03/2016	16/05/2016	24/02/2016	$535,000	774m	Full transfer	3	1	-	-	2	$535,000	24	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.69
+2016	491588	37 Salsola Street	12/10/2016	28/11/2016	05/10/2016	$530,000	1015m	Full transfer	3	1	-	1	-	$530,000	7	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.72
+2016	479135	4 Eugenia Street	12/04/2016	31/05/2016	26/02/2016	$527,500	808m	Full transfer	3	1	-	1	-	$527,500	46	-	Combined Record	106	-	-	Single residential dwelling	$351,000	0.67
+2016	480902	10 Mallee Place	26/07/2016	-	21/06/2016	$525,000	1028m	Full transfer	-	-	-	-	-	$525,000	35	-	Allhomes Record	-	-	-	-	$354,000	0.67
+2016	476320	2 Tristania Street	21/05/2016	-	28/04/2016	$520,000	891m	Full transfer	5	3	-	1	2	$520,000	23	-	Allhomes Record	-	-	-	-	$364,000	0.7
+2016	476425	49 Eugenia Street	13/02/2016	27/04/2016	20/01/2016	$520,000	755m	Full transfer	3	1	-	-	1	$520,000	24	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.69
+2016	478032	7 Goodenia Street	02/03/2016	16/05/2016	03/02/2016	$510,000	736m	Full transfer	3	1	0	0	0	$510,000	28	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.7
+2016	487112	24B Bangalay Crescent	12/07/2016	19/09/2016	15/06/2016	$507,500	373m	Full transfer	3	1	1	1	-	$507,500	27	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.65
+2016	487842	5 Cedrela Place	21/10/2016	-	16/07/2016	$500,000	776m	Full transfer	-	-	-	-	-	$500,000	97	-	Allhomes Record	-	-	-	-	$325,000	0.65
+2016	485483	14 Croton Street	27/09/2016	-	18/08/2016	$500,000	819m	Full transfer	-	-	-	-	-	$500,000	40	-	Allhomes Record	-	-	-	-	$336,000	0.67
+2016	497854	205 Hindmarsh Drive	06/12/2016	21/02/2017	-	$500,000	941m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489783	15 Rapanea Street	16/11/2016	-	21/06/2016	$485,000	779m	Full transfer	-	-	-	-	-	$485,000	148	-	Allhomes Record	-	-	-	-	$325,000	0.67
+2016	480668	219 Hindmarsh Drive	18/04/2016	29/06/2016	25/02/2016	$485,000	814m	Full transfer	4	1	-	0	2	$485,000	53	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.67
+2016	479767	109 Bangalay Crescent	30/06/2016	-	22/04/2016	$480,000	946m	Full transfer	-	-	-	-	-	$480,000	69	-	Allhomes Record	-	-	-	-	$320,000	0.67
+2016	488727	6 Goodenia Street	09/11/2016	-	16/07/2016	$425,000	687m	Full transfer	-	-	-	-	-	$425,000	116	-	Allhomes Record	-	-	-	-	$334,000	0.79
+2016	479137	21/5 Tristania Street	24/02/2016	31/05/2016	20/01/2016	$390,000	10408m	Full transfer	2	1	-	1	-	$390,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	$3,337,000	8.56
+2016	476247	             Rivett Place	20/05/2016	-	22/03/2016	$200,000	1944m	Full transfer	-	-	-	-	-	$200,000	59	-	Allhomes Record	-	-	-	-	-	-
+2016	473748	23 Santalum Street	25/01/2016	22/03/2016	-	$45,000	669m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	488308	16 Rivett Place	09/06/2016	04/10/2016	08/05/2016	$0	134m	Full transfer	-	-	-	-	-	$0	32	-	Combined Record	-	-	-	Retail;pers-service,eat & d...	$37,000	8.56
+2016	479938	47 Marlock Street	20/04/2016	23/06/2016	29/02/2016	$0	809m	Full transfer	3	1	-	2	-	$0	51	-	Combined Record	-	-	-	Single residential dwelling	$364,000	8.56
+2016	497223	65 Woollum Crescent	25/10/2016	06/02/2017	-	$0	1135m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500682	57 Angophora Street	18/12/2016	17/03/2017	-	$0	514m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	502963	73 Darwinia Terrace	24/09/2016	10/04/2017	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487026	23 Mirbelia Crescent	22/06/2016	19/09/2016	-	$0	879m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502515	28 Goodenia Street	01/11/2016	19/04/2017	-	$0	739m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520736	37 Kanooka Street	24/11/2016	06/11/2017	-	$0	1294m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	516857	            13/1 Tristania Street	17/06/2016	04/08/2017	-	$0	7942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493745	6 Astelia Place	02/09/2016	23/12/2016	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477014	63 Woollum Crescent	17/03/2016	06/05/2016	-	$0	828m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513250	12 Rivett Place	14/03/2016	09/06/2017	-	$0	134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2016	502611	2 Carbeen Street	30/08/2016	10/04/2017	-	$0	891m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493045	48 Santalum Street	02/03/2016	05/12/2016	-	$0	1564m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499904	10 Epacris Place	02/10/2016	09/03/2017	-	$0	673m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482526	14 Marlock Street	28/02/2016	25/07/2016	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488300	14 Rivett Place	09/06/2016	04/10/2016	-	$0	134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2016	513095	8 Croton Street	10/12/2016	07/06/2017	-	$0	756m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495976	19/9 Tristania Street	28/11/2016	24/01/2017	-	$0	13397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510097	47 Gungurra Crescent	29/11/2017	-	09/11/2017	$855,000	1166m	Full transfer	4	3	-	1	2	$855,000	20	-	Allhomes Record	-	-	-	-	$402,000	0.47
+2017	543864	            2/109 Bangalay Crescent	03/08/2017	08/10/2018	-	$798,496	946m	Full transfer	-	-	-	-	-	$798,496	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523245	41 Santalum Street	01/11/2017	18/01/2018	26/08/2017	$795,000	1082m	Full transfer	4	1	-	4	2	$795,000	67	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.51
+2017	517647	10 Angophora Street	19/06/2017	21/08/2017	24/05/2017	$772,000	813m	Full transfer	4	2	-	2	-	$772,000	26	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.45
+2017	507602	 Bangalay Crescent	04/09/2017	-	14/09/2016	$750,000	0m	Full transfer	4	2	-	2	0	$750,000	355	-	Allhomes Record	-	-	-	-	$442,000	0.59
+2017	543715	            1/109 Bangalay Crescent	17/08/2017	08/10/2018	-	$750,000	946m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	548370	            1/41A Pavonia Street	31/10/2017	08/11/2018	-	$746,750	847m	Full transfer	-	-	-	-	-	$746,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515351	20 Gungurra Crescent	17/05/2017	11/07/2017	07/03/2017	$740,000	748m	Full transfer	4	2	-	2	0	$740,000	71	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.49
+2017	504740	53 Salsola Street	18/02/2017	02/05/2017	27/01/2017	$737,000	694m	Full transfer	4	2	-	0	1	$737,000	22	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.48
+2017	513322	124 Streeton Drive	20/04/2017	01/06/2017	20/02/2017	$730,000	782m	Full transfer	4	1	1	-	2	$730,000	59	-	Combined Record	185	-	-	Single residential dwelling	$359,000	0.49
+2017	500247	21 Yate Gardens	19/01/2017	06/03/2017	-	$717,500	956m	Full transfer	-	-	-	-	-	$717,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524836	237 Hindmarsh Drive	23/11/2017	30/01/2018	08/11/2017	$715,000	830m	Full transfer	4	1	1	2	2	$715,000	15	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.46
+2017	522971	4 Pavonia Street	28/10/2017	11/01/2018	05/10/2017	$710,000	820m	Full transfer	4	2	-	1	-	$710,000	23	-	Combined Record	150	-	-	Single residential dwelling	$363,000	0.51
+2017	549249	            2/41A Pavonia Street	27/11/2017	03/12/2018	-	$707,200	847m	Full transfer	-	-	-	-	-	$707,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519394	122 Streeton Drive	14/08/2017	11/10/2017	31/05/2017	$701,500	1057m	Full transfer	4	2	-	1	1	$701,500	75	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.54
+2017	521275	70 Streeton Drive	21/06/2017	05/12/2017	19/05/2017	$700,000	884m	Full transfer	4	1	1	2	-	$700,000	33	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.52
+2017	515936	45 Croton Street	30/05/2017	24/07/2017	-	$690,000	1031m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517904	61 Darwinia Terrace	19/05/2017	31/08/2017	10/03/2017	$687,500	852m	Full transfer	4	2	1	-	3	$687,500	70	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.52
+2017	528103	11 Sollya Place	01/12/2017	20/03/2018	26/10/2017	$685,000	765m	Full transfer	4	2	-	2	-	$685,000	36	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.57
+2017	512139	26 Gungurra Crescent	08/04/2017	19/05/2017	16/03/2017	$680,000	679m	Full transfer	3	1	-	-	2	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.53
+2017	534871	            2/15 Rapanea Street	02/05/2017	12/06/2018	-	$675,000	779m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510956	68 Streeton Drive	20/12/2017	-	06/09/2017	$670,000	-	Full transfer	3	1	1	2	2	$670,000	105	-	Allhomes Record	-	-	-	-	$360,000	0.54
+2017	502844	2 Rapanea Street	11/02/2017	10/04/2017	19/01/2017	$660,000	1044m	Full transfer	3	2	-	2	0	$660,000	23	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.57
+2017	532382	            1/15 Rapanea Street	07/09/2017	13/05/2018	-	$645,000	779m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523676	23 Angophora Street	10/11/2017	21/01/2018	12/10/2017	$640,000	972m	Full transfer	3	1	-	1	0	$640,000	29	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.5
+2017	518029	3 Mentha Place	29/06/2017	29/08/2017	25/05/2017	$640,000	1034m	Full transfer	5	2	-	2	0	$640,000	35	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.61
+2017	507170	1 Themeda Place,	16/08/2017	-	09/08/2017	$640,000	-	Full transfer	3	2	-	-	2	$640,000	7	-	Allhomes Record	135	-	-	-	$374,000	0.58
+2017	519236	16 Pavonia Street	15/08/2017	13/10/2017	-	$640,000	949m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521887	11 Astelia Place	02/11/2017	04/01/2018	-	$625,000	1181m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528544	3 Salsola Street	02/12/2017	23/03/2018	08/11/2017	$625,000	904m	Full transfer	3	1	-	1	0	$625,000	24	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.6
+2017	509403	14 Mirbelia Crescent	11/11/2017	-	18/10/2017	$625,000	973m	Full transfer	3	1	-	0	2	$625,000	24	-	Allhomes Record	-	-	-	-	$381,000	0.61
+2017	522571	40 Carbeen Street	21/10/2017	11/01/2018	27/09/2017	$622,000	798m	Full transfer	3	1	-	0	1	$622,000	24	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.58
+2017	526803	3 Eugenia Street	03/08/2017	07/03/2018	-	$620,000	1256m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	531329	48 Nelumbo Street	14/12/2017	29/04/2018	17/11/2017	$600,000	758m	Full transfer	3	1	-	2	0	$600,000	27	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.63
+2017	529220	8 Rapanea Street	19/12/2017	26/03/2018	-	$595,000	849m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499597	1 Sollya Place	13/01/2017	09/03/2017	10/11/2016	$585,000	741m	Full transfer	4	1	-	2	0	$585,000	64	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.62
+2017	520584	9 Eugenia Street	03/08/2017	10/11/2017	05/06/2017	$580,000	673m	Full transfer	4	2	-	0	1	$580,000	59	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.61
+2017	506690	31 Santalum Street	29/07/2017	-	06/07/2017	$572,000	745m	Full transfer	3	1	-	1	0	$572,000	23	-	Allhomes Record	-	-	-	-	$360,000	0.63
+2017	521139	26 Burgan Place	27/09/2017	07/12/2017	-	$570,000	696m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513157	45 Marlock Street	08/04/2017	09/06/2017	20/03/2017	$561,000	841m	Full transfer	3	1	-	2	0	$561,000	19	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.66
+2017	517727	13 Casuarina Street	07/07/2017	29/08/2017	07/06/2017	$560,000	935m	Full transfer	3	1	-	0	0	$560,000	30	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.67
+2017	507752	13 Bangalay Crescent	09/09/2017	-	23/08/2017	$559,000	-	Full transfer	3	1	-	2	2	$559,000	17	-	Allhomes Record	120	-	-	-	$351,000	0.63
+2017	503805	1 Bangalay Crescent	14/03/2017	28/04/2017	15/12/2016	$555,000	987m	Full transfer	4	1	-	1	0	$555,000	89	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.65
+2017	523875	28 Bangalay Crescent	18/11/2017	24/01/2018	26/10/2017	$555,000	816m	Full transfer	3	1	-	2	0	$555,000	23	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.65
+2017	520380	24 Kanooka Street	15/09/2017	02/11/2017	27/07/2017	$550,000	669m	Full transfer	3	1	-	-	-	$550,000	50	-	Combined Record	96	-	-	Single residential dwelling...	$334,000	0.61
+2017	513773	57 Salsola Street	25/03/2017	29/05/2017	01/03/2017	$550,000	694m	Full transfer	3	1	-	2	0	$550,000	24	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.65
+2017	524926	30 Gungurra Crescent	18/11/2017	30/01/2018	26/10/2017	$540,000	650m	Full transfer	3	1	-	2	-	$540,000	23	-	Combined Record	103	-	-	Single residential dwelling	$359,000	0.66
+2017	524917	1 Mirbelia Crescent	21/11/2017	30/01/2018	-	$525,000	802m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502608	8 Morrell Place	11/04/2017	11/04/2017	-	$513,000	799m	Full transfer	-	-	-	-	-	$513,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	493579	8 Morrell Place	13/01/2017	-	16/07/2016	$513,000	799m	Full transfer	-	-	-	-	-	$513,000	181	-	Allhomes Record	-	-	-	-	$460,000	0.9
+2017	502745	10 Epacris Place	04/03/2017	12/04/2017	09/02/2017	$510,000	673m	Full transfer	3	1	-	0	1	$510,000	23	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.64
+2017	512343	4 Bangalay Crescent	04/03/2017	11/05/2017	10/02/2017	$510,000	877m	Full transfer	3	1	-	2	0	$510,000	22	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.66
+2017	522703	8 Croton Street	21/10/2017	11/01/2018	26/09/2017	$505,000	756m	Full transfer	3	1	-	2	0	$505,000	25	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.71
+2017	502223	127 Darwinia Terrace	23/04/2017	-	18/08/2016	$500,000	1097m	Full transfer	-	-	-	-	-	$500,000	248	-	Allhomes Record	-	-	-	-	$352,000	0.7
+2017	513809	127 Darwinia Terrace	21/06/2017	21/06/2017	-	$500,000	1097m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	494998	5 Cedrela Place	11/01/2017	11/01/2017	-	$500,000	777m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516140	28 Goodenia Street	01/05/2017	25/07/2017	30/03/2017	$497,500	739m	Full transfer	3	1	-	1	-	$497,500	32	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.73
+2017	507112	11 Salsola Street	11/08/2017	-	21/04/2017	$485,000	0m	Full transfer	-	-	-	-	-	$485,000	112	-	Allhomes Record	-	-	-	-	$376,000	0.78
+2017	497996	15 Rapanea Street	14/02/2017	14/02/2017	-	$485,000	779m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519595	11 Salsola Street	10/10/2017	10/10/2017	-	$485,000	784m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513889	41 Pavonia Street	21/06/2017	21/06/2017	21/04/2017	$480,000	847m	Full transfer	-	-	-	-	-	$480,000	61	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.68
+2017	520060	84 Streeton Drive	24/10/2017	24/10/2017	-	$480,000	910m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506660	84 Streeton Drive	26/06/2017	-	21/04/2017	$480,000	0m	Full transfer	-	-	-	-	-	$480,000	66	-	Allhomes Record	-	-	-	-	$334,000	0.7
+2017	506659	25 Darwinia Terrace	26/07/2017	-	21/04/2017	$480,000	0m	Full transfer	-	-	-	-	-	$480,000	96	-	Allhomes Record	-	-	-	-	$333,000	0.69
+2017	520053	25 Darwinia Terrace	24/10/2017	24/10/2017	-	$480,000	845m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515259	143 Darwinia Terrace	10/07/2017	10/07/2017	-	$475,000	830m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519136	28 Kanooka Street	13/10/2017	13/10/2017	-	$467,000	669m	Full transfer	-	-	-	-	-	$467,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507167	28 Kanooka Street	14/08/2017	-	31/07/2017	$467,000	0m	Full transfer	-	-	-	-	-	$467,000	14	-	Allhomes Record	-	-	-	-	$299,000	0.64
+2017	509974	12 Epacris Place	27/11/2017	-	21/04/2017	$465,000	663m	Full transfer	-	-	-	-	-	$465,000	220	-	Allhomes Record	-	-	-	-	$311,000	0.67
+2017	495460	37 Nelumbo Street	01/02/2017	01/02/2017	-	$460,000	659m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512322	35 Marlock Street	12/04/2017	16/05/2017	-	$445,000	727m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	495353	6 Goodenia Street	02/02/2017	02/02/2017	-	$425,000	687m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513156	9 Wirilda Street	11/04/2017	05/06/2017	-	$400,000	743m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503348	            10/1 Tristania Street	27/01/2017	03/04/2017	-	$380,000	7942m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523640	43 Goodenia Street	02/11/2017	16/01/2018	-	$350,000	244m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520601	44 Rapanea Street	20/08/2017	10/11/2017	-	$0	1039m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	527011	68 Streeton Drive	21/12/2017	07/03/2018	-	$0	946m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519170	103 Darwinia Terrace	23/03/2017	13/10/2017	-	$0	757m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	535056	43 Angophora Street	09/11/2017	13/06/2018	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517381	26 Burgan Place	24/04/2017	25/08/2017	-	$0	696m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518851	88 Bangalay Crescent	07/06/2017	12/09/2017	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520472	11 Astelia Place	18/07/2017	06/11/2017	-	$0	1181m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528982	8 Rapanea Street	19/05/2017	26/03/2018	-	$0	849m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529442	46 Nelumbo Street	13/11/2017	04/04/2018	-	$0	796m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537050	10 Eugenia Street	07/06/2017	03/07/2018	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519151	28 Bangalay Crescent	13/04/2017	10/10/2017	-	$0	816m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533537	121 Darwinia Terrace	01/07/2017	24/05/2018	-	$0	995m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515507	12 Burgan Place	08/04/2017	10/07/2017	16/03/2017	$0	655m	Full transfer	4	1	0	0	1	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.67
+2018	526402	34 Streeton Drive	06/03/2018	-	19/02/2018	$1,200,000	836m	Full transfer	4	2	-	2	0	$1,200,000	15	-	Allhomes Record	-	-	-	-	$334,000	0.28
+2018	535979	2 Mentha Place	16/03/2018	19/06/2018	01/03/2018	$1,000,000	853m	Full transfer	4	2	-	2	0	$1,000,000	15	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.38
+2018	543294	12 Sollya Place	14/07/2018	03/10/2018	21/06/2018	$815,000	819m	Full transfer	5	3	-	2	0	$815,000	23	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.47
+2018	534131	77 Darwinia Terrace	15/03/2018	30/05/2018	01/03/2018	$800,000	827m	Full transfer	4	2	-	0	1	$800,000	14	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.43
+2018	535498	            1/127 Darwinia Terrace	16/05/2018	18/06/2018	-	$780,000	1097m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531937	127 Darwinia Terrace	16/05/2018	-	11/04/2018	$780,000	0m	Full transfer	3	2	-	2	0	$780,000	35	-	Allhomes Record	-	-	-	-	$463,000	0.59
+2018	541295	32 Croton Street	12/04/2018	05/09/2018	22/02/2018	$740,000	825m	Full transfer	4	2	-	2	0	$740,000	49	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.47
+2018	551681	41 Salsola Street	16/11/2018	10/01/2019	17/10/2018	$739,000	938m	Full transfer	3	2	-	3	-	$739,000	30	-	Combined Record	-	-	-	Single residential dwelling	$379,000	0.51
+2018	549782	1 Yate Gardens	20/10/2018	21/12/2018	20/09/2018	$735,000	787m	Full transfer	3	2	-	2	0	$735,000	30	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.52
+2018	530358	6 Astelia Place	20/02/2018	12/04/2018	17/01/2018	$735,000	888m	Full transfer	4	2	-	0	1	$735,000	34	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.5
+2018	534964	147 Darwinia Terrace	14/03/2018	13/06/2018	-	$725,000	807m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547496	3 Cooba Place	25/09/2018	20/11/2018	30/08/2018	$717,500	713m	Full transfer	4	2	-	1	-	$717,500	26	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.48
+2018	532878	2 Angophora Street	09/03/2018	15/05/2018	08/02/2018	$710,000	852m	Full transfer	4	2	-	1	-	$710,000	29	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.52
+2018	538633	31 Tristania Street	07/06/2018	24/07/2018	20/03/2018	$700,000	1316m	Full transfer	4	1	-	2	2	$700,000	79	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.59
+2018	561637	29 Gungurra Crescent	03/12/2018	11/01/2019	27/08/2018	$682,800	692m	Full transfer	4	1	1	2	-	$682,800	98	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.53
+2018	528396	19 Hibiscus Crescent	19/01/2018	25/03/2018	08/11/2017	$672,000	771m	Full transfer	4	2	-	0	1	$672,000	72	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.45
+2018	548321	231 Hindmarsh Drive	01/09/2018	06/11/2018	08/08/2018	$661,000	746m	Full transfer	3	1	-	2	0	$661,000	24	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.5
+2018	550798	34 Rapanea Street	12/11/2018	09/01/2019	25/10/2018	$660,000	698m	Full transfer	3	1	-	1	2	$660,000	18	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.46
+2018	546883	23 Eugenia Street	22/09/2018	29/11/2018	30/08/2018	$653,000	1064m	Full transfer	3	1	-	2	0	$653,000	23	-	Combined Record	-	-	-	Single residential dwelling	$387,000	0.59
+2018	535931	28 Burgan Place	13/04/2018	21/06/2018	05/04/2018	$650,000	760m	Full transfer	3	1	-	0	1	$650,000	8	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.61
+2018	552354	51 Eugenia Street	26/11/2018	24/01/2019	-	$640,000	755m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553471	81 Darwinia Terrace	06/12/2018	14/02/2019	-	$640,000	804m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535965	46 Nelumbo Street	07/04/2018	19/06/2018	08/03/2018	$640,000	796m	Full transfer	3	2	-	1	1	$640,000	30	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.6
+2018	531014	90 Bangalay Crescent	23/02/2018	18/04/2018	01/02/2018	$637,500	811m	Full transfer	3	1	-	2	-	$637,500	22	-	Combined Record	176	-	-	Single residential dwelling	$370,000	0.58
+2018	533438	12 Woollum Crescent	17/03/2018	22/05/2018	01/03/2018	$627,000	716m	Full transfer	3	1	-	2	0	$627,000	16	-	Combined Record	-	-	-	Single residential dwelling...	$345,000	0.55
+2018	530104	21 Casuarina Street	17/02/2018	11/04/2018	01/02/2018	$626,000	761m	Full transfer	3	1	-	0	3	$626,000	16	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.54
+2018	542431	12 Bangalay Crescent	16/07/2018	20/09/2018	22/06/2018	$625,000	743m	Full transfer	3	1	-	2	0	$625,000	24	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.52
+2018	538830	14 Woollum Crescent	28/04/2018	31/07/2018	12/04/2018	$622,000	690m	Full transfer	3	1	-	0	0	$622,000	16	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.55
+2018	560738	17 Salsola Street	20/10/2018	04/01/2019	20/09/2018	$622,000	748m	Full transfer	3	1	-	1	0	$622,000	30	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.59
+2018	532774	213 Hindmarsh Drive	24/02/2018	14/05/2018	24/01/2018	$620,000	815m	Full transfer	3	1	-	1	0	$620,000	31	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.55
+2018	544730	4/9 Tristania St	05/11/2018	-	10/10/2018	$618,000	0m	Full transfer	3	2	-	2	0	$618,000	26	-	Allhomes Record	-	-	-	-	$2,621,000	4.24
+2018	540400	22 Wirilda Street	29/06/2018	21/08/2018	23/05/2018	$618,000	673m	Full transfer	3	1	-	1	-	$618,000	37	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.58
+2018	550773	4/9 Tristania Street	03/11/2018	10/01/2019	-	$618,000	13397m	Full transfer	-	-	-	-	-	$618,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531720	7 Geebung Place	10/05/2018	-	15/03/2018	$603,000	750m	Full transfer	4	2	-	2	0	$603,000	56	-	Allhomes Record	-	-	-	-	$369,000	0.61
+2018	533547	27 Pavonia Street	07/03/2018	23/05/2018	09/02/2018	$600,500	684m	Full transfer	4	2	-	1	0	$600,500	26	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.6
+2018	534693	42 Croton Street	04/03/2018	10/06/2018	-	$600,000	793m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533397	243 Hindmarsh Drive	07/03/2018	22/05/2018	-	$600,000	1146m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530434	47 Eugenia Street	09/02/2018	11/04/2018	10/01/2018	$595,000	871m	Full transfer	4	1	-	1	0	$595,000	30	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.59
+2018	540558	10 Eugenia Street	26/06/2018	20/08/2018	22/05/2018	$586,000	802m	Full transfer	3	1	-	0	0	$586,000	35	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.6
+2018	540390	25 Wirilda Street	06/07/2018	22/08/2018	06/06/2018	$585,000	696m	Full transfer	4	1	-	1	1	$585,000	30	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.61
+2018	534933	43 Pavonia Street	07/04/2018	14/06/2018	01/03/2018	$582,500	873m	Full transfer	3	1	-	2	0	$582,500	37	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.58
+2018	549449	71 Croton Street	22/08/2018	30/10/2018	-	$580,000	756m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535755	119 Darwinia Terrace	20/04/2018	20/06/2018	08/03/2018	$572,500	990m	Full transfer	3	2	-	0	1	$572,500	43	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.65
+2018	537500	15 Eugenia Street	20/03/2018	11/07/2018	16/11/2017	$570,000	673m	Full transfer	5	2	-	0	1	$570,000	124	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.62
+2018	561193	15 Angophora Street	20/12/2018	14/02/2019	25/10/2018	$567,000	813m	Full transfer	3	1	-	0	2	$567,000	56	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.55
+2018	539055	22 Casuarina Street	13/06/2018	01/08/2018	02/05/2018	$566,000	743m	Full transfer	3	1	-	-	1	$566,000	42	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.6
+2018	535132	43 Angophora Street	23/03/2018	13/06/2018	08/02/2018	$553,000	813m	Full transfer	3	1	-	1	1	$553,000	43	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.56
+2018	541350	41 Kanooka Street	17/01/2018	04/09/2018	-	$550,000	911m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541083	50 Streeton Drive	26/07/2018	06/09/2018	-	$550,000	950m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528754	11/9 Tristania Street	04/01/2018	22/03/2018	-	$550,000	13397m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536031	36 Woollum Crescent	08/05/2018	24/06/2018	17/04/2018	$547,000	694m	Full transfer	3	1	-	0	0	$547,000	21	-	Combined Record	-	-	-	Single residential dwelling...	$341,000	0.62
+2018	530920	35 Woollum Crescent	05/03/2018	18/04/2018	-	$530,000	782m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532730	6 Rapanea Street	15/05/2018	15/05/2018	21/04/2017	$520,000	905m	Full transfer	-	-	-	-	-	$520,000	389	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.87
+2018	536616	32 Carbeen Street	26/04/2018	27/06/2018	16/05/2017	$505,000	864m	Full transfer	-	-	-	-	-	$505,000	345	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.67
+2018	533179	32 Carbeen Street	01/01/2018	-	12/04/2018	$505,000	864m	Full transfer	-	-	-	-	-	$505,000	-	-	Allhomes Record	-	-	-	-	$440,000	0.87
+2018	526418	76 Streeton Drive	06/03/2018	-	16/07/2016	$500,000	884m	Full transfer	-	-	-	-	-	$500,000	598	-	Allhomes Record	-	-	-	-	$450,000	0.9
+2018	536189	76 Streeton Drive	28/06/2018	28/06/2018	-	$500,000	884m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527493	9 Gungurra Crescent	28/03/2018	-	21/04/2017	$495,000	828m	Full transfer	-	-	-	-	-	$495,000	341	-	Allhomes Record	-	-	-	-	$440,000	0.89
+2018	533952	9 Gungurra Crescent	29/05/2018	29/05/2018	-	$495,000	832m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535933	92 Streeton Drive	21/06/2018	21/06/2018	-	$480,000	871m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527386	92 Streeton Drive	26/03/2018	-	16/05/2017	$480,000	866m	Full transfer	-	-	-	-	-	$480,000	314	-	Allhomes Record	-	-	-	-	$440,000	0.92
+2018	541152	3 Blancoa Place	16/07/2018	06/09/2018	16/04/2018	$475,000	295m	Full transfer	3	1	-	2	-	$475,000	91	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.55
+2018	533739	20 Blancoa Place	16/06/2018	-	23/05/2018	$470,000	0m	Full transfer	3	1	-	0	2	$470,000	24	-	Allhomes Record	-	-	-	-	$287,000	0.61
+2018	539255	61 Carbeen Street	10/08/2018	-	06/04/2018	$470,000	-	Full transfer	-	-	-	-	-	$470,000	126	-	Allhomes Record	-	-	-	-	$324,000	0.69
+2018	543868	61 Carbeen Street	09/10/2018	09/10/2018	-	$470,000	758m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531161	30 Kanooka Street	03/05/2018	-	18/10/2017	$465,000	668m	Full transfer	-	-	-	-	-	$465,000	197	-	Allhomes Record	-	-	-	-	$339,000	0.73
+2018	535049	30 Kanooka Street	15/06/2018	15/06/2018	-	$465,000	669m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535397	15/5 Tristania Street	26/04/2018	21/06/2018	16/03/2018	$427,500	10408m	Full transfer	2	1	-	0	1	$427,500	41	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	530798	16/5 Tristania Street	10/02/2018	18/04/2018	18/01/2018	$421,000	10408m	Full transfer	2	1	-	0	1	$421,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	560557	47 Goodenia Street	19/11/2018	22/01/2019	08/08/2018	$412,000	325m	Full transfer	3	1	-	0	2	$412,000	103	-	Combined Record	-	-	-	For residential purposes only	$248,000	0.6
+2018	553485	1/5 Tristania Street	12/11/2018	12/02/2019	26/07/2018	$385,000	10408m	Full transfer	2	1	-	0	1	$385,000	109	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	573023	3 Croton Street	30/10/2018	31/10/2019	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	557591	12 Nelumbo Street	31/05/2018	26/04/2019	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	556193	14 Rapanea Street	24/05/2018	28/03/2019	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540899	7 Geebung Place	14/05/2018	30/08/2018	-	$0	750m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549401	27 Nelumbo Street	13/07/2018	08/11/2018	-	$0	820m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554442	135 Darwinia Terrace	29/08/2018	04/03/2019	-	$0	858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535881	26 Wirilda Street	10/01/2018	18/06/2018	-	$0	705m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550311	2 Epacris Place	16/10/2018	10/12/2018	-	$0	1192m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547896	34 Tristania Street	30/07/2018	22/10/2018	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549210	14/9 Tristania Street	30/08/2018	07/12/2018	-	$0	13397m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547938	8 Diselma Place	01/09/2018	24/10/2018	07/08/2018	$0	800m	Full transfer	3	1	-	2	0	$0	25	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.6
+2018	551490	121 Darwinia Terrace	18/09/2018	12/11/2018	-	$0	995m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	557642	27 Marlock Street	24/05/2018	23/04/2019	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577181	25 Casuarina Street	08/11/2019	16/12/2019	24/10/2019	$800,000	722m	Full transfer	4	2	-	1	0	$800,000	15	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.47
+2019	565068	42 Nelumbo Street	16/04/2019	12/07/2019	27/03/2019	$800,000	767m	Full transfer	7	3	-	2	0	$800,000	20	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.48
+2019	575685	12 Morrell Place	19/10/2019	06/12/2019	24/09/2019	$785,000	988m	Full transfer	4	2	-	2	0	$785,000	25	-	Combined Record	-	-	-	Single residential dwelling	$394,000	0.5
+2019	576342	35 Kanooka Street	24/10/2019	09/12/2019	05/09/2019	$760,000	1089m	Full transfer	4	2	-	2	0	$760,000	49	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.57
+2019	576394	            2/41A Pavonia Street	23/10/2019	09/12/2019	-	$750,000	847m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571214	            41B Pavonia Street	23/10/2019	-	03/06/2019	$750,000	407m	Full transfer	4	2	-	2	-	$750,000	142	-	Allhomes Record	142	-	-	-	-	-
+2019	552767	41 Pavonia Street	19/02/2019	-	31/07/2017	$746,750	840m	Full transfer	4	1	1	2	-	$746,750	568	-	Allhomes Record	142	-	-	-	$436,000	0.58
+2019	563504	31 Croton Street	04/03/2019	26/06/2019	-	$745,000	699m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576434	5 Mirbelia Crescent	05/11/2019	12/12/2019	26/09/2019	$740,000	777m	Full transfer	4	1	1	-	2	$740,000	40	-	Combined Record	-	-	-	Single residential dwelling	$395,000	0.53
+2019	576944	21 Angophora Street	20/12/2019	-	14/11/2019	$720,000	812m	Full transfer	4	2	-	1	0	$720,000	36	-	Allhomes Record	-	-	-	-	$340,000	0.47
+2019	575067	15 Eugenia Street	11/12/2019	-	16/10/2019	$717,000	673m	Full transfer	4	2	-	0	1	$717,000	56	-	Allhomes Record	-	-	-	-	$385,000	0.54
+2019	565762	4 Pavonia Street	20/05/2019	24/07/2019	28/03/2019	$715,000	820m	Full transfer	4	2	-	1	0	$715,000	53	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.51
+2019	570189	267 Hindmarsh Drive	12/10/2019	-	18/09/2019	$693,000	799m	Full transfer	3	2	-	1	1	$693,000	24	-	Allhomes Record	-	-	-	-	$382,000	0.55
+2019	575110	2 Nealie Place	11/12/2019	-	21/11/2019	$690,000	-	Full transfer	4	2	1	2	-	$690,000	20	-	Allhomes Record	-	-	-	-	$418,000	0.61
+2019	571913	19 Santalum Street	06/08/2019	10/10/2019	18/07/2019	$687,500	684m	Full transfer	3	1	-	0	1	$687,500	19	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.52
+2019	573960	75 Darwinia Terrace	02/12/2019	-	08/09/2019	$685,000	-	Full transfer	3	2	-	-	2	$685,000	85	-	Allhomes Record	-	-	-	-	$361,000	0.53
+2019	576174	3 Casuarina Street	17/12/2019	-	27/11/2019	$680,000	0m	Full transfer	3	1	-	0	1	$680,000	20	-	Allhomes Record	-	-	-	-	$395,000	0.58
+2019	575296	75 Darwinia Terrace	15/10/2019	27/11/2019	-	$663,000	826m	Full transfer	-	-	-	-	-	$663,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	561129	291 Hindmarsh Drive	05/04/2019	16/05/2019	14/02/2019	$663,000	821m	Full transfer	4	1	-	2	0	$663,000	50	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.54
+2019	571984	50 Carbeen Street	02/09/2019	10/10/2019	30/04/2019	$650,000	989m	Full transfer	3	1	-	-	-	$650,000	125	-	Combined Record	125	-	-	Single residential dwelling	$381,000	0.59
+2019	577017	41 Tristania Street	19/12/2019	-	14/02/2019	$642,000	0m	Full transfer	3	2	-	1	0	$642,000	308	-	Allhomes Record	-	-	-	-	$472,000	0.74
+2019	574748	11 Epacris Place	09/10/2019	21/11/2019	04/08/2019	$635,000	748m	Full transfer	3	1	-	2	-	$635,000	66	-	Combined Record	108	-	-	Single residential dwelling	$379,000	0.6
+2019	572447	15 Kanooka Street	16/11/2019	-	24/10/2019	$630,000	684m	Full transfer	3	1	-	1	0	$630,000	23	-	Allhomes Record	-	-	-	-	$395,000	0.63
+2019	562949	1 Marlock Street	03/07/2019	-	30/05/2019	$625,000	0m	Full transfer	3	2	-	1	0	$625,000	34	-	Allhomes Record	-	-	-	-	$472,000	0.76
+2019	570096	1/1 Marlock Street	03/07/2019	20/09/2019	-	$625,000	916m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567340	40 Santalum Street	04/07/2019	12/08/2019	06/05/2019	$622,000	730m	Full transfer	3	1	-	1	-	$622,000	59	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.58
+2019	574011	5 Mentha Place	03/12/2019	-	14/11/2019	$620,000	883m	Full transfer	3	1	-	0	2	$620,000	19	-	Allhomes Record	-	-	-	-	$411,000	0.66
+2019	573332	10 Eugenia Street	20/11/2019	-	14/11/2019	$615,000	0m	Full transfer	3	1	-	1	0	$615,000	6	-	Allhomes Record	-	-	-	-	$385,000	0.63
+2019	558877	6 Cooba Place	22/03/2019	08/05/2019	20/02/2019	$612,000	876m	Full transfer	3	1	-	1	-	$612,000	30	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.57
+2019	572856	37 Kanooka Street	10/07/2019	22/10/2019	07/03/2019	$611,000	1294m	Full transfer	4	1	-	2	0	$611,000	125	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.65
+2019	562135	45 Santalum Street	07/05/2019	04/06/2019	27/02/2019	$606,000	740m	Full transfer	3	1	-	1	1	$606,000	69	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.59
+2019	573758	37 Salsola Street	17/08/2019	07/11/2019	23/07/2019	$604,000	1015m	Full transfer	3	1	-	1	-	$604,000	25	-	Combined Record	104	-	-	Single residential dwelling	$394,000	0.65
+2019	566822	            76 Streeton Dr	19/08/2019	-	23/08/2018	$600,000	0m	Full transfer	3	2	-	2	0	$600,000	361	-	Allhomes Record	-	-	-	-	-	-
+2019	570550	76 Streeton Drive	15/08/2019	25/09/2019	-	$600,000	884m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572467	18 Eugenia Street	18/11/2019	-	24/10/2019	$589,000	743m	Full transfer	3	1	-	1	0	$589,000	25	-	Allhomes Record	-	-	-	-	$379,000	0.64
+2019	573207	30 Marlock Street	12/09/2019	29/10/2019	21/08/2019	$585,000	694m	Full transfer	3	1	-	1	0	$585,000	22	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.61
+2019	567309	9 Kanooka Street	11/06/2019	14/08/2019	02/05/2019	$575,000	694m	Full transfer	3	1	-	2	-	$575,000	40	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.63
+2019	557007	3 Yate Gardens	05/04/2019	-	11/02/2019	$550,000	760m	Full transfer	-	-	-	-	-	$550,000	53	-	Allhomes Record	-	-	-	-	$366,000	0.67
+2019	573009	3 Croton Street	15/10/2019	31/10/2019	-	$550,000	743m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576274	50 Nelumbo Street	19/12/2019	-	25/09/2019	$540,000	716m	Full transfer	3	1	-	0	1	$540,000	85	-	Allhomes Record	-	-	-	-	$405,000	0.75
+2019	561539	227 Hindmarsh Drive	30/01/2019	13/03/2019	09/01/2019	$535,000	742m	Full transfer	3	1	-	0	1	$535,000	21	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.62
+2019	564231	12 Santalum Street	07/05/2019	01/07/2019	10/04/2019	$530,000	695m	Full transfer	3	1	-	0	1	$530,000	27	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.68
+2019	565105	22 Blancoa Place	11/06/2019	12/07/2019	-	$500,000	317m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562653	16 Bangalay Crescent	12/04/2019	12/06/2019	-	$487,000	743m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572663	41 Goodenia Street	26/08/2019	21/10/2019	11/07/2019	$449,000	239m	Full transfer	3	1	-	0	2	$449,000	46	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.58
+2019	572481	3H Tristania Street	18/11/2019	-	16/10/2019	$435,000	7942m	Full transfer	2	1	-	0	1	$435,000	33	-	Allhomes Record	-	-	-	-	$2,385,000	5.48
+2019	552565	6 Cordia Place	06/02/2019	-	14/11/2018	$430,000	285m	Full transfer	3	1	-	2	0	$430,000	84	-	Allhomes Record	-	-	-	-	$261,000	0.61
+2019	555248	24/5 Tristania Street	31/01/2019	14/03/2019	13/08/2018	$427,000	10408m	Full transfer	2	1	-	-	1	$427,000	171	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	558476	1 Blancoa Place	23/03/2019	03/05/2019	26/02/2019	$427,000	266m	Full transfer	3	1	-	2	0	$427,000	25	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.61
+2019	568080	8/5 Tristania Street	14/08/2019	28/08/2019	14/06/2019	$400,000	10408m	Full transfer	2	1	-	0	1	$400,000	61	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	568820	14 Rapanea Street	02/07/2019	05/09/2019	-	$295,000	725m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574552	11 Epacris Place	06/03/2019	21/11/2019	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572463	5 Eugenia Street	15/11/2019	-	24/09/2019	-	936m	Full transfer	3	1	-	1	0	-	52	-	Allhomes Record	-	-	-	-	$405,000	-
