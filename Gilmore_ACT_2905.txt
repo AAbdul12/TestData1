@@ -1,0 +1,718 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	37029	34 Luffman Crescent	21/12/2006	17/07/2007	-	$720,000	1551m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2006	169516	31 Rischbieth Crescent	22/08/2006	15/11/2006	26/04/2006	$529,000	1244m	Full transfer	4	2	1	2	-	$529,000	118	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.31
+2006	311233	8 Jeanette Place	18/02/2006	02/05/2006	-	$511,000	1531m	Full transfer	-	-	-	-	-	$511,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34076	47 Rischbieth Crescent	23/09/2006	19/12/2006	24/08/2006	$458,000	1811m	Full transfer	4	1	1	2	-	$458,000	30	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.36
+2006	165472	48 Louisa Lawson Crescent	01/12/2006	30/01/2007	27/10/2006	$450,000	954m	Full transfer	4	1	1	2	-	$450,000	35	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.44
+2006	169517	29 Rischbieth Crescent	30/09/2006	13/11/2006	29/08/2006	$448,000	1170m	Full transfer	4	2	1	2	-	$448,000	32	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.36
+2006	169518	2 Cleary Place	05/09/2006	13/11/2006	18/08/2006	$435,000	1727m	Full transfer	3	1	1	2	-	$435,000	18	-	Combined Record	-	-	-	Single residential dwelling	$183,000	0.42
+2006	213646	2 Hadow Place	23/01/2006	13/03/2006	22/12/2005	$420,000	1023m	Full transfer	5	2	1	2	-	$420,000	32	-	Combined Record	-	-	-	Single residential dwelling	$149,000	0.35
+2006	213714	58 Rosman Circuit	07/03/2006	10/04/2006	-	$400,500	1163m	Full transfer	-	-	-	-	-	$400,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37315	45 Willoughby Crescent	28/07/2006	20/09/2006	-	$400,000	933m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229530	19 Aronson Crescent	03/10/2006	26/10/2006	-	$400,000	730m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35897	11 Doughty Place	24/11/2006	11/01/2007	12/10/2006	$375,000	794m	Full transfer	4	1	1	2	1	$375,000	43	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.39
+2006	203606	99 Henry Melville Crescent	02/06/2006	01/09/2006	27/01/2006	$375,000	1468m	Full transfer	4	1	1	2	-	$375,000	126	-	Combined Record	-	-	-	Single residential dwelling	$137,000	0.37
+2006	165104	7 Alice Jackson Crescent	12/12/2006	15/02/2007	05/12/2006	$360,000	703m	Full transfer	3	1	1	1	-	$360,000	7	-	Combined Record	-	-	-	Single residential dwelling	$120,000	0.33
+2006	165397	204 Heagney Crescent	10/11/2006	14/02/2007	-	$355,000	907m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165680	5 Doughty Place	24/10/2006	24/11/2006	22/09/2006	$340,000	818m	Full transfer	3	1	1	2	-	$340,000	32	-	Combined Record	-	-	-	Single residential dwelling	$163,000	0.48
+2006	213613	6 Doughty Place	28/04/2006	14/07/2006	05/03/2006	$335,000	1103m	Full transfer	3	1	1	2	2	$335,000	54	-	Combined Record	-	-	-	Single residential dwelling	$182,000	0.54
+2006	34105	78 Rischbieth Crescent	11/10/2006	29/11/2006	14/09/2006	$335,000	878m	Full transfer	3	1	-	2	-	$335,000	27	-	Combined Record	-	-	-	Single residential dwelling	$149,000	0.44
+2006	213655	5 Case Place	26/04/2006	07/07/2006	03/03/2006	$330,100	1015m	Full transfer	4	1	1	2	-	$330,100	54	-	Combined Record	-	-	-	Single residential dwelling	$184,000	0.56
+2006	213696	81 Alice Jackson Crescent	13/04/2006	19/05/2006	-	$330,000	1183m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213685	5 Rolph Place	29/04/2006	20/07/2006	-	$327,500	855m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	202463	4 Arden Place	27/06/2006	06/08/2006	11/05/2006	$325,000	856m	Full transfer	3	1	1	-	2	$325,000	47	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.5
+2006	311221	46 May Maxwell Crescent	13/05/2006	23/06/2006	-	$325,000	978m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37586	7 Kidgell Place	30/08/2006	16/10/2006	14/07/2006	$323,000	855m	Full transfer	3	1	-	2	-	$323,000	47	-	Combined Record	-	-	-	Single residential dwelling	$163,000	0.5
+2006	213702	19 Australie Close	12/04/2006	25/05/2006	23/02/2006	$320,000	652m	Full transfer	3	1	-	2	-	$320,000	48	-	Combined Record	-	-	-	Single residential dwelling	$122,000	0.38
+2006	33028	5 Pankhurst Crescent	01/11/2006	04/12/2006	25/05/2006	$320,000	829m	Full transfer	3	1	1	-	-	$320,000	160	-	Combined Record	-	-	-	Single residential dwelling	$163,000	0.51
+2006	34469	95 Henry Melville Crescent	24/08/2006	29/09/2006	-	$319,000	824m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36580	67 Hambidge Crescent	02/08/2006	05/09/2006	-	$319,000	711m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213624	211 Heagney Crescent	16/02/2006	06/03/2006	-	$315,000	823m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319235	2 Arden Place	01/03/2006	19/04/2006	-	$310,000	769m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34734	63 Hambidge Crescent	29/06/2006	21/08/2006	-	$305,000	794m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213606	28 Pankhurst Crescent	07/02/2006	01/03/2006	-	$305,000	739m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203268	37 May Maxwell Crescent	08/11/2006	16/01/2007	-	$305,000	952m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213649	24 Watterson Place	17/02/2006	14/03/2006	-	$300,000	1072m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168916	68 Rischbieth Crescent	19/12/2006	22/03/2007	-	$300,000	721m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32462	25 Emily Bulcock Crescent	16/05/2006	27/03/2007	-	$292,500	910m	Full transfer	-	-	-	-	-	$292,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213633	7 Gellatly Place	02/06/2006	18/07/2006	-	$292,000	1035m	Full transfer	-	-	-	-	-	$292,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119529	12 Emily Bulcock Crescent	06/10/2006	31/10/2006	-	$290,150	787m	Full transfer	-	-	-	-	-	$290,150	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168500	3 Rolph Place	20/09/2006	05/03/2007	-	$275,000	904m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	213673	6 Yelland Place	12/04/2006	30/05/2006	-	$262,000	904m	Full transfer	-	-	-	-	-	$262,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	37648	11 Hadow Place	22/08/2006	18/10/2006	-	$250,000	1386m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36578	77 Henry Melville Crescent	30/05/2006	05/09/2006	-	$245,000	1105m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164452	14 Yelland Place	04/12/2006	13/03/2007	-	$160,000	1339m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213699	3 Australie Close	13/03/2006	13/04/2006	-	$152,500	688m	Partial transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213643	5 Fenston Place	03/01/2006	03/03/2006	-	$150,000	769m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168873	40 Rischbieth Crescent	11/12/2006	05/02/2007	-	$13,500	1042m	Partial transfer	-	-	-	-	-	$13,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169304	10 Hadow Place	24/08/2006	20/02/2007	-	$0	994m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36579	270 Heagney Crescent	08/08/2006	08/09/2006	-	-	825m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34735	31 Emily Bulcock Crescent	24/08/2006	24/08/2006	-	-	805m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213666	27 Aronson Crescent	16/05/2006	25/05/2006	-	-	966m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213715	62 Rosman Circuit	26/04/2006	20/06/2006	-	-	1271m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203607	34 Aronson Crescent	29/03/2006	28/08/2006	-	-	846m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34471	37 Rosman Circuit	02/08/2006	26/09/2006	-	-	753m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34470	11 Hadow Place	19/04/2006	28/09/2006	-	-	1386m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	9964	            1/8 Luffman Crescent	22/05/2006	24/07/2006	-	-	1033m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213602	77 Henry Melville Crescent	20/02/2006	12/07/2006	-	-	1105m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164157	57 Rischbieth Crescent	21/06/2006	15/08/2006	-	-	955m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168240	6 Arden Place	10/08/2006	10/08/2006	-	-	961m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202462	23 Emily Bulcock Crescent	11/07/2006	02/08/2006	-	-	1181m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166237	31 Willoughby Crescent	11/07/2007	14/08/2007	15/05/2007	$550,000	1093m	Full transfer	6	2	1	2	-	$550,000	57	-	Combined Record	-	-	-	Single residential dwelling	$146,000	0.27
+2007	35961	9 Pankhurst Crescent	18/05/2007	06/07/2007	-	$540,000	1202m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230685	76 Rischbieth Crescent	08/12/2007	20/02/2008	-	$525,000	912m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230874	25 Rischbieth Crescent	25/10/2007	02/12/2007	-	$495,000	1563m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202679	96 Louisa Lawson Crescent	25/08/2007	09/10/2007	05/07/2007	$480,000	969m	Full transfer	4	1	1	-	2	$480,000	51	-	Combined Record	-	-	-	Single residential dwelling	$188,000	0.39
+2007	120743	32 Willoughby Crescent	07/02/2007	15/05/2007	-	$480,000	969m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	99798	58 Rosman Circuit	06/06/2007	-	16/03/2007	$461,000	1163m	Full transfer	4	1	1	2	-	$461,000	82	-	Allhomes Record	-	-	-	-	$164,000	0.36
+2007	105982	7 Brickhill Place	03/08/2007	-	12/07/2007	$460,000	767m	Full transfer	4	1	1	4	-	$460,000	22	-	Allhomes Record	-	-	-	-	$132,000	0.29
+2007	230775	58 Rosman Circuit	13/11/2007	03/01/2008	20/09/2007	$460,000	1163m	Full transfer	4	1	1	2	-	$460,000	54	-	Combined Record	-	-	-	Single residential dwelling	$164,000	0.36
+2007	409098	10 Jeanette Place	14/09/2007	30/10/2007	-	$452,000	1584m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35975	10 Yelland Place	10/05/2007	06/07/2007	-	$450,000	981m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164600	2 Vesta Place	26/04/2007	11/07/2007	27/02/2007	$440,000	1118m	Full transfer	4	1	1	2	-	$440,000	58	-	Combined Record	-	-	-	Single residential dwelling...	$156,000	0.35
+2007	309123	14 May Maxwell Crescent	01/09/2007	09/10/2007	-	$426,000	963m	Full transfer	-	-	-	-	-	$426,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167147	9 Vesta Place	30/01/2007	10/04/2007	13/11/2006	$410,000	987m	Full transfer	4	1	1	2	-	$410,000	78	-	Combined Record	-	-	-	Single residential dwelling	$147,000	0.36
+2007	168110	2 Gellatly Place	24/08/2007	18/10/2007	09/08/2007	$409,000	973m	Full transfer	3	1	-	2	-	$409,000	15	-	Combined Record	-	-	-	Single residential dwelling	$152,000	0.37
+2007	202830	4 Luffman Crescent	18/04/2007	13/06/2007	-	$408,000	779m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36175	5 Edmond Close	08/05/2007	03/07/2007	-	$408,000	777m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	318118	3 Rolph Place	04/06/2007	14/08/2007	-	$405,000	904m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	314941	23 Alice Jackson Crescent	18/08/2007	29/11/2007	-	$405,000	950m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	307418	79 Alice Jackson Crescent	14/07/2007	16/10/2007	-	$405,000	1157m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231641	6 Yelland Place	10/08/2007	14/11/2007	18/07/2007	$395,000	904m	Full transfer	3	1	-	2	-	$395,000	23	-	Combined Record	-	-	-	Single residential dwelling...	$158,000	0.4
+2007	302530	2 Emily Bulcock Crescent	31/03/2007	03/07/2007	-	$393,000	1003m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166925	7 Luffman Crescent	11/07/2007	14/08/2007	-	$390,000	690m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	315909	9 Litchfield Place	02/05/2007	04/07/2007	-	$389,950	1302m	Full transfer	-	-	-	-	-	$389,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	304220	91 Alice Jackson Crescent	12/05/2007	13/09/2007	-	$385,500	1111m	Full transfer	-	-	-	-	-	$385,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232607	7 Doughty Place	05/09/2007	19/11/2007	-	$380,000	1151m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121526	8 Roxon Place	03/07/2007	29/08/2007	-	$373,000	857m	Full transfer	-	-	-	-	-	$373,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233983	6/34 Luffman Crescent	01/08/2007	30/06/2008	-	$369,950	1551m	Full transfer	-	-	-	-	-	$369,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	18376	            2/8 Rolph Place	18/09/2007	25/11/2007	-	$365,000	1200m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168828	43 Louisa Lawson Crescent	11/01/2007	22/03/2007	29/11/2006	$362,000	845m	Full transfer	3	1	1	-	2	$362,000	43	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.5
+2007	230227	14 Australie Close	01/12/2007	29/01/2008	-	$349,000	704m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232916	118 Louisa Lawson Crescent	06/09/2007	13/11/2007	-	$347,500	1168m	Full transfer	-	-	-	-	-	$347,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	36253	7 McKain Place	31/03/2007	06/07/2007	-	$347,000	1354m	Full transfer	-	-	-	-	-	$347,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	316412	15 Aronson Crescent	23/03/2007	01/05/2007	-	$340,000	862m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	36012	34 Aronson Crescent	01/05/2007	06/07/2007	-	$332,000	846m	Full transfer	-	-	-	-	-	$332,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166153	14 Watterson Place	25/05/2007	25/07/2007	-	$330,000	684m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32415	57 Hambidge Crescent	21/02/2007	27/03/2007	-	$330,000	779m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	24445	91A Henry Melville Crescent	13/12/2007	-	18/10/2007	$325,000	591m	Full transfer	3	1	1	-	1	$325,000	56	-	Allhomes Record	-	-	-	-	$178,000	0.55
+2007	121552	101 Henry Melville Crescent	24/07/2007	28/08/2007	-	$325,000	895m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36491	97 Henry Melville Crescent	13/04/2007	06/07/2007	-	$307,000	838m	Full transfer	-	-	-	-	-	$307,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36867	15 Luffman Crescent	23/05/2007	18/07/2007	-	$300,000	740m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32554	50 Henry Melville Crescent	20/02/2007	29/03/2007	-	$300,000	1003m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232568	5 Arden Place	13/09/2007	14/11/2007	-	$290,000	713m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2007	232665	4/34 Luffman Crescent	27/04/2007	24/06/2008	-	$289,950	1551m	Full transfer	-	-	-	-	-	$289,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232659	1/34 Luffman Crescent	30/04/2007	24/06/2008	-	$287,500	1551m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233490	2/34 Luffman Crescent	21/05/2007	20/06/2008	-	$284,950	1551m	Full transfer	-	-	-	-	-	$284,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	229587	5/34 Luffman Crescent	21/03/2007	17/07/2008	-	$284,950	1551m	Full transfer	-	-	-	-	-	$284,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168923	18 Aronson Crescent	18/02/2007	22/03/2007	-	$0	848m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166852	17 Rosman Circuit	16/05/2007	27/07/2007	08/03/2007	$0	799m	Full transfer	3	1	-	-	2	$0	69	-	Combined Record	-	-	-	Single residential dwelling	$136,000	0.55
+2007	232851	38 Alice Jackson Crescent	16/07/2007	13/11/2007	-	$0	784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166819	2 Hogue Place	14/06/2007	23/08/2007	-	$0	975m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120024	37 Alice Jackson Crescent	26/02/2007	02/04/2007	-	$0	1378m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232953	28 Rosman Circuit	03/09/2007	18/12/2007	-	$0	998m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409100	65 Emily Bulcock Crescent	14/08/2007	30/10/2007	-	$0	824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164744	6 Pankhurst Crescent	14/05/2007	13/07/2007	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167253	6 Luffman Crescent	16/02/2007	10/04/2007	-	$0	856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21777	            9 Pankhurst Street	18/05/2007	-	27/04/2007	-	1202m	Full transfer	4	2	1	-	4	-	21	-	Allhomes Record	-	-	-	-	$182,000	-
+2007	21907	            118 Lousia Lawson Crescent	06/09/2007	-	08/08/2007	-	-	Full transfer	4	1	-	-	1	-	29	-	Allhomes Record	-	-	-	-	-	-
+2007	232482	59 May Maxwell Crescent	06/02/2007	27/06/2008	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	119795	80 Rischbieth Crescent	02/04/2007	02/04/2007	-	-	798m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240887	62 Rosman Circuit	20/09/2008	21/12/2008	19/08/2008	$675,000	1271m	Full transfer	4	1	1	2	-	$675,000	32	-	Combined Record	-	-	-	Single residential dwelling	$203,000	0.3
+2008	240507	40 Rischbieth Crescent	29/08/2008	25/09/2008	-	$535,000	1042m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234273	12 Pankhurst Crescent	24/01/2008	06/05/2008	-	$532,500	936m	Full transfer	-	-	-	-	-	$532,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237158	6 Hadow Place	21/10/2008	10/12/2008	-	$500,000	848m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239261	3 Cleary Place	14/10/2008	11/11/2008	04/09/2008	$500,000	1105m	Full transfer	5	1	1	2	0	$500,000	40	-	Combined Record	-	-	-	Single residential dwelling	$203,000	0.41
+2008	320637	14 Luffman Crescent	10/04/2008	30/06/2008	-	$465,000	1171m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320163	99 Henry Melville Crescent	23/04/2008	16/07/2008	-	$455,000	1468m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320489	45 Rosman Circuit	12/04/2008	19/06/2008	-	$450,000	952m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237935	11 Finlayson Place	26/09/2008	19/09/2008	-	$435,900	1012m	Full transfer	-	-	-	-	-	$435,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	114452	11 Finlayson Place	15/08/2008	-	03/06/2008	$435,000	1012m	Full transfer	4	1	-	2	-	$435,000	73	-	Allhomes Record	-	-	-	-	$237,000	0.54
+2008	239960	1 Roxon Place	23/09/2008	15/10/2008	24/07/2008	$422,250	773m	Full transfer	3	1	1	4	2	$422,250	61	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.4
+2008	320867	10 Penton Place	04/02/2008	19/03/2008	-	$415,000	790m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240669	29 Louisa Lawson Crescent	22/10/2008	01/12/2008	26/09/2008	$400,000	827m	Full transfer	3	1	1	2	2	$400,000	26	-	Combined Record	-	-	-	Single residential dwelling	$189,000	0.47
+2008	234139	4 Vesta Place	03/04/2008	13/06/2008	-	$400,000	804m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237061	23 Aronson Crescent	07/11/2008	11/01/2009	05/08/2008	$395,000	709m	Full transfer	3	1	1	2	-	$395,000	94	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.44
+2008	322892	39 Emily Bulcock Crescent	23/12/2008	09/02/2009	-	$392,500	1080m	Full transfer	-	-	-	-	-	$392,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239173	6 Corbett Place	15/09/2008	03/11/2008	-	$390,000	989m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234276	13 Yelland Place	27/02/2008	05/05/2008	-	$385,000	1074m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236703	18 Emily Bulcock Crescent	31/01/2008	08/05/2008	-	$379,000	882m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	322003	81 Henry Melville Crescent	12/09/2008	09/10/2008	-	$377,500	923m	Full transfer	-	-	-	-	-	$377,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	321017	46 Henry Melville Crescent	21/02/2008	03/04/2008	-	$375,000	776m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230461	5 John Close	11/07/2008	12/08/2008	20/05/2008	$375,000	724m	Full transfer	3	1	-	-	2	$375,000	52	-	Combined Record	-	-	-	Single residential dwelling	$149,000	0.4
+2008	241218	22 Henry Melville Crescent	10/10/2008	12/01/2009	-	$374,500	779m	Full transfer	-	-	-	-	-	$374,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240072	39 May Maxwell Crescent	19/09/2008	23/10/2008	06/05/2008	$373,000	768m	Full transfer	3	1	1	2	-	$373,000	136	-	Combined Record	-	-	-	Single residential dwelling	$191,000	0.51
+2008	242283	65 Emily Bulcock Crescent	07/11/2008	03/02/2009	02/10/2008	$369,990	824m	Full transfer	3	1	0	2	0	$369,990	36	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.52
+2008	320686	5 Pankhurst Crescent	13/05/2008	30/06/2008	-	$368,000	829m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	22378	            12186 Reference Number	08/04/2008	-	06/03/2008	$365,000	731m	Full transfer	3	1	-	4	-	$365,000	33	-	Allhomes Record	-	-	-	-	$139,000	0.38
+2008	321228	4 Cleary Place	13/06/2008	20/08/2008	-	$365,000	1235m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236230	12 Australie Close	08/04/2008	21/05/2008	-	$365,000	731m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	320119	71 May Maxwell Crescent	18/06/2008	25/07/2008	-	$360,000	714m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229717	1 Wolfe Place	20/06/2008	29/07/2008	-	$360,000	932m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237402	32 Henry Melville Crescent	10/07/2008	27/08/2008	02/05/2008	$360,000	784m	Full transfer	3	1	1	-	-	$360,000	69	-	Combined Record	-	-	-	Single residential dwelling	$174,000	0.48
+2008	321164	4 Hain Place	06/11/2008	07/01/2009	-	$359,950	902m	Full transfer	-	-	-	-	-	$359,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	323064	7 Ferber Place	18/12/2008	13/03/2009	-	$350,000	930m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239260	70 Rischbieth Crescent	08/07/2008	10/11/2008	07/05/2008	$345,000	719m	Full transfer	3	1	-	-	-	$345,000	62	-	Combined Record	-	-	-	Single residential dwelling	$136,000	0.39
+2008	239877	1 Australie Close	28/08/2008	07/10/2008	15/04/2008	$342,000	733m	Full transfer	3	1	-	-	2	$342,000	135	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.5
+2008	322891	6 Wolfe Place	20/06/2008	09/02/2009	-	$340,000	862m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25223	8A Luffman Crescent	19/02/2008	-	26/10/2007	$339,000	1032m	Full transfer	3	1	-	-	2	$339,000	116	-	Allhomes Record	-	-	-	-	$221,000	0.65
+2008	17703	            1/8 Luffman Crescent	07/02/2008	14/04/2008	-	$339,000	1033m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	320831	46 May Maxwell Crescent	15/03/2008	05/05/2008	-	$336,000	978m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243023	5 Arden Place	18/12/2008	10/03/2009	-	$330,000	713m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2008	241023	1/73A Alice Jackson Crescent	27/11/2008	22/12/2008	14/10/2008	$330,000	1283m	Full transfer	3	1	-	-	1	$330,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2008	241902	23 Australie Close	20/11/2008	22/01/2009	-	$327,500	847m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242282	210 Heagney Crescent	23/12/2008	03/02/2009	-	$320,000	827m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	234629	25 Emily Bulcock Crescent	13/03/2008	06/05/2008	-	$310,000	910m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231268	3/34 Luffman Crescent	09/05/2008	19/06/2008	-	$289,950	1551m	Full transfer	-	-	-	-	-	$289,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229850	33 Henry Melville Crescent	18/04/2008	23/07/2008	-	$282,500	941m	Full transfer	-	-	-	-	-	$282,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229940	18 Aronson Crescent	03/06/2008	17/07/2008	-	$225,000	848m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231313	10 Brickhill Place	05/02/2008	04/06/2008	-	$195,000	886m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233752	12 Brickhill Place	19/02/2008	04/07/2008	-	$150,000	1014m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233754	58 Rischbieth Crescent	21/04/2008	01/07/2008	-	$135,000	860m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	559802	68 Rosman Circuit	26/06/2008	23/05/2019	-	$0	1243m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	336278	43 Louisa Lawson Crescent	11/04/2008	16/08/2011	-	-	845m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230068	2 Jeanette Place	01/03/2008	27/05/2008	-	-	1254m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233565	7 Penton Place	14/03/2008	28/04/2008	-	-	1284m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240670	81 Alice Jackson Crescent	28/11/2008	05/12/2008	-	-	1183m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	249916	34 Alice Jackson Crescent	17/03/2008	20/11/2009	-	-	888m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230462	12 Vesta Place	02/07/2008	12/08/2008	-	-	1225m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18923	            56 Rosman Circuit	26/06/2008	29/09/2008	-	-	1299m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234138	22 Pankhurst Crescent	10/04/2008	11/06/2008	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240505	5 Catts Place	10/06/2008	25/09/2008	-	-	1051m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241345	202 Heagney Crescent	19/11/2008	07/05/2009	-	-	840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	279088	1 Henry Melville Crescent	02/03/2008	01/02/2011	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240506	16 Alice Jackson Crescent	15/07/2008	25/09/2008	-	-	793m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236799	4 Brickhill Place	28/11/2008	06/01/2009	-	-	742m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323806	8 Finlayson Place	28/05/2009	05/08/2009	-	$535,000	840m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325443	9 Aronson Crescent	16/12/2009	16/02/2010	-	$525,000	742m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	245405	13 Luffman Crescent	25/05/2009	07/08/2009	23/04/2009	$502,500	695m	Full transfer	4	1	1	4	0	$502,500	32	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.43
+2009	326920	24 Watterson Place	02/09/2009	25/01/2010	-	$479,000	1072m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249420	17 Luffman Crescent	06/04/2009	20/10/2009	-	$476,250	918m	Full transfer	-	-	-	-	-	$476,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247838	19 Luffman Crescent	06/04/2009	12/10/2009	-	$476,250	909m	Full transfer	-	-	-	-	-	$476,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262615	2 Hogue Place	28/11/2009	14/02/2010	06/11/2009	$475,000	975m	Full transfer	4	1	1	2	-	$475,000	22	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.52
+2009	241698	27 Rosman Circuit	24/04/2009	22/05/2009	30/03/2009	$470,000	809m	Full transfer	3	1	1	2	-	$470,000	25	-	Combined Record	-	-	-	Single residential dwelling	$238,000	0.51
+2009	247839	61 Henry Melville Crescent	19/08/2009	13/10/2009	26/06/2009	$470,000	1155m	Full transfer	4	1	1	-	2	$470,000	54	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.53
+2009	250638	91 Rischbieth Crescent	08/08/2009	04/12/2009	21/07/2009	$470,000	877m	Full transfer	4	1	1	2	2	$470,000	18	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.47
+2009	246135	17 Rischbieth Crescent	10/07/2009	24/08/2009	-	$465,000	738m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248085	27 Henry Melville Crescent	17/07/2009	14/09/2009	-	$465,000	937m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260929	52 Rischbieth Crescent	15/10/2009	02/02/2010	-	$460,000	806m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323808	9 Penton Place	27/06/2009	05/08/2009	-	$450,000	1340m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	129056	7 Hain Place	21/08/2009	-	03/08/2009	$450,000	828m	Full transfer	3	1	1	-	2	$450,000	18	-	Allhomes Record	-	-	-	-	$276,000	0.61
+2009	245673	6/34 Luffman Crescent	29/05/2009	12/08/2009	-	$450,000	1551m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	324345	14 Pankhurst Crescent	19/06/2009	25/09/2009	-	$440,000	964m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249915	43 May Maxwell Crescent	24/07/2009	18/11/2009	07/07/2009	$440,000	832m	Full transfer	3	1	1	2	1	$440,000	17	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.59
+2009	246355	2 Penton Place	21/07/2009	03/09/2009	23/06/2009	$439,000	981m	Full transfer	3	1	0	4	-	$439,000	28	-	Combined Record	-	-	-	Single residential dwelling	$211,000	0.48
+2009	323728	5 Budd Place	07/03/2009	16/06/2009	-	$435,000	803m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323809	79 Alice Jackson Crescent	26/05/2009	05/08/2009	-	$430,000	1157m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323395	9 Rosman Circuit	24/04/2009	06/06/2009	-	$427,000	866m	Full transfer	-	-	-	-	-	$427,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	325442	24 May Maxwell Crescent	23/12/2009	15/02/2010	-	$425,000	921m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245402	18 Willoughby Crescent	25/06/2009	03/08/2009	26/05/2009	$425,000	739m	Full transfer	3	1	1	2	-	$425,000	30	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.48
+2009	130151	72 Henry Melville Crescent	19/10/2009	-	14/09/2009	$423,000	711m	Full transfer	3	1	1	1	-	$423,000	35	-	Allhomes Record	-	-	-	-	$192,000	0.45
+2009	323453	20 Luffman Crescent	11/03/2009	12/06/2009	-	$411,000	854m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247837	48 Henry Melville Crescent	17/08/2009	14/10/2009	-	$405,000	776m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245114	30 Rischbieth Crescent	15/05/2009	18/06/2009	17/04/2009	$401,000	836m	Full transfer	-	-	-	-	-	$401,000	28	-	Combined Record	-	-	-	Single residential dwelling	$198,000	0.49
+2009	254032	4 Corbett Place	30/09/2009	11/02/2010	04/09/2009	$400,000	907m	Full transfer	2	1	0	2	0	$400,000	26	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.62
+2009	249418	18 Alice Jackson Crescent	02/09/2009	25/10/2009	-	$400,000	874m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245315	199 Heagney Crescent	28/05/2009	29/07/2009	29/04/2009	$398,000	871m	Full transfer	3	1	-	2	-	$398,000	29	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.54
+2009	251657	204 Heagney Crescent	20/11/2009	10/01/2010	-	$395,000	907m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241697	54 Rischbieth Crescent	10/02/2009	22/05/2009	27/01/2009	$390,000	807m	Full transfer	3	1	1	2	2	$390,000	14	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.59
+2009	324613	59 Hambidge Crescent	28/09/2009	20/10/2009	-	$385,000	806m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255839	1/260 Heagney Crescent	05/12/2009	23/03/2010	-	$382,000	1227m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242685	51 Louisa Lawson Crescent	19/01/2009	25/02/2009	11/12/2008	$382,000	764m	Full transfer	3	1	0	-	1	$382,000	39	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.59
+2009	243562	127 Louisa Lawson Crescent	23/02/2009	01/04/2009	04/12/2008	$379,950	812m	Full transfer	3	1	-	-	1	$379,950	81	-	Combined Record	-	-	-	Single residential dwelling	$219,000	0.58
+2009	323332	202 Heagney Crescent	18/03/2009	27/05/2009	-	$374,000	840m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	321560	6 Henry Melville Crescent	24/02/2009	17/04/2009	-	$371,000	1085m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244938	8 Brickhill Place	16/04/2009	14/07/2009	-	$370,000	754m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248086	61 Hambidge Crescent	14/07/2009	15/09/2009	22/05/2009	$369,950	790m	Full transfer	3	1	0	-	2	$369,950	53	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.58
+2009	323394	47 Hambidge Crescent	21/02/2009	02/06/2009	-	$362,000	730m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	274698	1/17 Luffman Crescent	27/08/2009	02/12/2010	20/07/2009	$339,000	1827m	Full transfer	-	-	-	-	-	$339,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$191,000	0.56
+2009	274371	8/17 Luffman Crescent	30/06/2009	19/11/2010	-	$336,500	1827m	Full transfer	-	-	-	-	-	$336,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	274372	6/17 Luffman Crescent	10/07/2009	19/11/2010	-	$326,500	1827m	Full transfer	-	-	-	-	-	$326,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	274373	5/17 Luffman Crescent	03/07/2009	16/11/2010	-	$326,500	1827m	Full transfer	-	-	-	-	-	$326,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	283777	3/17 Luffman Crescent	17/07/2009	16/02/2011	-	$324,500	1827m	Full transfer	-	-	-	-	-	$324,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246136	11 Aronson Crescent	23/06/2009	24/08/2009	-	$320,000	839m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	277625	2/17 Luffman Crescent	30/07/2009	27/01/2011	-	$319,000	1827m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	127310	14B Litchfield Place	27/08/2009	-	22/05/2009	$297,000	1076m	Full transfer	2	1	-	-	1	$297,000	97	-	Allhomes Record	-	-	-	-	$234,000	0.79
+2009	31833	            2/14 Litchfield Place	07/08/2009	08/09/2009	-	$297,000	1076m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	260931	10 Rosman Circuit	30/09/2009	01/02/2010	-	$290,000	796m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242806	85 Rischbieth Crescent	21/01/2009	04/03/2009	-	$195,000	1041m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	267620	21 Australie Close	08/12/2009	21/06/2010	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245112	18 Willoughby Crescent	10/05/2009	17/06/2009	-	-	739m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248206	16 Pankhurst Crescent	17/02/2009	21/09/2009	-	-	938m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241533	72 Rischbieth Crescent	04/04/2009	11/05/2009	-	-	717m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243935	22 Pankhurst Crescent	04/03/2009	31/05/2009	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242139	41 Henry Melville Crescent	23/01/2009	28/01/2009	-	-	852m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254031	39 Rischbieth Crescent	27/11/2009	10/02/2010	-	-	1184m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260927	38 Alice Jackson Crescent	06/11/2009	07/02/2010	-	-	784m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	267619	3 Fenston Place	21/12/2009	27/06/2010	-	-	761m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244546	9 Brickhill Place	13/02/2009	01/07/2009	-	-	941m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238669	10 Finlayson Place	20/02/2009	21/04/2009	-	-	689m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260926	6 Arden Place	31/10/2009	29/01/2010	-	-	961m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243937	288 Heagney Crescent	13/03/2009	29/05/2009	-	-	748m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246137	49 Rischbieth Crescent	23/06/2009	24/08/2009	-	-	1465m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272904	9 Pankhurst Crescent	26/08/2010	11/10/2010	-	$675,000	1202m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267621	42 Rosman Circuit	26/02/2010	25/06/2010	-	$580,000	1980m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258268	21 Rischbieth Crescent	13/03/2010	06/05/2010	17/02/2010	$560,000	845m	Full transfer	4	1	1	2	-	$560,000	24	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.48
+2010	271108	30 Luffman Crescent	18/08/2010	16/09/2010	30/06/2010	$554,000	947m	Full transfer	5	1	1	2	-	$554,000	49	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.49
+2010	330275	47 Henry Melville Crescent	11/01/2010	17/02/2011	-	$520,000	1001m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329689	21 Aronson Crescent	29/11/2010	19/01/2011	-	$515,000	729m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280328	45 May Maxwell Crescent	22/10/2010	22/12/2010	08/07/2010	$500,000	1110m	Full transfer	4	1	1	-	1	$500,000	106	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.62
+2010	492173	45 May Maxwell Crescent	21/09/2010	-	24/12/2016	$500,000	1110m	Full transfer	4	2	1	0	1	$500,000	-	-	Allhomes Record	-	-	-	-	$311,000	0.62
+2010	328418	14 Yelland Place	19/06/2010	26/07/2010	-	$498,000	1339m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254383	81 Henry Melville Crescent	18/01/2010	23/02/2010	-	$469,000	923m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280347	9 Fenston Place	05/11/2010	16/12/2010	14/10/2010	$465,000	773m	Full transfer	3	1	1	2	1	$465,000	22	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.49
+2010	325929	117 Louisa Lawson Crescent	03/03/2010	21/04/2010	-	$463,000	1024m	Full transfer	-	-	-	-	-	$463,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258128	30 Rosman Circuit	26/02/2010	07/05/2010	-	$450,000	964m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258727	2 Budd Place	27/03/2010	17/05/2010	04/03/2010	$440,000	905m	Full transfer	3	1	-	2	1	$440,000	23	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.59
+2010	279420	17 Rosman Circuit	21/12/2010	02/02/2011	08/11/2010	$440,000	799m	Full transfer	3	1	-	2	-	$440,000	43	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.51
+2010	329852	28 Emily Bulcock Crescent	08/12/2010	02/02/2011	-	$436,000	706m	Full transfer	-	-	-	-	-	$436,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263904	17 Australie Close	08/02/2010	31/05/2010	29/10/2009	$435,000	827m	Full transfer	3	1	-	2	-	$435,000	102	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.47
+2010	325784	246 Heagney Crescent	30/01/2010	30/03/2010	-	$430,000	805m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329067	25 May Maxwell Crescent	02/09/2010	03/11/2010	21/07/2010	$423,000	849m	Full transfer	3	1	1	-	1	$423,000	43	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.58
+2010	257401	3 Gellatly Place	13/02/2010	22/04/2010	23/03/2010	$422,000	849m	Full transfer	3	1	-	4	-	$422,000	-	-	Combined Record	-	-	-	Single residential dwelling	$245,000	0.58
+2010	330274	41 Henry Melville Crescent	21/12/2010	17/02/2011	-	$420,000	852m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328389	1/8 Rolph Place	30/06/2010	22/09/2010	-	$420,000	1200m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269539	            1/8 Luffman Crescent	04/06/2010	16/08/2010	-	$400,000	1033m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272878	143 Louisa Lawson Crescent	15/09/2010	02/11/2010	-	$400,000	899m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	330611	4 Gellatly Place	18/11/2010	29/03/2011	-	$398,000	767m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	259966	1/3 Rolph Place	24/02/2010	19/04/2010	-	$362,000	904m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	276634	4/34 Luffman Crescent	25/06/2010	19/07/2010	-	$360,000	1551m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260118	1/34 Luffman Crescent	09/03/2010	14/05/2010	-	$355,000	1551m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	274305	7/17 Luffman Crescent	16/07/2010	22/11/2010	-	$326,500	1827m	Full transfer	-	-	-	-	-	$326,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	274306	4/17 Luffman Crescent	27/07/2010	22/11/2010	-	$326,500	1827m	Full transfer	-	-	-	-	-	$326,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261854	12 Australie Close	25/03/2010	10/05/2010	-	$136,667	731m	Full transfer	-	-	-	-	-	$136,667	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	379702	4 Luffman Crescent	13/08/2010	30/08/2012	-	$0	779m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277564	40 May Maxwell Crescent	11/11/2010	19/01/2011	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255605	9 McKain Place	03/02/2010	26/03/2010	-	-	1225m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270128	3 Vesta Place	29/04/2010	18/08/2010	-	-	866m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255790	17 Emily Bulcock Crescent	09/03/2010	07/04/2010	-	-	843m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270262	1 Finlayson Place	25/05/2010	03/09/2010	-	-	785m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273851	11 Finlayson Place	01/09/2010	08/11/2010	-	-	1012m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	256424	47 Louisa Lawson Crescent	05/03/2010	14/04/2010	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283435	4 Maling Place	08/05/2010	10/02/2011	-	-	918m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270332	28 Willoughby Crescent	01/07/2010	07/09/2010	-	-	923m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291370	18 Finlayson Place	14/02/2011	10/05/2011	-	$700,000	798m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338582	43 Rischbieth Crescent	01/10/2011	-	01/09/2011	$655,000	1255m	Full transfer	4	2	-	2	-	$655,000	30	-	Allhomes Record	-	-	-	-	$310,000	0.47
+2011	331638	40 Rischbieth Crescent	19/04/2011	26/05/2011	-	$595,000	1042m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300206	9 Penton Place	24/02/2011	06/07/2011	-	$540,000	1340m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333288	36 Rosman Circuit	16/05/2011	26/07/2011	23/03/2011	$540,000	1248m	Full transfer	4	1	1	2	-	$540,000	54	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.57
+2011	332023	11 Henry Melville Crescent	29/04/2011	20/07/2011	-	$521,000	1170m	Full transfer	-	-	-	-	-	$521,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346782	13 Fenston Place	19/09/2011	21/11/2011	-	$513,000	812m	Full transfer	-	-	-	-	-	$513,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336799	52 May Maxwell Crescent	14/07/2011	22/08/2011	-	$510,000	856m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297044	4 John Close	04/04/2011	16/06/2011	03/12/2010	$495,000	784m	Full transfer	4	1	1	2	-	$495,000	122	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.5
+2011	333291	38 Alice Jackson Crescent	14/06/2011	28/07/2011	-	$490,000	784m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336810	7 Hain Place	04/07/2011	18/08/2011	16/06/2011	$489,000	829m	Full transfer	4	1	1	-	2	$489,000	18	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.72
+2011	349793	41 Louisa Lawson Crescent	14/11/2011	12/12/2011	-	$483,000	946m	Full transfer	-	-	-	-	-	$483,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292308	30 Rosman Circuit	25/02/2011	10/05/2011	15/02/2011	$481,000	964m	Full transfer	3	1	-	2	-	$481,000	10	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.61
+2011	354310	8 Doughty Place	01/10/2011	19/12/2011	14/11/2011	$476,000	1250m	Full transfer	4	2	-	2	0	$476,000	-	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.71
+2011	336169	7 Henry Melville Crescent	10/06/2011	22/08/2011	-	$475,000	921m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350290	36 Aronson Crescent	29/09/2011	01/12/2011	-	$469,950	1200m	Full transfer	-	-	-	-	-	$469,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331556	272 Heagney Crescent	29/03/2011	10/06/2011	-	$465,000	1146m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287768	254 Heagney Crescent	17/02/2011	06/04/2011	15/12/2010	$462,000	1017m	Full transfer	3	1	1	-	2	$462,000	64	-	Combined Record	143	-	-	Single residential dwelling	$304,000	0.66
+2011	296826	7 Hadow Place	25/03/2011	01/06/2011	04/02/2011	$460,000	953m	Full transfer	3	1	-	3	1	$460,000	49	-	Combined Record	129	-	-	Single residential dwelling	$294,000	0.64
+2011	336801	13 Henry Melville Crescent	15/07/2011	25/08/2011	-	$460,000	757m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342353	46 Rischbieth Crescent	20/07/2011	12/10/2011	-	$457,500	818m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347987	7 Emily Bulcock Crescent	03/09/2011	24/10/2011	11/08/2011	$455,000	1100m	Full transfer	3	1	1	-	2	$455,000	23	-	Combined Record	-	-	-	Single residential dwelling	$268,000	0.59
+2011	330877	10 Brickhill Place	07/03/2011	03/05/2011	-	$442,500	886m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349794	63 Emily Bulcock Crescent	13/10/2011	13/12/2011	08/09/2011	$437,000	777m	Full transfer	3	1	-	4	-	$437,000	35	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.59
+2011	400709	2/8B Penton Place	26/05/2011	28/05/2013	-	$432,000	869m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	290782	8 Penton Place	26/05/2011	-	07/03/2011	$432,000	869m	Full transfer	3	1	1	1	-	$432,000	80	-	Allhomes Record	-	-	-	-	$258,000	0.6
+2011	292121	66 Rischbieth Crescent	21/02/2011	29/04/2011	19/01/2011	$429,000	735m	Full transfer	3	1	-	-	-	$429,000	33	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.58
+2011	333292	14 Watterson Place	10/06/2011	26/07/2011	24/02/2011	$420,000	684m	Full transfer	3	1	-	4	-	$420,000	106	-	Combined Record	-	-	-	Single residential dwelling	$282,000	0.67
+2011	340391	201 Heagney Crescent	24/08/2011	23/09/2011	-	$405,000	938m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296088	4 Roxon Place	15/04/2011	02/06/2011	-	$391,500	783m	Full transfer	-	-	-	-	-	$391,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346780	70 Rischbieth Crescent	19/10/2011	23/11/2011	-	$389,000	719m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340656	218 Heagney Crescent	09/08/2011	28/09/2011	24/06/2011	$373,000	686m	Full transfer	2	1	-	2	-	$373,000	46	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.69
+2011	297761	37 Hambidge Crescent	11/05/2011	28/06/2011	03/04/2011	$365,000	707m	Full transfer	3	1	-	-	-	$365,000	38	-	Combined Record	-	-	-	For residential purposes only	$235,000	0.64
+2011	344137	            2/75A Alice Jackson Crescent	09/08/2011	18/10/2011	-	$365,000	864m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	301011	            75B Alice Jackson Crescent	05/07/2011	-	02/06/2011	$365,000	864m	Full transfer	3	1	-	2	-	$365,000	33	-	Allhomes Record	-	-	-	-	$118,580	0.32
+2011	346777	3/34 Luffman Crescent	20/10/2011	25/11/2011	22/09/2011	$363,000	1551m	Full transfer	1	-	1	1	-	$363,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	$1,315,000	3.62
+2011	291177	29 Alice Jackson Crescent	14/02/2011	03/05/2011	-	$205,000	913m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287324	1 Wolfe Place	09/02/2011	30/03/2011	-	$200,000	932m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	401753	40 Henry Melville Crescent	28/09/2011	21/05/2013	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347198	36 Aronson Crescent	20/08/2011	08/11/2011	-	$0	1200m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344138	44 Louisa Lawson Crescent	26/07/2011	19/10/2011	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	366036	64 Rosman Circuit	03/12/2011	27/02/2012	-	$0	1214m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	359977	72 Henry Melville Crescent	24/11/2011	27/01/2012	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336233	3 McKain Place	04/07/2011	07/09/2011	-	-	778m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	285974	7 Brickhill Place	11/02/2011	17/03/2011	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386815	6 Edmond Close	14/11/2012	20/12/2012	26/09/2012	$715,000	853m	Full transfer	6	3	-	2	0	$715,000	49	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.42
+2012	381120	26 May Maxwell Crescent	13/09/2012	03/10/2012	-	$650,000	1261m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379173	2 Doughty Place	03/08/2012	05/09/2012	22/05/2012	$630,000	1114m	Full transfer	6	1	1	3	-	$630,000	73	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.48
+2012	392060	31 Willoughby Crescent	06/12/2012	06/03/2013	31/10/2012	$625,000	1093m	Full transfer	6	3	-	2	0	$625,000	36	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.43
+2012	379899	15 Rosman Circuit	07/08/2012	13/09/2012	31/05/2012	$599,000	799m	Full transfer	5	1	1	-	2	$599,000	68	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.41
+2012	370800	2 Hadow Place	22/03/2012	30/04/2012	14/02/2012	$592,500	1023m	Full transfer	5	2	1	2	-	$592,500	37	-	Combined Record	192	-	-	Single residential dwelling	$278,000	0.47
+2012	382612	39 Rischbieth Crescent	21/09/2012	26/11/2012	26/07/2012	$565,000	1184m	Full transfer	4	2	-	2	0	$565,000	57	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.53
+2012	377332	34 Alice Jackson Crescent	05/09/2012	-	22/08/2012	$543,000	0m	Full transfer	4	2	-	2	1	$543,000	14	-	Allhomes Record	-	-	-	-	$226,000	0.42
+2012	392014	11 Rosman Circuit	27/11/2012	01/03/2013	10/10/2012	$540,000	844m	Full transfer	4	2	-	0	0	$540,000	48	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.56
+2012	370799	            2/9 Penton Place	09/03/2012	01/05/2012	-	$540,000	1340m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386817	7 Donald Place	25/10/2012	19/12/2012	18/09/2012	$535,000	735m	Full transfer	4	1	1	1	2	$535,000	37	-	Combined Record	184	-	-	Single residential dwelling	$242,000	0.45
+2012	371952	27 Henry Melville Crescent	30/03/2012	31/05/2012	-	$530,000	937m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	352133	63 May Maxwell Crescent	31/01/2012	-	10/01/2012	$515,000	833m	Full transfer	4	1	1	2	-	$515,000	21	-	Allhomes Record	-	-	-	-	$350,000	0.68
+2012	397102	4 John Close	22/11/2012	-	28/05/2013	$510,000	784m	Full transfer	4	2	-	2	0	$510,000	-	-	Allhomes Record	-	-	-	-	$248,000	0.49
+2012	386963	4 John Close	20/11/2012	24/12/2012	18/10/2012	$510,000	784m	Full transfer	4	2	-	2	0	$510,000	33	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.49
+2012	360927	37 Louisa Lawson Crescent	30/03/2012	-	05/01/2012	$499,000	956m	Full transfer	4	2	0	1	0	$499,000	85	-	Allhomes Record	-	-	-	-	$299,000	0.6
+2012	379700	4 Luffman Crescent	19/05/2012	30/08/2012	20/04/2012	$495,000	779m	Full transfer	4	1	1	2	-	$495,000	29	-	Combined Record	-	-	-	Single residential dwelling	$259,000	0.52
+2012	371596	35 Hambidge Crescent	18/05/2012	05/06/2012	08/03/2012	$485,000	746m	Full transfer	3	2	-	2	0	$485,000	71	-	Combined Record	-	-	-	Single residential dwelling...	$259,000	0.53
+2012	376576	63 Hambidge Crescent	31/05/2012	09/08/2012	09/05/2012	$483,500	794m	Full transfer	3	1	-	2	-	$483,500	22	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.56
+2012	388578	7 Doughty Place	20/11/2012	14/01/2013	-	$472,000	1151m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377696	20 Aronson Crescent	18/09/2012	-	30/08/2012	$470,000	870m	Full transfer	4	1	1	3	-	$470,000	19	-	Allhomes Record	-	-	-	-	$290,000	0.62
+2012	365373	70 Rosman Circuit	17/01/2012	05/03/2012	12/12/2011	$455,000	890m	Full transfer	3	1	-	2	-	$455,000	36	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.66
+2012	379171	9 Doughty Place	02/08/2012	04/09/2012	23/05/2012	$450,000	866m	Full transfer	3	1	1	-	-	$450,000	71	-	Combined Record	170	-	-	Single residential dwelling	$303,000	0.67
+2012	376266	61 Emily Bulcock Crescent	21/05/2012	20/07/2012	-	$444,000	863m	Full transfer	-	-	-	-	-	$444,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371738	19 Australie Close	30/04/2012	25/05/2012	15/03/2012	$440,000	652m	Full transfer	3	1	-	2	-	$440,000	46	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.51
+2012	379901	26 Pankhurst Crescent	06/07/2012	11/09/2012	-	$435,000	721m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	370043	39 May Maxwell Crescent	20/02/2012	26/03/2012	-	$430,000	768m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375694	16 Australie Close	28/08/2012	-	12/06/2012	$425,000	875m	Full transfer	3	1	-	2	2	$425,000	77	-	Allhomes Record	-	-	-	-	$259,000	0.61
+2012	400210	            1/9 Penton Place	17/10/2012	06/06/2013	-	$420,000	1340m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	391594	20 Henry Melville Crescent	04/12/2012	20/02/2013	05/11/2012	$410,000	896m	Full transfer	3	1	-	1	-	$410,000	29	-	Combined Record	-	-	-	Single residential dwelling	$289,000	0.7
+2012	368102	            91A Henry Melville Crescent	30/05/2012	-	22/02/2012	$380,000	-	Full transfer	3	1	1	-	1	$380,000	98	-	Allhomes Record	129	-	-	-	-	-
+2012	376267	            1/91B Henry Melville Crescent	30/05/2012	20/07/2012	-	$380,000	1183m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370802	20 Henry Melville Crescent	28/02/2012	30/04/2012	-	$350,000	896m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391593	52 May Maxwell Crescent	12/10/2012	20/02/2013	-	$250,000	856m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379175	32 Henry Melville Crescent	31/08/2012	06/09/2012	-	$0	784m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365712	8 Aronson Crescent	17/01/2012	24/02/2012	-	$0	1089m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391740	30 Rischbieth Crescent	28/06/2012	27/02/2013	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371953	77 Henry Melville Crescent	28/02/2012	31/05/2012	-	$0	1105m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374541	4 Doughty Place	16/04/2012	01/07/2012	-	$0	1224m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	397684	4 Willoughby Crescent	28/08/2012	09/05/2013	-	$0	974m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411626	7 Edmond Close	06/08/2013	20/10/2013	13/03/2013	$700,000	841m	Full transfer	5	4	-	2	2	$700,000	146	-	Combined Record	-	-	-	Single residential dwelling	$321,000	0.46
+2013	390283	13 Rischbieth Crescent	06/03/2013	-	14/02/2013	$660,000	811m	Full transfer	6	2	1	2	-	$660,000	20	-	Allhomes Record	-	-	-	-	$307,000	0.47
+2013	401751	40 Rischbieth Crescent	04/04/2013	23/05/2013	-	$625,000	1042m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419444	12 Brickhill Place	11/12/2013	14/02/2014	17/10/2013	$600,000	1014m	Full transfer	4	2	1	3	3	$600,000	55	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.5
+2013	414074	8 Hain Place	04/10/2013	20/11/2013	13/08/2013	$600,000	910m	Full transfer	4	1	1	2	0	$600,000	52	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.6
+2013	421776	89 Rischbieth Crescent	06/12/2013	18/02/2014	13/11/2013	$582,500	1062m	Full transfer	4	1	1	2	-	$582,500	23	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.5
+2013	396048	32 Alice Jackson Crescent	11/05/2013	-	17/04/2013	$575,000	0m	Full transfer	5	2	-	2	0	$575,000	24	-	Allhomes Record	-	-	-	-	$226,000	0.39
+2013	408039	32 Alice Jackson Crescent	10/05/2013	12/08/2013	-	$575,000	833m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404224	8 Revill Place	26/04/2013	05/07/2013	18/03/2013	$575,000	981m	Full transfer	3	2	-	2	-	$575,000	39	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.54
+2013	393721	20 Rosman Circuit	12/04/2013	-	13/03/2013	$555,000	0m	Full transfer	3	2	-	2	0	$555,000	30	-	Allhomes Record	-	-	-	-	$292,000	0.53
+2013	411409	7 Henry Melville Crescent	16/09/2013	24/10/2013	-	$520,000	921m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418172	38 Henry Melville Crescent	24/10/2013	20/01/2014	02/07/2013	$518,000	926m	Full transfer	5	1	1	3	-	$518,000	114	-	Combined Record	202	-	-	Single residential dwelling	$296,000	0.57
+2013	394183	27 Australie Close	11/02/2013	02/04/2013	-	$505,000	749m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405062	3 Emily Bulcock Crescent	01/07/2013	31/07/2013	-	$505,000	865m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400713	85 Rischbieth Crescent	06/04/2013	28/05/2013	08/03/2013	$502,000	1041m	Full transfer	3	1	-	-	2	$502,000	29	-	Combined Record	124	-	-	Single residential dwelling	$292,000	0.58
+2013	396490	22 Willoughby Crescent	07/03/2013	26/04/2013	10/01/2013	$500,555	810m	Full transfer	4	2	-	2	0	$500,555	56	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.61
+2013	392063	1 Ferber Place	06/02/2013	07/03/2013	-	$500,000	1031m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415649	6 McKain Place	29/10/2013	09/12/2013	03/10/2013	$495,000	762m	Full transfer	3	2	-	1	0	$495,000	26	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.53
+2013	404223	22 Rosman Circuit	07/06/2013	05/07/2013	-	$490,000	918m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418457	20 Emily Bulcock Crescent	21/11/2013	08/01/2014	22/10/2013	$480,000	855m	Full transfer	3	1	1	2	0	$480,000	30	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.64
+2013	402298	7 Rosman Circuit	29/04/2013	25/06/2013	10/04/2013	$475,000	1063m	Full transfer	3	1	-	2	1	$475,000	19	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.67
+2013	400211	13 Ferber Place	23/03/2013	04/06/2013	27/02/2013	$473,500	834m	Full transfer	3	2	-	1	0	$473,500	24	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.67
+2013	415655	2 Emily Bulcock Crescent	21/10/2013	13/12/2013	-	$473,000	1003m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418170	2 Gellatly Place	16/11/2013	24/01/2014	15/10/2013	$468,000	973m	Full transfer	3	1	-	2	-	$468,000	32	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.62
+2013	416921	48 Henry Melville Crescent	30/10/2013	17/12/2013	03/10/2013	$462,000	776m	Full transfer	3	1	-	-	2	$462,000	27	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.6
+2013	398258	5 Arden Place	28/03/2013	14/05/2013	22/02/2013	$461,000	713m	Full transfer	3	1	-	0	2	$461,000	34	-	Combined Record	-	-	-	For residential purposes only	$289,000	0.63
+2013	395762	35 Pankhurst Crescent	01/05/2013	-	02/04/2013	$458,000	0m	Full transfer	3	1	-	2	0	$458,000	29	-	Allhomes Record	-	-	-	-	$356,000	0.78
+2013	413077	17 Australie Close	04/09/2013	29/10/2013	31/07/2013	$453,000	827m	Full transfer	3	1	-	2	-	$453,000	35	-	Combined Record	-	-	-	Single residential dwelling	$236,000	0.52
+2013	421314	2 Ferber Place	23/11/2013	27/02/2014	31/10/2013	$451,000	839m	Full transfer	3	1	1	0	2	$451,000	23	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.67
+2013	388773	21 Rosman Circuit	07/02/2013	-	14/12/2012	$450,000	0m	Full transfer	3	2	-	2	0	$450,000	55	-	Allhomes Record	-	-	-	-	$317,000	0.7
+2013	414077	18 May Maxwell Crescent	21/08/2013	20/11/2013	-	$450,000	1240m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404421	67 Hambidge Crescent	15/08/2013	-	04/07/2013	$445,000	711m	Full transfer	3	1	-	1	-	$445,000	42	-	Allhomes Record	-	-	-	-	$284,000	0.64
+2013	398257	2 Budd Place	21/03/2013	15/05/2013	-	$445,000	905m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411820	9 Hadow Place	15/07/2013	17/09/2013	-	$444,700	1137m	Full transfer	-	-	-	-	-	$444,700	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	400710	            1/8B Penton Place	26/04/2013	28/05/2013	-	$435,500	869m	Full transfer	-	-	-	-	-	$435,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394773	            8A Penton Place	26/04/2013	-	15/02/2013	$435,500	-	Full transfer	3	1	1	1	-	$435,500	70	-	Allhomes Record	133	-	-	-	-	-
+2013	400711	28 May Maxwell Crescent	30/04/2013	28/05/2013	27/03/2013	$435,000	1265m	Full transfer	3	1	-	-	2	$435,000	34	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.65
+2013	397683	51 Rosman Circuit	15/03/2013	09/05/2013	-	$431,500	1003m	Full transfer	-	-	-	-	-	$431,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407265	51 Louisa Lawson Crescent	27/03/2013	26/08/2013	06/03/2013	$430,000	764m	Full transfer	3	1	-	-	1	$430,000	21	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.71
+2013	415652	6 Donald Place	05/11/2013	12/12/2013	03/10/2013	$425,000	947m	Full transfer	3	1	-	2	-	$425,000	33	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.69
+2013	411822	4 Wolfe Place	20/08/2013	19/09/2013	-	$420,000	945m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	385602	8 Rolph Place	15/01/2013	-	09/10/2012	$415,000	1200m	Full transfer	3	2	1	-	2	$415,000	98	-	Allhomes Record	-	-	-	-	$259,000	0.62
+2013	391741	            2/8 Rolph Place	15/01/2013	26/02/2013	-	$415,000	1200m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	411411	213 Heagney Crescent	17/08/2013	24/10/2013	-	$410,000	814m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394368	49 Alice Jackson Crescent	15/02/2013	28/03/2013	-	$400,000	805m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418455	264 Heagney Crescent	05/05/2013	10/01/2014	-	$395,000	839m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415651	5/17 Luffman Crescent	14/10/2013	11/12/2013	-	$392,500	1827m	Full transfer	-	-	-	-	-	$392,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	408037	4/17 Luffman Crescent	26/06/2013	14/08/2013	09/05/2013	$389,000	1827m	Full transfer	2	1	1	1	0	$389,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	$0	0.0
+2013	423264	31 Willoughby Crescent	23/08/2013	21/03/2014	-	$312,500	1093m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	432468	36 Emily Bulcock Crescent	18/12/2013	05/08/2014	-	$0	861m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394519	1 Budd Place	08/01/2013	22/03/2013	-	$0	940m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416920	4 Brickhill Place	30/10/2013	18/12/2013	-	$0	742m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	401752	18 Watterson Place	11/02/2013	21/05/2013	-	$0	1080m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411412	213 Heagney Crescent	06/02/2013	24/10/2013	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418456	127 Louisa Lawson Crescent	13/09/2013	07/01/2014	-	$0	812m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416919	1 Hadow Place	22/10/2013	16/12/2013	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416918	59 Alice Jackson Crescent	05/11/2013	19/12/2013	-	$0	651m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413353	9 Ferber Place	10/07/2013	07/11/2013	-	$0	1000m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419443	33 Louisa Lawson Crescent	22/08/2013	10/02/2014	-	$0	991m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446796	9 Jeanette Place	09/12/2014	11/02/2015	-	$630,000	1557m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	421696	6 Finlayson Place	04/02/2014	07/03/2014	29/10/2013	$630,000	953m	Full transfer	4	2	1	2	-	$630,000	98	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.59
+2014	445113	47 Willoughby Crescent	08/12/2014	06/02/2015	23/09/2014	$620,000	933m	Full transfer	6	2	-	2	0	$620,000	76	-	Combined Record	-	-	-	Single residential dwelling...	$322,000	0.52
+2014	424584	62 Rischbieth Crescent	26/02/2014	14/04/2014	15/01/2014	$605,000	811m	Full transfer	4	1	1	2	-	$605,000	42	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.5
+2014	439546	30 Willoughby Crescent	15/08/2014	10/11/2014	-	$600,000	950m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437904	14 Finlayson Place	11/08/2014	24/10/2014	16/07/2014	$600,000	1296m	Full transfer	3	2	-	2	1	$600,000	26	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.72
+2014	441255	21 Rischbieth Crescent	27/10/2014	02/12/2014	25/08/2014	$575,000	845m	Full transfer	4	1	1	2	-	$575,000	63	-	Combined Record	154	-	-	Single residential dwelling	$300,000	0.52
+2014	437559	10 Finlayson Place	28/08/2014	14/10/2014	12/08/2014	$570,000	689m	Full transfer	4	1	1	2	-	$570,000	16	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.55
+2014	446398	41 Rischbieth Crescent	29/11/2014	17/02/2015	-	$570,000	1225m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426513	6 Catts Place	12/03/2014	09/05/2014	14/02/2014	$565,000	1297m	Full transfer	4	1	1	3	-	$565,000	26	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.56
+2014	432994	8 Edmond Close	08/07/2014	15/08/2014	18/06/2014	$565,000	1061m	Full transfer	4	1	-	2	-	$565,000	20	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.62
+2014	436185	59 Henry Melville Crescent	22/09/2014	25/09/2014	-	$559,950	1354m	Full transfer	-	-	-	-	-	$559,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440353	18 Luffman Crescent	22/08/2014	20/11/2014	29/05/2014	$546,500	824m	Full transfer	5	1	1	2	-	$546,500	85	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.53
+2014	431586	4 Watterson Place	18/06/2014	25/07/2014	15/01/2014	$534,000	730m	Full transfer	4	1	1	1	-	$534,000	154	-	Combined Record	156	-	-	Single residential dwelling	$285,000	0.53
+2014	424586	91 Rischbieth Crescent	21/02/2014	14/04/2014	22/01/2014	$531,000	877m	Full transfer	4	1	1	2	2	$531,000	30	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.54
+2014	419441	21 Alice Jackson Crescent	16/01/2014	12/02/2014	05/12/2013	$530,000	1253m	Full transfer	4	1	1	2	-	$530,000	42	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.4
+2014	440129	8 Hogue Place	15/09/2014	24/11/2014	03/03/2014	$525,000	898m	Full transfer	4	1	1	2	0	$525,000	196	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.59
+2014	428607	19 Aronson Crescent	29/01/2014	03/06/2014	07/01/2014	$520,000	730m	Full transfer	4	1	1	2	-	$520,000	22	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.53
+2014	426515	97 Henry Melville Crescent	03/04/2014	07/05/2014	29/01/2014	$512,000	838m	Full transfer	4	1	1	-	1	$512,000	64	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.58
+2014	434025	234 Heagney Crescent	15/05/2014	25/08/2014	03/04/2014	$508,000	686m	Full transfer	4	2	-	2	0	$508,000	42	-	Combined Record	-	-	-	Single residential dwelling	$227,000	0.45
+2014	427179	22 Rosman Circuit	19/03/2014	13/05/2014	24/02/2014	$500,000	918m	Full transfer	4	1	1	2	-	$500,000	23	-	Combined Record	157	-	-	Single residential dwelling	$302,000	0.6
+2014	434027	17 Emily Bulcock Crescent	25/07/2014	28/08/2014	22/05/2014	$498,000	843m	Full transfer	4	2	-	2	0	$498,000	64	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.6
+2014	423970	7 Hain Place	27/02/2014	02/04/2014	27/01/2014	$495,000	829m	Full transfer	4	1	1	-	2	$495,000	31	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.73
+2014	432150	24 Willoughby Crescent	01/07/2014	28/07/2014	-	$490,000	966m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432992	23 May Maxwell Crescent	21/03/2014	14/08/2014	18/02/2014	$490,000	1061m	Full transfer	3	1	1	2	-	$490,000	31	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.72
+2014	429033	191 Heagney Crescent	24/03/2014	12/06/2014	-	$482,500	901m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424582	5 Australie Close	24/02/2014	15/04/2014	12/02/2014	$475,000	819m	Full transfer	3	1	-	2	-	$475,000	12	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.56
+2014	441674	4 Brickhill Place	23/10/2014	09/12/2014	-	$460,000	742m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424339	10 Brickhill Place	31/01/2014	09/04/2014	12/11/2013	$460,000	886m	Full transfer	3	1	-	0	1	$460,000	80	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.6
+2014	445115	4 Hain Place	12/12/2014	03/02/2015	27/10/2014	$455,000	902m	Full transfer	3	1	-	1	2	$455,000	46	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.78
+2014	429031	24 May Maxwell Crescent	29/04/2014	10/06/2014	-	$446,000	921m	Full transfer	-	-	-	-	-	$446,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435733	11 Willoughby Crescent	07/08/2014	16/09/2014	09/04/2014	$435,000	1095m	Full transfer	3	1	-	-	1	$435,000	120	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.67
+2014	417590	14 Watterson Place	12/02/2014	-	21/10/2013	$432,000	684m	Full transfer	3	1	-	4	-	$432,000	114	-	Allhomes Record	107	-	-	-	$292,000	0.68
+2014	438963	60 Alice Jackson Crescent	12/08/2014	07/11/2014	04/02/2014	$430,000	857m	Full transfer	3	1	-	2	-	$430,000	189	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.67
+2014	438967	25 Henry Melville Crescent	13/09/2014	07/11/2014	-	$429,000	816m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424341	22 Henry Melville Crescent	22/01/2014	11/04/2014	03/12/2013	$425,000	779m	Full transfer	3	1	-	2	0	$425,000	50	-	Combined Record	-	-	-	Single residential dwelling	$272,000	0.64
+2014	447213	67 Rischbieth Crescent	29/12/2014	24/02/2015	05/12/2014	$425,000	741m	Full transfer	3	2	-	0	1	$425,000	24	-	Combined Record	-	-	-	Single residential dwelling	$254,000	0.6
+2014	428244	44 Henry Melville Crescent	11/04/2014	20/05/2014	20/01/2014	$422,500	778m	Full transfer	3	1	1	1	1	$422,500	81	-	Combined Record	129	-	-	Single residential dwelling	$272,000	0.64
+2014	427645	1 Wolfe Place	18/03/2014	30/04/2014	12/02/2014	$415,000	932m	Full transfer	3	1	0	2	-	$415,000	34	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.73
+2014	448320	7 Arden Place	19/12/2014	03/03/2015	13/11/2014	$410,000	814m	Full transfer	3	1	-	1	2	$410,000	36	-	Combined Record	-	-	-	Single residential dwelling...	$309,000	0.75
+2014	431117	9 Ferber Place	26/05/2014	14/07/2014	31/01/2014	$383,000	1000m	Full transfer	3	1	-	1	0	$383,000	115	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.85
+2014	446797	23 Louisa Lawson Crescent	18/12/2014	12/02/2015	-	$380,000	948m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	438431	1 Wolfe Place	24/11/2014	-	06/05/2014	$350,000	922m	Full transfer	3	1	-	2	-	$350,000	202	-	Allhomes Record	-	-	-	-	$301,000	0.86
+2014	452845	29 Rosman Circuit	26/07/2014	11/05/2015	-	$0	1026m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443803	26 Emily Bulcock Crescent	02/10/2014	14/01/2015	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430275	17 Australie Close	12/06/2014	09/07/2014	-	$0	827m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435732	            1/9 Penton Place	18/07/2014	15/09/2014	-	$0	1340m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438965	49 Willoughby Crescent	14/04/2014	06/11/2014	-	$0	863m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429545	35 Hambidge Crescent	21/03/2014	17/06/2014	-	$0	746m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	470242	2 Kidgell Place	26/11/2014	18/01/2016	-	$0	1323m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	449877	46 Henry Melville Crescent	04/08/2014	09/04/2015	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437906	6 Brickhill Place	11/09/2014	20/10/2014	28/08/2014	$0	744m	Full transfer	3	1	-	-	2	$0	14	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.86
+2014	438638	87 Henry Melville Crescent	08/08/2014	27/10/2014	-	$0	928m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424338	1/19 May Maxwell Crescent	03/03/2014	10/04/2014	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469335	32 Willoughby Crescent	21/11/2015	11/01/2016	21/10/2015	$648,000	969m	Full transfer	4	2	-	2	-	$648,000	31	-	Combined Record	181	-	-	Single residential dwelling	$292,000	0.45
+2015	460240	7 Jeanette Place	01/07/2015	24/08/2015	-	$605,000	1394m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461746	79 Alice Jackson Crescent	02/10/2015	-	02/09/2015	$560,000	0m	Full transfer	4	2	-	0	2	$560,000	30	-	Allhomes Record	-	-	-	-	$213,000	0.38
+2015	451075	128 Louisa Lawson Crescent	17/03/2015	28/04/2015	04/03/2015	$557,000	1083m	Full transfer	4	2	-	2	0	$557,000	13	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.63
+2015	455235	3 Aronson Crescent	09/04/2015	16/06/2015	09/09/2014	$548,000	1050m	Full transfer	5	1	1	-	2	$548,000	212	-	Combined Record	-	-	-	Single residential dwelling	$314,000	0.57
+2015	459832	8 Wolfe Place	24/06/2015	18/08/2015	26/03/2015	$525,000	847m	Full transfer	5	2	-	2	0	$525,000	90	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.59
+2015	464854	91 Rischbieth Crescent	10/08/2015	24/10/2015	-	$510,000	877m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470840	252 Heagney Crescent	13/11/2015	08/02/2016	25/03/2015	$496,000	884m	Full transfer	3	1	-	-	4	$496,000	233	-	Combined Record	112	-	-	Retail;pers-service,eat & d...	$301,000	0.61
+2015	468764	20 Louisa Lawson Crescent	03/11/2015	07/01/2016	02/10/2015	$475,000	717m	Full transfer	3	1	-	2	-	$475,000	32	-	Combined Record	-	-	-	For residential purposes only	$301,000	0.63
+2015	463538	6 Donald Place	25/08/2015	15/10/2015	22/07/2015	$467,000	947m	Full transfer	3	1	-	2	-	$467,000	34	-	Combined Record	118	-	-	Single residential dwelling	$304,000	0.65
+2015	454320	16 Australie Close	15/04/2015	12/06/2015	02/02/2015	$463,000	875m	Full transfer	3	1	-	2	2	$463,000	72	-	Combined Record	97	-	-	Single residential dwelling	$267,000	0.58
+2015	470080	6/34 Luffman Crescent	05/11/2015	03/02/2016	01/07/2015	$461,500	1551m	Full transfer	3	1	1	2	-	$461,500	127	-	Combined Record	116	-	-	Multiple unit dwelling	$1,351,000	2.93
+2015	458100	40 Henry Melville Crescent	09/06/2015	20/07/2015	-	$460,000	880m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472354	11 Willoughby Crescent	03/12/2015	24/02/2016	09/11/2015	$460,000	1095m	Full transfer	3	1	-	0	1	$460,000	24	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.63
+2015	462131	82 Rischbieth Crescent	10/08/2015	24/09/2015	15/07/2015	$445,000	928m	Full transfer	3	1	1	-	2	$445,000	26	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.67
+2015	452535	10 Ferber Place	30/03/2015	19/05/2015	25/02/2015	$440,000	896m	Full transfer	3	1	-	1	-	$440,000	33	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.71
+2015	444456	46 Henry Melville Crescent	14/02/2015	-	14/01/2015	$430,000	776m	Full transfer	3	1	-	-	2	$430,000	31	-	Allhomes Record	-	-	-	-	$272,000	0.63
+2015	465362	24 Rosman Circuit	24/08/2015	03/11/2015	-	$425,000	1077m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457397	6 Wolfe Place	15/04/2015	03/07/2015	05/03/2015	$425,000	862m	Full transfer	3	1	-	2	0	$425,000	41	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.73
+2015	461542	2/19 May Maxwell Crescent	31/03/2015	09/09/2015	14/01/2015	$420,000	945m	Full transfer	2	1	-	2	-	$420,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	$400,000	0.95
+2015	458985	12 Willoughby Crescent	10/06/2015	07/08/2015	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	459848	280 Heagney Crescent	30/01/2015	20/08/2015	-	$0	879m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460245	27 Henry Melville Crescent	08/07/2015	28/08/2015	-	$0	937m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464849	12 Alice Jackson Crescent	27/08/2015	19/10/2015	-	$0	704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487442	16 May Maxwell Crescent	28/12/2015	28/09/2016	-	$0	923m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503296	12 Litchfield Place	01/12/2016	05/04/2017	-	$732,000	1076m	Full transfer	-	-	-	-	-	$732,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494809	71 Alice Jackson Crescent	29/10/2016	11/01/2017	28/09/2016	$675,000	950m	Full transfer	4	2	-	2	0	$675,000	31	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.39
+2016	484307	17 Alice Jackson Crescent	09/07/2016	19/08/2016	15/06/2016	$660,000	1050m	Full transfer	4	1	1	0	2	$660,000	24	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.41
+2016	478265	24 Rosman Circuit	19/03/2016	16/05/2016	15/02/2016	$652,000	1077m	Full transfer	4	2	-	0	0	$652,000	33	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.53
+2016	479278	6 Penton Place	21/04/2016	01/06/2016	16/02/2016	$620,000	830m	Full transfer	5	1	1	2	0	$620,000	65	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.48
+2016	481177	188 Heagney Crescent	13/05/2016	14/07/2016	10/03/2016	$588,000	978m	Full transfer	5	1	1	4	-	$588,000	64	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.52
+2016	493130	96 Louisa Lawson Crescent	21/10/2016	07/12/2016	18/08/2016	$584,000	969m	Full transfer	4	2	-	2	2	$584,000	64	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.64
+2016	475428	58 Rosman Circuit	13/02/2016	15/04/2016	18/01/2016	$581,250	1163m	Full transfer	4	1	1	2	-	$581,250	26	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.6
+2016	495853	            2/23 May Maxwell Crescent	22/08/2016	04/01/2017	-	$579,000	1061m	Full transfer	-	-	-	-	-	$579,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482856	23B May Maxwell Crescent	22/08/2016	-	19/07/2016	$579,000	0m	Full transfer	4	2	-	0	2	$579,000	34	-	Allhomes Record	-	-	-	-	$374,000	0.65
+2016	476675	77 Alice Jackson Crescent	15/03/2016	28/04/2016	10/02/2016	$573,000	810m	Full transfer	4	2	-	2	-	$573,000	34	-	Combined Record	183	-	-	Single residential dwelling	$260,000	0.45
+2016	488134	11 Rischbieth Crescent	20/08/2016	12/10/2016	19/07/2016	$570,000	787m	Full transfer	3	1	1	2	-	$570,000	32	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.5
+2016	490811	10 Edmond Close	13/08/2016	17/11/2016	20/07/2016	$560,000	1006m	Full transfer	4	2	-	2	-	$560,000	24	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.66
+2016	489332	204 Heagney Crescent	27/08/2016	19/10/2016	04/08/2016	$555,000	907m	Full transfer	3	2	-	2	0	$555,000	23	-	Combined Record	-	-	-	Single residential dwelling	$304,000	0.55
+2016	472097	6 Revill Place	16/03/2016	-	25/02/2016	$555,000	-	Full transfer	4	1	1	2	-	$555,000	20	-	Allhomes Record	-	-	-	-	$299,000	0.54
+2016	478277	5 Rischbieth Crescent	10/03/2016	17/05/2016	11/02/2016	$550,200	736m	Full transfer	4	1	1	2	-	$550,200	28	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.52
+2016	480053	34 Willoughby Crescent	24/03/2016	22/06/2016	03/03/2016	$535,500	950m	Full transfer	3	2	-	0	2	$535,500	21	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.61
+2016	495100	47 Rosman Circuit	18/11/2016	11/01/2017	27/10/2016	$515,000	813m	Full transfer	3	1	-	4	0	$515,000	22	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.67
+2016	481019	232 Heagney Crescent	13/05/2016	07/07/2016	06/04/2016	$500,000	753m	Full transfer	3	1	-	2	-	$500,000	37	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.51
+2016	479864	12 Australie Close	04/07/2016	-	05/05/2016	$495,000	0m	Full transfer	3	1	-	2	0	$495,000	60	-	Allhomes Record	-	-	-	-	$291,000	0.59
+2016	475427	73 Rischbieth Crescent	13/01/2016	12/04/2016	-	$484,000	973m	Full transfer	-	-	-	-	-	$484,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484910	68 Henry Melville Crescent	07/07/2016	19/08/2016	08/06/2016	$483,000	782m	Full transfer	3	1	-	2	0	$483,000	29	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.54
+2016	479717	2/8 Edmond Close	24/06/2016	-	06/05/2016	$473,000	-	Full transfer	3	1	1	2	-	$473,000	49	-	Allhomes Record	-	-	-	-	$369,000	0.78
+2016	485306	            3/8 Edmond Close	24/06/2016	16/08/2016	-	$472,000	1061m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488136	            1/8 Edmond Close	24/08/2016	12/10/2016	-	$467,000	1061m	Full transfer	-	-	-	-	-	$467,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483404	8 Pankhurst Crescent	10/05/2016	04/08/2016	-	$465,000	889m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486795	            2/8 Edmond Close	25/07/2016	12/09/2016	-	$460,000	1061m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474270	2 Gellatly Place	22/04/2016	-	03/03/2016	$458,000	0m	Full transfer	3	1	-	2	0	$458,000	50	-	Allhomes Record	-	-	-	-	$320,000	0.7
+2016	479546	2 Gellatly Place	21/04/2016	06/06/2016	24/05/2016	$458,000	973m	Full transfer	3	1	-	2	0	$458,000	-	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.7
+2016	492004	9A Penton Place	22/12/2016	-	01/11/2016	$455,000	0m	Full transfer	3	1	-	0	1	$455,000	51	-	Allhomes Record	-	-	-	-	$451,000	0.99
+2016	495443	            1/9 Penton Place	22/11/2016	03/02/2017	-	$455,000	1340m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493404	23A May Maxwell Crescent	21/12/2016	-	17/10/2016	$454,000	0m	Full transfer	3	2	-	0	2	$454,000	65	-	Allhomes Record	-	-	-	-	$374,000	0.82
+2016	486018	3A Rolph Place	05/10/2016	-	25/08/2016	$430,000	904m	Full transfer	3	1	1	2	0	$430,000	41	-	Allhomes Record	-	-	-	-	$393,000	0.91
+2016	492971	29 Australie Close	04/08/2016	06/12/2016	18/05/2016	$430,000	1122m	Full transfer	3	1	-	0	2	$430,000	78	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.63
+2016	493778	            2/3 Rolph Place	05/10/2016	20/12/2016	-	$430,000	904m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500068	101 Henry Melville Crescent	23/12/2016	09/03/2017	-	$430,000	895m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483767	8A Luffman Crescent	30/08/2016	-	21/04/2016	$420,000	0m	Full transfer	3	1	-	0	2	$420,000	131	-	Allhomes Record	-	-	-	-	$387,000	0.92
+2016	475430	39 Emily Bulcock Crescent	18/02/2016	15/04/2016	09/11/2015	$420,000	1080m	Full transfer	3	1	-	0	1	$420,000	101	-	Combined Record	-	-	-	Single residential dwelling	$373,000	0.89
+2016	488128	            1/8 Luffman Crescent	30/08/2016	12/10/2016	-	$420,000	1033m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480561	52 Henry Melville Street	01/07/2016	-	24/05/2016	$417,000	0m	Full transfer	3	1	-	6	1	$417,000	38	-	Allhomes Record	-	-	-	-	$326,000	0.78
+2016	497154	208 Heagney Crescent	16/12/2016	10/02/2017	-	$410,000	787m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	472687	1/17-19 Luffman Crescent	24/03/2016	-	24/03/2015	$385,000	1827m	Full transfer	2	1	1	1	-	$385,000	366	-	Allhomes Record	-	-	-	-	$1,195,000	3.1
+2016	479545	1/17 Luffman Crescent	24/03/2016	07/06/2016	-	$385,000	1827m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474895	2/57 Alice Jackson Crescent	02/05/2016	-	09/02/2016	$370,000	-	Full transfer	2	1	1	1	-	$370,000	83	-	Allhomes Record	105	-	-	-	-	-
+2016	480739	16 Willoughby Crescent	05/04/2016	01/07/2016	20/01/2016	$0	806m	Full transfer	4	2	-	2	-	$0	76	-	Combined Record	-	-	-	Single residential dwelling	$335,000	3.1
+2016	550115	22 Watterson Place	18/02/2016	11/12/2018	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	517068	66 Henry Melville Crescent	19/11/2016	01/08/2017	-	$0	811m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489211	3 Australie Close	03/03/2016	17/10/2016	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	562239	20 Louisa Lawson Crescent	09/11/2016	04/06/2019	-	$0	717m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2016	482051	25 Rischbieth Crescent	31/03/2016	21/07/2016	-	$0	1563m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	514841	4/34 Luffman Crescent	07/09/2016	04/07/2017	-	$0	1551m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503173	286 Heagney Crescent	26/10/2016	04/04/2017	-	$0	816m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483272	47 Louisa Lawson Crescent	26/05/2016	05/08/2016	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483373	2 Budd Place	12/05/2016	02/08/2016	-	$0	905m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496938	44 Henry Melville Crescent	12/10/2016	09/02/2017	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495531	106 Louisa Lawson Crescent	02/10/2016	01/02/2017	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	533924	1 Alice Jackson Crescent	05/09/2016	31/05/2018	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	559892	1/23 Alice Jackson Crescent	11/11/2016	21/05/2019	-	$0	950m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482136	11 John Close	08/03/2016	21/07/2016	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	522490	4 Catts Place	25/07/2017	11/01/2018	-	$765,000	1768m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523712	64 Henry Melville Crescent	24/10/2017	17/01/2018	12/10/2017	$751,000	732m	Full transfer	4	3	-	2	0	$751,000	12	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.35
+2017	521596	45 May Maxwell Crescent	18/09/2017	22/12/2017	-	$745,000	1110m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507955	45/45A May Maxwell Crescent	18/09/2017	-	24/08/2016	$745,000	0m	Full transfer	8	4	-	0	3	$745,000	390	-	Allhomes Record	-	-	-	-	$374,000	0.5
+2017	496568	1 Maling Place	07/03/2017	-	09/02/2017	$690,000	0m	Full transfer	4	2	-	3	0	$690,000	26	-	Allhomes Record	-	-	-	-	-	-
+2017	528673	9 Willoughby Crescent	20/10/2017	21/03/2018	12/10/2017	$690,000	1054m	Full transfer	4	2	-	2	-	$690,000	8	-	Combined Record	164	-	-	Single residential dwelling	$350,000	0.51
+2017	504894	85 Henry Melville Crescent	28/02/2017	05/05/2017	-	$685,000	1184m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496240	             Henry Melville Crescent	28/02/2017	-	21/09/2016	$685,000	-	Full transfer	4	2	-	1	1	$685,000	160	-	Allhomes Record	-	-	-	-	$277,000	0.4
+2017	513733	13 Luffman Crescent	31/03/2017	01/06/2017	23/03/2017	$680,000	695m	Full transfer	4	2	-	4	0	$680,000	8	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.5
+2017	517714	37 Louisa Lawson Crescent	08/07/2017	29/08/2017	14/06/2017	$635,000	957m	Partial transfer	4	2	-	2	-	$635,000	24	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.59
+2017	525639	7 Roxon Place	28/11/2017	13/02/2018	16/11/2017	$620,000	768m	Full transfer	3	1	1	2	-	$620,000	12	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.52
+2017	514908	286 Heagney Crescent	28/04/2017	05/07/2017	29/03/2017	$615,000	816m	Full transfer	5	2	-	4	0	$615,000	30	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.51
+2017	525936	10 Australie Close	25/11/2017	14/02/2018	02/11/2017	$614,000	944m	Full transfer	4	2	-	0	2	$614,000	23	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.52
+2017	514027	78 Rischbieth Crescent	04/05/2017	13/06/2017	06/04/2017	$610,000	878m	Full transfer	3	1	-	2	-	$610,000	28	-	Combined Record	138	-	-	Single residential dwelling	$320,000	0.52
+2017	517584	9 Arden Place	13/06/2017	21/08/2017	09/01/2017	$608,000	1056m	Full transfer	6	1	1	0	2	$608,000	155	-	Combined Record	-	-	-	Single residential dwelling...	$326,000	0.54
+2017	502853	19 Rosman Circuit	22/02/2017	13/04/2017	-	$550,000	799m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	531649	234 Heagney Crescent	24/10/2017	26/04/2018	-	$550,000	686m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510315	18 May Maxwell Crescent	27/11/2017	-	01/11/2017	$543,000	1240m	Full transfer	3	1	1	-	2	$543,000	26	-	Allhomes Record	-	-	-	-	$293,000	0.54
+2017	513744	17 Rosman Circuit	15/03/2017	30/05/2017	22/02/2017	$535,000	799m	Full transfer	3	1	-	2	0	$535,000	21	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.53
+2017	513175	52 May Maxwell Crescent	20/04/2017	07/06/2017	08/02/2017	$535,000	856m	Full transfer	4	2	-	2	2	$535,000	71	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.63
+2017	515138	7 Doughty Place	18/05/2017	11/07/2017	31/03/2017	$532,500	1151m	Full transfer	3	2	-	0	2	$532,500	48	-	Combined Record	-	-	-	Single residential dwelling	$366,000	0.69
+2017	514452	17 Watterson Place	08/05/2017	05/07/2017	31/03/2017	$525,000	1007m	Full transfer	3	1	-	4	-	$525,000	38	-	Combined Record	117	-	-	Single residential dwelling	$374,000	0.71
+2017	521618	8 Roxon Place	06/10/2017	20/12/2017	29/08/2017	$519,000	857m	Full transfer	4	1	-	2	1	$519,000	38	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.68
+2017	522175	14 Australie Close	28/09/2017	14/12/2017	31/08/2017	$510,000	704m	Full transfer	3	1	-	1	0	$510,000	28	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.61
+2017	518249	4 Hain Place	04/07/2017	28/08/2017	04/05/2017	$510,000	902m	Full transfer	3	1	-	0	2	$510,000	61	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.73
+2017	519764	6 Gellatly Place	11/05/2017	17/10/2017	-	$505,000	744m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521239	5 Luffman Crescent	28/09/2017	05/12/2017	16/08/2017	$501,500	665m	Full transfer	3	1	-	2	0	$501,500	43	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.67
+2017	521304	57 Hambidge Crescent	06/09/2017	04/12/2017	-	$500,000	779m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509099	            23 Pankhurst Crescent	26/10/2017	-	10/10/2017	$491,000	-	Full transfer	3	1	-	1	-	$491,000	16	-	Allhomes Record	121	-	-	-	-	-
+2017	520743	1 Willoughby Crescent	05/08/2017	20/11/2017	11/07/2017	$490,000	967m	Full transfer	3	1	-	2	-	$490,000	25	-	Combined Record	121	-	-	Single residential dwelling	$334,000	0.68
+2017	519353	1/8 Rolph Place	26/06/2017	13/10/2017	30/05/2017	$485,000	1200m	Full transfer	3	2	-	2	-	$485,000	27	-	Combined Record	133	-	-	Multiple unit dwelling	-	-
+2017	503151	51 Louisa Lawson Crescent	23/02/2017	05/04/2017	31/01/2017	$480,000	764m	Full transfer	3	1	-	1	0	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.75
+2017	521833	56 Alice Jackson Crescent	11/10/2017	05/01/2018	20/09/2017	$475,000	744m	Full transfer	3	1	-	1	-	$475,000	21	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.59
+2017	514073	25 May Maxwell Crescent	19/04/2017	29/06/2017	02/03/2017	$475,000	849m	Full transfer	3	2	-	0	1	$475,000	48	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.71
+2017	515501	135 Louisa Lawson Crescent	17/03/2017	10/07/2017	08/03/2017	$470,000	877m	Full transfer	3	1	-	0	2	$470,000	9	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.68
+2017	522834	6 Henry Melville Crescent	15/09/2017	09/01/2018	01/08/2017	$465,000	1085m	Full transfer	3	1	-	4	0	$465,000	45	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.7
+2017	514076	8 Gellatly Place	09/05/2017	13/06/2017	31/03/2017	$462,500	691m	Full transfer	3	1	-	0	1	$462,500	39	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.6
+2017	522772	15 Aronson Crescent	03/11/2017	14/01/2018	19/09/2017	$460,000	862m	Full transfer	3	1	-	2	-	$460,000	45	-	Combined Record	126	-	-	Single residential dwelling...	$317,000	0.69
+2017	499059	            1/23 May Maxwell Crescent	10/01/2017	03/03/2017	-	$454,000	1061m	Full transfer	-	-	-	-	-	$454,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514620	2/19 May Maxwell Crescent	19/05/2017	05/07/2017	30/01/2017	$420,000	945m	Full transfer	2	1	-	2	-	$420,000	109	-	Combined Record	94	-	-	Multiple unit dwelling	-	-
+2017	514392	1/34 Luffman Crescent	16/03/2017	03/07/2017	21/04/2016	$356,000	1551m	Full transfer	2	1	1	1	-	$356,000	329	-	Combined Record	95	-	-	Multiple unit dwelling	$1,351,000	3.79
+2017	526822	5/34 Luffman Crescent	14/12/2017	05/03/2018	29/11/2017	$347,000	1551m	Full transfer	1	1	-	1	-	$347,000	15	-	Combined Record	76	-	-	Multiple unit dwelling	$1,351,000	3.89
+2017	514880	61 Emily Bulcock Crescent	24/04/2017	06/07/2017	-	$242,500	863m	Full transfer	-	-	-	-	-	$242,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	559891	68 Rosman Circuit	07/06/2017	23/05/2019	-	$0	1243m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516329	21 Aronson Crescent	08/02/2017	11/08/2017	-	$0	729m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520749	6 Hain Place	13/09/2017	20/11/2017	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523439	29 Willoughby Crescent	09/08/2017	16/01/2018	-	$0	881m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502581	20 Rischbieth Crescent	07/03/2017	11/04/2017	-	$0	1048m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512810	36 Alice Jackson Crescent	22/03/2017	24/05/2017	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525770	7 Roxon Place	01/06/2017	13/02/2018	-	$0	768m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521034	12 Watterson Place	12/07/2017	29/11/2017	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526215	            56 Rosman Circuit	07/06/2017	26/02/2018	-	$0	1299m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521361	3 Alice Jackson Crescent	02/08/2017	20/12/2017	-	$0	764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525360	1 Cleary Place	24/02/2018	-	31/01/2018	$846,000	0m	Full transfer	4	2	-	2	-	$846,000	24	-	Allhomes Record	-	-	-	-	$359,000	0.42
+2018	532307	            56 Rosman Circuit	24/02/2018	09/05/2018	-	$846,000	1299m	Full transfer	-	-	-	-	-	$846,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	526507	24 Finlayson Place	10/03/2018	-	14/02/2018	$842,000	753m	Full transfer	4	1	1	2	-	$842,000	24	-	Allhomes Record	-	-	-	-	$391,000	0.46
+2018	544286	9 Hain Place	07/09/2018	17/10/2018	26/06/2018	$760,000	1073m	Full transfer	5	2	-	2	0	$760,000	73	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.51
+2018	550390	12 Fenston Place	09/11/2018	09/01/2019	23/08/2018	$660,000	846m	Full transfer	4	2	-	2	1	$660,000	78	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.53
+2018	534140	2 John Close	26/02/2018	29/05/2018	11/10/2017	$650,000	1016m	Full transfer	4	1	1	0	2	$650,000	138	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.56
+2018	540271	40 Aronson Crescent	06/07/2018	23/08/2018	07/06/2018	$620,000	945m	Full transfer	4	2	-	2	1	$620,000	29	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.53
+2018	540964	23 Rosman Circuit	03/07/2018	29/08/2018	31/05/2018	$620,000	883m	Full transfer	5	2	-	2	0	$620,000	33	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.56
+2018	536478	13 Fenston Place	05/04/2018	25/06/2018	-	$620,000	812m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530766	10 Hogue Place	03/03/2018	19/04/2018	08/02/2018	$619,000	1074m	Full transfer	4	2	-	2	0	$619,000	23	-	Combined Record	-	-	-	Single residential dwelling	$367,000	0.59
+2018	542741	31 Louisa Lawson Crescent	03/08/2018	27/09/2018	11/07/2018	$610,000	784m	Full transfer	3	2	-	2	-	$610,000	23	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.57
+2018	544234	63 Hambidge Crescent	31/08/2018	17/10/2018	08/08/2018	$598,000	794m	Full transfer	3	1	-	2	0	$598,000	23	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.56
+2018	540170	10 May Maxwell Crescent	10/09/2018	-	08/08/2018	$590,000	1087m	Full transfer	3	2	-	2	0	$590,000	33	-	Allhomes Record	-	-	-	-	-	-
+2018	539364	44 Louisa Lawson Crescent	15/06/2018	08/08/2018	12/04/2018	$590,000	1132m	Full transfer	3	1	-	2	-	$590,000	64	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.54
+2018	551465	1 Case Place	10/09/2018	13/11/2018	-	$590,000	1087m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529145	27 Australie Close	25/01/2018	26/03/2018	21/11/2017	$590,000	749m	Full transfer	4	2	-	2	2	$590,000	65	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.47
+2018	529492	9 Australie Close	09/02/2018	04/04/2018	18/10/2017	$587,000	890m	Full transfer	3	2	-	0	2	$587,000	114	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.48
+2018	544531	43 May Maxwell Crescent	11/09/2018	17/10/2018	22/08/2018	$575,000	832m	Full transfer	3	2	-	2	-	$575,000	20	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.63
+2018	530507	42 Aronson Crescent	20/04/2018	-	22/03/2018	$568,000	0m	Full transfer	3	2	-	2	0	$568,000	29	-	Allhomes Record	-	-	-	-	$342,000	0.6
+2018	529596	5 Pankhurst Crescent	12/02/2018	05/04/2018	09/01/2018	$555,000	829m	Full transfer	3	2	-	0	1	$555,000	34	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.59
+2018	552995	252 Heagney Crescent	21/12/2018	07/02/2019	26/09/2018	$550,000	884m	Full transfer	3	1	-	2	2	$550,000	86	-	Combined Record	112	-	-	Retail;pers-service,eat & d...	$317,000	0.58
+2018	526980	6 Arden Place	18/01/2018	07/03/2018	-	$545,000	961m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511890	70 Rosman Circuit	12/02/2018	-	01/11/2017	$545,000	0m	Full transfer	3	1	-	2	0	$545,000	103	-	Allhomes Record	-	-	-	-	$347,000	0.64
+2018	529787	55 Emily Bulcock Crescent	01/02/2018	04/04/2018	29/08/2017	$545,000	929m	Full transfer	3	1	-	2	3	$545,000	156	-	Combined Record	124	-	-	Single residential dwelling	$337,000	0.62
+2018	547801	14 Vesta Place	06/09/2018	22/10/2018	01/08/2018	$538,500	1192m	Full transfer	3	1	-	2	0	$538,500	36	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.55
+2018	550198	32 Henry Melville Crescent	04/04/2018	14/12/2018	-	$525,000	784m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560726	127 Louisa Lawson Crescent	26/10/2018	07/01/2019	12/09/2018	$517,000	812m	Full transfer	3	1	-	0	1	$517,000	44	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.62
+2018	548684	6 Wolfe Place	05/12/2018	15/01/2019	31/10/2018	$485,000	862m	Full transfer	3	1	-	2	-	$485,000	35	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.67
+2018	548402	27 May Maxwell Crescent	19/09/2018	08/11/2018	20/08/2018	$476,000	749m	Full transfer	3	1	-	1	1	$476,000	30	-	Combined Record	-	-	-	Single residential dwelling...	$300,000	0.63
+2018	536317	199 Heagney Crescent	14/03/2018	25/06/2018	-	$450,000	871m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561165	47 Alice Jackson Crescent	19/12/2018	20/02/2019	-	$447,843	825m	Full transfer	-	-	-	-	-	$447,843	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546114	14B Litchfield Place	21/12/2018	-	18/10/2018	$400,000	0m	Full transfer	2	1	-	0	1	$400,000	64	-	Allhomes Record	-	-	-	-	$372,000	0.93
+2018	533964	3/17 Luffman Crescent	06/03/2018	31/05/2018	11/01/2018	$400,000	1827m	Full transfer	2	2	-	2	0	$400,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	552921	            2/14 Litchfield Place	21/12/2018	04/02/2019	-	$400,000	1076m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532412	59 May Maxwell Crescent	05/03/2018	08/05/2018	-	$255,000	749m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549872	1 Rischbieth Crescent	03/10/2018	20/12/2018	-	$250,000	860m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544084	4 Maling Place	03/10/2018	17/10/2018	-	$176,000	918m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552892	72 Rischbieth Crescent	10/11/2018	06/02/2019	-	$0	717m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548399	27 May Maxwell Crescent	19/10/2018	08/11/2018	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	566082	6 Hain Place	01/11/2018	29/07/2019	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546892	3 Australie Close	01/10/2018	30/11/2018	-	$0	688m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551093	4 Hadow Place	23/05/2018	07/01/2019	-	$0	948m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543925	18 Finlayson Place	17/07/2018	08/10/2018	-	$0	798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525868	35 Henry Melville Crescent	20/01/2018	14/02/2018	-	$0	1529m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541323	32 Willoughby Crescent	04/07/2018	06/09/2018	-	$0	969m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544357	4 Maling Place	28/04/2018	17/10/2018	-	$0	918m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568789	8 Jeanette Place	27/07/2019	05/09/2019	27/06/2019	$865,000	1531m	Full transfer	5	2	-	4	-	$865,000	30	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.41
+2019	575799	32 Willoughby Crescent	12/10/2019	05/12/2019	09/09/2019	$800,000	969m	Full transfer	4	1	1	2	-	$800,000	33	-	Combined Record	187	-	-	Single residential dwelling	$352,000	0.44
+2019	560615	14 Finlayson Place	23/04/2019	29/05/2019	18/03/2019	$742,000	1296m	Full transfer	3	2	-	2	1	$742,000	36	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.62
+2019	557828	12 Finlayson Place	08/03/2019	15/04/2019	21/01/2019	$740,000	859m	Full transfer	4	2	-	2	0	$740,000	46	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.53
+2019	567460	68 Rosman Circuit	18/06/2019	21/08/2019	31/05/2019	$705,000	1243m	Full transfer	4	3	1	2	2	$705,000	18	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.51
+2019	574876	10 Hadow Place	27/09/2019	13/11/2019	22/08/2019	$700,000	994m	Full transfer	4	2	1	2	-	$700,000	36	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.48
+2019	568212	6 Hadow Place	20/07/2019	28/08/2019	27/06/2019	$680,000	848m	Full transfer	4	2	-	2	0	$680,000	23	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.51
+2019	573909	5 May Maxwell Crescent	29/11/2019	-	24/10/2019	$672,000	866m	Full transfer	4	2	-	2	0	$672,000	36	-	Allhomes Record	-	-	-	-	$339,000	0.5
+2019	561272	34 Alice Jackson Crescent	19/03/2019	15/05/2019	24/01/2019	$670,000	888m	Full transfer	4	2	-	3	1	$670,000	54	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.42
+2019	576236	16 Australie Close	18/12/2019	-	14/11/2019	$635,000	0m	Full transfer	3	1	-	4	2	$635,000	34	-	Allhomes Record	-	-	-	-	$322,000	0.51
+2019	576559	3 Case Place	01/11/2019	13/12/2019	27/06/2019	$620,000	785m	Full transfer	4	2	-	2	0	$620,000	127	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.48
+2019	568838	6 Hain Place	27/07/2019	02/09/2019	10/07/2019	$610,000	845m	Full transfer	4	2	-	2	0	$610,000	17	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.63
+2019	567747	15 Australie Close	09/07/2019	20/08/2019	05/06/2019	$605,000	940m	Full transfer	4	2	-	2	0	$605,000	34	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.46
+2019	568094	7 Gellatly Place	09/07/2019	28/08/2019	22/05/2019	$595,000	1035m	Partial transfer	3	1	-	6	-	$595,000	48	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.55
+2019	572073	41 Louisa Lawson Crescent	13/11/2019	-	22/10/2019	$590,000	-	Full transfer	3	1	-	2	-	$590,000	22	-	Allhomes Record	122	-	-	-	$403,000	0.68
+2019	568224	30 Rischbieth Crescent	18/07/2019	27/08/2019	05/03/2019	$585,000	836m	Full transfer	3	1	1	2	-	$585,000	135	-	Combined Record	112	-	-	Single residential dwelling	$347,000	0.59
+2019	572687	16 Aronson Crescent	30/08/2019	24/10/2019	02/08/2019	$582,000	891m	Full transfer	3	2	-	2	0	$582,000	28	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.54
+2019	563369	43 Louisa Lawson Crescent	24/04/2019	26/06/2019	22/02/2019	$580,000	845m	Full transfer	3	2	-	0	2	$580,000	61	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.71
+2019	575425	68 Rischbieth Crescent	06/10/2019	26/11/2019	13/09/2019	$580,000	721m	Full transfer	3	2	-	0	2	$580,000	23	-	Combined Record	-	-	-	Single residential dwelling	$284,000	0.49
+2019	562201	45 Rosman Circuit	17/01/2019	06/06/2019	-	$580,000	952m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569271	45 Louisa Lawson Crescent	24/07/2019	11/09/2019	-	$575,000	811m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567890	1 Finlayson Place	08/07/2019	19/08/2019	27/03/2019	$572,000	785m	Full transfer	4	2	-	2	0	$572,000	103	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.58
+2019	556085	17 Australie Close	28/02/2019	28/03/2019	30/01/2019	$565,000	827m	Full transfer	3	1	-	-	3	$565,000	29	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.5
+2019	559871	1 Hadow Place	04/04/2019	20/05/2019	28/02/2019	$560,000	836m	Full transfer	3	2	-	2	0	$560,000	35	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.57
+2019	567559	41 Rosman Circuit	18/07/2019	21/08/2019	-	$550,000	802m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564238	29 Louisa Lawson Crescent	20/05/2019	01/07/2019	15/03/2019	$550,000	827m	Full transfer	3	2	-	1	1	$550,000	66	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.66
+2019	565104	280 Heagney Crescent	21/02/2019	08/07/2019	-	$550,000	879m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569289	5 McKain Place	05/08/2019	09/09/2019	10/07/2019	$547,500	847m	Full transfer	3	1	-	-	2	$547,500	26	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.63
+2019	569723	2 Arden Place	03/10/2019	-	22/11/2018	$540,000	769m	Full transfer	3	1	-	2	0	$540,000	315	-	Allhomes Record	-	-	-	-	$298,000	0.55
+2019	558920	23 Alice Jackson Crescent	17/05/2019	-	16/04/2019	$503,000	-	Full transfer	3	2	-	2	-	$503,000	31	-	Allhomes Record	-	-	-	-	$560,000	1.11
+2019	565089	1/23 Alice Jackson Crescent	17/05/2019	09/07/2019	-	$503,000	950m	Full transfer	-	-	-	-	-	$503,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556382	3 Australie Close	06/03/2019	25/03/2019	-	$485,000	688m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564531	4 Ferber Place	13/03/2019	17/07/2019	13/02/2019	$470,000	806m	Full transfer	3	1	-	0	0	$470,000	28	-	Combined Record	-	-	-	Single residential dwelling...	$327,000	0.7
+2019	555893	215 Heagney Crescent	24/01/2019	22/03/2019	20/12/2018	$450,000	943m	Full transfer	3	1	-	2	0	$450,000	35	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.78
+2019	555161	            2/8 Luffman Crescent	08/02/2019	14/03/2019	-	$420,000	1033m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	555708	8/17 Luffman Crescent	19/02/2019	20/03/2019	16/01/2019	$410,000	1827m	Full transfer	2	2	-	1	-	$410,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	555314	1 Finlayson Place	22/01/2019	14/03/2019	-	$410,000	785m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556168	4/17 Luffman Crescent	14/02/2019	26/03/2019	11/01/2019	$405,000	1827m	Full transfer	2	2	-	1	0	$405,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	556177	7/17 Luffman Crescent	18/02/2019	26/03/2019	05/12/2018	$402,000	1827m	Full transfer	2	2	-	1	-	$402,000	75	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	575413	192 Heagney Crescent	15/10/2019	27/11/2019	-	$400,000	801m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558483	3/34 Luffman Crescent	29/03/2019	02/05/2019	27/09/2018	$380,000	1551m	Full transfer	1	1	-	1	0	$380,000	183	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	569178	3 Aronson Crescent	26/07/2019	13/09/2019	-	$0	1050m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556259	1 Roxon Place	21/02/2019	28/03/2019	22/05/2018	$0	773m	Full transfer	3	2	-	4	2	$0	275	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.78
+2019	577475	3 Henry Melville Crescent	18/12/2019	-	21/11/2019	-	0m	Full transfer	5	2	-	2	0	-	27	-	Allhomes Record	-	-	-	-	$325,000	-
