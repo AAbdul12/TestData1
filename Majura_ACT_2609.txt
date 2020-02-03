@@ -1,0 +1,5 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2008	242522	744 Majura Road	16/08/2008	27/01/2009	-	-	263290m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2010	270455	76 Avonley Road	01/04/2010	21/09/2010	-	$1,300,000	1430330m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Residential	-	-
+2017	514489	            559 Sutton Road	03/05/2017	03/07/2017	-	$90,000	122988m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2019	570353	14 Avonley Road	30/07/2019	26/09/2019	-	$750,000	793849m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
