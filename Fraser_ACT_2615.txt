@@ -1,0 +1,599 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	165244	4 Waterman Place	04/09/2006	13/02/2007	07/07/2006	$535,000	1690m	Full transfer	4	2	1	2	-	$535,000	59	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.46
+2006	213193	6 Strathnairn Place	01/04/2006	20/06/2006	02/03/2006	$505,000	1114m	Full transfer	4	1	1	2	-	$505,000	30	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.35
+2006	34031	7 Bingley Crescent	28/10/2006	20/12/2006	04/10/2006	$505,000	1187m	Full transfer	4	1	1	-	2	$505,000	24	-	Combined Record	-	-	-	Single residential dwelling	$188,000	0.37
+2006	203603	16 Nott Street	05/07/2006	28/08/2006	-	$480,000	1067m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164155	34 Carrodus Street	31/05/2006	16/08/2006	-	$470,000	1319m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213087	6 Nish Place	27/05/2006	19/07/2006	04/05/2006	$439,000	1308m	Full transfer	4	1	1	2	-	$439,000	23	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.4
+2006	169390	25 Rogers Street	01/12/2006	21/02/2007	23/11/2006	$437,500	1140m	Full transfer	4	1	1	-	2	$437,500	8	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.32
+2006	165597	33 Shakespeare Crescent	06/11/2006	01/02/2007	19/10/2006	$430,000	1132m	Full transfer	4	1	1	2	-	$430,000	18	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.32
+2006	165577	45 Daley Crescent	08/12/2006	31/01/2007	-	$425,000	1043m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213154	10 Dowthwaite Street	27/04/2006	07/07/2006	24/02/2006	$423,000	940m	Full transfer	4	1	1	2	-	$423,000	62	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.33
+2006	169741	5 Wynn Street	03/11/2006	13/12/2006	19/10/2006	$419,000	1043m	Full transfer	5	2	1	1	1	$419,000	15	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.42
+2006	34730	1 Moir Place	12/07/2006	24/08/2006	14/06/2006	$413,000	1148m	Full transfer	4	1	1	-	2	$413,000	28	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.42
+2006	213145	77 Shakespeare Crescent	01/02/2006	16/03/2006	-	$400,000	1202m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213181	62 Shakespeare Crescent	10/02/2006	15/03/2006	02/12/2005	$400,000	1077m	Full transfer	4	1	1	-	2	$400,000	70	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.35
+2006	203399	205 Tillyard Drive	24/07/2006	11/09/2006	03/06/2006	$385,000	1255m	Full transfer	4	1	1	4	-	$385,000	51	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.34
+2006	409261	3/4 Lind Close	14/11/2006	06/03/2007	22/09/2006	$378,000	11837m	Full transfer	4	1	1	2	-	$378,000	53	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	165592	17 Foskett Street	11/12/2006	31/01/2007	16/11/2006	$375,000	980m	Full transfer	3	1	1	-	2	$375,000	25	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.47
+2006	169427	2 Rochford Street	27/07/2006	20/02/2007	-	$375,000	1085m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202954	37 Bingley Crescent	01/11/2006	04/01/2007	-	$362,000	1155m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213159	7 Carrodus Street	10/03/2006	12/04/2006	13/12/2005	$360,000	1084m	Full transfer	4	1	1	-	2	$360,000	87	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.39
+2006	213147	19 Dowthwaite Street	23/03/2006	30/05/2006	-	$360,000	1105m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229465	16 Carrodus Street	11/08/2006	29/10/2006	-	$355,000	1068m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168576	78 Shakespeare Crescent	19/12/2006	06/03/2007	14/11/2006	$353,000	1110m	Full transfer	3	1	-	2	-	$353,000	35	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.39
+2006	168236	116 Shakespeare Crescent	02/06/2006	10/08/2006	12/05/2006	$345,000	1034m	Full transfer	3	1	-	-	2	$345,000	21	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.4
+2006	89598	4 Woodhouse Place	21/11/2006	-	04/10/2006	$340,000	1186m	Full transfer	3	1	-	1	-	$340,000	48	-	Allhomes Record	-	-	-	-	$139,000	0.41
+2006	13407	            20/4 Lind Close	08/08/2006	29/08/2006	-	$337,000	11837m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	44475	217 Tillyard Drive	15/09/2006	25/10/2006	06/07/2006	$335,000	894m	Full transfer	3	1	-	2	-	$335,000	71	-	Combined Record	-	-	-	Single residential dwelling	$140,000	0.42
+2006	35825	17 Rogers Street	15/09/2006	11/01/2007	-	$335,000	1090m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213184	11 Edlington Street	08/04/2006	13/07/2006	16/03/2006	$322,000	1027m	Full transfer	3	1	-	1	-	$322,000	23	-	Combined Record	-	-	-	Single residential dwelling	$140,000	0.43
+2006	213129	1/4 Lind Close	12/01/2006	09/03/2006	-	$315,000	11837m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213164	16 Carrodus Street	15/02/2006	08/03/2006	02/12/2005	$307,000	1068m	Full transfer	3	1	-	2	-	$307,000	75	-	Combined Record	-	-	-	Single residential dwelling	$139,000	0.45
+2006	213165	22 Carrodus Street	09/03/2006	11/05/2006	-	$298,000	1233m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168528	3 Edlington Street	15/09/2006	05/03/2007	-	$280,000	915m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	164859	21 Shakespeare Crescent	30/08/2006	09/10/2006	-	$275,000	424m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	169361	17 Filshie Close	11/12/2006	22/02/2007	29/09/2006	$259,000	423m	Full transfer	3	1	-	-	2	$259,000	73	-	Combined Record	-	-	-	Medium density dwelling	$114,000	0.44
+2006	213187	203 Tillyard Drive	27/04/2006	20/06/2006	-	$200,000	1292m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203190	46 Wynn Street	19/05/2006	01/06/2007	-	$0	1018m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	166161	209 Tillyard Drive	29/06/2006	25/07/2007	-	$0	1175m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165540	37 Shakespeare Crescent	21/09/2006	31/01/2007	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35363	30 Foskett Street	22/12/2006	18/06/2007	-	$0	1141m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	409256	12 Dowthwaite Street	01/11/2006	26/10/2007	-	$0	855m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213114	10 De Smet Place	06/06/2006	23/06/2006	-	-	1265m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213163	12 Carrodus Street	06/03/2006	29/03/2006	-	-	1595m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34240	42 Foskett Street	18/10/2006	27/11/2006	-	-	1073m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32111	24 Wynn Street	09/08/2006	10/11/2006	-	-	1320m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213186	203 Tillyard Drive	11/02/2006	20/06/2006	-	-	1292m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235797	22 Daley Crescent	05/10/2007	17/03/2008	26/02/2004	$710,000	1323m	Full transfer	4	1	2	3	2	$710,000	1317	-	Combined Record	-	-	-	Single residential dwelling	$192,000	0.27
+2007	234882	7 Keane Place	19/11/2007	12/03/2008	22/10/2007	$650,000	1544m	Full transfer	4	1	1	2	-	$650,000	28	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.35
+2007	33428	3 Mildenhall Place	01/01/2007	26/02/2007	22/09/2006	$620,000	1455m	Full transfer	4	1	1	4	-	$620,000	101	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.34
+2007	235073	38 Bingley Crescent	24/10/2007	06/02/2008	12/10/2007	$600,000	1337m	Full transfer	4	1	1	2	-	$600,000	12	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.36
+2007	202873	1 Waterman Place	19/02/2007	14/06/2007	19/01/2007	$590,000	1560m	Full transfer	6	1	2	2	-	$590,000	31	-	Combined Record	-	-	-	Single residential dwelling	$213,000	0.36
+2007	314521	25 Lind Close	13/10/2007	04/01/2008	-	$570,000	1584m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202700	46 Wynn Street	23/07/2007	08/10/2007	07/06/2007	$540,000	1018m	Full transfer	4	1	1	2	-	$540,000	46	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.37
+2007	167467	38 Wynn Street	29/06/2007	03/09/2007	13/06/2007	$517,000	1068m	Full transfer	4	1	1	2	-	$517,000	16	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.39
+2007	235074	104 Bingley Crescent	18/12/2007	08/02/2008	-	$506,000	922m	Full transfer	-	-	-	-	-	$506,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166249	96 Bingley Crescent	10/05/2007	20/08/2007	-	$500,000	861m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121190	9 Bazley Street	24/03/2007	10/09/2007	14/02/2007	$500,000	1243m	Full transfer	5	1	1	2	-	$500,000	38	-	Combined Record	-	-	-	Single residential dwelling	$197,000	0.39
+2007	202834	26 Moroney Street	08/06/2007	14/06/2007	-	$487,000	1079m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36406	80 Shakespeare Crescent	04/04/2007	02/07/2007	19/02/2007	$485,000	1060m	Full transfer	4	1	1	-	-	$485,000	44	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.35
+2007	37155	25 Nott Street	30/05/2007	20/07/2007	24/04/2007	$470,000	1428m	Full transfer	4	1	2	-	1	$470,000	36	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.42
+2007	25391	79 Bingley Crescent	04/12/2007	-	13/11/2007	$470,000	891m	Full transfer	3	1	1	-	2	$470,000	21	-	Allhomes Record	-	-	-	-	$201,000	0.43
+2007	33446	7 Lind Close	13/03/2007	21/05/2007	26/01/2007	$465,000	1313m	Full transfer	5	2	1	2	-	$465,000	46	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.4
+2007	164971	31 Brophy Place	24/04/2007	25/06/2007	19/04/2007	$465,000	1176m	Full transfer	4	1	1	2	-	$465,000	5	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.43
+2007	230773	25 Daley Crescent	22/11/2007	03/01/2008	23/10/2007	$460,000	1137m	Full transfer	4	1	1	-	2	$460,000	30	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.44
+2007	235153	71 Shakespeare Crescent	04/12/2007	07/02/2008	-	$460,000	1115m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164590	31 Daley Crescent	11/04/2007	10/07/2007	28/02/2007	$459,000	1157m	Full transfer	4	1	1	3	-	$459,000	42	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.44
+2007	164444	15 Wynn Street	23/01/2007	12/03/2007	-	$457,500	1134m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166106	3 Foskett Street	05/07/2007	20/08/2007	23/05/2007	$449,950	1001m	Full transfer	3	1	-	2	-	$449,950	43	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.45
+2007	231073	58 Daley Crescent	08/10/2007	10/12/2007	-	$448,000	998m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32727	37 Nott Street	22/02/2007	30/03/2007	08/12/2006	$423,000	1200m	Full transfer	4	1	-	2	-	$423,000	76	-	Combined Record	-	-	-	Single residential dwelling	$201,000	0.48
+2007	169446	19 Lind Close	23/01/2007	22/02/2007	02/11/2006	$422,000	1103m	Full transfer	4	1	1	2	-	$422,000	82	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.44
+2007	409263	38 Nott Street	19/09/2007	26/02/2007	21/08/2007	$420,000	1141m	Full transfer	3	1	1	2	-	$420,000	29	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.47
+2007	32434	11 Dowthwaite Street	08/02/2007	29/03/2007	08/12/2006	$416,000	1176m	Full transfer	4	1	1	2	-	$416,000	62	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.41
+2007	166435	12 Carrodus Street	02/05/2007	25/07/2007	13/04/2007	$405,000	1595m	Full transfer	4	1	1	2	2	$405,000	19	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.42
+2007	230800	125 Shakespeare Crescent	07/11/2007	02/01/2008	-	$405,000	1159m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	302142	7 Binns Street	31/03/2007	24/05/2007	-	$405,000	1194m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120748	180 Tillyard Drive	21/03/2007	16/05/2007	27/02/2007	$389,000	1050m	Full transfer	4	1	1	-	2	$389,000	22	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.46
+2007	166327	24 Dunbar Street	06/06/2007	02/08/2007	10/05/2007	$386,000	1130m	Full transfer	3	1	-	1	1	$386,000	27	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.44
+2007	95976	4/4 Lind Close	09/02/2007	-	17/01/2007	$380,000	11837m	Full transfer	4	1	1	2	-	$380,000	23	-	Allhomes Record	-	-	-	-	-	-
+2007	409259	7/4 Lind Close	12/07/2007	08/08/2007	13/06/2007	$380,000	11837m	Full transfer	3	1	1	2	-	$380,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	$83,017	0.22
+2007	169323	18 Edlington Street	29/01/2007	22/02/2007	21/11/2006	$370,000	796m	Full transfer	3	1	1	2	-	$370,000	69	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.44
+2007	121427	76 Daley Crescent	14/03/2007	03/05/2007	14/02/2007	$367,000	1037m	Full transfer	3	1	1	1	-	$367,000	28	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.49
+2007	167455	10 Cusack Place	11/05/2007	03/09/2007	02/05/2007	$360,100	1093m	Full transfer	3	1	-	1	-	$360,100	9	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.45
+2007	302554	9 Rochford Street	04/05/2007	04/07/2007	-	$360,000	956m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409257	21 Filshie Close	12/09/2007	26/10/2007	26/04/2007	$350,000	435m	Full transfer	3	1	-	2	-	$350,000	139	-	Combined Record	-	-	-	For residential purposes only	$139,000	0.4
+2007	35053	41 Brophy Street	03/04/2007	10/06/2007	-	$350,000	1075m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166727	6 Champion Place	03/07/2007	02/08/2007	16/05/2007	$342,000	1112m	Full transfer	3	1	1	1	-	$342,000	48	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.5
+2007	164578	29 Edlington Street	24/04/2007	13/07/2007	25/02/2007	$330,000	858m	Full transfer	3	1	-	1	-	$330,000	58	-	Combined Record	-	-	-	Single residential dwelling	$161,000	0.49
+2007	164351	13 Dowthwaite Street	09/01/2007	13/03/2007	-	$330,000	1207m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33768	2 Cusack Place	21/03/2007	22/05/2007	-	$320,000	1064m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	232901	8 Filshie Close	11/10/2007	25/11/2007	-	$310,000	439m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	230684	13 Foskett Street	30/11/2007	19/02/2008	-	$300,000	1053m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120327	50 Kerrigan Street	22/02/2007	19/04/2007	-	$144,000	1169m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232941	37 Edlington Street	15/11/2007	08/01/2008	-	$130,000	930m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409262	            21/4 Lind Close	14/11/2007	26/02/2007	-	$0	11837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409265	218 Tillyard Drive	09/10/2007	30/10/2007	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121063	16 Dowthwaite Street	31/07/2007	12/09/2007	-	$0	1166m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232211	25 Daley Crescent	03/01/2007	05/12/2007	-	$0	1137m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166132	114 Bingley Crescent	12/07/2007	23/08/2007	-	$0	1120m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233562	20 Daley Crescent	13/03/2008	29/04/2008	05/02/2008	$655,000	1499m	Full transfer	4	2	1	6	1	$655,000	37	-	Combined Record	-	-	-	Single residential dwelling	$226,000	0.35
+2008	234136	4 Nish Place	22/04/2008	11/06/2008	11/03/2008	$601,000	1371m	Full transfer	5	2	1	2	-	$601,000	42	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.41
+2008	240666	1 Eddison Place	30/09/2008	02/12/2008	16/09/2008	$575,000	1208m	Full transfer	4	1	1	2	2	$575,000	14	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.48
+2008	116032	24 Daley Crescent	21/09/2008	-	18/07/2008	$570,000	1347m	Full transfer	5	1	1	2	-	$570,000	65	-	Allhomes Record	-	-	-	-	$241,000	0.42
+2008	239956	24 Daley Crescent	21/08/2008	15/10/2008	-	$550,000	1347m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240665	3 Nish Place	22/10/2008	03/12/2008	04/09/2008	$510,000	1107m	Full transfer	4	1	1	-	2	$510,000	48	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.48
+2008	234628	1 Brophy Street	28/03/2008	09/05/2008	30/01/2008	$510,000	995m	Full transfer	3	1	1	2	0	$510,000	58	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.48
+2008	239171	124 Bingley Crescent	16/09/2008	05/11/2008	-	$500,000	1140m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229847	5 Crease Place	24/06/2008	23/07/2008	-	$498,000	1265m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237156	5 Wynn Street	19/09/2008	09/12/2008	28/08/2008	$485,000	1043m	Full transfer	5	2	1	1	1	$485,000	22	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.51
+2008	242279	20 Nott Street	19/11/2008	02/02/2009	29/10/2008	$460,000	1166m	Full transfer	4	1	1	2	2	$460,000	21	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.52
+2008	238051	186 Tillyard Drive	28/07/2008	12/09/2008	17/06/2008	$447,000	964m	Full transfer	4	1	1	1	1	$447,000	41	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.49
+2008	239381	70 Daley Crescent	27/08/2008	20/11/2008	-	$428,000	958m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239954	3 Daley Crescent	05/09/2008	16/10/2008	-	$425,000	975m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237157	43 Daley Crescent	31/10/2008	09/12/2008	15/09/2008	$425,000	1120m	Full transfer	3	1	1	-	2	$425,000	46	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.56
+2008	233749	10 Edlington Street	22/05/2008	02/07/2008	-	$410,000	815m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234135	37 Brophy Place	30/04/2008	12/06/2008	-	$403,000	1104m	Full transfer	-	-	-	-	-	$403,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239957	48 Kerrigan Street	22/08/2008	16/10/2008	29/04/2008	$401,000	1132m	Full transfer	4	1	-	4	-	$401,000	115	-	Combined Record	-	-	-	Single residential dwelling	$175,000	0.44
+2008	237058	2 Vercoe Place	03/12/2008	06/01/2009	05/11/2008	$395,000	901m	Full transfer	3	1	1	1	-	$395,000	28	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.62
+2008	230129	24 Moroney Street	14/01/2008	01/02/2008	-	-	988m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236534	48 Kerrigan Street	18/03/2008	17/04/2008	-	-	1132m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239955	7 Moir Place	10/09/2008	14/10/2008	-	-	1314m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237401	9 Wynn Street	25/07/2008	25/08/2008	-	-	1014m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	245396	29 Shakespeare Crescent	25/06/2008	05/08/2009	-	-	1148m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237322	77 Shakespeare Crescent	31/07/2008	18/08/2008	-	-	1202m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235758	93 Shakespeare Crescent	14/03/2008	30/03/2008	-	-	1106m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236388	69 Shakespeare Crescent	26/03/2008	04/04/2008	-	-	1115m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236227	5 Rochford Street	08/02/2008	22/05/2008	-	-	915m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262603	24 Foskett Place	23/11/2009	05/01/2010	28/09/2009	$660,000	1246m	Full transfer	5	1	2	2	-	$660,000	56	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.37
+2009	254206	15 Lind Close	23/12/2009	15/02/2010	02/12/2009	$625,000	1313m	Full transfer	4	1	1	1	2	$625,000	21	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.34
+2009	262602	6 Wynn Street	14/11/2009	22/02/2010	09/10/2009	$617,500	1240m	Full transfer	4	1	1	2	-	$617,500	36	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.4
+2009	243560	2 Woodger Place	20/02/2009	01/04/2009	08/12/2008	$600,000	1393m	Full transfer	5	1	1	2	-	$600,000	74	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.44
+2009	251935	7 De Smet Place	09/11/2009	22/12/2009	02/09/2009	$600,000	1008m	Full transfer	5	1	1	3	-	$600,000	68	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.41
+2009	250635	117 Bingley Crescent	01/10/2009	01/12/2009	25/08/2009	$595,000	1043m	Full transfer	5	1	1	2	0	$595,000	37	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.41
+2009	242683	54 Wynn Street	09/01/2009	24/02/2009	03/12/2008	$580,000	1154m	Full transfer	-	1	1	2	0	$580,000	37	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.42
+2009	243566	3 Keane Place	30/01/2009	30/03/2009	18/11/2008	$490,000	1506m	Full transfer	4	1	1	-	2	$490,000	73	-	Combined Record	-	-	-	Single residential dwelling	$261,000	0.53
+2009	248441	1 Moir Place	10/10/2009	16/12/2009	16/09/2009	$480,000	1148m	Full transfer	4	1	1	-	2	$480,000	24	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.51
+2009	246350	19 Nott Street	05/05/2009	01/09/2009	24/04/2009	$477,500	1096m	Full transfer	4	1	1	2	0	$477,500	11	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.5
+2009	241530	40 Dowthwaite Street	21/03/2009	11/05/2009	25/02/2009	$477,000	1025m	Full transfer	4	1	1	-	2	$477,000	24	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.44
+2009	259317	2/10 Champion Place	23/12/2009	17/02/2010	-	$475,500	1306m	Full transfer	-	-	-	-	-	$475,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246510	32 Wynn Street	17/07/2009	07/09/2009	-	$475,000	1025m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254207	92 Shakespeare Crescent	22/12/2009	15/02/2010	30/10/2009	$473,000	1092m	Full transfer	4	1	1	2	1	$473,000	53	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.44
+2009	244542	23 Edlington Street	15/05/2009	02/07/2009	-	$460,000	1399m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251906	3 Binns Street	12/11/2009	20/01/2010	11/09/2009	$442,000	976m	Full transfer	4	1	-	4	1	$442,000	62	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.47
+2009	132087	11/10 Lind Close	26/10/2009	-	16/09/2009	$440,000	485m	Full transfer	3	1	1	2	-	$440,000	40	-	Allhomes Record	-	-	-	-	$111,438	0.25
+2009	249062	            11/4 Lind Close	26/10/2009	24/11/2009	-	$440,000	11837m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238601	4/4 Lind Close	27/03/2009	01/05/2009	-	$435,000	11837m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	258467	82 Shakespeare Crescent	23/12/2009	22/04/2010	20/10/2009	$435,000	1069m	Full transfer	3	1	-	1	-	$435,000	64	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.48
+2009	249192	29 Shakespeare Crescent	15/07/2009	28/09/2009	19/06/2009	$432,000	1148m	Full transfer	4	2	1	2	2	$432,000	26	-	Combined Record	-	-	-	Single residential dwelling	$208,000	0.48
+2009	245806	115 Bingley Crescent	02/07/2009	12/08/2009	26/04/2009	$428,000	1018m	Full transfer	3	1	-	2	2	$428,000	67	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.57
+2009	248440	7 Rochford Street	07/10/2009	15/12/2009	-	$425,000	898m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242803	35 Daley Crescent	14/01/2009	05/03/2009	26/11/2008	$420,000	1099m	Full transfer	3	1	1	-	2	$420,000	49	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.59
+2009	242804	27 Rogers Street	10/02/2009	03/03/2009	-	$410,000	998m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262601	22 Nott Street	20/11/2009	02/02/2010	29/10/2009	$405,000	915m	Full transfer	3	1	-	1	-	$405,000	22	-	Combined Record	-	-	-	Single residential dwelling	$240,000	0.59
+2009	246351	64 Kerrigan Street	17/07/2009	02/09/2009	-	$388,000	999m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	116671	91 Bingley Crescent	17/04/2009	-	05/08/2008	$379,950	995m	Full transfer	3	1	-	-	1	$379,950	255	-	Allhomes Record	-	-	-	-	$246,000	0.65
+2009	244434	17 Shakespeare Crescent	04/06/2009	08/07/2009	20/03/2009	$343,000	497m	Full transfer	3	1	-	-	2	$343,000	76	-	Combined Record	-	-	-	Medium density dwelling	$170,000	0.5
+2009	262599	36 Wynn Street	18/12/2009	03/03/2010	20/10/2009	$332,000	1206m	Full transfer	-	-	-	-	-	$332,000	59	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.61
+2009	246512	24 Bazley Street	25/06/2009	08/09/2009	-	$260,000	1233m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246352	4 Cusack Place	20/07/2009	02/09/2009	-	$200,000	972m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	346791	184 Tillyard Drive	21/12/2009	17/11/2011	-	$0	938m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	274026	63 Shakespeare Crescent	22/12/2009	24/11/2010	-	-	1133m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249415	8 Filshie Close	04/09/2009	25/10/2009	-	-	439m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	274027	5 Avery Place	22/12/2009	24/11/2010	-	-	1855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	258794	2 Wynn Street	17/11/2009	06/01/2010	-	-	1047m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	296090	32 Nott Street	09/07/2009	03/06/2011	-	-	987m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251722	10 Wynn Place	28/10/2009	11/01/2010	-	-	1153m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260909	51 Daley Crescent	05/12/2009	03/02/2010	-	-	1002m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	263655	7 Nott Street	25/06/2009	01/06/2010	-	-	1094m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246511	38 Foskett Street	23/05/2009	08/09/2009	-	-	1005m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260912	42 Foskett Street	08/09/2009	07/02/2010	-	-	1073m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250636	22 Foskett Place	28/10/2009	30/11/2009	-	-	1194m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280301	37 Bingley Crescent	16/10/2010	22/12/2010	22/09/2010	$680,000	1155m	Full transfer	4	1	1	2	-	$680,000	24	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.43
+2010	270976	54 Wynn Street	17/04/2010	03/09/2010	25/03/2010	$652,500	1154m	Full transfer	-	1	1	2	-	$652,500	23	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.45
+2010	252428	38 Wynn Street	19/02/2010	-	11/02/2010	$639,000	1068m	Full transfer	4	1	1	-	2	$639,000	8	-	Allhomes Record	-	-	-	-	$295,000	0.46
+2010	255789	38 Wynn Street	18/02/2010	08/04/2010	-	$635,000	1068m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274621	46 Wynn Street	22/09/2010	30/11/2010	11/08/2010	$623,000	1018m	Full transfer	4	1	1	2	-	$623,000	42	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.47
+2010	274025	38 Dowthwaite Street	22/10/2010	25/11/2010	-	$600,000	1074m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258725	32 Rogers Street	23/02/2010	18/05/2010	-	$600,000	1061m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	284012	11 Wynn Street	13/11/2010	14/02/2011	11/10/2010	$551,000	1021m	Full transfer	4	1	1	2	-	$551,000	33	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.54
+2010	273620	130 Bingley Crescent	14/08/2010	03/11/2010	20/07/2010	$535,200	1048m	Full transfer	3	1	1	-	-	$535,200	25	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.55
+2010	280329	33 Shakespeare Crescent	08/10/2010	22/12/2010	06/10/2010	$525,000	1132m	Full transfer	4	1	1	2	-	$525,000	2	-	Combined Record	163	-	-	Single residential dwelling	$250,000	0.48
+2010	283438	31 Brophy Place	30/11/2010	11/02/2011	-	$515,000	1176m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275735	23 Bingley Crescent	27/10/2010	06/01/2011	05/10/2010	$510,000	936m	Full transfer	3	1	1	2	-	$510,000	22	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.58
+2010	273619	21 Rogers Street	21/09/2010	02/11/2010	-	$500,000	1097m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	262600	21 Nott Street	19/01/2010	23/03/2010	18/11/2009	$475,000	1137m	Full transfer	4	1	1	2	-	$475,000	62	-	Combined Record	-	-	-	Single residential dwelling	$288,000	0.61
+2010	257457	5 Rogers Street	18/05/2010	-	03/03/2010	$475,000	1055m	Full transfer	4	1	1	2	-	$475,000	76	-	Allhomes Record	-	-	-	-	$250,000	0.53
+2010	275840	23 Foskett Street	25/11/2010	12/01/2011	-	$470,000	964m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	300789	36 Kerrigan Street	23/07/2010	13/07/2011	-	$459,000	1153m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	283732	1/25 Nott Street	07/12/2010	02/03/2011	-	$455,000	1428m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257561	44 Wynn Street	23/05/2010	-	27/04/2010	$444,000	1241m	Full transfer	3	1	-	-	1	$444,000	26	-	Allhomes Record	-	-	-	-	$275,000	0.62
+2010	255543	            23/4 Lind Close	02/03/2010	08/04/2010	-	$435,000	11837m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252694	23/12 Daley Crescent	02/03/2010	-	08/02/2010	$435,000	11837m	Full transfer	3	1	1	2	-	$435,000	22	-	Allhomes Record	-	-	-	-	$1,703,000	3.91
+2010	255518	            10/4 Lind Close	24/02/2010	31/03/2010	-	$430,000	11837m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252858	8 Lind Close	24/02/2010	-	12/01/2010	$430,000	11837m	Full transfer	3	1	1	2	-	$430,000	43	-	Allhomes Record	-	-	-	-	$3,126,000	7.27
+2010	328834	64 Kerrigan Street	16/08/2010	24/09/2010	-	$417,500	999m	Full transfer	-	-	-	-	-	$417,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261852	15 Shakespeare Crescent	31/03/2010	14/05/2010	-	$393,000	553m	Full transfer	-	-	-	-	-	$393,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	263903	2 Cusack Place	09/04/2010	01/06/2010	09/03/2010	$386,000	1064m	Full transfer	3	1	-	-	-	$386,000	31	-	Combined Record	-	-	-	Single residential dwelling...	$236,000	0.61
+2010	274700	2/25 Lind Close	09/09/2010	14/11/2010	19/07/2010	$385,000	1584m	Full transfer	-	1	1	1	-	$385,000	52	-	Combined Record	-	-	-	Multiple unit dwelling	$211,000	0.55
+2010	274375	1/25 Lind Close	12/10/2010	17/11/2010	-	$370,000	1584m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	274307	3/25 Lind Close	06/10/2010	22/11/2010	-	$370,000	1584m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258724	29 Lind Close	13/03/2010	20/05/2010	27/06/2004	$350,000	1226m	Full transfer	3	1	1	-	2	$350,000	2085	-	Combined Record	-	-	-	Single residential dwelling	$164,000	0.47
+2010	274374	5/25 Lind Close	14/09/2010	15/11/2010	-	$330,000	1584m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	537236	203 Tillyard Drive	04/01/2010	03/07/2018	-	$0	1292m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276717	36 Dowthwaite Street	16/06/2010	22/07/2010	-	-	1423m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287398	5 Avery Place	22/03/2010	24/03/2011	-	-	1855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	260910	122 Bingley Crescent	13/01/2010	02/03/2010	-	-	1022m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	255745	48 Carrodus Street	11/01/2010	29/03/2010	-	-	962m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279182	30 Dunbar Street	05/10/2010	02/02/2011	-	-	1083m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272879	68 Daley Crescent	15/09/2010	03/11/2010	-	-	1005m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254657	2 De Smet Place	27/01/2010	09/03/2010	-	-	1134m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287399	5 Avery Place	14/03/2010	24/03/2011	-	-	1855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270438	81 Shakespeare Crescent	30/07/2010	24/09/2010	-	-	1121m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344143	11 Waterman Place	22/07/2011	21/10/2011	-	$840,000	1208m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	335211	             Kerrigan Street	02/09/2011	-	29/07/2011	$686,000	1152m	Full transfer	4	1	-	-	1	$686,000	35	-	Allhomes Record	-	-	-	-	$210,000	0.31
+2011	344142	30 Kerrigan Street	01/09/2011	18/10/2011	-	$686,000	1152m	Full transfer	-	-	-	-	-	$686,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360345	21 Daley Crescent	23/12/2011	16/02/2012	07/10/2011	$652,500	1172m	Full transfer	6	2	-	2	-	$652,500	77	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.48
+2011	300698	38 Foskett Street	08/06/2011	22/07/2011	16/02/2011	$620,000	1005m	Full transfer	4	1	1	1	-	$620,000	112	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.5
+2011	344144	117 Bingley Crescent	15/09/2011	18/10/2011	27/06/2011	$620,000	1043m	Full transfer	5	2	1	2	-	$620,000	80	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.5
+2011	350294	2 Waterman Place	26/10/2011	28/11/2011	27/07/2011	$580,000	1177m	Full transfer	4	1	2	2	-	$580,000	91	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.57
+2011	342423	21 Brophy Street	10/08/2011	06/10/2011	-	$560,000	1059m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292095	16 Rogers Street	10/03/2011	04/05/2011	03/11/2010	$555,000	1169m	Full transfer	5	2	-	2	-	$555,000	127	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.47
+2011	346788	33 Edlington Street	29/08/2011	19/11/2011	13/07/2011	$550,000	1032m	Full transfer	4	1	1	-	4	$550,000	47	-	Combined Record	-	-	-	Single residential dwelling	$232,000	0.42
+2011	353829	11 Dowthwaite Street	24/11/2011	19/01/2012	25/10/2011	$545,000	1176m	Full transfer	4	1	1	2	-	$545,000	30	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.48
+2011	347599	33 Nott Street	14/10/2011	03/11/2011	17/08/2011	$530,000	1156m	Full transfer	4	1	1	-	2	$530,000	58	-	Combined Record	160	-	-	Single residential dwelling	$310,000	0.58
+2011	340805	196 Tillyard Drive	08/07/2011	20/09/2011	-	$520,000	992m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300576	9 Nott Street	11/03/2011	13/07/2011	11/10/2010	$517,000	1038m	Full transfer	4	1	1	2	-	$517,000	151	-	Combined Record	190	-	-	Single residential dwelling	$303,000	0.59
+2011	332984	15 Dowthwaite Street	08/07/2011	03/08/2011	16/05/2011	$495,000	1198m	Full transfer	3	1	1	2	2	$495,000	53	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.53
+2011	336778	21 Dowthwaite Street	11/07/2011	29/08/2011	09/05/2011	$490,000	1049m	Full transfer	4	1	1	-	2	$490,000	63	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.54
+2011	346790	49 Daley Crescent	20/10/2011	17/11/2011	-	$480,000	1043m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353831	30 Rogers Street	14/12/2011	16/01/2012	16/11/2011	$460,000	1194m	Full transfer	4	1	1	-	2	$460,000	28	-	Combined Record	-	-	-	Single residential dwelling	$263,000	0.57
+2011	274961	23 Foskett Street	21/01/2011	-	26/08/2010	$460,000	964m	Full transfer	4	2	-	1	-	$460,000	148	-	Allhomes Record	-	-	-	-	$310,000	0.67
+2011	291923	3/25 Nott Street	03/03/2011	13/04/2011	-	$455,000	1428m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	284711	            2/25 Nott Street	20/03/2011	-	19/10/2010	$455,000	1428m	Full transfer	3	1	1	2	-	$455,000	152	-	Allhomes Record	-	-	-	-	$288,000	0.63
+2011	292011	2/25 Nott Street	30/03/2011	10/05/2011	-	$455,000	1428m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350296	184 Tillyard Drive	19/09/2011	02/12/2011	12/08/2011	$450,000	938m	Full transfer	4	1	1	2	1	$450,000	38	-	Combined Record	149	-	-	Single residential dwelling	$274,000	0.61
+2011	300882	13/14 Lind Close	04/08/2011	-	12/07/2011	$445,000	11836m	Full transfer	3	1	1	2	-	$445,000	23	-	Allhomes Record	-	-	-	-	$3,126,000	7.02
+2011	342108	            13/4 Lind Close	03/08/2011	12/10/2011	-	$445,000	11837m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336942	19 Edlington Street	17/06/2011	07/09/2011	-	$415,000	968m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292309	21 Filshie Close	06/04/2011	10/05/2011	08/03/2011	$410,000	435m	Full transfer	3	1	-	-	2	$410,000	29	-	Combined Record	-	-	-	For residential purposes only	$215,000	0.52
+2011	287769	6 Filshie Close	02/02/2011	04/04/2011	27/10/2010	$406,000	576m	Full transfer	3	1	-	2	-	$406,000	98	-	Combined Record	-	-	-	For residential purposes only	$215,000	0.53
+2011	350070	21 Shakespeare Crescent	24/10/2011	05/12/2011	30/08/2011	$380,000	424m	Full transfer	3	1	-	2	-	$380,000	55	-	Combined Record	-	-	-	Medium density dwelling	$215,000	0.57
+2011	347597	22 Filshie Close	15/07/2011	01/11/2011	05/07/2011	$327,000	436m	Full transfer	3	1	-	-	2	$327,000	10	-	Combined Record	-	-	-	For residential purposes only	$215,000	0.66
+2011	283731	4/25 Lind Close	24/01/2011	04/03/2011	-	$318,500	1584m	Full transfer	-	-	-	-	-	$318,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	279183	39 Brophy Place	11/01/2011	03/02/2011	-	$58,000	1164m	Full transfer	-	-	-	-	-	$58,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368575	1 Bingley Crescent	23/11/2011	21/03/2012	-	$0	1159m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	376639	75 Shakespeare Crescent	02/07/2011	23/07/2012	-	$0	1117m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350069	30 Rogers Street	12/08/2011	05/12/2011	-	$0	1194m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344141	1 Crease Place	30/08/2011	21/10/2011	-	$0	908m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296456	50 Foskett Street	14/04/2011	15/06/2011	-	-	1184m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296476	69 Bingley Crescent	15/04/2011	23/05/2011	-	-	1141m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291412	58 Wynn Street	02/03/2011	04/05/2011	-	-	983m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287325	72 Bingley Crescent	18/02/2011	31/03/2011	-	-	1090m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365718	9 Waterman Place	06/01/2012	24/02/2012	30/09/2011	$875,000	1430m	Full transfer	7	3	3	-	4	$875,000	98	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.51
+2012	369164	3 Nott Street	25/02/2012	05/04/2012	27/01/2012	$718,000	979m	Full transfer	5	1	2	2	1	$718,000	29	-	Combined Record	-	-	-	Single residential dwelling...	$308,000	0.43
+2012	391749	22 Dowthwaite Street	21/12/2012	28/02/2013	-	$700,000	1152m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376641	46 Foskett Street	21/06/2012	23/07/2012	30/05/2012	$660,000	1314m	Full transfer	4	1	2	2	-	$660,000	22	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.48
+2012	370050	38 Bingley Crescent	02/02/2012	28/03/2012	10/01/2012	$630,000	1337m	Full transfer	4	1	1	2	-	$630,000	23	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.53
+2012	371959	10 Rochford Street	27/04/2012	03/06/2012	23/02/2012	$595,000	1103m	Full transfer	4	1	1	2	-	$595,000	64	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.53
+2012	370048	5 Dowthwaite Street	28/01/2012	26/03/2012	03/01/2012	$590,000	1278m	Full transfer	6	2	1	2	-	$590,000	25	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.46
+2012	386225	25 Rogers Street	29/06/2012	07/12/2012	01/05/2012	$587,500	1140m	Full transfer	4	1	1	2	-	$587,500	59	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.46
+2012	372412	2 Nish Place	19/07/2012	-	15/05/2012	$560,000	1344m	Full transfer	4	1	1	-	3	$560,000	65	-	Allhomes Record	-	-	-	-	$315,000	0.56
+2012	371607	45 Shakespeare Crescent	30/04/2012	05/06/2012	28/03/2012	$555,000	1401m	Full transfer	3	1	1	2	-	$555,000	33	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.49
+2012	376269	12 Foskett Street	09/05/2012	18/07/2012	15/03/2012	$555,000	1111m	Full transfer	4	1	1	2	-	$555,000	55	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.57
+2012	394521	20 Dowthwaite Street	03/12/2012	22/03/2013	30/10/2012	$545,000	1037m	Full transfer	4	1	2	2	2	$545,000	34	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.5
+2012	393252	21 Nott Street	18/12/2012	07/02/2013	07/11/2012	$540,000	1137m	Full transfer	4	1	1	2	-	$540,000	41	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.57
+2012	374066	1 Bingley Crescent	19/05/2012	20/06/2012	24/04/2012	$521,000	1159m	Full transfer	3	1	1	2	-	$521,000	25	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.6
+2012	374263	16 Brophy Street	08/02/2012	13/06/2012	10/01/2012	$520,000	1011m	Full transfer	4	1	1	-	2	$520,000	29	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.61
+2012	362572	4 Vercoe Place	13/04/2012	-	01/02/2012	$520,000	1024m	Full transfer	4	1	1	2	-	$520,000	72	-	Allhomes Record	133	-	-	-	$315,000	0.61
+2012	387686	15 Carrodus Street	30/10/2012	11/01/2013	03/09/2012	$520,000	1082m	Full transfer	3	1	1	-	2	$520,000	57	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.52
+2012	380918	30 Nott Street	05/07/2012	25/09/2012	29/05/2012	$520,000	987m	Full transfer	4	1	1	1	-	$520,000	37	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.59
+2012	372883	13 Carrodus Street	28/03/2012	02/05/2012	05/03/2012	$520,000	1000m	Full transfer	5	1	1	-	2	$520,000	23	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.52
+2012	384647	3 Dowthwaite Street	05/04/2012	09/05/2012	14/02/2012	$515,000	1031m	Full transfer	5	1	1	2	-	$515,000	51	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.52
+2012	365072	47 Shakespeare Crescent	10/02/2012	16/03/2012	20/10/2011	$511,000	1367m	Full transfer	4	1	1	2	-	$511,000	113	-	Combined Record	140	-	-	Single residential dwelling	$270,000	0.53
+2012	387299	85 Shakespeare Crescent	09/11/2012	19/12/2012	12/09/2012	$510,000	1094m	Full transfer	5	1	1	2	-	$510,000	58	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.53
+2012	389514	35 Shakespeare Crescent	13/11/2012	22/01/2013	03/10/2012	$510,000	1214m	Full transfer	3	1	1	1	1	$510,000	41	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.53
+2012	376586	11 Lind Close	29/06/2012	09/08/2012	31/05/2012	$503,000	1283m	Full transfer	3	1	-	-	-	$503,000	29	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.55
+2012	387301	38 Nott Street	02/11/2012	19/12/2012	05/09/2012	$495,000	1141m	Full transfer	3	1	1	2	-	$495,000	58	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.62
+2012	373110	77 Shakespeare Crescent	07/03/2012	27/04/2012	-	$495,000	1202m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	366044	84 Shakespeare Crescent	10/02/2012	28/02/2012	27/10/2011	$480,000	1122m	Full transfer	3	1	-	2	-	$480,000	106	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.56
+2012	387892	97 Shakespeare Crescent	30/10/2012	02/01/2013	19/09/2012	$475,000	1025m	Full transfer	4	1	1	-	2	$475,000	41	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.57
+2012	371605	11 Dunbar Street	26/04/2012	04/06/2012	22/03/2012	$472,000	1084m	Full transfer	3	1	0	2	-	$472,000	35	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.57
+2012	368172	60 Daley Crescent	01/06/2012	-	19/04/2012	$464,000	1057m	Full transfer	3	1	-	-	2	$464,000	43	-	Allhomes Record	-	-	-	-	$315,000	0.68
+2012	368802	20 Rogers Street	19/03/2012	19/04/2012	15/02/2012	$463,000	1276m	Full transfer	3	1	-	2	-	$463,000	33	-	Combined Record	128	-	-	Single residential dwelling	$270,000	0.58
+2012	376643	186 Tillyard Drive	13/06/2012	23/07/2012	17/05/2012	$460,000	964m	Full transfer	4	1	1	1	1	$460,000	27	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.6
+2012	365379	78 Shakespeare Crescent	02/02/2012	07/03/2012	20/12/2011	$450,000	1110m	Full transfer	3	1	-	2	-	$450,000	44	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.6
+2012	393251	            12/4 Lind Close	18/12/2012	04/02/2013	-	$445,000	11837m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382577	12 Lind Close	18/12/2012	-	07/11/2012	$445,000	-	Full transfer	3	1	1	2	-	$445,000	41	-	Allhomes Record	-	-	-	-	$3,751,000	8.43
+2012	386022	114 Bingley Crescent	06/11/2012	11/12/2012	17/10/2012	$443,000	1120m	Full transfer	4	1	1	1	-	$443,000	20	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.71
+2012	376913	2 Strathnairn Place	02/07/2012	01/08/2012	08/06/2012	$437,500	941m	Full transfer	3	1	-	1	-	$437,500	24	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.72
+2012	407268	44 Wynn Street	24/01/2012	29/08/2013	-	$435,000	1241m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375920	10 Lind Close	31/08/2012	-	27/07/2012	$435,000	-	Full transfer	3	2	-	2	-	$435,000	35	-	Allhomes Record	-	-	-	-	$3,751,000	8.62
+2012	371409	22/12 Daley Crescent	06/07/2012	-	02/07/2012	$420,000	0m	Full transfer	3	2	-	2	0	$420,000	4	-	Allhomes Record	-	-	-	-	$1,703,000	4.05
+2012	388582	10 Cusack Place	16/11/2012	16/01/2013	-	$420,000	1093m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	368800	22 Edlington Street	28/02/2012	16/04/2012	12/01/2012	$409,000	799m	Full transfer	3	1	0	2	-	$409,000	47	-	Combined Record	-	-	-	Single residential dwelling	$252,000	0.62
+2012	369163	19 Shakespeare Crescent	14/03/2012	05/04/2012	-	$401,000	447m	Full transfer	-	-	-	-	-	$401,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2012	377547	3 Edlington Street	11/09/2012	-	17/07/2012	$379,000	915m	Full transfer	3	1	-	-	1	$379,000	56	-	Allhomes Record	-	-	-	-	$252,000	0.66
+2012	365074	8 Filshie Close	07/02/2012	14/03/2012	08/08/2011	$375,000	439m	Full transfer	3	1	-	2	-	$375,000	183	-	Combined Record	-	-	-	Medium density dwelling	$221,000	0.59
+2012	379908	2 Wynn Street	30/05/2012	13/09/2012	-	$0	1047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372885	22 Foskett Place	09/01/2012	03/05/2012	-	$0	1194m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376640	106 Bingley Crescent	28/03/2012	26/07/2012	-	$0	970m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	410459	8 Brophy Street	13/11/2012	12/09/2013	-	$0	957m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	423269	            21/4 Lind Close	01/11/2012	19/03/2014	-	$0	11837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	370052	16 Foskett Place	13/02/2012	28/03/2012	02/11/2011	$0	963m	Full transfer	4	1	1	2	-	$0	103	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.59
+2012	498845	118 Bingley Crescent	29/02/2012	01/03/2017	-	$0	1234m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386227	47 Bingley Crescent	08/04/2012	04/12/2012	-	$0	1273m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396497	27 Dunbar Street	06/03/2013	22/04/2013	08/01/2013	$695,000	1724m	Full transfer	4	1	1	2	-	$695,000	57	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.39
+2013	414486	52 Wynn Street	17/09/2013	29/11/2013	26/08/2013	$667,000	1003m	Full transfer	4	1	1	2	-	$667,000	22	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.47
+2013	395382	3 Nish Place	13/03/2013	17/04/2013	14/02/2013	$652,000	1107m	Full transfer	4	1	1	-	2	$652,000	27	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.48
+2013	411826	7 Lind Close	22/07/2013	18/09/2013	30/04/2013	$615,000	1313m	Full transfer	5	2	1	1	-	$615,000	83	-	Combined Record	198	-	-	Single residential dwelling	$291,000	0.47
+2013	402570	23 Edlington Street	23/04/2013	18/06/2013	02/04/2013	$615,000	1399m	Full transfer	4	1	1	1	2	$615,000	21	-	Combined Record	188	-	-	Single residential dwelling	$236,000	0.38
+2013	404947	25 Bingley Crescent	23/04/2013	06/08/2013	07/11/2012	$600,000	986m	Full transfer	4	1	1	2	-	$600,000	167	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.53
+2013	401756	107 Shakespeare Crescent	28/03/2013	22/05/2013	29/01/2013	$595,000	1056m	Full transfer	4	1	1	4	-	$595,000	58	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.45
+2013	390093	14 Dunbar Street	01/03/2013	-	29/01/2013	$590,000	1010m	Full transfer	4	1	1	2	-	$590,000	31	-	Allhomes Record	-	-	-	-	$270,000	0.46
+2013	404359	19 Bingley Crescent	14/06/2013	18/07/2013	02/04/2013	$590,000	1038m	Full transfer	4	1	1	2	-	$590,000	73	-	Combined Record	175	-	-	Single residential dwelling	$315,000	0.53
+2013	393664	40 Dowthwaite Street	17/04/2013	-	07/11/2012	$570,000	1025m	Full transfer	4	1	1	2	-	$570,000	161	-	Allhomes Record	185	-	-	-	$270,000	0.47
+2013	404236	1 Moir Place	17/05/2013	03/07/2013	04/10/2012	$560,000	1148m	Full transfer	4	1	1	2	-	$560,000	225	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.56
+2013	416926	130 Bingley Crescent	25/10/2013	17/12/2013	26/08/2013	$535,000	1048m	Full transfer	3	1	1	2	-	$535,000	60	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.59
+2013	395379	5 Dunbar Street	05/02/2013	16/04/2013	28/11/2012	$520,000	1025m	Full transfer	4	1	1	2	-	$520,000	69	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.52
+2013	404527	26 Dowthwaite Street	19/08/2013	-	16/04/2013	$515,000	1152m	Full transfer	4	1	1	2	1	$515,000	125	-	Allhomes Record	-	-	-	-	$270,000	0.52
+2013	406788	35 Bingley Crescent	23/07/2013	04/09/2013	14/05/2013	$515,000	1144m	Full transfer	4	1	1	2	-	$515,000	70	-	Combined Record	146	-	-	Single residential dwelling	$315,000	0.61
+2013	398260	41 Nott Street	27/03/2013	14/05/2013	20/02/2013	$510,000	1273m	Full transfer	3	1	1	2	0	$510,000	35	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.62
+2013	418591	49 Bingley Crescent	19/12/2013	31/01/2014	03/12/2013	$500,000	1002m	Full transfer	3	1	1	-	2	$500,000	16	-	Combined Record	143	-	-	Single residential dwelling	$315,000	0.63
+2013	419514	5 Rogers Street	20/12/2013	03/02/2014	06/11/2013	$500,000	1055m	Full transfer	4	2	-	2	-	$500,000	44	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.54
+2013	410460	22 Rogers Street	26/07/2013	09/09/2013	06/06/2013	$500,000	1196m	Full transfer	4	2	-	-	1	$500,000	50	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.54
+2013	391598	50 Kerrigan Street	15/01/2013	20/02/2013	04/10/2012	$486,000	1169m	Full transfer	4	1	1	2	-	$486,000	103	-	Combined Record	1168	-	-	Single residential dwelling	$227,000	0.47
+2013	411631	106 Bingley Crescent	30/08/2013	18/10/2013	19/07/2013	$485,000	970m	Full transfer	3	2	0	2	0	$485,000	42	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.65
+2013	410135	7 Champion Place	31/10/2013	-	09/10/2013	$470,000	915m	Full transfer	3	1	-	2	1	$470,000	22	-	Allhomes Record	-	-	-	-	$270,000	0.57
+2013	408044	36 Kerrigan Street	02/07/2013	13/08/2013	08/05/2013	$469,000	1153m	Full transfer	4	2	-	2	-	$469,000	55	-	Combined Record	122	-	-	Single residential dwelling...	$227,000	0.48
+2013	394761	7 Dowthwaite Street	24/04/2013	-	25/03/2013	$468,000	1255m	Full transfer	3	1	-	-	1	$468,000	30	-	Allhomes Record	130	-	-	-	$270,000	0.58
+2013	415658	9 Rochford Street	26/10/2013	12/12/2013	03/10/2013	$452,500	956m	Full transfer	3	1	-	0	2	$452,500	23	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.7
+2013	397112	8 Lind Close	24/05/2013	-	06/03/2013	$448,000	-	Full transfer	3	1	1	2	-	$448,000	79	-	Allhomes Record	-	-	-	-	$3,751,000	8.37
+2013	404235	            10/4 Lind Close	24/05/2013	05/07/2013	-	$448,000	11837m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395831	6 Lind Close	07/05/2013	-	22/02/2013	$440,000	-	Full transfer	3	1	1	2	-	$440,000	74	-	Allhomes Record	142	-	-	-	$3,751,000	8.53
+2013	390436	17/12 Daley Crescent	27/02/2013	-	16/05/2012	$422,000	-	Full transfer	3	1	1	2	-	$422,000	287	-	Allhomes Record	141	-	-	-	-	-
+2013	394972	            17/4 Lind Close	27/02/2013	12/04/2013	-	$422,000	11837m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414701	21/12 Daley Crescent	17/12/2013	-	21/10/2013	$420,000	-	Full transfer	3	1	1	2	-	$420,000	57	-	Allhomes Record	-	-	-	-	-	-
+2013	419449	1/10 Champion Place	13/12/2013	10/02/2014	-	$420,000	1306m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	385363	10 Cusack Place	02/01/2013	-	19/10/2012	$415,000	1093m	Full transfer	3	1	-	-	1	$415,000	75	-	Allhomes Record	-	-	-	-	$252,000	0.61
+2013	391750	7 Filshie Close	14/01/2013	25/02/2013	10/10/2012	$385,000	527m	Full transfer	3	1	-	-	-	$385,000	96	-	Combined Record	-	-	-	Single residential dwelling	$221,000	0.57
+2013	400221	70 Daley Crescent	26/02/2013	05/06/2013	-	$245,000	958m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419516	40 Wynn Street	05/10/2013	07/02/2014	-	$0	963m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427191	2 Eddison Place	23/09/2013	15/05/2014	-	$0	1263m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400723	11 Lind Close	05/03/2013	28/05/2013	-	$0	1283m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415657	127 Shakespeare Crescent	19/05/2013	13/12/2013	-	$0	1168m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	532205	4 Woodger Place	17/09/2013	10/05/2018	-	$0	1319m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406787	11 Binns Street	26/06/2013	02/09/2013	-	$0	1433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424344	6 Waterman Place	26/11/2013	10/04/2014	-	$0	1499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433001	14 Bingley Crescent	30/04/2014	14/08/2014	21/01/2014	$720,000	1227m	Full transfer	5	2	1	4	-	$720,000	99	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.47
+2014	422838	3 Deasland Place	17/01/2014	25/03/2014	09/12/2013	$701,000	1630m	Full transfer	4	1	1	-	2	$701,000	39	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.54
+2014	447764	7 Wynn Street	04/11/2014	09/03/2015	21/10/2014	$680,000	1040m	Full transfer	4	1	1	-	1	$680,000	14	-	Combined Record	197	-	-	Single residential dwelling	$315,000	0.46
+2014	430740	6 Waterman Place	06/03/2014	30/06/2014	12/02/2014	$650,000	1499m	Full transfer	4	1	1	2	-	$650,000	22	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.63
+2014	442938	65 Shakespeare Crescent	28/11/2014	07/01/2015	17/09/2014	$645,000	1048m	Full transfer	4	1	1	2	1	$645,000	72	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.43
+2014	439557	26 Daley Crescent	16/08/2014	11/11/2014	17/06/2014	$637,000	1452m	Full transfer	3	1	1	-	2	$637,000	60	-	Combined Record	-	-	-	Single residential dwelling	$311,000	0.49
+2014	426529	11 Dowthwaite Street	04/04/2014	07/05/2014	25/02/2014	$580,000	1176m	Full transfer	4	1	1	-	2	$580,000	38	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.48
+2014	445132	33 Shakespeare Crescent	19/12/2014	06/02/2015	01/12/2014	$567,000	1132m	Full transfer	4	1	1	2	-	$567,000	18	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.49
+2014	432473	33 Edlington Street	26/06/2014	04/08/2014	14/05/2014	$555,000	1032m	Full transfer	4	2	-	-	4	$555,000	43	-	Combined Record	185	-	-	Single residential dwelling	$229,000	0.41
+2014	432156	54 Daley Crescent	12/06/2014	31/07/2014	09/04/2014	$542,000	1104m	Full transfer	5	1	1	1	-	$542,000	64	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.58
+2014	443809	13 Foskett Street	01/11/2014	12/01/2015	01/10/2014	$531,000	1053m	Full transfer	3	1	1	-	-	$531,000	31	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.59
+2014	429795	2 Eddison Place	08/05/2014	29/06/2014	09/04/2014	$525,000	1263m	Full transfer	5	2	-	-	2	$525,000	29	-	Combined Record	170	-	-	Single residential dwelling	$311,000	0.59
+2014	437914	36 Dowthwaite Street	16/08/2014	24/10/2014	21/07/2014	$525,000	1423m	Full transfer	4	2	-	4	-	$525,000	26	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.53
+2014	432999	48 Carrodus Street	09/07/2014	13/08/2014	19/03/2014	$510,000	962m	Full transfer	4	2	-	1	1	$510,000	112	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.55
+2014	433605	28 Carrodus Street	17/06/2014	18/08/2014	24/04/2014	$500,000	952m	Full transfer	4	2	-	1	1	$500,000	54	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.56
+2014	446801	17 Rogers Street	17/12/2014	11/02/2015	14/11/2014	$490,000	1090m	Full transfer	3	1	-	1	0	$490,000	33	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.57
+2014	437562	13 Dowthwaite Street	15/08/2014	15/10/2014	16/06/2014	$480,000	1207m	Full transfer	4	2	-	1	-	$480,000	60	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.58
+2014	429547	127 Shakespeare Crescent	20/05/2014	18/06/2014	-	$480,000	1168m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431591	23 Rochford Street	21/06/2014	25/07/2014	29/05/2014	$480,000	955m	Full transfer	4	1	-	-	2	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.64
+2014	436634	48 Kerrigan Street	30/08/2014	05/10/2014	05/08/2014	$477,500	1132m	Full transfer	4	1	-	4	-	$477,500	25	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.49
+2014	427653	1 Champion Place	10/02/2014	02/05/2014	30/10/2013	$465,000	1143m	Full transfer	4	1	1	2	-	$465,000	103	-	Combined Record	-	-	-	Single residential dwelling...	$280,000	0.6
+2014	434030	47 Daley Crescent	06/06/2014	29/08/2014	24/04/2014	$465,000	1039m	Full transfer	3	2	-	0	1	$465,000	43	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.66
+2014	432154	10 Edlington Street	23/06/2014	31/07/2014	05/05/2014	$462,500	815m	Full transfer	3	1	-	2	3	$462,500	49	-	Combined Record	129	-	-	Single residential dwelling	$244,000	0.53
+2014	446399	6 Champion Place	13/12/2014	17/02/2015	18/11/2014	$459,000	1112m	Full transfer	3	1	1	1	-	$459,000	25	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.61
+2014	441262	2 Strathnairn Place	11/10/2014	04/12/2014	17/09/2014	$455,000	941m	Full transfer	3	1	-	-	-	$455,000	24	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.67
+2014	423977	221 Tillyard Drive	21/02/2014	01/04/2014	21/11/2013	$450,000	873m	Full transfer	3	1	1	2	-	$450,000	92	-	Combined Record	-	-	-	Single residential dwelling	$244,000	0.54
+2014	424590	8 Champion Place	13/02/2014	14/04/2014	22/01/2014	$417,000	1045m	Full transfer	3	1	-	-	1	$417,000	22	-	Combined Record	130	-	-	Single residential dwelling	$280,000	0.67
+2014	441679	56 Daley Crescent	16/10/2014	10/12/2014	24/09/2014	$407,000	991m	Full transfer	3	1	-	2	-	$407,000	22	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.77
+2014	459237	5 Nish Place	01/09/2014	11/08/2015	-	$0	1352m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	462140	86 Bingley Crescent	05/09/2014	24/09/2015	-	$0	987m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446403	38 Wynn Street	25/11/2014	19/02/2015	-	$0	1068m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429040	19 Edlington Street	19/05/2014	12/06/2014	-	$0	968m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426782	2 Strathnairn Place	31/03/2014	29/05/2014	-	$0	941m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427655	12 Rochford Street	31/03/2014	30/04/2014	-	$0	1168m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455572	15 Nott Street	24/07/2015	-	25/06/2015	$743,000	969m	Full transfer	4	1	2	2	-	$743,000	29	-	Allhomes Record	220	-	-	-	$324,000	0.44
+2015	461547	38 Bingley Crescent	04/08/2015	08/09/2015	13/07/2015	$697,000	1337m	Full transfer	4	1	1	2	-	$697,000	22	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.49
+2015	468206	7 De Smet Place	30/10/2015	14/12/2015	07/09/2015	$695,000	1008m	Full transfer	5	1	1	3	-	$695,000	53	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.46
+2015	464865	21 Moroney Street	29/08/2015	21/10/2015	28/07/2015	$686,000	1413m	Full transfer	5	1	1	2	-	$686,000	32	-	Combined Record	-	-	-	Single residential dwelling	$319,000	0.47
+2015	460249	26 Foskett Place	13/06/2015	25/08/2015	15/05/2015	$684,000	1029m	Full transfer	4	2	-	2	-	$684,000	29	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.48
+2015	451943	37 Dunbar Street	02/03/2015	06/05/2015	04/02/2015	$670,000	1150m	Full transfer	4	1	1	4	0	$670,000	26	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.44
+2015	469343	5 Dowthwaite Street	01/12/2015	14/01/2016	-	$655,000	1278m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457476	5 Waterman Place	05/05/2015	06/07/2015	-	$650,000	1113m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451069	7 Wynn Street	13/03/2015	27/04/2015	-	$638,500	1040m	Full transfer	-	-	-	-	-	$638,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468775	28 Dunbar Street	07/11/2015	06/01/2016	13/10/2015	$565,000	1066m	Full transfer	4	1	1	2	0	$565,000	25	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.52
+2015	463131	4 Cusack Place	13/06/2015	07/10/2015	18/05/2015	$560,000	972m	Full transfer	3	1	1	2	-	$560,000	26	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.46
+2015	473125	14 Dowthwaite Street	01/12/2015	01/03/2016	23/11/2015	$560,000	1027m	Full transfer	3	1	1	2	-	$560,000	8	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.53
+2015	458981	33 Dunbar Street	02/07/2015	06/08/2015	-	$550,000	1059m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474639	2/10 Champion Place	16/12/2015	07/04/2016	19/11/2015	$527,000	1306m	Full transfer	3	2	-	1	1	$527,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	464276	20 Rogers Street	16/10/2015	-	14/09/2015	$500,000	1276m	Full transfer	3	1	-	2	-	$500,000	32	-	Allhomes Record	-	-	-	-	$294,000	0.59
+2015	470854	37 Daley Crescent	05/12/2015	11/02/2016	30/10/2015	$485,000	1115m	Full transfer	3	1	1	2	-	$485,000	36	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.68
+2015	446402	3 Pettifer Place	09/01/2015	19/02/2015	-	$485,000	1107m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470848	78 Shakespeare Crescent	10/12/2015	10/02/2016	28/10/2015	$480,000	1110m	Full transfer	3	1	-	2	0	$480,000	43	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.61
+2015	458224	2 Lind Close	11/08/2015	-	15/05/2015	$479,000	-	Full transfer	4	1	1	2	-	$479,000	88	-	Allhomes Record	-	-	-	-	$3,751,000	7.83
+2015	464860	            2/4 Lind Close	11/08/2015	21/10/2015	-	$479,000	11837m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457035	11 Foskett Street	30/04/2015	23/06/2015	19/02/2015	$470,000	1018m	Full transfer	3	2	-	2	0	$470,000	70	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.7
+2015	462144	18 Nott Street	04/08/2015	25/09/2015	-	$465,000	1000m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465889	41 Nott Street	24/11/2015	-	08/10/2015	$455,000	1273m	Full transfer	3	2	-	2	-	$455,000	47	-	Allhomes Record	151	-	-	-	$315,000	0.69
+2015	473414	            1/41 Nott Street	24/11/2015	17/03/2016	-	$455,000	1273m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450343	217 Tillyard Drive	17/02/2015	14/04/2015	22/01/2015	$420,000	894m	Full transfer	3	1	-	2	-	$420,000	26	-	Combined Record	-	-	-	Single residential dwelling	$256,000	0.61
+2015	461555	24 Wynn Street	07/07/2015	09/09/2015	-	$400,000	1320m	Partial transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448046	21 Shakespeare Crescent	06/02/2015	19/03/2015	13/10/2014	$400,000	424m	Full transfer	3	1	-	2	0	$400,000	116	-	Combined Record	-	-	-	Medium density dwelling	$240,000	0.6
+2015	450767	19/12 Daley Crescent	08/05/2015	-	04/03/2015	$399,500	-	Full transfer	3	1	1	2	-	$399,500	65	-	Allhomes Record	-	-	-	-	-	-
+2015	454312	            19/4 Lind Close	08/05/2015	12/06/2015	-	$399,500	11837m	Full transfer	-	-	-	-	-	$399,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463133	5 Filshie Close	12/08/2015	08/10/2015	11/06/2015	$350,000	599m	Full transfer	3	1	-	0	2	$350,000	62	-	Combined Record	-	-	-	Medium density dwelling	$240,000	0.69
+2015	464859	32 Rogers Street	14/08/2015	19/10/2015	-	$29,600	1061m	Full transfer	-	-	-	-	-	$29,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452537	10 Dowthwaite Street	09/04/2015	21/05/2015	04/03/2015	$0	940m	Full transfer	4	1	1	2	-	$0	36	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.69
+2015	448810	48 Bingley Crescent	09/01/2015	26/03/2015	-	$0	1210m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	560006	1 Crease Place	04/06/2015	21/05/2019	-	$0	908m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448800	8 Wynn Street	30/01/2015	23/03/2015	-	$0	1204m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475439	200 Tillyard Drive	06/04/2015	14/04/2016	-	$0	1169m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462143	50 Bingley Crescent	13/07/2015	24/09/2015	-	$0	1238m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	512109	194 Tillyard Drive	10/07/2015	16/05/2017	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451953	72 Shakespeare Crescent	14/03/2015	04/05/2015	-	$0	1087m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471665	11 Bingley Crescent	25/11/2015	17/02/2016	-	$0	1241m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	454056	4 Keane Place	15/05/2015	01/06/2015	-	$0	1625m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477665	7 Bingley Crescent	17/02/2016	13/05/2016	28/01/2016	$830,000	1187m	Full transfer	4	2	1	0	2	$830,000	20	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.44
+2016	490292	37 Nott Street	31/08/2016	01/11/2016	-	$775,000	1200m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475995	32 Daley Crescent	19/01/2016	18/04/2016	19/10/2015	$745,000	1683m	Full transfer	6	2	1	2	-	$745,000	92	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.44
+2016	476689	6 Mildenhall Place	17/02/2016	28/04/2016	04/02/2016	$735,000	1856m	Full transfer	4	1	1	2	3	$735,000	13	-	Combined Record	-	-	-	Single residential dwelling	$400,000	0.54
+2016	474653	24 Wynn Street	20/01/2016	06/04/2016	14/10/2015	$685,000	1320m	Full transfer	4	1	1	2	-	$685,000	98	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.49
+2016	482398	69 Bingley Crescent	14/05/2016	28/07/2016	20/04/2016	$650,000	1141m	Full transfer	4	2	-	2	0	$650,000	24	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.5
+2016	495409	25 Rogers Street	22/11/2016	01/02/2017	-	$645,000	1140m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498995	118 Bingley Crescent	09/12/2016	01/03/2017	13/10/2016	$640,000	1234m	Full transfer	3	2	-	2	0	$640,000	57	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.51
+2016	476691	22 Wynn Place	09/02/2016	28/04/2016	22/12/2015	$630,000	1094m	Full transfer	4	1	1	2	-	$630,000	49	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.54
+2016	484916	24 Moroney Street	18/06/2016	19/08/2016	26/05/2016	$627,000	988m	Full transfer	4	2	-	0	2	$627,000	23	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.52
+2016	495364	109 Bingley Crescent	28/11/2016	31/01/2017	12/10/2016	$625,000	1110m	Full transfer	4	2	-	1	0	$625,000	47	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.52
+2016	491312	11 Daley Crescent	24/09/2016	24/11/2016	31/08/2016	$622,000	1093m	Full transfer	4	3	-	2	1	$622,000	24	-	Combined Record	-	-	-	Single residential dwelling	$332,000	0.53
+2016	495987	15 Bingley Crescent	05/11/2016	24/01/2017	13/10/2016	$600,000	1207m	Full transfer	3	2	-	2	0	$600,000	23	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.61
+2016	478268	48 Wynn Street	22/03/2016	17/05/2016	11/02/2016	$600,000	1245m	Full transfer	4	1	1	-	2	$600,000	40	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.56
+2016	478281	48 Carrodus Street	24/03/2016	17/05/2016	25/02/2016	$578,750	962m	Full transfer	4	2	-	1	1	$578,750	28	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.52
+2016	488855	49 Bingley Crescent	13/08/2016	26/10/2016	11/07/2016	$545,000	1002m	Full transfer	3	1	1	-	1	$545,000	33	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.62
+2016	480055	40 Kerrigan Street	23/04/2016	21/06/2016	07/04/2016	$517,000	1148m	Full transfer	3	1	1	2	2	$517,000	16	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.49
+2016	496783	4 Carrodus Street	21/12/2016	10/02/2017	05/12/2016	$505,000	1024m	Full transfer	3	1	-	2	0	$505,000	16	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.6
+2016	489040	1 Carrodus Street	23/08/2016	25/10/2016	10/06/2016	$500,000	1241m	Full transfer	3	2	1	0	1	$500,000	74	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.6
+2016	486417	14 Lind Close	08/10/2016	-	15/09/2016	$483,000	-	Full transfer	3	1	1	2	0	$483,000	23	-	Allhomes Record	-	-	-	-	$3,751,000	7.77
+2016	489670	3 Daley Crescent	15/11/2016	-	28/09/2016	$469,000	975m	Full transfer	4	2	-	0	1	$469,000	48	-	Allhomes Record	-	-	-	-	$549,000	1.17
+2016	495200	            2/3 Daley Crescent	15/11/2016	18/01/2017	-	$469,000	975m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	499042	42 Wynn Street	03/12/2016	01/03/2017	10/11/2016	$455,000	1180m	Full transfer	3	1	-	0	2	$455,000	23	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.61
+2016	474129	30 Nott Street	14/04/2016	-	25/02/2016	$455,000	987m	Full transfer	-	-	-	-	-	$455,000	49	-	Allhomes Record	-	-	-	-	$308,000	0.68
+2016	479538	56 Daley Crescent	04/04/2016	06/06/2016	-	$450,000	991m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481737	3A Daley Crescent	12/08/2016	-	09/05/2016	$445,000	-	Full transfer	3	1	1	1	-	$445,000	95	-	Allhomes Record	-	-	-	-	$549,000	1.23
+2016	478807	121 Shakespeare Crescent	18/03/2016	24/05/2016	05/02/2016	$435,000	1115m	Full transfer	3	1	-	-	2	$435,000	42	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.69
+2016	477942	5/25 Lind Close	07/06/2016	-	15/04/2016	$295,000	1584m	Full transfer	1	1	-	1	-	$295,000	53	-	Allhomes Record	-	-	-	-	-	-
+2016	493667	127 Shakespeare Crescent	03/11/2016	21/12/2016	-	$0	1168m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489301	16 Nott Street	02/06/2016	18/10/2016	-	$0	1067m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483230	39 Shakespeare Crescent	11/01/2016	09/08/2016	-	$0	1084m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498110	19 Brophy Street	01/11/2016	14/02/2017	-	$0	1254m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488891	11 Daley Crescent	20/04/2016	27/10/2016	-	$0	1093m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475992	42 Foskett Street	07/01/2016	20/04/2016	-	$0	1073m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486625	15 Bingley Crescent	06/06/2016	12/09/2016	-	$0	1207m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	519037	14 Nott Street	15/11/2016	06/10/2017	-	$0	1063m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	518018	17 Bingley Crescent	28/12/2016	29/08/2017	-	$0	1076m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522053	12 Wynn Place	10/10/2017	04/01/2018	06/09/2017	$860,000	1072m	Full transfer	4	1	2	-	2	$860,000	34	-	Combined Record	210	-	-	Single residential dwelling	$346,000	0.4
+2017	528318	13 Lind Close	28/10/2017	25/03/2018	29/09/2017	$833,000	1152m	Full transfer	5	2	-	4	0	$833,000	29	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.4
+2017	512608	30 Nott Street	18/03/2017	09/05/2017	11/02/2017	$830,000	987m	Full transfer	5	2	1	2	-	$830,000	35	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.41
+2017	503888	38 Bingley Crescent	16/02/2017	26/04/2017	24/01/2017	$770,000	1337m	Full transfer	4	2	-	2	0	$770,000	23	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.47
+2017	513151	2 Waterman Place	18/03/2017	08/06/2017	22/02/2017	$770,000	1177m	Full transfer	5	3	-	2	-	$770,000	24	-	Combined Record	321	-	-	Single residential dwelling	$361,000	0.47
+2017	513111	5 Bingley Crescent	15/03/2017	06/06/2017	-	$750,000	1221m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518245	42 Kerrigan Street	08/07/2017	29/08/2017	21/06/2017	$741,000	1019m	Full transfer	4	1	1	4	0	$741,000	17	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.35
+2017	524823	96 Bingley Crescent	15/11/2017	30/01/2018	31/10/2017	$730,000	861m	Full transfer	4	1	1	2	2	$730,000	15	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.46
+2017	503311	2 Eddison Place	10/02/2017	03/04/2017	-	$720,000	1263m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501146	1 Bingley Crescent	20/02/2017	30/03/2017	18/01/2017	$710,000	1159m	Full transfer	3	2	-	2	0	$710,000	33	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.49
+2017	521229	28 Rogers Street	27/07/2017	05/12/2017	05/07/2017	$710,000	1449m	Full transfer	4	2	-	2	0	$710,000	22	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.43
+2017	514649	43 Brophy Street	28/04/2017	03/07/2017	07/03/2017	$700,000	1127m	Full transfer	5	2	-	2	0	$700,000	52	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.48
+2017	526345	16 Bingley Crescent	20/11/2017	26/02/2018	08/11/2017	$690,000	1139m	Full transfer	4	2	-	0	0	$690,000	12	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.52
+2017	517602	19 Foskett Street	21/07/2017	23/08/2017	-	$690,000	977m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526841	32 Nott Street	21/12/2017	07/03/2018	-	$687,000	987m	Full transfer	-	-	-	-	-	$687,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504423	35 Dunbar Street	25/05/2017	-	10/04/2017	$670,000	2146m	Full transfer	-	-	-	-	-	$670,000	45	-	Allhomes Record	-	-	-	-	$265,000	0.4
+2017	516101	35 Dunbar Street	24/07/2017	24/07/2017	-	$670,000	2146m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516056	48 Bingley Crescent	20/05/2017	24/07/2017	24/04/2017	$670,000	1210m	Full transfer	4	2	-	7	2	$670,000	26	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.52
+2017	506508	5 Dunbar Street	20/07/2017	-	29/06/2017	$661,000	0m	Full transfer	4	2	-	2	0	$661,000	21	-	Allhomes Record	-	-	-	-	$307,000	0.46
+2017	516042	1 Eddison Place	24/07/2017	24/07/2017	-	$650,000	1208m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504405	1 Eddison Place	25/05/2017	-	12/04/2017	$650,000	1208m	Full transfer	-	-	-	-	-	$650,000	43	-	Allhomes Record	-	-	-	-	$383,000	0.59
+2017	510302	1 Nish Place	05/12/2017	-	01/11/2017	$630,000	1018m	Full transfer	-	-	-	-	-	$630,000	34	-	Allhomes Record	-	-	-	-	$297,000	0.47
+2017	508989	47 Bingley Crescent	28/10/2017	-	05/10/2017	$626,500	0m	Full transfer	3	1	-	2	0	$626,500	23	-	Allhomes Record	-	-	-	-	$323,000	0.52
+2017	503471	22 Foskett Place	01/03/2017	06/04/2017	14/10/2016	$615,000	1194m	Full transfer	4	2	-	2	0	$615,000	138	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.53
+2017	520939	27 Lind Close	22/09/2017	30/11/2017	-	$605,000	1220m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524691	50 Kerrigan Street	16/11/2017	30/01/2018	26/10/2017	$600,000	1169m	Full transfer	4	2	-	2	0	$600,000	21	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.43
+2017	514641	36 Kerrigan Street	05/04/2017	03/07/2017	-	$570,000	1153m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	502460	5 Cusack Place	02/03/2017	21/04/2017	17/11/2016	$565,000	1323m	Full transfer	4	2	-	2	-	$565,000	105	-	Combined Record	161	-	-	Single residential dwelling	$268,000	0.47
+2017	506640	7 Dowthwaite Street	26/07/2017	-	04/07/2017	$560,000	-	Full transfer	3	1	-	1	1	$560,000	22	-	Allhomes Record	-	-	-	-	$307,000	0.55
+2017	514230	12 Bingley Crescent	29/06/2017	29/06/2017	09/04/2017	$550,000	1356m	Full transfer	-	-	-	-	-	$550,000	81	-	Combined Record	-	-	-	Single residential dwelling	$357,000	0.65
+2017	503094	1/71 Shakespeare Crescent	01/02/2017	05/04/2017	-	$530,000	1115m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517792	3/25 Nott Street	14/06/2017	29/08/2017	-	$505,000	1428m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514210	21 Rogers Street	26/06/2017	26/06/2017	09/04/2017	$500,000	1097m	Full transfer	-	-	-	-	-	$500,000	78	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.56
+2017	514240	41 Brophy Street	27/06/2017	27/06/2017	-	$490,000	1075m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500328	41 Brophy Street	27/03/2017	-	10/02/2017	$490,000	1074m	Full transfer	-	-	-	-	-	$490,000	45	-	Allhomes Record	-	-	-	-	$305,000	0.62
+2017	519281	            2/41 Nott Street	04/07/2017	10/10/2017	-	$487,000	1273m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516344	56 Daley Crescent	27/04/2017	11/08/2017	-	$470,000	991m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510706	32 Kerrigan Street	18/12/2017	-	10/04/2017	$470,000	1151m	Full transfer	-	-	-	-	-	$470,000	252	-	Allhomes Record	-	-	-	-	$235,000	0.5
+2017	503532	            23/4 Lind Close	01/03/2017	24/04/2017	-	$465,000	11837m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	496281	23/12 Daley Crescent	02/03/2017	-	13/01/2017	$465,000	-	Full transfer	3	1	1	2	0	$465,000	48	-	Allhomes Record	-	-	-	-	$3,751,000	8.07
+2017	494376	22/12 Daley Crescent	08/02/2017	-	09/11/2016	$449,950	-	Full transfer	3	2	-	2	-	$449,950	91	-	Allhomes Record	122	-	-	-	$3,751,000	8.34
+2017	503378	            22/4 Lind Close	03/03/2017	06/04/2017	-	$449,950	11837m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501357	15 Shakespeare Crescent	14/02/2017	28/03/2017	19/01/2017	$425,700	553m	Full transfer	3	1	-	2	0	$425,700	26	-	Combined Record	-	-	-	Medium density dwelling	$251,000	0.59
+2017	506370	17 Shakespeare Crescent	13/07/2017	-	15/06/2017	$425,000	0m	Full transfer	3	1	-	0	2	$425,000	28	-	Allhomes Record	-	-	-	-	$251,000	0.59
+2017	525938	21 Filshie Close	10/10/2017	14/02/2018	-	$420,000	435m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2017	530969	2 Wynn Street	28/07/2017	22/04/2018	-	$260,000	1047m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	574227	4 De Smet Place	15/09/2017	15/11/2019	-	$0	1049m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529194	6/4 Lind Close	23/12/2017	28/03/2018	-	$0	11837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514388	11 Bingley Crescent	02/03/2017	03/07/2017	-	$0	1241m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528485	30 Dunbar Street	26/08/2017	21/03/2018	28/07/2017	$0	1083m	Full transfer	3	1	-	2	0	$0	29	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.59
+2017	518947	3 De Smet Place	30/07/2017	11/09/2017	-	$0	1047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516698	56 Wynn Street	07/06/2017	04/08/2017	-	$0	1157m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502779	8/4 Lind Close	21/02/2017	10/04/2017	-	$0	11837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523667	21 Shakespeare Crescent	16/08/2017	15/01/2018	-	$0	424m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	542763	46 Wynn Street	31/07/2017	25/09/2018	-	$0	1018m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516835	78 Shakespeare Crescent	16/05/2017	31/07/2017	-	$0	1110m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519005	39 Daley Crescent	02/05/2017	03/10/2017	-	$0	1142m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	556311	79 Bingley Crescent	01/12/2018	26/03/2019	07/11/2018	$965,000	892m	Full transfer	5	3	-	3	0	$965,000	24	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.36
+2018	511219	9 De Smet Place	24/01/2018	-	21/12/2017	$941,000	0m	Full transfer	5	2	-	2	0	$941,000	34	-	Allhomes Record	-	-	-	-	$350,000	0.37
+2018	560600	56 Daley Crescent	27/11/2018	15/02/2019	06/09/2018	$900,000	991m	Full transfer	6	3	-	0	2	$900,000	82	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.4
+2018	533472	1 Woodger Place	24/03/2018	24/05/2018	01/03/2018	$885,000	1426m	Full transfer	4	2	0	3	0	$885,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.42
+2018	547970	5 Rochford Street	04/05/2018	24/10/2018	11/04/2018	$880,000	915m	Full transfer	5	1	1	3	0	$880,000	23	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.4
+2018	550031	22 Dowthwaite Street	06/10/2018	11/12/2018	13/09/2018	$879,000	1152m	Full transfer	6	2	-	6	0	$879,000	23	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.38
+2018	548777	7 Keane Place	11/12/2018	15/01/2019	11/10/2018	$870,000	1544m	Full transfer	4	2	-	2	0	$870,000	61	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.45
+2018	543705	5 Brophy Street	14/09/2018	08/10/2018	-	$830,000	1018m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547196	3 De Smet Place	15/09/2018	22/11/2018	23/08/2018	$792,000	1047m	Full transfer	4	2	-	1	0	$792,000	23	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.44
+2018	530896	107 Shakespeare Crescent	23/02/2018	19/04/2018	30/01/2018	$763,000	1056m	Full transfer	4	3	-	4	0	$763,000	24	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.43
+2018	535500	31 Nott Street	28/03/2018	18/06/2018	19/10/2017	$750,000	1092m	Full transfer	4	1	1	3	0	$750,000	160	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.48
+2018	547049	23 Foskett Street	22/10/2018	20/11/2018	-	$750,000	964m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543684	21 Brophy Street	18/07/2018	11/10/2018	11/07/2018	$740,000	1059m	Full transfer	3	3	-	2	0	$740,000	7	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.47
+2018	535717	3 Nish Place	03/05/2018	24/06/2018	26/04/2018	$740,000	1107m	Full transfer	4	1	1	0	2	$740,000	7	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.49
+2018	547456	6 Dowthwaite Street	10/10/2018	19/11/2018	-	$730,000	1035m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527492	4 Woodger Place	28/03/2018	-	14/03/2018	$715,000	0m	Full transfer	5	2	-	2	0	$715,000	14	-	Allhomes Record	-	-	-	-	$450,000	0.63
+2018	529742	10 Carrodus Street	10/02/2018	08/04/2018	15/01/2018	$670,000	1223m	Full transfer	4	2	-	2	-	$670,000	26	-	Combined Record	197	-	-	Single residential dwelling	$330,000	0.49
+2018	551692	11 Nott Street	13/11/2018	10/01/2019	13/07/2018	$660,000	1032m	Full transfer	3	2	-	2	0	$660,000	123	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.54
+2018	532212	87 Shakespeare Crescent	10/03/2018	07/05/2018	16/02/2018	$648,000	1073m	Full transfer	5	2	-	1	2	$648,000	22	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.51
+2018	525824	1 Nish Place	13/02/2018	13/02/2018	-	$630,000	1018m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	538641	84 Shakespeare Crescent	31/05/2018	26/07/2018	16/04/2018	$590,000	1122m	Full transfer	3	1	-	2	0	$590,000	45	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.56
+2018	545830	10 Lind Close	14/12/2018	-	30/10/2018	$550,000	485m	Full transfer	3	2	-	2	0	$550,000	45	-	Allhomes Record	-	-	-	-	$3,751,000	6.82
+2018	553132	            11/4 Lind Close	14/12/2018	04/02/2019	-	$550,000	11837m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543854	35 Shakespeare Crescent	03/08/2018	08/10/2018	-	$540,000	1214m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528064	            3/41 Nott Street	08/01/2018	22/03/2018	-	$525,000	1273m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525178	24 Dunbar Street	16/02/2018	-	01/11/2017	$500,000	1129m	Full transfer	-	-	-	-	-	$500,000	107	-	Allhomes Record	-	-	-	-	$460,000	0.92
+2018	530802	24 Dunbar Street	17/04/2018	17/04/2018	-	$500,000	1130m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	526526	21/12 Daley Crescent	10/03/2018	-	21/02/2018	$473,000	-	Full transfer	3	1	1	2	0	$473,000	17	-	Allhomes Record	-	-	-	-	$3,751,000	7.93
+2018	534869	            21/4 Lind Close	10/03/2018	12/06/2018	-	$473,000	11837m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542658	            2/71 Shakespeare Crescent	07/09/2018	27/09/2018	-	$250,000	1115m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537466	48 Kerrigan Street	09/03/2018	09/07/2018	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	565960	14 Wynn Place	19/09/2018	31/07/2019	-	$0	1149m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540995	8 De Smet Place	07/08/2018	28/08/2018	-	$0	1112m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537631	5 Nish Place	22/06/2018	10/07/2018	-	$0	1352m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563116	42 Foskett Street	16/12/2018	18/06/2019	-	$0	1073m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558328	204 Tillyard Drive	10/10/2018	01/05/2019	-	$0	1322m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554274	11 Pettifer Place	17/12/2018	01/03/2019	-	$0	1176m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563875	13 Edlington Street	14/11/2018	02/07/2019	-	$0	1005m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	570842	26 Rogers Street	07/02/2018	02/10/2019	-	$0	1277m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572357	9 De Smet Place	31/08/2019	14/10/2019	07/08/2019	$1,019,000	1243m	Full transfer	5	2	-	2	-	$1,019,000	24	-	Combined Record	373	-	-	Single residential dwelling	$350,000	0.34
+2019	573528	8 Wynn Street	26/11/2019	-	31/10/2019	$965,000	1204m	Full transfer	5	3	-	2	0	$965,000	26	-	Allhomes Record	-	-	-	-	$380,000	0.39
+2019	576913	            8 Bingley Crescent	20/12/2019	-	27/11/2019	$960,000	604m	Full transfer	4	2	-	2	0	$960,000	23	-	Allhomes Record	-	-	-	-	-	-
+2019	566541	16 Edlington Street	26/07/2019	06/08/2019	-	$870,000	887m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	568284	37 Bingley Crescent	06/07/2019	28/08/2019	05/06/2019	$855,000	1155m	Full transfer	4	2	-	2	0	$855,000	31	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.42
+2019	567347	9 Bazley Street	03/07/2019	12/08/2019	13/03/2019	$835,000	1243m	Full transfer	5	2	-	2	2	$835,000	112	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.41
+2019	567624	6 Rochford Street	04/07/2019	22/08/2019	11/04/2019	$777,000	967m	Full transfer	5	2	-	0	2	$777,000	84	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.45
+2019	573041	3 Bingley Crescent	13/08/2019	29/10/2019	16/05/2019	$775,000	1202m	Full transfer	5	2	-	0	2	$775,000	89	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.47
+2019	575383	11 Carrodus Street	26/09/2019	26/11/2019	-	$750,000	1116m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570056	5 Cusack Place	26/07/2019	19/09/2019	04/04/2019	$725,000	1323m	Full transfer	4	2	-	4	0	$725,000	113	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.39
+2019	563957	23 Lind Close	29/03/2019	02/07/2019	05/03/2019	$720,000	1250m	Full transfer	4	2	-	3	0	$720,000	24	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.41
+2019	571530	97 Shakespeare Crescent	04/11/2019	-	08/08/2019	$715,000	1025m	Full transfer	4	2	-	0	2	$715,000	88	-	Allhomes Record	-	-	-	-	$340,000	0.48
+2019	561285	76 Daley Crescent	01/03/2019	14/05/2019	08/11/2018	$669,900	1037m	Full transfer	4	2	-	2	-	$669,900	113	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.46
+2019	564077	42 Foskett Street	04/05/2019	02/07/2019	10/04/2019	$665,000	1073m	Full transfer	4	2	-	0	2	$665,000	24	-	Combined Record	-	-	-	Single residential dwelling	$363,000	0.55
+2019	573483	2 Keane Place	25/11/2019	-	26/09/2019	$660,000	1212m	Full transfer	4	2	-	2	0	$660,000	60	-	Allhomes Record	-	-	-	-	$352,000	0.53
+2019	570473	200 Tillyard Drive	22/08/2019	25/09/2019	31/07/2019	$655,000	1169m	Full transfer	3	2	1	2	-	$655,000	22	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.49
+2019	567662	198 Tillyard Drive	25/05/2019	20/08/2019	02/05/2019	$635,000	1182m	Full transfer	4	2	-	2	0	$635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.5
+2019	573289	13 Dowthwaite Street	16/09/2019	30/10/2019	06/06/2019	$635,000	1207m	Full transfer	4	2	-	1	0	$635,000	102	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.54
+2019	575658	204 Tillyard Drive	18/09/2019	05/12/2019	29/08/2019	$620,000	1322m	Full transfer	3	2	-	0	1	$620,000	20	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.54
+2019	576260	205 Tillyard Drive	19/12/2019	-	24/10/2019	$620,000	0m	Full transfer	3	2	-	4	0	$620,000	56	-	Allhomes Record	-	-	-	-	$277,000	0.45
+2019	565827	2 Cusack Place	03/07/2019	24/07/2019	01/05/2019	$619,000	1064m	Full transfer	3	1	-	2	0	$619,000	63	-	Combined Record	-	-	-	Single residential dwelling...	$296,000	0.48
+2019	570888	28 Carrodus Street	22/08/2019	01/10/2019	01/08/2019	$607,000	952m	Full transfer	4	2	-	4	2	$607,000	21	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.54
+2019	574690	7 Binns Street	25/10/2019	21/11/2019	-	$592,000	1194m	Full transfer	-	-	-	-	-	$592,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573830	19 Carrodus Street	26/11/2019	-	23/10/2019	$585,000	1154m	Full transfer	3	2	-	2	0	$585,000	34	-	Allhomes Record	-	-	-	-	$340,000	0.58
+2019	558927	11 Binns Street	17/05/2019	-	08/02/2019	$575,000	1433m	Full transfer	-	-	-	-	-	$575,000	98	-	Allhomes Record	-	-	-	-	$275,000	0.48
+2019	574016	24 Dowthwaite Street	03/12/2019	-	08/11/2019	$570,000	1151m	Full transfer	3	1	-	1	1	$570,000	25	-	Allhomes Record	-	-	-	-	$340,000	0.6
+2019	562046	24/12 Daley Crescent	21/06/2019	-	11/06/2019	$555,000	0m	Full transfer	3	2	-	2	0	$555,000	10	-	Allhomes Record	-	-	-	-	-	-
+2019	568346	            24/4 Lind Close	21/06/2019	28/08/2019	-	$555,000	11837m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565613	7 Cusack Place	28/06/2019	24/07/2019	-	$550,000	1389m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573087	            17/4 Lind Close	13/09/2019	28/10/2019	-	$542,500	11837m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572078	19/12 Daley Crescent	13/11/2019	-	11/10/2019	$542,500	0m	Full transfer	3	2	-	2	0	$542,500	33	-	Allhomes Record	-	-	-	-	-	-
+2019	568446	17/12 Daley Crescent	13/09/2019	-	14/08/2019	$542,500	0m	Full transfer	3	2	-	2	0	$542,500	30	-	Allhomes Record	-	-	-	-	-	-
+2019	558439	8/4 Lind Close	08/03/2019	02/05/2019	11/12/2018	$525,000	11837m	Full transfer	3	2	-	2	-	$525,000	87	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	568287	42 Wynn Street	15/08/2019	28/08/2019	-	$520,000	1180m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572895	            22/4 Lind Close	05/09/2019	25/10/2019	-	$510,000	11837m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568005	22/12 Daley Crescent	05/09/2019	-	23/05/2019	$510,000	0m	Full transfer	3	2	-	2	0	$510,000	105	-	Allhomes Record	-	-	-	-	-	-
+2019	572956	3/25 Lind Close	28/08/2019	31/10/2019	-	$460,000	1584m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558531	            2/3 Daley Crescent	05/03/2019	02/05/2019	-	$14,000	975m	Full transfer	-	-	-	-	-	$14,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566700	16 Edlington Street	28/05/2019	06/08/2019	-	$0	887m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564859	26 Wynn Street	01/02/2019	08/07/2019	-	$0	1170m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564754	3 De Smet Place	26/01/2019	08/07/2019	-	$0	1047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572819	22 Dunbar Street	01/06/2019	23/10/2019	-	$0	1159m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	555526	9 Bingley Crescent	31/01/2019	21/03/2019	-	$0	1255m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
