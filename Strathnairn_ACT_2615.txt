@@ -1,0 +1,44 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2017	574734	            4 Havard Street	16/10/2017	22/11/2019	-	$226,100	313m	Full transfer	-	-	-	-	-	$226,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543577	             Pro Hart Avenue	18/10/2018	-	14/09/2018	$1,950,000	1800m	Full transfer	-	-	-	-	-	$1,950,000	34	-	Allhomes Record	-	-	-	-	-	-
+2018	545435	             Tredwell Street	18/10/2018	-	14/09/2018	$1,450,000	1400m	Full transfer	-	-	-	-	-	$1,450,000	34	-	Allhomes Record	-	-	-	-	-	-
+2018	543568	             Yeomans Street	18/10/2018	-	14/09/2018	$804,000	1345m	Full transfer	-	-	-	-	-	$804,000	34	-	Allhomes Record	-	-	-	-	-	-
+2018	569838	            84 Tredwell Street	14/05/2018	19/09/2019	-	$227,700	294m	Full transfer	-	-	-	-	-	$227,700	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	574719	            45 Fairbrother Street	11/05/2018	20/11/2019	-	$227,200	314m	Full transfer	-	-	-	-	-	$227,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565367	            20 Yeomans Street	04/08/2019	-	22/02/2019	$675,000	537m	Full transfer	4	2	-	2	-	$675,000	163	-	Allhomes Record	260	-	-	-	-	-
+2019	573827	21 Fairbrother Street	27/11/2019	-	26/09/2018	$599,000	0m	Full transfer	4	2	-	2	0	$599,000	427	-	Allhomes Record	-	-	-	-	-	-
+2019	574184	            10 Boxall Lane	10/12/2019	-	02/10/2019	$549,900	350m	Full transfer	3	2	1	2	0	$549,900	69	-	Allhomes Record	-	-	-	-	-	-
+2019	574002	            32 Fairbrother Street	13/11/2019	-	23/10/2019	$440,000	640m	Full transfer	-	-	-	-	-	$440,000	21	-	Allhomes Record	-	-	-	-	-	-
+2019	576452	            16 Ariotti Street	30/09/2019	10/12/2019	-	$350,000	545m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565626	            20 Yeomans Street	12/06/2019	22/07/2019	-	$350,000	537m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575795	            10 Fairbrother Street	28/05/2019	02/12/2019	-	$350,000	491m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576981	            15 Fairbrother Street	23/12/2019	-	17/07/2019	$337,000	440m	Full transfer	0	0	-	0	0	$337,000	159	-	Allhomes Record	-	-	-	-	-	-
+2019	577247	            25 Fairbrother Street	03/10/2019	19/12/2019	-	$335,000	462m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564925	            5 Folvig Close	15/05/2019	11/07/2019	-	$332,300	526m	Full transfer	-	-	-	-	-	$332,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574744	            16 Fairbrother Street	05/09/2019	22/11/2019	-	$330,000	420m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564544	            6 Tinetti Close	22/05/2019	15/07/2019	-	$322,000	416m	Full transfer	-	-	-	-	-	$322,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565833	            8 Yeomans Street	20/06/2019	22/07/2019	-	$320,000	472m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576122	            30 Ariotti Street	20/09/2019	07/12/2019	-	$309,950	455m	Full transfer	-	-	-	-	-	$309,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567889	            1 Yoornie Way	28/06/2019	19/08/2019	-	$290,000	389m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575269	            13 Yoornie Way	13/09/2019	27/11/2019	-	$290,000	347m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575735	            23 Fairbrother Street	15/11/2019	07/12/2019	-	$290,000	412m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572930	            20 Tredwell Street	31/07/2019	21/10/2019	-	$285,000	350m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576133	            24 Ariotti Street	10/10/2019	07/12/2019	-	$285,000	350m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567710	            5 Tredwell Street	02/05/2019	22/08/2019	-	$283,200	421m	Full transfer	-	-	-	-	-	$283,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567932	            1 Tredwell Street	02/05/2019	19/08/2019	-	$283,200	429m	Full transfer	-	-	-	-	-	$283,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567740	            98 Pro Hart Avenue	12/07/2019	20/08/2019	-	$281,444	457m	Full transfer	-	-	-	-	-	$281,444	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565723	            9 Yoornie Way	04/06/2019	23/07/2019	-	$280,000	347m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575784	            21 Fairbrother Street	12/09/2019	04/12/2019	-	$278,200	382m	Full transfer	-	-	-	-	-	$278,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576442	            8 Boxall Lane	17/06/2019	10/12/2019	-	$275,000	313m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569183	            3 Tredwell Street	24/07/2019	13/09/2019	-	$260,000	350m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571066	            32 Ariotti Street	29/08/2019	01/10/2019	-	$259,100	384m	Full transfer	-	-	-	-	-	$259,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574549	            6 Havard Street	28/08/2019	21/11/2019	-	$256,000	298m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565031	            103 Pro Hart Avenue	15/05/2019	11/07/2019	-	$254,773	402m	Full transfer	-	-	-	-	-	$254,773	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570299	            86 Tredwell Street	07/05/2019	27/09/2019	-	$250,000	294m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565024	            95 Pro Hart Avenue	12/06/2019	11/07/2019	-	$248,635	393m	Full transfer	-	-	-	-	-	$248,635	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565070	            11 Yoornie Way	14/06/2019	12/07/2019	-	$247,200	347m	Full transfer	-	-	-	-	-	$247,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574484	            2 Tinetti Close	20/05/2019	21/11/2019	-	$243,700	342m	Full transfer	-	-	-	-	-	$243,700	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576021	            4 Tredwell Street	30/08/2019	03/12/2019	-	$240,000	294m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565575	            97 Pro Hart Avenue	26/06/2019	25/07/2019	-	$232,267	369m	Full transfer	-	-	-	-	-	$232,267	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572223	            99 Tredwell Street	27/08/2019	16/10/2019	-	$230,000	277m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569887	            96 Tredwell Street	07/08/2019	16/09/2019	-	$220,000	194m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
