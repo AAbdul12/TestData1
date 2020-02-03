@@ -1,0 +1,1106 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2014	453967	17 Rouseabout Street	17/12/2014	02/06/2015	-	$614,500	857m	Full transfer	-	-	-	-	-	$614,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	453974	31 Solong Street	17/12/2014	02/06/2015	-	$510,000	549m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	497047	            14/2 Pipeclay Street	24/12/2014	08/02/2017	-	$509,900	6678m	Full transfer	-	-	-	-	-	$509,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	503033	            3/2 Pipeclay Street	23/12/2014	10/04/2017	-	$479,900	6678m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	450972	3 Concertina Street	20/10/2014	27/04/2015	-	$475,000	540m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	453966	16 Concertina Street	17/12/2014	02/06/2015	-	$472,000	450m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464732	30 Jumbuck Crescent	25/07/2014	24/10/2015	-	$295,000	250m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	501748	            2/1 Pipeclay Street	22/12/2015	21/03/2017	-	$3,449,001	5610m	Full transfer	-	-	-	-	-	$3,449,001	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467381	60 Wanderlight Avenue	23/12/2015	-	17/10/2014	$920,000	-	Full transfer	4	1	1	2	-	$920,000	432	-	Allhomes Record	-	-	-	-	$478,000	0.52
+2015	471513	29 Rouseabout Street	09/09/2015	10/02/2016	15/08/2015	$720,000	1078m	Full transfer	-	-	-	-	-	$720,000	25	-	Combined Record	-	-	-	Single residential dwelling	$635,000	0.88
+2015	521695	            1/2 Bulletin Street	02/12/2015	20/12/2017	-	$679,000	6326m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	520339	            10/2 Bulletin Street	08/12/2015	31/10/2017	-	$679,000	6326m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	519327	            9/2 Bulletin Street	10/12/2015	13/10/2017	-	$659,000	6326m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468121	3 Dawn Crescent	06/10/2015	15/12/2015	-	$640,000	855m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	520123	            27/2 Bulletin Street	27/11/2015	01/11/2017	-	$604,000	6326m	Full transfer	-	-	-	-	-	$604,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	484934	3 Sliprail Street	11/08/2015	19/08/2016	-	$596,010	276m	Full transfer	-	-	-	-	-	$596,010	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	500740	            24/1 Pipeclay Street	04/11/2015	17/03/2017	-	$589,900	5610m	Full transfer	-	-	-	-	-	$589,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501563	            34/1 Pipeclay Street	14/12/2015	22/03/2017	-	$580,445	5610m	Full transfer	-	-	-	-	-	$580,445	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514228	            15/11 Stockman Avenue	17/12/2015	27/06/2017	-	$579,900	7028m	Full transfer	-	-	-	-	-	$579,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512993	            13/11 Stockman Avenue	21/12/2015	09/06/2017	-	$574,900	7028m	Full transfer	-	-	-	-	-	$574,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501682	            35/1 Pipeclay Street	18/11/2015	23/03/2017	-	$569,900	5610m	Full transfer	-	-	-	-	-	$569,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486529	            72/79 Stockman Avenue	05/08/2015	12/09/2016	-	$567,150	12647m	Full transfer	-	-	-	-	-	$567,150	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	485629	            82/79 Stockman Avenue	30/10/2015	31/08/2016	-	$560,000	12647m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	460178	5 Dawn Crescent	30/04/2015	28/08/2015	-	$559,000	859m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	513391	            25/17 Stockman Avenue	18/11/2015	31/05/2017	-	$555,000	6692m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486796	            77/79 Stockman Avenue	30/07/2015	12/09/2016	-	$550,000	12647m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498390	            29/48 Narrambla Terrace	24/04/2015	16/02/2017	-	$550,000	8526m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	549160	1/11 Wanderlight Avenue	14/07/2015	24/12/2018	-	$549,900	5694m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498811	            8/48 Narrambla Terrace	05/03/2015	03/03/2017	-	$549,900	8526m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497890	            7/48 Narrambla Terrace	12/03/2015	22/02/2017	-	$549,900	8526m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487353	            85/79 Stockman Avenue	16/07/2015	19/09/2016	-	$547,450	12647m	Full transfer	-	-	-	-	-	$547,450	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487941	            70/79 Stockman Avenue	09/07/2015	11/10/2016	-	$544,000	12647m	Full transfer	-	-	-	-	-	$544,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	491345	            79/79 Stockman Avenue	23/07/2015	23/11/2016	-	$540,840	12647m	Full transfer	-	-	-	-	-	$540,840	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514261	            13/17 Stockman Avenue	03/12/2015	29/06/2017	-	$540,000	6692m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	472991	62 Wanderlight Avenue	27/11/2015	01/03/2016	-	$540,000	725m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	549116	5/11 Wanderlight Avenue	04/06/2015	19/12/2018	-	$539,900	5694m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497464	            34/2 Pipeclay Street	30/04/2015	23/02/2017	-	$539,900	6678m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512421	            45/17 Stockman Avenue	09/12/2015	11/05/2017	-	$535,000	6692m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497089	            36/2 Pipeclay Street	17/06/2015	09/02/2017	-	$535,000	6678m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	496829	            22/48 Narrambla Terrace	23/04/2015	10/02/2017	-	$533,000	8526m	Full transfer	-	-	-	-	-	$533,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486195	            1/79 Stockman Avenue	11/12/2015	07/09/2016	-	$530,000	12647m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512299	            24/17 Stockman Avenue	14/10/2015	19/05/2017	-	$530,000	6692m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	517050	            22/17 Stockman Avenue	03/11/2015	03/08/2017	-	$530,000	6692m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	459198	35 Solong Street	03/07/2015	12/08/2015	-	$530,000	540m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	546953	2/11 Wanderlight Avenue	04/09/2015	26/11/2018	-	$529,900	5694m	Full transfer	-	-	-	-	-	$529,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486151	            80/79 Stockman Avenue	14/07/2015	09/09/2016	-	$529,150	12647m	Full transfer	-	-	-	-	-	$529,150	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487908	            81/79 Stockman Avenue	04/08/2015	10/10/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	485683	            84/79 Stockman Avenue	03/07/2015	31/08/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486069	            74/79 Stockman Avenue	26/06/2015	06/09/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486754	            83/79 Stockman Avenue	31/07/2015	13/09/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487343	            78/79 Stockman Avenue	05/08/2015	21/09/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	490284	            73/79 Stockman Avenue	10/08/2015	04/11/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486649	            75/79 Stockman Avenue	23/07/2015	13/09/2016	-	$529,000	12647m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	550186	8/11 Wanderlight Avenue	11/06/2015	10/12/2018	-	$526,900	5694m	Full transfer	-	-	-	-	-	$526,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514413	            43/17 Stockman Avenue	18/09/2015	03/07/2017	-	$525,000	6692m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512549	            44/17 Stockman Avenue	11/11/2015	11/05/2017	-	$525,000	6692m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501495	            29/1 Pipeclay Street	24/11/2015	22/03/2017	-	$523,000	5610m	Full transfer	-	-	-	-	-	$523,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	503530	            19/48 Narrambla Terrace	24/06/2015	26/04/2017	-	$522,400	8526m	Full transfer	-	-	-	-	-	$522,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	488081	            51/79 Stockman Avenue	30/07/2015	10/10/2016	-	$520,000	12647m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469221	37 Solong Street	22/10/2015	11/01/2016	-	$520,000	540m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	547302	3/11 Wanderlight Avenue	18/06/2015	20/11/2018	-	$519,900	5694m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497622	            23/48 Narrambla Terrace	10/03/2015	21/02/2017	-	$519,900	8526m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547412	7/11 Wanderlight Avenue	23/06/2015	23/11/2018	-	$519,900	5694m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500266	            13/48 Narrambla Terrace	06/03/2015	08/03/2017	-	$519,900	8526m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514935	            1/39 Bellbird Loop	01/09/2015	03/07/2017	-	$519,900	2173m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486681	            48/79 Stockman Avenue	01/09/2015	14/09/2016	-	$511,480	12647m	Full transfer	-	-	-	-	-	$511,480	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486671	            38/79 Stockman Avenue	04/09/2015	14/09/2016	-	$510,425	12647m	Full transfer	-	-	-	-	-	$510,425	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497396	            44/2 Pipeclay Street	15/05/2015	23/02/2017	-	$510,000	6678m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	515192	            13/39 Bellbird Loop	19/08/2015	10/07/2017	-	$509,900	2173m	Full transfer	-	-	-	-	-	$509,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486634	            39/79 Stockman Avenue	04/09/2015	12/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486570	            46/79 Stockman Avenue	25/08/2015	12/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486786	            49/79 Stockman Avenue	08/12/2015	13/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486468	            42/79 Stockman Avenue	28/08/2015	13/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486728	            40/79 Stockman Avenue	18/08/2015	14/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486154	            47/79 Stockman Avenue	13/11/2015	09/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	489380	            45/79 Stockman Avenue	09/07/2015	17/10/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	488854	            43/79 Stockman Avenue	17/08/2015	26/10/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	495233	            50/79 Stockman Avenue	16/10/2015	19/01/2017	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486705	            41/79 Stockman Avenue	18/08/2015	12/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547600	40/11 Wanderlight Avenue	22/09/2015	29/11/2018	-	$504,900	5694m	Full transfer	-	-	-	-	-	$504,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500201	            21/2 Pipeclay Street	11/06/2015	07/03/2017	-	$500,000	6678m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500016	            43/2 Pipeclay Street	10/06/2015	07/03/2017	-	$500,000	6678m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	474560	60 Wanderlight Avenue	21/12/2015	05/04/2016	-	$500,000	557m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	515545	            4/39 Bellbird Loop	24/08/2015	10/07/2017	-	$499,900	2173m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498219	            17/48 Narrambla Terrace	04/05/2015	16/02/2017	-	$499,900	8526m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514939	            3/39 Bellbird Loop	18/08/2015	03/07/2017	-	$499,900	2173m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	515337	            2/39 Bellbird Loop	24/08/2015	10/07/2017	-	$499,900	2173m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	493077	            6/79 Stockman Avenue	02/07/2015	07/12/2016	-	$499,000	12647m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487022	            25/79 Stockman Avenue	20/08/2015	19/09/2016	-	$499,000	12647m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498763	            6/48 Narrambla Terrace	05/03/2015	03/03/2017	-	$497,400	8526m	Full transfer	-	-	-	-	-	$497,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	503255	            5/48 Narrambla Terrace	05/03/2015	04/04/2017	-	$497,400	8526m	Full transfer	-	-	-	-	-	$497,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	471502	6 Concertina Street	22/10/2015	10/02/2016	-	$495,000	555m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	469889	            0 Bellbird Loop	11/11/2015	-	26/06/2015	$494,900	-	Full transfer	3	1	1	2	-	$494,900	138	-	Allhomes Record	-	-	-	-	-	-
+2015	486501	            63/79 Stockman Avenue	05/08/2015	14/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486676	            59/79 Stockman Avenue	30/10/2015	12/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486548	            58/79 Stockman Avenue	22/10/2015	13/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487505	            62/79 Stockman Avenue	22/09/2015	30/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	489504	            61/79 Stockman Avenue	14/08/2015	17/10/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547357	12/11 Wanderlight Avenue	17/06/2015	23/11/2018	-	$493,400	5694m	Full transfer	-	-	-	-	-	$493,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	454296	13 Solong Street	01/04/2015	12/06/2015	-	$493,000	466m	Full transfer	-	-	-	-	-	$493,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	469229	33 Solong Street	06/11/2015	14/01/2016	-	$492,000	540m	Full transfer	-	-	-	-	-	$492,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	486690	            4/79 Stockman Avenue	05/08/2015	13/09/2016	-	$491,550	12647m	Full transfer	-	-	-	-	-	$491,550	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451866	14 Selection Street	14/04/2015	08/05/2015	-	$491,000	540m	Full transfer	-	-	-	-	-	$491,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	454927		10/07/2015	-	10/07/2015	$489,900	-	Full transfer	3	3	-	2	-	$489,900	-	-	Allhomes Record	-	-	-	-	-	-
+2015	498417	            18/48 Narrambla Terrace	19/03/2015	14/02/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498220	            9/48 Narrambla Terrace	12/03/2015	16/02/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498180	            14/48 Narrambla Terrace	13/03/2015	14/02/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497448	            11/48 Narrambla Terrace	12/03/2015	24/02/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	499764	            12/48 Narrambla Terrace	12/03/2015	08/03/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500753	            24/48 Narrambla Terrace	11/03/2015	14/03/2017	-	$489,900	8526m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	489088	            28/79 Stockman Avenue	25/06/2015	25/10/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486581	            2/79 Stockman Avenue	14/09/2015	12/09/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	517427	            7/39 Bellbird Loop	17/11/2015	25/08/2017	-	$489,000	2173m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	489432	            27/79 Stockman Avenue	23/07/2015	19/10/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486616	            5/79 Stockman Avenue	03/07/2015	13/09/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486761	            26/79 Stockman Avenue	21/07/2015	12/09/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512599	            36/17 Stockman Avenue	09/09/2015	09/05/2017	-	$485,000	6692m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514428	            38/11 Stockman Avenue	09/12/2015	06/07/2017	-	$484,900	7028m	Full transfer	-	-	-	-	-	$484,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513324	            15/73 Stockman Avenue	23/12/2015	01/06/2017	-	$480,000	4688m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512119	            26/17 Stockman Avenue	02/09/2015	16/05/2017	-	$480,000	6692m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457811	10 Concertina Street	30/04/2015	13/07/2015	-	$480,000	555m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	496922	            4/2 Pipeclay Street	13/03/2015	10/02/2017	-	$479,900	6678m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512420	            15/17 Stockman Avenue	27/10/2015	11/05/2017	-	$479,900	6692m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513782	            19/17 Stockman Avenue	04/09/2015	29/05/2017	-	$479,900	6692m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486309	            24/79 Stockman Avenue	12/08/2015	05/09/2016	-	$479,000	12647m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513467	            37/17 Stockman Avenue	29/10/2015	01/06/2017	-	$479,000	6692m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486769	            16/79 Stockman Avenue	12/08/2015	14/09/2016	-	$479,000	12647m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512476	            17/17 Stockman Avenue	12/11/2015	08/05/2017	-	$479,000	6692m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	546822	25/11 Wanderlight Avenue	19/06/2015	03/01/2019	-	$475,000	5694m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487515	            17/79 Stockman Avenue	27/11/2015	29/09/2016	-	$474,000	12647m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486114	            22/79 Stockman Avenue	12/10/2015	09/09/2016	-	$474,000	12647m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	526813	            1/15 Wanderlight Avenue	14/08/2015	06/03/2018	-	$473,650	6288m	Full transfer	-	-	-	-	-	$473,650	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512175	            42/17 Stockman Avenue	21/12/2015	19/05/2017	-	$470,000	6692m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467783	20 Toorale Terrace	28/08/2015	22/12/2015	-	$470,000	554m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	496794	            12/2 Pipeclay Street	16/01/2015	09/02/2017	-	$469,900	6678m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	496779	            2/2 Pipeclay Street	03/03/2015	09/02/2017	-	$469,900	6678m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497164	            5/2 Pipeclay Street	03/03/2015	09/02/2017	-	$469,900	6678m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	486132	            18/79 Stockman Avenue	14/07/2015	06/09/2016	-	$469,000	12647m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	519288	            37/76 Stockman Avenue	17/12/2015	10/10/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487007	            8/79 Stockman Avenue	22/09/2015	21/09/2016	-	$469,000	12647m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487351	            9/79 Stockman Avenue	01/09/2015	19/09/2016	-	$469,000	12647m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547709	11/11 Wanderlight Avenue	07/09/2015	26/11/2018	-	$469,000	5694m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547301	9/11 Wanderlight Avenue	16/11/2015	20/11/2018	-	$465,000	5694m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462263	12 Swagman Street	25/08/2015	29/09/2015	-	$465,000	450m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	547422	10/11 Wanderlight Avenue	03/09/2015	23/11/2018	-	$465,000	5694m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498135	            6/2 Pipeclay Street	20/01/2015	13/02/2017	-	$465,000	6678m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528591	            22/15 Wanderlight Avenue	27/11/2015	20/03/2018	-	$464,900	6288m	Full transfer	-	-	-	-	-	$464,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461683	18 Rouseabout Street	05/06/2015	16/09/2015	18/08/2014	$460,000	540m	Full transfer	-	-	-	-	-	$460,000	291	-	Combined Record	-	-	-	Single residential dwelling	$478,000	1.04
+2015	501543	            13/1 Pipeclay Street	29/10/2015	24/03/2017	-	$459,900	5610m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501351	            17/1 Pipeclay Street	24/11/2015	22/03/2017	-	$459,000	5610m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501490	            18/1 Pipeclay Street	24/11/2015	22/03/2017	-	$459,000	5610m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458422	18 Toorale Terrace	18/05/2015	30/07/2015	-	$455,000	554m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	474561	7 Outback Street	04/08/2015	05/04/2016	-	$455,000	546m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	526168	            4/15 Wanderlight Avenue	23/12/2015	27/02/2018	-	$454,900	6288m	Full transfer	-	-	-	-	-	$454,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528464	            29/15 Wanderlight Avenue	09/06/2015	21/03/2018	-	$454,900	6288m	Full transfer	-	-	-	-	-	$454,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501006	            15/1 Pipeclay Street	21/12/2015	28/03/2017	-	$452,542	5610m	Full transfer	-	-	-	-	-	$452,542	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501664	            14/1 Pipeclay Street	24/11/2015	21/03/2017	-	$452,400	5610m	Full transfer	-	-	-	-	-	$452,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501696	            22/1 Pipeclay Street	27/11/2015	23/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501191	            20/1 Pipeclay Street	06/11/2015	27/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501269	            16/1 Pipeclay Street	30/11/2015	31/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	520281	            11/11 Narrambla Terrace	23/12/2015	31/10/2017	-	$449,900	2442m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497884	            7/2 Pipeclay Street	05/03/2015	23/02/2017	-	$449,000	6678m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450961	18 Concertina Street	03/02/2015	27/04/2015	-	$448,000	405m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450962	16 Toorale Terrace	25/03/2015	01/05/2015	-	$445,000	633m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	526836	            26/15 Wanderlight Avenue	10/08/2015	09/03/2018	-	$444,900	6288m	Full transfer	-	-	-	-	-	$444,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498026	            11/2 Pipeclay Street	25/06/2015	16/02/2017	-	$444,900	6678m	Full transfer	-	-	-	-	-	$444,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	526334	            25/15 Wanderlight Avenue	13/11/2015	27/02/2018	-	$444,900	6288m	Full transfer	-	-	-	-	-	$444,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512708	            38/17 Stockman Avenue	06/10/2015	23/05/2017	-	$442,500	6692m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512581	            41/17 Stockman Avenue	21/12/2015	11/05/2017	-	$442,000	6692m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	526989	            2/15 Wanderlight Avenue	21/07/2015	05/03/2018	-	$439,500	6288m	Full transfer	-	-	-	-	-	$439,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528477	            3/15 Wanderlight Avenue	17/07/2015	21/03/2018	-	$439,500	6288m	Full transfer	-	-	-	-	-	$439,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	496777	            10/2 Pipeclay Street	21/01/2015	10/02/2017	-	$439,000	6678m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	452779	16 Selection Street	25/03/2015	14/05/2015	-	$438,000	450m	Full transfer	-	-	-	-	-	$438,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	497620	            37/48 Narrambla Terrace	22/04/2015	22/02/2017	-	$434,900	8526m	Full transfer	-	-	-	-	-	$434,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497719	            45/48 Narrambla Terrace	19/05/2015	24/02/2017	-	$434,900	8526m	Full transfer	-	-	-	-	-	$434,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498786	            38/48 Narrambla Terrace	11/05/2015	01/03/2017	-	$434,900	8526m	Full transfer	-	-	-	-	-	$434,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498432	            42/2 Pipeclay Street	20/06/2015	13/02/2017	-	$429,900	6678m	Full transfer	-	-	-	-	-	$429,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497585	            41/2 Pipeclay Street	05/06/2015	24/02/2017	-	$429,900	6678m	Full transfer	-	-	-	-	-	$429,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	471511	22 Toorale Terrace	30/11/2015	11/02/2016	-	$428,329	554m	Full transfer	-	-	-	-	-	$428,329	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465276	5 Narrambla Terrace	28/08/2015	05/11/2015	-	$425,000	554m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	498769	            43/48 Narrambla Terrace	10/04/2015	01/03/2017	-	$425,000	8526m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498480	            19/2 Pipeclay Street	30/04/2015	13/02/2017	-	$424,900	6678m	Full transfer	-	-	-	-	-	$424,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497286	            39/2 Pipeclay Street	22/10/2015	08/02/2017	-	$422,900	6678m	Full transfer	-	-	-	-	-	$422,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	499010	            15/48 Narrambla Terrace	11/03/2015	28/02/2017	-	$421,500	8526m	Full transfer	-	-	-	-	-	$421,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498049	            40/2 Pipeclay Street	17/03/2015	13/02/2017	-	$419,900	6678m	Full transfer	-	-	-	-	-	$419,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497968	            42/48 Narrambla Terrace	16/03/2015	16/02/2017	-	$419,900	8526m	Full transfer	-	-	-	-	-	$419,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497730	            31/48 Narrambla Terrace	12/03/2015	24/02/2017	-	$419,900	8526m	Full transfer	-	-	-	-	-	$419,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	496762	            34/48 Narrambla Terrace	12/03/2015	10/02/2017	-	$419,900	8526m	Full transfer	-	-	-	-	-	$419,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528676	            38/15 Wanderlight Avenue	17/06/2015	21/03/2018	-	$418,400	6288m	Full transfer	-	-	-	-	-	$418,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498490	            17/2 Pipeclay Street	22/06/2015	13/02/2017	-	$415,000	6678m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512403	            28/17 Stockman Avenue	30/11/2015	08/05/2017	-	$415,000	6692m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456965	5 Selection Street	14/05/2015	26/06/2015	21/01/2015	$415,000	405m	Full transfer	4	2	-	2	0	$415,000	113	-	Combined Record	-	-	-	Single residential dwelling	$415,000	1.0
+2015	512963	            32/17 Stockman Avenue	23/12/2015	25/05/2017	-	$415,000	6692m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498477	            44/48 Narrambla Terrace	06/03/2015	14/02/2017	-	$414,900	8526m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497989	            30/48 Narrambla Terrace	11/03/2015	14/02/2017	-	$414,900	8526m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528606	            13/15 Wanderlight Avenue	12/06/2015	19/03/2018	-	$414,900	6288m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	548101	26/11 Wanderlight Avenue	18/06/2015	16/01/2019	-	$414,900	5694m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547696	39/11 Wanderlight Avenue	10/08/2015	27/11/2018	-	$414,900	5694m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547429	27/11 Wanderlight Avenue	02/10/2015	22/11/2018	-	$414,900	5694m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547480	38/11 Wanderlight Avenue	15/12/2015	22/11/2018	-	$414,900	5694m	Full transfer	-	-	-	-	-	$414,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466312	17 Selection Street	14/09/2015	17/11/2015	-	$413,282	405m	Full transfer	-	-	-	-	-	$413,282	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	513170	            33/17 Stockman Avenue	11/09/2015	06/06/2017	-	$410,000	6692m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464740	27 Narrambla Terrace	05/08/2015	24/10/2015	-	$410,000	450m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	498112	            41/48 Narrambla Terrace	06/03/2015	14/02/2017	-	$409,900	8526m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500586	            46/48 Narrambla Terrace	12/03/2015	14/03/2017	-	$409,900	8526m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498306	            32/48 Narrambla Terrace	10/03/2015	16/02/2017	-	$409,900	8526m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498387	            33/48 Narrambla Terrace	10/03/2015	16/02/2017	-	$409,900	8526m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	520623	            23/2 Bulletin Street	20/04/2015	07/11/2017	-	$409,000	6326m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	499710	            20/2 Pipeclay Street	23/03/2015	08/03/2017	-	$409,000	6678m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547481	16/11 Wanderlight Avenue	10/06/2015	22/11/2018	-	$406,900	5694m	Full transfer	-	-	-	-	-	$406,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547487	20/11 Wanderlight Avenue	04/08/2015	22/11/2018	-	$405,200	5694m	Full transfer	-	-	-	-	-	$405,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	499135	            32/2 Pipeclay Street	10/06/2015	01/03/2017	-	$405,000	6678m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512361	            29/17 Stockman Avenue	09/12/2015	08/05/2017	-	$405,000	6692m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468112	70 Wanderlight Avenue	24/09/2015	15/12/2015	-	$405,000	399m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	496803	            25/2 Pipeclay Street	30/06/2015	09/02/2017	-	$404,900	6678m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498134	            24/2 Pipeclay Street	16/06/2015	13/02/2017	-	$404,900	6678m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547606	24/11 Wanderlight Avenue	07/12/2015	27/11/2018	-	$404,900	5694m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498070	            51/48 Narrambla Terrace	06/03/2015	16/02/2017	-	$404,900	8526m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547512	19/11 Wanderlight Avenue	10/09/2015	19/11/2018	-	$404,900	5694m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	550429	21/11 Wanderlight Avenue	09/11/2015	07/01/2019	-	$404,900	5694m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497004	            18/2 Pipeclay Street	25/06/2015	10/02/2017	-	$404,900	6678m	Full transfer	-	-	-	-	-	$404,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	526766	            39/15 Wanderlight Avenue	31/07/2015	07/03/2018	-	$404,000	6288m	Full transfer	-	-	-	-	-	$404,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	546851	22/11 Wanderlight Avenue	03/11/2015	30/11/2018	-	$402,900	5694m	Full transfer	-	-	-	-	-	$402,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498435	            48/48 Narrambla Terrace	06/03/2015	14/02/2017	-	$399,900	8526m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497604	            23/2 Pipeclay Street	30/03/2015	23/02/2017	-	$399,900	6678m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	528222	            14/15 Wanderlight Avenue	14/07/2015	19/03/2018	-	$399,900	6288m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547003	14/11 Wanderlight Avenue	18/06/2015	27/11/2018	-	$399,900	5694m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497878	            47/48 Narrambla Terrace	02/03/2015	23/02/2017	-	$399,900	8526m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498223	            49/48 Narrambla Terrace	19/03/2015	16/02/2017	-	$399,900	8526m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547311	13/11 Wanderlight Avenue	04/06/2015	23/11/2018	-	$399,900	5694m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487467	            35/79 Stockman Avenue	11/09/2015	30/09/2016	-	$399,000	12647m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458919	19 Selection Street	12/06/2015	06/08/2015	-	$398,000	405m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	520447	            15/11 Narrambla Terrace	20/11/2015	09/11/2017	-	$397,500	2442m	Full transfer	-	-	-	-	-	$397,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	526239	            17/15 Wanderlight Avenue	31/07/2015	27/02/2018	-	$397,000	6288m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461201	28 Jumbuck Crescent	03/08/2015	04/09/2015	-	$395,000	350m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	547014	18/11 Wanderlight Avenue	02/07/2015	23/11/2018	-	$391,000	5694m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451852	7 Selection Street	10/04/2015	08/05/2015	-	$390,000	405m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	547618	17/11 Wanderlight Avenue	28/08/2015	26/11/2018	-	$389,000	5694m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	487286	            33/79 Stockman Avenue	11/12/2015	22/09/2016	-	$385,000	12647m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513216	            46/11 Stockman Avenue	23/12/2015	06/06/2017	-	$379,900	7028m	Full transfer	-	-	-	-	-	$379,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514117	            31/11 Stockman Avenue	18/12/2015	28/06/2017	-	$379,900	7028m	Full transfer	-	-	-	-	-	$379,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514213	            30/11 Stockman Avenue	07/12/2015	29/06/2017	-	$379,900	7028m	Full transfer	-	-	-	-	-	$379,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	512994	            47/11 Stockman Avenue	17/12/2015	07/06/2017	-	$379,900	7028m	Full transfer	-	-	-	-	-	$379,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498341	            26/2 Pipeclay Street	25/03/2015	14/02/2017	-	$376,448	6678m	Full transfer	-	-	-	-	-	$376,448	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514480	            24/11 Stockman Avenue	21/12/2015	04/07/2017	-	$374,900	7028m	Full transfer	-	-	-	-	-	$374,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513644	            18/11 Stockman Avenue	22/12/2015	02/06/2017	-	$369,900	7028m	Full transfer	-	-	-	-	-	$369,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	515408	            37/11 Stockman Avenue	09/12/2015	10/07/2017	-	$369,900	7028m	Full transfer	-	-	-	-	-	$369,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514162	            36/11 Stockman Avenue	03/12/2015	27/06/2017	-	$369,900	7028m	Full transfer	-	-	-	-	-	$369,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	514608	            19/11 Stockman Avenue	09/12/2015	05/07/2017	-	$369,900	7028m	Full transfer	-	-	-	-	-	$369,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457816	4 Concertina Street	18/05/2015	17/07/2015	03/03/2015	$365,000	360m	Full transfer	-	-	-	-	-	$365,000	76	-	Combined Record	-	-	-	Single residential dwelling	$373,000	1.02
+2015	513552	            28/11 Stockman Avenue	18/12/2015	01/06/2017	-	$364,900	7028m	Full transfer	-	-	-	-	-	$364,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451377	12 Concertina Street	06/02/2015	24/04/2015	22/04/2014	$355,000	330m	Full transfer	-	-	-	-	-	$355,000	290	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.98
+2015	515393	            16/11 Stockman Avenue	21/12/2015	10/07/2017	-	$354,900	7028m	Full transfer	-	-	-	-	-	$354,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	502787	            3/1 Pipeclay Street	06/11/2015	10/04/2017	-	$349,900	5610m	Full transfer	-	-	-	-	-	$349,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501390	            9/1 Pipeclay Street	09/12/2015	21/03/2017	-	$347,900	5610m	Full transfer	-	-	-	-	-	$347,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497237	            29/2 Pipeclay Street	02/04/2015	10/02/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500134	            37/2 Pipeclay Street	15/05/2015	07/03/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497463	            16/2 Pipeclay Street	04/06/2015	23/02/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501665	            27/2 Pipeclay Street	09/06/2015	21/03/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500294	            38/2 Pipeclay Street	05/06/2015	07/03/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497386	            30/2 Pipeclay Street	07/05/2015	23/02/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	499758	            15/2 Pipeclay Street	11/06/2015	08/03/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	500021	            31/2 Pipeclay Street	15/12/2015	07/03/2017	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513180	            35/11 Stockman Avenue	09/12/2015	06/06/2017	-	$339,900	7028m	Full transfer	-	-	-	-	-	$339,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501477	            4/1 Pipeclay Street	02/11/2015	20/03/2017	-	$337,900	5610m	Full transfer	-	-	-	-	-	$337,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513584	            32/11 Stockman Avenue	23/12/2015	02/06/2017	-	$329,900	7028m	Full transfer	-	-	-	-	-	$329,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456111	10 Selection Street	25/05/2015	09/07/2015	-	$329,000	330m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455142	13 Selection Street	28/04/2015	18/06/2015	-	$327,000	330m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	514037	            17/11 Stockman Avenue	09/12/2015	13/06/2017	-	$324,900	7028m	Full transfer	-	-	-	-	-	$324,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	501548	            5/1 Pipeclay Street	25/10/2015	21/03/2017	-	$320,332	5610m	Full transfer	-	-	-	-	-	$320,332	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450984	28 Selection Street	30/03/2015	01/05/2015	-	$317,000	330m	Full transfer	-	-	-	-	-	$317,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471510	42 Jumbuck Crescent	02/11/2015	12/02/2016	-	$315,000	250m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465271	36 Jumbuck Crescent	15/09/2015	02/11/2015	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470012	38 Jumbuck Crescent	16/11/2015	03/02/2016	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466324	32 Jumbuck Crescent	08/09/2015	17/11/2015	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	512381	            6/17 Stockman Avenue	09/12/2015	11/05/2017	-	$291,000	6692m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513113	            11/17 Stockman Avenue	03/11/2015	09/06/2017	-	$291,000	6692m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513252	            3/17 Stockman Avenue	03/11/2015	09/06/2017	-	$291,000	6692m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	513023	            5/17 Stockman Avenue	08/10/2015	06/06/2017	-	$291,000	6692m	Full transfer	-	-	-	-	-	$291,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498041	            13/2 Pipeclay Street	13/05/2015	13/02/2017	-	$44,490	6678m	Full transfer	-	-	-	-	-	$44,490	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497830	            50/48 Narrambla Terrace	16/03/2015	22/02/2017	-	$40,900	8526m	Full transfer	-	-	-	-	-	$40,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	515324	            10/39 Bellbird Loop	26/11/2015	10/07/2017	-	$0	2173m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	496785	            9/2 Pipeclay Street	21/01/2015	10/02/2017	-	$0	6678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450985	29 Solong Street	03/02/2015	27/04/2015	-	$0	789m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	482239	7 Narrambla Terrace	30/11/2015	21/07/2016	-	$0	554m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	546969	6/11 Wanderlight Avenue	27/07/2015	27/11/2018	-	$0	5694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	473776	5 Cooee Rise	04/08/2015	22/03/2016	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	527613	            7/15 Wanderlight Avenue	26/08/2015	18/03/2018	-	$0	6288m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	465272	1 Drover Rise	24/07/2015	06/11/2015	04/06/2015	$0	562m	Full transfer	-	-	-	-	-	$0	50	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.98
+2015	528246	            18/15 Wanderlight Avenue	19/06/2015	25/03/2018	-	$0	6288m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	498249	            10/48 Narrambla Terrace	12/03/2015	15/02/2017	-	$0	8526m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	547420	15/11 Wanderlight Avenue	08/09/2015	23/11/2018	-	$0	5694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519842	            2/2 Bulletin Street	11/01/2016	22/10/2017	-	$2,602,000	6326m	Full transfer	-	-	-	-	-	$2,602,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519734	            7/2 Bulletin Street	11/01/2016	22/10/2017	-	$2,602,000	6326m	Full transfer	-	-	-	-	-	$2,602,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497665	10 Concertina Street	17/12/2016	21/02/2017	17/11/2016	$1,255,000	555m	Full transfer	4	5	-	2	-	$1,255,000	30	-	Combined Record	231	-	-	Single residential dwelling	$462,000	0.37
+2016	495760	37 Solong Street	16/11/2016	01/02/2017	31/08/2016	$983,800	540m	Full transfer	7	5	-	2	-	$983,800	77	-	Combined Record	235	-	-	Single residential dwelling	$515,000	0.52
+2016	487013	7 Selection Street	05/08/2016	20/09/2016	04/07/2016	$948,000	405m	Full transfer	6	2	2	2	-	$948,000	32	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.44
+2016	482477	39 Narrambla Terrace	29/04/2016	26/07/2016	23/03/2016	$850,000	405m	Full transfer	5	1	2	2	-	$850,000	37	-	Combined Record	260	-	-	Single residential dwelling	$415,000	0.49
+2016	481135	47 Narrambla Terrace	05/05/2016	08/07/2016	17/03/2016	$843,200	405m	Full transfer	4	2	1	2	-	$843,200	49	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.49
+2016	478138	26 Jumbuck Crescent	22/03/2016	19/05/2016	-	$840,000	375m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487440	7 Outback Street	11/08/2016	29/09/2016	13/10/2015	$820,000	546m	Full transfer	4	3	-	2	-	$820,000	303	-	Combined Record	206	-	-	Single residential dwelling	$478,000	0.58
+2016	484779	30 Selection Street	11/07/2016	25/08/2016	23/06/2016	$775,000	331m	Full transfer	4	1	1	2	-	$775,000	18	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.45
+2016	479218	14 Concertina Street	31/03/2016	30/05/2016	04/11/2015	$753,000	330m	Full transfer	4	3	-	2	-	$753,000	148	-	Combined Record	188	-	-	Single residential dwelling	$347,000	0.46
+2016	487412	31 Narrambla Terrace	23/08/2016	30/09/2016	-	$725,000	330m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476123	31 Narrambla Terrace	13/05/2016	-	30/01/2014	$715,000	856m	Full transfer	-	-	-	-	-	$715,000	834	-	Allhomes Record	-	-	-	-	$347,000	0.49
+2016	483140	17 Rouseabout Street	12/05/2016	12/08/2016	-	$715,000	857m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502800	            1/73 Stockman Avenue	12/04/2016	11/04/2017	-	$669,000	4688m	Full transfer	-	-	-	-	-	$669,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519568	            6/2 Bulletin Street	22/04/2016	13/10/2017	-	$659,000	6326m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520048	            8/2 Bulletin Street	22/04/2016	23/10/2017	-	$659,000	6326m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472001	34 Jumbuck Crescent	10/03/2016	-	16/03/2015	$655,000	250m	Full transfer	4	2	1	2	-	$655,000	360	-	Allhomes Record	173	-	-	-	$305,000	0.47
+2016	501152	            39/1 Pipeclay Street	11/10/2016	30/03/2017	-	$639,900	5610m	Full transfer	-	-	-	-	-	$639,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500539	15 Sliprail Street	16/12/2016	14/03/2017	-	$629,900	250m	Full transfer	-	-	-	-	-	$629,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497524	11 Sliprail Street	14/12/2016	24/02/2017	-	$629,900	250m	Full transfer	-	-	-	-	-	$629,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	514354	9 Sliprail Street	15/12/2016	05/07/2017	-	$629,900	250m	Full transfer	-	-	-	-	-	$629,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515977	            72/76 Stockman Avenue	20/05/2016	26/07/2017	-	$629,000	11356m	Full transfer	-	-	-	-	-	$629,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501180	5 Sliprail Street	25/11/2016	27/03/2017	-	$629,000	250m	Full transfer	-	-	-	-	-	$629,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526137	            4/1 Overflow Street	06/10/2016	27/02/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524829	            5/1 Overflow Street	30/08/2016	01/02/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524095	            6/1 Overflow Street	10/06/2016	24/01/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525847	            3/1 Overflow Street	15/09/2016	12/02/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526014	            8/1 Overflow Street	04/11/2016	13/02/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524449	            2/1 Overflow Street	01/09/2016	30/01/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524035	            7/1 Overflow Street	30/06/2016	24/01/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515830	            68/76 Stockman Avenue	17/05/2016	27/07/2017	-	$620,000	11356m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484162	            1 Jumbuck Crescent	19/09/2016	-	15/10/2015	$619,000	0m	Full transfer	3	2	-	0	2	$619,000	340	-	Allhomes Record	-	-	-	-	-	-
+2016	524862	            31/2 Bulletin Street	09/05/2016	02/02/2018	-	$600,000	6326m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520637	            34/5 Nevertire Street	28/08/2016	10/11/2017	-	$599,950	9229m	Full transfer	-	-	-	-	-	$599,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486818	             Narrambla Terrace	11/10/2016	-	26/10/2015	$595,000	-	Full transfer	3	2	-	2	-	$595,000	351	-	Allhomes Record	-	-	-	-	-	-
+2016	520556	            35/2 Bulletin Street	24/03/2016	08/11/2017	-	$595,000	6326m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488041	            70/79 Stockman Avenue	28/06/2016	11/10/2016	-	$595,000	12647m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522914	            2/11 Narrambla Terrace	21/06/2016	10/01/2018	-	$590,000	2442m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497820	13 Sliprail Street	14/12/2016	23/02/2017	-	$589,900	250m	Full transfer	-	-	-	-	-	$589,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520715	            1/11 Narrambla Terrace	27/09/2016	08/11/2017	-	$589,000	2442m	Full transfer	-	-	-	-	-	$589,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	540297	            10/1 Overflow Street	30/06/2016	21/08/2018	-	$584,500	6327m	Full transfer	-	-	-	-	-	$584,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495856	7 Sliprail Street	22/11/2016	06/01/2017	-	$579,900	250m	Full transfer	-	-	-	-	-	$579,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513305	            11/11 Stockman Avenue	06/01/2016	06/06/2017	-	$579,900	7028m	Full transfer	-	-	-	-	-	$579,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525707	            11/1 Overflow Street	06/09/2016	13/02/2018	-	$575,000	6327m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515525	            14/11 Stockman Avenue	18/03/2016	10/07/2017	-	$574,900	7028m	Full transfer	-	-	-	-	-	$574,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513314	            12/11 Stockman Avenue	15/01/2016	02/06/2017	-	$574,900	7028m	Full transfer	-	-	-	-	-	$574,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522795	            56/23 Wanderlight Avenue	30/11/2016	14/01/2018	-	$574,000	8955m	Full transfer	-	-	-	-	-	$574,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524331	            55/23 Wanderlight Avenue	08/12/2016	23/01/2018	-	$574,000	8955m	Full transfer	-	-	-	-	-	$574,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515879	            23/76 Stockman Avenue	23/03/2016	28/07/2017	-	$572,000	11356m	Full transfer	-	-	-	-	-	$572,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521124	            29/5 Nevertire Street	28/05/2016	07/12/2017	-	$569,950	9229m	Full transfer	-	-	-	-	-	$569,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522432	            30/5 Nevertire Street	30/04/2016	14/12/2017	-	$569,950	9229m	Full transfer	-	-	-	-	-	$569,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	546909	2/17 Nevertire Street	22/11/2016	27/11/2018	-	$569,900	6856m	Full transfer	-	-	-	-	-	$569,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501167	            28/1 Pipeclay Street	18/05/2016	28/03/2017	-	$569,900	5610m	Full transfer	-	-	-	-	-	$569,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	547093	25/17 Nevertire Street	21/12/2016	20/11/2018	-	$564,900	6856m	Full transfer	-	-	-	-	-	$564,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	550813	9/17 Nevertire Street	25/11/2016	08/01/2019	-	$560,000	6856m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521641	            42/5 Nevertire Street	29/09/2016	18/12/2017	-	$559,950	9229m	Full transfer	-	-	-	-	-	$559,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521717	            32/5 Nevertire Street	06/04/2016	18/12/2017	-	$559,950	9229m	Full transfer	-	-	-	-	-	$559,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515367	            9/11 Stockman Avenue	08/06/2016	10/07/2017	-	$559,900	7028m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516979	            7/11 Stockman Avenue	16/11/2016	04/08/2017	-	$559,900	7028m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513133	            1/11 Stockman Avenue	23/06/2016	06/06/2017	-	$559,900	7028m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516711	            39/76 Stockman Avenue	22/02/2016	03/08/2017	-	$559,000	11356m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512422	            21/17 Stockman Avenue	19/08/2016	11/05/2017	-	$555,000	6692m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501107	            36/1 Pipeclay Street	25/08/2016	28/03/2017	-	$554,900	5610m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514050	            5/11 Stockman Avenue	22/03/2016	13/06/2017	-	$552,900	7028m	Full transfer	-	-	-	-	-	$552,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479488	8 Concertina Street	19/04/2016	08/06/2016	-	$550,000	555m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	521007	            22/5 Nevertire Street	02/04/2016	29/11/2017	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522085	            5/5 Nevertire Street	06/03/2016	04/01/2018	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522281	            28/5 Nevertire Street	04/03/2016	15/12/2017	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522943	            23/5 Nevertire Street	27/03/2016	08/01/2018	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521680	            19/5 Nevertire Street	22/05/2016	20/12/2017	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521825	            1/5 Nevertire Street	27/04/2016	18/12/2017	-	$549,950	9229m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513146	            2/11 Stockman Avenue	10/03/2016	06/06/2017	-	$549,900	7028m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514116	            10/11 Stockman Avenue	14/04/2016	29/06/2017	-	$549,900	7028m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503189	            37/1 Pipeclay Street	30/03/2016	03/04/2017	-	$549,900	5610m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497480	            1/48 Narrambla Terrace	08/12/2016	21/02/2017	-	$549,900	8526m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501556	            32/1 Pipeclay Street	20/09/2016	21/03/2017	-	$549,900	5610m	Full transfer	-	-	-	-	-	$549,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515873	            11/76 Stockman Avenue	06/05/2016	26/07/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516217	            30/76 Stockman Avenue	29/04/2016	26/07/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519904	            6/76 Stockman Avenue	13/07/2016	17/10/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516637	            12/76 Stockman Avenue	01/06/2016	11/08/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516114	            5/76 Stockman Avenue	05/10/2016	27/07/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	518717	            17/76 Stockman Avenue	10/02/2016	21/09/2017	-	$544,000	11356m	Full transfer	-	-	-	-	-	$544,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484064	            UNIT14 Corner Solong Street And Stockman Avenue	09/09/2016	-	18/08/2016	$540,000	0m	Full transfer	3	2	-	1	1	$540,000	22	-	Allhomes Record	-	-	-	-	-	-
+2016	498189	            14/48 Narrambla Terrace	16/09/2016	14/02/2017	-	$540,000	8526m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522737	            15/5 Nevertire Street	15/04/2016	09/01/2018	-	$539,950	9229m	Full transfer	-	-	-	-	-	$539,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522375	            33/5 Nevertire Street	11/03/2016	15/12/2017	-	$539,950	9229m	Full transfer	-	-	-	-	-	$539,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523984	            6/5 Nevertire Street	15/03/2016	22/01/2018	-	$539,950	9229m	Full transfer	-	-	-	-	-	$539,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488707	            1 Nevertire Street	07/11/2016	-	17/02/2016	$539,950	9229m	Full transfer	3	2	-	2	-	$539,950	264	-	Allhomes Record	120	-	-	-	-	-
+2016	499947	            35/2 Pipeclay Street	17/11/2016	07/03/2017	-	$539,900	6678m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	547632	26/17 Nevertire Street	07/11/2016	29/11/2018	-	$539,900	6856m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	548865	24/17 Nevertire Street	14/09/2016	14/01/2019	-	$539,900	6856m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516170	            35/76 Stockman Avenue	08/09/2016	28/07/2017	-	$539,000	11356m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516198	            33/76 Stockman Avenue	09/09/2016	26/07/2017	-	$539,000	11356m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500937	            31/1 Pipeclay Street	22/12/2016	28/03/2017	-	$536,902	5610m	Full transfer	-	-	-	-	-	$536,902	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	498434	            2/48 Narrambla Terrace	25/11/2016	14/02/2017	-	$535,750	8526m	Full transfer	-	-	-	-	-	$535,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500931	25 Toorale Terrace	21/12/2016	28/03/2017	12/08/2016	$535,000	630m	Full transfer	-	-	-	-	-	$535,000	131	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.91
+2016	485755	            30/79 Stockman Avenue	23/02/2016	31/08/2016	-	$530,000	12647m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487289	            71/79 Stockman Avenue	04/08/2016	21/09/2016	-	$530,000	12647m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513047	            23/17 Stockman Avenue	23/02/2016	05/06/2017	-	$530,000	6692m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523109	            26/5 Nevertire Street	22/08/2016	10/01/2018	-	$529,950	9229m	Full transfer	-	-	-	-	-	$529,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521416	            41/5 Nevertire Street	10/09/2016	18/12/2017	-	$529,950	9229m	Full transfer	-	-	-	-	-	$529,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503764	            27/73 Stockman Avenue	16/08/2016	26/04/2017	-	$529,900	4688m	Full transfer	-	-	-	-	-	$529,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	496770	            33/2 Pipeclay Street	18/03/2016	10/02/2017	-	$529,900	6678m	Full transfer	-	-	-	-	-	$529,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	549235	27/17 Nevertire Street	14/10/2016	04/12/2018	-	$529,900	6856m	Full transfer	-	-	-	-	-	$529,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516705	            27/76 Stockman Avenue	23/11/2016	04/08/2017	-	$529,000	11356m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516633	            36/76 Stockman Avenue	05/10/2016	07/08/2017	-	$529,000	11356m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516293	            34/76 Stockman Avenue	23/12/2016	10/08/2017	-	$525,000	11356m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	494194	            40 Stockman Avenue	01/12/2016	-	13/12/2015	$525,000	8526m	Full transfer	3	2	1	1	-	$525,000	354	-	Allhomes Record	-	-	-	-	-	-
+2016	485638	            37/79 Stockman Avenue	04/09/2016	31/08/2016	-	$520,000	12647m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503122	            23/73 Stockman Avenue	21/06/2016	07/04/2017	-	$519,900	4688m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513540	            22/73 Stockman Avenue	19/02/2016	29/05/2017	-	$519,900	4688m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528586	            21/55 Jumbuck Crescent	19/12/2016	19/03/2018	-	$519,900	7581m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516954	            1/76 Stockman Avenue	20/04/2016	31/07/2017	-	$519,000	11356m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528690	            23/55 Jumbuck Crescent	06/12/2016	21/03/2018	-	$519,000	7581m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528601	            24/55 Jumbuck Crescent	09/11/2016	20/03/2018	-	$515,000	7581m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521114	            35/5 Nevertire Street	29/07/2016	08/12/2017	-	$514,950	9229m	Full transfer	-	-	-	-	-	$514,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497274	            22/2 Pipeclay Street	30/11/2016	08/02/2017	-	$510,000	6678m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522533	            18/5 Nevertire Street	04/05/2016	08/01/2018	-	$509,950	9229m	Full transfer	-	-	-	-	-	$509,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501185	            23/1 Pipeclay Street	02/08/2016	28/03/2017	-	$509,900	5610m	Full transfer	-	-	-	-	-	$509,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515949	            8/76 Stockman Avenue	28/04/2016	27/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517123	            14/76 Stockman Avenue	13/10/2016	31/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517588	            3/76 Stockman Avenue	11/07/2016	24/08/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516077	            10/76 Stockman Avenue	26/10/2016	26/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517263	            13/76 Stockman Avenue	22/12/2016	15/08/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517566	            2/76 Stockman Avenue	23/09/2016	22/08/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523814	            42/23 Wanderlight Avenue	07/12/2016	16/01/2018	-	$509,000	8955m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486116	            44/79 Stockman Avenue	05/08/2016	09/09/2016	-	$509,000	12647m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523742	            45/23 Wanderlight Avenue	06/12/2016	15/01/2018	-	$509,000	8955m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515908	            4/76 Stockman Avenue	22/06/2016	25/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516765	            7/76 Stockman Avenue	22/07/2016	31/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474084	25 Narrambla Terrace	14/04/2016	-	18/02/2016	$508,000	570m	Full transfer	-	-	-	-	-	$508,000	56	-	Allhomes Record	-	-	-	-	$478,000	0.94
+2016	502462	            11/73 Stockman Avenue	14/12/2016	20/04/2017	-	$507,000	4688m	Full transfer	-	-	-	-	-	$507,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476557	9 Selection Street	15/01/2016	28/04/2016	29/10/2015	$506,000	570m	Full transfer	-	-	-	-	-	$506,000	78	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.94
+2016	516000	            5/39 Bellbird Loop	17/09/2016	28/07/2017	-	$504,900	2173m	Full transfer	-	-	-	-	-	$504,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512655	            21/73 Stockman Avenue	14/10/2016	09/05/2017	-	$500,000	4688m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522619	            11/5 Nevertire Street	04/03/2016	08/01/2018	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521711	            39/5 Nevertire Street	01/08/2016	18/12/2017	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521903	            2/5 Nevertire Street	26/07/2016	04/01/2018	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521484	            3/5 Nevertire Street	08/05/2016	20/12/2017	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523606	            4/5 Nevertire Street	30/04/2016	18/01/2018	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514487	            6/39 Bellbird Loop	06/07/2016	04/07/2017	-	$499,900	2173m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527087	            12/15 Wanderlight Avenue	17/06/2016	05/03/2018	-	$499,900	6288m	Full transfer	-	-	-	-	-	$499,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491492	20 Rouseabout Street	20/09/2016	23/11/2016	08/07/2015	$499,000	600m	Full transfer	-	-	-	-	-	$499,000	440	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.96
+2016	517697	            66/76 Stockman Avenue	10/06/2016	21/08/2017	-	$499,000	11356m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523658	            9/23 Wanderlight Avenue	11/11/2016	15/01/2018	-	$499,000	8955m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516059	            63/76 Stockman Avenue	15/07/2016	27/07/2017	-	$499,000	11356m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500018	            3/48 Narrambla Terrace	05/10/2016	07/03/2017	-	$497,400	8526m	Full transfer	-	-	-	-	-	$497,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	499612	            4/48 Narrambla Terrace	12/03/2016	08/03/2017	-	$497,400	8526m	Full transfer	-	-	-	-	-	$497,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487115	            60/79 Stockman Avenue	22/09/2016	20/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487347	            64/79 Stockman Avenue	21/07/2016	20/09/2016	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484512	46 Wanderlight Avenue	08/06/2016	16/08/2016	-	$493,000	601m	Full transfer	-	-	-	-	-	$493,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502829	            26/73 Stockman Avenue	24/08/2016	10/04/2017	-	$490,000	4688m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	502970	            25/73 Stockman Avenue	24/08/2016	13/04/2017	-	$490,000	4688m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522114	            10/5 Nevertire Street	23/03/2016	12/12/2017	-	$489,950	9229m	Full transfer	-	-	-	-	-	$489,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	504725	            24/73 Stockman Avenue	19/02/2016	03/05/2017	-	$489,900	4688m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526815	            46/55 Jumbuck Crescent	18/07/2016	06/03/2018	-	$489,900	7581m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503022	            19/73 Stockman Avenue	24/03/2016	10/04/2017	-	$489,900	4688m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	504733	            20/73 Stockman Avenue	04/03/2016	02/05/2017	-	$489,900	4688m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	502660	            17/73 Stockman Avenue	25/02/2016	11/04/2017	-	$489,900	4688m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	502820	            16/73 Stockman Avenue	17/06/2016	10/04/2017	-	$489,900	4688m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513755	            48/11 Stockman Avenue	26/02/2016	01/06/2017	-	$489,900	7028m	Full transfer	-	-	-	-	-	$489,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	518555	            75/76 Stockman Avenue	15/08/2016	04/09/2017	-	$489,000	11356m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515796	            73/76 Stockman Avenue	26/07/2016	26/07/2017	-	$489,000	11356m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486110	            29/79 Stockman Avenue	29/06/2016	09/09/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486498	            3/79 Stockman Avenue	12/01/2016	14/09/2016	-	$489,000	12647m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516841	            71/76 Stockman Avenue	13/10/2016	03/08/2017	-	$487,999	11356m	Full transfer	-	-	-	-	-	$487,999	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522421	            36/5 Nevertire Street	05/03/2016	15/12/2017	-	$487,450	9229m	Full transfer	-	-	-	-	-	$487,450	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524253	            38/5 Nevertire Street	14/06/2016	23/01/2018	-	$487,450	9229m	Full transfer	-	-	-	-	-	$487,450	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522149	            37/5 Nevertire Street	04/03/2016	12/12/2017	-	$487,450	9229m	Full transfer	-	-	-	-	-	$487,450	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514748	            11/39 Bellbird Loop	24/08/2016	03/07/2017	-	$485,000	2173m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514331	            43/11 Stockman Avenue	05/04/2016	05/07/2017	-	$484,900	7028m	Full transfer	-	-	-	-	-	$484,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516766	            65/76 Stockman Avenue	01/06/2016	31/07/2017	-	$484,000	11356m	Full transfer	-	-	-	-	-	$484,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528467	            48/55 Jumbuck Crescent	10/11/2016	21/03/2018	-	$483,000	7581m	Full transfer	-	-	-	-	-	$483,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497546	23 Swagman Street	25/10/2016	22/02/2017	02/06/2016	$480,000	690m	Full transfer	0	0	-	0	0	$480,000	145	-	Combined Record	-	-	-	Single residential dwelling	$494,000	1.03
+2016	487404	48 Wanderlight Avenue	04/08/2016	28/09/2016	-	$480,000	559m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513138	            40/17 Stockman Avenue	02/05/2016	07/06/2017	-	$480,000	6692m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521912	            13/5 Nevertire Street	14/11/2016	04/01/2018	-	$479,950	9229m	Full transfer	-	-	-	-	-	$479,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528392	            34/55 Jumbuck Crescent	29/02/2016	19/03/2018	-	$479,900	7581m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497093	            8/2 Pipeclay Street	24/10/2016	10/02/2017	-	$479,900	6678m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527012	            47/55 Jumbuck Crescent	03/02/2016	07/03/2018	-	$479,900	7581m	Full transfer	-	-	-	-	-	$479,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516869	            59/76 Stockman Avenue	20/10/2016	01/08/2017	-	$479,000	11356m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515989	            55/76 Stockman Avenue	03/08/2016	24/07/2017	-	$479,000	11356m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516124	            57/76 Stockman Avenue	02/11/2016	27/07/2017	-	$479,000	11356m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512824	            20/17 Stockman Avenue	18/04/2016	22/05/2017	-	$475,000	6692m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486094	            7/79 Stockman Avenue	01/09/2016	09/09/2016	-	$474,000	12647m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523653	            12/5 Nevertire Street	08/05/2016	15/01/2018	-	$469,950	9229m	Full transfer	-	-	-	-	-	$469,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521176	            7/5 Nevertire Street	13/12/2016	07/12/2017	-	$469,950	9229m	Full transfer	-	-	-	-	-	$469,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527654	            39/55 Jumbuck Crescent	02/06/2016	14/03/2018	-	$469,900	7581m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528498	            40/55 Jumbuck Crescent	04/05/2016	20/03/2018	-	$469,900	7581m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	481627	            0 Bellbird Loop	06/07/2016	-	10/07/2015	$469,900	-	Full transfer	3	1	1	-	2	$469,900	362	-	Allhomes Record	99	-	-	-	-	-
+2016	514420	            8/39 Bellbird Loop	10/03/2016	06/07/2017	-	$469,900	2173m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514353	            12/39 Bellbird Loop	29/07/2016	05/07/2017	-	$469,900	2173m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515781	            26/76 Stockman Avenue	15/09/2016	26/07/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523826	            22/23 Wanderlight Avenue	15/11/2016	16/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516192	            38/76 Stockman Avenue	18/04/2016	26/07/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522551	            15/23 Wanderlight Avenue	16/12/2016	14/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	534029	            21/23 Wanderlight Avenue	20/12/2016	31/05/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515965	            31/76 Stockman Avenue	18/08/2016	27/07/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516172	            22/76 Stockman Avenue	17/10/2016	27/07/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491652	            20/79 Stockman Avenue	22/09/2016	29/11/2016	-	$469,000	12647m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486512	            11/79 Stockman Avenue	21/03/2016	13/09/2016	-	$469,000	12647m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516842	            32/76 Stockman Avenue	20/04/2016	03/08/2017	-	$469,000	11356m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523747	            16/23 Wanderlight Avenue	23/12/2016	16/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527746	            26/55 Jumbuck Crescent	20/07/2016	15/03/2018	-	$465,900	7581m	Full transfer	-	-	-	-	-	$465,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528719	            36/55 Jumbuck Crescent	07/11/2016	19/03/2018	-	$465,900	7581m	Full transfer	-	-	-	-	-	$465,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513469	            10/1 Pipeclay Street	06/06/2016	30/05/2017	-	$464,900	5610m	Full transfer	-	-	-	-	-	$464,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503129	            19/1 Pipeclay Street	30/06/2016	03/04/2017	-	$462,500	5610m	Full transfer	-	-	-	-	-	$462,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497995	14 Billabong Street	09/08/2016	15/02/2017	-	$460,000	450m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	529751	            33/55 Jumbuck Crescent	13/05/2016	05/04/2018	-	$460,000	7581m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521099	            8/5 Nevertire Street	12/11/2016	05/12/2017	-	$459,950	9229m	Full transfer	-	-	-	-	-	$459,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	489630	            1 Nevertire Street	14/11/2016	-	19/02/2016	$459,950	9229m	Full transfer	2	2	-	2	-	$459,950	269	-	Allhomes Record	97	-	-	-	-	-
+2016	528116	            38/55 Jumbuck Crescent	02/06/2016	19/03/2018	-	$459,900	7581m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528769	            1/55 Jumbuck Crescent	09/08/2016	23/03/2018	-	$459,900	7581m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526776	            37/55 Jumbuck Crescent	10/06/2016	06/03/2018	-	$459,900	7581m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528516	            42/55 Jumbuck Crescent	19/04/2016	25/03/2018	-	$459,900	7581m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528495	            43/55 Jumbuck Crescent	26/02/2016	19/03/2018	-	$459,900	7581m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528584	            45/55 Jumbuck Crescent	03/06/2016	20/03/2018	-	$459,000	7581m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484173	            17 Bulletin Street	19/09/2016	-	15/10/2015	$458,000	0m	Full transfer	2	2	-	0	2	$458,000	340	-	Allhomes Record	-	-	-	-	-	-
+2016	524535	            15/1 Overflow Street	05/08/2016	30/01/2018	-	$455,000	6327m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524807	            21/1 Overflow Street	22/12/2016	01/02/2018	-	$455,000	6327m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527623	            30/55 Jumbuck Crescent	20/09/2016	14/03/2018	-	$454,900	7581m	Full transfer	-	-	-	-	-	$454,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528540	            27/55 Jumbuck Crescent	17/08/2016	25/03/2018	-	$454,900	7581m	Full transfer	-	-	-	-	-	$454,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528219	            44/55 Jumbuck Crescent	03/06/2016	19/03/2018	-	$454,000	7581m	Full transfer	-	-	-	-	-	$454,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527025	            41/55 Jumbuck Crescent	03/06/2016	06/03/2018	-	$454,000	7581m	Full transfer	-	-	-	-	-	$454,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522387	            21/5 Nevertire Street	02/04/2016	12/12/2017	-	$449,950	9229m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521344	            20/5 Nevertire Street	13/04/2016	22/12/2017	-	$449,950	9229m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520919	            16/5 Nevertire Street	07/05/2016	28/11/2017	-	$449,950	9229m	Full transfer	-	-	-	-	-	$449,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527621	            28/55 Jumbuck Crescent	18/07/2016	15/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	529161	            53/55 Jumbuck Crescent	06/06/2016	26/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482593	             Stockman Avenue	17/08/2016	-	07/10/2015	$449,900	-	Full transfer	2	2	1	1	-	$449,900	315	-	Allhomes Record	92	-	-	-	-	-
+2016	528215	            32/55 Jumbuck Crescent	23/02/2016	20/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501238	            11/1 Pipeclay Street	11/08/2016	27/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527775	            4/55 Jumbuck Crescent	14/07/2016	15/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528226	            49/55 Jumbuck Crescent	26/02/2016	25/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501620	            21/1 Pipeclay Street	20/01/2016	21/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527028	            3/55 Jumbuck Crescent	14/11/2016	06/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528402	            31/55 Jumbuck Crescent	30/06/2016	19/03/2018	-	$449,900	7581m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501753	            12/1 Pipeclay Street	01/03/2016	22/03/2017	-	$449,900	5610m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526974	            44/15 Wanderlight Avenue	02/09/2016	07/03/2018	-	$449,900	6288m	Full transfer	-	-	-	-	-	$449,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524729	            18/1 Overflow Street	17/06/2016	01/02/2018	-	$449,000	6327m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525880	            19/1 Overflow Street	02/06/2016	13/02/2018	-	$449,000	6327m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525784	            14/1 Overflow Street	24/06/2016	15/02/2018	-	$449,000	6327m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525785	            22/1 Overflow Street	28/07/2016	13/02/2018	-	$449,000	6327m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487226	45 Narrambla Terrace	03/08/2016	20/09/2016	-	$448,000	405m	Full transfer	-	-	-	-	-	$448,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	528627	            29/55 Jumbuck Crescent	28/07/2016	19/03/2018	-	$447,900	7581m	Full transfer	-	-	-	-	-	$447,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528613	            52/55 Jumbuck Crescent	27/06/2016	25/03/2018	-	$445,900	7581m	Full transfer	-	-	-	-	-	$445,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520195	            26/2 Bulletin Street	22/03/2016	01/11/2017	-	$441,100	6326m	Full transfer	-	-	-	-	-	$441,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527712	            51/55 Jumbuck Crescent	29/02/2016	15/03/2018	-	$439,900	7581m	Full transfer	-	-	-	-	-	$439,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527651	            50/55 Jumbuck Crescent	02/06/2016	15/03/2018	-	$439,900	7581m	Full transfer	-	-	-	-	-	$439,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526923	            21/15 Wanderlight Avenue	16/11/2016	07/03/2018	-	$439,900	6288m	Full transfer	-	-	-	-	-	$439,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	484168	            12 Overflow Street	19/09/2016	-	21/05/2016	$439,000	0m	Full transfer	2	2	-	1	0	$439,000	121	-	Allhomes Record	-	-	-	-	-	-
+2016	520164	            12/11 Narrambla Terrace	28/10/2016	03/11/2017	-	$430,000	2442m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479205	43 Narrambla Terrace	17/02/2016	30/05/2016	11/11/2015	$430,000	405m	Full transfer	-	-	-	-	-	$430,000	98	-	Combined Record	-	-	-	Single residential dwelling	$415,000	0.97
+2016	522113	            20/2 Bulletin Street	06/05/2016	13/12/2017	-	$425,000	6326m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520735	            24/2 Bulletin Street	04/04/2016	06/11/2017	-	$425,000	6326m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	473362	5 Outback Street	28/01/2016	17/03/2016	-	$425,000	405m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	528826	            40/15 Wanderlight Avenue	15/06/2016	22/03/2018	-	$424,900	6288m	Full transfer	-	-	-	-	-	$424,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	524687	            12/1 Overflow Street	15/07/2016	30/01/2018	-	$419,562	6327m	Full transfer	-	-	-	-	-	$419,562	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513652	            30/17 Stockman Avenue	04/08/2016	02/06/2017	-	$415,000	6692m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512282	            34/17 Stockman Avenue	19/04/2016	17/05/2017	-	$415,000	6692m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516303	            51/76 Stockman Avenue	20/07/2016	08/08/2017	-	$411,200	11356m	Full transfer	-	-	-	-	-	$411,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522403	            25/2 Bulletin Street	24/03/2016	12/12/2017	-	$411,100	6326m	Full transfer	-	-	-	-	-	$411,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522969	            49/5 Nevertire Street	08/12/2016	11/01/2018	-	$410,000	9229m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491846	            1 Nevertire Street	16/12/2016	-	10/10/2016	$409,950	9229m	Full transfer	2	2	-	2	-	$409,950	67	-	Allhomes Record	-	-	-	-	-	-
+2016	526802	            43/15 Wanderlight Avenue	28/06/2016	07/03/2018	-	$409,900	6288m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514936	            15/39 Bellbird Loop	07/06/2016	03/07/2017	-	$409,900	2173m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514634	            14/39 Bellbird Loop	14/06/2016	03/07/2017	-	$409,900	2173m	Full transfer	-	-	-	-	-	$409,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516693	            49/76 Stockman Avenue	20/06/2016	04/08/2017	-	$409,000	11356m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517355	            48/76 Stockman Avenue	10/06/2016	16/08/2017	-	$409,000	11356m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515943	            50/76 Stockman Avenue	07/07/2016	27/07/2017	-	$409,000	11356m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486109	            36/79 Stockman Avenue	21/07/2016	09/09/2016	-	$409,000	12647m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516336	            47/76 Stockman Avenue	20/06/2016	08/08/2017	-	$409,000	11356m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515874	            56/76 Stockman Avenue	17/06/2016	26/07/2017	-	$409,000	11356m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520526	            21/2 Bulletin Street	21/04/2016	06/11/2017	-	$408,000	6326m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526936	            19/15 Wanderlight Avenue	16/11/2016	06/03/2018	-	$407,000	6288m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519801	            18/2 Bulletin Street	28/06/2016	22/10/2017	-	$405,000	6326m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	520823	            17/2 Bulletin Street	09/03/2016	20/11/2017	-	$400,000	6326m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526816	            15/15 Wanderlight Avenue	25/10/2016	06/03/2018	-	$399,900	6288m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526866	            6/55 Jumbuck Crescent	14/09/2016	06/03/2018	-	$399,900	7581m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526844	            7/55 Jumbuck Crescent	21/07/2016	07/03/2018	-	$399,900	7581m	Full transfer	-	-	-	-	-	$399,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	493258	            67/79 Stockman Avenue	06/10/2016	05/12/2016	-	$389,000	12647m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	498161	            55/79 Stockman Avenue	20/12/2016	15/02/2017	-	$389,000	12647m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	518346	            52/76 Stockman Avenue	11/11/2016	09/09/2017	-	$389,000	11356m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522780	            19/23 Wanderlight Avenue	04/11/2016	11/01/2018	-	$389,000	8955m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	496995	            69/79 Stockman Avenue	30/11/2016	10/02/2017	-	$389,000	12647m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	525648	            20/23 Wanderlight Avenue	25/10/2016	13/02/2018	-	$389,000	8955m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522877	            10/23 Wanderlight Avenue	30/11/2016	14/01/2018	-	$382,000	8955m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526985	            11/15 Wanderlight Avenue	11/11/2016	07/03/2018	-	$382,000	6288m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516334	            34/76 Stockman Avenue	22/12/2016	10/08/2017	-	$382,000	11356m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515944	            69/76 Stockman Avenue	06/12/2016	27/07/2017	-	$382,000	11356m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515164	            9/39 Bellbird Loop	06/05/2016	11/07/2017	-	$380,000	2173m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514733	            11/39 Bellbird Loop	06/05/2016	03/07/2017	-	$380,000	2173m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514229	            25/11 Stockman Avenue	25/02/2016	30/06/2017	-	$374,900	7028m	Full transfer	-	-	-	-	-	$374,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514739	            41/11 Stockman Avenue	12/02/2016	05/07/2017	-	$374,900	7028m	Full transfer	-	-	-	-	-	$374,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513101	            42/11 Stockman Avenue	05/02/2016	05/06/2017	-	$374,900	7028m	Full transfer	-	-	-	-	-	$374,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521627	            60/5 Nevertire Street	26/11/2016	20/12/2017	-	$370,000	9229m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521558	            65/5 Nevertire Street	17/11/2016	19/12/2017	-	$370,000	9229m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514816	            22/11 Stockman Avenue	21/01/2016	05/07/2017	-	$365,900	7028m	Full transfer	-	-	-	-	-	$365,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522024	            47/5 Nevertire Street	12/11/2016	04/01/2018	-	$365,000	9229m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522436	            72/5 Nevertire Street	10/11/2016	14/12/2017	-	$360,000	9229m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486667	18 Billabong Street	08/06/2016	12/09/2016	-	$360,000	330m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515886	            58/76 Stockman Avenue	12/12/2016	27/07/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517105	            60/76 Stockman Avenue	30/11/2016	31/07/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515871	            25/76 Stockman Avenue	10/10/2016	27/07/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	515890	            9/76 Stockman Avenue	22/12/2016	27/07/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517462	            16/76 Stockman Avenue	15/12/2016	24/08/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516794	            44/76 Stockman Avenue	23/12/2016	01/08/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	517366	            13/76 Stockman Avenue	21/12/2016	15/08/2017	-	$348,000	11356m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501475	            1/1 Pipeclay Street	03/03/2016	21/03/2017	-	$347,900	5610m	Full transfer	-	-	-	-	-	$347,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523399	            2/23 Wanderlight Avenue	08/12/2016	18/01/2018	-	$347,819	8955m	Full transfer	-	-	-	-	-	$347,819	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486490	            12/79 Stockman Avenue	12/08/2016	14/09/2016	-	$346,000	12647m	Full transfer	-	-	-	-	-	$346,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513605	            20/11 Stockman Avenue	03/02/2016	02/06/2017	-	$344,900	7028m	Full transfer	-	-	-	-	-	$344,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	543223	            28/2 Pipeclay Street	12/02/2016	04/10/2018	-	$341,000	6678m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522346	            59/5 Nevertire Street	10/11/2016	12/12/2017	-	$340,000	9229m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522521	            54/5 Nevertire Street	20/11/2016	09/01/2018	-	$340,000	9229m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514726	            29/11 Stockman Avenue	04/02/2016	05/07/2017	-	$339,900	7028m	Full transfer	-	-	-	-	-	$339,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501566	            7/1 Pipeclay Street	25/02/2016	21/03/2017	-	$339,900	5610m	Full transfer	-	-	-	-	-	$339,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501506	            6/1 Pipeclay Street	26/05/2016	22/03/2017	-	$339,900	5610m	Full transfer	-	-	-	-	-	$339,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486521	            65/79 Stockman Avenue	27/04/2016	13/09/2016	-	$339,500	12647m	Full transfer	-	-	-	-	-	$339,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486466	            23/79 Stockman Avenue	22/07/2016	13/09/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	519456	            13/2 Bulletin Street	10/03/2016	13/10/2017	-	$339,000	6326m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488963	            57/79 Stockman Avenue	29/04/2016	25/10/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476234	            13 Bulletin Street	19/05/2016	-	15/10/2015	$339,000	0m	Full transfer	1	1	-	0	1	$339,000	217	-	Allhomes Record	-	-	-	-	-	-
+2016	486553	            10/79 Stockman Avenue	19/04/2016	14/09/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491369	            66/79 Stockman Avenue	11/10/2016	23/11/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	494864	            14/79 Stockman Avenue	24/10/2016	11/01/2017	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488820	            21/79 Stockman Avenue	19/09/2016	28/10/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486280	            19/79 Stockman Avenue	22/04/2016	08/09/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486673	            52/79 Stockman Avenue	06/05/2016	12/09/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487074	            68/79 Stockman Avenue	02/07/2016	20/09/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	485672	            13/79 Stockman Avenue	14/07/2016	31/08/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	492697	            54/79 Stockman Avenue	07/09/2016	16/12/2016	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527642	            34/79 Stockman Avenue	13/07/2016	16/03/2018	-	$339,000	12647m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513024	            23/11 Stockman Avenue	16/03/2016	06/06/2017	-	$334,900	7028m	Full transfer	-	-	-	-	-	$334,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514161	            45/11 Stockman Avenue	08/04/2016	27/06/2017	-	$334,900	7028m	Full transfer	-	-	-	-	-	$334,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521703	            46/5 Nevertire Street	10/11/2016	18/12/2017	-	$330,000	9229m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501395	            8/1 Pipeclay Street	16/05/2016	21/03/2017	-	$329,900	5610m	Full transfer	-	-	-	-	-	$329,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	516157	            21/76 Stockman Avenue	24/02/2016	25/07/2017	-	$319,000	11356m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476564	34 Jumbuck Crescent	26/02/2016	29/04/2016	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477068	40 Jumbuck Crescent	10/03/2016	06/05/2016	-	$300,000	250m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	512416	            10/17 Stockman Avenue	17/05/2016	11/05/2017	-	$299,000	6692m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514520	            4/17 Stockman Avenue	01/04/2016	03/07/2017	-	$297,800	6692m	Full transfer	-	-	-	-	-	$297,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522389	            75/5 Nevertire Street	26/11/2016	12/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522500	            57/5 Nevertire Street	12/11/2016	10/01/2018	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483680		01/09/2016	-	19/08/2016	$296,000	-	Full transfer	1	1	-	1	-	$296,000	13	-	Allhomes Record	-	-	-	-	-	-
+2016	521621	            69/5 Nevertire Street	15/11/2016	19/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522949	            63/5 Nevertire Street	10/11/2016	08/01/2018	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522355	            66/5 Nevertire Street	13/11/2016	12/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	547498	43/17 Nevertire Street	29/09/2016	21/11/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521473	            58/5 Nevertire Street	15/11/2016	21/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522895	            56/5 Nevertire Street	13/11/2016	11/01/2018	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522222	            70/5 Nevertire Street	17/11/2016	12/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	547587	38/17 Nevertire Street	23/12/2016	30/11/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	546962	44/17 Nevertire Street	02/11/2016	30/11/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522835	            51/5 Nevertire Street	10/11/2016	10/01/2018	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522598	            50/5 Nevertire Street	15/11/2016	10/01/2018	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	522386	            74/5 Nevertire Street	13/11/2016	12/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521668	            68/5 Nevertire Street	23/12/2016	21/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521538	            73/5 Nevertire Street	02/12/2016	18/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	521385	            62/5 Nevertire Street	17/11/2016	19/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	490042	            1 Nevertire Street	29/11/2016	-	10/10/2016	$296,000	9229m	Full transfer	2	1	-	1	-	$296,000	50	-	Allhomes Record	-	-	-	-	-	-
+2016	522247	            67/5 Nevertire Street	11/11/2016	15/12/2017	-	$296,000	9229m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514673	            33/11 Stockman Avenue	03/05/2016	05/07/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513837	            34/11 Stockman Avenue	12/07/2016	21/06/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514862	            21/11 Stockman Avenue	31/05/2016	03/07/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	514222	            39/11 Stockman Avenue	27/04/2016	29/06/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513852	            44/11 Stockman Avenue	15/06/2016	21/06/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512970	            27/11 Stockman Avenue	27/04/2016	24/05/2017	-	$295,000	7028m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	513335	            9/17 Stockman Avenue	22/08/2016	01/06/2017	-	$285,000	6692m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528796	            16/55 Jumbuck Crescent	24/10/2016	21/03/2018	-	$258,000	7581m	Full transfer	-	-	-	-	-	$258,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	528143	            11/55 Jumbuck Crescent	08/03/2016	25/03/2018	-	$255,900	7581m	Full transfer	-	-	-	-	-	$255,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	527673	            14/55 Jumbuck Crescent	20/06/2016	15/03/2018	-	$255,000	7581m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	526805	            12/55 Jumbuck Crescent	13/09/2016	08/03/2018	-	$250,000	7581m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	551239	5/17 Nevertire Street	29/09/2016	16/11/2018	-	$0	6856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483960	48 Wanderlight Avenue	12/09/2016	-	03/11/2015	$0	558m	Full transfer	-	-	-	-	-	$0	314	-	Allhomes Record	-	-	-	-	$478,000	0.97
+2016	473373	4 Cooee Rise	02/03/2016	15/03/2016	-	$0	541m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	532393	            5/55 Jumbuck Crescent	03/02/2016	13/05/2018	-	$0	7581m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	546987	31/17 Nevertire Street	19/12/2016	30/11/2018	-	$0	6856m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	513500	33 Bellbird Loop	13/02/2017	01/06/2017	-	$1,100,000	599m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522315	6 Cooee Rise	19/08/2017	12/12/2017	25/07/2017	$965,000	592m	Full transfer	4	2	-	3	-	$965,000	25	-	Combined Record	211	-	-	Single residential dwelling	$478,000	0.5
+2017	503995	21 Selection Street	05/05/2017	-	11/11/2011	$849,990	405m	Full transfer	4	1	1	2	-	$849,990	2002	-	Allhomes Record	-	-	-	-	$415,000	0.49
+2017	526503	10 Selection Street	20/12/2017	-	12/03/2018	$785,000	330m	Full transfer	4	2	-	1	0	$785,000	-	-	Allhomes Record	-	-	-	-	$347,000	0.44
+2017	506353	            8 Jumbuck Crescent	12/07/2017	-	30/11/2016	$699,000	-	Full transfer	3	2	-	2	-	$699,000	224	-	Allhomes Record	-	-	-	-	-	-
+2017	510422	9 Dawn Crescent	23/11/2017	-	15/12/2013	$695,000	829m	Full transfer	-	-	-	-	-	$695,000	1439	-	Allhomes Record	-	-	-	-	$562,000	0.81
+2017	522718	9 Dawn Crescent	21/09/2017	11/01/2018	-	$692,000	830m	Full transfer	-	-	-	-	-	$692,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	560031	            24/119 Stockman Avenue	15/06/2017	21/05/2019	-	$669,000	5610m	Full transfer	-	-	-	-	-	$669,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501893	            8 Jumbuck Crescent	18/04/2017	-	19/04/2017	$669,000	0m	Full transfer	3	2	-	2	0	$669,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	563140	            36/119 Stockman Avenue	08/11/2017	18/06/2019	-	$669,000	5610m	Full transfer	-	-	-	-	-	$669,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520480	            4/2 Bulletin Street	07/07/2017	09/11/2017	-	$659,000	6326m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559943	            33/119 Stockman Avenue	07/11/2017	20/05/2019	-	$655,000	5610m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523652	            4/23 Wanderlight Avenue	12/05/2017	15/01/2018	-	$649,000	8955m	Full transfer	-	-	-	-	-	$649,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524880	            24/1 Overflow Street	07/06/2017	01/02/2018	-	$647,000	6327m	Full transfer	-	-	-	-	-	$647,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518528	            2/73 Stockman Avenue	28/07/2017	09/09/2017	-	$639,900	4688m	Full transfer	-	-	-	-	-	$639,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523186	            6/23 Wanderlight Avenue	08/09/2017	16/01/2018	-	$635,000	8955m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524370	            5/23 Wanderlight Avenue	01/11/2017	24/01/2018	-	$635,000	8955m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523265	            8/23 Wanderlight Avenue	26/10/2017	17/01/2018	-	$635,000	8955m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517684	            76/76 Stockman Avenue	21/03/2017	31/08/2017	-	$634,000	11356m	Full transfer	-	-	-	-	-	$634,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518861	            74/76 Stockman Avenue	26/06/2017	11/09/2017	-	$629,000	11356m	Full transfer	-	-	-	-	-	$629,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506589		24/07/2017	-	12/04/2017	$625,000	-	Full transfer	3	2	-	2	-	$625,000	103	-	Allhomes Record	-	-	-	-	-	-
+2017	528400	            25/1 Overflow Street	21/11/2017	19/03/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528296	            23/1 Overflow Street	13/06/2017	19/03/2018	-	$625,000	6327m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522215	            27/5 Nevertire Street	23/04/2017	15/12/2017	-	$620,000	9229m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522400	            31/5 Nevertire Street	13/05/2017	12/12/2017	-	$619,950	9229m	Full transfer	-	-	-	-	-	$619,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504270	            1 Nevertire Street	23/05/2017	-	18/02/2016	$619,950	9229m	Full transfer	4	2	-	2	-	$619,950	460	-	Allhomes Record	137	-	-	-	-	-
+2017	506586	            33/2 Bulletin Street	24/07/2017	-	23/02/2017	$609,000	6326m	Full transfer	3	2	-	0	2	$609,000	151	-	Allhomes Record	-	-	-	-	-	-
+2017	516064	            70/76 Stockman Avenue	24/02/2017	26/07/2017	-	$609,000	11356m	Full transfer	-	-	-	-	-	$609,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516011	            25/1 Pipeclay Street	01/05/2017	24/07/2017	-	$600,000	5610m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518729	            3/11 Stockman Avenue	04/08/2017	28/09/2017	-	$599,900	7028m	Full transfer	-	-	-	-	-	$599,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522620	            3/23 Wanderlight Avenue	18/10/2017	14/01/2018	-	$599,000	8955m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524350	            7/23 Wanderlight Avenue	01/11/2017	23/01/2018	-	$599,000	8955m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505908	            5/17 Billabong Street	20/06/2017	-	23/03/2017	$595,000	-	Full transfer	3	2	-	2	-	$595,000	89	-	Allhomes Record	121	-	-	-	$4,560,000	7.66
+2017	517042	            5/11 Stockman Avenue	20/06/2017	02/08/2017	-	$595,000	7028m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515921	            43/2 Pipeclay Street	31/05/2017	24/07/2017	-	$583,000	6678m	Full transfer	-	-	-	-	-	$583,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521070	            8/11 Stockman Avenue	19/09/2017	04/12/2017	-	$582,500	7028m	Full transfer	-	-	-	-	-	$582,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510402	            74/2 Rouseabout Street	08/12/2017	-	11/10/2017	$582,100	0m	Full transfer	3	2	-	3	0	$582,100	58	-	Allhomes Record	-	-	-	-	-	-
+2017	510758	            83/2 Rouseabout Street	19/12/2017	-	29/11/2017	$580,000	0m	Full transfer	3	1	1	3	0	$580,000	20	-	Allhomes Record	-	-	-	-	-	-
+2017	524505	            3/11 Narrambla Terrace	07/06/2017	01/02/2018	-	$580,000	2442m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526964	            83/79 Stockman Avenue	18/12/2017	11/03/2018	-	$580,000	12647m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528900	6 Selection Street	05/12/2017	27/03/2018	-	$575,000	540m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526084	            51/23 Wanderlight Avenue	10/07/2017	01/03/2018	-	$574,000	8955m	Full transfer	-	-	-	-	-	$574,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522478	            53/23 Wanderlight Avenue	04/10/2017	11/01/2018	-	$574,000	8955m	Full transfer	-	-	-	-	-	$574,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547326	18/17 Nevertire Street	27/02/2017	20/11/2018	-	$569,900	6856m	Full transfer	-	-	-	-	-	$569,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516501	            29/76 Stockman Avenue	24/02/2017	08/08/2017	-	$569,000	11356m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524096	            50/23 Wanderlight Avenue	10/08/2017	24/01/2018	-	$569,000	8955m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523423	            58/23 Wanderlight Avenue	19/07/2017	16/01/2018	-	$569,000	8955m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524315	            57/23 Wanderlight Avenue	23/05/2017	24/01/2018	-	$569,000	8955m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	535444	            40/76 Stockman Avenue	02/02/2017	21/06/2018	-	$569,000	11356m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523351	            49/23 Wanderlight Avenue	02/06/2017	15/01/2018	-	$569,000	8955m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523533	            54/23 Wanderlight Avenue	22/06/2017	15/01/2018	-	$569,000	8955m	Full transfer	-	-	-	-	-	$569,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	513722	            26/1 Pipeclay Street	20/03/2017	29/05/2017	-	$564,900	5610m	Full transfer	-	-	-	-	-	$564,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	548044	22/17 Nevertire Street	20/01/2017	22/11/2018	-	$560,900	6856m	Full transfer	-	-	-	-	-	$560,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	551573	17/17 Nevertire Street	20/03/2017	16/11/2018	-	$559,900	6856m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547030	3/17 Nevertire Street	04/05/2017	22/11/2018	-	$559,900	6856m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	551471	4/17 Nevertire Street	27/07/2017	15/11/2018	-	$559,900	6856m	Full transfer	-	-	-	-	-	$559,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523225	            38/23 Wanderlight Avenue	01/03/2017	15/01/2018	-	$559,000	8955m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522712	            44/23 Wanderlight Avenue	09/03/2017	11/01/2018	-	$559,000	8955m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547048	15/17 Nevertire Street	05/05/2017	20/11/2018	-	$554,900	6856m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547008	10/17 Nevertire Street	16/05/2017	26/11/2018	-	$554,900	6856m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547169	16/17 Nevertire Street	29/06/2017	19/11/2018	-	$554,900	6856m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514741	            27/1 Pipeclay Street	25/05/2017	04/07/2017	-	$554,900	5610m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514488	            33/1 Pipeclay Street	19/05/2017	04/07/2017	-	$554,900	5610m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504594	             Stockman Avenue	30/05/2017	-	07/10/2015	$554,000	-	Full transfer	3	2	1	1	1	$554,000	601	-	Allhomes Record	115	-	-	-	-	-
+2017	550057	7/17 Nevertire Street	29/03/2017	14/12/2018	-	$551,000	6856m	Full transfer	-	-	-	-	-	$551,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559906	            23/119 Stockman Avenue	25/08/2017	20/05/2019	-	$550,000	5610m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	561253	            22/119 Stockman Avenue	03/07/2017	28/05/2019	-	$550,000	5610m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559194	            29/119 Stockman Avenue	18/09/2017	16/05/2019	-	$550,000	5610m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559265	            31/119 Stockman Avenue	23/11/2017	16/05/2019	-	$550,000	5610m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	561687	            28/119 Stockman Avenue	10/10/2017	29/05/2019	-	$550,000	5610m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519183	24 Toorale Terrace	19/05/2017	13/10/2017	-	$550,000	554m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508143	81/2 Rouseabout Street	26/09/2017	-	23/02/2017	$550,000	0m	Full transfer	3	2	-	3	0	$550,000	215	-	Allhomes Record	-	-	-	-	$635,000	1.15
+2017	524218	56 Wanderlight Avenue	16/10/2017	22/01/2018	12/10/2017	$550,000	619m	Full transfer	0	0	-	0	0	$550,000	4	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.87
+2017	521531	            81/79 Stockman Avenue	26/09/2017	18/12/2017	-	$550,000	12647m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528157	32 Selection Street	13/10/2017	25/03/2018	-	$550,000	611m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516070	            41/76 Stockman Avenue	22/05/2017	27/07/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516063	            28/76 Stockman Avenue	04/05/2017	26/07/2017	-	$549,000	11356m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	546856	40/11 Wanderlight Avenue	09/11/2017	29/11/2018	-	$545,000	5694m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528990	6 Billabong Street	21/12/2017	26/03/2018	-	$545,000	450m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	551574	23/17 Nevertire Street	19/04/2017	15/11/2018	-	$544,900	6856m	Full transfer	-	-	-	-	-	$544,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512378	            38/1 Pipeclay Street	29/03/2017	11/05/2017	-	$540,000	5610m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517789	16 Toorale Terrace	16/06/2017	29/08/2017	-	$540,000	633m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513223	            30/1 Pipeclay Street	26/04/2017	08/06/2017	-	$539,900	5610m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524076	            46/23 Wanderlight Avenue	17/10/2017	22/01/2018	-	$539,000	8955m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514610	7 Concertina Street	10/04/2017	05/07/2017	12/01/2017	$537,500	540m	Full transfer	-	-	-	-	-	$537,500	88	-	Combined Record	-	-	-	Single residential dwelling	$478,000	0.89
+2017	514969	33 Solong Street	04/05/2017	03/07/2017	-	$535,000	540m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522476	            25/23 Wanderlight Avenue	01/06/2017	14/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523425	            33/23 Wanderlight Avenue	15/05/2017	17/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528267	            35/23 Wanderlight Avenue	11/05/2017	25/03/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528352	            25/55 Jumbuck Crescent	14/02/2017	21/03/2018	-	$529,000	7581m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528420	            34/23 Wanderlight Avenue	17/05/2017	25/03/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523350	            32/23 Wanderlight Avenue	07/06/2017	15/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523731	            30/23 Wanderlight Avenue	22/05/2017	15/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523357	            27/23 Wanderlight Avenue	26/07/2017	15/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522876	            26/23 Wanderlight Avenue	06/06/2017	14/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523686	            36/23 Wanderlight Avenue	03/04/2017	15/01/2018	-	$529,000	8955m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559495	            3/119 Stockman Avenue	17/11/2017	17/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559375	            37/119 Stockman Avenue	21/11/2017	16/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524481	            28/23 Wanderlight Avenue	23/05/2017	01/02/2018	-	$525,000	8955m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	561257	            6/119 Stockman Avenue	08/11/2017	29/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	560864	            8/119 Stockman Avenue	09/11/2017	28/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528231	            22/55 Jumbuck Crescent	09/03/2017	19/03/2018	-	$524,900	7581m	Full transfer	-	-	-	-	-	$524,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516018	            46/76 Stockman Avenue	08/05/2017	26/07/2017	-	$519,000	11356m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516859	            42/76 Stockman Avenue	28/03/2017	03/08/2017	-	$519,000	11356m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523726	            47/23 Wanderlight Avenue	05/05/2017	16/01/2018	-	$519,000	8955m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516746	            45/76 Stockman Avenue	23/05/2017	31/07/2017	-	$519,000	11356m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524671	            39/23 Wanderlight Avenue	22/03/2017	01/02/2018	-	$519,000	8955m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517800	            24/76 Stockman Avenue	02/03/2017	29/08/2017	-	$519,000	11356m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524536	            1/23 Wanderlight Avenue	29/08/2017	30/01/2018	-	$519,000	8955m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523704	            48/23 Wanderlight Avenue	28/04/2017	16/01/2018	-	$519,000	8955m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523642	            41/23 Wanderlight Avenue	13/04/2017	15/01/2018	-	$519,000	8955m	Full transfer	-	-	-	-	-	$519,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523829	            40/23 Wanderlight Avenue	11/04/2017	15/01/2018	-	$511,250	8955m	Full transfer	-	-	-	-	-	$511,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	502304	            13/73 Stockman Avenue	21/02/2017	19/04/2017	-	$510,000	4688m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527065	            29/1 Overflow Street	06/11/2017	07/03/2018	-	$509,000	6327m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517155	            15/76 Stockman Avenue	13/02/2017	04/08/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526240	            28/1 Overflow Street	08/06/2017	27/02/2018	-	$509,000	6327m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	525736	            26/1 Overflow Street	09/06/2017	15/02/2018	-	$509,000	6327m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516878	            19/76 Stockman Avenue	17/03/2017	01/08/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515770	            20/76 Stockman Avenue	20/06/2017	28/07/2017	-	$509,000	11356m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503804	            14/73 Stockman Avenue	09/02/2017	26/04/2017	-	$505,000	4688m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524759	            33/1 Overflow Street	09/11/2017	30/01/2018	-	$505,000	6327m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504683	            12/73 Stockman Avenue	04/04/2017	04/05/2017	-	$505,000	4688m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	513262	            18/73 Stockman Avenue	26/04/2017	07/06/2017	-	$505,000	4688m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523518	            14/17 Stockman Avenue	19/10/2017	16/01/2018	-	$500,000	6692m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521967	            25/5 Nevertire Street	14/05/2017	05/01/2018	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522406	            24/5 Nevertire Street	28/03/2017	12/12/2017	-	$499,950	9229m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524374	            32/1 Overflow Street	13/06/2017	24/01/2018	-	$499,000	6327m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522951	            12/23 Wanderlight Avenue	10/10/2017	14/01/2018	-	$499,000	8955m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500175	            1/2 Pipeclay Street	24/01/2017	09/03/2017	-	$491,900	6678m	Full transfer	-	-	-	-	-	$491,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521039	            71/5 Nevertire Street	02/07/2017	07/12/2017	-	$489,950	9229m	Full transfer	-	-	-	-	-	$489,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506309	            1 Nevertire Street	11/07/2017	-	10/10/2016	$489,950	9229m	Full transfer	3	2	-	2	-	$489,950	274	-	Allhomes Record	-	-	-	-	-	-
+2017	516049	            67/76 Stockman Avenue	10/03/2017	28/07/2017	-	$489,000	11356m	Full transfer	-	-	-	-	-	$489,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519085	            16/2 Pipeclay Street	14/08/2017	03/10/2017	-	$485,000	6678m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512320	6 Drover Rise	17/03/2017	16/05/2017	07/03/2017	$485,000	450m	Full transfer	-	-	-	-	-	$485,000	10	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.91
+2017	493495		01/01/2017	-	22/09/2016	$485,000	-	Full transfer	3	1	2	2	-	$485,000	101	-	Allhomes Record	-	-	-	-	-	-
+2017	515416	            9/39 Bellbird Loop	26/05/2017	11/07/2017	-	$485,000	2173m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517315	            64/76 Stockman Avenue	08/06/2017	16/08/2017	-	$484,000	11356m	Full transfer	-	-	-	-	-	$484,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	513769	8 Billabong Street	23/03/2017	30/05/2017	07/03/2017	$480,000	450m	Full transfer	-	-	-	-	-	$480,000	16	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.92
+2017	498507	6 Billabong Street	05/02/2017	-	03/08/2016	$480,000	-	Full transfer	-	-	-	-	-	$480,000	186	-	Allhomes Record	-	-	-	-	$441,000	0.92
+2017	515391	            3/2 Pipeclay Street	10/05/2017	10/07/2017	-	$480,000	6678m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512062	6 Sliprail Street	21/03/2017	19/05/2017	-	$480,000	500m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500939	8 Swagman Street	08/02/2017	28/03/2017	-	$480,000	450m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517099	            53/76 Stockman Avenue	13/04/2017	31/07/2017	-	$479,000	11356m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520941	14 Rouseabout Street	31/07/2017	29/11/2017	12/04/2016	$477,000	540m	Full transfer	-	-	-	-	-	$477,000	475	-	Combined Record	-	-	-	Single residential dwelling	$478,000	1.0
+2017	503444	16 Rouseabout Street	15/02/2017	06/04/2017	31/05/2016	$473,000	540m	Full transfer	-	-	-	-	-	$473,000	260	-	Combined Record	-	-	-	Single residential dwelling	$478,000	1.01
+2017	506452	            39/2 Pipeclay Street	01/07/2017	-	15/05/2016	$470,000	6678m	Full transfer	2	1	2	1	-	$470,000	412	-	Allhomes Record	-	-	-	-	-	-
+2017	522658	            9/5 Nevertire Street	12/08/2017	10/01/2018	-	$469,950	9229m	Full transfer	-	-	-	-	-	$469,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528076	            8/15 Wanderlight Avenue	10/03/2017	21/03/2018	-	$469,900	6288m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526988	            9/15 Wanderlight Avenue	12/04/2017	06/03/2018	-	$469,900	6288m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526912	            28/15 Wanderlight Avenue	09/05/2017	06/03/2018	-	$469,900	6288m	Full transfer	-	-	-	-	-	$469,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522787	            18/23 Wanderlight Avenue	17/02/2017	14/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523839	            17/23 Wanderlight Avenue	02/03/2017	15/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523055	            12/23 Wanderlight Avenue	15/11/2017	14/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524126	            23/23 Wanderlight Avenue	28/02/2017	23/01/2018	-	$469,000	8955m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518212	            39/2 Pipeclay Street	03/07/2017	28/08/2017	-	$465,000	6678m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528853	            27/15 Wanderlight Avenue	09/05/2017	22/03/2018	-	$459,900	6288m	Full transfer	-	-	-	-	-	$459,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515907	            43/76 Stockman Avenue	21/03/2017	26/07/2017	-	$459,000	11356m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528301	            13/15 Wanderlight Avenue	27/07/2017	19/03/2018	-	$457,950	6288m	Full transfer	-	-	-	-	-	$457,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526869	            6/15 Wanderlight Avenue	28/04/2017	06/03/2018	-	$450,000	6288m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	526857	            10/15 Wanderlight Avenue	06/04/2017	06/03/2018	-	$450,000	6288m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	547064	15/11 Wanderlight Avenue	26/07/2017	23/11/2018	-	$449,000	5694m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506636	            15/11 Wanderlight Avenue 'Hillside Villas'	26/07/2017	-	20/04/2017	$449,000	-	Full transfer	2	2	-	1	-	$449,000	97	-	Allhomes Record	81	-	-	-	$3,480,000	7.75
+2017	520159	            16/11 Narrambla Terrace	07/06/2017	31/10/2017	-	$445,000	2442m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522269	            44/5 Nevertire Street	26/02/2017	12/12/2017	-	$440,000	9229m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	499334	            1 Nevertire Street	27/03/2017	-	30/11/2016	$440,000	9229m	Full transfer	2	2	-	2	-	$440,000	117	-	Allhomes Record	-	-	-	-	-	-
+2017	525607	            16/2 Bulletin Street	11/12/2017	16/02/2018	-	$439,000	6326m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520483	            8/11 Narrambla Terrace	08/03/2017	09/11/2017	-	$435,000	2442m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505031	            51/48 Narrambla Terrace	30/03/2017	03/05/2017	-	$435,000	8526m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	499552	            51/88 Narrambla Terrace	30/03/2017	-	02/02/2017	$435,000	-	Full transfer	2	2	-	1	-	$435,000	56	-	Allhomes Record	93	-	-	-	-	-
+2017	523850	            61/5 Nevertire Street	25/03/2017	15/01/2018	-	$420,000	9229m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501821	            1 Nevertire Street	19/04/2017	-	16/12/2016	$420,000	9229m	Full transfer	2	2	-	2	-	$420,000	124	-	Allhomes Record	-	-	-	-	-	-
+2017	527074	            37/15 Wanderlight Avenue	27/03/2017	06/03/2018	-	$419,900	6288m	Full transfer	-	-	-	-	-	$419,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503636	            27/2 Pipeclay Street	03/05/2017	-	30/03/2017	$400,000	0m	Full transfer	2	2	-	1	0	$400,000	34	-	Allhomes Record	-	-	-	-	-	-
+2017	515364	            27/2 Pipeclay Street	02/05/2017	10/07/2017	-	$400,000	6678m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512149	            31/17 Stockman Avenue	09/02/2017	15/05/2017	-	$400,000	6692m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517178	            61/76 Stockman Avenue	09/03/2017	02/08/2017	-	$399,000	11356m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516041	            54/76 Stockman Avenue	01/06/2017	25/07/2017	-	$399,000	11356m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524221	            14/23 Wanderlight Avenue	29/03/2017	22/01/2018	-	$399,000	8955m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517638	            62/76 Stockman Avenue	08/02/2017	24/08/2017	-	$399,000	11356m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501141	21 Selection Street	23/01/2017	30/03/2017	-	$398,000	405m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516066	            32/79 Stockman Avenue	30/05/2017	24/07/2017	-	$390,000	12647m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519684	            14/11 Narrambla Terrace	15/03/2017	22/10/2017	-	$380,000	2442m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522883	            11/23 Wanderlight Avenue	09/02/2017	11/01/2018	-	$379,000	8955m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517836	            16/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517905	            27/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517824	            20/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521017	            26/48 Narrambla Terrace	30/06/2017	30/11/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518293	            28/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518056	            21/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517901	            25/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$374,000	8526m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506859	            1 Nevertire Street	07/08/2017	-	30/11/2016	$369,950	9229m	Full transfer	2	1	-	2	-	$369,950	250	-	Allhomes Record	-	-	-	-	-	-
+2017	523116	            43/5 Nevertire Street	11/08/2017	09/01/2018	-	$369,950	9229m	Full transfer	-	-	-	-	-	$369,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507227	            1 Nevertire Street	18/08/2017	-	19/12/2016	$369,950	9229m	Full transfer	2	1	-	2	-	$369,950	242	-	Allhomes Record	-	-	-	-	-	-
+2017	526827	            53/5 Nevertire Street	28/07/2017	05/03/2018	-	$369,650	9229m	Full transfer	-	-	-	-	-	$369,650	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522777	            48/5 Nevertire Street	24/01/2017	08/01/2018	-	$360,000	9229m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521437	            45/5 Nevertire Street	30/03/2017	20/12/2017	-	$360,000	9229m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522930	            52/5 Nevertire Street	09/02/2017	08/01/2018	-	$360,000	9229m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494497	            1 Nevertire Street	13/02/2017	-	30/01/2017	$359,950	9229m	Full transfer	2	1	-	2	-	$359,950	14	-	Allhomes Record	-	-	-	-	-	-
+2017	499480	            1 Nevertire Street	03/04/2017	-	10/10/2016	$359,950	9229m	Full transfer	2	1	-	2	-	$359,950	175	-	Allhomes Record	-	-	-	-	-	-
+2017	522762	            55/5 Nevertire Street	15/07/2017	09/01/2018	-	$359,950	9229m	Full transfer	-	-	-	-	-	$359,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494157	            1 Nevertire Street	30/01/2017	-	16/01/2017	$359,590	9229m	Full transfer	2	1	-	2	-	$359,590	14	-	Allhomes Record	-	-	-	-	-	-
+2017	516796	            18/17 Stockman Avenue	30/06/2017	02/08/2017	-	$350,000	6692m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516927	            16/17 Stockman Avenue	30/06/2017	02/08/2017	-	$350,000	6692m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516833	            39/17 Stockman Avenue	08/06/2017	31/07/2017	-	$350,000	6692m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	493470	            1 Nevertire Street	15/01/2017	-	15/11/2016	$349,950	9229m	Full transfer	2	1	-	2	-	$349,950	61	-	Allhomes Record	-	-	-	-	-	-
+2017	528822	            20/15 Wanderlight Avenue	19/12/2017	19/03/2018	-	$348,000	6288m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528715	            36/15 Wanderlight Avenue	19/12/2017	19/03/2018	-	$348,000	6288m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517830	            40/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$341,000	8526m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517892	            39/48 Narrambla Terrace	30/06/2017	28/08/2017	-	$341,000	8526m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528692	            12/2 Bulletin Street	27/11/2017	21/03/2018	-	$339,000	6326m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506760	            17 Billabong Street	01/08/2017	-	27/06/2017	$339,000	7028m	Full transfer	1	1	-	1	-	$339,000	35	-	Allhomes Record	74	-	-	-	-	-
+2017	517931	            26/11 Stockman Avenue	28/07/2017	29/08/2017	-	$339,000	7028m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523637	            1/17 Stockman Avenue	19/10/2017	16/01/2018	-	$320,000	6692m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512531	            12/17 Stockman Avenue	22/02/2017	08/05/2017	-	$320,000	6692m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517685	            40/11 Stockman Avenue	27/06/2017	22/08/2017	-	$309,900	7028m	Partial transfer	-	-	-	-	-	$309,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516974	            35/17 Stockman Avenue	08/06/2017	31/07/2017	-	$300,000	6692m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516945	            27/17 Stockman Avenue	08/06/2017	02/08/2017	-	$300,000	6692m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	546882	39/17 Nevertire Street	31/05/2017	30/11/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	551279	42/17 Nevertire Street	30/05/2017	10/01/2019	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	548641	45/17 Nevertire Street	20/01/2017	14/01/2019	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528832	            42/15 Wanderlight Avenue	19/12/2017	19/03/2018	-	$296,000	6288m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	492309	            1 Nevertire Street	09/01/2017	-	10/10/2016	$296,000	9229m	Full transfer	1	1	-	1	-	$296,000	91	-	Allhomes Record	-	-	-	-	-	-
+2017	550212	40/17 Nevertire Street	16/05/2017	03/12/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528942	            19/55 Jumbuck Crescent	09/02/2017	27/03/2018	-	$280,000	7581m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517118	            7/17 Stockman Avenue	30/06/2017	02/08/2017	-	$250,000	6692m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517055	            2/17 Stockman Avenue	30/06/2017	02/08/2017	-	$250,000	6692m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516846	            8/17 Stockman Avenue	08/06/2017	31/07/2017	-	$250,000	6692m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501583	            36/48 Narrambla Terrace	10/02/2017	20/03/2017	-	$0	8526m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501671	            35/48 Narrambla Terrace	10/02/2017	20/03/2017	-	$0	8526m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523621	            29/23 Wanderlight Avenue	11/07/2017	17/01/2018	-	$0	8955m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559938	            5/119 Stockman Avenue	31/05/2017	21/05/2019	-	$0	5610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521716	            17/5 Nevertire Street	30/07/2017	18/12/2017	-	$0	9229m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	559823	            38/119 Stockman Avenue	13/06/2017	20/05/2019	-	$0	5610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528672	            33/15 Wanderlight Avenue	04/05/2017	21/03/2018	-	$0	6288m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519828	33 Bellbird Loop	04/09/2017	18/10/2017	-	$0	599m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	559935	            27/119 Stockman Avenue	30/06/2017	20/05/2019	-	$0	5610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542926	            7/11 Narrambla Terrace	03/07/2018	26/09/2018	-	$5,635,800	2442m	Full transfer	-	-	-	-	-	$5,635,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	561124	36/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546821	23/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	561858	31/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546695	29/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546777	30/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	561383	37/11 Wanderlight Avenue	05/12/2018	03/01/2019	-	$4,117,000	5694m	Full transfer	-	-	-	-	-	$4,117,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534659	18 Rouseabout Street	06/04/2018	06/06/2018	28/06/2017	$1,200,000	540m	Full transfer	4	1	2	2	-	$1,200,000	282	-	Combined Record	225	-	-	Single residential dwelling	$491,000	0.41
+2018	544377	1 Outback Street	03/09/2018	15/10/2018	20/03/2018	$1,190,000	611m	Full transfer	5	4	-	2	-	$1,190,000	167	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.41
+2018	559824	            20/119 Stockman Avenue	08/07/2018	20/05/2019	-	$859,000	5610m	Full transfer	-	-	-	-	-	$859,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538233	19 Rouseabout Street	22/05/2018	16/07/2018	18/07/2017	$820,000	1062m	Full transfer	-	-	-	-	-	$820,000	308	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.8
+2018	530282	10 Selection Street	25/01/2018	09/04/2018	-	$785,000	330m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	527221	7 Dawn Crescent	21/03/2018	-	28/04/2016	$700,000	888m	Full transfer	-	-	-	-	-	$700,000	692	-	Allhomes Record	-	-	-	-	$594,000	0.85
+2018	529608	5 Drover Rise	09/02/2018	04/04/2018	-	$700,000	400m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528932	            32/2 Bulletin Street	21/01/2018	28/03/2018	-	$690,000	6326m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534959	            3/2 Bulletin Street	03/04/2018	12/06/2018	-	$685,000	6326m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537307	            7/2 Bulletin Street	26/02/2018	03/07/2018	-	$685,000	6326m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533400	            5/2 Bulletin Street	03/04/2018	21/05/2018	-	$685,000	6326m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535095	            2/2 Bulletin Street	02/03/2018	14/06/2018	-	$685,000	6326m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527425	            1/2 Bulletin Street	26/03/2018	-	01/02/2018	$672,500	0m	Full transfer	3	2	-	0	2	$672,500	53	-	Allhomes Record	-	-	-	-	-	-
+2018	532701	            1/2 Bulletin Street	27/03/2018	15/05/2018	-	$672,500	6326m	Full transfer	-	-	-	-	-	$672,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535331	             Narrambla Terrace	04/07/2018	-	20/04/2017	$669,000	-	Full transfer	3	2	1	2	1	$669,000	440	-	Allhomes Record	-	-	-	-	-	-
+2018	562178	            26/119 Stockman Avenue	23/03/2018	04/06/2019	-	$669,000	5610m	Full transfer	-	-	-	-	-	$669,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559193	            34/119 Stockman Avenue	16/02/2018	16/05/2019	-	$669,000	5610m	Full transfer	-	-	-	-	-	$669,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511343	            8 Jumbuck Crescent	30/01/2018	-	21/05/2016	$669,000	-	Full transfer	3	2	-	2	0	$669,000	619	-	Allhomes Record	-	-	-	-	-	-
+2018	559806	            35/119 Stockman Avenue	02/02/2018	23/05/2019	-	$667,000	5610m	Full transfer	-	-	-	-	-	$667,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559940	            25/119 Stockman Avenue	29/01/2018	21/05/2019	-	$666,000	5610m	Full transfer	-	-	-	-	-	$666,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547705	21/17 Nevertire Street	31/07/2018	30/11/2018	-	$639,900	6856m	Full transfer	-	-	-	-	-	$639,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544609	            6/1 Rouseabout Street	29/10/2018	-	21/03/2018	$635,000	-	Full transfer	3	2	-	2	-	$635,000	222	-	Allhomes Record	120	-	-	-	-	-
+2018	546738	6/73 Stockman Avenue	29/10/2018	03/01/2019	-	$635,000	4688m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511447	            74/15 Jumbuck Crescent	31/01/2018	-	15/05/2017	$634,000	11356m	Full transfer	3	1	2	2	-	$634,000	261	-	Allhomes Record	-	-	-	-	-	-
+2018	547323	33/17 Nevertire Street	31/07/2018	23/11/2018	-	$629,900	6856m	Full transfer	-	-	-	-	-	$629,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528581	            20/17 Stockman Avenue	12/01/2018	21/03/2018	-	$625,000	6692m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511041	            86 Wanderlight Avenue	12/01/2018	-	20/11/2017	$625,000	6692m	Full transfer	4	1	1	2	-	$625,000	53	-	Allhomes Record	133	-	-	-	-	-
+2018	511392	            8 Jumbuck Crescent	31/01/2018	-	21/05/2016	$625,000	-	Full transfer	3	2	-	2	0	$625,000	620	-	Allhomes Record	-	-	-	-	-	-
+2018	535312	            5C Bellbird Loop	03/07/2018	-	29/03/2018	$620,000	0m	Full transfer	4	2	-	2	0	$620,000	96	-	Allhomes Record	-	-	-	-	-	-
+2018	525167	            33/2 Bulletin Street	20/02/2018	-	05/10/2017	$619,000	6326m	Full transfer	3	2	-	2	-	$619,000	138	-	Allhomes Record	137	-	-	-	-	-
+2018	561773	14/17 Nevertire Street	12/12/2018	20/02/2019	-	$599,000	6856m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	555202	29/2 Bulletin Street	05/09/2018	14/03/2019	-	$599,000	6326m	Full transfer	-	-	-	-	-	$599,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	561326	12/17 Nevertire Street	29/11/2018	20/02/2019	-	$598,000	6856m	Full transfer	-	-	-	-	-	$598,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511564	            17 Billabong Street	01/02/2018	-	27/06/2017	$590,000	7028m	Full transfer	3	2	-	2	-	$590,000	219	-	Allhomes Record	111	-	-	-	-	-
+2018	551100	            27/1 Pipeclay Street	13/12/2018	10/01/2019	-	$579,000	5610m	Full transfer	-	-	-	-	-	$579,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541271	            29/1 Pipeclay Street	11/07/2018	04/09/2018	-	$575,000	5610m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530658	            1 Nevertire Street	30/04/2018	-	21/03/2018	$570,000	9229m	Full transfer	3	2	-	2	-	$570,000	40	-	Allhomes Record	-	-	-	-	-	-
+2018	536132	            14/5 Nevertire Street	02/05/2018	24/06/2018	-	$570,000	9229m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549168	1/11 Wanderlight Avenue	30/05/2018	24/12/2018	-	$565,000	5694m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532931	            1/11 Pipeclay Street	30/05/2018	-	16/02/2017	$565,000	6678m	Full transfer	4	2	-	2	-	$565,000	468	-	Allhomes Record	160	-	-	-	-	-
+2018	529632	            6/11 Stockman Avenue	01/02/2018	03/04/2018	-	$550,000	7028m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549754	30/17 Nevertire Street	03/08/2018	17/12/2018	-	$549,000	6856m	Full transfer	-	-	-	-	-	$549,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559258	            32/119 Stockman Avenue	30/01/2018	17/05/2019	-	$547,000	5610m	Full transfer	-	-	-	-	-	$547,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546796	            4/11 Narrambla Terrace	02/10/2018	03/01/2019	-	$540,000	2442m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	542028	            3B Bellbird Loop	02/10/2018	-	29/03/2018	$540,000	0m	Full transfer	3	2	-	2	0	$540,000	187	-	Allhomes Record	-	-	-	-	-	-
+2018	511456	            3 Jumbuck Crescent	31/01/2018	-	11/11/2015	$539,000	-	Full transfer	3	1	2	2	-	$539,000	812	-	Allhomes Record	-	-	-	-	-	-
+2018	529339	            17/88 Narrambla Terrace	13/04/2018	-	07/02/2018	$539,000	0m	Full transfer	3	2	-	1	1	$539,000	65	-	Allhomes Record	-	-	-	-	-	-
+2018	534184	            17/48 Narrambla Terrace	13/04/2018	10/06/2018	-	$539,000	8526m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547113	            19/48 Narrambla Terrace	25/08/2018	19/11/2018	-	$530,000	8526m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549760	11 Concertina Street	11/09/2018	17/12/2018	02/08/2018	$530,000	540m	Full transfer	0	0	-	0	0	$530,000	40	-	Combined Record	-	-	-	Single residential dwelling	$491,000	0.93
+2018	539798	            19/161 Stockman Avenue	25/08/2018	-	01/08/2018	$530,000	138m	Full transfer	3	2	-	1	1	$530,000	24	-	Allhomes Record	-	-	-	-	-	-
+2018	559186	            7/119 Stockman Avenue	27/07/2018	15/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559521	            13/119 Stockman Avenue	01/08/2018	16/05/2019	-	$525,000	5610m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536555	            8/79 Stockman Avenue	27/04/2018	25/06/2018	-	$520,000	12647m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530602	            8/2 Rouseabout Street	27/04/2018	-	04/01/2018	$520,000	0m	Full transfer	3	2	-	2	0	$520,000	113	-	Allhomes Record	-	-	-	-	-	-
+2018	534450	            1/15 Wanderlight Avenue	28/03/2018	04/06/2018	-	$520,000	6288m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547083	19/17 Nevertire Street	29/06/2018	21/11/2018	-	$519,900	6856m	Full transfer	-	-	-	-	-	$519,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511449	             Wanderlight Avenue	31/01/2018	-	22/09/2016	$519,000	-	Full transfer	2	1	1	2	-	$519,000	496	-	Allhomes Record	-	-	-	-	-	-
+2018	559977	            11/119 Stockman Avenue	13/04/2018	21/05/2019	-	$511,300	5610m	Full transfer	-	-	-	-	-	$511,300	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559426	            15/119 Stockman Avenue	17/07/2018	17/05/2019	-	$509,000	5610m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559992	            14/119 Stockman Avenue	07/06/2018	21/05/2019	-	$509,000	5610m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559947	            2/119 Stockman Avenue	09/05/2018	20/05/2019	-	$509,000	5610m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	559866	            12/119 Stockman Avenue	10/08/2018	21/05/2019	-	$509,000	5610m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536097	            12/79 Stockman Avenue	23/04/2018	20/06/2018	-	$497,890	12647m	Full transfer	-	-	-	-	-	$497,890	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551930	60/79 Stockman Avenue	30/10/2018	29/01/2019	-	$494,000	12647m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540172	            135 Stockman Avenue	11/09/2018	-	29/03/2018	$488,000	0m	Full transfer	2	2	-	1	1	$488,000	166	-	Allhomes Record	-	-	-	-	-	-
+2018	547960	            17/1 Pipeclay Street	11/09/2018	25/10/2018	-	$488,000	5610m	Full transfer	-	-	-	-	-	$488,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535543	            38/2 Pipeclay Street	30/04/2018	24/06/2018	-	$480,000	6678m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531167	            38/2 Pipeclay Street	02/05/2018	-	08/02/2018	$480,000	0m	Full transfer	3	2	-	1	0	$480,000	83	-	Allhomes Record	-	-	-	-	-	-
+2018	556220	            17/1 Overflow Street	22/11/2018	27/03/2019	-	$475,000	6327m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539764	            34/88 Narrambla Terrace	24/08/2018	-	17/07/2018	$475,000	0m	Full transfer	2	2	-	0	1	$475,000	38	-	Allhomes Record	-	-	-	-	-	-
+2018	545287	            13 Overflow Street	22/11/2018	-	26/05/2018	$475,000	0m	Full transfer	2	2	-	1	0	$475,000	180	-	Allhomes Record	-	-	-	-	-	-
+2018	544522	            34/48 Narrambla Terrace	24/08/2018	17/10/2018	-	$475,000	8526m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511342	            33/2 Bulletin Street	15/01/2018	-	05/10/2017	$465,000	6326m	Full transfer	2	1	1	1	-	$465,000	102	-	Allhomes Record	91	-	-	-	-	-
+2018	540129	            47/15 Jumbuck Crescent	27/08/2018	-	17/06/2018	$460,000	113m	Full transfer	2	3	-	2	-	$460,000	71	-	Allhomes Record	-	-	-	-	$6,400,000	13.91
+2018	543493	            47/76 Stockman Avenue	30/07/2018	03/10/2018	-	$457,000	11356m	Full transfer	-	-	-	-	-	$457,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	527107	             Narrambla Terrace	07/02/2018	-	26/10/2015	$445,000	-	Full transfer	2	1	-	1	-	$445,000	835	-	Allhomes Record	-	-	-	-	-	-
+2018	530467	            35/55 Jumbuck Crescent	16/01/2018	10/04/2018	-	$440,000	7581m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	529096	            2/55 Jumbuck Crescent	16/09/2018	28/03/2018	-	$435,000	7581m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536562	            25/11 Stockman Avenue	24/04/2018	26/06/2018	-	$428,016	7028m	Full transfer	-	-	-	-	-	$428,016	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530561	            25/15 Stockman Avenue	24/04/2018	-	19/03/2018	$428,016	-	Full transfer	2	2	-	2	-	$428,016	36	-	Allhomes Record	84	-	-	-	$4,560,000	10.65
+2018	548850	25/2 Bulletin Street	11/12/2018	14/01/2019	-	$420,000	6326m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544962	            62/15 Jumbuck Crescent	12/11/2018	-	16/09/2018	$418,000	113m	Full transfer	2	1	-	1	-	$418,000	57	-	Allhomes Record	-	-	-	-	-	-
+2018	549227	            62/76 Stockman Avenue	12/10/2018	03/12/2018	-	$418,000	11356m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541024	            36/48 Narrambla Terrace	14/07/2018	29/08/2018	-	$410,000	8526m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541093	            36/88 Narrambla Terrace	09/09/2018	-	02/06/2017	$410,000	8526m	Full transfer	2	-	1	1	-	$410,000	464	-	Allhomes Record	-	-	-	-	-	-
+2018	531544	            55/79 Stockman Avenue	12/02/2018	23/04/2018	-	$410,000	12647m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536788	            36/88 Narrambla Terrace	10/07/2018	-	03/05/2018	$410,000	0m	Full transfer	2	1	-	1	0	$410,000	68	-	Allhomes Record	-	-	-	-	-	-
+2018	561786	15/15 Wanderlight Avenue	12/11/2018	18/02/2019	-	$395,000	6288m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528679	            31/15 Wanderlight Avenue	06/02/2018	22/03/2018	-	$382,000	6288m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530078	            30/15 Wanderlight Avenue	06/02/2018	11/04/2018	-	$382,000	6288m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	535532	            23/15 Wanderlight Avenue	08/05/2018	24/06/2018	-	$382,000	6288m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	529053	            64/5 Nevertire Street	25/01/2018	28/03/2018	-	$380,000	9229m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	511337	            1 Nevertire Street	30/01/2018	-	05/10/2017	$380,000	9229m	Full transfer	2	1	-	2	-	$380,000	117	-	Allhomes Record	-	-	-	-	-	-
+2018	526525	            33/2 Bulletin Street	13/03/2018	-	05/10/2017	$339,000	6326m	Full transfer	1	1	-	-	1	$339,000	159	-	Allhomes Record	62	-	-	-	-	-
+2018	549212	41/17 Nevertire Street	28/06/2018	03/12/2018	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528664	            34/15 Wanderlight Avenue	06/02/2018	22/03/2018	-	$296,000	6288m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530441	            41/15 Wanderlight Avenue	06/02/2018	11/04/2018	-	$296,000	6288m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528669	            16/15 Wanderlight Avenue	06/02/2018	22/03/2018	-	$296,000	6288m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530310	            35/15 Wanderlight Avenue	06/02/2018	11/04/2018	-	$296,000	6288m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	528899	            10/55 Jumbuck Crescent	02/02/2018	27/03/2018	-	$260,000	7581m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543479	            35/48 Narrambla Terrace	17/08/2018	05/10/2018	-	$0	8526m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546737	1/55 Jumbuck Crescent	30/10/2018	04/01/2019	-	$0	7581m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546875	4/11 Wanderlight Avenue	11/08/2018	27/11/2018	-	$0	5694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	560007	            9/119 Stockman Avenue	20/07/2018	21/05/2019	-	$0	5610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551109	29 Rouseabout Street	21/11/2018	11/01/2019	10/10/2018	$0	1078m	Full transfer	-	-	-	-	-	$0	42	-	Combined Record	-	-	-	Single residential dwelling	$653,000	10.65
+2018	540541	21 Selection Street	04/05/2018	26/08/2018	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574173	16 Rouseabout Street	09/12/2019	-	21/03/2019	$1,195,000	540m	Full transfer	5	3	0	3	2	$1,195,000	263	-	Allhomes Record	-	-	-	-	$512,000	0.43
+2019	570614	12 Rouseabout Street	10/10/2019	-	28/08/2019	$1,030,000	540m	Full transfer	4	2	-	-	1	$1,030,000	43	-	Allhomes Record	196	-	-	-	$512,000	0.5
+2019	572749	26 Jumbuck Crescent	06/09/2019	24/10/2019	21/05/2019	$969,000	375m	Full transfer	4	2	-	2	0	$969,000	108	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.4
+2019	566722	21 Rouseabout Street	25/06/2019	05/08/2019	-	$815,000	1144m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566430		15/08/2019	-	07/07/2015	$815,000	1143m	Full transfer	-	-	-	-	-	$815,000	1500	-	Allhomes Record	-	-	-	-	-	-
+2019	577607	28 Jumbuck Crescent	17/12/2019	-	31/10/2019	$741,555	350m	Full transfer	4	2	-	2	0	$741,555	47	-	Allhomes Record	-	-	-	-	$399,000	0.54
+2019	558589	30 Jumbuck Crescent	23/02/2019	03/05/2019	31/01/2019	$720,000	250m	Full transfer	4	2	-	2	-	$720,000	23	-	Combined Record	175	-	-	Single residential dwelling	$314,000	0.44
+2019	570032	13 Selection Street	31/07/2019	18/09/2019	22/03/2019	$707,500	330m	Full transfer	5	3	-	1	0	$707,500	131	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.5
+2019	572110	36/2 Bulletin Street	14/11/2019	-	30/01/2019	$650,000	0m	Full transfer	3	3	-	2	0	$650,000	288	-	Allhomes Record	-	-	-	-	-	-
+2019	567151	            8/1 Overflow Street	18/06/2019	14/08/2019	-	$640,000	6327m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	561994	33 Jumbuck Crescent	18/06/2019	-	26/04/2019	$640,000	-	Full transfer	3	2	-	2	-	$640,000	53	-	Allhomes Record	136	-	-	-	-	-
+2019	572195	            21/17 Stockman Avenue	29/08/2019	17/10/2019	-	$620,000	6692m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566984	88 Wanderlight Avenue	23/08/2019	-	02/05/2019	$620,000	0m	Full transfer	3	2	-	2	0	$620,000	113	-	Allhomes Record	-	-	-	-	-	-
+2019	576431	13/17 Nevertire Street	14/11/2019	13/12/2019	-	$590,000	6856m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576011	2/73 Stockman Avenue	15/10/2019	05/12/2019	-	$585,000	4688m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570613	            2/1 Rouseabout Street	15/10/2019	-	30/05/2019	$585,000	0m	Full transfer	3	2	-	2	0	$585,000	138	-	Allhomes Record	-	-	-	-	-	-
+2019	555740	            33/1 Pipeclay Street	25/02/2019	21/03/2019	-	$579,000	5610m	Full transfer	-	-	-	-	-	$579,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564298	38/2 Rouseabout Street	22/07/2019	-	08/08/2018	$575,000	0m	Full transfer	3	3	-	2	0	$575,000	348	-	Allhomes Record	-	-	-	-	-	-
+2019	563311	            3/11 Stockman Avenue	10/05/2019	24/06/2019	-	$575,000	7028m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574857	38/79 Stockman Avenue	22/07/2019	12/11/2019	-	$575,000	12647m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558034	3/17 Billabong Street	10/05/2019	-	04/04/2019	$575,000	-	Full transfer	3	2	-	2	-	$575,000	36	-	Allhomes Record	121	-	-	-	-	-
+2019	568938	            28/1 Pipeclay Street	20/08/2019	02/09/2019	-	$566,900	5610m	Full transfer	-	-	-	-	-	$566,900	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	553637	46 Narrambla Terrace	21/02/2019	-	10/10/2018	$565,000	0m	Full transfer	3	2	-	1	0	$565,000	134	-	Allhomes Record	-	-	-	-	-	-
+2019	571668	4/15 Jumbuck Crescent	07/11/2019	-	10/10/2019	$565,000	0m	Full transfer	3	3	-	2	0	$565,000	28	-	Allhomes Record	-	-	-	-	-	-
+2019	573200	49/79 Stockman Avenue	24/09/2019	29/10/2019	-	$560,000	12647m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569460	49/2 Rouseabout Street	24/09/2019	-	31/07/2019	$560,000	0m	Full transfer	3	3	-	2	1	$560,000	55	-	Allhomes Record	-	-	-	-	-	-
+2019	557213	2 Rouseabout Street	01/05/2019	-	20/05/2015	$560,000	12647m	Full transfer	3	1	1	1	-	$560,000	1442	-	Allhomes Record	-	-	-	-	-	-
+2019	566143	            15/76 Stockman Avenue	14/06/2019	02/08/2019	-	$557,000	11356m	Full transfer	-	-	-	-	-	$557,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	561922	15/15 Jumbuck Crescent	13/06/2019	-	02/04/2019	$557,000	0m	Full transfer	3	3	-	2	0	$557,000	72	-	Allhomes Record	-	-	-	-	-	-
+2019	569805	32/11 Wanderlight Avenue	04/10/2019	-	04/07/2019	$551,000	0m	Full transfer	3	2	-	1	1	$551,000	92	-	Allhomes Record	-	-	-	-	-	-
+2019	573081	8/17 Nevertire Street	03/09/2019	01/11/2019	-	$550,000	6856m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	561594	12/11 Wanderlight Avenue	29/01/2019	18/02/2019	22/11/2017	$550,000	5694m	Full transfer	3	1	2	1	-	$550,000	433	-	Combined Record	104	-	-	Multiple unit dwelling	-	-
+2019	553027	35/17 Nevertire Street	08/01/2019	07/02/2019	-	$540,000	6856m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	553020	36/17 Nevertire Street	08/01/2019	07/02/2019	-	$540,000	6856m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	555943	32/17 Nevertire Street	18/02/2019	04/04/2019	-	$539,990	6856m	Full transfer	-	-	-	-	-	$539,990	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562865	83 Jumbuck Crescent	02/07/2019	-	14/03/2019	$538,000	0m	Full transfer	3	2	-	2	0	$538,000	110	-	Allhomes Record	-	-	-	-	-	-
+2019	567508	            35/55 Jumbuck Crescent	02/07/2019	22/08/2019	-	$538,000	7581m	Full transfer	-	-	-	-	-	$538,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576270	11/5 Nevertire Street	19/12/2019	-	20/11/2019	$535,000	0m	Full transfer	3	2	-	2	0	$535,000	29	-	Allhomes Record	-	-	-	-	-	-
+2019	565460	34/2 Pipeclay Street	01/07/2019	26/07/2019	28/02/2019	$530,000	6678m	Full transfer	3	2	-	2	0	$530,000	123	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	577148	10/23 Wanderlight Avenue	06/11/2019	16/12/2019	25/04/2019	$530,000	8955m	Full transfer	3	3	-	2	0	$530,000	195	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	564105	15/2 Pipeclay Street	03/06/2019	03/07/2019	19/10/2016	$522,000	6678m	Full transfer	3	2	-	1	-	$522,000	957	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	575821	12/2 Pipeclay Street	05/08/2019	07/12/2019	-	$520,000	6678m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565270	            119 Stockman Avenue	02/08/2019	-	19/06/2019	$520,000	5610m	Full transfer	2	1	1	1	-	$520,000	44	-	Allhomes Record	102	-	-	-	-	-
+2019	569338	            1/119 Stockman Avenue	02/08/2019	10/09/2019	-	$520,000	5610m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	552818	1/17 Nevertire Street	08/01/2019	07/02/2019	-	$510,000	6856m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574697	18/5 Nevertire Street	08/10/2019	21/11/2019	20/02/2019	$510,000	9229m	Full transfer	3	2	-	2	0	$510,000	230	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	559437	            4/119 Stockman Avenue	26/04/2019	17/05/2019	-	$509,000	5610m	Full transfer	-	-	-	-	-	$509,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574568	11/2 Pipeclay Street	10/10/2019	21/11/2019	18/07/2019	$501,000	6678m	Full transfer	3	2	-	1	0	$501,000	84	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	569629	            93 Stockman Avenue	17/09/2019	-	08/08/2019	$500,000	0m	Full transfer	2	2	-	1	0	$500,000	40	-	Allhomes Record	-	-	-	-	-	-
+2019	573752	            14/119 Stockman Avenue	17/09/2019	05/11/2019	-	$500,000	5610m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568425	            101 Stockman Avenue	12/09/2019	-	22/07/2019	$500,000	5610m	Full transfer	2	1	1	1	-	$500,000	52	-	Allhomes Record	102	-	-	-	-	-
+2019	573014	            10/119 Stockman Avenue	12/09/2019	29/10/2019	-	$500,000	5610m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568233	15/23 Wanderlight Avenue	23/07/2019	30/08/2019	06/06/2019	$495,000	8955m	Full transfer	3	2	-	2	0	$495,000	47	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	574101	133 Stockman Avenue	06/12/2019	-	06/03/2019	$490,000	0m	Full transfer	2	2	-	1	1	$490,000	275	-	Allhomes Record	-	-	-	-	-	-
+2019	573968	147 Stockman Avenue	29/11/2019	-	01/11/2019	$482,500	0m	Full transfer	2	2	-	1	0	$482,500	28	-	Allhomes Record	-	-	-	-	-	-
+2019	562196	            20/1 Overflow Street	18/04/2019	06/06/2019	-	$479,000	6327m	Full transfer	-	-	-	-	-	$479,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	557202	7 Overflow Street	23/04/2019	-	14/02/2019	$479,000	0m	Full transfer	2	2	-	1	0	$479,000	68	-	Allhomes Record	-	-	-	-	-	-
+2019	569719	41 Narrambla Terrace	03/10/2019	-	08/07/2019	$470,000	405m	Full transfer	-	-	-	-	-	$470,000	87	-	Allhomes Record	-	-	-	-	$445,000	0.95
+2019	564968	23/11 Wanderlight Avenue	17/06/2019	08/07/2019	-	$463,500	5694m	Full transfer	-	-	-	-	-	$463,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564237	35/11 Wanderlight Avenue	20/05/2019	02/07/2019	-	$454,000	5694m	Full transfer	-	-	-	-	-	$454,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563911	34/11 Wanderlight Avenue	06/05/2019	02/07/2019	-	$452,000	5694m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558906	31/11 Wanderlight Avenue	24/04/2019	17/05/2019	-	$450,000	5694m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	577029	31/88 Narrambla Terrace	14/12/2019	-	04/09/2019	$445,000	0m	Full transfer	2	2	-	1	0	$445,000	101	-	Allhomes Record	-	-	-	-	-	-
+2019	570501	            15/11 Narrambla Terrace	19/08/2019	27/09/2019	-	$439,000	2442m	Full transfer	-	-	-	-	-	$439,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	566464	13 Narrambla Terrace	19/08/2019	-	18/06/2019	$439,000	247m	Full transfer	2	2	-	0	1	$439,000	62	-	Allhomes Record	-	-	-	-	-	-
+2019	555576	32/2 Pipeclay Street	12/02/2019	22/03/2019	29/11/2018	$435,000	6678m	Full transfer	2	3	-	1	0	$435,000	75	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	564007	30/2 Pipeclay Street	22/05/2019	02/07/2019	02/05/2019	$427,000	6678m	Full transfer	2	1	1	1	0	$427,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	567549	70 Wanderlight Avenue	05/06/2019	22/08/2019	21/03/2019	$425,000	399m	Full transfer	-	-	-	-	-	$425,000	76	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.95
+2019	557922	29/11 Wanderlight Avenue	26/03/2019	18/04/2019	-	$420,000	5694m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559534	36/11 Wanderlight Avenue	05/04/2019	13/05/2019	-	$420,000	5694m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572716	13/23 Wanderlight Avenue	12/08/2019	21/10/2019	15/01/2019	$420,000	8955m	Full transfer	2	1	-	2	0	$420,000	209	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563800	65/2 Rouseabout Street	18/07/2019	-	26/04/2019	$413,000	0m	Full transfer	2	2	-	0	0	$413,000	83	-	Allhomes Record	-	-	-	-	-	-
+2019	567822	65/79 Stockman Avenue	12/07/2019	23/08/2019	-	$413,000	12647m	Full transfer	-	-	-	-	-	$413,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563914	30/11 Wanderlight Avenue	24/05/2019	01/07/2019	26/02/2019	$412,500	5694m	Full transfer	2	1	-	1	-	$412,500	87	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	561955	66/79 Stockman Avenue	18/04/2019	06/06/2019	-	$412,000	12647m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	557991	66/2 Rouseabout Street	01/05/2019	-	30/01/2019	$412,000	0m	Full transfer	2	2	-	-	-	$412,000	91	-	Allhomes Record	-	-	-	-	-	-
+2019	555795	37/11 Wanderlight Avenue	25/02/2019	21/03/2019	06/02/2019	$410,000	5694m	Full transfer	2	1	-	1	-	$410,000	19	-	Combined Record	69	-	-	Multiple unit dwelling	$3,480,000	8.49
+2019	557214	1 Rouseabout Street	01/05/2019	-	20/05/2015	$390,000	4688m	Full transfer	2	1	1	-	-	$390,000	1442	-	Allhomes Record	-	-	-	-	-	-
+2019	557335	12/55 Jumbuck Crescent	22/03/2019	08/04/2019	30/01/2019	$319,000	7581m	Full transfer	1	1	-	1	0	$319,000	51	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	568967	21/76 Stockman Avenue	30/07/2019	05/09/2019	-	$310,000	11356m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568971	37/17 Nevertire Street	11/07/2019	04/09/2019	-	$296,000	6856m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	552943	46/17 Nevertire Street	08/01/2019	07/02/2019	-	$295,000	6856m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558860	            32/1 Pipeclay Street	21/02/2019	10/05/2019	-	$0	5610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	557590	            3/11 Stockman Avenue	05/01/2019	23/04/2019	-	$0	7028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
