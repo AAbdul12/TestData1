@@ -1,0 +1,1056 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	32290	35 Goble Street	04/08/2006	08/11/2006	25/05/2006	$955,000	726m	Full transfer	4	1	1	2	-	$955,000	71	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.41
+2006	202513	12 Colvin Street	24/02/2006	03/08/2006	07/12/2005	$905,000	1261m	Full transfer	5	2	1	1	2	$905,000	79	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.45
+2006	35713	10 Goble Street	13/11/2006	11/01/2007	-	$700,000	766m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	217992	3 Tudor Place	08/04/2006	16/05/2006	10/03/2006	$680,000	702m	Full transfer	5	2	1	1	-	$680,000	29	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.53
+2006	33123	79 Birdwood Street	04/09/2006	06/12/2006	17/08/2006	$679,000	1098m	Full transfer	4	1	1	1	-	$679,000	18	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.52
+2006	165120	6 Downes Place	18/11/2006	15/02/2007	17/10/2006	$665,000	1030m	Full transfer	4	2	-	3	-	$665,000	32	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.69
+2006	35868	36 Poynton Street	04/11/2006	10/01/2007	05/10/2006	$660,000	875m	Full transfer	4	1	1	-	-	$660,000	30	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.49
+2006	167018	14 Glasgow Street	19/06/2006	27/07/2006	12/05/2006	$650,000	746m	Full transfer	3	2	1	2	-	$650,000	38	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.67
+2006	169062	2 Hyde Place	17/11/2006	08/02/2007	03/11/2006	$640,000	761m	Full transfer	4	1	1	2	-	$640,000	14	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.5
+2006	203283	6 Leane Street	03/12/2006	17/01/2007	-	$640,000	830m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169345	30 Birdwood Street	29/11/2006	20/02/2007	27/10/2006	$615,000	1302m	Full transfer	3	1	-	1	-	$615,000	33	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.65
+2006	34370	4 Birdwood Street	03/11/2006	01/12/2006	31/08/2006	$597,500	911m	Full transfer	4	1	1	1	-	$597,500	64	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.46
+2006	218124	1/15 Kitchener Street	26/03/2006	04/05/2006	23/02/2006	$595,000	854m	Full transfer	3	2	-	-	2	$595,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	$371,000	0.62
+2006	311935	34 Brand Street	24/02/2006	02/05/2006	-	$580,000	979m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	77005	33 Birdwood Street	17/03/2006	-	08/03/2006	$570,000	797m	Full transfer	4	1	-	2	-	$570,000	9	-	Allhomes Record	-	-	-	-	$390,000	0.68
+2006	9642	            2/19 Bisdee Street	11/08/2006	24/11/2006	-	$570,000	876m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	32301	3 Mahon Place	03/10/2006	10/11/2006	14/09/2006	$560,000	694m	Full transfer	3	1	-	1	1	$560,000	19	-	Combined Record	-	-	-	Single residential dwelling	$371,000	0.66
+2006	218018	2 Jensen Street	18/05/2006	22/06/2006	28/03/2006	$555,000	1117m	Full transfer	3	2	1	1	1	$555,000	51	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.52
+2006	217974	10 Lynch Street	30/03/2006	15/05/2006	17/03/2006	$545,000	701m	Full transfer	3	2	-	1	1	$545,000	13	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.55
+2006	70711	32 Leane Street	17/02/2006	-	16/11/2005	$542,000	475m	Full transfer	3	1	1	2	-	$542,000	93	-	Allhomes Record	-	-	-	-	$421,000	0.78
+2006	15446	            1/82 Birdwood Street	24/02/2006	14/03/2006	-	$542,000	1027m	Full transfer	-	-	-	-	-	$542,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	164899	13 Wynter Place	25/08/2006	13/10/2006	08/06/2006	$541,000	809m	Full transfer	4	1	1	1	-	$541,000	78	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.62
+2006	15447	            52 McNicoll Street	03/05/2006	06/07/2006	23/02/2006	$540,100	970m	Full transfer	3	3	-	-	1	$540,100	69	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.5
+2006	119702	13 McNicoll Street	25/08/2006	30/10/2006	-	$525,000	984m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319413	30 Conyers Street	17/05/2006	27/06/2006	-	$498,000	1013m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	311898	35 Poynton Street	13/04/2006	20/06/2006	-	$490,000	814m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	311938	21 Wynter Place	15/06/2006	20/07/2006	-	$480,000	910m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	217998	19 Wisdom Street	09/02/2006	02/03/2006	-	$476,500	728m	Full transfer	-	-	-	-	-	$476,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218120	159 Kent Street	13/04/2006	25/05/2006	06/02/2006	$453,000	872m	Full transfer	3	2	1	-	2	$453,000	66	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.65
+2006	217935	3 Birdwood Street	22/02/2006	23/05/2006	-	$445,000	781m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	217994	33 McNicoll Place	12/01/2006	21/02/2006	21/07/2005	$442,000	749m	Full transfer	3	1	-	1	1	$442,000	175	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2006	34057	42 Poynton Street	06/11/2006	21/12/2006	-	$436,000	695m	Full transfer	-	-	-	-	-	$436,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168298	4 Higgs Place	07/07/2006	08/08/2006	16/06/2006	$432,000	709m	Full transfer	3	1	-	-	-	$432,000	21	-	Combined Record	-	-	-	Single residential dwelling	$349,000	0.81
+2006	169429	57 Carroll Street	19/12/2006	20/02/2007	-	$429,000	318m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35627	75 Carroll Street	06/11/2006	11/01/2007	20/10/2006	$425,000	612m	Full transfer	2	1	-	-	1	$425,000	17	-	Combined Record	-	-	-	Single residential dwelling	$210,000	0.49
+2006	168501	47 Carroll Street	06/12/2006	05/03/2007	-	$416,000	318m	Full transfer	-	-	-	-	-	$416,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	311887	37 Goble Street	31/03/2006	01/06/2006	-	$415,000	753m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218045	13 Webster Street	24/03/2006	03/05/2006	-	$410,000	727m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218033	24 Wisdom Street	13/02/2006	27/03/2006	-	$375,000	803m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218111	45 Carroll Street	13/03/2006	10/04/2006	16/11/2005	$347,500	319m	Full transfer	3	1	-	-	1	$347,500	117	-	Combined Record	-	-	-	Single residential dwelling	$155,000	0.45
+2006	34811	181 Kent Street	13/07/2006	21/08/2006	-	$340,000	640m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	36734	15 Wisdom Street	30/08/2006	06/09/2006	-	$290,000	999m	Partial transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	15457	            6/1 Carroll Street	21/02/2006	13/03/2006	-	$225,000	2399m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	77759	6/9 Wark Street	21/04/2006	-	16/03/2006	$206,000	-	Full transfer	2	1	-	1	-	$206,000	36	-	Allhomes Record	-	-	-	-	-	-
+2006	15456	            6/7 Wark Street	21/04/2006	30/05/2006	-	$206,000	2356m	Full transfer	-	-	-	-	-	$206,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34133	64/27 Coxen Street	24/10/2006	29/11/2006	20/09/2006	$185,000	15678m	Full transfer	1	1	-	-	1	$185,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	$4,849,000	26.21
+2006	34005	77/27 Coxen Street	04/12/2006	18/12/2006	-	$180,000	15678m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34245	60/27 Coxen Street	20/10/2006	28/11/2006	-	$176,000	15678m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34810	28/27 Coxen Street	21/07/2006	21/08/2006	-	$175,000	15678m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218101	81/27 Coxen Street	05/05/2006	31/05/2006	-	$172,500	15678m	Full transfer	-	-	-	-	-	$172,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203673	80/27 Coxen Street	01/08/2006	01/09/2006	-	$167,000	15678m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218063	19 Whittle Street	10/01/2006	23/05/2006	-	$150,000	447m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Church use	-	-
+2006	218094	49/27 Coxen Street	24/03/2006	27/04/2006	30/01/2003	$145,000	15678m	Full transfer	1	-	-	-	-	$145,000	1149	-	Combined Record	-	-	-	Multiple unit dwelling	$2,013,000	13.88
+2006	218090	38/27 Coxen Street	14/03/2006	11/05/2006	-	$138,500	15678m	Full transfer	-	-	-	-	-	$138,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218085	10/27 Coxen Street	09/01/2006	17/03/2006	-	$138,000	15678m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169253	16/27 Coxen Street	10/11/2006	22/02/2007	-	$72,500	15678m	Full transfer	-	-	-	-	-	$72,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168437	3 Wynter Place	22/12/2006	24/01/2007	-	$0	725m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	9718	            14/7 Wark Street	29/06/2006	26/07/2007	-	$0	2356m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168111	26 Wynter Place	13/10/2006	18/10/2007	-	$0	886m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	166310	21 Kitchener Street	10/11/2006	26/07/2007	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202705	16 Glasgow Street	28/12/2006	09/10/2007	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35714	16 Glasgow Street	21/11/2006	11/01/2007	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202677	11 Poynton Street	15/06/2006	09/10/2007	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165503	67 Groom Street	19/10/2006	31/01/2007	-	$0	945m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218060	12 Pope Street	25/02/2006	10/04/2006	-	-	1132m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218016	28 Jensen Street	22/06/2006	26/07/2006	-	-	725m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	236242	1 Webster Street	15/10/2006	20/05/2008	-	-	877m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203672	33 Birdwood Street	26/07/2006	28/08/2006	-	-	797m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	246375	11 Kitchener Street	13/12/2006	31/08/2009	-	-	539m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	203671	6 Glasgow Street	29/03/2006	28/08/2006	-	-	747m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34809	45 Millen Street	16/08/2006	23/08/2006	-	-	1015m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	217996	3 Higgs Place	06/04/2006	16/05/2006	-	-	918m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	72762	19A Bisdee Street	11/08/2006	-	19/12/2005	-	876m	Full transfer	3	1	1	2	-	-	235	-	Allhomes Record	-	-	-	-	$286,000	-
+2006	32949	40 Coxen Street	21/07/2006	04/12/2006	-	-	885m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164629	16 Hughes Place	07/06/2007	11/07/2007	-	$1,180,000	722m	Full transfer	-	-	-	-	-	$1,180,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	230688	31 Colvin Street	06/12/2007	20/02/2008	-	$1,150,000	1631m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230196	17 Goble Street	02/11/2007	29/01/2008	23/10/2007	$985,000	912m	Full transfer	6	2	2	2	-	$985,000	10	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.49
+2007	230998	59 McNicoll Street	13/08/2007	21/01/2008	07/08/2007	$920,000	1061m	Full transfer	5	2	1	2	-	$920,000	6	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.43
+2007	138842	45 Birdwood Street	08/12/2007	10/04/2008	15/11/2007	$900,000	873m	Full transfer	4	1	1	1	-	$900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$459,000	0.51
+2007	25295	8 Birdwood Street	15/12/2007	-	05/11/2007	$820,000	897m	Full transfer	4	1	1	2	-	$820,000	40	-	Allhomes Record	-	-	-	-	$350,000	0.43
+2007	231729	8 Bamford Street	21/11/2007	07/01/2008	15/11/2007	$815,000	697m	Full transfer	4	1	1	-	2	$815,000	6	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.4
+2007	166856	9 Smyth Place	31/05/2007	27/07/2007	-	$800,000	697m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	107021	6 Glasgow Street	08/09/2007	-	06/08/2007	$757,000	746m	Full transfer	4	3	-	3	-	$757,000	33	-	Allhomes Record	-	-	-	-	$459,000	0.61
+2007	314802	6 Glasgow Street	06/01/2007	18/11/2007	-	$757,000	747m	Full transfer	-	-	-	-	-	$757,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167617	39 Birdwood Street	24/08/2007	04/10/2007	-	$750,000	810m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120383	23 Brand Street	24/02/2007	16/05/2007	31/01/2007	$750,000	1121m	Full transfer	4	1	2	2	-	$750,000	24	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.51
+2007	166637	10 Smyth Place	25/05/2007	09/08/2007	15/05/2007	$740,000	762m	Full transfer	4	1	-	2	-	$740,000	10	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.54
+2007	166178	26 Poynton Street	16/06/2007	31/07/2007	15/05/2007	$730,000	1418m	Full transfer	4	1	-	-	1	$730,000	32	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.62
+2007	166699	12 Coxen Street	18/05/2007	25/07/2007	03/05/2007	$711,000	827m	Full transfer	4	1	1	-	2	$711,000	15	-	Combined Record	-	-	-	Single residential dwelling...	$274,000	0.39
+2007	223515	26 Wynter Place	17/11/2007	14/01/2008	25/10/2007	$695,000	886m	Full transfer	5	1	1	-	-	$695,000	23	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.58
+2007	231124	56 Groom Street	17/10/2007	11/12/2007	09/08/2007	$695,000	1013m	Full transfer	5	2	1	1	2	$695,000	69	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.45
+2007	234301	2/13 McNicoll Street	09/05/2007	12/06/2008	-	$685,400	984m	Full transfer	-	-	-	-	-	$685,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202901	15 Millen Street	11/03/2007	15/06/2007	16/02/2007	$685,000	784m	Full transfer	4	1	1	2	-	$685,000	23	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.5
+2007	33725	1 Colvin Street	24/02/2007	22/05/2007	02/02/2007	$681,000	1043m	Full transfer	4	1	1	2	-	$681,000	22	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.55
+2007	314513	7 Pope Street	07/11/2007	02/01/2008	-	$679,000	1010m	Full transfer	-	-	-	-	-	$679,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	17877	            1/13 McNicoll Street	25/07/2007	27/05/2008	-	$675,400	984m	Full transfer	-	-	-	-	-	$675,400	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36185	20 Glasgow Street	09/05/2007	05/07/2007	26/04/2007	$670,000	757m	Full transfer	3	2	1	2	-	$670,000	13	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.71
+2007	166336	9 Glasgow Place	02/07/2007	02/08/2007	04/06/2007	$665,000	853m	Full transfer	4	1	1	-	1	$665,000	28	-	Combined Record	-	-	-	Single residential dwelling	$459,000	0.69
+2007	230969	71 Webster Street	22/09/2007	04/12/2007	24/08/2007	$661,000	1089m	Full transfer	4	2	-	-	1	$661,000	29	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.47
+2007	231153	5 Bamford Street	29/10/2007	14/01/2008	26/10/2007	$650,000	783m	Full transfer	3	1	-	4	2	$650,000	3	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.53
+2007	231608	60 Birdwood Street	22/09/2007	14/11/2007	29/08/2007	$646,000	814m	Full transfer	3	1	1	-	1	$646,000	24	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.54
+2007	120692	34 Conyers Street	30/03/2007	16/05/2007	08/03/2007	$640,000	820m	Full transfer	4	1	1	2	-	$640,000	22	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.46
+2007	95669	14 Pope Street	14/02/2007	-	12/01/2007	$627,500	1149m	Full transfer	4	3	-	-	2	$627,500	33	-	Allhomes Record	-	-	-	-	$355,000	0.57
+2007	120026	1 Tudor Place	07/02/2007	02/04/2007	20/11/2006	$625,000	945m	Full transfer	4	1	1	2	-	$625,000	79	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.61
+2007	304336	28 Leane Street	12/07/2007	25/09/2007	-	$625,000	780m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32551	14 Pope Street	09/03/2007	29/03/2007	-	$620,000	1149m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230901	17 Wynter Place	13/10/2007	02/12/2007	12/09/2007	$617,000	779m	Full transfer	3	1	-	-	-	$617,000	31	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.6
+2007	304265	15 Pope Street	25/07/2007	30/08/2007	-	$605,000	747m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36428	40 Goble Street	04/05/2007	05/07/2007	07/12/2006	$600,000	792m	Full transfer	5	2	1	1	1	$600,000	148	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.68
+2007	231745	63 Kitchener Street	27/10/2007	19/12/2007	26/09/2007	$599,000	793m	Full transfer	5	2	1	1	1	$599,000	31	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.49
+2007	409109	3 Higgs Place	13/03/2007	16/05/2007	19/02/2007	$598,000	918m	Full transfer	4	1	1	2	-	$598,000	22	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.68
+2007	234771	42 Wisdom Street	06/10/2007	12/03/2008	-	$595,000	859m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409112	12 Leane Street	01/02/2007	11/03/2007	12/01/2007	$590,000	843m	Full transfer	4	1	-	1	-	$590,000	20	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.6
+2007	120783	10 Mahon Place	13/03/2007	15/05/2007	23/02/2007	$590,000	929m	Full transfer	4	1	1	-	1	$590,000	18	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.74
+2007	167929	9 Bisdee Street	18/06/2007	18/09/2007	-	$585,000	926m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36265	23 Poynton Street	24/04/2007	03/07/2007	10/04/2007	$583,000	925m	Full transfer	4	1	1	2	-	$583,000	14	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.59
+2007	314896	52 Bamford Street	11/10/2007	19/11/2007	-	$583,000	683m	Full transfer	-	-	-	-	-	$583,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	25230	24 Conyers Street	24/11/2007	-	29/10/2007	$575,000	823m	Full transfer	3	1	1	-	1	$575,000	26	-	Allhomes Record	-	-	-	-	$329,000	0.57
+2007	168803	32 Conyers Street	09/02/2007	22/03/2007	14/11/2006	$572,000	820m	Full transfer	3	1	-	4	-	$572,000	87	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.51
+2007	121919	29 Poynton Street	26/05/2007	26/09/2007	04/05/2007	$570,000	833m	Full transfer	3	1	1	-	-	$570,000	22	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.58
+2007	230807	21 Kitchener Street	16/11/2007	04/01/2008	27/09/2007	$569,000	797m	Full transfer	4	1	1	1	-	$569,000	50	-	Combined Record	-	-	-	Single residential dwelling	$329,000	0.58
+2007	232397	42 Poynton Street	16/11/2007	11/12/2007	-	$550,000	695m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231704	39 McNicoll Place	27/08/2007	21/12/2007	19/07/2007	$550,000	642m	Full transfer	3	1	-	-	1	$550,000	39	-	Combined Record	-	-	-	Single residential dwelling	$384,000	0.7
+2007	166375	13 Webster Street	20/07/2007	14/08/2007	-	$543,000	727m	Full transfer	-	-	-	-	-	$543,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121125	11 Bisdee Street	06/06/2007	12/09/2007	-	$540,000	906m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167654	28 Bisdee Street	11/07/2007	03/10/2007	22/06/2007	$522,000	818m	Full transfer	3	1	-	1	-	$522,000	19	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.62
+2007	166825	41 Millen Street	12/06/2007	24/07/2007	-	$515,000	811m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168489	8 Millen Street	18/01/2007	06/03/2007	14/11/2006	$507,000	845m	Full transfer	3	1	-	1	-	$507,000	65	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.73
+2007	166933	1/19 Bisdee Street	02/06/2007	15/08/2007	11/05/2007	$501,000	876m	Full transfer	3	1	1	2	-	$501,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	$286,000	0.57
+2007	119839	1 Pope Street	24/02/2007	02/04/2007	02/02/2007	$493,000	1022m	Full transfer	3	1	-	-	1	$493,000	22	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.65
+2007	109201	71 Groom Street	20/10/2007	-	20/09/2007	$465,000	450m	Full transfer	3	1	-	1	-	$465,000	30	-	Allhomes Record	-	-	-	-	$369,000	0.79
+2007	315159	1/71 Groom Street	20/10/2007	13/12/2007	-	$465,000	897m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168089	23 Maygar Street	19/07/2007	15/10/2007	06/10/2006	$458,000	838m	Full transfer	3	1	-	1	-	$458,000	286	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.6
+2007	120050	5 Wynter Place	21/03/2007	20/04/2007	-	$450,000	725m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32441	71 Carroll Street	23/02/2007	29/03/2007	25/01/2007	$435,000	348m	Full transfer	2	1	-	-	1	$435,000	29	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.43
+2007	409107	4 Carroll Street	13/07/2007	15/08/2007	04/06/2007	$432,500	351m	Full transfer	3	1	-	-	-	$432,500	39	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.43
+2007	230785	62 Kitchener Street	05/11/2007	04/01/2008	23/08/2007	$415,000	666m	Full transfer	3	-	-	1	1	$415,000	74	-	Combined Record	-	-	-	Single residential dwelling	$306,000	0.74
+2007	167229	37 Groom Street	06/02/2007	11/04/2007	14/12/2006	$410,000	411m	Full transfer	2	1	-	-	1	$410,000	54	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.6
+2007	35077	187 Kent Street	26/03/2007	06/06/2007	23/02/2007	$392,500	634m	Full transfer	3	1	-	1	-	$392,500	31	-	Combined Record	-	-	-	Medium density dwelling	$274,000	0.7
+2007	166422	48 Carroll Street	06/06/2007	25/07/2007	09/05/2007	$387,000	327m	Full transfer	3	1	-	-	1	$387,000	28	-	Combined Record	-	-	-	Single residential dwelling	$170,000	0.44
+2007	21918	            2/32 Glynn Place	27/09/2007	-	20/08/2007	$329,000	857m	Full transfer	1	1	-	-	1	$329,000	38	-	Allhomes Record	-	-	-	-	-	-
+2007	167708	30 Poynton Street	14/07/2007	02/10/2007	-	$305,617	796m	Full transfer	-	-	-	-	-	$305,617	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409108	3/7 Wark Street	21/08/2007	23/10/2007	-	$229,000	2356m	Full transfer	-	-	-	-	-	$229,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	232646	67 Carroll Street	25/10/2007	25/11/2007	-	$220,000	348m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	316394	24/27 Coxen Street	03/08/2007	12/09/2007	-	$185,000	15678m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168816	82/27 Coxen Street	07/02/2007	23/03/2007	-	$170,000	15678m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231818	19/27 Coxen Street	29/11/2007	17/01/2008	11/03/2003	$150,000	15678m	Full transfer	1	1	-	-	-	$150,000	1724	-	Combined Record	-	-	-	Multiple unit dwelling	$2,013,000	13.42
+2007	119769	52/27 Coxen Street	09/03/2007	02/04/2007	-	$149,500	15678m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	318124	1/27 Coxen Street	18/05/2007	27/07/2007	-	$145,000	15678m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120655	17/27 Coxen Street	23/02/2007	15/05/2007	-	$142,000	15678m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121843	50 Jensen Street	13/08/2007	27/09/2007	-	$123,000	893m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409111	20 Colvin Street	14/05/2007	26/02/2007	-	$0	1333m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	304323	6 Hyde Place	30/06/2007	25/09/2007	-	$0	837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164718	20 Kitchener Street	28/02/2007	10/07/2007	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236051	1/32 Glynn Place	02/10/2007	12/11/2007	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33200	2/21 McNicoll Place	10/02/2007	28/02/2007	-	$0	940m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166799	26 Bamford Street	13/08/2007	17/08/2007	-	$0	753m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232540	9 Leane Street	10/08/2007	25/11/2007	-	$0	1063m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168137	5 Bisdee Street	05/09/2007	17/10/2007	-	$0	762m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35348	11 Jensen Street	17/04/2007	19/06/2007	-	$0	1001m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	409110	52 Bamford Street	07/09/2007	26/10/2007	-	$0	683m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	233574	23 Webster Street	21/02/2007	29/04/2008	-	-	794m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	238362	42 Lynch Street	10/10/2007	16/04/2009	-	-	809m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	234161	6 Tivey Place	12/10/2007	10/06/2008	-	-	1070m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232915	8 Tivey Place	12/10/2007	29/05/2008	-	-	882m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232502	15 Pope Street	12/12/2007	17/01/2008	-	-	747m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236542	50 Birdwood Street	28/08/2007	17/04/2008	-	-	917m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	244774	2 Jess Place	16/12/2007	23/07/2009	-	-	905m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230165	12 Tudor Place	06/12/2007	02/02/2008	-	-	983m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	22192	             Wark Street	21/08/2007	-	11/07/2007	-	-	Full transfer	2	1	-	-	1	-	41	-	Allhomes Record	-	-	-	-	-	-
+2008	239776	14 Leane Street	27/06/2008	29/09/2008	-	$930,000	750m	Full transfer	-	-	-	-	-	$930,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232911	20 Goble Street	11/04/2008	29/05/2008	08/11/2007	$859,000	1327m	Full transfer	3	1	1	-	2	$859,000	155	-	Combined Record	-	-	-	Single residential dwelling	$591,000	0.69
+2008	237950	7 Tudor Place	12/07/2008	18/09/2008	10/06/2008	$825,000	760m	Full transfer	4	1	1	1	-	$825,000	32	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.58
+2008	239185	4 Smyth Place	01/04/2008	05/11/2008	11/02/2008	$816,000	797m	Full transfer	5	1	1	2	-	$816,000	50	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.55
+2008	242704	3 Maygar Street	23/12/2008	23/02/2009	-	$800,000	685m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240085	58 Birdwood Street	14/06/2008	21/10/2008	05/05/2008	$798,000	908m	Full transfer	4	1	1	-	2	$798,000	40	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.51
+2008	237736	13 Leane Street	06/11/2008	17/02/2009	02/10/2008	$795,000	964m	Full transfer	4	1	1	1	0	$795,000	35	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.54
+2008	232917	20 Lynch Street	16/02/2008	28/05/2008	31/03/2008	$742,000	902m	Full transfer	4	1	1	1	2	$742,000	-	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.63
+2008	233968	32 Brand Street	30/05/2008	04/07/2008	03/03/2008	$740,000	859m	Full transfer	5	3	0	1	1	$740,000	88	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.59
+2008	234162	6 Tivey Place	19/04/2008	10/06/2008	27/03/2008	$735,000	1070m	Full transfer	4	1	1	-	1	$735,000	23	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.64
+2008	241134	18 Glynn Place	24/05/2008	04/01/2009	21/02/2008	$730,000	701m	Full transfer	3	1	1	-	0	$730,000	93	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.62
+2008	145977	33 Birdwood Street	18/02/2008	11/04/2008	-	$730,000	797m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242423	5 Tivey Place	22/11/2008	09/02/2009	17/10/2008	$725,000	1056m	Full transfer	4	2	1	2	-	$725,000	36	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.68
+2008	320930	12 Pope Street	16/02/2008	12/05/2008	-	$680,000	1132m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233573	6 Smyth Place	01/03/2008	01/05/2008	31/03/2008	$670,000	836m	Full transfer	4	1	0	2	0	$670,000	-	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.69
+2008	320442	37 Colvin Street	02/04/2008	28/05/2008	-	$665,000	825m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239280	26 Bisdee Street	30/08/2008	10/11/2008	28/07/2008	$655,000	755m	Full transfer	4	1	1	2	-	$655,000	33	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.55
+2008	229689	24 Hughes Place	26/06/2008	01/08/2008	-	$645,000	171m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	238077	5 Glasgow Street	16/07/2008	08/09/2008	11/04/2008	$635,000	942m	Full transfer	3	1	-	-	1	$635,000	96	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.8
+2008	233706	72 Birdwood Street	14/02/2008	09/05/2008	22/11/2007	$633,000	1102m	Full transfer	3	1	-	-	1	$633,000	84	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.68
+2008	113858	40 Coxen Street	03/05/2008	-	13/03/2008	$626,000	885m	Full transfer	3	1	1	1	0	$626,000	51	-	Allhomes Record	-	-	-	-	$315,000	0.5
+2008	113961	30 Bamford Street	26/05/2008	-	18/03/2008	$622,000	772m	Full transfer	3	1	1	1	1	$622,000	69	-	Allhomes Record	-	-	-	-	$422,000	0.68
+2008	231958	8 Tivey Place	19/04/2008	02/07/2008	27/03/2008	$620,000	882m	Full transfer	3	1	0	1	1	$620,000	23	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.75
+2008	233525	151 Kent Street	09/04/2008	02/06/2008	-	$615,000	1075m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243046	32 Goble Street	13/12/2008	10/03/2009	21/11/2008	$610,000	768m	Full transfer	3	1	1	1	0	$610,000	22	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.76
+2008	24004	50 Birdwood Street	19/04/2008	-	28/03/2008	$600,000	917m	Full transfer	3	1	-	2	-	$600,000	22	-	Allhomes Record	-	-	-	-	$439,000	0.73
+2008	241224	62 Birdwood Street	22/11/2008	12/01/2009	27/10/2008	$590,000	814m	Full transfer	4	1	1	1	-	$590,000	26	-	Combined Record	-	-	-	Single residential dwelling	$403,000	0.68
+2008	242169	11 Pope Street	12/11/2008	30/01/2009	29/10/2008	$590,000	724m	Full transfer	3	1	-	2	-	$590,000	14	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.64
+2008	240689	3 Birdwood Street	25/09/2008	01/12/2008	01/09/2008	$579,000	781m	Full transfer	3	1	0	-	1	$579,000	24	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.64
+2008	240359	8 Lynch Street	27/09/2008	25/11/2008	02/09/2008	$570,000	703m	Full transfer	3	1	-	-	1	$570,000	25	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.71
+2008	237411	21 Poynton Street	17/07/2008	25/08/2008	-	$549,500	925m	Full transfer	-	-	-	-	-	$549,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233298	29 Webster Street	19/05/2008	17/06/2008	27/02/2008	$515,000	765m	Full transfer	3	1	1	-	1	$515,000	82	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.7
+2008	237338	54 Groom Street	14/07/2008	19/08/2008	-	$476,000	801m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	114393	54 Groom Street	15/07/2008	-	29/05/2008	$475,000	801m	Full transfer	3	1	-	1	-	$475,000	47	-	Allhomes Record	-	-	-	-	$354,000	0.75
+2008	229805	29 Kitchener Street	27/05/2008	25/07/2008	12/03/2008	$450,000	836m	Full transfer	3	1	0	-	0	$450,000	76	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.84
+2008	239982	20 Carroll Street	11/09/2008	17/10/2008	-	$430,000	354m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	116341	18 Carroll Street	11/09/2008	-	28/07/2008	$430,000	354m	Full transfer	3	1	-	-	1	$430,000	45	-	Allhomes Record	-	-	-	-	$215,000	0.5
+2008	233967	10 Carroll Street	03/05/2008	04/07/2008	-	$420,000	356m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25338	51 Groom Street	17/01/2008	-	08/11/2007	$417,500	247m	Full transfer	2	1	-	1	-	$417,500	70	-	Allhomes Record	-	-	-	-	$199,000	0.48
+2008	322144	62 Carroll Street	05/09/2008	28/10/2008	-	$412,500	334m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	17938	            13/1 Carroll Street	06/05/2008	02/06/2008	-	$275,000	2399m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	112269	4/7 Coxen Street	20/03/2008	-	04/03/2008	$240,000	2399m	Full transfer	2	1	0	-	1	$240,000	16	-	Allhomes Record	-	-	-	-	$403,000	1.68
+2008	113222	9/1 Carroll Street	20/03/2008	-	04/03/2008	$240,000	0m	Full transfer	2	1	0	1	0	$240,000	16	-	Allhomes Record	-	-	-	-	$1,069,000	4.45
+2008	234105	9/1 Carroll Street	10/04/2008	13/06/2008	-	$240,000	2399m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18058	            4/1 Carroll Street	14/04/2008	13/06/2008	-	$240,000	2399m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233832	79/27 Coxen Street	26/03/2008	28/04/2008	-	$236,100	15678m	Full transfer	-	-	-	-	-	$236,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24615	80/27 Coxen Street	26/08/2008	-	30/04/2008	$230,000	15678m	Full transfer	1	1	-	-	-	$230,000	118	-	Allhomes Record	-	-	-	-	$0	0.0
+2008	239059	34/27 Coxen Street	25/09/2008	12/11/2008	-	$228,000	15678m	Full transfer	-	-	-	-	-	$228,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240446	80/27 Coxen Street	22/08/2008	22/09/2008	-	$222,000	15678m	Full transfer	-	-	-	-	-	$222,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239104	54/27 Coxen Street	29/09/2008	17/11/2008	-	$222,000	15678m	Full transfer	-	-	-	-	-	$222,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233412	25/27 Coxen Street	08/04/2008	16/06/2008	-	$220,000	15678m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	111614	49/27 Coxen Street	05/03/2008	-	30/01/2008	$178,000	15678m	Full transfer	1	1	-	-	-	$178,000	35	-	Allhomes Record	-	-	-	-	-	-
+2008	233833	49/27 Coxen Street	04/03/2008	22/04/2008	-	$178,000	15678m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	17894	            11/1 Carroll Street	11/01/2008	01/05/2008	-	$136,000	2399m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237951	37 Millen Street	26/02/2008	19/09/2008	-	$0	749m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243048	23 Brand Street	22/12/2008	13/03/2009	-	-	1121m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239777	22 Bamford Street	01/04/2008	30/09/2008	-	-	1202m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240358	62 Birdwood Street	07/10/2008	26/11/2008	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233299	24 Hughes Place	20/01/2008	19/06/2008	-	-	171m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	229688	60 Jensen Street	12/04/2008	01/08/2008	-	-	1046m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230331	7 Wynter Place	07/07/2008	07/08/2008	-	-	781m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239279	25 Conyers Street	09/09/2008	14/11/2008	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236784	28 Millen Street	09/06/2008	09/12/2008	-	-	705m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238078	28 Jensen Street	24/07/2008	08/09/2008	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238270	4 Pope Street	30/11/2008	06/04/2009	-	-	852m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238364	47 Birdwood Street	09/04/2009	17/04/2009	-	$1,720,000	891m	Full transfer	-	-	-	-	-	$1,720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262782	34 Bamford Street	31/10/2009	25/01/2010	07/10/2009	$1,330,000	1036m	Full transfer	5	4	1	2	-	$1,330,000	24	-	Combined Record	-	-	-	Single residential dwelling	$466,000	0.35
+2009	23579	            9/11 Bisdee Street	17/07/2009	-	01/05/2009	$1,240,000	906m	Full transfer	4	-	0	-	0	$1,240,000	77	-	Allhomes Record	-	-	-	-	$370,000	0.3
+2009	244775	18 Lynch Street	23/05/2009	23/07/2009	24/04/2009	$1,180,000	748m	Full transfer	4	1	1	-	2	$1,180,000	29	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.36
+2009	262781	9 Smyth Place	31/10/2009	10/01/2010	01/10/2009	$1,000,000	697m	Full transfer	5	1	2	2	-	$1,000,000	30	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.43
+2009	262788	18 Downes Place	07/11/2009	25/01/2010	08/10/2009	$875,000	1071m	Full transfer	4	1	1	2	2	$875,000	30	-	Combined Record	-	-	-	Single residential dwelling	$620,000	0.71
+2009	251585	26 Poynton Street	17/03/2009	22/01/2010	-	$845,000	1418m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245134	43 Webster Street	05/05/2009	17/06/2009	07/04/2009	$830,000	773m	Full transfer	4	2	1	2	0	$830,000	28	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.43
+2009	262786	5 Higgs Place	07/11/2009	14/01/2010	14/10/2009	$820,000	759m	Full transfer	3	1	1	-	1	$820,000	24	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.54
+2009	248228	4 Smyth Place	01/09/2009	23/09/2009	-	$815,000	797m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246159	12 Birdwood Street	24/06/2009	28/08/2009	14/04/2009	$810,500	813m	Full transfer	4	2	1	2	2	$810,500	71	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.51
+2009	23475	            36 Mc Nicoll Street	27/06/2009	-	02/06/2009	$780,000	730m	Full transfer	4	2	-	2	-	$780,000	25	-	Allhomes Record	-	-	-	-	$380,000	0.49
+2009	246157	36 McNicoll Street	27/06/2009	24/08/2009	-	$780,000	730m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	277710	1/26 Poynton Street	24/07/2009	21/01/2011	-	$760,000	1418m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	254057	42 Lynch Street	06/11/2009	08/02/2010	09/10/2009	$755,000	809m	Full transfer	4	2	-	1	-	$755,000	28	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.51
+2009	247196	4/26 Poynton Street	25/11/2009	-	23/09/2009	$745,000	-	Full transfer	3	1	3	2	-	$745,000	63	-	Allhomes Record	-	-	-	-	-	-
+2009	279263	3/26 Poynton Street	01/12/2009	02/02/2011	-	$735,000	1418m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	127025	6 Leane Street	24/06/2009	-	18/05/2009	$732,000	830m	Full transfer	3	1	-	2	-	$732,000	37	-	Allhomes Record	-	-	-	-	$410,000	0.56
+2009	277462	4/26 Poynton Street	09/11/2009	19/01/2011	15/05/2007	$730,000	1418m	Full transfer	4	1	-	-	1	$730,000	909	-	Combined Record	-	-	-	Multiple unit dwelling	$449,000	0.62
+2009	245432	24 Birdwood Street	11/06/2009	03/08/2009	26/03/2009	$710,000	1003m	Full transfer	4	1	1	-	2	$710,000	77	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.61
+2009	262783	34 Poynton Street	31/10/2009	04/01/2010	09/10/2009	$709,000	807m	Full transfer	3	2	-	-	2	$709,000	22	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.64
+2009	127408	4 Jess Place	20/06/2009	-	29/05/2009	$706,000	755m	Full transfer	4	1	1	-	0	$706,000	22	-	Allhomes Record	-	-	-	-	$410,000	0.58
+2009	262257	1/45A Webster Street	21/11/2009	23/03/2010	29/09/2009	$705,000	856m	Full transfer	3	1	1	2	-	$705,000	53	-	Combined Record	-	-	-	Multiple unit dwelling	$405,000	0.57
+2009	238361	71 Birdwood Street	04/03/2009	16/04/2009	-	$690,000	982m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244571	45 Millen Street	11/05/2009	02/07/2009	21/10/2008	$680,000	1015m	Full transfer	4	1	1	-	1	$680,000	202	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.75
+2009	246373	8 Tivey Place	09/07/2009	02/09/2009	02/07/2009	$675,000	882m	Full transfer	3	1	0	1	1	$675,000	7	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.68
+2009	243047	71 Webster Street	09/01/2009	12/03/2009	08/10/2008	$670,000	1089m	Full transfer	6	2	-	-	1	$670,000	93	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.53
+2009	325942	38 Kitchener Street	21/10/2009	19/04/2010	-	$670,000	736m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238688	15 Poynton Street	24/02/2009	20/04/2009	-	$625,000	871m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249222	9 Bisdee Street	13/07/2009	30/09/2009	-	$620,000	926m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249221	11 Bisdee Street	12/07/2009	30/09/2009	-	$620,000	906m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	323152	21 Pope Street	16/02/2009	16/03/2009	-	$602,000	1020m	Full transfer	-	-	-	-	-	$602,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244191	28 Birdwood Street	24/02/2009	09/06/2009	14/01/2009	$600,000	1108m	Full transfer	3	1	-	1	-	$600,000	41	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.83
+2009	19375	            55 McNicoll Street	01/04/2009	29/05/2009	-	$585,000	949m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	119918	1 Mahon Place	13/03/2009	-	24/10/2008	$585,000	949m	Full transfer	3	1	-	1	1	$585,000	140	-	Allhomes Record	-	-	-	-	$441,000	0.75
+2009	254242	6 Carroll Street	12/12/2009	17/02/2010	-	$578,000	354m	Full transfer	-	-	-	-	-	$578,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238360	153 Kent Street	19/03/2009	16/04/2009	18/02/2009	$575,000	990m	Full transfer	4	1	1	-	2	$575,000	29	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.72
+2009	323271	24 Jensen Street	27/02/2009	03/04/2009	-	$575,000	954m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246372	33 Goble Street	28/05/2009	31/08/2009	-	$575,000	737m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242703	27 Millen Street	21/01/2009	25/02/2009	08/07/2008	$575,000	1011m	Full transfer	4	1	-	-	1	$575,000	197	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.77
+2009	322567	37 Millen Street	23/01/2009	11/05/2009	-	$570,000	749m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246374	61 Webster Street	15/06/2009	01/09/2009	07/05/2009	$565,000	923m	Full transfer	5	1	1	-	3	$565,000	39	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.63
+2009	241560	156 Kent Street	07/04/2009	15/05/2009	27/11/2008	$560,000	1011m	Full transfer	4	1	1	-	2	$560,000	131	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.71
+2009	251667	36 Wisdom Street	02/10/2009	07/01/2010	-	$560,000	813m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254395	56 Poynton Street	23/12/2009	23/02/2010	-	$550,000	706m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244074	4 Pope Street	01/05/2009	04/06/2009	14/04/2009	$535,000	852m	Full transfer	3	1	-	2	-	$535,000	17	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.71
+2009	262784	56 Kitchener Street	16/10/2009	28/01/2010	25/09/2009	$525,000	779m	Full transfer	3	1	-	1	-	$525,000	21	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.64
+2009	246158	65 Webster Street	21/03/2009	25/08/2009	19/02/2009	$525,000	1081m	Full transfer	-	-	-	-	-	$525,000	30	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.67
+2009	248229	5 Maygar Street	16/04/2009	22/09/2009	25/02/2009	$522,500	794m	Full transfer	3	1	-	1	-	$522,500	50	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.71
+2009	245429	28 Jensen Street	30/05/2009	03/08/2009	28/04/2009	$511,000	725m	Full transfer	3	1	-	1	2	$511,000	32	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.66
+2009	248461	27 Jensen Street	07/09/2009	14/12/2009	26/08/2009	$500,000	762m	Full transfer	2	1	-	1	1	$500,000	12	-	Combined Record	-	-	-	Single residential dwelling	$396,000	0.79
+2009	245430	8 Jensen Street	25/06/2009	03/08/2009	19/05/2009	$495,500	1031m	Full transfer	3	1	-	1	-	$495,500	37	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.66
+2009	249444	60 Carroll Street	12/09/2009	20/10/2009	-	$485,000	321m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249223	59 Carroll Street	05/08/2009	09/10/2009	-	$455,500	318m	Full transfer	-	-	-	-	-	$455,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	140896	61 Carroll Street	05/08/2009	-	22/07/2009	$455,500	318m	Full transfer	2	1	0	-	1	$455,500	14	-	Allhomes Record	-	-	-	-	$195,000	0.43
+2009	245322	11 Conyers Street	18/06/2009	30/07/2009	-	$455,000	736m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247856	63 Carroll Street	06/09/2009	14/10/2009	-	$440,000	344m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245431	73 Carroll Street	15/07/2009	03/08/2009	06/05/2009	$435,000	347m	Full transfer	3	1	0	-	1	$435,000	70	-	Combined Record	-	-	-	Single residential dwelling	$215,000	0.49
+2009	238363	3 Conyers Street	16/03/2009	14/04/2009	22/09/2008	$435,000	755m	Full transfer	3	1	0	1	0	$435,000	175	-	Combined Record	-	-	-	Single residential dwelling	$354,000	0.81
+2009	258775	1/67 Groom Street	26/09/2009	21/05/2010	18/09/2009	$410,000	945m	Full transfer	2	1	-	1	-	$410,000	8	-	Combined Record	-	-	-	Multiple unit dwelling	$315,000	0.77
+2009	249522	29 Groom Street	07/08/2009	29/10/2009	-	$400,000	407m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255467	10/7 Wark Street	12/12/2009	24/03/2010	-	$312,000	2356m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	139896	1/7 Coxen Street	16/11/2009	-	18/09/2009	$298,000	2399m	Full transfer	2	1	-	-	1	$298,000	59	-	Allhomes Record	-	-	-	-	$403,000	1.35
+2009	251528	            1/1 Carroll Street	16/11/2009	05/01/2010	-	$298,000	2399m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238569	80/27 Coxen Street	18/03/2009	24/04/2009	-	$289,950	15678m	Full transfer	-	-	-	-	-	$289,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253782	81/27 Coxen Street	22/12/2009	16/02/2010	-	$270,000	15678m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	120279	5/7 Coxen Street	08/01/2009	-	05/11/2008	$267,000	171m	Full transfer	2	1	-	-	-	$267,000	64	-	Allhomes Record	-	-	-	-	$403,000	1.51
+2009	18621	            5/1 Carroll Street	08/01/2009	18/02/2009	-	$267,000	2399m	Full transfer	-	-	-	-	-	$267,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	18687	            8/7 Wark Street	11/03/2009	17/04/2009	-	$265,000	2356m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23191	            UNIT8 Birrell Court, Wark Street	11/03/2009	-	03/01/2009	$265,000	-	Full transfer	2	1	-	-	-	$265,000	67	-	Allhomes Record	-	-	-	-	-	-
+2009	19215	            13/7 Wark Street	22/01/2009	13/03/2009	-	$255,000	2356m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243541	55/27 Coxen Street	25/02/2009	02/04/2009	-	$215,000	15678m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	118757	55/27 Coxen Street	27/03/2009	-	01/10/2008	$215,000	15678m	Full transfer	1	1	-	-	-	$215,000	177	-	Allhomes Record	-	-	-	-	$6,267,000	29.15
+2009	250790	58 Carroll Street	11/06/2009	13/12/2009	-	$200,000	334m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	354090	24 Bamford Street	22/12/2009	22/12/2011	-	$0	745m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	360308	4 Wylly Place	13/03/2009	15/02/2012	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	391728	11 Brand Street	25/10/2009	28/02/2013	-	$0	884m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	440106	4 Glasgow Street	08/04/2009	26/11/2014	-	$0	1046m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	420067	15 Lynch Street	21/05/2009	04/02/2014	-	$0	868m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245321	27 Jensen Street	17/03/2009	29/07/2009	-	-	762m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241915	28 Lynch Street	07/01/2009	19/01/2009	-	-	1296m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249068	            2/41B Webster Street	19/10/2009	24/11/2009	-	-	1157m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249944	60 Kitchener Street	06/09/2009	19/11/2009	-	-	708m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254558	12 Smyth Place	27/12/2009	05/03/2010	-	-	851m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254559	44 Poynton Street	24/07/2009	04/03/2010	-	-	707m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245428	4 Smyth Place	19/05/2009	07/08/2009	-	-	797m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249443	60 Carroll Street	30/05/2009	20/10/2009	-	-	321m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251606	4 Bamford Street	09/08/2009	23/12/2009	-	-	719m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250789	30 Goble Street	15/09/2009	08/12/2009	-	-	938m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248098	4 Higgs Place	04/08/2009	15/09/2009	-	-	709m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	269430	            14/7 Wark Street	12/09/2009	27/07/2010	-	-	2356m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245911	68 Groom Place	16/01/2009	19/08/2009	-	-	669m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243881	3/1 Carroll Street	17/03/2009	09/06/2009	-	-	2399m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241369	11 Conyers Street	13/02/2009	05/05/2009	-	-	736m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241370	193 Kent Street	04/03/2009	04/05/2009	-	-	497m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	246533	11 Lynch Street	17/02/2009	08/09/2009	-	-	806m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261088	159 Kent Street	06/10/2009	04/02/2010	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	328789	31 Poynton Street	05/02/2010	16/09/2010	-	$1,250,000	937m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272893	            50 McNicoll Street	10/07/2010	12/10/2010	-	$1,225,000	891m	Full transfer	-	-	-	-	-	$1,225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	264442	1 Lynch Street	10/07/2010	-	04/06/2010	$1,225,000	891m	Full transfer	4	1	1	2	-	$1,225,000	36	-	Allhomes Record	-	-	-	-	$485,000	0.4
+2010	268235	26 Lynch Street	27/03/2010	02/07/2010	-	$1,195,000	1243m	Full transfer	-	-	-	-	-	$1,195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274508	24 Birdwood Street	02/08/2010	09/11/2010	06/05/2010	$1,150,000	1003m	Full transfer	4	1	1	2	-	$1,150,000	88	-	Combined Record	238	-	-	Single residential dwelling	$433,000	0.38
+2010	284089	14 Downes Place	18/12/2010	22/02/2011	23/11/2010	$1,125,000	1004m	Full transfer	6	1	2	2	-	$1,125,000	25	-	Combined Record	-	-	-	Single residential dwelling	$714,000	0.63
+2010	329924	45 Birdwood Street	30/10/2010	16/12/2010	-	$1,010,000	873m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	327941	35 Glasgow Street	27/05/2010	02/07/2010	-	$910,500	862m	Full transfer	-	-	-	-	-	$910,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287906	13 Millen Street	23/10/2010	24/03/2011	22/09/2010	$900,000	736m	Full transfer	4	1	1	1	1	$900,000	31	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.51
+2010	254560	5 Higgs Place	21/01/2010	03/03/2010	22/12/2009	$855,000	759m	Full transfer	3	1	1	-	1	$855,000	30	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.59
+2010	268104	1 Webster Street	13/05/2010	25/06/2010	22/03/2010	$845,000	877m	Full transfer	6	2	1	2	-	$845,000	52	-	Combined Record	-	-	-	Multiple unit dwelling	$339,000	0.4
+2010	279102	34 Brand Street	30/11/2010	02/02/2011	18/11/2010	$835,000	979m	Full transfer	3	1	1	-	2	$835,000	12	-	Combined Record	-	-	-	Single residential dwelling	$506,000	0.61
+2010	255200	16 Glasgow Street	10/04/2010	-	10/03/2010	$835,000	781m	Full transfer	3	2	-	2	-	$835,000	31	-	Allhomes Record	-	-	-	-	$634,000	0.76
+2010	283997	8 Smyth Place	01/12/2010	16/02/2011	18/11/2010	$810,000	887m	Full transfer	4	2	-	2	-	$810,000	13	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.7
+2010	270846	16 Glasgow Street	16/07/2010	18/08/2010	22/06/2010	$800,000	781m	Full transfer	3	2	-	1	-	$800,000	24	-	Combined Record	-	-	-	Single residential dwelling	$634,000	0.79
+2010	272785	23 Downes Place	23/09/2010	28/10/2010	-	$800,000	867m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329515	12 Pope Street	03/11/2010	06/01/2011	-	$796,000	1132m	Full transfer	-	-	-	-	-	$796,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283996	82 Groom Street	25/10/2010	17/02/2011	06/10/2010	$785,000	859m	Full transfer	4	1	1	2	2	$785,000	19	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.54
+2010	284057	26 Bamford Street	22/12/2010	09/02/2011	25/11/2010	$775,000	753m	Full transfer	4	1	1	1	1	$775,000	27	-	Combined Record	-	-	-	Single residential dwelling	$468,000	0.6
+2010	274510	29 Millen Street	02/10/2010	10/11/2010	09/09/2010	$773,000	1267m	Full transfer	4	2	-	2	-	$773,000	23	-	Combined Record	-	-	-	Single residential dwelling	$555,000	0.72
+2010	277472	2/26 Poynton Street	01/03/2010	19/01/2011	-	$765,000	1418m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	284090	38 Poynton Street	30/10/2010	24/02/2011	05/10/2010	$756,000	1212m	Full transfer	4	1	-	2	-	$756,000	25	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.67
+2010	258660	44 Glynn Place	26/03/2010	13/05/2010	02/02/2010	$740,000	1002m	Full transfer	4	1	1	1	1	$740,000	52	-	Combined Record	-	-	-	Single residential dwelling	$555,000	0.75
+2010	273695	20 Poynton Street	06/09/2010	19/10/2010	19/08/2010	$725,000	857m	Full transfer	4	1	1	1	1	$725,000	18	-	Combined Record	-	-	-	Single residential dwelling	$503,000	0.69
+2010	252788	50 Lynch Street	06/03/2010	-	12/02/2010	$725,000	787m	Full transfer	3	1	1	1	-	$725,000	22	-	Allhomes Record	-	-	-	-	$437,000	0.6
+2010	274509	39 Millen Street	04/09/2010	09/11/2010	11/08/2010	$720,000	780m	Full transfer	3	1	-	1	1	$720,000	24	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.76
+2010	280521	            2/33 Kitchener Street	08/11/2010	16/12/2010	-	$716,000	819m	Full transfer	-	-	-	-	-	$716,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271286	            1 Goble  Street	08/11/2010	-	02/09/2010	$716,000	819m	Full transfer	3	1	1	-	2	$716,000	67	-	Allhomes Record	-	-	-	-	$435,000	0.61
+2010	347945	1/43 McNicoll Place	03/09/2010	25/10/2011	-	$715,000	971m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	328851	54 Bamford Street	24/07/2010	20/09/2010	-	$696,000	730m	Full transfer	-	-	-	-	-	$696,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	253002	2/1 Wynter Place	13/03/2010	-	08/02/2010	$695,000	854m	Full transfer	4	1	1	-	2	$695,000	33	-	Allhomes Record	-	-	-	-	$466,000	0.67
+2010	257191	            2/15 Kitchener Street	13/03/2010	21/04/2010	-	$695,000	854m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277694	19 Bamford Street	10/12/2010	24/01/2011	-	$680,000	679m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280297	2 McNicoll Street	06/11/2010	16/12/2010	11/10/2010	$677,000	1022m	Full transfer	4	1	1	-	2	$677,000	26	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.73
+2010	258286	22 Wynter Place	16/03/2010	04/05/2010	24/02/2010	$675,000	833m	Full transfer	3	1	-	2	2	$675,000	20	-	Combined Record	-	-	-	Single residential dwelling	$535,000	0.79
+2010	325856	75 Kitchener Street	07/02/2010	14/04/2010	-	$675,000	1074m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	253370	            24 Conyers	22/03/2010	-	04/03/2010	$667,000	823m	Full transfer	3	2	-	1	1	$667,000	18	-	Allhomes Record	-	-	-	-	$378,000	0.57
+2010	280298	21 Wisdom Street	26/08/2010	16/12/2010	05/08/2010	$665,000	778m	Full transfer	3	1	-	1	-	$665,000	21	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.54
+2010	263843	158 Kent Street	17/04/2010	24/05/2010	15/03/2010	$660,000	875m	Full transfer	4	1	1	-	2	$660,000	33	-	Combined Record	-	-	-	Single residential dwelling	$425,000	0.64
+2010	261862	24 Conyers Street	22/03/2010	13/05/2010	-	$659,000	823m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270996	27 Wisdom Street	22/04/2010	03/09/2010	16/04/2010	$650,000	873m	Full transfer	4	1	1	-	1	$650,000	6	-	Combined Record	-	-	-	Single residential dwelling	$385,000	0.59
+2010	272873	18 Wynter Place	11/08/2010	03/11/2010	-	$650,000	843m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	286066	48 Jensen Street	11/12/2010	08/03/2011	11/11/2010	$643,000	940m	Full transfer	4	1	1	1	-	$643,000	30	-	Combined Record	-	-	-	Single residential dwelling	$375,000	0.58
+2010	269159	20 Kitchener Street	28/04/2010	25/06/2010	28/01/2010	$625,000	758m	Full transfer	6	1	1	1	-	$625,000	90	-	Combined Record	240	-	-	Single residential dwelling	$403,000	0.64
+2010	273642	44 Jensen Street	04/09/2010	14/10/2010	12/08/2010	$620,000	725m	Full transfer	3	1	1	-	1	$620,000	23	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.63
+2010	327818	189 Kent Street	24/05/2010	25/06/2010	-	$545,000	570m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2010	263844	75 Carroll Street	06/04/2010	25/05/2010	24/02/2010	$540,000	612m	Full transfer	2	1	-	-	1	$540,000	41	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.56
+2010	279258	31 Groom Street	27/11/2010	02/02/2011	25/10/2010	$488,000	411m	Full transfer	2	1	-	-	1	$488,000	33	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.66
+2010	280542	22 Bamford Street	01/10/2010	16/12/2010	-	$460,000	1202m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269492	            14/7 Wark Street	01/07/2010	09/08/2010	-	$325,000	2356m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264334	            14/59 Groom Street	01/07/2010	-	19/05/2010	$325,000	2356m	Full transfer	2	1	-	-	-	$325,000	43	-	Allhomes Record	-	-	-	-	-	-
+2010	252228	10/7 Wark Street	12/02/2010	-	05/01/2010	$312,000	2356m	Full transfer	2	1	-	-	-	$312,000	38	-	Allhomes Record	-	-	-	-	$403,000	1.29
+2010	267378	65/27 Coxen Street	07/04/2010	25/06/2010	-	$277,000	15678m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283633	12/27 Coxen Street	23/12/2010	15/02/2011	-	$275,000	15678m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283671	57/27 Coxen Street	28/10/2010	08/02/2011	-	$275,000	15678m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267035	57/27 Coxen Street	29/10/2010	-	20/09/2010	$275,000	15678m	Full transfer	1	1	-	-	1	$275,000	39	-	Allhomes Record	-	-	-	-	$6,894,000	25.07
+2010	267377	63/27 Coxen Street	06/05/2010	25/06/2010	-	$272,000	15678m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272605	85/27 Coxen Street	24/12/2010	-	01/12/2010	$270,000	15678m	Full transfer	1	1	-	-	-	$270,000	23	-	Allhomes Record	-	-	-	-	$6,894,000	25.53
+2010	287516	85/27 Coxen Street	23/12/2010	22/03/2011	-	$270,000	15678m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	267025	             Coxen Street	24/10/2010	-	27/05/2010	$260,000	15678m	Full transfer	1	1	-	-	-	$260,000	150	-	Allhomes Record	-	-	-	-	-	-
+2010	273208	6/27 Coxen Street	22/09/2010	03/11/2010	-	$260,000	15678m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253950	89/27 Coxen Street	04/02/2010	09/03/2010	-	$249,000	15678m	Full transfer	-	-	-	-	-	$249,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272604	            12/1 Whittle Street	23/12/2010	-	29/11/2010	$1	-	Full transfer	1	1	-	-	-	$1	24	-	Allhomes Record	56	-	-	-	-	-
+2010	365332	19 Downes Place	18/11/2010	07/03/2012	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	370008	17 Colvin Street	05/11/2010	26/03/2012	-	$0	1362m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	347942	55 Birdwood Street	23/10/2010	25/10/2011	-	$0	878m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	296172	35/27 Coxen Street	23/07/2010	17/06/2011	-	-	15678m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	273096	53 Glasgow Street	05/03/2010	21/10/2010	-	-	1058m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273097	44 Poynton Street	14/08/2010	22/10/2010	-	-	707m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274155	2 McNicoll Street	06/05/2010	23/11/2010	-	-	1022m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277695	19 Lynch Street	02/11/2010	25/01/2011	-	-	761m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277555	16 Leane Street	22/08/2010	19/01/2011	-	-	932m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283381	43 Glasgow Street	20/12/2010	14/02/2011	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287385	8 Goble Street	04/08/2010	22/03/2011	-	-	784m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287257	22 Colvin Street	13/11/2010	08/04/2011	-	-	1114m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283495	20 Carroll Street	02/09/2010	23/02/2011	-	-	354m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279261	38 Millen Street	13/12/2010	02/02/2011	-	-	733m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270446	55 Millen Street	08/07/2010	22/09/2010	-	-	734m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291211	3 Pope Street	26/12/2010	18/04/2011	-	-	913m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	342266	46 Lynch Street	30/05/2010	11/10/2011	-	-	973m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270445	10 Millen Street	31/07/2010	23/09/2010	-	-	759m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275835	19 Conyers Street	14/04/2010	12/01/2011	-	-	779m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291262	43 Kitchener Street	17/11/2010	19/05/2011	-	-	718m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280709	32 Bamford Street	17/06/2010	06/12/2010	-	-	1061m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277554	24 Glasgow Street	30/04/2010	20/01/2011	-	-	709m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275836	11 Tudor Place	27/10/2010	12/01/2011	-	-	1051m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283382	6 Tudor Place	13/11/2010	16/02/2011	-	-	748m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	277641	12/27 Coxen Street	28/10/2010	24/01/2011	-	-	15678m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	258138	1 Wylly Place	07/04/2010	06/05/2010	-	-	943m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	384600	33 Goble Street	21/12/2011	07/05/2012	29/09/2011	$1,150,000	737m	Full transfer	5	1	1	3	-	$1,150,000	83	-	Combined Record	-	-	-	Single residential dwelling	$624,000	0.54
+2011	370006	17 Colvin Street	28/05/2011	26/03/2012	05/05/2011	$1,040,000	1362m	Full transfer	5	2	1	-	2	$1,040,000	23	-	Combined Record	-	-	-	Single residential dwelling	$699,000	0.67
+2011	349745	8 Colvin Street	29/10/2011	12/12/2011	29/09/2011	$990,000	1094m	Full transfer	4	2	1	2	-	$990,000	30	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.65
+2011	292275	75 Birdwood Street	02/02/2011	10/05/2011	03/08/2010	$970,000	1157m	Full transfer	4	1	1	2	1	$970,000	183	-	Combined Record	256	-	-	Single residential dwelling	$550,000	0.57
+2011	365333	35 Glasgow Street	14/12/2011	05/03/2012	10/06/2011	$950,000	862m	Full transfer	4	1	1	1	1	$950,000	187	-	Combined Record	192	-	-	Single residential dwelling	$770,000	0.81
+2011	346717	55 Glasgow Street	30/09/2011	21/11/2011	04/08/2011	$950,000	972m	Full transfer	4	1	1	1	-	$950,000	57	-	Combined Record	-	-	-	Single residential dwelling	$814,000	0.86
+2011	300772	25 Poynton Street	13/04/2011	04/07/2011	07/04/2011	$950,000	645m	Full transfer	4	1	1	2	-	$950,000	6	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.48
+2011	365678	6 Colvin Street	17/12/2011	22/02/2012	17/11/2011	$925,000	1157m	Full transfer	4	1	1	2	-	$925,000	30	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.7
+2011	346720	6 Poynton Street	26/09/2011	16/11/2011	-	$900,000	774m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287907	3 Lynch Street	05/02/2011	25/03/2011	14/01/2011	$888,000	705m	Full transfer	4	2	1	1	1	$888,000	22	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.59
+2011	296807	23 Glasgow Place	26/03/2011	02/06/2011	03/03/2011	$875,000	1180m	Full transfer	6	2	2	-	3	$875,000	23	-	Combined Record	-	-	-	Single residential dwelling	$670,000	0.77
+2011	292501	40 Bamford Street	02/03/2011	15/04/2011	10/02/2011	$875,000	694m	Full transfer	5	2	1	2	-	$875,000	20	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.59
+2011	360309	23 Goble Street	19/11/2011	13/02/2012	19/10/2011	$840,000	845m	Full transfer	5	2	-	-	1	$840,000	31	-	Combined Record	-	-	-	Single residential dwelling	$651,000	0.78
+2011	347948	35 Colvin Street	23/08/2011	24/10/2011	27/06/2011	$830,000	989m	Full transfer	5	1	1	2	-	$830,000	57	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.76
+2011	333445	38 Birdwood Street	25/06/2011	02/08/2011	02/06/2011	$810,000	902m	Full transfer	4	2	1	1	-	$810,000	23	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.74
+2011	338515	50 Bamford Street	02/06/2011	15/09/2011	11/05/2011	$790,000	765m	Full transfer	4	2	-	2	-	$790,000	22	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.65
+2011	354088	35 Birdwood Street	11/11/2011	20/12/2011	-	$785,000	780m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340772	50 Wisdom Street	19/08/2011	20/09/2011	21/07/2011	$775,000	871m	Full transfer	4	2	1	4	-	$775,000	29	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.56
+2011	355065	39 Millen Street	21/10/2011	10/01/2012	-	$770,000	780m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340774	29 McNicoll Place	04/08/2011	23/09/2011	08/07/2011	$770,000	1018m	Full transfer	4	1	1	-	-	$770,000	27	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.38
+2011	292276	16 Leane Street	05/04/2011	10/05/2011	21/11/2010	$767,000	932m	Full transfer	3	1	-	2	-	$767,000	135	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.68
+2011	348114	25 Brand Street	28/09/2011	04/11/2011	-	$750,000	1173m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296971	22 Maygar Street	30/04/2011	10/06/2011	01/04/2011	$750,000	833m	Full transfer	4	1	1	-	-	$750,000	29	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.62
+2011	354085	3 Pope Street	03/09/2011	19/12/2011	02/08/2011	$750,000	913m	Full transfer	5	2	1	2	-	$750,000	32	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.64
+2011	296972	5 Leane Street	29/04/2011	08/06/2011	07/12/2010	$747,000	913m	Full transfer	3	1	-	2	-	$747,000	143	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.74
+2011	287756	19 Lynch Street	11/02/2011	08/04/2011	-	$730,000	761m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	355067	65 Birdwood Street	29/11/2011	13/01/2012	-	$730,000	909m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	288761	5 Coxen Street	07/05/2011	-	07/04/2011	$715,000	946m	Full transfer	4	1	1	-	2	$715,000	30	-	Allhomes Record	-	-	-	-	$549,000	0.77
+2011	300480	            2/3 Coxen Street	07/05/2011	13/07/2011	-	$715,000	947m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354091	8 Goble Street	22/10/2011	19/12/2011	19/09/2011	$691,000	784m	Full transfer	3	1	-	-	1	$691,000	33	-	Combined Record	115	-	-	Single residential dwelling	$629,000	0.91
+2011	366007	17 Bamford Street	16/12/2011	28/02/2012	04/10/2011	$690,000	810m	Full transfer	3	1	-	2	2	$690,000	73	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.74
+2011	331057	11 Jensen Street	28/03/2011	10/05/2011	08/11/2010	$688,000	1001m	Full transfer	3	2	-	1	-	$688,000	140	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.68
+2011	350033	75 Kitchener Street	24/09/2011	05/12/2011	22/08/2011	$670,000	1074m	Full transfer	4	1	-	2	-	$670,000	33	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.64
+2011	336915	87 Birdwood Street	27/07/2011	07/09/2011	05/07/2011	$665,000	751m	Full transfer	4	1	-	-	1	$665,000	22	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.73
+2011	336987	31 Kitchener Street	24/05/2011	15/08/2011	23/02/2011	$660,000	836m	Full transfer	4	1	1	2	-	$660,000	90	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.72
+2011	333254	27 Goble Street	18/06/2011	28/07/2011	01/05/2011	$655,000	705m	Full transfer	3	1	-	-	-	$655,000	48	-	Combined Record	-	-	-	Single residential dwelling	$624,000	0.95
+2011	347943	17 Maygar Street	20/08/2011	25/10/2011	27/07/2011	$650,000	794m	Full transfer	4	1	1	2	-	$650,000	24	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.7
+2011	330929	58 Kitchener Street	05/02/2011	18/04/2011	-	$620,000	886m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	349743	3/9 Bisdee Street	09/11/2011	13/12/2011	21/10/2011	$610,000	1832m	Full transfer	3	-	3	2	-	$610,000	19	-	Combined Record	-	-	-	Multiple unit dwelling	$0	0.0
+2011	335882	9/9 Bisdee Street	11/07/2011	17/08/2011	-	$610,000	1832m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300040	3/9 Bisdee Street	20/04/2011	08/07/2011	-	$607,000	1832m	Full transfer	-	-	-	-	-	$607,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296633	2/9 Bisdee Street	11/03/2011	08/06/2011	-	$605,000	1832m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296632	4/9 Bisdee Street	04/04/2011	08/06/2011	-	$604,950	1832m	Full transfer	-	-	-	-	-	$604,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	292180	62 Jensen Street	19/03/2011	18/05/2011	23/02/2011	$601,000	918m	Full transfer	4	1	-	2	-	$601,000	24	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.74
+2011	347946	42 Poynton Street	30/08/2011	26/10/2011	03/08/2011	$600,000	695m	Full transfer	3	1	-	1	-	$600,000	27	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.8
+2011	342460	22 Poynton Street	02/04/2011	11/10/2011	09/03/2011	$594,000	965m	Full transfer	3	1	-	4	-	$594,000	24	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.75
+2011	300041	1/9 Bisdee Street	11/03/2011	07/07/2011	-	$591,000	1832m	Full transfer	-	-	-	-	-	$591,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	344093	6/9 Bisdee Street	06/09/2011	18/10/2011	-	$585,000	1832m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	349747	43 Kitchener Street	11/11/2011	13/12/2011	06/06/2011	$580,000	718m	Full transfer	3	1	-	2	-	$580,000	158	-	Combined Record	105	-	-	Single residential dwelling	$434,000	0.75
+2011	347149	78 Groom Street	17/10/2011	08/11/2011	22/08/2011	$575,000	884m	Full transfer	3	1	-	-	1	$575,000	56	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.81
+2011	347530	52 Carroll Street	13/08/2011	01/11/2011	21/07/2011	$568,000	328m	Full transfer	3	1	-	-	1	$568,000	23	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.43
+2011	369137	12 Kitchener Street	02/11/2011	04/04/2012	-	$550,000	796m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296078	71 Carroll Street	30/04/2011	03/06/2011	-	$528,500	347m	Full transfer	-	-	-	-	-	$528,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	288302	69 Carroll Street	30/04/2011	-	07/04/2011	$528,500	346m	Full transfer	2	1	-	-	1	$528,500	23	-	Allhomes Record	-	-	-	-	$271,000	0.51
+2011	336227	30 Carroll Street	24/06/2011	07/09/2011	-	$524,000	338m	Full transfer	-	-	-	-	-	$524,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336663	26 Jensen Street	15/07/2011	22/08/2011	14/06/2011	$520,000	725m	Full transfer	3	1	-	1	-	$520,000	31	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.81
+2011	292273	37 Groom Street	23/02/2011	10/05/2011	24/01/2011	$492,500	411m	Full transfer	2	1	-	-	1	$492,500	30	-	Combined Record	-	-	-	Single residential dwelling	$356,000	0.72
+2011	296631	5/9 Bisdee Street	28/02/2011	10/06/2011	-	$445,000	1832m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	283479	            13/7 Wark Street	13/01/2011	28/02/2011	-	$347,000	2356m	Full transfer	-	-	-	-	-	$347,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	274774	13/9 Wark Street	14/01/2011	-	17/11/2010	$347,000	2356m	Full transfer	2	1	-	-	-	$347,000	58	-	Allhomes Record	-	-	-	-	$403,000	1.16
+2011	333447	7 Millen Street	17/06/2011	05/08/2011	-	$340,000	724m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347148	12/7 Wark Street	07/10/2011	08/11/2011	-	$340,000	2356m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350269	79/27 Coxen Street	01/08/2011	28/11/2011	-	$286,000	15678m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300409	72/27 Coxen Street	15/06/2011	04/07/2011	-	$271,000	15678m	Full transfer	-	-	-	-	-	$271,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	332884	22/27 Coxen Street	20/07/2011	04/08/2011	-	$270,000	15678m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291715	44/27 Coxen Street	09/03/2011	05/05/2011	-	$200,000	15678m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346714	70 Carroll Street	06/07/2011	25/11/2011	-	$61,000	327m	Full transfer	-	-	-	-	-	$61,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	368540	10 Bamford Street	19/08/2011	23/03/2012	-	$0	695m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344092	7/9 Bisdee Street	06/09/2011	18/10/2011	-	$0	1832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346715	14 Jensen Street	13/08/2011	17/11/2011	12/07/2011	$0	977m	Full transfer	3	1	-	-	1	$0	32	-	Combined Record	-	-	-	Single residential dwelling	$412,000	1.16
+2011	484655	79/27 Coxen Street	02/09/2011	19/08/2016	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	392515	8 Maygar Street	27/05/2011	20/02/2013	-	$0	752m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354678	26 Downes Place	03/11/2011	04/01/2012	-	$0	1218m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354089	41 Birdwood Street	13/06/2011	20/12/2011	-	$0	774m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353763	30 Goble Street	26/11/2011	16/01/2012	12/09/2011	$0	938m	Full transfer	5	2	1	2	-	$0	75	-	Combined Record	213	-	-	Single residential dwelling	$651,000	1.16
+2011	387201	45 Glasgow Street	07/12/2011	20/12/2012	-	$0	1219m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	344091	8/9 Bisdee Street	06/07/2011	18/10/2011	-	$0	1832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	392516	59 Glasgow Street	27/05/2011	20/02/2013	-	$0	1130m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350032	88/27 Coxen Street	15/01/2011	05/12/2011	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347941	14 Birdwood Street	06/07/2011	27/10/2011	-	$0	813m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	287258	20 Leane Street	09/01/2011	08/04/2011	-	-	926m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340380	24 Goble Street	08/06/2011	23/09/2011	-	-	890m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338441	14 Coxen Street	18/04/2011	13/09/2011	-	-	855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	283496	59 Kitchener Street	20/01/2011	24/02/2011	-	-	1017m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300153	20 Wynter Place	06/05/2011	11/07/2011	-	-	960m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336386	3 Pope Street	20/04/2011	08/08/2011	-	-	913m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333253	17 Pope Street	19/03/2011	29/07/2011	-	-	768m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300349	87 Birdwood Street	09/06/2011	20/07/2011	-	-	751m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331695	29 Brand Street	30/03/2011	30/06/2011	-	-	1198m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340312	35 Birdwood Street	03/03/2011	28/09/2011	-	-	780m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291345	11 Wynter Place	15/04/2011	10/05/2011	-	-	817m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338442	14 Coxen Street	01/07/2011	13/09/2011	-	-	855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336568	            2/32 Coxen Street	01/08/2011	08/08/2011	-	-	889m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376869	38 Lynch Street	24/03/2012	30/07/2012	-	$1,380,000	1111m	Full transfer	-	-	-	-	-	$1,380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371113	7 Leane Street	29/06/2012	-	27/04/2012	$1,200,000	1012m	Full transfer	6	2	1	2	1	$1,200,000	63	-	Allhomes Record	294	-	-	-	$586,000	0.49
+2012	395320	59 McNicoll Street	06/12/2012	16/04/2013	28/10/2012	$1,050,000	1061m	Full transfer	5	2	1	2	-	$1,050,000	39	-	Combined Record	217	-	-	Single residential dwelling	$578,000	0.55
+2012	374472	5 Bisdee Street	30/05/2012	27/06/2012	-	$915,000	762m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387204	11 Hyde Place	08/09/2012	21/12/2012	06/06/2012	$905,000	1172m	Full transfer	4	2	-	-	2	$905,000	94	-	Combined Record	205	-	-	Single residential dwelling	$670,000	0.74
+2012	360307	24 Conyers Street	20/01/2012	14/02/2012	-	$900,000	823m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377783	18 Downes Place	22/09/2012	-	15/08/2012	$900,000	1071m	Full transfer	4	1	1	2	2	$900,000	38	-	Allhomes Record	182	-	-	-	$787,000	0.87
+2012	387202	25 Birdwood Street	22/09/2012	19/12/2012	26/03/2012	$865,000	763m	Full transfer	3	2	-	1	-	$865,000	180	-	Combined Record	164	-	-	Single residential dwelling	$550,000	0.64
+2012	366005	23 Brand Street	25/01/2012	28/02/2012	03/11/2011	$865,000	1121m	Full transfer	4	2	1	2	-	$865,000	83	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.64
+2012	368537	28 Downes Place	17/02/2012	21/03/2012	10/10/2011	$840,000	947m	Full transfer	3	1	-	2	-	$840,000	130	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.71
+2012	378855	20 Maygar Street	23/06/2012	27/08/2012	31/05/2012	$840,000	836m	Full transfer	4	1	1	1	-	$840,000	23	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.56
+2012	387206	1 Wylly Place	29/10/2012	19/12/2012	13/08/2012	$825,000	943m	Full transfer	4	1	1	-	-	$825,000	77	-	Combined Record	-	-	-	Single residential dwelling	$529,000	0.64
+2012	389914	8 Bamford Street	22/09/2012	30/01/2013	20/08/2012	$795,000	697m	Full transfer	4	1	1	-	2	$795,000	33	-	Combined Record	174	-	-	Single residential dwelling	$477,000	0.6
+2012	379124	71 Webster Street	11/07/2012	04/09/2012	10/05/2012	$790,000	1089m	Full transfer	6	2	-	-	2	$790,000	62	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.57
+2012	394150	4 McNicoll Street	20/12/2012	03/04/2013	-	$785,000	1020m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	380880	            38 McNicoll Street	22/08/2012	27/09/2012	-	$775,000	928m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375531	39 Bamford Street	23/08/2012	-	26/06/2012	$775,000	928m	Full transfer	4	1	1	1	2	$775,000	58	-	Allhomes Record	-	-	-	-	$514,000	0.66
+2012	352451	12 Leane Street	31/01/2012	-	03/11/2011	$755,000	843m	Full transfer	4	1	-	1	-	$755,000	89	-	Allhomes Record	-	-	-	-	$520,000	0.69
+2012	389483	45 Glasgow Street	01/12/2012	24/01/2013	-	$733,000	1219m	Full transfer	-	-	-	-	-	$733,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	381989	             Glasgow Street	01/12/2012	-	02/11/2012	$733,000	-	Full transfer	3	1	-	-	2	$733,000	29	-	Allhomes Record	-	-	-	-	-	-
+2012	393159	6 Jess Place	17/11/2012	13/02/2013	11/10/2012	$720,000	696m	Full transfer	4	1	-	2	-	$720,000	37	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.72
+2012	370737	10 Bamford Street	09/03/2012	03/05/2012	09/11/2011	$695,000	695m	Full transfer	5	2	-	2	-	$695,000	121	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.69
+2012	383541	8 Spence Place	02/10/2012	27/11/2012	29/08/2012	$690,000	1125m	Full transfer	3	2	-	1	-	$690,000	34	-	Combined Record	123	-	-	Single residential dwelling	$610,000	0.88
+2012	394148	24 Hughes Place	12/12/2012	03/04/2013	02/04/2013	$680,000	171m	Full transfer	-	-	-	-	-	$680,000	-	-	Combined Record	-	-	-	Retail;pers-service,eat & d...	$177,000	0.26
+2012	387199	16 Pope Street	13/11/2012	20/12/2012	30/08/2012	$675,000	1082m	Full transfer	3	1	-	1	-	$675,000	75	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.76
+2012	377591	11 Pope Street	15/09/2012	-	16/08/2012	$664,000	724m	Full transfer	3	1	-	2	-	$664,000	30	-	Allhomes Record	125	-	-	-	$477,000	0.72
+2012	368727	13 Webster Street	21/03/2012	19/04/2012	14/12/2011	$640,000	727m	Full transfer	3	1	-	2	1	$640,000	98	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.62
+2012	376240	8/9 Bisdee Street	22/05/2012	17/07/2012	23/02/2012	$610,000	1832m	Full transfer	3	-	3	2	-	$610,000	89	-	Combined Record	-	-	-	Multiple unit dwelling	$1,450,000	2.38
+2012	388554	34 Carroll Street	26/10/2012	14/01/2013	-	$610,000	338m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392517	17 Wisdom Street	07/12/2012	21/02/2013	02/10/2012	$605,000	893m	Full transfer	5	2	-	-	2	$605,000	66	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.71
+2012	379126	47 Groom Street	03/08/2012	06/09/2012	-	$580,000	451m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365330	33 Webster Street	28/01/2012	06/03/2012	07/12/2011	$565,000	772m	Full transfer	4	2	-	-	2	$565,000	52	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.8
+2012	385880	27 Groom Street	27/09/2012	11/12/2012	-	$505,000	398m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375297	53 Carroll Street	17/08/2012	-	02/08/2012	$480,000	318m	Full transfer	2	1	-	-	1	$480,000	15	-	Allhomes Record	-	-	-	-	$246,000	0.51
+2012	368539	3/1 Carroll Street	23/02/2012	23/03/2012	-	$365,000	2399m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	371461	            3/7-9 Wark Street	10/02/2012	-	11/07/2012	$320,000	-	Full transfer	2	1	-	0	0	$320,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	368726	3/7 Wark Street	10/02/2012	17/04/2012	-	$320,000	2356m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368725	            14/1 Carroll Street	09/03/2012	19/04/2012	-	$310,000	2399m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379123	82/27 Coxen Street	01/08/2012	05/09/2012	-	$240,000	15678m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373065	32/27 Coxen Street	21/02/2012	27/04/2012	08/11/2011	$230,000	15678m	Full transfer	1	1	-	-	-	$230,000	105	-	Combined Record	-	-	-	Multiple unit dwelling	$8,648,000	37.6
+2012	371877	53/27 Coxen Street	16/04/2012	03/06/2012	-	$180,000	15678m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	376866	11/27 Coxen Street	03/07/2012	03/08/2012	10/04/2012	$179,000	15678m	Full transfer	-	1	-	-	-	$179,000	84	-	Combined Record	35	-	-	Multiple unit dwelling	$8,648,000	48.31
+2012	374001	23 Bamford Street	27/02/2012	19/06/2012	-	$0	728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	428226	4 Mahon Place	02/11/2012	21/05/2014	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379873	3 Brand Street	14/04/2012	13/09/2012	-	$0	828m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384097	34 Birdwood Street	15/08/2012	20/11/2012	-	$0	1207m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373286	60 Birdwood Street	17/04/2012	24/05/2012	06/01/2012	$0	814m	Full transfer	3	1	1	-	1	$0	102	-	Combined Record	-	-	-	Single residential dwelling	$511,000	48.31
+2012	385042	23 Conyers Street	13/02/2012	20/03/2012	-	$0	801m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	385879	2 Maygar Street	09/11/2012	13/12/2012	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	410410	70 Groom Place	15/08/2012	10/09/2013	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374473	11 Colvin Street	25/03/2012	27/06/2012	-	$0	985m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	480225	69 Kitchener Street	09/01/2012	16/06/2016	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	385989	27 Millen Street	31/10/2012	11/12/2012	-	$0	1011m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	370005	32 Conyers Street	09/01/2012	29/03/2012	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	385043	14 Tudor Place	16/02/2012	20/03/2012	-	$0	1085m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	379127	5 Glasgow Street	25/06/2012	05/09/2012	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384863	18 Hughes Place	25/01/2012	16/05/2012	-	$0	150m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2012	380650	17 Goble Street	18/09/2012	11/10/2012	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	385990	17 Wisdom Street	29/08/2012	11/12/2012	-	$0	893m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	405622	18 Wisdom Street	09/12/2012	05/08/2013	-	$0	808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	399927	31 Glasgow Street	02/03/2013	21/05/2013	07/02/2013	$1,067,000	1219m	Full transfer	5	2	1	2	-	$1,067,000	23	-	Combined Record	-	-	-	Single residential dwelling	$679,000	0.64
+2013	406616	37 Glasgow Street	04/05/2013	20/08/2013	09/04/2013	$1,025,000	1219m	Full transfer	3	1	1	-	1	$1,025,000	25	-	Combined Record	-	-	-	Single residential dwelling	$699,000	0.68
+2013	397317	17 Birdwood Street	02/02/2013	07/05/2013	03/01/2013	$927,500	744m	Full transfer	5	2	1	2	-	$927,500	30	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.56
+2013	406949	31 Millen Street	29/06/2013	13/08/2013	31/05/2013	$910,000	1103m	Full transfer	5	1	2	1	1	$910,000	29	-	Combined Record	-	-	-	Single residential dwelling	$651,000	0.72
+2013	421675	34 Goble Street	20/12/2013	05/03/2014	11/12/2013	$880,000	768m	Full transfer	5	1	1	2	-	$880,000	9	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.67
+2013	415142	37 Colvin Street	21/09/2013	05/12/2013	27/08/2013	$850,000	825m	Full transfer	4	1	1	-	1	$850,000	25	-	Combined Record	-	-	-	Single residential dwelling	$586,000	0.69
+2013	396456	3 Brand Street	02/02/2013	26/04/2013	05/11/2012	$840,000	828m	Full transfer	5	2	1	2	1	$840,000	89	-	Combined Record	230	-	-	Single residential dwelling	$483,000	0.57
+2013	421577	13 Colvin Street	30/11/2013	19/02/2014	04/11/2013	$825,000	1076m	Full transfer	4	1	1	2	-	$825,000	26	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.76
+2013	407875	21 Brand Street	29/06/2013	27/08/2013	17/05/2013	$820,000	1134m	Full transfer	4	2	1	2	-	$820,000	43	-	Combined Record	250	-	-	Single residential dwelling	$557,000	0.68
+2013	421575	48 Lynch Street	07/12/2013	17/02/2014	24/10/2013	$820,000	862m	Full transfer	4	1	1	1	-	$820,000	44	-	Combined Record	179	-	-	Single residential dwelling	$486,000	0.59
+2013	413024	50 Bamford Street	13/09/2013	29/10/2013	18/07/2013	$810,000	765m	Full transfer	4	1	1	2	-	$810,000	57	-	Combined Record	149	-	-	Single residential dwelling	$514,000	0.63
+2013	400892	52 Lynch Street	15/03/2013	04/06/2013	15/11/2012	$770,000	1261m	Full transfer	3	1	1	2	3	$770,000	120	-	Combined Record	184	-	-	Single residential dwelling	$550,000	0.71
+2013	399929	            1/13 McNicoll Street	19/04/2013	21/05/2013	-	$750,000	984m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405041	2 Jess Place	08/05/2013	29/07/2013	-	$725,000	905m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397965	9 McNicoll Street	15/03/2013	14/05/2013	13/08/2012	$715,000	954m	Full transfer	4	1	1	1	-	$715,000	214	-	Combined Record	192	-	-	Single residential dwelling	$629,000	0.88
+2013	407903	14 Bamford Street	28/05/2013	06/09/2013	-	$700,000	833m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417092	40 Millen Street	15/11/2013	24/12/2013	24/10/2013	$700,000	842m	Full transfer	3	1	0	0	0	$700,000	22	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.67
+2013	411006	29 Poynton Street	16/08/2013	20/09/2013	30/05/2013	$690,000	833m	Full transfer	3	1	1	1	-	$690,000	78	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.69
+2013	394930	161 Kent Street	06/02/2013	09/04/2013	05/10/2012	$685,000	824m	Full transfer	3	1	1	2	-	$685,000	124	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.7
+2013	396971	27 Lynch Street	24/05/2013	-	10/05/2013	$675,000	946m	Full transfer	4	1	1	2	-	$675,000	14	-	Allhomes Record	-	-	-	-	$430,000	0.64
+2013	411004	38 Kitchener Street	14/08/2013	19/09/2013	18/06/2013	$670,000	736m	Full transfer	4	1	1	1	-	$670,000	57	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.63
+2013	396458	20 Wisdom Street	06/03/2013	22/04/2013	22/01/2013	$670,000	758m	Full transfer	3	1	1	2	-	$670,000	43	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.63
+2013	396455	9 Wynter Place	14/03/2013	23/04/2013	-	$650,000	836m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404183	61 Kitchener Street	17/05/2013	01/07/2013	25/01/2013	$645,000	785m	Full transfer	4	1	1	-	2	$645,000	112	-	Combined Record	163	-	-	Single residential dwelling	$422,000	0.65
+2013	413291	70 Groom Place	24/08/2013	04/11/2013	25/07/2013	$632,000	744m	Full transfer	3	1	-	2	-	$632,000	30	-	Combined Record	138	-	-	Single residential dwelling	$467,000	0.74
+2013	411341	30 Poynton Street	17/08/2013	15/10/2013	03/07/2013	$602,000	796m	Full transfer	3	1	-	1	1	$602,000	45	-	Combined Record	107	-	-	Single residential dwelling	$480,000	0.8
+2013	410408	21 Webster Street	29/06/2013	10/09/2013	22/05/2013	$600,000	708m	Full transfer	3	1	-	-	1	$600,000	38	-	Combined Record	140	-	-	Single residential dwelling	$423,000	0.71
+2013	420065	59 Jensen Street	12/12/2013	07/02/2014	04/11/2013	$595,000	635m	Full transfer	3	1	-	1	1	$595,000	38	-	Combined Record	105	-	-	Single residential dwelling	$477,000	0.8
+2013	411797	10 Carroll Street	11/07/2013	24/10/2013	15/10/2013	$585,000	356m	Full transfer	3	1	-	0	1	$585,000	-	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.46
+2013	397967	16 Bamford Street	04/03/2013	13/05/2013	24/01/2013	$580,000	723m	Full transfer	3	1	-	2	-	$580,000	39	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.83
+2013	404767	3 Coxen Street	28/08/2013	-	13/06/2013	$546,000	280m	Full transfer	3	1	-	-	1	$546,000	76	-	Allhomes Record	-	-	-	-	$549,000	1.01
+2013	411340	1/3 Coxen Street	28/08/2013	16/10/2013	-	$546,000	947m	Full transfer	-	-	-	-	-	$546,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	420063	1/67 Groom Street	14/11/2013	04/02/2014	04/10/2013	$485,000	945m	Full transfer	2	1	0	0	1	$485,000	41	-	Combined Record	-	-	-	Multiple unit dwelling	$435,000	0.9
+2013	393968	86/27 Coxen Street	25/01/2013	21/03/2013	26/11/2012	$225,000	15678m	Full transfer	1	1	-	-	-	$225,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	$8,648,000	38.44
+2013	411001	64/27 Coxen Street	02/08/2013	20/09/2013	27/06/2013	$215,000	15678m	Full transfer	1	1	-	-	-	$215,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	$8,648,000	40.22
+2013	419399	4 Maygar Street	18/10/2013	11/02/2014	-	$183,333	720m	Full transfer	-	-	-	-	-	$183,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	393468	46/27 Coxen Street	25/01/2013	07/03/2013	-	$175,000	15678m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	409676	1/27 Coxen Street	04/06/2013	-	18/10/2013	$173,000	0m	Full transfer	0	1	-	0	1	$173,000	-	-	Allhomes Record	-	-	-	-	$9,080,000	52.49
+2013	405236	1/27 Coxen Street	03/06/2013	25/07/2013	04/04/2013	$173,000	15678m	Full transfer	0	1	-	0	1	$173,000	60	-	Combined Record	-	-	-	Multiple unit dwelling	$8,648,000	49.99
+2013	400891	18/27 Coxen Street	11/02/2013	04/06/2013	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	537070	5 Poynton Street	15/05/2013	06/07/2018	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411003	3 Spence Place	03/08/2013	16/09/2013	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	432439	26 Glynn Place	29/09/2013	04/08/2014	-	$0	1048m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404185	42 Glynn Place	10/05/2013	02/07/2013	-	$0	835m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	422787	4 Hyde Place	16/10/2013	25/03/2014	-	$0	832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	395322	16 Bamford Street	27/01/2013	16/04/2013	-	$0	723m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400668	25 Lynch Street	20/03/2013	28/05/2013	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428227	56 Poynton Street	30/10/2013	22/05/2014	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428552	37 Webster Street	16/11/2013	03/06/2014	-	$0	855m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418427	27 McNicoll Place	20/02/2013	06/01/2014	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413295	            1/10 Glynn Street	15/02/2013	07/11/2013	-	$0	1040m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413296	20 Wynter Place	28/07/2013	06/11/2013	-	$0	960m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	414465	6 Leane Street	19/09/2013	26/11/2013	-	$0	830m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424460	10 Birdwood Street	25/12/2013	24/04/2014	-	$0	807m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	405238	40 Millen Street	27/04/2013	25/07/2013	-	$0	842m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411000	75 Carroll Street	06/08/2013	20/09/2013	-	$0	612m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	407902	2/9 Bisdee Street	03/02/2013	02/09/2013	-	$0	1832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442873	4 Higgs Place	13/09/2014	08/01/2015	21/08/2014	$1,290,000	709m	Full transfer	4	2	1	2	0	$1,290,000	23	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.43
+2014	443758	16 Goble Street	23/10/2014	21/01/2015	06/08/2014	$1,120,000	782m	Full transfer	4	1	1	2	0	$1,120,000	78	-	Combined Record	-	-	-	Single residential dwelling	$667,000	0.6
+2014	426449	13 Downes Place	15/02/2014	06/05/2014	21/01/2014	$1,115,000	928m	Full transfer	4	3	-	2	0	$1,115,000	25	-	Combined Record	-	-	-	Single residential dwelling	$832,000	0.75
+2014	432953	13 Wylly Place	01/07/2014	14/08/2014	-	$1,050,000	1342m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434005	10 Leane Street	24/05/2014	29/08/2014	17/04/2014	$1,040,000	726m	Full transfer	5	2	1	3	-	$1,040,000	37	-	Combined Record	-	-	-	Single residential dwelling	$483,000	0.46
+2014	427595	43 Glasgow Street	22/02/2014	30/04/2014	09/01/2014	$955,000	862m	Full transfer	4	1	1	2	-	$955,000	44	-	Combined Record	185	-	-	Single residential dwelling	$787,000	0.82
+2014	443756	13 Leane Street	15/11/2014	19/01/2015	02/10/2014	$930,000	964m	Full transfer	4	1	1	1	-	$930,000	44	-	Combined Record	-	-	-	Single residential dwelling	$550,000	0.59
+2014	437845	9 Colvin Street	21/06/2014	22/10/2014	28/05/2014	$885,000	930m	Full transfer	5	1	1	4	0	$885,000	24	-	Combined Record	-	-	-	Single residential dwelling	$597,000	0.67
+2014	430619	84 Groom Street	26/05/2014	03/07/2014	30/04/2014	$870,000	801m	Full transfer	4	1	1	2	-	$870,000	26	-	Combined Record	241	-	-	Single residential dwelling	$453,000	0.52
+2014	441617	27 Millen Street	11/10/2014	10/12/2014	11/09/2014	$860,000	1011m	Full transfer	5	1	2	1	1	$860,000	30	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.65
+2014	450278	12 Smyth Place	06/12/2014	16/04/2015	09/10/2014	$840,000	851m	Full transfer	3	1	1	1	-	$840,000	58	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.75
+2014	448003	5 Glynn Street	13/12/2014	18/03/2015	11/11/2014	$832,000	738m	Full transfer	3	1	1	-	1	$832,000	32	-	Combined Record	-	-	-	Single residential dwelling	$651,000	0.78
+2014	429360	82 Birdwood Street	19/07/2014	-	24/06/2014	$830,000	1027m	Full transfer	3	1	1	2	0	$830,000	25	-	Allhomes Record	-	-	-	-	$678,000	0.82
+2014	435662	2/82 Birdwood Street	19/07/2014	15/09/2014	-	$830,000	1027m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432437	6 Leane Street	12/06/2014	04/08/2014	28/04/2014	$795,000	830m	Full transfer	3	1	-	2	-	$795,000	45	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.65
+2014	442875	44 Poynton Street	08/11/2014	08/01/2015	16/10/2014	$795,000	707m	Full transfer	3	1	1	2	0	$795,000	23	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.6
+2014	427593	60 Jensen Street	01/03/2014	30/04/2014	03/02/2014	$793,000	1046m	Full transfer	5	2	-	1	0	$793,000	26	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.57
+2014	419162	60 Jensen Street	03/03/2014	-	04/02/2014	$793,000	1046m	Full transfer	5	2	-	1	-	$793,000	27	-	Allhomes Record	-	-	-	-	$453,000	0.57
+2014	446751	2 Jensen Street	22/12/2014	13/02/2015	19/08/2014	$792,500	1117m	Full transfer	4	3	0	2	0	$792,500	125	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.57
+2014	441619	73 Kitchener Street	24/10/2014	11/12/2014	16/10/2014	$777,000	914m	Full transfer	3	2	-	2	-	$777,000	8	-	Combined Record	217	-	-	Single residential dwelling	$423,000	0.54
+2014	451382	2/17 Kitchener Street	28/08/2014	21/04/2015	-	$767,000	940m	Full transfer	-	-	-	-	-	$767,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432100	22A Poynton Street	08/05/2014	30/07/2014	-	$765,000	485m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439508	21 Wisdom Street	22/07/2014	11/11/2014	25/06/2014	$737,500	778m	Partial transfer	3	1	-	1	-	$737,500	27	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.54
+2014	446753	2/21 McNicoll Place	19/12/2014	10/02/2015	28/08/2014	$730,000	940m	Full transfer	3	1	1	2	-	$730,000	113	-	Combined Record	138	-	-	Multiple unit dwelling	$611,000	0.84
+2014	423763	33 Kitchener Street	02/05/2014	-	27/03/2014	$710,000	819m	Full transfer	3	2	0	3	-	$710,000	36	-	Allhomes Record	-	-	-	-	$549,000	0.77
+2014	429510	1/33 Kitchener Street	02/05/2014	18/06/2014	-	$710,000	819m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427121	46 Groom Street	22/03/2014	12/05/2014	26/02/2014	$705,000	856m	Full transfer	3	1	1	-	2	$705,000	24	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.63
+2014	441233	48 Glynn Street	31/07/2014	05/12/2014	11/06/2014	$699,000	837m	Full transfer	4	1	1	2	-	$699,000	50	-	Combined Record	-	-	-	Single residential dwelling	$588,000	0.84
+2014	429508	31 Goble Street	10/05/2014	19/06/2014	09/04/2014	$676,000	770m	Full transfer	4	2	-	2	-	$676,000	31	-	Combined Record	-	-	-	Single residential dwelling	$624,000	0.92
+2014	430622	4 Mahon Place	24/05/2014	02/07/2014	30/04/2014	$656,000	840m	Full transfer	3	1	1	2	-	$656,000	24	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.93
+2014	430239	14 Coxen Street	31/05/2014	09/07/2014	07/05/2014	$652,000	855m	Full transfer	3	2	-	1	-	$652,000	24	-	Combined Record	173	-	-	Single residential dwelling	$398,000	0.61
+2014	424299	15 Lynch Street	01/02/2014	10/04/2014	04/12/2013	$650,000	868m	Full transfer	3	2	0	0	1	$650,000	59	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.85
+2014	441231	10 Jensen Street	25/09/2014	02/12/2014	16/06/2014	$643,000	768m	Full transfer	4	1	-	1	1	$643,000	101	-	Combined Record	105	-	-	Single residential dwelling	$431,000	0.67
+2014	442165	20 Wynter Place	05/09/2014	17/12/2014	-	$640,000	960m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447999	56 Jensen Street	22/11/2014	20/03/2015	20/10/2014	$625,000	980m	Full transfer	3	1	-	-	1	$625,000	33	-	Combined Record	100	-	-	Single residential dwelling...	$412,000	0.66
+2014	442427	50 Poynton Street	01/11/2014	02/01/2015	06/10/2014	$625,000	705m	Full transfer	3	1	-	-	1	$625,000	26	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.75
+2014	441615	21 Webster Street	08/11/2014	12/12/2014	11/09/2014	$612,000	708m	Full transfer	3	1	-	-	-	$612,000	58	-	Combined Record	140	-	-	Single residential dwelling	$423,000	0.69
+2014	443754	39 McNicoll Place	30/08/2014	19/01/2015	31/07/2014	$607,000	642m	Full transfer	3	1	-	-	-	$607,000	30	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.92
+2014	431856	8 Pope Street	09/08/2014	-	03/06/2014	$591,500	1016m	Full transfer	3	1	-	-	1	$591,500	67	-	Allhomes Record	-	-	-	-	$500,000	0.85
+2014	448001	55 Millen Street	29/11/2014	18/03/2015	06/11/2014	$585,000	734m	Full transfer	3	2	0	0	2	$585,000	23	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.85
+2014	443438	22 Carroll Street	22/12/2014	13/01/2015	14/10/2014	$573,000	353m	Full transfer	-	-	-	-	-	$573,000	69	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.47
+2014	422785	36 Kitchener Street	24/01/2014	25/03/2014	25/09/2013	$569,000	800m	Full transfer	3	1	-	1	1	$569,000	121	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.74
+2014	427119	45 Carroll Street	25/03/2014	13/05/2014	24/02/2014	$548,000	319m	Full transfer	3	1	0	0	1	$548,000	29	-	Combined Record	-	-	-	Single residential dwelling	$246,000	0.45
+2014	431093	48 Carroll Street	13/06/2014	17/07/2014	-	$545,000	327m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442871	187 Kent Street	27/10/2014	08/01/2015	13/08/2014	$535,000	634m	Full transfer	3	1	-	-	1	$535,000	75	-	Combined Record	-	-	-	Medium density dwelling	$398,000	0.74
+2014	443440	2/67 Groom Street	31/10/2014	15/01/2015	-	$495,000	945m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438935	80/27 Coxen Street	19/09/2014	06/11/2014	08/05/2014	$272,500	15678m	Full transfer	1	1	0	0	0	$272,500	134	-	Combined Record	-	-	-	Multiple unit dwelling	$9,080,000	33.32
+2014	435660	35/27 Coxen Street	11/08/2014	19/09/2014	26/06/2014	$216,000	15678m	Full transfer	1	1	-	-	-	$216,000	46	-	Combined Record	49	-	-	Multiple unit dwelling	$9,080,000	42.04
+2014	440483	61/27 Coxen Street	11/12/2014	-	31/10/2014	$215,000	15678m	Full transfer	1	1	-	-	-	$215,000	41	-	Allhomes Record	-	-	-	-	$9,080,000	42.23
+2014	421573	47/27 Coxen Street	17/01/2014	17/02/2014	22/11/2013	$185,000	15678m	Full transfer	-	1	-	-	-	$185,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	$9,080,000	49.08
+2014	431091	14/27 Coxen Street	27/06/2014	17/07/2014	26/05/2014	$142,000	15678m	Full transfer	1	1	-	-	1	$142,000	32	-	Combined Record	-	-	-	Multiple unit dwelling	$9,080,000	63.94
+2014	436134	8 Pope Street	18/09/2014	25/09/2014	-	$0	1016m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	470043	199 Kent Street	02/06/2014	04/02/2016	-	$0	496m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	432436	22B Poynton Street	11/04/2014	07/08/2014	-	$0	480m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434004	18 Wisdom Street	03/06/2014	25/08/2014	-	$0	808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441230	61/27 Coxen Street	04/08/2014	04/12/2014	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	449844	10 Pope Street	12/12/2014	08/04/2015	-	$0	1114m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433552	55 Millen Street	16/01/2014	18/08/2014	-	$0	734m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434341	41 Kitchener Street	11/05/2014	04/09/2014	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432101	22A Poynton Street	11/04/2014	30/07/2014	-	$0	485m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	465124	3 Wisdom Place	19/11/2014	29/10/2015	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	481945	32 Bamford Street	11/08/2014	21/07/2016	-	$0	1061m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426754	3 Jensen Street	20/03/2014	30/05/2014	-	$0	732m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432952	83/27 Coxen Street	01/07/2014	11/08/2014	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	443441	10 Bamford Street	14/11/2014	15/01/2015	01/10/2014	$0	695m	Full transfer	4	2	-	2	-	$0	44	-	Combined Record	-	-	-	Single residential dwelling	$477,000	63.94
+2014	450296	18 Poynton Street	16/12/2014	14/04/2015	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438113	3 Birdwood Street	06/09/2014	16/10/2014	02/07/2014	$0	781m	Full transfer	3	1	-	2	-	$0	66	-	Combined Record	-	-	-	Single residential dwelling	$469,000	63.94
+2014	430621	2 Wisdom Place	14/03/2014	30/06/2014	-	$0	828m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465312	37 Millen Street	04/09/2015	03/11/2015	-	$1,300,000	749m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457849	55 Glasgow Street	30/05/2015	13/07/2015	06/05/2015	$1,270,000	972m	Full transfer	4	1	1	1	-	$1,270,000	24	-	Combined Record	-	-	-	Single residential dwelling	$823,000	0.65
+2015	463075	23 Brand Street	27/06/2015	06/10/2015	04/06/2015	$1,261,000	1121m	Full transfer	4	2	1	2	0	$1,261,000	23	-	Combined Record	-	-	-	Single residential dwelling	$563,000	0.45
+2015	455192	1 Colvin Street	11/04/2015	16/06/2015	12/03/2015	$1,060,000	1043m	Full transfer	4	1	1	2	0	$1,060,000	30	-	Combined Record	-	-	-	Single residential dwelling	$556,000	0.52
+2015	460207	            52 McNicoll Street	13/06/2015	28/08/2015	-	$1,045,000	970m	Full transfer	-	-	-	-	-	$1,045,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	453627	68 Kitchener Street	13/06/2015	-	21/05/2015	$1,045,000	970m	Full transfer	4	1	1	0	0	$1,045,000	23	-	Allhomes Record	-	-	-	-	$430,000	0.41
+2015	467781	30 Birdwood Street	19/09/2015	22/12/2015	08/05/2015	$1,020,000	1302m	Full transfer	3	1	-	3	-	$1,020,000	134	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.64
+2015	457322	35 Millen Street	28/03/2015	30/06/2015	05/06/2015	$1,017,500	771m	Full transfer	3	2	-	2	0	$1,017,500	-	-	Combined Record	-	-	-	Single residential dwelling	$602,000	0.59
+2015	466679	7 Colvin Street	10/10/2015	23/11/2015	12/08/2015	$995,000	948m	Full transfer	3	2	1	2	-	$995,000	59	-	Combined Record	-	-	-	Single residential dwelling	$604,000	0.61
+2015	465706	            1/17 Kitchener Street	07/10/2015	11/11/2015	-	$960,000	940m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461885	2 Wynter Place	07/10/2015	-	25/09/2015	$960,000	211m	Full transfer	4	2	-	2	0	$960,000	12	-	Allhomes Record	211	-	-	-	$600,000	0.63
+2015	463070	26 Bamford Street	12/08/2015	07/10/2015	25/06/2015	$951,000	753m	Full transfer	4	1	1	1	1	$951,000	48	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.54
+2015	444513	20 Goble Street	17/02/2015	-	18/09/2014	$945,000	1327m	Full transfer	3	1	1	0	2	$945,000	152	-	Allhomes Record	-	-	-	-	$746,000	0.79
+2015	472314	11 Glasgow Place	16/12/2015	23/02/2016	25/11/2015	$940,000	784m	Full transfer	4	1	1	1	-	$940,000	21	-	Combined Record	196	-	-	Single residential dwelling	$653,000	0.69
+2015	463079	3 Smyth Place	08/08/2015	07/10/2015	09/07/2015	$910,000	735m	Full transfer	4	1	1	1	1	$910,000	30	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.58
+2015	454002	14 Wylly Place	19/02/2015	03/06/2015	-	$905,000	899m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463072	19 Lynch Street	01/08/2015	09/10/2015	09/07/2015	$900,000	761m	Full transfer	4	2	0	2	0	$900,000	23	-	Combined Record	-	-	-	Single residential dwelling	$533,000	0.59
+2015	457008	25 Bamford Street	28/03/2015	23/06/2015	03/03/2015	$875,000	699m	Full transfer	4	1	1	0	2	$875,000	25	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.55
+2015	472302	17 Millen Street	06/11/2015	23/02/2016	12/10/2015	$865,000	856m	Full transfer	4	1	1	1	1	$865,000	25	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.58
+2015	441995	15 Kitchener Street	16/01/2015	-	19/11/2014	$835,000	854m	Full transfer	4	1	1	2	-	$835,000	58	-	Allhomes Record	-	-	-	-	$588,000	0.7
+2015	461738	10 Glynn Street	01/10/2015	-	03/09/2015	$805,000	1040m	Full transfer	3	1	1	1	-	$805,000	28	-	Allhomes Record	-	-	-	-	$746,000	0.93
+2015	465322	2/10 Glynn Street	01/10/2015	06/11/2015	-	$805,000	1040m	Full transfer	-	-	-	-	-	$805,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	451892	            2/12 Kitchener Street	17/02/2015	07/05/2015	-	$795,000	796m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444738	12 Kitchener Street	17/02/2015	-	22/10/2014	$795,000	796m	Full transfer	4	1	1	2	-	$795,000	118	-	Allhomes Record	-	-	-	-	$520,000	0.65
+2015	453432	21 Kitchener Street	24/04/2015	29/05/2015	24/02/2015	$792,500	797m	Full transfer	4	2	1	2	0	$792,500	59	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.6
+2015	466846	1 Mahon Place	11/12/2015	-	02/11/2015	$780,000	949m	Full transfer	3	1	-	2	-	$780,000	39	-	Allhomes Record	-	-	-	-	$557,000	0.71
+2015	471554	            55 McNicoll Street	10/12/2015	17/02/2016	-	$780,000	949m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468693	4/26 Poynton Street	06/11/2015	04/01/2016	03/09/2015	$780,000	1418m	Full transfer	3	0	3	2	0	$780,000	64	-	Combined Record	-	-	-	Multiple unit dwelling	$1,010,000	1.29
+2015	465717	2/26 Poynton Street	19/09/2015	12/11/2015	16/08/2015	$780,000	1418m	Full transfer	3	-	3	2	-	$780,000	34	-	Combined Record	132	-	-	Multiple unit dwelling	$1,010,000	1.29
+2015	451894	            1/12 Kitchener Street	09/02/2015	06/05/2015	-	$771,000	796m	Full transfer	-	-	-	-	-	$771,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	441012	45B Webster Street	06/01/2015	-	03/12/2014	$765,000	428m	Full transfer	3	1	1	2	0	$765,000	34	-	Allhomes Record	-	-	-	-	$511,000	0.67
+2015	446354	            2/45A Webster Street	06/01/2015	18/02/2015	-	$765,000	856m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	473791	45 Kitchener Street	13/11/2015	22/03/2016	28/10/2015	$750,000	725m	Full transfer	4	2	-	1	-	$750,000	16	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.58
+2015	467795	19 Conyers Street	07/11/2015	23/12/2015	14/10/2015	$726,000	779m	Full transfer	3	1	-	2	-	$726,000	24	-	Combined Record	107	-	-	Single residential dwelling	$447,000	0.62
+2015	471549	1 Pope Street	12/12/2015	15/02/2016	19/11/2015	$710,000	1022m	Full transfer	3	1	-	-	2	$710,000	23	-	Combined Record	-	-	-	Single residential dwelling	$467,000	0.66
+2015	451015	18 Poynton Street	10/03/2015	29/04/2015	22/01/2015	$685,000	817m	Full transfer	3	1	-	1	-	$685,000	47	-	Combined Record	-	-	-	Single residential dwelling	$541,000	0.79
+2015	475309	1/9 Bisdee Street	24/04/2015	14/04/2016	07/04/2015	$678,000	1832m	Full transfer	3	3	-	2	-	$678,000	17	-	Combined Record	-	-	-	Multiple unit dwelling	$1,450,000	2.14
+2015	461498	5 Conyers Street	23/06/2015	10/09/2015	29/05/2015	$641,000	790m	Full transfer	3	1	-	-	-	$641,000	25	-	Combined Record	-	-	-	Single residential dwelling...	$389,000	0.61
+2015	452802	29 Kitchener Street	17/03/2015	17/05/2015	-	$605,000	836m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463069	1/9A Spence Place	01/08/2015	06/10/2015	-	$602,500	1033m	Full transfer	-	-	-	-	-	$602,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457573	9A Spence Place	01/08/2015	-	02/07/2015	$602,500	475m	Full transfer	3	1	0	1	0	$602,500	30	-	Allhomes Record	-	-	-	-	$734,000	1.22
+2015	457319	48 Carroll Street	11/05/2015	30/06/2015	-	$562,500	328m	Full transfer	-	-	-	-	-	$562,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457320	51 Groom Street	02/05/2015	29/06/2015	04/03/2015	$522,500	247m	Full transfer	2	1	-	-	1	$522,500	59	-	Combined Record	95	-	-	Single residential dwelling	$252,000	0.48
+2015	454011	            6/1 Carroll Street	20/04/2015	02/06/2015	-	$300,000	2399m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449608	6/7 Coxen Street	21/04/2015	-	12/11/2014	$300,000	-	Full transfer	2	1	-	-	1	$300,000	160	-	Allhomes Record	52	-	-	-	$1,820,000	6.07
+2015	470729	12/7 Wark Street	13/11/2015	10/02/2016	-	$292,500	2356m	Full transfer	-	-	-	-	-	$292,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464269	12/5 Carroll Street	13/11/2015	-	09/09/2015	$292,500	-	Full transfer	2	1	-	-	-	$292,500	65	-	Allhomes Record	57	-	-	-	$1,820,000	6.22
+2015	468163	            6/7 Wark Street	11/09/2015	15/12/2015	-	$285,000	2356m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461212	22/27 Coxen Street	15/05/2015	01/09/2015	-	$215,000	15678m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	455193	8/27 Coxen Street	01/05/2015	16/06/2015	09/01/2014	$170,000	15678m	Full transfer	0	1	0	0	0	$170,000	477	-	Combined Record	-	-	-	Multiple unit dwelling	$87,040	0.51
+2015	471548	4/27 Coxen Street	11/12/2015	15/02/2016	-	$162,500	15678m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	481971	21 Brand Street	28/08/2015	19/07/2016	-	$0	1134m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463077	1/26 Poynton Street	30/06/2015	08/10/2015	14/05/2015	$0	1418m	Full transfer	4	1	1	2	0	$0	47	-	Combined Record	-	-	-	Multiple unit dwelling	$1,010,000	0.51
+2015	465323	24 Wynter Place	09/04/2015	03/11/2015	-	$0	787m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458449	10 Downes Place	20/06/2015	27/07/2015	-	$0	1380m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	447998	1/15 Kitchener Street	15/01/2015	18/03/2015	-	$0	854m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448763	18 Bamford Street	31/01/2015	23/03/2015	-	$0	665m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461236	10 Tudor Place	13/06/2015	31/08/2015	19/05/2015	$0	823m	Full transfer	3	2	1	2	-	$0	25	-	Combined Record	-	-	-	Single residential dwelling	$651,000	0.51
+2015	456997	4 Hyde Place	21/03/2015	23/06/2015	23/02/2015	$0	832m	Full transfer	4	1	1	2	0	$0	26	-	Combined Record	-	-	-	Single residential dwelling	$593,000	0.51
+2015	450280	17 Goble Street	18/02/2015	16/04/2015	02/02/2015	$0	912m	Full transfer	5	3	1	2	-	$0	16	-	Combined Record	-	-	-	Single residential dwelling	$702,000	0.51
+2015	464813	7 Colvin Street	28/03/2015	22/10/2015	-	$0	948m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	493272	13 Goble Street	06/11/2015	08/12/2016	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	497946	177 Kent Street	24/06/2015	16/02/2017	-	$0	517m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2016	497640	29 Colvin Street	30/10/2016	21/02/2017	06/10/2016	$1,467,000	1357m	Full transfer	4	1	1	0	2	$1,467,000	24	-	Combined Record	-	-	-	Single residential dwelling	$750,000	0.51
+2016	493246	43 Glasgow Street	07/09/2016	06/12/2016	07/04/2016	$1,330,000	862m	Full transfer	4	1	1	2	-	$1,330,000	153	-	Combined Record	-	-	-	Single residential dwelling	$812,000	0.61
+2016	495796	12 Downes Place	10/11/2016	31/01/2017	20/10/2016	$1,210,000	1101m	Full transfer	4	3	-	2	0	$1,210,000	21	-	Combined Record	-	-	-	Single residential dwelling	$827,000	0.68
+2016	514269	4 Colvin Street	17/12/2016	29/06/2017	24/11/2016	$1,200,000	1101m	Full transfer	4	3	-	2	1	$1,200,000	23	-	Combined Record	-	-	-	Single residential dwelling	$666,000	0.56
+2016	503134	13 Hyde Place	01/12/2016	06/04/2017	-	$1,180,000	1103m	Full transfer	-	-	-	-	-	$1,180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492631	4 Glasgow Street	14/12/2016	14/12/2016	29/09/2016	$1,130,000	1202m	Full transfer	-	-	-	-	-	$1,130,000	76	-	Combined Record	-	-	-	Single residential dwelling	$699,000	0.62
+2016	476603	4 Tivey Place	09/03/2016	28/04/2016	17/02/2016	$1,090,000	1010m	Full transfer	4	1	1	1	1	$1,090,000	21	-	Combined Record	-	-	-	Single residential dwelling	$605,000	0.56
+2016	491428	5 Higgs Place	03/09/2016	23/11/2016	11/08/2016	$1,090,000	759m	Full transfer	3	1	1	-	1	$1,090,000	23	-	Combined Record	220	-	-	Single residential dwelling	$585,000	0.54
+2016	489068	32 Bamford Street	10/09/2016	27/10/2016	17/08/2016	$1,045,000	1061m	Full transfer	4	1	1	2	0	$1,045,000	24	-	Combined Record	-	-	-	Single residential dwelling	$617,000	0.59
+2016	477432	51 Glasgow Street	30/05/2016	-	23/04/2016	$1,012,000	1363m	Full transfer	-	-	-	-	-	$1,012,000	37	-	Allhomes Record	-	-	-	-	$859,000	0.85
+2016	478769	5 Bisdee Street	23/02/2016	24/05/2016	05/02/2016	$1,010,000	762m	Full transfer	4	1	1	2	-	$1,010,000	18	-	Combined Record	205	-	-	Single residential dwelling	$433,000	0.43
+2016	495649	1 Webster Street	26/08/2016	02/02/2017	17/03/2016	$990,000	877m	Full transfer	6	2	1	0	2	$990,000	162	-	Combined Record	-	-	-	Multiple unit dwelling	$600,000	0.61
+2016	478192	4 Wynter Place	02/04/2016	19/05/2016	01/03/2016	$971,000	776m	Full transfer	4	1	1	1	1	$971,000	32	-	Combined Record	-	-	-	Single residential dwelling	$581,000	0.6
+2016	482219	26 Goble Street	30/04/2016	19/07/2016	07/04/2016	$945,000	1012m	Full transfer	4	1	0	2	0	$945,000	23	-	Combined Record	-	-	-	Single residential dwelling	$749,000	0.79
+2016	479730	74 Kitchener Street	28/06/2016	-	31/05/2016	$935,000	-	Full transfer	-	-	-	-	-	$935,000	28	-	Allhomes Record	-	-	-	-	$550,000	0.59
+2016	490585	38 Coxen Street	27/08/2016	16/11/2016	04/08/2016	$916,000	1115m	Full transfer	3	1	0	2	1	$916,000	23	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.48
+2016	486533	25 Goble Street	23/07/2016	12/09/2016	01/07/2016	$900,000	705m	Full transfer	3	1	-	0	1	$900,000	22	-	Combined Record	-	-	-	Single residential dwelling	$655,000	0.73
+2016	495579	5 Brand Street	22/10/2016	02/02/2017	28/09/2016	$875,000	999m	Full transfer	3	2	-	1	-	$875,000	24	-	Combined Record	131	-	-	Single residential dwelling	$501,000	0.57
+2016	478195	14 Glynn Place	18/03/2016	17/05/2016	02/12/2015	$865,000	1030m	Full transfer	4	1	1	3	0	$865,000	107	-	Combined Record	-	-	-	Single residential dwelling	$655,000	0.76
+2016	488131	7 Spence Place	17/08/2016	11/10/2016	11/08/2016	$820,000	822m	Full transfer	4	1	1	1	0	$820,000	6	-	Combined Record	-	-	-	Single residential dwelling	$585,000	0.71
+2016	481965	63 Webster Street	15/04/2016	19/07/2016	22/03/2016	$795,000	1018m	Full transfer	3	1	1	-	2	$795,000	24	-	Combined Record	-	-	-	Single residential dwelling	$469,000	0.59
+2016	493770	17 Pope Street	21/10/2016	20/12/2016	06/10/2016	$790,000	768m	Full transfer	3	1	-	1	0	$790,000	15	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.63
+2016	492808	            2/69A Webster Street	11/07/2016	16/12/2016	-	$780,000	1189m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479239	15 McNicoll Street	09/04/2016	02/06/2016	23/02/2016	$775,000	796m	Full transfer	3	1	-	1	-	$775,000	46	-	Combined Record	-	-	-	Single residential dwelling	$560,000	0.72
+2016	479090	54 Wisdom Street	25/06/2016	-	31/05/2016	$765,000	836m	Full transfer	3	1	0	1	0	$765,000	25	-	Allhomes Record	-	-	-	-	$418,000	0.55
+2016	490562	46 Wisdom Street	27/09/2016	17/11/2016	26/08/2016	$722,000	859m	Full transfer	3	1	-	1	-	$722,000	32	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.63
+2016	481920	37 Bamford Street	14/05/2016	19/07/2016	18/04/2016	$720,000	788m	Full transfer	3	1	-	-	1	$720,000	26	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.73
+2016	486479	38 Millen Street	18/06/2016	12/09/2016	28/04/2016	$707,000	733m	Full transfer	3	1	-	-	1	$707,000	51	-	Combined Record	-	-	-	Single residential dwelling	$540,000	0.76
+2016	479237	3 Wisdom Place	02/04/2016	03/06/2016	10/03/2016	$687,000	840m	Full transfer	3	1	-	0	1	$687,000	23	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.76
+2016	488895	41 Kitchener Street	06/08/2016	27/10/2016	14/07/2016	$686,000	797m	Full transfer	3	1	0	1	0	$686,000	23	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.66
+2016	479246	199 Kent Street	17/02/2016	30/05/2016	22/10/2015	$645,000	496m	Full transfer	4	1	1	-	2	$645,000	118	-	Combined Record	-	-	-	Medium density dwelling	$393,000	0.61
+2016	478190	54 Carroll Street	23/03/2016	17/05/2016	29/02/2016	$640,000	328m	Full transfer	3	1	-	-	1	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.4
+2016	498284	9/9 Bisdee Street	16/12/2016	13/02/2017	02/08/2016	$640,000	1832m	Full transfer	3	1	2	2	-	$640,000	136	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	482677	56 Carroll Street	20/08/2016	-	07/04/2016	$625,000	328m	Full transfer	3	1	-	-	1	$625,000	135	-	Allhomes Record	-	-	-	-	$258,000	0.41
+2016	490117	54 Carroll Street	20/08/2016	09/11/2016	-	$625,000	328m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497592	76 Carroll Street	19/11/2016	23/02/2017	06/10/2016	$624,000	326m	Full transfer	2	1	-	-	1	$624,000	44	-	Combined Record	-	-	-	Single residential dwelling	$258,000	0.41
+2016	497552	181 Kent Street	21/12/2016	21/02/2017	22/11/2016	$600,000	640m	Full transfer	3	-	-	-	1	$600,000	29	-	Combined Record	-	-	-	Medium density dwelling	$444,000	0.74
+2016	481115	9 Maygar Street	09/06/2016	07/07/2016	-	$600,000	845m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477606	62 Carroll Street	12/03/2016	12/05/2016	18/02/2016	$585,000	334m	Full transfer	3	1	-	-	1	$585,000	23	-	Combined Record	112	-	-	Single residential dwelling	$272,000	0.46
+2016	485058	37 Groom Street	04/06/2016	16/08/2016	05/05/2016	$550,000	411m	Full transfer	2	1	-	-	1	$550,000	30	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.68
+2016	480021	            2/32 Glynn Place	09/04/2016	24/06/2016	-	$420,000	857m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	473954	32A Glynn Place	09/04/2016	-	01/03/2016	$420,000	-	Full transfer	2	1	-	-	1	$420,000	39	-	Allhomes Record	-	-	-	-	$712,000	1.7
+2016	486315	91/27 Coxen Street	22/07/2016	05/09/2016	11/05/2016	$391,000	15678m	Full transfer	3	1	1	0	0	$391,000	72	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	478776	11/7 Wark Street	30/03/2016	25/05/2016	-	$251,000	2356m	Full transfer	-	-	-	-	-	$251,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	472786	11/5 Carroll Street	30/03/2016	-	16/07/2015	$251,000	2356m	Full transfer	2	1	-	-	1	$251,000	258	-	Allhomes Record	-	-	-	-	$1,820,000	7.25
+2016	486781	64/27 Coxen Street	19/08/2016	13/09/2016	24/02/2015	$230,000	15678m	Full transfer	1	1	-	-	-	$230,000	542	-	Combined Record	-	-	-	Multiple unit dwelling	$9,080,000	39.48
+2016	477842	83/27 Coxen Street	03/06/2016	-	23/03/2016	$215,000	15678m	Full transfer	1	1	-	-	-	$215,000	72	-	Allhomes Record	-	-	-	-	-	-
+2016	483795	25/27 Coxen Street	05/09/2016	-	03/02/2016	$200,000	15678m	Full transfer	1	1	-	-	-	$200,000	215	-	Allhomes Record	-	-	-	-	-	-
+2016	485467	29/27 Coxen Street	28/09/2016	-	08/12/2015	$194,000	15678m	Full transfer	1	1	0	0	0	$194,000	295	-	Allhomes Record	-	-	-	-	-	-
+2016	486507	25/27 Coxen Street	02/08/2016	13/09/2016	-	$190,000	15678m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486000	43/27 Coxen Street	20/07/2016	30/08/2016	21/03/2016	$149,600	15678m	Full transfer	-	1	-	-	-	$149,600	121	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	482968	24 Glasgow Street	05/04/2016	10/08/2016	-	$0	709m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491383	31 Webster Street	12/07/2016	22/11/2016	-	$0	766m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520436	24 Maygar Street	19/09/2016	07/11/2017	-	$0	1006m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484324	30 Coxen Street	21/07/2016	19/08/2016	-	$0	850m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486542	13 Hyde Place	25/04/2016	14/09/2016	-	$0	1103m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497002	29/27 Coxen Street	27/09/2016	09/02/2017	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487025	19 Colvin Street	14/05/2016	19/09/2016	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500202	10 Wynter Place	07/12/2016	07/03/2017	-	$0	922m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497734	183 Kent Street	11/12/2016	24/02/2017	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	562143	16 Birdwood Street	25/08/2016	05/06/2019	-	$0	883m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481212	41 Kitchener Street	25/02/2016	14/07/2016	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515714	33 Groom Street	13/12/2016	20/07/2017	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	489160	6 Mahon Place	11/08/2016	18/10/2016	-	$0	927m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488903	12 Downes Place	20/06/2016	26/10/2016	-	$0	1101m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483352	25 Glasgow Street	20/03/2016	04/08/2016	-	$0	1092m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	575722	11 Kitchener Street	12/07/2016	05/12/2019	-	$0	539m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	503194	13A Wynter Place	25/08/2016	03/04/2017	-	$0	6990m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Special care establishment	-	-
+2016	495071	33/27 Coxen Street	10/03/2016	10/01/2017	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	524669	18 Lynch Street	31/07/2017	01/02/2018	26/05/2017	$1,760,000	748m	Full transfer	5	2	1	2	-	$1,760,000	66	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.33
+2017	521448	38 Lynch Street	08/07/2017	20/12/2017	26/05/2017	$1,701,000	1111m	Full transfer	4	2	1	2	-	$1,701,000	43	-	Combined Record	322	-	-	Single residential dwelling	$587,000	0.35
+2017	524190	18 Goble Street	23/09/2017	24/01/2018	31/08/2017	$1,665,000	826m	Full transfer	4	2	0	2	0	$1,665,000	23	-	Combined Record	-	-	-	Single residential dwelling	$757,000	0.45
+2017	524364	4 Higgs Place	01/11/2017	24/01/2018	30/08/2017	$1,440,000	709m	Full transfer	4	2	0	2	0	$1,440,000	63	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.42
+2017	520325	38 Millen Street	02/09/2017	01/11/2017	10/08/2017	$1,360,000	733m	Full transfer	4	2	-	2	0	$1,360,000	23	-	Combined Record	-	-	-	Single residential dwelling	$566,000	0.42
+2017	517691	14 Downes Place	29/05/2017	21/08/2017	23/03/2017	$1,340,000	1004m	Full transfer	6	3	-	4	-	$1,340,000	67	-	Combined Record	-	-	-	Single residential dwelling	$890,000	0.66
+2017	529106	36 Brand Street	18/11/2017	26/03/2018	24/10/2017	$1,260,000	985m	Full transfer	6	2	1	2	-	$1,260,000	25	-	Combined Record	-	-	-	Single residential dwelling	$663,000	0.53
+2017	524989	3 Tudor Place	28/10/2017	02/02/2018	05/10/2017	$1,240,000	702m	Full transfer	5	1	2	1	0	$1,240,000	23	-	Combined Record	-	-	-	Single residential dwelling	$625,000	0.5
+2017	524326	25 Glasgow Street	04/11/2017	24/01/2018	12/10/2017	$1,150,000	1092m	Full transfer	4	2	-	2	0	$1,150,000	23	-	Combined Record	-	-	-	Single residential dwelling	$890,000	0.77
+2017	506986	9 Higgs Place	08/08/2017	-	07/07/2017	$1,110,000	0m	Full transfer	-	-	-	-	-	$1,110,000	32	-	Allhomes Record	-	-	-	-	$599,000	0.54
+2017	520862	9 Higgs Place	20/11/2017	20/11/2017	-	$1,110,000	1138m	Full transfer	-	-	-	-	-	$1,110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510287	13 Downes Place	05/12/2017	-	02/11/2017	$1,110,000	923m	Full transfer	-	-	-	-	-	$1,110,000	33	-	Allhomes Record	-	-	-	-	$832,000	0.75
+2017	518005	4 Tivey Place	03/06/2017	29/08/2017	04/05/2017	$1,100,000	1010m	Full transfer	4	2	-	1	1	$1,100,000	30	-	Combined Record	-	-	-	Single residential dwelling	$663,000	0.6
+2017	524291	5 Leane Street	27/10/2017	25/01/2018	05/10/2017	$1,100,000	913m	Full transfer	3	1	-	2	0	$1,100,000	22	-	Combined Record	-	-	-	Single residential dwelling	$621,000	0.56
+2017	520058	20 Goble Street	29/08/2017	27/10/2017	01/06/2017	$1,100,000	1327m	Full transfer	3	2	-	0	2	$1,100,000	89	-	Combined Record	-	-	-	Single residential dwelling	$820,000	0.75
+2017	516176	33 Wisdom Street	06/04/2017	24/07/2017	29/03/2017	$1,085,000	1171m	Full transfer	3	2	-	4	0	$1,085,000	8	-	Combined Record	-	-	-	Single residential dwelling...	$499,000	0.46
+2017	527088	23 McNicoll Place	21/12/2017	05/03/2018	29/11/2017	$1,027,500	773m	Full transfer	3	1	1	2	1	$1,027,500	22	-	Combined Record	-	-	-	Single residential dwelling	$613,000	0.6
+2017	514952	9 Glasgow Place	29/04/2017	03/07/2017	23/12/2016	$1,027,500	853m	Full transfer	4	1	1	-	1	$1,027,500	127	-	Combined Record	-	-	-	Single residential dwelling	$757,000	0.74
+2017	523018	161 Kent Street	30/09/2017	09/01/2018	06/09/2017	$967,000	824m	Full transfer	3	2	-	0	2	$967,000	24	-	Combined Record	-	-	-	Single residential dwelling	$528,000	0.55
+2017	526828	17 Glynn Street	09/12/2017	05/03/2018	16/11/2017	$965,000	851m	Full transfer	4	1	-	3	0	$965,000	23	-	Combined Record	-	-	-	Single residential dwelling	$686,000	0.71
+2017	513344	152 Kent Street	04/03/2017	29/05/2017	21/11/2016	$945,000	1127m	Full transfer	3	1	1	-	1	$945,000	103	-	Combined Record	-	-	-	Single residential dwelling	$528,000	0.56
+2017	512743	1 Jess Place	24/05/2017	24/05/2017	-	$935,000	952m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498745	1 Jess Place	21/03/2017	-	17/02/2017	$935,000	948m	Full transfer	-	-	-	-	-	$935,000	32	-	Allhomes Record	-	-	-	-	$520,000	0.56
+2017	514654	38 Poynton Street	06/07/2017	06/07/2017	21/04/2017	$935,000	1212m	Full transfer	-	-	-	-	-	$935,000	76	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.6
+2017	502824	27 Webster Street	14/02/2017	10/04/2017	10/11/2016	$925,000	797m	Full transfer	5	3	-	2	0	$925,000	96	-	Combined Record	-	-	-	Single residential dwelling	$499,000	0.54
+2017	508089	61 Kitchener Street	18/09/2017	-	07/09/2017	$910,000	0m	Full transfer	4	2	-	0	1	$910,000	11	-	Allhomes Record	-	-	-	-	$464,000	0.51
+2017	521222	70 Groom Place	23/09/2017	04/12/2017	31/08/2017	$910,000	744m	Full transfer	3	1	-	0	2	$910,000	23	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.56
+2017	505114	21 Bamford Street	25/03/2017	05/05/2017	24/01/2017	$887,000	788m	Full transfer	3	1	1	-	1	$887,000	60	-	Combined Record	-	-	-	Single residential dwelling	$528,000	0.6
+2017	506987	9 Brand Street	08/08/2017	-	10/07/2017	$880,000	0m	Full transfer	-	-	-	-	-	$880,000	29	-	Allhomes Record	-	-	-	-	$486,000	0.55
+2017	521081	9 Brand Street	08/12/2017	08/12/2017	-	$880,000	884m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523330	14 Bamford Street	31/10/2017	17/01/2018	22/08/2017	$880,000	833m	Full transfer	3	1	-	2	-	$880,000	70	-	Combined Record	128	-	-	Single residential dwelling	$550,000	0.63
+2017	515688	12 Poynton Street	27/05/2017	18/07/2017	04/05/2017	$875,000	784m	Full transfer	3	2	-	2	0	$875,000	23	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.68
+2017	516323	10 Bamford Street	06/06/2017	08/08/2017	16/05/2017	$875,000	695m	Full transfer	4	2	-	2	0	$875,000	21	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.6
+2017	522468	5 Millen Street	20/10/2017	14/01/2018	12/10/2017	$875,000	699m	Full transfer	5	1	1	-	1	$875,000	8	-	Combined Record	177	-	-	Single residential dwelling	$525,000	0.6
+2017	519586	4 Bamford Street	02/08/2017	13/10/2017	12/07/2017	$865,000	719m	Full transfer	3	1	-	0	1	$865,000	21	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.61
+2017	525033	7 Higgs Place	28/10/2017	30/01/2018	05/10/2017	$850,000	884m	Full transfer	3	1	-	1	-	$850,000	23	-	Combined Record	101	-	-	Single residential dwelling	$646,000	0.76
+2017	509354	10 Glynn Street	09/11/2017	-	31/08/2017	$840,000	0m	Full transfer	3	2	-	1	0	$840,000	70	-	Allhomes Record	-	-	-	-	$820,000	0.98
+2017	523557	2/10 Glynn Street	09/11/2017	15/01/2018	-	$840,000	1040m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504890	43 Millen Street	05/05/2017	05/05/2017	17/02/2017	$820,000	889m	Full transfer	-	-	-	-	-	$820,000	77	-	Combined Record	-	-	-	Single residential dwelling	$740,000	0.9
+2017	520880	30 Glynn Place	08/07/2017	29/11/2017	08/06/2017	$815,000	876m	Full transfer	3	1	-	2	0	$815,000	30	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.79
+2017	506904	8 Wylly Place	08/08/2017	-	07/07/2017	$770,000	790m	Full transfer	-	-	-	-	-	$770,000	32	-	Allhomes Record	-	-	-	-	$512,000	0.66
+2017	519471	8 Wylly Place	10/10/2017	10/10/2017	-	$770,000	791m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504435	15 Goble Street	25/05/2017	-	17/02/2017	$770,000	847m	Full transfer	-	-	-	-	-	$770,000	97	-	Allhomes Record	-	-	-	-	$733,000	0.95
+2017	516126	15 Goble Street	24/07/2017	24/07/2017	-	$770,000	853m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508148	34 Conyers Street	22/09/2017	-	07/07/2017	$770,000	0m	Full transfer	-	-	-	-	-	$770,000	77	-	Allhomes Record	-	-	-	-	$423,000	0.55
+2017	515241	5 Smyth Place	11/07/2017	11/07/2017	-	$750,000	747m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516894	25 Wynter Place	30/05/2017	31/07/2017	-	$720,000	905m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519189	52 Carroll Street	22/07/2017	13/10/2017	29/06/2017	$705,000	328m	Full transfer	3	1	-	0	1	$705,000	23	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.38
+2017	513796	5 Wynter Place	19/06/2017	19/06/2017	-	$700,000	725m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501979	5 Wynter Place	19/04/2017	-	17/02/2017	$700,000	720m	Full transfer	-	-	-	-	-	$700,000	61	-	Allhomes Record	-	-	-	-	$533,000	0.76
+2017	522156	70 Carroll Street	23/08/2017	14/12/2017	-	$680,000	327m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507803	68 Carroll Street	08/09/2017	-	27/07/2017	$640,000	-	Full transfer	3	1	0	0	1	$640,000	43	-	Allhomes Record	-	-	-	-	$270,000	0.42
+2017	521810	            2/32 Glynn Place	21/09/2017	19/12/2017	-	$445,000	857m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	508060	32A Glynn Place	21/09/2017	-	08/08/2017	$445,000	-	Full transfer	2	1	-	-	2	$445,000	44	-	Allhomes Record	-	-	-	-	$746,000	1.68
+2017	519930	43 Groom Street	04/07/2017	16/10/2017	-	$290,000	413m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510624	55/27 Coxen Street	30/11/2017	-	17/08/2017	$240,000	0m	Full transfer	1	1	-	0	0	$240,000	105	-	Allhomes Record	-	-	-	-	-	-
+2017	526966	85/27 Coxen Street	18/12/2017	11/03/2018	-	$225,000	15678m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523260	72/27 Coxen Street	20/10/2017	18/01/2018	10/08/2017	$219,000	15678m	Full transfer	1	1	-	-	-	$219,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	519164	22/27 Coxen Street	09/08/2017	10/10/2017	26/06/2017	$215,000	15678m	Full transfer	1	1	-	1	-	$215,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523974	90/27 Coxen Street	27/10/2017	22/01/2018	-	$210,000	15678m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517249	10/27 Coxen Street	26/06/2017	14/08/2017	20/03/2017	$176,000	15678m	Full transfer	1	1	-	1	-	$176,000	98	-	Combined Record	36	-	-	Multiple unit dwelling	$9,080,000	51.59
+2017	525895	41/27 Coxen Street	16/11/2017	13/02/2018	29/09/2017	$175,000	15678m	Full transfer	1	1	-	-	-	$175,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	524153	5/27 Coxen Street	20/12/2017	24/01/2018	-	$175,000	15678m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521642	36 Brand Street	09/06/2017	21/12/2017	-	$0	985m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537116	12 Wisdom Place	09/09/2017	04/07/2018	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523651	17 Glynn Street	14/08/2017	15/01/2018	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525698	            42 McNicoll Street	04/11/2017	13/02/2018	-	$0	794m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515558	33 Groom Street	02/03/2017	20/07/2017	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	526329	37 Conyers Street	01/06/2017	26/02/2018	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	568945	12 Spence Place	06/11/2017	05/09/2019	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2017	526870	1/69A Webster Street	02/11/2017	05/03/2018	-	$0	1189m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528326	49 Glasgow Street	31/12/2017	23/03/2018	-	$0	1065m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	552225	24 Kitchener Street	24/12/2017	21/01/2019	-	$0	839m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530779	8 Coxen Street	15/08/2017	19/04/2018	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523836	11 Millen Street	31/05/2017	15/01/2018	-	$0	736m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	549447	46 Lynch Street	02/11/2017	30/10/2018	-	$0	973m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520768	35 Conyers Street	06/02/2017	21/11/2017	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533609	1/27 Coxen Street	30/07/2017	22/05/2018	-	$0	15678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503859	17 Downes Place	04/03/2017	26/04/2017	-	$0	901m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	563377	37 Brand Street	20/08/2017	27/06/2019	-	$0	1108m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523396	21 Wisdom Street	28/06/2017	18/01/2018	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522396	7 Higgs Place	18/07/2017	12/12/2017	-	$0	884m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555197	1 Pope Street	21/12/2018	12/03/2019	-	$1,725,000	1022m	Full transfer	-	-	-	-	-	$1,725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536849	4A Glasgow Street	12/07/2018	-	04/05/2018	$1,467,000	620m	Full transfer	4	3	-	2	-	$1,467,000	69	-	Allhomes Record	-	-	-	-	$699,000	0.48
+2018	549506	            1/4 Glasgow Street	24/07/2018	29/10/2018	-	$1,450,679	1202m	Full transfer	-	-	-	-	-	$1,450,679	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552032	20 Colvin Street	17/11/2018	01/02/2019	25/10/2018	$1,400,000	1333m	Full transfer	6	2	-	1	1	$1,400,000	23	-	Combined Record	-	-	-	Single residential dwelling	$795,000	0.57
+2018	537338	            74 Kitchener Street	16/07/2018	-	04/04/2018	$1,350,000	0m	Full transfer	4	2	-	2	0	$1,350,000	103	-	Allhomes Record	-	-	-	-	-	-
+2018	541933	            2/52 Lynch Street	16/07/2018	11/09/2018	-	$1,350,000	1261m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540525	16 Goble Street	25/05/2018	20/08/2018	10/05/2018	$1,312,500	782m	Full transfer	4	2	-	2	0	$1,312,500	15	-	Combined Record	-	-	-	Single residential dwelling	$773,000	0.59
+2018	543839	38 Coxen Street	26/06/2018	08/10/2018	-	$1,280,000	1115m	Full transfer	-	-	-	-	-	$1,280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547418	13 Glasgow Place	28/09/2018	19/11/2018	16/08/2018	$1,249,000	882m	Full transfer	5	2	-	2	0	$1,249,000	43	-	Combined Record	-	-	-	Single residential dwelling	$795,000	0.64
+2018	552114	18 Glynn Place	03/11/2018	30/01/2019	10/10/2018	$1,220,000	701m	Full transfer	4	2	-	1	0	$1,220,000	24	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.54
+2018	553419	12 Hyde Place	22/11/2018	13/02/2019	01/11/2018	$1,172,000	1247m	Full transfer	4	2	-	2	0	$1,172,000	21	-	Combined Record	-	-	-	Single residential dwelling	$818,000	0.7
+2018	531864	68 Birdwood Street	01/05/2018	-	01/03/2018	$1,160,000	0m	Full transfer	5	2	-	2	2	$1,160,000	61	-	Allhomes Record	-	-	-	-	$619,000	0.53
+2018	537606	49 Glasgow Street	05/05/2018	09/07/2018	11/04/2018	$1,145,000	1065m	Full transfer	4	1	1	2	-	$1,145,000	24	-	Combined Record	-	-	-	Single residential dwelling	$938,000	0.82
+2018	552157	            1/1 Jess Place	22/10/2018	21/01/2019	-	$1,125,000	952m	Full transfer	-	-	-	-	-	$1,125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544624	1 Jess Place	22/10/2018	-	06/08/2018	$1,125,000	-	Full transfer	4	1	1	2	-	$1,125,000	77	-	Allhomes Record	176	-	-	-	$872,000	0.78
+2018	535740	47 McNicoll Street	28/04/2018	21/06/2018	04/04/2018	$1,105,000	764m	Full transfer	4	1	1	1	-	$1,105,000	24	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.57
+2018	532247	3 Colvin Street	01/03/2018	08/05/2018	08/02/2018	$1,100,000	1110m	Full transfer	4	2	-	2	0	$1,100,000	21	-	Combined Record	-	-	-	Single residential dwelling	$735,000	0.67
+2018	527384	51 Birdwood Street	26/03/2018	-	23/01/2018	$1,100,000	-	Full transfer	-	-	-	-	-	$1,100,000	62	-	Allhomes Record	-	-	-	-	$940,000	0.85
+2018	536056	51 Birdwood Street	21/06/2018	21/06/2018	-	$1,100,000	1203m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532340	14 Tudor Place	07/03/2018	08/05/2018	15/02/2018	$1,085,000	1085m	Full transfer	4	2	-	2	0	$1,085,000	20	-	Combined Record	-	-	-	Single residential dwelling	$798,000	0.74
+2018	529640	37 Birdwood Street	13/02/2018	08/04/2018	11/01/2018	$1,040,000	823m	Full transfer	4	2	-	2	0	$1,040,000	33	-	Combined Record	-	-	-	Single residential dwelling	$771,000	0.74
+2018	560992	43 Webster Street	01/12/2018	18/02/2019	08/11/2018	$1,010,000	773m	Full transfer	4	3	-	2	0	$1,010,000	23	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.51
+2018	528964	6 Pope Street	24/01/2018	29/03/2018	21/12/2017	$980,000	852m	Full transfer	4	2	-	3	0	$980,000	34	-	Combined Record	-	-	-	Single residential dwelling	$541,000	0.55
+2018	549157	20 Poynton Street	06/10/2018	17/12/2018	10/09/2018	$970,000	857m	Full transfer	4	2	-	2	0	$970,000	26	-	Combined Record	-	-	-	Single residential dwelling	$642,000	0.66
+2018	541787	18 Millen Street	23/06/2018	11/09/2018	24/05/2018	$956,000	684m	Full transfer	4	2	-	2	1	$956,000	30	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.65
+2018	544487	7 Webster Street	22/08/2018	17/10/2018	04/04/2018	$950,000	982m	Full transfer	4	2	-	-	2	$950,000	140	-	Combined Record	-	-	-	Multiple unit dwelling	$663,000	0.7
+2018	552381	28 Poynton Street	10/10/2018	21/01/2019	05/09/2018	$950,000	1088m	Full transfer	4	2	-	-	2	$950,000	35	-	Combined Record	-	-	-	Single residential dwelling	$681,000	0.72
+2018	546976	64 Birdwood Street	04/09/2018	29/11/2018	10/05/2018	$940,000	814m	Full transfer	4	2	-	2	0	$940,000	117	-	Combined Record	-	-	-	Single residential dwelling	$599,000	0.64
+2018	553010	56 Groom Street	21/12/2018	07/02/2019	01/11/2018	$935,000	1013m	Full transfer	5	2	-	-	2	$935,000	50	-	Combined Record	219	-	-	Single residential dwelling	$526,000	0.56
+2018	561658	48 Jensen Street	22/09/2018	10/12/2018	30/08/2018	$907,000	940m	Full transfer	4	2	-	1	0	$907,000	23	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.53
+2018	541685	8 Birdwood Street	01/09/2018	14/09/2018	-	$900,000	897m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540498	6 Higgs Place	29/06/2018	26/08/2018	21/05/2018	$900,000	894m	Full transfer	4	1	1	-	-	$900,000	39	-	Combined Record	-	-	-	Single residential dwelling	$698,000	0.78
+2018	549066	12 Wisdom Place	05/10/2018	17/12/2018	25/07/2018	$890,000	843m	Full transfer	4	2	-	1	0	$890,000	72	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.7
+2018	547691	34 Coxen Street	23/08/2018	28/11/2018	02/08/2018	$890,000	1029m	Full transfer	2	1	-	0	0	$890,000	21	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.54
+2018	530099	8 Jensen Place	17/02/2018	13/04/2018	24/01/2018	$880,000	861m	Full transfer	3	1	-	0	2	$880,000	24	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.75
+2018	533271	6 Wylly Place	02/01/2018	24/05/2018	-	$875,000	795m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552317	54 Bamford Street	03/11/2018	25/01/2019	10/10/2018	$855,000	730m	Full transfer	3	1	-	0	2	$855,000	24	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.68
+2018	546684	14 Lynch Street	04/10/2018	03/01/2019	16/08/2018	$850,000	748m	Full transfer	4	2	-	4	0	$850,000	49	-	Combined Record	-	-	-	Single residential dwelling	$603,000	0.71
+2018	541947	73 Birdwood Street	12/09/2018	12/09/2018	-	$850,000	862m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533704	73 Birdwood Street	16/05/2018	-	06/04/2018	$850,000	-	Full transfer	-	-	-	-	-	$850,000	40	-	Allhomes Record	-	-	-	-	$506,000	0.6
+2018	542757	1 Bamford Street	02/06/2018	27/09/2018	08/05/2018	$845,000	807m	Full transfer	4	1	-	2	0	$845,000	25	-	Combined Record	-	-	-	Single residential dwelling	$554,000	0.66
+2018	550162	35 Bamford Street	22/09/2018	11/12/2018	30/08/2018	$835,000	769m	Full transfer	3	2	-	2	0	$835,000	23	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.69
+2018	537624	6 Wylly Place	23/03/2018	11/07/2018	09/01/2018	$820,000	795m	Full transfer	3	1	-	2	2	$820,000	73	-	Combined Record	106	-	-	Single residential dwelling	$565,000	0.69
+2018	538062	24 Maygar Street	29/05/2018	19/07/2018	-	$800,000	1006m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	523467	34 Conyers Street	19/01/2018	19/01/2018	-	$770,000	820m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542444	37 McNicoll Place	26/07/2018	18/09/2018	02/05/2018	$767,500	635m	Full transfer	3	1	-	-	1	$767,500	85	-	Combined Record	97	-	-	Single residential dwelling	$646,000	0.84
+2018	531658	26 Carroll Street	08/02/2018	24/04/2018	01/02/2018	$730,500	352m	Full transfer	3	1	-	0	1	$730,500	7	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.43
+2018	542264	65 Carroll Street	29/06/2018	18/09/2018	13/06/2018	$690,000	346m	Full transfer	2	1	-	1	0	$690,000	16	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.46
+2018	531528	5/9 Bisdee Street	02/03/2018	29/04/2018	23/02/2017	$415,000	1832m	Full transfer	1	1	-	1	-	$415,000	372	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	530803	            1/1 Carroll Street	21/02/2018	17/04/2018	-	$330,000	2399m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525201	1/3 Carroll Street	21/02/2018	-	09/11/2017	$330,000	0m	Full transfer	2	1	-	0	1	$330,000	104	-	Allhomes Record	-	-	-	-	-	-
+2018	532788	            8/1 Carroll Street	02/03/2018	18/05/2018	-	$310,000	2399m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525383	8/3 Carroll Street	28/02/2018	-	04/12/2017	$310,000	0m	Full transfer	2	1	-	0	1	$310,000	86	-	Allhomes Record	-	-	-	-	-	-
+2018	553186	            8/7 Wark Street	07/12/2018	04/02/2019	-	$305,000	2356m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	545767	8/9 Wark Street	10/12/2018	-	15/11/2018	$305,000	-	Full transfer	2	1	-	-	-	$305,000	25	-	Allhomes Record	59	-	-	-	$1,820,000	5.97
+2018	547525	2/7 Wark Street	11/09/2018	24/10/2018	04/06/2018	$285,000	2356m	Full transfer	2	1	-	-	-	$285,000	99	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	543527	2/7 Coxen Street	20/10/2018	-	24/09/2018	$280,000	0m	Full transfer	2	1	-	0	0	$280,000	26	-	Allhomes Record	-	-	-	-	-	-
+2018	549880	2/1 Carroll Street	20/10/2018	19/12/2018	-	$280,000	2399m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538622	74/27 Coxen Street	04/05/2018	29/07/2018	-	$225,000	15678m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	541673	27 Colvin Street	10/07/2018	11/09/2018	-	$0	1136m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532831	64 Birdwood Street	18/02/2018	17/05/2018	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	556674	40 Lynch Street	15/12/2018	03/04/2019	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544219	            2/4 Glasgow Street	11/07/2018	16/10/2018	-	$0	1202m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548329	33 Glasgow Street	19/08/2018	06/11/2018	-	$0	862m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541863	35 Bamford Street	20/05/2018	10/09/2018	-	$0	769m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561156	7 Mahon Place	27/06/2018	21/02/2019	-	$0	724m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551424	43 Webster Street	06/08/2018	14/11/2018	-	$0	773m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558796	57 Jensen Street	15/06/2018	10/05/2019	-	$0	865m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546968	7 Conyers Street	06/09/2018	27/11/2018	-	$0	766m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550091	3 Glynn Street	24/03/2018	10/12/2018	-	$0	798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536349	35 Webster Street	20/02/2018	26/06/2018	-	$0	777m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	563260	4 Jensen Place	13/08/2018	26/06/2019	-	$0	798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536410	28 Kitchener Street	06/05/2018	25/06/2018	-	$0	907m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	554190	50 Kitchener Street	22/09/2018	01/03/2019	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541832	16 Jensen Street	08/04/2018	13/09/2018	-	$0	1323m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530782	155 Kent Street	29/01/2018	19/04/2018	-	$0	1079m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576202	7 Colvin Street	18/12/2019	-	24/10/2019	$1,920,000	948m	Full transfer	5	3	-	2	0	$1,920,000	55	-	Allhomes Record	-	-	-	-	$732,000	0.38
+2019	560244	8 Wylly Place	13/03/2019	24/04/2019	21/11/2018	$1,820,000	791m	Full transfer	5	3	-	2	0	$1,820,000	112	-	Combined Record	-	-	-	Single residential dwelling	$621,000	0.34
+2019	564136	27 Jensen Street	17/04/2019	01/07/2019	-	$1,800,000	762m	Full transfer	-	-	-	-	-	$1,800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565766	21 Wynter Place	06/04/2019	24/07/2019	13/03/2019	$1,565,000	910m	Full transfer	4	3	-	3	0	$1,565,000	24	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.41
+2019	575515	17 Downes Place	14/12/2019	-	21/11/2019	$1,400,000	0m	Full transfer	5	3	-	1	0	$1,400,000	23	-	Allhomes Record	-	-	-	-	$965,000	0.69
+2019	553281	30 Poynton Street	07/01/2019	12/02/2019	01/11/2018	$1,380,000	796m	Full transfer	4	2	-	3	0	$1,380,000	67	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.4
+2019	559404	17 Wynter Place	05/04/2019	14/05/2019	26/03/2019	$1,335,000	779m	Full transfer	4	1	1	2	0	$1,335,000	10	-	Combined Record	-	-	-	Single residential dwelling	$619,000	0.46
+2019	576895	10 Smyth Place	23/10/2019	16/12/2019	26/09/2019	$1,310,000	762m	Full transfer	4	2	-	2	0	$1,310,000	27	-	Combined Record	-	-	-	Single residential dwelling	$719,000	0.55
+2019	573492	36 Lynch Street	25/11/2019	-	31/10/2019	$1,285,000	920m	Full transfer	4	2	-	0	1	$1,285,000	25	-	Allhomes Record	-	-	-	-	$612,000	0.48
+2019	571572	30 Goble Street	03/11/2019	-	11/10/2019	$1,220,000	0m	Full transfer	5	3	-	2	0	$1,220,000	23	-	Allhomes Record	-	-	-	-	$776,000	0.64
+2019	567501	12 Tudor Place	15/06/2019	21/08/2019	16/05/2019	$1,195,000	983m	Full transfer	4	3	-	0	2	$1,195,000	30	-	Combined Record	-	-	-	Single residential dwelling	$773,000	0.65
+2019	574133	34 Brand Street	07/12/2019	-	14/11/2019	$1,189,000	979m	Full transfer	5	3	-	2	0	$1,189,000	23	-	Allhomes Record	-	-	-	-	$683,000	0.57
+2019	566565	46 Wisdom Street	03/07/2019	08/08/2019	13/03/2019	$1,180,000	859m	Full transfer	4	2	-	0	2	$1,180,000	112	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.42
+2019	541451	68 Birdwood Street	15/05/2019	03/09/2018	-	$1,160,000	1076m	Full transfer	-	-	-	-	-	$1,160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569130	3 Glasgow Street	14/08/2019	12/09/2019	23/05/2019	$1,150,000	921m	Full transfer	4	2	-	2	0	$1,150,000	83	-	Combined Record	-	-	-	Single residential dwelling	$735,000	0.64
+2019	565999	57 Birdwood Street	12/06/2019	30/07/2019	22/11/2018	$1,075,000	791m	Full transfer	6	3	-	2	0	$1,075,000	202	-	Combined Record	-	-	-	Single residential dwelling	$699,000	0.65
+2019	574142	34 Coxen Street	04/12/2019	-	26/09/2019	$1,065,000	0m	Full transfer	3	1	-	0	0	$1,065,000	69	-	Allhomes Record	-	-	-	-	$491,000	0.46
+2019	560469	19 Birdwood Street	06/04/2019	28/05/2019	14/03/2019	$1,060,000	843m	Full transfer	4	2	-	1	2	$1,060,000	23	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.57
+2019	562121	17 Bisdee Street	13/04/2019	04/06/2019	20/03/2019	$1,055,000	920m	Full transfer	4	2	-	2	0	$1,055,000	24	-	Combined Record	-	-	-	Single residential dwelling	$541,000	0.51
+2019	573907	6 Downes Place	28/11/2019	-	31/10/2019	$1,050,000	0m	Full transfer	4	2	-	1	2	$1,050,000	28	-	Allhomes Record	-	-	-	-	$902,000	0.86
+2019	560501	10 Goble Street	25/01/2019	01/03/2019	01/11/2018	$1,050,000	766m	Full transfer	4	2	-	2	0	$1,050,000	85	-	Combined Record	-	-	-	Single residential dwelling	$729,000	0.69
+2019	574283	6 Pope Street	01/10/2019	15/11/2019	02/07/2019	$1,030,000	852m	Full transfer	4	1	1	2	-	$1,030,000	91	-	Combined Record	237	-	-	Single residential dwelling	$555,000	0.54
+2019	575559	32 Lynch Street	26/10/2019	06/12/2019	01/10/2019	$990,000	930m	Full transfer	4	1	-	2	-	$990,000	25	-	Combined Record	-	-	-	Single residential dwelling	$595,000	0.6
+2019	559298	4 Coxen Street	02/03/2019	13/05/2019	07/02/2019	$985,000	780m	Full transfer	4	2	-	2	0	$985,000	23	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.46
+2019	563786	19 McNicoll Street	17/07/2019	-	01/11/2018	$975,000	0m	Full transfer	4	2	-	2	0	$975,000	258	-	Allhomes Record	-	-	-	-	$710,000	0.73
+2019	567848	            1/21 McNicoll Place	15/07/2019	21/08/2019	-	$975,000	940m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576717	25 Lynch Street	13/12/2019	13/12/2019	-	$950,000	909m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572537	13 Conyers Street	24/10/2019	25/10/2019	-	$945,000	717m	Full transfer	-	-	-	-	-	$945,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571751	17 Lynch Street	09/11/2019	-	17/10/2019	$936,500	0m	Full transfer	3	2	-	0	2	$936,500	23	-	Allhomes Record	-	-	-	-	$635,000	0.68
+2019	574185	156 Kent Street	10/12/2019	-	17/10/2019	$935,000	0m	Full transfer	4	2	-	2	2	$935,000	54	-	Allhomes Record	-	-	-	-	$595,000	0.64
+2019	573938	7 Glynn Street	30/11/2019	-	06/11/2019	$900,000	0m	Full transfer	2	1	-	2	0	$900,000	24	-	Allhomes Record	-	-	-	-	$793,000	0.88
+2019	574661	58 Kitchener Street	27/09/2019	19/11/2019	15/08/2019	$890,000	886m	Full transfer	4	2	-	-	2	$890,000	43	-	Combined Record	140	-	-	Single residential dwelling	$503,000	0.57
+2019	573846	15 Pope Street	27/11/2019	-	24/10/2019	$875,000	746m	Full transfer	3	2	-	2	0	$875,000	34	-	Allhomes Record	-	-	-	-	$568,000	0.65
+2019	571771	10 Birdwood Street	09/11/2019	-	09/10/2019	$875,000	807m	Full transfer	4	1	-	1	-	$875,000	31	-	Allhomes Record	140	-	-	-	$628,000	0.72
+2019	577277	12 Jensen Street	06/11/2019	24/12/2019	18/10/2019	$855,000	772m	Full transfer	3	1	-	2	0	$855,000	19	-	Combined Record	-	-	-	Single residential dwelling	$503,000	0.59
+2019	566730	40 Wisdom Street	12/06/2019	06/08/2019	29/05/2019	$848,000	859m	Full transfer	4	1	1	1	-	$848,000	14	-	Combined Record	203	-	-	Single residential dwelling	$501,000	0.59
+2019	570580	15 McNicoll Street	14/10/2019	-	07/08/2019	$840,000	-	Full transfer	3	1	-	2	-	$840,000	68	-	Allhomes Record	-	-	-	-	$635,000	0.76
+2019	571386	53 Millen Street	30/10/2019	-	25/09/2019	$817,500	781m	Full transfer	-	-	-	-	-	$817,500	35	-	Allhomes Record	-	-	-	-	$579,000	0.71
+2019	552753	17 Whittle Street	04/01/2019	-	12/11/2018	$810,000	1074m	Full transfer	-	-	-	-	-	$810,000	53	-	Allhomes Record	-	-	-	-	-	-
+2019	562110	57 Jensen Street	17/04/2019	04/06/2019	28/03/2019	$802,500	865m	Full transfer	3	1	-	1	0	$802,500	20	-	Combined Record	-	-	-	Single residential dwelling	$557,000	0.69
+2019	554772	19 Bisdee Street	19/03/2019	-	15/11/2018	$765,000	0m	Full transfer	3	2	-	2	0	$765,000	124	-	Allhomes Record	-	-	-	-	$663,000	0.87
+2019	562378	1/19 Bisdee Street	19/03/2019	05/06/2019	-	$765,000	876m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558335	3 Wynter Place	15/03/2019	30/04/2019	21/02/2019	$762,000	725m	Full transfer	3	1	-	1	-	$762,000	22	-	Combined Record	115	-	-	Single residential dwelling	$619,000	0.81
+2019	570287	16 Jensen Street	15/07/2019	23/09/2019	20/06/2019	$751,000	1323m	Full transfer	3	1	-	1	0	$751,000	25	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.67
+2019	566038	19 Jensen Street	18/06/2019	30/07/2019	16/04/2019	$745,000	771m	Full transfer	3	1	-	1	0	$745,000	63	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.71
+2019	557912	7 Conyers Street	08/03/2019	15/04/2019	21/11/2018	$740,000	766m	Full transfer	3	1	-	2	0	$740,000	107	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.62
+2019	577290	6 Coxen Street	09/09/2019	03/01/2020	-	$730,000	788m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	574527	193 Kent Street	09/10/2019	19/11/2019	16/09/2019	$720,000	497m	Full transfer	3	1	-	-	1	$720,000	23	-	Combined Record	134	-	-	Medium density dwelling	$445,000	0.62
+2019	563014	11 Conyers Street	10/05/2019	17/06/2019	18/03/2019	$715,500	736m	Full transfer	2	1	-	0	0	$715,500	53	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.68
+2019	566263	62 Kitchener Street	19/06/2019	01/08/2019	12/02/2019	$700,000	666m	Full transfer	3	1	-	-	2	$700,000	127	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.73
+2019	574204	11 Kitchener Street	10/12/2019	-	19/09/2019	$690,000	539m	Full transfer	3	2	-	0	1	$690,000	82	-	Allhomes Record	-	-	-	-	$424,000	0.61
+2019	558357	58 Carroll Street	28/03/2019	30/04/2019	-	$640,000	334m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567485	26 Goble Street	08/07/2019	23/08/2019	-	$530,000	1012m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571922	4 Coxen Street	27/09/2019	11/10/2019	-	$450,000	780m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570592	11/7 Coxen Street	15/10/2019	-	26/09/2019	$325,000	0m	Full transfer	2	1	-	1	0	$325,000	19	-	Allhomes Record	-	-	-	-	-	-
+2019	575575	            11/1 Carroll Street	15/10/2019	05/12/2019	-	$325,000	2399m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559512	16/27 Coxen Street	08/04/2019	17/05/2019	08/05/2018	$175,000	15678m	Full transfer	1	1	-	-	1	$175,000	335	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	555559	1/27 Coxen Street	19/02/2019	20/03/2019	19/11/2018	$175,000	15678m	Full transfer	1	-	1	-	-	$175,000	92	-	Combined Record	30	-	-	Multiple unit dwelling	-	-
+2019	572598	32 Lynch Street	02/07/2019	23/10/2019	-	$0	930m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576803	4 Goble Street	20/05/2019	11/12/2019	-	$0	963m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557685	6 Bamford Street	22/03/2019	16/04/2019	-	$0	711m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554585	3 Wynter Place	05/01/2019	04/03/2019	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559545	16 Poynton Street	31/03/2019	13/05/2019	-	$0	931m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564218	49 Millen Street	18/05/2019	02/07/2019	-	$0	739m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572702	10 Birdwood Street	06/08/2019	22/10/2019	-	$0	807m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573048	18 Kitchener Street	22/09/2019	30/10/2019	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
