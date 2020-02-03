@@ -1,0 +1,1200 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	35622	26 Garran Place	22/12/2006	11/01/2007	-	$1,550,000	618m	Full transfer	-	-	-	-	-	$1,550,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2006	203604	2 Couvreur Street	29/07/2006	01/09/2006	29/06/2006	$1,130,000	1486m	Full transfer	5	2	2	2	-	$1,130,000	30	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.39
+2006	213394	15 Ogilvie Place	27/05/2006	07/07/2006	03/05/2006	$830,000	935m	Full transfer	5	2	-	1	1	$830,000	24	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.69
+2006	213525	8 Fitchett Street	12/04/2006	29/05/2006	17/03/2006	$820,000	887m	Full transfer	5	1	1	2	-	$820,000	26	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.45
+2006	203138	4 Lavater Place	10/07/2006	05/01/2007	-	$810,000	869m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213495	25 Couvreur Street	06/05/2006	15/06/2006	07/04/2006	$802,000	1043m	Full transfer	5	1	1	2	-	$802,000	29	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.53
+2006	318783	21 Couvreur Street	24/07/2006	13/09/2006	-	$760,000	1041m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34319	29 Brereton Street	20/10/2006	27/11/2006	04/10/2006	$715,000	1031m	Full transfer	3	2	1	2	-	$715,000	16	-	Combined Record	-	-	-	Single residential dwelling	$519,000	0.73
+2006	165218	21 Flanagan Street	21/12/2006	16/02/2007	22/11/2006	$687,000	895m	Full transfer	4	2	1	2	2	$687,000	29	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.59
+2006	203401	46 Curlewis Crescent	16/08/2006	15/09/2006	13/07/2006	$680,000	814m	Full transfer	4	1	1	-	1	$680,000	34	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.64
+2006	213432	10 Henderson Street	03/03/2006	10/04/2006	24/02/2006	$669,000	1286m	Full transfer	4	1	-	1	1	$669,000	7	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.74
+2006	168680	5 Jose Place	08/09/2006	03/10/2006	07/04/2006	$660,000	843m	Full transfer	4	2	1	2	1	$660,000	154	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.55
+2006	213422	24 Flanagan Street	20/01/2006	09/03/2006	-	$652,500	767m	Full transfer	-	-	-	-	-	$652,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	306666	1 Harpur Street	15/11/2006	15/02/2007	-	$650,000	999m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34468	45 Curlewis Crescent	27/06/2006	29/09/2006	22/06/2006	$645,000	967m	Full transfer	4	1	-	2	-	$645,000	5	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.63
+2006	34104	17 Rusden Street	25/10/2006	29/11/2006	-	$630,000	1020m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	14763	            2/26 Robson Street	08/02/2006	01/05/2006	-	$615,000	990m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	14762	            1/26 Robson Street	31/01/2006	11/05/2006	-	$605,000	990m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165495	10 Harpur Place	01/12/2006	29/01/2007	18/10/2006	$599,000	1013m	Full transfer	4	3	-	-	2	$599,000	44	-	Combined Record	-	-	-	Single residential dwelling...	$476,000	0.79
+2006	213528	6 Brent Place	19/05/2006	12/07/2006	-	$590,000	939m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	318183	19 Gilmore Crescent	30/06/2006	03/09/2007	-	$585,000	860m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119510	46 Fitchett Street	26/09/2006	05/11/2006	-	$560,000	960m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	311187	33 Fitchett Street	03/03/2006	02/05/2006	-	$550,000	1029m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34732	4 Gilmore Crescent	12/07/2006	25/08/2006	23/06/2006	$530,000	845m	Full transfer	3	2	1	-	2	$530,000	19	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.57
+2006	213442	5 Rusden Street	09/06/2006	20/07/2006	26/04/2006	$530,000	957m	Full transfer	5	1	2	1	-	$530,000	44	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.82
+2006	203070	66 Fitchett Street	21/11/2006	05/01/2007	-	$529,000	751m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36577	99 Kitchener Street	11/07/2006	04/09/2006	27/10/2005	$520,000	989m	Full transfer	4	1	-	-	2	$520,000	257	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.61
+2006	168681	22 Tompson Street	08/09/2006	03/10/2006	17/05/2006	$518,000	788m	Full transfer	4	2	-	-	1	$518,000	114	-	Combined Record	-	-	-	Single residential dwelling	$443,000	0.86
+2006	203342	3 Palmer Street	10/11/2006	18/01/2007	14/09/2006	$510,000	925m	Full transfer	3	1	-	1	-	$510,000	57	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.66
+2006	89628	43 Dennis Street	19/10/2006	-	04/10/2006	$510,000	1135m	Full transfer	3	1	1	1	-	$510,000	15	-	Allhomes Record	-	-	-	-	$429,000	0.84
+2006	315626	43 Dennis Street	07/08/2006	26/03/2007	-	$510,000	1136m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32113	3 Dennis Street	23/09/2006	06/11/2006	23/08/2006	$490,000	868m	Full transfer	4	1	-	1	-	$490,000	31	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.73
+2006	213585	138 Kitchener Street	04/05/2006	15/06/2006	16/03/2006	$480,000	907m	Full transfer	4	1	1	4	-	$480,000	49	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.62
+2006	166991	28 Harpur Street	27/07/2006	27/07/2006	-	$460,000	865m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169219	30 Fitchett Street	15/12/2006	20/02/2007	14/09/2006	$455,000	908m	Full transfer	3	1	-	-	1	$455,000	92	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.85
+2006	213277	1/7 Eldridge Crescent	05/04/2006	05/07/2006	-	$444,387	5618m	Full transfer	-	-	-	-	-	$444,387	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168239	2/2 Eldridge Crescent	18/07/2006	09/08/2006	-	$435,000	10798m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213554	16/2 Eldridge Crescent	20/06/2006	26/07/2006	-	$435,000	10798m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168632	8/2 Hopegood Place	20/12/2006	06/03/2007	15/12/2006	$430,000	8239m	Full transfer	3	1	1	2	-	$430,000	5	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	33957	5 Palmer Street	31/10/2006	21/12/2006	01/09/2006	$430,000	964m	Full transfer	3	1	-	-	-	$430,000	60	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.78
+2006	168682	37 Fitchett Street	10/08/2006	08/10/2006	-	$430,000	864m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33138	8/7 Eldridge Crescent	27/10/2006	04/12/2006	-	$430,000	5618m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213532	2/15 Eldridge Crescent	03/02/2006	06/03/2006	-	$430,000	8387m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34244	20/2 Eldridge Crescent	20/09/2006	28/11/2006	-	$423,500	10798m	Full transfer	-	-	-	-	-	$423,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	87083	20/2 Eldridge Crescent	14/09/2006	-	23/08/2006	$423,500	10798m	Full transfer	3	1	1	2	-	$423,500	22	-	Allhomes Record	-	-	-	-	-	-
+2006	213560	4/2 Eldridge Crescent	19/05/2006	24/07/2006	13/04/2006	$422,000	10798m	Full transfer	3	1	1	2	-	$422,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	213531	17/15 Eldridge Crescent	20/02/2006	31/03/2006	-	$420,000	8387m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213513	3/2 Hopegood Place	14/02/2006	04/07/2006	-	$415,000	8239m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	85243	46/1 Eldridge Crescent	25/08/2006	-	26/07/2006	$415,000	9616m	Full transfer	3	1	1	2	-	$415,000	30	-	Allhomes Record	-	-	-	-	-	-
+2006	213579	40/1 Eldridge Crescent	10/01/2006	09/02/2006	-	$410,000	9616m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	169098	45/1 Eldridge Crescent	11/04/2006	07/02/2007	-	$399,000	9616m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213507	12/2 Hopegood Place	08/06/2006	06/07/2006	-	$390,000	8239m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	76153	12/2 Hopegood Place	09/06/2006	-	24/02/2006	$390,000	8239m	Full transfer	2	1	1	2	-	$390,000	105	-	Allhomes Record	-	-	-	-	-	-
+2006	203605	21/7 Eldridge Crescent	20/07/2006	28/08/2006	-	$375,000	5618m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213381	6/5 Fitchett Street	11/03/2006	23/05/2006	-	$345,000	6605m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	409255	8 Flanagan Street	27/06/2006	24/10/2007	-	$340,000	1016m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	120681	2 Garran Place	19/10/2006	15/05/2007	-	$300,000	1824m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2006	213474	6/1 Garran Place	23/05/2006	07/07/2006	-	$256,000	1612m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213481	2/5 Garran Place	26/04/2006	25/05/2006	24/02/2006	$248,500	1201m	Full transfer	1	1	-	-	1	$248,500	61	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	213479	8/3 Garran Place	23/02/2006	10/04/2006	25/10/2005	$229,950	1185m	Full transfer	1	1	-	-	-	$229,950	121	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	213482	8/5 Garran Place	07/04/2006	11/05/2006	-	$212,000	1201m	Full transfer	-	-	-	-	-	$212,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213504	11/5 Dann Close	08/03/2006	03/05/2006	-	$206,000	3704m	Full transfer	-	-	-	-	-	$206,000	-	-	Government Record	-	-	-	National association office	-	-
+2006	168238	8 Brady Place	11/05/2006	10/08/2006	-	$200,000	826m	Partial transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165973	78 Couvreur Street	14/10/2006	20/08/2007	-	$0	1838m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34045	106 Kitchener Street	26/08/2006	18/12/2006	-	-	839m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37314	23 Couvreur Street	03/06/2006	18/09/2006	-	-	1041m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203402	15 Palmer Street	28/07/2006	11/09/2006	-	-	862m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37585	3 Palmer Street	04/08/2006	16/10/2006	-	-	925m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	331	            26/15 Eldridge Crescent	07/03/2006	25/08/2006	-	-	8387m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213414	24 Brereton Street	25/02/2006	18/04/2006	-	-	820m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	13325	            3 Gilmore Crescent	02/09/2006	15/09/2006	-	-	974m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229558	116 Kitchener Street	28/04/2006	23/10/2006	-	-	712m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213395	15 Ogilvie Place	25/02/2006	19/04/2006	-	-	935m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	32112	9 Harpur Street	16/10/2006	07/11/2006	-	-	712m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164156	46 Curlewis Crescent	23/06/2006	20/08/2006	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34733	15/1 Eldridge Crescent	07/03/2006	25/08/2006	-	-	9616m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	234137	59 Dennis Street	04/12/2006	12/06/2008	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	4588	             Eldridge Crescent	30/10/2006	-	19/09/2006	-	-	Full transfer	3	2	1	2	-	-	41	-	Allhomes Record	-	-	-	-	-	-
+2006	164861	29 Fitchett Street	18/03/2006	13/10/2006	-	-	730m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213586	138 Kitchener Street	01/01/2006	18/05/2006	-	-	907m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166936	67 Brereton Street	19/05/2007	17/08/2007	26/04/2007	$1,220,000	2744m	Full transfer	7	3	-	-	3	$1,220,000	23	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.54
+2007	120641	30 Couvreur Street	28/03/2007	16/05/2007	-	$1,175,000	1836m	Full transfer	-	-	-	-	-	$1,175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120508	26 Couvreur Street	21/03/2007	16/05/2007	01/12/2006	$1,135,000	1130m	Full transfer	4	2	1	-	2	$1,135,000	110	-	Combined Record	-	-	-	Single residential dwelling	$542,000	0.48
+2007	231781	41 Ingamells Street	25/08/2007	17/12/2007	26/07/2007	$1,130,000	1195m	Full transfer	5	1	2	-	2	$1,130,000	30	-	Combined Record	-	-	-	Single residential dwelling	$531,000	0.47
+2007	232764	43 Brereton Street	31/08/2007	25/11/2007	-	$1,055,525	1349m	Full transfer	-	-	-	-	-	$1,055,525	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235076	45 Brereton Street	31/10/2007	05/02/2008	11/10/2007	$1,050,000	1349m	Full transfer	5	1	1	2	1	$1,050,000	20	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.47
+2007	235645	3/14 Hartigan Street	05/11/2007	27/03/2008	-	$955,000	5305m	Full transfer	-	-	-	-	-	$955,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121935	52 Brereton Street	07/07/2007	26/09/2007	05/06/2007	$900,000	1041m	Full transfer	4	1	1	2	-	$900,000	32	-	Combined Record	-	-	-	Single residential dwelling	$457,000	0.51
+2007	32433	40 Flanagan Street	05/02/2007	29/03/2007	23/11/2006	$890,000	1041m	Full transfer	4	1	1	2	-	$890,000	74	-	Combined Record	-	-	-	Single residential dwelling	$524,000	0.59
+2007	120759	46 Brereton Street	04/01/2007	18/05/2007	03/08/2006	$855,000	1171m	Full transfer	-	2	1	3	-	$855,000	154	-	Combined Record	-	-	-	Single residential dwelling	$473,000	0.55
+2007	165890	19 Curlewis Crescent	19/05/2007	02/08/2007	27/04/2007	$831,500	818m	Full transfer	4	1	3	2	-	$831,500	22	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.5
+2007	33499	4/14 Hartigan Street	22/03/2007	22/05/2007	12/03/2007	$825,000	5305m	Partial transfer	3	1	1	2	-	$825,000	10	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	138226	10 Maurice Place	29/09/2007	08/04/2008	-	$820,000	756m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231654	16 Brereton Street	22/09/2007	27/11/2007	27/08/2007	$790,000	952m	Full transfer	4	2	1	-	2	$790,000	26	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.52
+2007	244702	16 Ingamells Street	01/12/2007	24/01/2008	31/10/2007	$790,000	814m	Full transfer	4	1	1	1	-	$790,000	31	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.53
+2007	5317	            2/1 Dennis Street	10/03/2007	19/04/2007	-	$785,000	947m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231343	8 Curlewis Crescent	25/08/2007	18/11/2007	26/07/2007	$775,000	821m	Full transfer	3	1	1	2	-	$775,000	30	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.51
+2007	202720	31 Neilson Street	07/09/2007	10/10/2007	06/09/2007	$760,000	1484m	Full transfer	5	2	1	1	-	$760,000	1	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.56
+2007	32519	16 Curlewis Crescent	17/02/2007	27/03/2007	18/01/2007	$756,500	940m	Full transfer	4	-	1	2	-	$756,500	30	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.56
+2007	232110	27 Brereton Street	23/11/2007	02/01/2008	-	$754,000	994m	Full transfer	-	-	-	-	-	$754,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166169	9 Sabine Close	03/05/2007	27/07/2007	16/04/2007	$750,000	953m	Full transfer	4	1	1	-	-	$750,000	17	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.54
+2007	166263	2 Furphy Place	13/07/2007	23/08/2007	-	$745,000	745m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	101220	9 Brereton Street	13/07/2007	-	12/04/2007	$745,000	745m	Full transfer	5	1	1	1	-	$745,000	92	-	Allhomes Record	-	-	-	-	$392,000	0.53
+2007	33727	4 Tompson Street	28/03/2007	22/05/2007	-	$725,000	760m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	122023	3 Caffyn Place	21/07/2007	27/09/2007	13/06/2007	$691,000	789m	Full transfer	4	1	1	1	-	$691,000	38	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.58
+2007	35562	8 Henderson Street	11/04/2007	18/06/2007	26/02/2007	$670,000	978m	Full transfer	3	1	1	-	1	$670,000	44	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.68
+2007	235075	35 Fitchett Street	20/10/2007	04/02/2008	20/09/2007	$650,000	864m	Full transfer	4	1	1	1	1	$650,000	30	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.54
+2007	168168	2 Brady Place	30/08/2007	18/10/2007	23/08/2007	$640,500	961m	Full transfer	4	1	-	2	-	$640,500	7	-	Combined Record	-	-	-	Single residential dwelling	$340,000	0.53
+2007	121141	78 Couvreur Street	31/08/2007	10/09/2007	-	$616,666	1838m	Full transfer	-	-	-	-	-	$616,666	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232516	79 Fitchett Street	23/11/2007	14/01/2008	-	$613,000	891m	Full transfer	-	-	-	-	-	$613,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231018	40/2 Eldridge Crescent	11/12/2007	19/02/2008	-	$610,000	10798m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231643	39 Dennis Street	14/09/2007	18/11/2007	19/07/2007	$602,000	853m	Full transfer	4	1	-	1	-	$602,000	57	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.61
+2007	103910	19 Gilmore Crescent	30/06/2007	-	31/05/2007	$585,000	860m	Full transfer	3	1	-	1	1	$585,000	30	-	Allhomes Record	-	-	-	-	$330,000	0.56
+2007	121103	13 Brereton Street	15/07/2007	12/09/2007	22/06/2007	$585,000	704m	Full transfer	3	1	-	1	1	$585,000	23	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.69
+2007	409225	5/1 Eldridge Crescent	24/04/2007	03/07/2007	09/03/2007	$585,000	9616m	Full transfer	3	1	2	2	-	$585,000	46	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	165931	102 Kitchener Street	16/06/2007	07/08/2007	16/05/2007	$580,000	792m	Full transfer	4	1	1	-	2	$580,000	31	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.56
+2007	166476	93 Gilmore Crescent	26/05/2007	06/08/2007	-	$575,000	916m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	168140	26 Fitchett Street	01/09/2007	17/10/2007	09/08/2007	$538,000	887m	Full transfer	3	1	-	-	-	$538,000	23	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.69
+2007	231491	37 Fitchett Street	14/10/2007	26/11/2007	13/09/2007	$530,000	864m	Full transfer	3	1	-	-	1	$530,000	31	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.66
+2007	166007	10 Dennis Street	05/05/2007	25/07/2007	13/04/2007	$530,000	898m	Full transfer	4	1	-	1	-	$530,000	22	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.69
+2007	236074	13/1 Eldridge Crescent	08/10/2007	08/01/2008	-	$520,000	9616m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	120749	49 Dennis Street	09/03/2007	16/05/2007	-	$520,000	793m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35602	61 Gilmore Crescent	04/05/2007	21/06/2007	-	$510,000	739m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164729	117 Gilmore Crescent	18/04/2007	11/07/2007	15/02/2007	$510,000	775m	Full transfer	3	1	-	1	-	$510,000	62	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.61
+2007	233228	37 Gilmore Crescent	06/10/2007	27/11/2007	31/03/2008	$492,800	842m	Full transfer	3	1	0	1	1	$492,800	-	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.7
+2007	409229	20/10 Hopegood Place	14/09/2007	04/12/2007	02/08/2007	$490,000	7344m	Full transfer	2	1	1	2	-	$490,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	121354	97 Gilmore Crescent	30/01/2007	02/05/2007	21/12/2006	$480,000	898m	Full transfer	3	1	-	2	-	$480,000	40	-	Combined Record	-	-	-	Single residential dwelling...	$368,000	0.77
+2007	234653	32/2 Eldridge Crescent	16/10/2007	28/11/2007	-	$476,000	10798m	Full transfer	-	-	-	-	-	$476,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	25423	6 Mackaness Place	29/11/2007	-	14/11/2007	$475,000	520m	Full transfer	3	1	1	-	1	$475,000	15	-	Allhomes Record	-	-	-	-	$224,000	0.47
+2007	25347	22/7 Eldridge Crescent	23/11/2007	-	08/11/2007	$475,000	5618m	Full transfer	3	1	1	2	-	$475,000	15	-	Allhomes Record	-	-	-	-	-	-
+2007	120471	9 Stephens Place	09/03/2007	15/05/2007	-	$475,000	813m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230105	22/7 Eldridge Crescent	18/08/2007	31/01/2008	-	$475,000	5618m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409227	11/7 Eldridge Crescent	02/08/2007	14/09/2007	31/03/2008	$470,000	5618m	Full transfer	3	1	1	2	0	$470,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	$2,066,000	4.4
+2007	166131	37/10 Hopegood Place	22/06/2007	23/08/2007	01/06/2007	$460,000	7344m	Full transfer	3	1	1	2	-	$460,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	121827	36/2 Eldridge Crescent	21/08/2007	24/09/2007	-	$460,000	10798m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	234957	12/7 Eldridge Crescent	10/12/2007	07/02/2008	-	$460,000	5618m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	102581	37/17 Eldridge Crescent	23/07/2007	-	07/05/2007	$455,000	-	Full transfer	3	1	1	2	-	$455,000	77	-	Allhomes Record	-	-	-	-	-	-
+2007	5422	            37/15 Eldridge Crescent	23/07/2007	12/09/2007	-	$455,000	8387m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	409228	26/7 Hopegood Place	29/06/2007	04/09/2007	25/05/2007	$450,000	6188m	Full transfer	3	1	1	2	-	$450,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	164558	8 Gilmore Crescent	13/03/2007	14/07/2007	-	$450,000	840m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203175	9/7 Eldridge Crescent	21/03/2007	31/05/2007	01/11/2006	$441,500	5618m	Full transfer	3	1	1	2	-	$441,500	140	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	5444	            26/15 Eldridge Crescent	29/06/2007	12/09/2007	-	$440,000	8387m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	102102	26/17 Eldridge Crescent	09/07/2007	-	27/04/2007	$440,000	-	Full transfer	3	1	1	2	-	$440,000	73	-	Allhomes Record	-	-	-	-	-	-
+2007	409230	5/2 Hopegood Place	26/04/2007	26/06/2007	27/03/2007	$432,500	8239m	Full transfer	3	1	1	2	-	$432,500	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	35931	8/10 Hopegood Place	18/04/2007	03/07/2007	-	$430,000	7344m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167126	4/5 Fitchett Street	02/03/2007	11/04/2007	15/02/2007	$420,000	6605m	Full transfer	3	1	1	2	-	$420,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	234350	30/1 Eldridge Crescent	02/11/2007	13/12/2007	-	$420,000	9616m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	169248	116 Kitchener Street	22/01/2007	22/02/2007	05/11/2006	$415,000	712m	Full transfer	3	1	-	2	-	$415,000	78	-	Combined Record	-	-	-	Single residential dwelling	$299,000	0.72
+2007	166371	13 Boothby Place	18/07/2007	10/08/2007	09/03/2007	$410,000	203m	Full transfer	3	1	-	1	-	$410,000	131	-	Combined Record	-	-	-	Medium density dwelling	$212,000	0.52
+2007	18142	            42/15 Eldridge Crescent	09/10/2007	27/11/2007	-	$405,000	8387m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121700	17/2 Hopegood Place	05/07/2007	28/08/2007	24/05/2007	$397,000	8239m	Full transfer	2	1	1	2	-	$397,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	409226	39/2 Eldridge Crescent	13/04/2007	03/07/2007	09/03/2007	$395,000	10798m	Full transfer	2	1	1	1	-	$395,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	167376	8 Garran Place	26/03/2007	08/05/2007	-	$370,000	195m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	164777	12/5 Dann Close	14/06/2007	11/07/2007	-	$300,000	3704m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	National association office	-	-
+2007	167417	1/1 Garran Place	25/05/2007	04/09/2007	02/05/2007	$300,000	1612m	Full transfer	2	1	-	-	1	$300,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	109970	9/3 Garran Place	09/11/2007	-	11/10/2007	$285,000	1185m	Full transfer	1	1	-	-	-	$285,000	29	-	Allhomes Record	-	-	-	-	-	-
+2007	232674	1 Savery Street	13/11/2007	26/11/2007	-	$283,550	789m	Full transfer	-	-	-	-	-	$283,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203256	11/2 Hopegood Place	17/03/2007	29/05/2007	-	$0	8239m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	168144	43 Brereton Street	28/02/2007	18/10/2007	-	$0	1349m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	431	            44/15 Eldridge Crescent	19/06/2007	19/06/2007	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35966	8/2 Eldridge Crescent	24/05/2007	06/07/2007	-	$0	10798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166019	5 Furphy Place	02/06/2007	25/07/2007	11/05/2007	$0	849m	Full transfer	3	1	-	-	1	$0	22	-	Combined Record	-	-	-	Single residential dwelling	$438,000	0.52
+2007	166410	15 Tompson Street	27/01/2007	23/08/2007	-	$0	1402m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33798	12 Becke Place	11/04/2007	22/05/2007	-	$0	1077m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166254	8 Ingamells Street	27/06/2007	22/08/2007	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	9734	            50/15 Eldridge Crescent	06/06/2007	31/07/2007	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233792	23 Rusden Street	18/12/2007	14/05/2008	-	-	888m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235373	7 Savery Street	20/12/2007	25/02/2008	-	-	870m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21788	            93 Gilmore Street	26/05/2007	-	04/05/2007	-	916m	Full transfer	4	1	1	1	2	-	22	-	Allhomes Record	-	-	-	-	-	-
+2007	235330	36/7 Eldridge Crescent	29/11/2007	27/02/2008	-	-	5618m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	21925	            42-17 Eldridge Crescent	10/10/2007	-	24/08/2007	-	-	Full transfer	2	1	1	1	-	-	47	-	Allhomes Record	-	-	-	-	-	-
+2007	234701	6/1 Garran Place	22/11/2007	12/03/2008	-	-	1612m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	21772	            50/15-17 Eldridge Crescent	06/06/2007	-	24/04/2007	-	8387m	Full transfer	3	1	1	2	-	-	43	-	Allhomes Record	-	-	-	-	$1,551,000	-
+2008	236138	2 Garran Place	07/02/2008	13/05/2008	-	$1,715,000	1824m	Full transfer	-	-	-	-	-	$1,715,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2008	229714	85 Brereton Street	20/05/2008	29/07/2008	04/04/2008	$1,395,000	1462m	Full transfer	4	1	2	3	0	$1,395,000	46	-	Combined Record	-	-	-	Single residential dwelling	$700,000	0.5
+2008	229716	44 Couvreur Street	13/06/2008	01/08/2008	17/03/2008	$1,250,000	1217m	Full transfer	5	3	1	2	0	$1,250,000	88	-	Combined Record	-	-	-	Single residential dwelling	$707,000	0.57
+2008	243561	77 Brereton Street	29/11/2008	30/03/2009	21/10/2008	$1,050,000	1300m	Full transfer	4	1	1	-	2	$1,050,000	39	-	Combined Record	-	-	-	Single residential dwelling	$675,000	0.64
+2008	243315	57 Curlewis Crescent	20/10/2008	20/03/2009	-	$1,000,000	1039m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243437	23 Ingamells Street	15/11/2008	26/03/2009	14/10/2008	$935,000	694m	Full transfer	4	1	1	2	-	$935,000	32	-	Combined Record	-	-	-	Single residential dwelling	$601,000	0.64
+2008	153976	31 Dennis Street	19/03/2008	10/04/2008	-	$900,000	810m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233535	6/14 Hartigan Street	15/03/2008	29/04/2008	-	$860,000	5305m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241900	7 Henderson Street	17/10/2008	20/01/2009	-	$830,000	928m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233564	9 Stone Place	23/02/2008	28/04/2008	24/01/2008	$811,000	1029m	Full transfer	5	2	1	2	-	$811,000	30	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.58
+2008	230615	3 Foott Street	28/02/2008	23/04/2008	16/10/2007	$795,000	780m	Full transfer	4	1	1	1	-	$795,000	135	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.56
+2008	234270	50 Curlewis Crescent	20/03/2008	05/05/2008	26/02/2008	$780,000	764m	Full transfer	4	1	1	2	-	$780,000	23	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.65
+2008	229715	80 Brereton Street	17/05/2008	29/07/2008	16/04/2008	$775,000	891m	Full transfer	4	1	1	-	2	$775,000	31	-	Combined Record	-	-	-	Single residential dwelling	$556,000	0.72
+2008	230057	2/6 Esson Place	11/06/2008	29/07/2008	22/04/2008	$750,000	2431m	Full transfer	3	1	1	2	-	$750,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	$1,038,000	1.38
+2008	19171	            2/101 Kitchener Street	23/12/2008	23/02/2009	-	$717,000	1131m	Full transfer	-	-	-	-	-	$717,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242281	2 Harpur Street	08/11/2008	02/02/2009	01/10/2008	$715,000	907m	Full transfer	4	1	1	2	-	$715,000	38	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.85
+2008	230400	14 Curlewis Crescent	27/02/2008	28/05/2008	31/03/2008	$705,000	876m	Full transfer	3	1	2	2	1	$705,000	-	-	Combined Record	-	-	-	Single residential dwelling	$487,000	0.69
+2008	240668	4 Ingamells Street	17/10/2008	03/12/2008	28/07/2008	$695,000	819m	Full transfer	4	1	1	1	1	$695,000	81	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.66
+2008	241216	37 Ingamells Street	18/10/2008	18/01/2009	19/09/2008	$695,000	801m	Full transfer	3	1	0	1	2	$695,000	29	-	Combined Record	-	-	-	Single residential dwelling	$637,000	0.92
+2008	112992	64 Fitchett Street	23/04/2008	-	28/02/2008	$690,000	747m	Full transfer	3	2	-	-	2	$690,000	55	-	Allhomes Record	-	-	-	-	$512,000	0.74
+2008	237059	29 Ingamells Street	14/11/2008	08/01/2009	-	$682,500	694m	Full transfer	-	-	-	-	-	$682,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240342	47 Dennis Street	20/09/2008	26/11/2008	19/08/2008	$650,000	846m	Full transfer	4	2	1	1	-	$650,000	32	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.68
+2008	230058	34/7 Hopegood Place	23/05/2008	01/08/2008	-	$640,000	6188m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236228	29 Ingamells Street	09/04/2008	22/05/2008	04/03/2008	$634,000	694m	Full transfer	3	1	0	1	0	$634,000	36	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.99
+2008	17996	            2/146 Kitchener Street	20/05/2008	24/06/2008	-	$599,950	951m	Full transfer	-	-	-	-	-	$599,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24140	146A Kitchener Street	20/05/2008	-	01/04/2008	$599,950	449m	Full transfer	3	1	1	2	-	$599,950	49	-	Allhomes Record	-	-	-	-	$512,000	0.85
+2008	321163	5 Gay Place	27/09/2008	07/01/2009	-	$585,000	1222m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	19380	            1/10 Dennis Street	11/12/2008	25/05/2009	-	$570,000	898m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236897	95 Gilmore Crescent	28/06/2008	03/09/2008	21/05/2008	$567,000	907m	Full transfer	3	1	-	1	1	$567,000	38	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.78
+2008	116785	28A Gilmore Crescent	14/10/2008	-	08/08/2008	$565,000	-	Full transfer	3	1	1	1	0	$565,000	67	-	Allhomes Record	-	-	-	-	-	-
+2008	240593	2/28 Gilmore Crescent	14/10/2008	05/12/2008	-	$565,000	926m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	321880	4 Ham Place	15/10/2008	21/11/2008	-	$552,500	796m	Full transfer	-	-	-	-	-	$552,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239959	4 Furphy Place	03/07/2008	14/10/2008	-	$540,000	792m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240595	31/7 Eldridge Crescent	02/10/2008	03/12/2008	-	$516,000	5618m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241901	38 Fitchett Street	22/11/2008	21/01/2009	22/10/2008	$502,000	813m	Full transfer	3	1	-	1	-	$502,000	31	-	Combined Record	-	-	-	Single residential dwelling	$502,000	1.0
+2008	239259	21 Palmer Street	10/09/2008	12/11/2008	04/04/2008	$500,000	862m	Full transfer	3	1	-	-	1	$500,000	159	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.8
+2008	232481	100 Kitchener Street	18/04/2008	24/06/2008	-	$500,000	786m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	24523	24/7 Hopegood Place	16/06/2008	-	23/04/2008	$495,000	6188m	Full transfer	3	1	1	2	-	$495,000	54	-	Allhomes Record	-	-	-	-	-	-
+2008	239591	17/15 Eldridge Crescent	05/09/2008	09/10/2008	-	$495,000	8387m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233610	30/2 Hopegood Place	12/03/2008	29/04/2008	-	$487,500	8239m	Full transfer	-	-	-	-	-	$487,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233751	5 Savery Street	23/05/2008	30/06/2008	-	$486,500	769m	Full transfer	-	-	-	-	-	$486,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	21590	            38/1 Elderidge Street	07/02/2008	-	27/11/2007	$485,000	9616m	Full transfer	3	1	1	2	-	$485,000	72	-	Allhomes Record	-	-	-	-	-	-
+2008	230717	6/7 Eldridge Crescent	30/01/2008	18/04/2008	-	$485,000	5618m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231340	38/1 Eldridge Crescent	13/02/2008	01/05/2008	-	$485,000	9616m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231371	5/10 Hopegood Place	07/03/2008	15/05/2008	-	$485,000	7344m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240160	10 Mackaness Place	02/10/2008	29/10/2008	02/07/2008	$450,000	624m	Full transfer	3	1	1	1	-	$450,000	92	-	Combined Record	-	-	-	Medium density dwelling	$294,000	0.65
+2008	231031	24/2 Eldridge Crescent	21/02/2008	14/04/2008	-	$447,000	10798m	Full transfer	-	-	-	-	-	$447,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	231832	14/1 Eldridge Crescent	16/06/2008	04/07/2008	-	$440,000	9616m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234271	9 Boothby Place	18/03/2008	09/05/2008	09/03/2008	$425,000	170m	Full transfer	3	1	-	-	-	$425,000	9	-	Combined Record	-	-	-	Medium density dwelling	$253,000	0.6
+2008	238133	46/1 Eldridge Crescent	08/08/2008	12/09/2008	-	$415,000	9616m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	233308	3/2 Eldridge Crescent	06/02/2008	03/06/2008	-	$415,000	10798m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230159	15/10 Hopegood Place	03/06/2008	15/07/2008	-	$399,500	7344m	Full transfer	-	-	-	-	-	$399,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234702	4/3 Garran Place	31/01/2008	12/03/2008	-	$357,500	1185m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236015	3/3 Garran Place	26/03/2008	13/05/2008	-	$337,500	1185m	Full transfer	-	-	-	-	-	$337,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236317	6/5 Garran Place	19/02/2008	01/04/2008	-	$335,000	1201m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237083	1/3 Garran Place	02/10/2008	08/12/2008	-	$329,950	1185m	Full transfer	-	-	-	-	-	$329,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	415888	2/1 Garran Place	31/07/2008	19/09/2008	08/05/2008	$315,000	1612m	Full transfer	1	1	-	-	-	$315,000	84	-	Combined Record	-	-	-	Multiple unit dwelling	$959,000	3.04
+2008	237230	8/3 Garran Place	05/07/2008	21/08/2008	-	$280,000	1185m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	234175	7/5 Garran Place	18/03/2008	05/05/2008	27/02/2008	$279,000	1201m	Full transfer	1	1	-	-	1	$279,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	$1,127,000	4.04
+2008	400717	4 Garran Place	14/08/2008	28/05/2013	-	$0	195m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	242401	61 Curlewis Crescent	17/12/2008	10/02/2009	-	-	886m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239874	4 Garran Place	28/06/2008	08/10/2008	-	-	195m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2008	241217	19 Palmer Street	29/11/2008	14/01/2009	-	-	827m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235475	33 Ingamells Street	31/01/2008	18/03/2008	-	-	694m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236229	2 Lavater Place	06/05/2008	21/05/2008	-	-	853m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239172	37 Ingamells Street	31/07/2008	09/11/2008	-	-	801m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230321	13 McCrae Street	30/06/2008	06/08/2008	-	-	763m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230440	3 Gay Place	02/07/2008	13/08/2008	-	-	1001m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241639	13/10 Hopegood Place	11/03/2008	18/05/2009	-	-	7344m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239875	38 Fitchett Street	20/06/2008	07/10/2008	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229848	2 Richardson Street	13/06/2008	23/07/2008	-	-	997m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240071	13 Dennis Street	18/07/2008	23/10/2008	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243316	10 Savery Street	11/01/2008	19/03/2009	-	-	751m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242400	14 Gilmore Crescent	04/08/2008	10/02/2009	-	-	752m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	256360	6/5 Dann Close	11/12/2009	16/04/2010	-	$1,376,650	3704m	Full transfer	-	-	-	-	-	$1,376,650	-	-	Government Record	-	-	-	National association office	-	-
+2009	249417	80 Couvreur Street	19/09/2009	21/10/2009	19/08/2009	$1,320,000	1619m	Full transfer	4	1	1	2	-	$1,320,000	31	-	Combined Record	-	-	-	Single residential dwelling	$731,000	0.55
+2009	245399	58 Couvreur Street	25/06/2009	07/08/2009	-	$1,180,000	1962m	Full transfer	-	-	-	-	-	$1,180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251936	18 Couvreur Street	09/09/2009	22/12/2009	01/04/2009	$1,175,000	1240m	Full transfer	4	1	1	2	-	$1,175,000	161	-	Combined Record	-	-	-	Single residential dwelling	$707,000	0.6
+2009	122367	83 Brereton Street	04/03/2009	-	15/01/2009	$1,150,000	1462m	Full transfer	5	2	1	2	0	$1,150,000	48	-	Allhomes Record	-	-	-	-	$686,000	0.6
+2009	262613	14 Couvreur Street	21/11/2009	11/01/2010	22/10/2009	$1,085,000	1074m	Full transfer	4	1	1	2	-	$1,085,000	30	-	Combined Record	-	-	-	Single residential dwelling	$722,000	0.67
+2009	124266	13 Stephens Place	04/04/2009	-	10/03/2009	$980,000	918m	Full transfer	4	1	1	2	-	$980,000	25	-	Allhomes Record	-	-	-	-	$456,000	0.47
+2009	262611	17 Rusden Street	09/12/2009	07/02/2010	27/10/2009	$850,000	1020m	Full transfer	4	1	1	2	-	$850,000	43	-	Combined Record	-	-	-	Single residential dwelling	$538,000	0.63
+2009	238668	8 Bonwick Place	28/02/2009	24/04/2009	02/02/2009	$850,000	891m	Full transfer	5	1	1	2	-	$850,000	26	-	Combined Record	-	-	-	Single residential dwelling	$576,000	0.68
+2009	249193	74 Brereton Street	03/07/2009	02/10/2009	10/06/2009	$817,000	986m	Full transfer	3	1	1	2	-	$817,000	23	-	Combined Record	-	-	-	Single residential dwelling	$569,000	0.7
+2009	250765	8 Praed Place	31/10/2009	13/12/2009	30/09/2009	$802,000	766m	Full transfer	4	1	1	-	2	$802,000	31	-	Combined Record	-	-	-	Single residential dwelling	$463,000	0.58
+2009	250091	29 Flanagan Street	22/08/2009	26/11/2009	23/07/2009	$790,000	843m	Full transfer	3	1	1	1	0	$790,000	30	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.64
+2009	122247	9 Richardson Street	16/04/2009	-	15/01/2009	$775,000	932m	Full transfer	5	2	1	2	-	$775,000	91	-	Allhomes Record	-	-	-	-	$572,000	0.74
+2009	325064	45 Fitchett Street	17/11/2009	13/12/2009	-	$771,000	1044m	Full transfer	-	-	-	-	-	$771,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262609	10 Harpur Place	21/12/2009	20/01/2010	30/10/2009	$770,000	1013m	Full transfer	4	3	-	2	-	$770,000	52	-	Combined Record	-	-	-	Single residential dwelling...	$576,000	0.75
+2009	250637	30 Harpur Street	10/11/2009	01/12/2009	12/08/2009	$735,000	700m	Full transfer	4	1	2	2	1	$735,000	90	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.68
+2009	323727	6 Gay Place	27/03/2009	18/06/2009	-	$725,000	813m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	119381	1 Gilmore Crescent	06/01/2009	-	14/10/2008	$717,000	532m	Full transfer	4	1	1	2	1	$717,000	84	-	Allhomes Record	-	-	-	-	$557,000	0.78
+2009	244765	42 Fitchett Street	12/06/2009	22/07/2009	30/01/2009	$715,000	811m	Full transfer	4	1	2	-	2	$715,000	133	-	Combined Record	-	-	-	Single residential dwelling	$469,000	0.66
+2009	245397	17 Ingamells Street	13/05/2009	06/08/2009	20/03/2009	$710,000	713m	Full transfer	4	1	-	-	-	$710,000	54	-	Combined Record	-	-	-	Single residential dwelling	$562,000	0.79
+2009	248204	24 Brereton Street	13/06/2009	24/09/2009	20/05/2009	$680,000	820m	Full transfer	3	1	1	2	-	$680,000	24	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.7
+2009	262607	5 Furphy Place	25/09/2009	14/02/2010	04/09/2009	$671,000	849m	Full transfer	3	1	0	-	1	$671,000	21	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.79
+2009	256226	18 Sabine Close	16/12/2009	31/03/2010	-	$662,500	808m	Full transfer	-	-	-	-	-	$662,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241695	25 Tompson Street	04/05/2009	22/05/2009	11/03/2009	$650,000	944m	Full transfer	-	-	-	-	-	$650,000	54	-	Combined Record	-	-	-	Single residential dwelling	$548,000	0.84
+2009	245400	15 Maurice Place	18/06/2009	05/08/2009	-	$645,000	833m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245727	5/1 Eldridge Crescent	01/07/2009	20/08/2009	-	$630,000	9616m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	325343	20 Tompson Street	15/12/2009	10/02/2010	-	$625,000	823m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242684	69 Fitchett Street	15/01/2009	23/02/2009	04/09/2008	$620,000	845m	Full transfer	3	1	-	2	-	$620,000	133	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.94
+2009	249613	105 Gilmore Crescent	02/09/2009	30/10/2009	25/08/2009	$610,000	919m	Full transfer	4	1	-	-	2	$610,000	8	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.73
+2009	247836	14 Robson Street	04/08/2009	16/10/2009	29/07/2009	$600,000	949m	Full transfer	3	1	-	-	2	$600,000	6	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.67
+2009	244544	49 Dennis Street	06/04/2009	29/06/2009	12/03/2009	$599,000	793m	Full transfer	4	2	-	-	2	$599,000	25	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.71
+2009	238772	5 Brereton Street	31/03/2009	01/05/2009	23/07/2008	$590,000	967m	Full transfer	3	1	1	3	-	$590,000	251	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.83
+2009	248572	3/1 Eldridge Crescent	04/08/2009	07/10/2009	-	$582,000	9616m	Full transfer	-	-	-	-	-	$582,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19381	            2/10 Dennis Street	17/04/2009	25/05/2009	-	$574,000	898m	Full transfer	-	-	-	-	-	$574,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	24751	10B Dennis Street	17/04/2009	-	09/05/2008	$574,000	897m	Full transfer	3	1	1	2	-	$574,000	343	-	Allhomes Record	-	-	-	-	$445,000	0.78
+2009	241696	98 Kitchener Street	15/03/2009	19/05/2009	19/12/2008	$563,500	735m	Full transfer	-	-	-	-	-	$563,500	86	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.73
+2009	246354	26 Fitchett Street	23/05/2009	01/09/2009	24/04/2009	$551,000	887m	Full transfer	3	1	0	1	0	$551,000	29	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.81
+2009	246965	            2/2 Hopegood Street	08/12/2009	-	04/09/2009	$550,000	8239m	Full transfer	3	1	1	2	-	$550,000	95	-	Allhomes Record	-	-	-	-	-	-
+2009	253765	2/2 Hopegood Place	08/12/2009	16/02/2010	-	$550,000	8239m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253688	17/7 Hopegood Place	23/10/2009	14/02/2010	-	$520,000	6188m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241694	13 Gilmore Crescent	06/04/2009	22/05/2009	26/11/2008	$515,000	816m	Full transfer	3	1	-	2	-	$515,000	131	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.74
+2009	251137	31/2 Eldridge Crescent	22/01/2009	-	08/12/2009	$507,500	10798m	Full transfer	3	1	1	2	-	$507,500	-	-	Allhomes Record	-	-	-	-	-	-
+2009	262612	8 Mackaness Place	31/10/2009	09/02/2010	09/07/2009	$500,000	547m	Full transfer	3	1	1	-	1	$500,000	114	-	Combined Record	-	-	-	Medium density dwelling	$272,000	0.54
+2009	127406	30/2 Hopegood Place	02/09/2009	-	29/05/2009	$495,000	8239m	Full transfer	3	1	1	2	-	$495,000	96	-	Allhomes Record	-	-	-	-	-	-
+2009	248668	30/2 Hopegood Place	27/08/2009	25/10/2009	-	$495,000	8239m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243150	16/15 Eldridge Crescent	09/02/2009	01/04/2009	-	$487,000	8387m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23336	            23/15 Elderidge Crescent	08/05/2009	-	09/07/2008	$475,000	-	Full transfer	3	1	1	2	-	$475,000	303	-	Allhomes Record	-	-	-	-	-	-
+2009	242074	15/1 Eldridge Crescent	19/01/2009	13/02/2009	-	$472,000	9616m	Full transfer	-	-	-	-	-	$472,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	118685	15/1 Eldridge Crescent	20/01/2009	-	26/09/2008	$472,000	9616m	Full transfer	3	1	1	2	-	$472,000	116	-	Allhomes Record	-	-	-	-	-	-
+2009	243840	5/5 Fitchett Street	12/05/2009	06/06/2009	-	$465,000	6605m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249063	            29/15 Eldridge Crescent	20/10/2009	26/11/2009	-	$460,000	8387m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	130449	29/17 Eldridge Crescent	21/10/2009	-	06/10/2009	$460,000	8387m	Full transfer	2	1	1	1	-	$460,000	15	-	Allhomes Record	-	-	-	-	-	-
+2009	248968	1/7 Eldridge Crescent	06/10/2009	18/11/2009	-	$452,000	5618m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246353	5 Palmer Street	21/07/2009	02/09/2009	-	$450,000	964m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259328	22/15 Eldridge Crescent	27/10/2009	03/02/2010	-	$450,000	8387m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	260922	7 Boothby Place	09/11/2009	04/02/2010	-	$450,000	170m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	241449	12/2 Hopegood Place	23/04/2009	13/05/2009	-	$446,000	8239m	Full transfer	-	-	-	-	-	$446,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241640	30/10 Hopegood Place	10/03/2009	19/05/2009	-	$440,000	7344m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253907	1/5 Fitchett Street	23/11/2009	04/03/2010	-	$440,000	6605m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	242948	32/10 Hopegood Place	19/02/2009	13/03/2009	-	$437,500	7344m	Full transfer	-	-	-	-	-	$437,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	238186	47/1 Eldridge Crescent	06/03/2009	06/04/2009	-	$435,000	9616m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244543	5 Rusden Street	13/05/2009	01/07/2009	-	$350,000	957m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250514	3/1 Garran Place	16/10/2009	04/12/2009	-	$348,000	1612m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259325	5/1 Garran Place	16/12/2009	10/02/2010	-	$333,000	1612m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259963	4/5 Dann Close	11/12/2009	16/04/2010	-	$273,350	3704m	Full transfer	-	-	-	-	-	$273,350	-	-	Government Record	-	-	-	National association office	-	-
+2009	260920	30 Ingamells Street	02/07/2009	04/02/2010	-	$250,000	945m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243873	2/2 Eldridge Crescent	27/05/2009	09/06/2009	-	$250,000	10798m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250180	            2/97 Gilmore Crescent	04/11/2009	12/11/2009	-	$240,000	898m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19338	            29/15 Eldridge Crescent	19/03/2009	01/06/2009	-	$143,333	8387m	Full transfer	-	-	-	-	-	$143,333	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253968	11/2 Hopegood Place	02/11/2009	18/03/2010	-	$24,500	8239m	Full transfer	-	-	-	-	-	$24,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	492644	4 O'Dowd Street	03/04/2009	13/12/2016	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	393245	4/1 Garran Place	13/12/2009	06/02/2013	-	$0	1612m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	437908	18 Neilson Street	16/09/2009	23/10/2014	-	$0	898m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23602	5/1 Eldridge Crescent	27/07/2009	-	20/05/2009	$0	9616m	Full transfer	4	1	2	2	-	$0	68	-	Allhomes Record	-	-	-	-	-	-
+2009	241532	9 Richardson Street	14/04/2009	13/05/2009	-	-	932m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	270387	6 Boothby Place	16/12/2009	14/09/2010	-	-	374m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	244435	68 Fitchett Street	02/06/2009	06/07/2009	-	-	705m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243438	1 Couvreur Street	12/03/2009	23/03/2009	-	-	1113m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245807	80 Couvreur Street	13/06/2009	13/08/2009	-	-	1619m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244545	29 Neilson Street	18/04/2009	03/07/2009	-	-	716m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245398	62 Brereton Street	23/03/2009	06/08/2009	-	-	1040m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249416	19 Gilmore Crescent	19/02/2009	20/10/2009	-	-	860m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248755	            2/1 Dennis Street	05/05/2009	29/10/2009	-	-	947m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245259	41/10 Hopegood Place	14/06/2009	29/07/2009	-	-	7344m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246513	8 Savery Street	18/04/2009	10/09/2009	-	-	709m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251656	49 Couvreur Street	07/04/2009	07/01/2010	-	-	1035m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250515	7/15 Eldridge Crescent	25/10/2009	04/12/2009	-	-	8387m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	270386	8 Boothby Place	16/12/2009	14/09/2010	-	-	282m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	246017	1/6 Boake Place	24/06/2009	28/08/2009	-	-	15302m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Self care units for aged pe...	-	-
+2009	243874	29/2 Eldridge Crescent	18/05/2009	12/06/2009	-	-	10798m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	260924	61 Fitchett Street	22/10/2009	08/02/2010	-	-	910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248442	8 Stephens Place	05/08/2009	16/12/2009	-	-	731m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255747	48 Curlewis Crescent	01/09/2009	29/03/2010	-	-	730m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243021	61 Gilmore Crescent	21/01/2009	13/03/2009	-	-	739m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248084	10 Mackaness Place	20/02/2009	15/09/2009	-	-	624m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	296089	69 Brereton Street	24/12/2010	03/06/2011	-	$1,600,000	2474m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271173	66 Couvreur Street	12/07/2010	24/09/2010	04/06/2010	$1,120,000	1061m	Full transfer	4	2	1	2	-	$1,120,000	38	-	Combined Record	-	-	-	Single residential dwelling...	$682,000	0.61
+2010	276779	22 Harpur Place	29/05/2010	21/07/2010	27/04/2010	$940,000	926m	Full transfer	4	1	1	2	-	$940,000	32	-	Combined Record	-	-	-	Single residential dwelling	$591,000	0.63
+2010	273653	32 Curlewis Crescent	26/06/2010	11/10/2010	27/05/2010	$937,000	1123m	Full transfer	4	1	1	-	2	$937,000	30	-	Combined Record	-	-	-	Single residential dwelling	$676,000	0.72
+2010	270837	2 Astley Place	05/06/2010	17/08/2010	29/04/2010	$935,500	998m	Full transfer	4	1	1	2	-	$935,500	37	-	Combined Record	-	-	-	Single residential dwelling	$703,000	0.75
+2010	280348	17 Couvreur Street	19/08/2010	16/12/2010	05/08/2010	$930,000	1171m	Full transfer	3	1	1	1	1	$930,000	14	-	Combined Record	-	-	-	Single residential dwelling	$609,000	0.65
+2010	339007	27 Brereton Street	06/09/2010	09/11/2010	12/08/2010	$920,000	994m	Full transfer	4	1	1	1	1	$920,000	25	-	Combined Record	-	-	-	Single residential dwelling	$656,000	0.71
+2010	273512	13 Rusden Place	19/08/2010	25/10/2010	29/07/2010	$920,000	859m	Full transfer	4	1	1	2	-	$920,000	21	-	Combined Record	-	-	-	Single residential dwelling	$602,000	0.65
+2010	280361	77 Fitchett Street	09/10/2010	07/12/2010	16/09/2010	$920,000	829m	Full transfer	4	1	1	1	0	$920,000	23	-	Combined Record	213	-	-	Single residential dwelling	$606,000	0.66
+2010	271172	15 Tompson Street	03/07/2010	23/09/2010	31/05/2010	$875,000	1402m	Full transfer	4	2	1	2	-	$875,000	33	-	Combined Record	-	-	-	Single residential dwelling	$562,000	0.64
+2010	279422	12 Furphy Place	21/10/2010	02/02/2011	24/08/2010	$860,000	888m	Full transfer	4	2	-	2	-	$860,000	58	-	Combined Record	-	-	-	Single residential dwelling	$628,000	0.73
+2010	258468	16 Robson Street	27/02/2010	12/04/2010	04/02/2010	$843,000	1026m	Full transfer	5	1	1	1	2	$843,000	23	-	Combined Record	-	-	-	Single residential dwelling	$417,000	0.49
+2010	258726	117 Kitchener Street	22/04/2010	21/05/2010	15/04/2010	$820,000	1209m	Full transfer	3	1	-	1	-	$820,000	7	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.49
+2010	273618	20 Robson Street	26/02/2010	01/11/2010	22/01/2010	$800,000	954m	Full transfer	4	1	-	2	-	$800,000	35	-	Combined Record	-	-	-	Single residential dwelling	$417,000	0.52
+2010	270977	46 Fitchett Street	19/06/2010	03/09/2010	19/05/2010	$790,000	960m	Full transfer	4	1	1	2	-	$790,000	31	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.66
+2010	292507	34 Gilmore Crescent	07/12/2010	13/04/2011	-	$760,000	872m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280714	16 Tompson Street	13/04/2010	06/12/2010	-	$750,000	929m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270331	47 Dennis Street	28/07/2010	10/09/2010	-	$745,000	846m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	327641	12 Caffyn Place	27/02/2010	09/06/2010	-	$735,000	1011m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	265348	4 Neilson Street	24/09/2010	-	03/06/2010	$715,000	1009m	Full transfer	4	1	1	2	-	$715,000	113	-	Allhomes Record	-	-	-	-	$454,000	0.63
+2010	273852	49 Gilmore Crescent	26/08/2010	10/11/2010	-	$710,000	921m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	384646	6 Stone Place	17/06/2010	07/05/2012	-	$700,000	1015m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	339005	9 Gilmore Crescent	11/09/2010	04/03/2011	20/07/2010	$684,000	788m	Full transfer	3	1	1	2	2	$684,000	53	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.58
+2010	269126	22 Tompson Street	17/04/2010	25/06/2010	18/03/2010	$680,000	788m	Full transfer	3	1	-	-	1	$680,000	30	-	Combined Record	-	-	-	Single residential dwelling	$560,000	0.82
+2010	273617	11 Savery Street	15/09/2010	03/11/2010	-	$667,000	906m	Full transfer	-	-	-	-	-	$667,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287397	12 Gilmore Crescent	15/12/2010	23/03/2011	-	$610,000	760m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272485	12 Gilmore Crescent	17/12/2010	-	24/11/2010	$605,000	760m	Full transfer	3	1	-	2	-	$605,000	23	-	Allhomes Record	-	-	-	-	$1,275,000	2.11
+2010	256805	33/7 Eldridge Crescent	03/05/2010	-	30/04/2010	$557,500	5618m	Full transfer	3	1	1	-	-	$557,500	3	-	Allhomes Record	-	-	-	-	$2,428,000	4.36
+2010	267362	33/7 Eldridge Crescent	01/05/2010	25/06/2010	-	$557,500	5618m	Full transfer	-	-	-	-	-	$557,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263523	31/10 Hopegood Place	09/04/2010	01/06/2010	-	$553,750	7344m	Full transfer	-	-	-	-	-	$553,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269735	14/2 Hopegood Place	14/05/2010	03/09/2010	-	$550,000	8239m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266586	            4/15 Eldridge Cres	11/10/2010	-	15/09/2010	$549,000	8387m	Full transfer	3	1	1	2	-	$549,000	26	-	Allhomes Record	-	-	-	-	-	-
+2010	274096	4/15 Eldridge Crescent	11/10/2010	19/11/2010	-	$545,000	8387m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269873	9/10 Hopegood Place	28/07/2010	14/09/2010	-	$540,000	7344m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260117	20/10 Hopegood Place	01/04/2010	11/05/2010	-	$535,000	7344m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	283646	29/7 Eldridge Crescent	07/12/2010	14/02/2011	-	$514,000	5618m	Full transfer	-	-	-	-	-	$514,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	253766	31/2 Eldridge Crescent	22/01/2010	21/02/2010	-	$507,500	10798m	Full transfer	-	-	-	-	-	$507,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	259965	33/7 Eldridge Crescent	24/02/2010	07/04/2010	-	$485,000	5618m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263524	33/10 Hopegood Place	01/04/2010	02/06/2010	-	$450,000	7344m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269609	4/5 Garran Place	06/07/2010	23/08/2010	-	$413,000	1201m	Full transfer	-	-	-	-	-	$413,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	255224	7/1 Garran Place	01/04/2010	-	25/02/2010	$316,000	1612m	Full transfer	1	1	-	-	1	$316,000	35	-	Allhomes Record	-	-	-	-	-	-
+2010	260174	7/1 Garran Place	30/03/2010	18/05/2010	-	$316,000	1612m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	365071	48 Curlewis Crescent	24/04/2010	13/03/2012	-	$0	730m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	405292	13/15 Eldridge Crescent	23/10/2010	24/07/2013	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270439	30 Gilmore Crescent	27/07/2010	22/09/2010	-	-	849m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272792	59 Gilmore Crescent	08/07/2010	28/10/2010	-	-	855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	338449	6 Stone Place	02/06/2010	15/09/2011	-	-	1015m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283388	12 Gilmore Crescent	19/07/2010	16/02/2011	-	-	760m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283437	71 Gilmore Crescent	30/09/2010	08/02/2011	-	-	1091m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272791	16 Maurice Place	31/08/2010	27/10/2010	-	-	740m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283436	6 McCrae Street	04/12/2010	10/02/2011	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273216	18/15 Eldridge Crescent	30/08/2010	03/11/2010	-	-	8387m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261853	117 Kitchener Street	15/03/2010	14/05/2010	-	-	1209m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275645	25/2 Eldridge Crescent	14/08/2010	12/01/2011	-	-	10798m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	285865	9 Flanagan Street	18/12/2010	09/03/2011	-	-	868m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	340319	73 Fitchett Street	02/11/2010	28/09/2011	-	-	845m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	296475	4 Lavater Place	16/11/2010	24/05/2011	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	285977	24/7 Hopegood Place	13/05/2010	17/03/2011	-	-	6188m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270442	4 Neilson Street	17/08/2010	24/09/2010	-	-	1009m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269812	18/7 Hopegood Place	05/08/2010	09/09/2010	-	-	6188m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270441	29 Curlewis Crescent	27/07/2010	20/09/2010	-	-	797m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300788	42 Flanagan Street	20/04/2011	11/07/2011	06/04/2011	$1,325,000	1237m	Full transfer	6	2	1	3	-	$1,325,000	14	-	Combined Record	-	-	-	Single residential dwelling	$743,000	0.56
+2011	340211	6 Stone Place	20/07/2011	-	15/12/2010	$1,299,000	1015m	Full transfer	6	1	1	2	-	$1,299,000	217	-	Allhomes Record	-	-	-	-	$489,000	0.38
+2011	297045	63 Brereton Street	19/04/2011	16/06/2011	11/01/2011	$1,150,000	1697m	Full transfer	4	2	1	-	2	$1,150,000	98	-	Combined Record	197	-	-	Single residential dwelling	$836,000	0.73
+2011	331558	7 Richardson Street	16/04/2011	10/06/2011	22/02/2011	$1,100,000	1135m	Full transfer	4	1	2	2	-	$1,100,000	53	-	Combined Record	240	-	-	Single residential dwelling	$645,000	0.59
+2011	346786	27 Ingamells Street	13/10/2011	21/11/2011	19/09/2011	$1,100,000	694m	Full transfer	4	1	2	2	1	$1,100,000	24	-	Combined Record	-	-	-	Single residential dwelling	$719,000	0.65
+2011	297106	1/117 Kitchener Street	21/02/2011	10/06/2011	23/11/2010	$1,100,000	1209m	Full transfer	4	2	1	2	-	$1,100,000	90	-	Combined Record	-	-	-	Multiple unit dwelling	$399,000	0.36
+2011	340392	4 Couvreur Street	13/07/2011	22/09/2011	-	$972,000	982m	Full transfer	-	-	-	-	-	$972,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347991	3 Flanagan Street	27/08/2011	27/10/2011	11/01/2011	$967,000	927m	Full transfer	4	1	1	-	-	$967,000	228	-	Combined Record	144	-	-	Single residential dwelling	$576,000	0.6
+2011	342420	58 Curlewis Crescent	20/07/2011	04/10/2011	24/02/2011	$960,000	952m	Full transfer	4	1	1	-	1	$960,000	146	-	Combined Record	-	-	-	Single residential dwelling	$602,000	0.63
+2011	296760	56 Brereton Street	19/04/2011	20/06/2011	02/02/2011	$930,000	1102m	Full transfer	4	1	1	2	-	$930,000	76	-	Combined Record	-	-	-	Single residential dwelling	$685,000	0.74
+2011	331617	17 Curlewis Crescent	09/04/2011	16/06/2011	-	$902,000	906m	Full transfer	-	-	-	-	-	$902,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	366038	9 Rusden Place	05/11/2011	27/02/2012	08/07/2011	$890,000	1001m	Full transfer	4	1	1	2	4	$890,000	120	-	Combined Record	178	-	-	Single residential dwelling	$667,000	0.75
+2011	336903	31 Tompson Street	01/04/2011	11/08/2011	15/12/2010	$870,000	886m	Full transfer	4	1	1	1	-	$870,000	107	-	Combined Record	176	-	-	Single residential dwelling	$616,000	0.71
+2011	346784	17 Sabine Close	24/09/2011	16/11/2011	16/08/2011	$835,000	801m	Full transfer	4	2	1	-	2	$835,000	39	-	Combined Record	199	-	-	Single residential dwelling	$501,000	0.6
+2011	333009	74 Fitchett Street	21/05/2011	01/08/2011	21/04/2011	$830,000	758m	Full transfer	4	1	1	1	-	$830,000	30	-	Combined Record	-	-	-	Single residential dwelling	$587,000	0.71
+2011	340802	14 McCrae Street	21/07/2011	21/09/2011	14/01/2011	$795,000	856m	Full transfer	4	1	1	2	-	$795,000	188	-	Combined Record	210	-	-	Single residential dwelling	$488,000	0.61
+2011	335989	            2/15A Furphy Place	02/07/2011	01/09/2011	-	$761,000	1158m	Full transfer	-	-	-	-	-	$761,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	295921	            15B Furphy Place	02/07/2011	-	26/05/2011	$761,000	1158m	Full transfer	3	1	1	-	2	$761,000	37	-	Allhomes Record	-	-	-	-	$728,000	0.96
+2011	336901	3 Esson Place	06/07/2011	11/08/2011	15/06/2011	$730,000	951m	Full transfer	3	1	1	1	1	$730,000	21	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.68
+2011	347989	34 Curlewis Crescent	30/08/2011	27/10/2011	25/05/2011	$725,000	1176m	Full transfer	3	1	1	-	1	$725,000	97	-	Combined Record	-	-	-	Single residential dwelling	$741,000	1.02
+2011	333294	3 Praed Place	19/04/2011	26/07/2011	17/03/2011	$700,000	862m	Full transfer	3	1	-	-	1	$700,000	33	-	Combined Record	-	-	-	Single residential dwelling	$543,000	0.78
+2011	333479	43/10 Hopegood Place	14/05/2011	01/08/2011	-	$695,000	7344m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	370044	83 Fitchett Street	21/09/2011	29/03/2012	-	$690,000	845m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346783	            50/15 Eldridge Crescent	06/10/2011	15/11/2011	-	$670,000	8387m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287472	34/2 Hopegood Place	09/02/2011	30/03/2011	-	$670,000	8239m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	332797	1/1 Eldridge Crescent	23/06/2011	28/07/2011	-	$660,000	9616m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	332798	9/2 Hopegood Place	17/06/2011	25/07/2011	16/05/2011	$645,000	8239m	Full transfer	3	1	1	2	-	$645,000	32	-	Combined Record	-	-	-	Multiple unit dwelling	$2,206,000	3.42
+2011	292094	23 Palmer Street	16/02/2011	05/05/2011	15/12/2010	$642,000	874m	Full transfer	3	1	-	-	-	$642,000	63	-	Combined Record	134	-	-	Single residential dwelling	$456,000	0.71
+2011	366040	2/28 Gilmore Crescent	13/11/2011	27/02/2012	21/10/2011	$622,500	926m	Full transfer	3	1	1	1	-	$622,500	23	-	Combined Record	-	-	-	Multiple unit dwelling	$798,000	1.28
+2011	336812	38 Fitchett Street	18/06/2011	16/08/2011	20/05/2011	$605,000	813m	Full transfer	3	1	-	1	-	$605,000	29	-	Combined Record	-	-	-	Single residential dwelling	$576,000	0.95
+2011	365713	27/7 Eldridge Crescent	30/11/2011	23/02/2012	20/10/2011	$595,000	5618m	Full transfer	3	1	1	2	-	$595,000	41	-	Combined Record	120	-	-	Multiple unit dwelling	$3,351,000	5.63
+2011	296528	2/10 Hopegood Place	22/03/2011	01/06/2011	-	$580,000	7344m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353495	37 Fitchett Street	05/12/2011	11/01/2012	21/10/2011	$580,000	864m	Full transfer	3	1	-	-	1	$580,000	45	-	Combined Record	113	-	-	Single residential dwelling	$488,000	0.84
+2011	360343	3 Mackaness Place	02/12/2011	13/02/2012	29/09/2011	$575,000	223m	Full transfer	3	1	-	-	1	$575,000	64	-	Combined Record	116	-	-	Medium density dwelling	$306,000	0.53
+2011	347587	20/2 Eldridge Crescent	20/09/2011	01/11/2011	03/08/2011	$575,000	10798m	Full transfer	3	-	1	2	-	$575,000	48	-	Combined Record	109	-	-	Multiple unit dwelling	$3,219,000	5.6
+2011	365375	1/28 Gilmore Crescent	21/12/2011	08/03/2012	-	$570,000	926m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350291	22/7 Eldridge Crescent	28/10/2011	28/11/2011	18/08/2011	$570,000	5618m	Full transfer	3	1	1	2	-	$570,000	71	-	Combined Record	119	-	-	Multiple unit dwelling	$2,671,000	4.69
+2011	353493	7/2 Hopegood Place	01/12/2011	12/01/2012	26/09/2011	$568,000	8239m	Full transfer	3	1	1	2	-	$568,000	66	-	Combined Record	121	-	-	Multiple unit dwelling	$2,767,000	4.87
+2011	291684	30/7 Eldridge Crescent	28/03/2011	10/05/2011	-	$563,000	5618m	Full transfer	-	-	-	-	-	$563,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360342	2/7 Hopegood Place	20/12/2011	17/02/2012	-	$560,000	6188m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	282534	31/17 Eldridge Crescent	25/03/2011	-	23/02/2011	$559,000	8387m	Full transfer	3	1	1	2	-	$559,000	30	-	Allhomes Record	-	-	-	-	-	-
+2011	291683	10/2 Eldridge Crescent	17/02/2011	10/05/2011	-	$556,500	10798m	Full transfer	-	-	-	-	-	$556,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287084	10/7 Eldridge Crescent	28/04/2011	-	23/02/2011	$550,000	5618m	Full transfer	3	1	1	2	-	$550,000	64	-	Allhomes Record	-	-	-	-	$2,671,000	4.86
+2011	296527	10/7 Eldridge Crescent	21/04/2011	03/06/2011	-	$550,000	5618m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296985	15 Boothby Place	08/04/2011	09/06/2011	16/03/2011	$540,000	260m	Full transfer	4	1	1	4	-	$540,000	23	-	Combined Record	118	-	-	Medium density dwelling	$310,000	0.57
+2011	287396	9 Boothby Place	24/01/2011	24/03/2011	-	$539,000	170m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	300369	37/7 Eldridge Crescent	04/05/2011	13/07/2011	-	$527,000	5618m	Full transfer	-	-	-	-	-	$527,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350293	15/7 Hopegood Place	28/10/2011	01/12/2011	-	$523,000	6188m	Full transfer	-	-	-	-	-	$523,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	335944	25/7 Hopegood Place	14/07/2011	22/08/2011	-	$520,000	6188m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	344139	5 Gay Place	01/09/2011	21/10/2011	-	$518,880	1222m	Full transfer	-	-	-	-	-	$518,880	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296298	10/1 Eldridge Crescent	05/04/2011	09/06/2011	-	$516,000	9616m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	274827	26/1 Eldridge Crescent	17/01/2011	-	23/11/2010	$515,000	9616m	Full transfer	2	1	1	-	-	$515,000	55	-	Allhomes Record	109	-	-	-	$3,219,000	6.25
+2011	283578	26/1 Eldridge Crescent	13/01/2011	22/02/2011	-	$515,000	9616m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	492186	3/5 Fitchett Street	01/02/2011	-	24/12/2016	$498,000	0m	Full transfer	3	2	1	2	0	$498,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	291768	3/5 Fitchett Street	18/02/2011	13/04/2011	-	$498,000	6605m	Full transfer	-	-	-	-	-	$498,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	296409	2/43 Fitchett Street	05/04/2011	24/05/2011	-	$495,000	1517m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	404355	13/5 Dann Close	01/09/2011	19/07/2013	-	$481,250	3704m	Full transfer	-	-	-	-	-	$481,250	-	-	Government Record	-	-	-	National association office	-	-
+2011	291576	12 Praed Place	29/03/2011	13/04/2011	-	$380,000	1667m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	335945	6/3 Garran Place	14/07/2011	22/08/2011	-	$371,000	1185m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	295462	1/3 Garran Place	30/06/2011	-	16/06/2011	$352,500	1185m	Full transfer	2	1	-	-	1	$352,500	14	-	Allhomes Record	-	-	-	-	$1,240,000	3.52
+2011	335820	1/3 Garran Place	29/06/2011	08/08/2011	-	$352,500	1185m	Full transfer	-	-	-	-	-	$352,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291611	13/5 Dann Close	21/01/2011	20/05/2011	-	$350,000	3704m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	National association office	-	-
+2011	300270	9/3 Garran Place	03/06/2011	22/07/2011	-	$337,000	1185m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	300368	34/1 Eldridge Crescent	01/04/2011	13/07/2011	-	$250,000	9616m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	342209	102 Kitchener Street	08/09/2011	06/10/2011	-	$220,000	792m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350063	11 Rusden Place	14/09/2011	05/12/2011	-	$0	1115m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	374064	13 Palmer Street	18/09/2011	18/06/2012	-	$0	969m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	384912	136 Kitchener Street	13/10/2011	15/05/2012	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353825	14/1 Eldridge Crescent	26/09/2011	19/01/2012	-	$0	9616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	411415	33 Curlewis Crescent	28/10/2011	23/10/2013	-	$0	822m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353497	28 Flanagan Street	24/10/2011	13/01/2012	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	370803	61 Fitchett Street	28/12/2011	01/05/2012	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340320	3 Lavater Place	16/04/2011	28/09/2011	-	-	834m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333296	9 Ogilvie Place	08/07/2011	25/07/2011	-	-	1052m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333478	24/15 Eldridge Crescent	14/01/2011	05/08/2011	-	-	8387m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340393	2 Neilson Street	20/05/2011	21/09/2011	-	-	936m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336156	8 Mackaness Place	12/08/2011	29/08/2011	-	-	547m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	291178	78 Couvreur Street	04/02/2011	02/05/2011	-	-	1838m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297615	31 Neilson Street	12/05/2011	01/07/2011	-	-	1484m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300227	3 Esson Place	11/04/2011	20/07/2011	-	-	951m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391856	73 Brereton Street	25/08/2012	13/02/2013	01/08/2012	$1,100,000	1757m	Full transfer	3	1	2	1	2	$1,100,000	24	-	Combined Record	-	-	-	Single residential dwelling	$873,000	0.79
+2012	391746	32 Flanagan Street	24/11/2012	28/02/2013	02/11/2012	$1,100,000	1041m	Full transfer	4	1	1	3	-	$1,100,000	22	-	Combined Record	-	-	-	Single residential dwelling	$736,000	0.67
+2012	376578	44 Brereton Street	09/06/2012	08/08/2012	26/04/2012	$1,050,000	1197m	Full transfer	4	2	1	3	-	$1,050,000	44	-	Combined Record	-	-	-	Single residential dwelling	$693,000	0.66
+2012	368571	10 Richardson Street	18/02/2012	21/03/2012	19/01/2012	$1,008,000	985m	Full transfer	4	3	-	2	1	$1,008,000	30	-	Combined Record	-	-	-	Single residential dwelling	$681,000	0.68
+2012	352721	2 Robson Street	10/02/2012	-	06/09/2011	$980,000	-	Full transfer	4	1	1	2	-	$980,000	157	-	Allhomes Record	236	-	-	-	$624,000	0.64
+2012	386221	54 Curlewis Crescent	26/10/2012	07/12/2012	06/09/2012	$950,000	864m	Full transfer	4	1	2	2	-	$950,000	50	-	Combined Record	-	-	-	Single residential dwelling	$598,000	0.63
+2012	391859	27 Curlewis Crescent	21/11/2012	12/02/2013	07/11/2012	$950,000	829m	Full transfer	4	1	1	2	-	$950,000	14	-	Combined Record	170	-	-	Single residential dwelling	$624,000	0.66
+2012	376636	58 Curlewis Crescent	29/05/2012	23/07/2012	15/05/2012	$940,000	952m	Full transfer	4	1	1	-	1	$940,000	14	-	Combined Record	163	-	-	Single residential dwelling	$626,000	0.67
+2012	377872	            6A Stone Place	25/09/2012	-	09/03/2012	$935,000	-	Full transfer	4	1	1	2	-	$935,000	200	-	Allhomes Record	-	-	-	-	-	-
+2012	382729	            1/6 Stone Place	19/09/2012	20/11/2012	-	$933,600	1015m	Full transfer	-	-	-	-	-	$933,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	357031	2/12 Hartigan Street	02/03/2012	-	09/02/2012	$885,000	947m	Full transfer	3	1	1	2	-	$885,000	22	-	Allhomes Record	-	-	-	-	$638,000	0.72
+2012	371956	            2/1 Dennis Street	02/03/2012	28/05/2012	-	$885,000	947m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	371314	4 Maurice Place	04/07/2012	-	13/06/2012	$881,000	807m	Full transfer	4	1	2	2	2	$881,000	21	-	Allhomes Record	-	-	-	-	$627,000	0.71
+2012	376910	14 Curlewis Crescent	06/07/2012	03/08/2012	09/05/2012	$835,000	876m	Full transfer	4	1	2	2	1	$835,000	58	-	Combined Record	876	-	-	Single residential dwelling	$588,000	0.7
+2012	382726	29 Flanagan Street	10/08/2012	21/11/2012	28/06/2012	$820,000	843m	Full transfer	3	1	1	1	-	$820,000	43	-	Combined Record	146	-	-	Single residential dwelling	$610,000	0.74
+2012	366311	61 Fitchett Street	12/05/2012	-	19/04/2012	$810,000	910m	Full transfer	4	1	1	-	3	$810,000	23	-	Allhomes Record	-	-	-	-	$681,000	0.84
+2012	361344	2 Lavater Place	04/04/2012	-	09/03/2012	$781,000	853m	Full transfer	4	1	1	2	-	$781,000	26	-	Allhomes Record	-	-	-	-	$559,000	0.72
+2012	386821	64 Fitchett Street	18/10/2012	21/12/2012	27/08/2012	$780,000	747m	Full transfer	4	2	-	-	2	$780,000	52	-	Combined Record	164	-	-	Single residential dwelling	$610,000	0.78
+2012	376908	7 Bonwick Place	04/06/2012	01/08/2012	13/04/2012	$764,000	849m	Full transfer	3	1	-	1	1	$764,000	52	-	Combined Record	-	-	-	Single residential dwelling	$697,000	0.91
+2012	368799	19 Brereton Street	27/02/2012	18/04/2012	-	$710,000	998m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	355791	83 Fitchett Street	21/02/2012	-	08/02/2012	$690,000	845m	Full transfer	3	1	-	1	1	$690,000	13	-	Allhomes Record	-	-	-	-	$691,000	1.0
+2012	391742	47 Fitchett Street	22/11/2012	27/02/2013	31/08/2012	$685,000	725m	Full transfer	3	1	-	-	1	$685,000	83	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.81
+2012	391744	25 Rusden Street	10/12/2012	25/02/2013	02/08/2012	$680,000	983m	Full transfer	4	1	1	1	-	$680,000	130	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.96
+2012	368798	1/60 Garran Place	03/02/2012	20/04/2012	-	$675,200	540m	Full transfer	-	-	-	-	-	$675,200	-	-	Government Record	-	-	-	Consulting rooms	-	-
+2012	370045	28 Fitchett Street	24/01/2012	27/03/2012	30/09/2011	$668,000	884m	Full transfer	4	1	1	2	2	$668,000	116	-	Combined Record	159	-	-	Single residential dwelling	$552,000	0.83
+2012	387295	67 Gilmore Crescent	05/11/2012	19/12/2012	19/06/2012	$665,000	889m	Full transfer	4	1	1	2	2	$665,000	139	-	Combined Record	170	-	-	Single residential dwelling	$475,000	0.71
+2012	371599	47/2 Eldridge Crescent	10/05/2012	06/06/2012	22/03/2012	$663,000	10798m	Full transfer	3	1	1	2	-	$663,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	6.09
+2012	383897	46/2 Eldridge Crescent	21/09/2012	08/11/2012	26/07/2012	$660,000	10798m	Full transfer	3	1	2	2	-	$660,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	6.12
+2012	376907	2/5 Dann Close	19/04/2012	30/07/2012	-	$655,000	3704m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	National association office	-	-
+2012	385123	49/17 Eldridge Crescent	21/12/2012	-	18/10/2012	$650,000	-	Full transfer	3	1	2	2	-	$650,000	64	-	Allhomes Record	-	-	-	-	-	-
+2012	394970	            49/15 Eldridge Crescent	21/12/2012	10/04/2013	-	$650,000	8387m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368573	16 Sabine Close	01/02/2012	21/03/2012	09/11/2011	$645,000	790m	Full transfer	4	2	-	-	2	$645,000	84	-	Combined Record	-	-	-	Single residential dwelling	$508,000	0.79
+2012	379176	            2/146 Kitchener Street	29/03/2012	07/09/2012	-	$642,000	951m	Full transfer	-	-	-	-	-	$642,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	360917	            146A Kitchener Street	30/03/2012	-	06/02/2012	$642,000	-	Full transfer	3	1	1	2	-	$642,000	53	-	Allhomes Record	130	-	-	-	-	-
+2012	391958	138 Kitchener Street	14/12/2012	06/02/2013	22/10/2012	$640,000	907m	Full transfer	4	1	1	2	-	$640,000	53	-	Combined Record	147	-	-	Single residential dwelling	$431,000	0.67
+2012	365715	14 Gilmore Crescent	17/02/2012	24/02/2012	-	$635,000	752m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373106	25 Fitchett Street	24/02/2012	26/04/2012	27/09/2011	$583,000	730m	Full transfer	3	1	-	2	-	$583,000	150	-	Combined Record	100	-	-	Single residential dwelling	$489,000	0.84
+2012	376582	29 Neilson Street	30/06/2012	09/08/2012	06/06/2012	$580,000	716m	Full transfer	3	1	1	1	1	$580,000	24	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.82
+2012	370804	32/2 Eldridge Crescent	13/03/2012	04/05/2012	05/12/2011	$573,000	10798m	Full transfer	3	1	1	2	-	$573,000	99	-	Combined Record	137	-	-	Multiple unit dwelling	$4,038,000	7.05
+2012	366893	11/10 Hopegood Place	18/05/2012	-	09/03/2012	$567,000	7344m	Full transfer	3	1	1	2	-	$567,000	70	-	Allhomes Record	125	-	-	-	$3,694,000	6.51
+2012	386819	41 Fitchett Street	30/10/2012	19/12/2012	23/08/2012	$560,000	1646m	Full transfer	3	1	1	-	3	$560,000	68	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.89
+2012	415176	39/1 Eldridge Crescent	29/08/2012	04/12/2013	-	$560,000	9616m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	386013	9/1 Eldridge Crescent	12/10/2012	11/12/2012	-	$555,000	9616m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	372091	37/10 Hopegood Place	11/07/2012	-	20/03/2012	$550,000	7344m	Full transfer	3	1	1	2	-	$550,000	113	-	Allhomes Record	125	-	-	-	$3,694,000	6.72
+2012	379177	3/7 Hopegood Place	20/08/2012	06/09/2012	29/05/2012	$549,000	6188m	Full transfer	3	1	1	2	0	$549,000	83	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	382724	42/1 Eldridge Crescent	03/10/2012	19/11/2012	21/08/2012	$548,000	9616m	Full transfer	3	1	1	2	-	$548,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	7.37
+2012	382614	7/7 Hopegood Place	29/10/2012	26/11/2012	16/07/2012	$540,000	6188m	Full transfer	3	1	1	2	0	$540,000	105	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	386014	5/7 Hopegood Place	29/10/2012	12/12/2012	30/07/2012	$539,000	6188m	Full transfer	3	1	1	2	0	$539,000	91	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	391960	10/10 Hopegood Place	17/12/2012	06/02/2013	10/10/2012	$519,000	7344m	Full transfer	2	-	2	2	-	$519,000	68	-	Combined Record	-	-	-	Multiple unit dwelling	$3,694,000	7.12
+2012	382616	41/10 Hopegood Place	20/09/2012	29/11/2012	04/09/2012	$518,000	7344m	Full transfer	2	1	1	2	-	$518,000	16	-	Combined Record	-	-	-	Multiple unit dwelling	$3,694,000	7.13
+2012	377452	16/2 Eldridge Crescent	12/09/2012	-	21/06/2012	$505,000	10798m	Full transfer	3	1	1	2	-	$505,000	83	-	Allhomes Record	-	-	-	-	-	-
+2012	380916	9 Mackaness Place	21/08/2012	26/09/2012	01/05/2012	$500,000	239m	Full transfer	3	1	-	-	1	$500,000	112	-	Combined Record	112	-	-	Medium density dwelling	$306,000	0.61
+2012	372205	37/2 Eldridge Crescent	13/07/2012	-	01/05/2012	$500,000	10798m	Full transfer	2	1	1	1	-	$500,000	73	-	Allhomes Record	-	-	-	-	$4,038,000	8.08
+2012	389513	28/2 Eldridge Crescent	21/11/2012	21/01/2013	-	$495,000	10798m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379902	8/2 Eldridge Crescent	11/07/2012	13/09/2012	04/05/2012	$490,000	10798m	Full transfer	2	1	1	1	-	$490,000	68	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	8.24
+2012	383417	23/7 Hopegood Place	21/09/2012	12/11/2012	14/08/2012	$490,000	6188m	Full transfer	2	1	1	2	-	$490,000	38	-	Combined Record	-	-	-	Multiple unit dwelling	$2,921,000	5.96
+2012	376580	6/39 Fitchett Street	20/06/2012	09/08/2012	11/04/2012	$480,000	4120m	Full transfer	2	1	-	-	1	$480,000	70	-	Combined Record	113	-	-	Multiple unit dwelling	$943,000	1.96
+2012	386220	            27/15 Eldridge Crescent	12/10/2012	03/12/2012	-	$473,000	8387m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	378401	27/17 Eldridge Crescent	12/10/2012	-	21/08/2012	$473,000	-	Full transfer	2	1	1	1	-	$473,000	52	-	Allhomes Record	-	-	-	-	-	-
+2012	388580	24/15 Eldridge Crescent	29/10/2012	18/01/2013	-	$457,500	8387m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368796	1/3 Garran Place	01/03/2012	18/04/2012	27/01/2012	$380,000	1185m	Full transfer	2	1	-	-	1	$380,000	34	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	4.09
+2012	370806	9/5 Garran Place	23/03/2012	01/05/2012	09/01/2012	$304,500	1201m	Full transfer	1	1	0	0	1	$304,500	74	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	5.11
+2012	374542	27/7 Hopegood Place	11/05/2012	28/06/2012	-	$275,000	6188m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	380682	13 Stephens Place	27/08/2012	11/10/2012	-	$105,000	918m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382730	            1/6 Stone Place	13/08/2012	20/11/2012	-	$0	1015m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	446798	24/7 Hopegood Place	21/10/2012	10/02/2015	-	$0	6188m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	393246	4 Esson Place	21/12/2012	05/02/2013	-	$0	1083m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383419	8 Neilson Street	26/06/2012	12/11/2012	-	$0	803m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386854	2/14 Hartigan Street	14/09/2012	09/01/2013	-	$0	5305m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382618	11 Henderson Street	03/10/2012	27/11/2012	-	$0	847m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384913	29 Neilson Street	07/02/2012	14/05/2012	-	$0	716m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389941	2 Garran Place	30/11/2012	01/02/2013	-	$0	1824m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+2012	371957	7 Bonwick Place	22/02/2012	31/05/2012	-	$0	849m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	366037	20/7 Eldridge Crescent	11/01/2012	01/03/2012	-	$0	5618m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	374261	48 Curlewis Crescent	17/03/2012	17/06/2012	15/02/2012	$0	730m	Full transfer	4	1	-	2	-	$0	31	-	Combined Record	-	-	-	Single residential dwelling	$604,000	5.11
+2012	407267	6/2 Eldridge Crescent	09/12/2012	27/08/2013	-	$0	10798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	384910	136 Kitchener Street	29/02/2012	15/05/2012	10/11/2011	$0	785m	Full transfer	4	2	1	2	-	$0	111	-	Combined Record	-	-	-	Single residential dwelling	$431,000	5.11
+2012	382728	            2/6 Stone Place	13/08/2012	22/11/2012	-	$0	1015m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	404938	3/15 Eldridge Crescent	09/12/2012	06/08/2013	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	371954	14 Neilson Street	21/04/2012	28/05/2012	29/03/2012	$0	858m	Full transfer	3	1	-	2	-	$0	23	-	Combined Record	-	-	-	Single residential dwelling	$508,000	5.11
+2012	391858	73 Brereton Street	17/02/2012	13/02/2013	-	$0	1757m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393247	56 Curlewis Crescent	18/01/2012	08/02/2013	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394187	10 Sabine Close	18/07/2012	03/04/2013	-	$0	973m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428609	69 Brereton Street	13/11/2013	04/06/2014	-	$1,728,000	2474m	Full transfer	-	-	-	-	-	$1,728,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410452	38 Flanagan Street	10/08/2013	13/09/2013	02/07/2013	$1,335,000	1041m	Full transfer	6	3	1	2	-	$1,335,000	39	-	Combined Record	268	-	-	Single residential dwelling	$761,000	0.57
+2013	404226	60 Brereton Street	23/03/2013	01/07/2013	28/02/2013	$1,200,000	1200m	Full transfer	4	1	1	2	-	$1,200,000	23	-	Combined Record	-	-	-	Single residential dwelling	$708,000	0.59
+2013	402083	7 Henderson Street	25/07/2013	-	17/04/2012	$1,200,000	928m	Full transfer	6	2	2	2	-	$1,200,000	464	-	Allhomes Record	-	-	-	-	$559,000	0.47
+2013	401754	35 Couvreur Street	16/04/2013	21/05/2013	19/02/2013	$1,150,000	989m	Full transfer	5	1	3	2	-	$1,150,000	56	-	Combined Record	-	-	-	Single residential dwelling	$670,000	0.58
+2013	413079	10 Maurice Place	11/09/2013	29/10/2013	22/07/2013	$985,000	756m	Full transfer	4	1	1	2	-	$985,000	51	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.64
+2013	411417	1/12 Gilmore Crescent	04/03/2013	21/10/2013	-	$980,000	1512m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	421320	2/12 Gilmore Crescent	23/10/2013	25/02/2014	30/07/2013	$980,000	1512m	Full transfer	3	1	1	4	-	$980,000	85	-	Combined Record	184	-	-	Multiple unit dwelling	$1,275,000	1.3
+2013	411416	3/12 Gilmore Crescent	19/04/2013	24/10/2013	-	$970,000	1512m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	397687	37 Flanagan Street	20/03/2013	10/05/2013	30/01/2013	$935,000	1170m	Full transfer	4	1	1	-	1	$935,000	49	-	Combined Record	190	-	-	Single residential dwelling	$730,000	0.78
+2013	404353	4 Brent Place	14/05/2013	16/07/2013	26/03/2013	$762,000	919m	Full transfer	5	2	-	2	-	$762,000	49	-	Combined Record	182	-	-	Single residential dwelling	$564,000	0.74
+2013	404231	16 Gilmore Crescent	11/05/2013	05/07/2013	-	$760,000	1163m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410095	16 Gilmore Crescent	13/05/2013	-	02/11/2013	$760,000	0m	Full transfer	5	2	-	0	4	$760,000	-	-	Allhomes Record	-	-	-	-	$496,000	0.65
+2013	404940	15 Richardson Street	22/06/2013	06/08/2013	17/05/2013	$740,000	845m	Full transfer	3	1	-	1	-	$740,000	36	-	Combined Record	130	-	-	Single residential dwelling	$640,000	0.86
+2013	416924	25 Gilmore Crescent	08/11/2013	18/12/2013	18/10/2013	$730,000	962m	Full transfer	3	1	-	1	1	$730,000	21	-	Combined Record	960	-	-	Single residential dwelling	$496,000	0.68
+2013	401314	10 Sabine Close	12/07/2013	-	28/03/2013	$720,000	973m	Full transfer	4	1	1	-	2	$720,000	106	-	Allhomes Record	-	-	-	-	$558,000	0.78
+2013	405293	10 Sabine Close	06/05/2013	24/07/2013	-	$720,000	973m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	404939	            1/97 Gilmore Crescent	10/07/2013	08/08/2013	-	$700,000	898m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	402902	22 Gilmore Crescent	02/08/2013	-	27/06/2013	$695,000	886m	Full transfer	3	1	-	1	-	$695,000	36	-	Allhomes Record	112	-	-	-	$518,000	0.75
+2013	412496	97 Gilmore Crescent	23/11/2013	-	16/10/2013	$695,000	898m	Full transfer	3	1	1	4	-	$695,000	38	-	Allhomes Record	137	-	-	-	$643,000	0.93
+2013	413354	1/43 Fitchett Street	26/09/2013	08/11/2013	-	$695,000	1517m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418459	            2/97 Gilmore Crescent	23/11/2013	07/01/2014	-	$695,000	898m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399572	101 Kitchener Street	02/07/2013	-	12/04/2013	$690,000	1131m	Full transfer	4	1	1	1	-	$690,000	81	-	Allhomes Record	-	-	-	-	$663,000	0.96
+2013	403144	            1/15 Tompson Street	07/08/2013	-	30/07/2013	$690,000	-	Full transfer	3	1	1	2	-	$690,000	8	-	Allhomes Record	-	-	-	-	-	-
+2013	406785	            3/15 Tompson Street	26/07/2013	03/09/2013	-	$690,000	1402m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406656	1/101 Kitchener Street	01/07/2013	22/08/2013	-	$690,000	1131m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406655	            2/15 Tompson Street	21/06/2013	23/08/2013	-	$690,000	1402m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	411630	            2/10 Dennis Street	09/08/2013	16/10/2013	-	$689,000	898m	Full transfer	-	-	-	-	-	$689,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	403292	            10B Dennis Street	09/08/2013	-	04/04/2013	$689,000	-	Full transfer	3	1	1	2	-	$689,000	127	-	Allhomes Record	-	-	-	-	-	-
+2013	411824	34/7 Hopegood Place	03/08/2013	20/09/2013	18/06/2013	$656,500	6188m	Full transfer	3	1	1	2	-	$656,500	46	-	Combined Record	160	-	-	Multiple unit dwelling	$2,921,000	4.45
+2013	404228	105 Gilmore Crescent	31/05/2013	01/07/2013	20/03/2013	$650,000	919m	Full transfer	4	1	-	-	2	$650,000	72	-	Combined Record	127	-	-	Single residential dwelling	$530,000	0.82
+2013	395374	8 Savery Street	22/02/2013	18/04/2013	17/01/2013	$639,000	709m	Full transfer	3	1	-	1	-	$639,000	36	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.7
+2013	404942	47 Ingamells Street	27/06/2013	07/08/2013	31/05/2013	$630,000	674m	Full transfer	3	2	0	1	-	$630,000	27	-	Combined Record	-	-	-	Single residential dwelling	$605,000	0.96
+2013	400715	1/2 Hopegood Place	13/04/2013	28/05/2013	06/03/2013	$625,500	8239m	Full transfer	3	1	1	2	-	$625,500	38	-	Combined Record	-	-	-	Multiple unit dwelling	$2,767,000	4.42
+2013	391861	10 Gilmore Crescent	11/01/2013	14/02/2013	27/11/2012	$601,000	831m	Full transfer	4	2	-	2	-	$601,000	45	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.68
+2013	405290	13/15 Eldridge Crescent	05/03/2013	24/07/2013	01/02/2013	$580,000	8387m	Full transfer	3	1	1	2	-	$580,000	32	-	Combined Record	169	-	-	Multiple unit dwelling	-	-
+2013	411413	20/7 Eldridge Crescent	03/09/2013	24/10/2013	13/08/2013	$572,000	5618m	Full transfer	3	1	1	2	-	$572,000	21	-	Combined Record	124	-	-	Multiple unit dwelling	$3,351,000	5.86
+2013	400213	15/2 Eldridge Crescent	25/03/2013	04/06/2013	29/01/2013	$562,000	10798m	Full transfer	3	1	1	2	-	$562,000	55	-	Combined Record	125	-	-	Multiple unit dwelling	$4,038,000	7.19
+2013	391231	22/1 Eldridge Crescent	05/04/2013	-	05/02/2013	$555,000	9616m	Full transfer	3	1	1	2	-	$555,000	59	-	Allhomes Record	137	-	-	-	$4,038,000	7.28
+2013	416923	32 Tompson Street	19/09/2013	16/12/2013	-	$555,000	1162m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394184	            35/15 Eldridge Crescent	20/02/2013	03/04/2013	-	$550,000	8387m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	389798	35/17 Eldridge Crescent	20/02/2013	-	27/02/2013	$550,000	-	Full transfer	3	1	1	2	-	$550,000	-	-	Allhomes Record	-	-	-	-	-	-
+2013	418174	114 Kitchener Street	30/10/2013	23/01/2014	31/07/2013	$544,000	741m	Full transfer	3	1	-	2	-	$544,000	91	-	Combined Record	93	-	-	Single residential dwelling	$441,000	0.81
+2013	397685	23/2 Hopegood Place	22/02/2013	09/05/2013	21/09/2012	$544,000	8239m	Full transfer	3	1	1	2	-	$544,000	154	-	Combined Record	-	-	-	Multiple unit dwelling	$2,767,000	5.09
+2013	414263	            8-10 Robson Street	09/12/2013	-	02/11/2013	$539,000	1028m	Full transfer	2	1	1	-	-	$539,000	37	-	Allhomes Record	-	-	-	-	$496,000	0.92
+2013	404822	9/15 Eldridge Crescent	29/08/2013	-	30/04/2013	$537,500	-	Full transfer	3	1	1	2	-	$537,500	121	-	Allhomes Record	126	-	-	-	-	-
+2013	404515	23/2 Eldridge Crescent	19/08/2013	-	19/03/2013	$530,000	10798m	Full transfer	3	1	1	2	-	$530,000	153	-	Allhomes Record	130	-	-	-	$4,038,000	7.62
+2013	411628	29/10 Hopegood Place	19/07/2013	17/10/2013	14/03/2013	$520,000	7344m	Full transfer	3	1	1	2	-	$520,000	127	-	Combined Record	-	-	-	Multiple unit dwelling	$3,694,000	7.1
+2013	391596	8/10 Hopegood Place	23/01/2013	20/02/2013	22/10/2012	$515,000	7344m	Full transfer	2	1	2	2	-	$515,000	93	-	Combined Record	107	-	-	Multiple unit dwelling	$3,694,000	7.17
+2013	418589	15/7 Hopegood Place	17/12/2013	31/01/2014	19/09/2013	$505,000	6188m	Full transfer	2	1	1	2	-	$505,000	89	-	Combined Record	-	-	-	Multiple unit dwelling	$2,921,000	5.78
+2013	411823	19/2 Eldridge Crescent	27/08/2013	20/09/2013	-	$505,000	10798m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413355	21/7 Eldridge Crescent	06/09/2013	05/11/2013	06/08/2013	$500,000	5618m	Full transfer	2	2	-	1	-	$500,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	$3,351,000	6.7
+2013	400215	19/7 Hopegood Place	29/04/2013	04/06/2013	05/12/2012	$480,000	6188m	Full transfer	2	1	1	2	-	$480,000	145	-	Combined Record	107	-	-	Multiple unit dwelling	$2,921,000	6.09
+2013	427182	2/5 Dann Close	11/11/2013	13/05/2014	-	$475,000	3704m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	National association office	-	-
+2013	394185	3/5 Garran Place	22/02/2013	04/04/2013	26/11/2012	$370,000	1201m	Full transfer	2	1	-	-	1	$370,000	88	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	4.2
+2013	404051	5/1 Garran Place	04/06/2013	08/07/2013	09/05/2013	$368,000	1612m	Full transfer	2	1	-	-	1	$368,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	4.23
+2013	408040	8/3 Garran Place	16/07/2013	13/08/2013	01/05/2013	$305,000	1185m	Full transfer	1	1	-	-	-	$305,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	5.1
+2013	402300	5/60 Garran Place	16/05/2013	24/06/2013	-	$230,000	540m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Consulting rooms	-	-
+2013	400217	60 Dennis Street	02/03/2013	06/06/2013	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424467	11 Praed Place	06/03/2013	22/04/2014	-	$0	1145m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417804	33/2 Eldridge Crescent	26/11/2013	13/01/2014	-	$0	10798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	434380	10 Mackaness Place	27/10/2013	04/09/2014	-	$0	624m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	404232	13 Ingamells Street	26/01/2013	05/07/2013	-	$0	855m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420120	4 Boothby Place	13/12/2013	03/02/2014	-	$0	373m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	561191	25 Ingamells Street	29/07/2013	18/02/2019	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420123	6 Boothby Place	07/08/2013	03/02/2014	-	$0	374m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	419510	4 Flanagan Street	23/10/2013	05/02/2014	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419446	9 Bonwick Place	07/08/2013	13/02/2014	-	$0	1080m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421316	8 Mackaness Place	27/10/2013	24/02/2014	-	$0	547m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	497671	18/1 Eldridge Crescent	10/07/2013	24/02/2017	-	$0	9616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	431119	32 Harpur Street	27/04/2013	18/07/2014	-	$0	727m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	426778	54 Curlewis Crescent	20/12/2013	28/05/2014	-	$0	864m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420122	6 Boothby Place	13/12/2013	03/02/2014	-	$0	374m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	400718	15 Richardson Street	28/02/2013	30/05/2013	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420124	29 Curlewis Crescent	27/09/2013	04/02/2014	-	$0	797m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	485279	11 Becke Place	17/05/2013	18/08/2016	-	$0	893m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	420121	4 Boothby Place	07/08/2013	03/02/2014	-	$0	373m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	406784	34 Couvreur Street	15/07/2013	04/09/2013	-	$0	994m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421778	6 Richardson Street	23/11/2013	20/02/2014	-	$0	1093m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417805	8 Ingamells Street	15/10/2013	13/01/2014	-	$0	763m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419511	30 Gilmore Crescent	27/09/2013	04/02/2014	-	$0	849m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443804	18 Couvreur Street	08/12/2014	15/01/2015	20/12/2014	$1,600,000	1240m	Full transfer	5	3	1	2	-	$1,600,000	-	-	Combined Record	-	-	-	Single residential dwelling	$877,000	0.55
+2014	438645	28 Flanagan Street	13/09/2014	27/10/2014	18/08/2014	$1,297,500	903m	Full transfer	5	1	1	2	-	$1,297,500	26	-	Combined Record	-	-	-	Single residential dwelling	$750,000	0.58
+2014	427647	40 Couvreur Street	19/03/2014	30/04/2014	08/11/2013	$1,234,000	1376m	Full transfer	4	1	2	-	2	$1,234,000	131	-	Combined Record	-	-	-	Single residential dwelling	$877,000	0.71
+2014	445118	91 Fitchett Street	13/11/2014	03/02/2015	22/10/2014	$1,101,000	845m	Full transfer	4	1	1	2	1	$1,101,000	22	-	Combined Record	-	-	-	Single residential dwelling	$737,000	0.67
+2014	428246	12 Brereton Street	22/02/2014	22/05/2014	20/06/2013	$1,095,000	913m	Full transfer	4	1	1	2	1	$1,095,000	247	-	Combined Record	246	-	-	Single residential dwelling	$529,000	0.48
+2014	430731	59 Fitchett Street	21/03/2014	30/06/2014	14/03/2014	$1,061,000	910m	Full transfer	-	-	-	-	-	$1,061,000	7	-	Combined Record	-	-	-	Single residential dwelling	$694,000	0.65
+2014	442933	10 Curlewis Crescent	18/10/2014	08/01/2015	08/09/2014	$1,052,000	787m	Full transfer	4	1	2	2	-	$1,052,000	40	-	Combined Record	171	-	-	Single residential dwelling	$590,000	0.56
+2014	447761	3/14 Hartigan Street	22/12/2014	10/03/2015	15/10/2014	$1,050,000	5305m	Full transfer	3	2	0	2	0	$1,050,000	68	-	Combined Record	-	-	-	Multiple unit dwelling	$3,806,000	3.62
+2014	442931	5 Astley Place	19/09/2014	07/01/2015	16/07/2014	$1,025,000	1337m	Full transfer	5	1	1	2	-	$1,025,000	65	-	Combined Record	-	-	-	Single residential dwelling	$804,000	0.78
+2014	441675	15 Savery Street	04/11/2014	11/12/2014	26/08/2014	$1,020,000	896m	Full transfer	-	-	-	-	-	$1,020,000	70	-	Combined Record	-	-	-	Single residential dwelling	$528,000	0.52
+2014	421318	13 Curlewis Crescent	13/01/2014	27/02/2014	11/11/2013	$1,000,000	981m	Full transfer	4	1	1	-	2	$1,000,000	63	-	Combined Record	195	-	-	Single residential dwelling	$674,000	0.67
+2014	429036	9 Stone Place	29/03/2014	12/06/2014	10/02/2014	$1,000,000	1029m	Full transfer	5	2	1	2	2	$1,000,000	47	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.57
+2014	426525	2/6 Stone Place	14/03/2014	05/05/2014	-	$1,000,000	1015m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	425225	35/7 Eldridge Crescent	24/05/2014	-	11/04/2014	$991,000	5618m	Full transfer	3	1	2	3	-	$991,000	43	-	Allhomes Record	-	-	-	-	$3,351,000	3.38
+2014	433601	22 Maurice Place	05/07/2014	20/08/2014	27/05/2014	$973,000	1180m	Full transfer	5	2	-	2	2	$973,000	39	-	Combined Record	-	-	-	Single residential dwelling	$704,000	0.72
+2014	441677	19 Flanagan Street	13/09/2014	08/12/2014	31/07/2014	$970,000	839m	Full transfer	4	2	-	1	1	$970,000	44	-	Combined Record	181	-	-	Single residential dwelling	$622,000	0.64
+2014	426524	16 Curlewis Crescent	06/03/2014	05/05/2014	-	$970,000	940m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	450329	34 Couvreur Street	14/11/2014	15/04/2015	10/10/2014	$940,000	994m	Full transfer	4	1	1	3	-	$940,000	35	-	Combined Record	-	-	-	Single residential dwelling	$792,000	0.84
+2014	441261	39 Flanagan Street	23/10/2014	05/12/2014	-	$935,000	1083m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427649	29 Curlewis Crescent	15/02/2014	30/04/2014	25/11/2013	$910,000	797m	Full transfer	5	2	-	2	-	$910,000	82	-	Combined Record	207	-	-	Single residential dwelling	$636,000	0.7
+2014	445122	4 Brereton Street	12/11/2014	02/02/2015	14/10/2014	$900,000	930m	Full transfer	5	2	-	1	-	$900,000	29	-	Combined Record	-	-	-	Single residential dwelling	$629,000	0.7
+2014	432996	9 Ogilvie Place	05/06/2014	14/08/2014	08/05/2014	$890,000	1052m	Full transfer	4	1	1	2	-	$890,000	28	-	Combined Record	-	-	-	Single residential dwelling	$761,000	0.86
+2014	437909	50 Curlewis Crescent	16/08/2014	22/10/2014	14/07/2014	$880,000	764m	Full transfer	4	1	1	-	2	$880,000	33	-	Combined Record	-	-	-	Single residential dwelling	$615,000	0.7
+2014	427183	52 Couvreur Street	25/03/2014	12/05/2014	23/01/2014	$877,500	822m	Full transfer	3	1	1	2	-	$877,500	61	-	Combined Record	-	-	-	Single residential dwelling	$769,000	0.88
+2014	435735	5 Gay Place	02/08/2014	16/09/2014	-	$877,000	605m	Full transfer	-	-	-	-	-	$877,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447758	55 Fitchett Street	19/12/2014	11/03/2015	18/08/2014	$865,000	999m	Full transfer	4	2	-	-	2	$865,000	123	-	Combined Record	-	-	-	Single residential dwelling	$674,000	0.78
+2014	426522	23 Henderson Street	19/03/2014	09/05/2014	29/01/2014	$862,000	859m	Full transfer	4	1	1	2	-	$862,000	49	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.66
+2014	453205	15 Ingamells Street	06/12/2014	-	10/06/2015	$845,000	0m	Full transfer	4	1	-	0	0	$845,000	-	-	Allhomes Record	-	-	-	-	$626,000	0.74
+2014	420677	14 Richardson Street	22/03/2014	-	23/01/2014	$840,000	878m	Full transfer	4	2	1	2	-	$840,000	58	-	Allhomes Record	-	-	-	-	$636,000	0.76
+2014	449878	            9/5 Hartigan Street	03/07/2014	07/04/2015	-	$835,000	3900m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442292	43 Curlewis Crescent	11/11/2014	24/12/2014	18/09/2014	$820,000	942m	Full transfer	-	-	-	-	-	$820,000	54	-	Combined Record	-	-	-	Single residential dwelling	$633,000	0.77
+2014	438643	35 Neilson Street	19/09/2014	27/10/2014	10/09/2014	$810,000	1036m	Full transfer	4	2	1	2	0	$810,000	9	-	Combined Record	-	-	-	Single residential dwelling	$541,000	0.67
+2014	449879	1/5 Hartigan Street	16/06/2014	08/04/2015	-	$805,000	3900m	Full transfer	-	-	-	-	-	$805,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	451068	73 Gilmore Crescent	16/12/2014	29/04/2015	-	$800,000	1111m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	451942	            8/5 Hartigan Street	12/12/2014	07/05/2015	-	$795,000	3900m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426517	11 Praed Place	27/03/2014	06/05/2014	20/01/2014	$792,500	1145m	Full transfer	3	1	1	-	2	$792,500	66	-	Combined Record	-	-	-	Single residential dwelling	$674,000	0.85
+2014	438639	15 Maurice Place	05/09/2014	27/10/2014	22/04/2014	$790,000	833m	Full transfer	3	1	-	-	-	$790,000	136	-	Combined Record	-	-	-	Single residential dwelling	$737,000	0.93
+2014	449866	2/5 Hartigan Street	04/08/2014	08/04/2015	-	$785,000	3900m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	433180	5 Hartigan Street	04/08/2014	-	16/05/2014	$785,000	-	Full transfer	4	3	-	2	-	$785,000	80	-	Allhomes Record	-	-	-	-	$1,890,000	2.41
+2014	423972	130 Kitchener Street	08/02/2014	01/04/2014	02/12/2013	$780,000	863m	Full transfer	5	1	1	2	-	$780,000	68	-	Combined Record	232	-	-	Single residential dwelling	$461,000	0.59
+2014	437420	23 Tompson Street	13/11/2014	-	22/10/2014	$770,000	821m	Full transfer	4	1	1	0	1	$770,000	22	-	Allhomes Record	-	-	-	-	$650,000	0.84
+2014	449314	7/5 Hartigan Street	07/07/2014	01/04/2015	-	$765,000	3900m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	448799	4/5 Hartigan Street	16/07/2014	26/03/2015	-	$755,000	3900m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426519	113 Gilmore Crescent	21/03/2014	07/05/2014	12/02/2014	$720,000	841m	Full transfer	4	1	1	1	1	$720,000	37	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.67
+2014	439547	62 Fitchett Street	02/08/2014	14/11/2014	30/05/2014	$717,000	741m	Full transfer	4	1	1	1	1	$717,000	64	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.85
+2014	429791	20 Tompson Street	05/05/2014	26/06/2014	-	$712,500	823m	Full transfer	-	-	-	-	-	$712,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430277	39 Dennis Street	31/05/2014	10/07/2014	05/03/2014	$712,000	853m	Full transfer	4	1	-	1	-	$712,000	87	-	Combined Record	-	-	-	Single residential dwelling	$541,000	0.76
+2014	428248	22 Ingamells Street	24/04/2014	22/05/2014	14/03/2014	$700,000	860m	Full transfer	3	1	0	0	0	$700,000	41	-	Combined Record	-	-	-	Single residential dwelling	$616,000	0.88
+2014	423267	24 Harpur Place	17/01/2014	17/03/2014	05/11/2013	$675,000	930m	Full transfer	4	1	1	-	2	$675,000	73	-	Combined Record	-	-	-	Single residential dwelling	$686,000	1.02
+2014	441259	38 Fitchett Street	13/10/2014	05/12/2014	18/08/2014	$640,000	813m	Full transfer	3	1	-	1	-	$640,000	56	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.95
+2014	445124	37 Gilmore Crescent	19/11/2014	04/02/2015	16/09/2014	$631,000	842m	Full transfer	3	1	-	1	1	$631,000	64	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.8
+2014	434381	30 Gilmore Crescent	24/07/2014	05/09/2014	22/05/2014	$630,000	849m	Full transfer	3	1	-	-	1	$630,000	63	-	Combined Record	-	-	-	Single residential dwelling	$520,000	0.83
+2014	432470	57 Dennis Street	21/07/2014	07/08/2014	-	$627,500	763m	Full transfer	-	-	-	-	-	$627,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440355	33/2 Hopegood Place	12/09/2014	18/11/2014	01/07/2014	$615,000	8239m	Full transfer	3	1	1	2	0	$615,000	73	-	Combined Record	-	-	-	Multiple unit dwelling	$2,767,000	4.5
+2014	442930	23 Fitchett Street	14/11/2014	08/01/2015	-	$610,000	732m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438641	13/1 Eldridge Crescent	19/09/2014	28/10/2014	24/07/2014	$560,000	9616m	Full transfer	3	1	1	2	-	$560,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	7.21
+2014	441258	            32/15 Eldridge Crescent	21/08/2014	02/12/2014	-	$547,000	8387m	Full transfer	-	-	-	-	-	$547,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432656	32/17 Eldridge Crescent	21/08/2014	-	05/03/2014	$547,000	-	Full transfer	3	1	1	2	-	$547,000	169	-	Allhomes Record	-	-	-	-	$52,850	0.1
+2014	430276	32/7 Hopegood Place	30/05/2014	07/07/2014	-	$544,000	6188m	Full transfer	-	-	-	-	-	$544,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440357	8 Mackaness Place	13/09/2014	19/11/2014	19/08/2014	$540,000	547m	Full transfer	3	1	1	-	1	$540,000	25	-	Combined Record	-	-	-	Medium density dwelling	$329,000	0.61
+2014	427181	            36/15 Eldridge Crescent	28/03/2014	15/05/2014	-	$539,000	8387m	Full transfer	-	-	-	-	-	$539,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	431589	34/7 Eldridge Crescent	04/06/2014	24/07/2014	-	$535,140	5618m	Full transfer	-	-	-	-	-	$535,140	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430733	25/2 Eldridge Crescent	07/04/2014	03/07/2014	26/11/2013	$520,000	10798m	Full transfer	3	1	1	-	-	$520,000	132	-	Combined Record	134	-	-	Multiple unit dwelling	$80,760	0.16
+2014	445120	12/7 Eldridge Crescent	30/10/2014	03/02/2015	08/08/2014	$515,000	5618m	Full transfer	3	1	1	2	-	$515,000	83	-	Combined Record	123	-	-	Multiple unit dwelling	$3,351,000	6.51
+2014	430735	23/7 Eldridge Crescent	16/05/2014	02/07/2014	02/04/2014	$505,000	5618m	Full transfer	2	0	2	1	0	$505,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	$80,424	0.16
+2014	433603	18/7 Eldridge Crescent	30/06/2014	19/08/2014	15/05/2014	$502,500	5618m	Full transfer	2	1	1	1	0	$502,500	46	-	Combined Record	-	-	-	Multiple unit dwelling	$77,073	0.15
+2014	432469	17/10 Hopegood Place	30/06/2014	08/08/2014	-	$500,000	7344m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	423974	20/2 Hopegood Place	28/02/2014	02/04/2014	09/12/2013	$490,000	8239m	Full transfer	2	1	1	2	-	$490,000	81	-	Combined Record	-	-	-	Multiple unit dwelling	$2,767,000	5.65
+2014	431588	35/7 Eldridge Crescent	04/06/2014	24/07/2014	-	$455,860	5618m	Full transfer	-	-	-	-	-	$455,860	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429790	2 Neilson Street	08/05/2014	25/06/2014	-	$400,000	936m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429035	10 Robson Street	20/05/2014	11/06/2014	-	$370,000	1028m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427185	5/3 Garran Place	21/03/2014	12/05/2014	09/09/2013	$338,000	1185m	Full transfer	2	1	-	-	1	$338,000	193	-	Combined Record	-	-	-	Multiple unit dwelling	$1,555,000	4.6
+2014	432151	3/1 Garran Place	28/06/2014	30/07/2014	03/06/2014	$326,000	1612m	Full transfer	2	1	0	0	1	$326,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	$1,633,000	5.01
+2014	441257	13/7 Eldridge Crescent	27/10/2014	05/12/2014	-	$272,500	5618m	Full transfer	-	-	-	-	-	$272,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	429034	8 Robson Street	20/05/2014	11/06/2014	-	$253,820	1017m	Full transfer	-	-	-	-	-	$253,820	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439549	10 Robson Street	24/10/2014	14/11/2014	-	$132,800	2045m	Full transfer	-	-	-	-	-	$132,800	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2014	445117	3 Maurice Place	20/08/2014	04/02/2015	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	437561	2/39 Fitchett Street	30/04/2014	13/10/2014	-	$0	4120m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442441	8 Curlewis Crescent	15/10/2014	02/01/2015	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443807	6 Bonwick Place	11/08/2014	16/01/2015	-	$0	938m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464863	5/10 Robson Street	27/05/2014	22/10/2015	-	$0	2045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	434029	3/15 Eldridge Crescent	03/06/2014	25/08/2014	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	448798	5 Palmer Street	24/09/2014	27/03/2015	-	$0	964m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424343	11 Savery Street	04/02/2014	09/04/2014	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448322	122 Kitchener Street	26/12/2014	02/03/2015	-	$0	692m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423976	4 Neilson Street	03/02/2014	02/04/2014	-	$0	1009m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431120	111 Kitchener Street	03/07/2014	14/07/2014	-	$0	970m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	447760	15 Dennis Street	01/12/2014	12/03/2015	-	$0	887m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443806	10 Mackaness Place	22/12/2014	13/01/2015	-	$0	624m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	426521	57 Curlewis Crescent	03/01/2014	08/05/2014	-	$0	1039m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424588	9 Ogilvie Place	16/02/2014	14/04/2014	-	$0	1052m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	457399	29 Tompson Street	03/12/2014	30/06/2015	-	$0	886m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	422835	16 Flanagan Street	14/02/2014	24/03/2014	-	$0	904m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464857	36 Flanagan Street	12/07/2014	23/10/2015	-	$0	1041m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462139	71 Brereton Street	25/07/2015	25/09/2015	-	$1,740,000	1858m	Full transfer	-	-	-	-	-	$1,740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466702	41 Ingamells Street	19/09/2015	23/11/2015	27/08/2015	$1,635,000	1195m	Full transfer	5	2	1	2	0	$1,635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$765,000	0.47
+2015	463121	35 Couvreur Street	10/08/2015	08/10/2015	27/07/2015	$1,425,000	989m	Full transfer	-	-	-	-	-	$1,425,000	14	-	Combined Record	-	-	-	Single residential dwelling	$683,000	0.48
+2015	465139	14 Henderson Street	05/09/2015	27/10/2015	11/08/2015	$1,312,000	877m	Full transfer	4	1	1	2	-	$1,312,000	25	-	Combined Record	299	-	-	Single residential dwelling	$653,000	0.5
+2015	469339	36 Flanagan Street	31/10/2015	11/01/2016	07/10/2015	$1,300,000	1041m	Full transfer	4	1	1	2	-	$1,300,000	24	-	Combined Record	-	-	-	Single residential dwelling	$776,000	0.6
+2015	461733	7 Becke Place	01/08/2015	-	01/10/2015	$1,292,000	891m	Full transfer	3	2	-	2	0	$1,292,000	-	-	Allhomes Record	-	-	-	-	$599,000	0.46
+2015	451077	33 Couvreur Street	21/02/2015	29/04/2015	19/11/2014	$1,285,000	1133m	Full transfer	5	2	1	2	-	$1,285,000	94	-	Combined Record	218	-	-	Single residential dwelling	$683,000	0.53
+2015	465363	4 Bonwick Place	31/08/2015	03/11/2015	27/07/2015	$1,262,500	1029m	Full transfer	-	-	-	-	-	$1,262,500	35	-	Combined Record	-	-	-	Single residential dwelling	$715,000	0.57
+2015	468203	7 Sabine Close	26/09/2015	18/12/2015	26/08/2015	$1,250,000	1303m	Full transfer	5	1	1	2	0	$1,250,000	31	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.53
+2015	467004	13 Stephens Place	17/10/2015	01/12/2015	17/09/2015	$1,250,000	918m	Full transfer	4	2	-	2	0	$1,250,000	30	-	Combined Record	-	-	-	Single residential dwelling	$542,000	0.43
+2015	448808	37 Flanagan Street	22/01/2015	26/03/2015	24/09/2014	$1,240,000	1170m	Full transfer	4	1	1	-	2	$1,240,000	120	-	Combined Record	-	-	-	Single residential dwelling	$744,000	0.6
+2015	459247	10 Bonwick Place	13/06/2015	13/08/2015	31/07/2015	$1,210,000	1088m	Full transfer	5	4	-	0	5	$1,210,000	-	-	Combined Record	-	-	-	Single residential dwelling	$790,000	0.65
+2015	459246	87 Gilmore Crescent	01/04/2015	12/08/2015	-	$1,155,000	1011m	Full transfer	-	-	-	-	-	$1,155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466847	20 Robson Street	12/12/2015	-	13/10/2015	$1,090,000	954m	Full transfer	4	1	2	5	-	$1,090,000	60	-	Allhomes Record	-	-	-	-	$475,000	0.44
+2015	457392	38 Brereton Street	30/01/2015	05/07/2015	09/10/2014	$1,050,000	1041m	Full transfer	4	1	2	2	0	$1,050,000	113	-	Combined Record	-	-	-	Single residential dwelling	$683,000	0.65
+2015	487021	14 Sabine Close	21/12/2015	19/09/2016	-	$1,040,000	1034m	Full transfer	-	-	-	-	-	$1,040,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	448323	7/14 Hartigan Street	28/01/2015	02/03/2015	-	$1,010,000	5305m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466707	13 Ingamells Street	17/10/2015	26/11/2015	16/09/2015	$1,000,000	855m	Full transfer	4	2	-	2	0	$1,000,000	31	-	Combined Record	-	-	-	Single residential dwelling	$614,000	0.61
+2015	448044	114 Kitchener Street	10/02/2015	18/03/2015	30/09/2014	$995,000	741m	Full transfer	4	1	1	3	-	$995,000	133	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.44
+2015	458476	28 Tompson Street	18/06/2015	28/07/2015	30/03/2015	$975,000	863m	Full transfer	4	1	1	2	-	$975,000	80	-	Combined Record	-	-	-	Single residential dwelling	$662,000	0.68
+2015	460844	2/5 Hartigan Street	19/09/2015	-	14/08/2015	$966,000	-	Full transfer	4	2	1	2	-	$966,000	36	-	Allhomes Record	-	-	-	-	$1,890,000	1.96
+2015	466398	6 Caffyn Place	01/10/2015	17/11/2015	31/08/2015	$950,000	764m	Full transfer	5	1	1	2	-	$950,000	31	-	Combined Record	-	-	-	Single residential dwelling	$586,000	0.62
+2015	459235	49 Gilmore Crescent	11/06/2015	11/08/2015	16/04/2015	$950,000	921m	Full transfer	4	2	-	2	-	$950,000	56	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.52
+2015	468774	72 Fitchett Street	25/11/2015	07/01/2016	-	$920,000	730m	Full transfer	-	-	-	-	-	$920,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464855	64 Fitchett Street	27/07/2015	19/10/2015	02/06/2015	$910,000	747m	Full transfer	4	2	-	-	3	$910,000	55	-	Combined Record	-	-	-	Single residential dwelling	$610,000	0.67
+2015	471651	5 Brereton Street	20/11/2015	16/02/2016	21/09/2015	$890,000	967m	Full transfer	4	1	1	3	-	$890,000	60	-	Combined Record	-	-	-	Single residential dwelling	$586,000	0.66
+2015	451674	1 Dennis Street	18/05/2015	-	30/04/2015	$880,000	947m	Full transfer	-	-	-	-	-	$880,000	18	-	Allhomes Record	-	-	-	-	$663,000	0.75
+2015	457473	1/1 Dennis Street	18/05/2015	07/07/2015	-	$880,000	947m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	453478	            2/69 Gilmore Crescent	09/04/2015	29/05/2015	-	$876,000	920m	Full transfer	-	-	-	-	-	$876,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	449104	69B Gilmore Crescent	11/05/2015	-	18/02/2015	$876,000	460m	Full transfer	3	1	1	-	2	$876,000	82	-	Allhomes Record	149	-	-	-	$592,000	0.68
+2015	465130	7 Becke Place	11/07/2015	28/10/2015	18/06/2015	$875,000	891m	Full transfer	3	2	-	2	0	$875,000	23	-	Combined Record	-	-	-	Single residential dwelling	$599,000	0.68
+2015	470091	3 Brady Place	07/11/2015	01/02/2016	21/09/2015	$865,000	766m	Full transfer	5	1	1	2	2	$865,000	47	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.5
+2015	466808	6 Esson Place	10/12/2015	-	28/10/2015	$855,000	-	Full transfer	4	1	1	2	0	$855,000	43	-	Allhomes Record	-	-	-	-	$1,432,000	1.67
+2015	471650	2/6 Esson Place	10/12/2015	16/02/2016	-	$855,000	2431m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	478805	10 Gilmore Crescent	14/11/2015	27/05/2016	14/10/2015	$850,000	831m	Full transfer	4	2	-	2	-	$850,000	31	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.48
+2015	457465	50 Fitchett Street	03/03/2015	09/07/2015	-	$846,000	864m	Full transfer	-	-	-	-	-	$846,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460241	11 Stephens Place	04/07/2015	28/08/2015	08/06/2015	$815,000	831m	Full transfer	3	1	1	2	-	$815,000	26	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.64
+2015	457461	7 Praed Place	14/05/2015	08/07/2015	07/05/2015	$810,000	1130m	Full transfer	3	1	0	1	0	$810,000	7	-	Combined Record	-	-	-	Single residential dwelling	$648,000	0.8
+2015	464463	10B Dennis Street	20/11/2015	-	04/11/2015	$770,000	898m	Full transfer	3	1	1	2	-	$770,000	16	-	Allhomes Record	-	-	-	-	$643,000	0.84
+2015	469322	            2/10 Dennis Street	20/11/2015	11/01/2016	-	$770,000	898m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457466	60 Dennis Street	23/05/2015	08/07/2015	29/04/2015	$765,000	836m	Full transfer	3	1	0	0	1	$765,000	24	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.63
+2015	470082	3 Dennis Street	21/11/2015	04/02/2016	21/09/2015	$761,000	868m	Full transfer	4	1	-	1	-	$761,000	61	-	Combined Record	-	-	-	Single residential dwelling	$518,000	0.68
+2015	453476	45/2 Eldridge Crescent	11/04/2015	29/05/2015	12/03/2015	$730,000	10798m	Full transfer	3	1	2	2	0	$730,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	5.53
+2015	461545	50 Dennis Street	25/07/2015	10/09/2015	22/06/2015	$720,000	768m	Full transfer	5	1	1	2	-	$720,000	33	-	Combined Record	-	-	-	Single residential dwelling	$485,000	0.67
+2015	466403	40/2 Eldridge Crescent	20/10/2015	19/11/2015	01/09/2015	$712,000	10798m	Full transfer	3	2	1	2	-	$712,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	5.67
+2015	469337	3/1 Eldridge Crescent	19/11/2015	11/01/2016	14/10/2015	$692,000	9616m	Full transfer	3	-	3	2	-	$692,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	5.84
+2015	470844	116 Kitchener Street	13/11/2015	10/02/2016	-	$645,000	712m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461247	7/2 Eldridge Crescent	06/07/2015	31/08/2015	27/04/2015	$597,000	10798m	Full transfer	3	1	1	2	-	$597,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	6.76
+2015	458772	91A Gilmore Crescent	26/08/2015	-	25/05/2015	$596,250	418m	Full transfer	3	1	-	-	2	$596,250	93	-	Allhomes Record	-	-	-	-	$688,000	1.15
+2015	464852	            1/91 Gilmore Crescent	26/08/2015	19/10/2015	-	$596,250	950m	Full transfer	-	-	-	-	-	$596,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458977	9/10 Hopegood Place	19/06/2015	05/08/2015	25/05/2015	$576,000	7344m	Full transfer	3	1	1	2	-	$576,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	$3,694,000	6.41
+2015	458979	26/10 Hopegood Place	01/06/2015	05/08/2015	27/04/2015	$570,000	7344m	Full transfer	3	1	1	2	-	$570,000	35	-	Combined Record	121	-	-	Multiple unit dwelling	$3,694,000	6.48
+2015	464850	10/7 Hopegood Place	18/09/2015	23/10/2015	15/07/2015	$570,000	6188m	Full transfer	3	1	1	2	-	$570,000	65	-	Combined Record	-	-	-	Multiple unit dwelling	$2,921,000	5.12
+2015	459849	24/7 Eldridge Crescent	08/07/2015	18/08/2015	17/06/2015	$560,000	5618m	Full transfer	3	2	-	2	0	$560,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	$3,351,000	5.98
+2015	470089	4/5 Fitchett Street	06/12/2015	04/02/2016	03/11/2015	$559,000	6605m	Full transfer	3	1	1	2	-	$559,000	33	-	Combined Record	120	-	-	Multiple unit dwelling	$831,000	1.49
+2015	450336	            26/15 Eldridge Crescent	17/02/2015	16/04/2015	-	$555,000	8387m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	444505	26/17 Eldridge Crescent	17/02/2015	-	07/01/2015	$555,000	-	Full transfer	3	1	1	2	-	$555,000	41	-	Allhomes Record	-	-	-	-	$2,767,000	4.99
+2015	451084	5/7 Eldridge Crescent	18/02/2015	29/04/2015	20/01/2015	$545,000	5618m	Full transfer	3	2	-	2	0	$545,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	$3,351,000	6.15
+2015	448796	12/15 Eldridge Crescent	10/02/2015	24/03/2015	15/10/2014	$530,000	8387m	Full transfer	3	1	1	2	-	$530,000	118	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	478818	19/10 Hopegood Place	11/09/2015	24/05/2016	07/08/2015	$520,000	7344m	Full transfer	2	1	1	2	-	$520,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	$3,694,000	7.1
+2015	471659	24/1 Eldridge Crescent	23/12/2015	17/02/2016	30/10/2015	$515,000	9616m	Full transfer	2	1	1	2	-	$515,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	7.84
+2015	473116	47/1 Eldridge Crescent	27/11/2015	29/02/2016	30/07/2015	$500,000	9616m	Full transfer	2	1	1	2	-	$500,000	120	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	8.08
+2015	453464	2/39 Fitchett Street	23/03/2015	29/05/2015	12/01/2015	$460,000	4120m	Full transfer	2	1	-	-	1	$460,000	70	-	Combined Record	-	-	-	Multiple unit dwelling	$990,000	2.15
+2015	468767	6/3 Garran Place	13/11/2015	06/01/2016	-	$327,500	1185m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463130	6 Becke Place	19/08/2015	07/10/2015	-	$283,333	815m	Full transfer	-	-	-	-	-	$283,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452543	4/60 Garran Place	01/04/2015	21/05/2015	-	$275,000	540m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Consulting rooms	-	-
+2015	460246	3/60 Garran Place	18/06/2015	25/08/2015	-	$240,000	540m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Consulting rooms	-	-
+2015	475994	108 Kitchener Street	13/03/2015	19/04/2016	-	$0	836m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457474	22 Henderson Street	03/06/2015	09/07/2015	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471661	5 Stephens Place	31/07/2015	15/02/2016	-	$0	1019m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	478267	7 Harpur Street	29/11/2015	17/05/2016	-	$0	732m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461266	21 Tompson Street	03/06/2015	31/08/2015	-	$0	933m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460247	27 Rusden Street	26/06/2015	24/08/2015	-	$0	988m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452855	77 Brereton Street	23/04/2015	11/05/2015	-	$0	1300m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468197	4 Sabine Close	19/10/2015	15/12/2015	-	$0	976m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	516733	72 Couvreur Street	18/12/2015	31/07/2017	-	$0	1160m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458475	16 Savery Street	01/06/2015	31/07/2015	-	$0	987m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	465349	7/14 Hartigan Street	16/02/2015	03/11/2015	-	$0	5305m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	497779	8 Caffyn Place	25/01/2015	21/02/2017	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471657	77 Fitchett Street	21/11/2015	19/02/2016	23/09/2015	$0	829m	Full transfer	4	1	1	1	-	$0	59	-	Combined Record	-	-	-	Single residential dwelling	$691,000	2.15
+2015	448807	7/2 Eldridge Crescent	13/01/2015	24/03/2015	-	$0	10798m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458484	7 Lavater Place	12/06/2015	30/07/2015	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490712	51 Brereton Street	25/06/2016	17/11/2016	02/06/2016	$1,670,000	1349m	Full transfer	4	2	2	2	-	$1,670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$754,000	0.45
+2016	475432	57 Curlewis Crescent	18/02/2016	15/04/2016	12/01/2016	$1,460,000	1039m	Full transfer	4	1	1	2	-	$1,460,000	37	-	Combined Record	-	-	-	Single residential dwelling	$653,000	0.45
+2016	535969	1/14 Hartigan Street	28/03/2016	19/06/2018	-	$1,398,000	5305m	Full transfer	-	-	-	-	-	$1,398,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	475437	17 Richardson Street	19/01/2016	13/04/2016	15/10/2015	$1,350,000	845m	Full transfer	4	3	-	2	0	$1,350,000	96	-	Combined Record	-	-	-	Single residential dwelling	$682,000	0.51
+2016	488079	37 Fitchett Street	09/06/2016	10/10/2016	30/03/2016	$1,315,000	864m	Full transfer	4	1	1	2	-	$1,315,000	71	-	Combined Record	239	-	-	Single residential dwelling	$507,000	0.39
+2016	485459	19 Brereton Street	27/09/2016	-	17/08/2016	$1,080,000	998m	Full transfer	-	-	-	-	-	$1,080,000	41	-	Allhomes Record	-	-	-	-	$682,000	0.63
+2016	493776	17 Maurice Place	05/11/2016	20/12/2016	10/10/2016	$1,075,000	1014m	Full transfer	4	1	1	2	-	$1,075,000	26	-	Combined Record	182	-	-	Single residential dwelling	$747,000	0.69
+2016	473988	9/70 Curlewis Crescent	05/04/2016	-	29/02/2016	$1,040,000	3900m	Full transfer	4	1	3	2	-	$1,040,000	36	-	Allhomes Record	-	-	-	-	-	-
+2016	516155	12 Stone Place	27/06/2016	25/07/2017	-	$1,010,000	908m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502915	15 Richardson Street	10/12/2016	13/04/2017	28/06/2016	$999,000	845m	Full transfer	3	1	-	1	-	$999,000	165	-	Combined Record	-	-	-	Single residential dwelling	$682,000	0.68
+2016	475435	46 Fitchett Street	20/02/2016	15/04/2016	27/01/2016	$980,000	960m	Full transfer	4	1	1	2	-	$980,000	24	-	Combined Record	205	-	-	Single residential dwelling	$599,000	0.61
+2016	484246	121 Gilmore Crescent	22/03/2016	18/08/2016	16/11/2015	$975,000	988m	Full transfer	5	2	2	1	1	$975,000	127	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.49
+2016	490052	2 Ingamells Street	29/11/2016	-	14/10/2016	$960,000	859m	Full transfer	-	-	-	-	-	$960,000	46	-	Allhomes Record	-	-	-	-	$464,000	0.48
+2016	486582	15 Harpur Street	30/07/2016	12/09/2016	28/04/2016	$960,000	679m	Full transfer	4	1	1	2	-	$960,000	93	-	Combined Record	-	-	-	Single residential dwelling	$586,000	0.61
+2016	485466	31 Gilmore Crescent	27/09/2016	-	17/08/2016	$950,000	918m	Full transfer	-	-	-	-	-	$950,000	41	-	Allhomes Record	-	-	-	-	$505,000	0.53
+2016	472487	8 Lavater Place	19/03/2016	-	03/11/2015	$941,000	744m	Full transfer	5	1	2	2	-	$941,000	137	-	Allhomes Record	222	-	-	-	$548,000	0.58
+2016	496940	138 Kitchener Street	13/10/2016	08/02/2017	27/07/2016	$920,000	907m	Full transfer	4	1	1	2	0	$920,000	78	-	Combined Record	-	-	-	Single residential dwelling	$431,000	0.47
+2016	497315	27 Rusden Street	09/11/2016	06/02/2017	05/09/2016	$920,000	988m	Full transfer	4	1	1	1	-	$920,000	65	-	Combined Record	-	-	-	Single residential dwelling	$686,000	0.75
+2016	490238	6 Jose Place	13/08/2016	01/11/2016	14/06/2016	$900,000	1006m	Full transfer	4	2	-	-	2	$900,000	60	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.59
+2016	488284	83 Fitchett Street	01/09/2016	07/10/2016	-	$890,000	845m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499776	11 Dennis Street	09/12/2016	07/03/2017	05/12/2016	$877,500	879m	Full transfer	4	2	-	4	0	$877,500	4	-	Combined Record	-	-	-	Single residential dwelling	$531,000	0.61
+2016	484660	11 Sabine Close	30/06/2016	19/08/2016	05/05/2016	$877,000	902m	Full transfer	3	1	-	1	1	$877,000	56	-	Combined Record	-	-	-	Single residential dwelling	$562,000	0.64
+2016	500037	            1/34A Gilmore Crescent	22/12/2016	06/03/2017	-	$860,000	872m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	487246	1/15 Tompson Street	08/07/2016	21/09/2016	30/05/2016	$860,000	1402m	Full transfer	3	1	1	2	-	$860,000	39	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	492078	34A Gilmore Crescent	22/12/2016	-	19/04/2016	$860,000	445m	Full transfer	4	1	1	1	1	$860,000	247	-	Allhomes Record	-	-	-	-	$518,000	0.6
+2016	481931	27 Gilmore Crescent	03/05/2016	21/07/2016	13/11/2015	$857,500	964m	Full transfer	3	2	-	4	0	$857,500	172	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.58
+2016	489121	9 Gilmore Crescent	09/07/2016	24/10/2016	16/06/2016	$857,000	788m	Full transfer	4	2	-	2	4	$857,000	23	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.53
+2016	479536	28 Harpur Street	02/02/2016	08/06/2016	-	$850,000	865m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491382	11 Savery Street	17/09/2016	22/11/2016	01/09/2016	$850,000	906m	Full transfer	3	1	1	4	-	$850,000	16	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.56
+2016	489889	34B Gilmore Crescent	24/11/2016	-	19/04/2016	$835,000	427m	Full transfer	3	1	1	1	1	$835,000	219	-	Allhomes Record	-	-	-	-	$518,000	0.62
+2016	495694	            2/34A Gilmore Crescent	24/11/2016	02/02/2017	-	$835,000	872m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	485958	1/10 Hopegood Place	20/04/2016	16/08/2016	06/02/2016	$820,000	7344m	Full transfer	3	1	1	2	-	$820,000	74	-	Combined Record	167	-	-	Multiple unit dwelling	-	-
+2016	497842	8 Caffyn Place	17/12/2016	21/02/2017	24/11/2016	$817,500	731m	Full transfer	3	1	-	1	-	$817,500	23	-	Combined Record	105	-	-	Single residential dwelling	$605,000	0.74
+2016	497926	41 Fitchett Street	21/11/2016	21/02/2017	10/11/2016	$800,000	1646m	Full transfer	4	1	1	3	-	$800,000	11	-	Combined Record	115	-	-	Single residential dwelling	$496,000	0.62
+2016	480750	7 Harpur Street	24/02/2016	30/06/2016	18/02/2016	$785,000	732m	Full transfer	3	1	-	-	1	$785,000	6	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.8
+2016	476685	5/1 Eldridge Crescent	05/03/2016	29/04/2016	21/01/2016	$775,000	9616m	Full transfer	3	1	2	2	-	$775,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	485720	22 Ingamells Street	21/06/2016	01/09/2016	04/04/2016	$770,000	860m	Full transfer	3	1	-	-	-	$770,000	78	-	Combined Record	-	-	-	Single residential dwelling	$605,000	0.79
+2016	467587	3 Palmer Street	15/01/2016	-	04/11/2015	$755,000	925m	Full transfer	3	1	-	-	2	$755,000	72	-	Allhomes Record	159	-	-	-	$485,000	0.64
+2016	499877	13 Savery Street	21/12/2016	07/03/2017	-	$750,000	873m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493288	8/1 Eldridge Crescent	29/09/2016	07/12/2016	15/06/2016	$740,000	9616m	Full transfer	3	2	-	2	-	$740,000	106	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	489073	104 Kitchener Street	25/08/2016	27/10/2016	03/08/2016	$660,000	837m	Full transfer	3	1	0	0	1	$660,000	22	-	Combined Record	-	-	-	Single residential dwelling	$469,000	0.71
+2016	475444	5/10 Robson Street	09/02/2016	13/04/2016	20/01/2016	$559,900	2045m	Full transfer	2	1	1	1	-	$559,900	20	-	Combined Record	84	-	-	Multiple unit dwelling	-	-
+2016	498927	41/10 Hopegood Place	09/12/2016	02/03/2017	27/10/2016	$557,500	7344m	Full transfer	2	1	1	2	-	$557,500	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	488272	38/1 Eldridge Crescent	15/08/2016	04/10/2016	14/07/2016	$555,000	9616m	Full transfer	3	1	1	2	-	$555,000	32	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	493039	33/7 Hopegood Place	10/10/2016	05/12/2016	15/07/2015	$555,000	6188m	Full transfer	3	1	1	2	-	$555,000	453	-	Combined Record	-	-	-	Multiple unit dwelling	$2,921,000	5.26
+2016	489464	38/7 Eldridge Crescent	15/08/2016	17/10/2016	25/07/2016	$550,000	5618m	Full transfer	3	1	1	2	-	$550,000	21	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	488977	11/1 Eldridge Crescent	26/08/2016	26/10/2016	11/02/2016	$550,000	9616m	Full transfer	3	1	1	2	0	$550,000	197	-	Combined Record	-	-	-	Multiple unit dwelling	$4,038,000	7.34
+2016	473123	2 Mackaness Place	14/01/2016	02/03/2016	17/11/2015	$550,000	446m	Full transfer	3	1	1	-	1	$550,000	58	-	Combined Record	112	-	-	Medium density dwelling	$322,000	0.59
+2016	495813	4 Boothby Place	14/10/2016	04/01/2017	09/09/2016	$550,000	373m	Full transfer	3	2	-	-	2	$550,000	35	-	Combined Record	-	-	-	Medium density dwelling	$323,000	0.59
+2016	489360	20/10 Hopegood Place	14/09/2016	18/10/2016	11/08/2016	$542,500	7344m	Full transfer	2	2	-	2	-	$542,500	34	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	492462	4 Mackaness Place	25/08/2016	16/12/2016	-	$540,000	419m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	482853	33/17 Eldridge Crescent	25/08/2016	-	27/01/2016	$529,000	8387m	Full transfer	3	1	1	2	-	$529,000	211	-	Allhomes Record	-	-	-	-	-	-
+2016	487935	            33/15 Eldridge Crescent	25/08/2016	12/10/2016	-	$529,000	8387m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	490277	39/10 Hopegood Place	14/09/2016	31/10/2016	05/08/2016	$520,000	7344m	Full transfer	2	2	0	2	0	$520,000	40	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	497554	37/10 Hopegood Place	14/12/2016	23/02/2017	-	$515,000	7344m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	478634	16/7 Eldridge Crescent	14/06/2016	-	10/05/2016	$515,000	5618m	Full transfer	2	2	-	1	-	$515,000	35	-	Allhomes Record	-	-	-	-	-	-
+2016	475433	39/2 Eldridge Crescent	28/01/2016	12/04/2016	29/10/2015	$505,000	10798m	Full transfer	2	1	2	1	0	$505,000	91	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	487921	14/2 Eldridge Crescent	23/08/2016	10/10/2016	24/05/2016	$497,000	10798m	Full transfer	2	2	-	1	-	$497,000	91	-	Combined Record	113	-	-	Multiple unit dwelling	$4,038,000	8.12
+2016	488263	6 Brent Place	10/08/2016	04/10/2016	-	$457,500	939m	Full transfer	-	-	-	-	-	$457,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503537	59 Dennis Street	21/09/2016	28/04/2017	-	$425,000	826m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478657	7/5 Garran Place	15/06/2016	-	05/04/2016	$260,000	1201m	Full transfer	1	1	-	-	1	$260,000	71	-	Allhomes Record	-	-	-	-	-	-
+2016	498144	56 Brereton Street	08/11/2016	13/02/2017	-	$0	1102m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484391	1/146 Kitchener Street	05/07/2016	16/08/2016	-	$0	951m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	523934	20 Henderson Street	15/05/2016	25/01/2018	-	$0	794m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491501	59 Dennis Street	29/06/2016	22/11/2016	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496006	13 Savery Street	08/09/2016	25/01/2017	-	$0	873m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491581	58 Dennis Street	15/05/2016	29/11/2016	-	$0	775m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488819	27 Neilson Street	15/09/2016	24/10/2016	-	$0	804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501547	23 Palmer Street	22/12/2016	22/03/2017	-	$0	874m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477650	6 Furphy Place	04/03/2016	12/05/2016	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485704	19/1 Eldridge Crescent	20/06/2016	04/09/2016	-	$0	9616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	490161	85 Fitchett Street	13/06/2016	02/11/2016	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479270	49 Couvreur Street	07/04/2016	01/06/2016	28/01/2016	$0	1035m	Full transfer	4	3	-	2	0	$0	70	-	Combined Record	-	-	-	Single residential dwelling	$705,000	8.12
+2016	495299	8 Garran Place	25/11/2016	20/01/2017	-	$0	195m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2016	484446	104 Kitchener Street	27/01/2016	19/08/2016	-	$0	837m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492714	4 O'Dowd Street	21/10/2016	13/12/2016	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479537	6 Jose Place	03/02/2016	10/06/2016	-	$0	1006m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501050	6/1 Eldridge Crescent	23/06/2016	29/03/2017	-	$0	9616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	482304	4 Mackaness Place	27/02/2016	27/07/2016	-	$0	419m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	477662	9 Boothby Place	12/02/2016	13/05/2016	20/10/2015	$0	170m	Full transfer	3	1	-	1	-	$0	115	-	Combined Record	-	-	-	Medium density dwelling	$301,000	8.12
+2017	498735	20 Sabine Close	21/03/2017	-	31/01/2017	$1,900,000	961m	Full transfer	-	-	-	-	-	$1,900,000	49	-	Allhomes Record	-	-	-	-	$562,000	0.3
+2017	498727	18 Sabine Close	21/03/2017	-	31/01/2017	$1,900,000	803m	Full transfer	-	-	-	-	-	$1,900,000	49	-	Allhomes Record	-	-	-	-	$527,000	0.28
+2017	513436	12 Ogilvie Place	15/03/2017	02/06/2017	24/01/2017	$1,525,000	1530m	Full transfer	5	1	1	2	-	$1,525,000	50	-	Combined Record	-	-	-	Single residential dwelling	$881,000	0.58
+2017	504680	7 Sabine Close	21/03/2017	04/05/2017	-	$1,500,000	1303m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512383	37 Flanagan Street	18/03/2017	10/05/2017	23/02/2017	$1,380,000	1170m	Full transfer	4	2	-	0	2	$1,380,000	23	-	Combined Record	-	-	-	Single residential dwelling	$801,000	0.58
+2017	527771	23 Fitchett Street	12/12/2017	13/03/2018	01/08/2017	$1,380,000	732m	Full transfer	4	1	1	2	-	$1,380,000	133	-	Combined Record	207	-	-	Single residential dwelling	$507,000	0.37
+2017	514215	9 Couvreur Street	01/04/2017	29/06/2017	20/01/2017	$1,375,000	1041m	Full transfer	5	2	1	2	-	$1,375,000	71	-	Combined Record	-	-	-	Single residential dwelling	$726,000	0.53
+2017	520977	27 Flanagan Street	22/07/2017	03/12/2017	29/06/2017	$1,355,000	778m	Full transfer	4	3	0	2	0	$1,355,000	23	-	Combined Record	-	-	-	Single residential dwelling	$659,000	0.49
+2017	525768	10 Maurice Place	14/11/2017	13/02/2018	09/11/2017	$1,300,000	756m	Full transfer	5	3	-	2	0	$1,300,000	5	-	Combined Record	-	-	-	Single residential dwelling	$651,000	0.5
+2017	516654	50 Couvreur Street	13/06/2017	08/08/2017	25/05/2017	$1,300,000	993m	Full transfer	5	3	-	2	0	$1,300,000	19	-	Combined Record	-	-	-	Single residential dwelling	$842,000	0.65
+2017	528406	5 Stephens Place	12/12/2017	25/03/2018	-	$1,265,000	1019m	Full transfer	-	-	-	-	-	$1,265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526832	9 Flanagan Street	18/11/2017	05/03/2018	26/10/2017	$1,260,000	868m	Full transfer	5	3	-	3	0	$1,260,000	23	-	Combined Record	-	-	-	Single residential dwelling	$661,000	0.52
+2017	527752	2 Gilmore Crescent	07/12/2017	15/03/2018	-	$1,240,000	977m	Full transfer	-	-	-	-	-	$1,240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504550	7 Bonwick Place	27/05/2017	-	03/05/2017	$1,200,000	849m	Full transfer	3	2	-	1	1	$1,200,000	24	-	Allhomes Record	168	-	-	-	$766,000	0.64
+2017	527798	31 Neilson Street	21/12/2017	14/03/2018	09/11/2017	$1,196,000	1484m	Full transfer	5	2	-	0	2	$1,196,000	42	-	Combined Record	-	-	-	Single residential dwelling	$640,000	0.54
+2017	524396	            2/31 Gilmore Crescent	12/10/2017	24/01/2018	-	$1,195,000	918m	Full transfer	-	-	-	-	-	$1,195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506937	            34 Ingamells Street	08/08/2017	-	11/04/2017	$1,165,000	-	Full transfer	3	1	1	2	-	$1,165,000	119	-	Allhomes Record	165	-	-	-	$887,000	0.76
+2017	528394	14 Robson Street	06/12/2017	25/03/2018	-	$1,100,000	949m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503316	49 Curlewis Crescent	11/02/2017	04/04/2017	01/11/2016	$1,090,000	790m	Full transfer	4	1	1	2	-	$1,090,000	102	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.59
+2017	519750	13 Gilmore Crescent	29/08/2017	22/10/2017	01/08/2017	$1,070,000	816m	Full transfer	4	1	1	2	-	$1,070,000	28	-	Combined Record	166	-	-	Single residential dwelling	$472,000	0.44
+2017	524108	48 Curlewis Crescent	17/11/2017	23/01/2018	02/11/2017	$1,050,000	730m	Full transfer	4	1	-	2	0	$1,050,000	15	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.6
+2017	529213	            1/24 Harpur Place	27/11/2017	27/03/2018	-	$1,043,541	930m	Full transfer	-	-	-	-	-	$1,043,541	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	527670	19 Sabine Close	13/07/2017	13/03/2018	-	$1,030,000	824m	Full transfer	-	-	-	-	-	$1,030,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512966	4 Harpur Street	25/03/2017	25/05/2017	02/03/2017	$1,011,000	919m	Full transfer	3	2	-	3	1	$1,011,000	23	-	Combined Record	143	-	-	Single residential dwelling	$719,000	0.71
+2017	507005	2 Ingamells Street	08/08/2017	-	07/07/2017	$980,000	0m	Full transfer	-	-	-	-	-	$980,000	32	-	Allhomes Record	-	-	-	-	$464,000	0.47
+2017	515098	            1/26 Tompson Street	07/04/2017	10/07/2017	-	$979,000	834m	Full transfer	-	-	-	-	-	$979,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	500368	26A Tompson Street	07/04/2017	-	15/03/2017	$979,000	0m	Full transfer	4	2	-	2	-	$979,000	23	-	Allhomes Record	-	-	-	-	$687,000	0.7
+2017	523558	11 Harpur Street	10/11/2017	21/01/2018	11/09/2017	$975,000	731m	Full transfer	4	2	-	2	-	$975,000	60	-	Combined Record	186	-	-	Single residential dwelling	$628,000	0.64
+2017	523041	14 Savery Street	03/10/2017	08/01/2018	04/07/2017	$965,000	1050m	Full transfer	4	1	-	-	2	$965,000	91	-	Combined Record	154	-	-	Single residential dwelling	$503,000	0.52
+2017	498732	15 Curlewis Crescent	21/03/2017	-	17/02/2017	$960,000	859m	Full transfer	-	-	-	-	-	$960,000	32	-	Allhomes Record	-	-	-	-	$860,000	0.9
+2017	512212	15 Curlewis Crescent	17/05/2017	17/05/2017	-	$960,000	860m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504726	30 Harpur Street	15/02/2017	03/05/2017	22/11/2016	$957,000	700m	Full transfer	5	2	1	2	1	$957,000	85	-	Combined Record	-	-	-	Single residential dwelling	$621,000	0.65
+2017	512795	3 Maurice Place	22/05/2017	22/05/2017	-	$950,000	965m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498755	3 Maurice Place	21/03/2017	-	17/02/2017	$950,000	961m	Full transfer	-	-	-	-	-	$950,000	32	-	Allhomes Record	-	-	-	-	$855,000	0.9
+2017	518263	20 Sabine Close	28/08/2017	28/08/2017	-	$950,000	963m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517807	18 Sabine Close	28/08/2017	28/08/2017	-	$950,000	808m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512991	56 Curlewis Crescent	22/05/2017	22/05/2017	-	$900,000	912m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498748	56 Curlewis Crescent	21/03/2017	-	17/02/2017	$900,000	910m	Full transfer	-	-	-	-	-	$900,000	32	-	Allhomes Record	-	-	-	-	$810,000	0.9
+2017	498749	5 Flanagan Street	21/03/2017	-	17/02/2017	$900,000	923m	Full transfer	-	-	-	-	-	$900,000	32	-	Allhomes Record	-	-	-	-	$810,000	0.9
+2017	513580	5 Flanagan Street	29/05/2017	29/05/2017	-	$900,000	926m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498731	35 Curlewis Crescent	21/03/2017	-	17/02/2017	$880,000	803m	Full transfer	-	-	-	-	-	$880,000	32	-	Allhomes Record	-	-	-	-	$790,000	0.9
+2017	513575	35 Curlewis Crescent	31/05/2017	31/05/2017	-	$880,000	806m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512706	11 Furphy Place	23/05/2017	23/05/2017	-	$870,000	809m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507592	4 Maurice Place	01/09/2017	-	17/02/2017	$870,000	0m	Full transfer	-	-	-	-	-	$870,000	196	-	Allhomes Record	-	-	-	-	$639,000	0.73
+2017	520879	4 Maurice Place	30/11/2017	30/11/2017	-	$870,000	807m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498729	11 Furphy Place	21/03/2017	-	17/02/2017	$870,000	803m	Full transfer	-	-	-	-	-	$870,000	32	-	Allhomes Record	-	-	-	-	$780,000	0.9
+2017	510314	10 Furphy Place	06/12/2017	-	29/03/2017	$865,000	702m	Full transfer	3	1	-	1	-	$865,000	252	-	Allhomes Record	119	-	-	-	$721,000	0.83
+2017	513354	13 Becke Place	30/05/2017	30/05/2017	-	$860,000	919m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500333	13 Becke Place	31/03/2017	-	17/02/2017	$860,000	916m	Full transfer	-	-	-	-	-	$860,000	42	-	Allhomes Record	-	-	-	-	$775,000	0.9
+2017	524051	11 Lavater Place	28/10/2017	22/01/2018	15/09/2017	$855,000	778m	Full transfer	3	1	1	-	1	$855,000	43	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.66
+2017	516368	2/15 Tompson Street	20/06/2017	10/08/2017	04/04/2017	$840,000	1402m	Full transfer	3	1	1	2	-	$840,000	77	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	494370	32 Gilmore Crescent	07/02/2017	-	14/10/2016	$825,500	840m	Full transfer	-	-	-	-	-	$825,500	116	-	Allhomes Record	-	-	-	-	$745,000	0.9
+2017	504773	3 Neilson Street	05/05/2017	05/05/2017	-	$825,000	882m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501251	32 Gilmore Crescent	27/03/2017	27/03/2017	-	$825,000	844m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	498746	3 Neilson Street	21/03/2017	-	17/02/2017	$825,000	878m	Full transfer	-	-	-	-	-	$825,000	32	-	Allhomes Record	-	-	-	-	$745,000	0.9
+2017	523474	1 Brereton Street	23/10/2017	18/01/2018	11/09/2017	$820,000	910m	Full transfer	3	1	-	1	-	$820,000	42	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.64
+2017	514554	23 Palmer Street	08/05/2017	04/07/2017	01/03/2017	$800,000	874m	Full transfer	3	1	-	-	-	$800,000	68	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.62
+2017	524647	6 Hartigan Street	11/11/2017	02/02/2018	26/10/2017	$800,000	807m	Full transfer	3	1	-	0	0	$800,000	16	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.62
+2017	528801	9 Lavater Place	11/12/2017	21/03/2018	19/10/2017	$790,000	747m	Full transfer	3	1	-	-	2	$790,000	53	-	Combined Record	-	-	-	Single residential dwelling	$565,000	0.72
+2017	509343	43/2 'Glendale' Eldridge Crescent	08/11/2017	-	31/08/2017	$785,000	0m	Full transfer	3	3	-	2	0	$785,000	69	-	Allhomes Record	-	-	-	-	$4,038,000	5.14
+2017	524281	43/2 Eldridge Crescent	08/11/2017	25/01/2018	-	$785,000	10798m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512631	45/2 Eldridge Crescent	18/03/2017	11/05/2017	23/02/2017	$767,500	10798m	Full transfer	3	3	-	2	0	$767,500	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512457	6/1 Eldridge Crescent	25/03/2017	11/05/2017	22/02/2017	$730,000	9616m	Full transfer	3	3	-	2	0	$730,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	524440	58 Curlewis Crescent	23/10/2017	22/01/2018	-	$700,000	952m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510083	60 Garran Place	29/11/2017	-	19/07/2017	$620,000	0m	Full transfer	-	-	-	-	-	$620,000	133	-	Allhomes Record	-	-	-	-	$250,000	0.4
+2017	525626	1/60 Garran Place	21/11/2017	16/02/2018	-	$620,000	540m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Consulting rooms	-	-
+2017	527041	25/7 Eldridge Crescent	19/12/2017	05/03/2018	07/11/2017	$600,000	5618m	Full transfer	3	1	1	2	-	$600,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	519172	33/7 Eldridge Crescent	21/07/2017	13/10/2017	-	$595,000	5618m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528481	3/2 Hopegood Place	15/12/2017	21/03/2018	14/11/2017	$590,000	8239m	Full transfer	3	2	-	2	0	$590,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	504707	2/7 Hopegood Place	11/02/2017	01/05/2017	02/02/2017	$585,000	6188m	Full transfer	3	2	-	2	0	$585,000	9	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	519101	3/10 Hopegood Place	15/07/2017	04/10/2017	19/06/2017	$585,000	7344m	Full transfer	3	2	-	0	2	$585,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523687	22/1 Eldridge Crescent	18/11/2017	21/01/2018	26/10/2017	$582,000	9616m	Full transfer	3	2	-	2	0	$582,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	528824	29/7 Hopegood Place	07/11/2017	22/03/2018	23/08/2017	$575,000	6188m	Full transfer	3	1	1	2	0	$575,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	518252	6 Boothby Place	30/06/2017	28/08/2017	05/06/2017	$575,000	374m	Full transfer	3	2	-	-	2	$575,000	25	-	Combined Record	-	-	-	Medium density dwelling	$334,000	0.58
+2017	517986	31/2 Eldridge Crescent	12/07/2017	28/08/2017	14/06/2017	$575,000	10798m	Full transfer	3	2	-	2	0	$575,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512568	19/10 Hopegood Place	09/03/2017	08/05/2017	17/01/2017	$570,000	7344m	Full transfer	2	1	1	2	-	$570,000	51	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	513172	10 Mackaness Place	19/04/2017	06/06/2017	-	$565,000	624m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	502696	5/7 Hopegood Place	17/02/2017	13/04/2017	02/02/2017	$565,000	6188m	Full transfer	3	2	-	2	0	$565,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	524243	9/10 Hopegood Place	09/11/2017	24/01/2018	-	$560,000	7344m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509040	9/10 'De Villier' Hopegood Place	27/10/2017	-	16/08/2017	$560,000	0m	Full transfer	3	2	-	2	0	$560,000	72	-	Allhomes Record	-	-	-	-	$3,694,000	6.6
+2017	529789	3/7 Eldridge Crescent	21/12/2017	04/04/2018	16/11/2017	$560,000	5618m	Full transfer	3	2	-	2	0	$560,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	517935	44/1 Eldridge Crescent	07/07/2017	29/08/2017	08/06/2017	$556,000	9616m	Full transfer	3	2	-	2	-	$556,000	29	-	Combined Record	129	-	-	Multiple unit dwelling	$4,038,000	7.26
+2017	502751	29/10 Hopegood Place	23/02/2017	11/04/2017	12/01/2017	$555,000	7344m	Full transfer	3	2	-	2	0	$555,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523200	30/2 Eldridge Crescent	10/10/2017	15/01/2018	16/08/2017	$547,000	10798m	Full transfer	3	2	-	2	-	$547,000	55	-	Combined Record	130	-	-	Multiple unit dwelling	$4,038,000	7.38
+2017	515015	7 Boothby Place	15/05/2017	05/07/2017	16/03/2017	$531,000	170m	Full transfer	3	1	-	1	0	$531,000	60	-	Combined Record	-	-	-	Medium density dwelling	$312,000	0.59
+2017	512816	17 Boothby Place	01/03/2017	24/05/2017	08/02/2017	$516,000	208m	Full transfer	3	2	-	1	0	$516,000	21	-	Combined Record	-	-	-	Medium density dwelling	$318,000	0.62
+2017	519261	28/10 Hopegood Place	15/08/2017	13/10/2017	08/06/2017	$513,000	7344m	Full transfer	2	-	2	2	-	$513,000	68	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523837	15/7 Hopegood Place	19/10/2017	15/01/2018	31/08/2017	$509,000	6188m	Full transfer	2	2	-	2	0	$509,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	507363	3/2 Eldridge Crescent 'Glendale'	25/08/2017	-	26/07/2017	$507,000	0m	Full transfer	2	2	-	1	-	$507,000	30	-	Allhomes Record	-	-	-	-	$4,038,000	7.96
+2017	520573	3/2 Eldridge Crescent	25/08/2017	09/11/2017	-	$507,000	10798m	Full transfer	-	-	-	-	-	$507,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521726	19/7 Hopegood Place	26/09/2017	18/12/2017	27/04/2017	$495,000	6188m	Full transfer	2	1	1	2	-	$495,000	152	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	512718	3/15 Eldridge Crescent	16/02/2017	26/05/2017	19/10/2016	$490,000	8387m	Full transfer	2	1	1	1	-	$490,000	120	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	525652	5/1 Garran Place	17/11/2017	13/02/2018	18/10/2017	$350,000	1612m	Full transfer	2	1	-	-	-	$350,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	518140	4/3 Garran Place	30/06/2017	31/08/2017	10/05/2017	$334,000	1185m	Full transfer	2	1	-	0	1	$334,000	51	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523059	2/5 Garran Place	20/09/2017	14/01/2018	-	$326,000	1201m	Full transfer	-	-	-	-	-	$326,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	503023	5/3 Garran Place	07/03/2017	11/04/2017	26/08/2016	$310,000	1185m	Full transfer	2	1	-	-	1	$310,000	193	-	Combined Record	65	-	-	Multiple unit dwelling	-	-
+2017	561679	27/7 Hopegood Place	07/06/2017	28/05/2019	-	$0	6188m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528218	35 Ingamells Street	10/09/2017	19/03/2018	-	$0	694m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517186	1 Ogilvie Place	27/05/2017	01/08/2017	09/03/2017	$0	869m	Full transfer	4	1	1	-	2	$0	79	-	Combined Record	139	-	-	Single residential dwelling	$628,000	7.96
+2017	536569	10 Stephens Place	10/12/2017	26/06/2018	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512833	75 Fitchett Street	17/04/2017	24/05/2017	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503870	97 Fitchett Street	20/03/2017	27/04/2017	-	$0	910m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519765	4 Henderson Street	10/06/2017	19/10/2017	-	$0	1088m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523207	10/10 Robson Street	01/11/2017	15/01/2018	-	$0	2045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523087	9 Dennis Street	02/09/2017	11/01/2018	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	527003	9 Flanagan Street	30/10/2017	05/03/2018	-	$0	868m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	539097	73 Fitchett Street	26/07/2017	05/08/2018	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499686	57 Gilmore Crescent	06/02/2017	10/03/2017	-	$0	907m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522173	6 Hartigan Street	07/07/2017	12/12/2017	-	$0	807m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521697	66 Brereton Street	16/09/2017	20/12/2017	-	$0	1041m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523348	11/10 Robson Street	01/11/2017	15/01/2018	17/08/2017	$0	2045m	Full transfer	2	1	1	1	-	$0	76	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	529609	4 Ogilvie Place	23/04/2017	04/04/2018	-	$0	665m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528746	3 Brady Place	08/12/2017	25/03/2018	-	$0	766m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	537200	4 Ogilvie Place	29/07/2017	02/07/2018	-	$0	665m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	533307	6/39 Fitchett Street	24/09/2017	21/05/2018	-	$0	4120m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519639	11 Lavater Place	24/04/2017	22/10/2017	-	$0	778m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537412	10 Bonwick Place	29/03/2018	15/07/2018	12/10/2017	$1,825,000	1088m	Full transfer	5	3	1	-	5	$1,825,000	168	-	Combined Record	319	-	-	Single residential dwelling	$889,000	0.49
+2018	550971	78 Brereton Street	14/11/2018	09/01/2019	11/10/2018	$1,640,000	952m	Full transfer	4	3	-	2	0	$1,640,000	34	-	Combined Record	-	-	-	Single residential dwelling	$775,000	0.47
+2018	536868	19/B Brereton Street	16/07/2018	-	05/04/2018	$1,415,000	480m	Full transfer	4	3	-	2	0	$1,415,000	102	-	Allhomes Record	-	-	-	-	$1,044,000	0.74
+2018	546923	            2/19A Brereton Street	09/07/2018	30/11/2018	-	$1,415,000	998m	Full transfer	-	-	-	-	-	$1,415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	531180	1/14 Hartigan Street	03/05/2018	-	29/01/2018	$1,398,000	-	Full transfer	4	1	1	2	-	$1,398,000	94	-	Allhomes Record	237	-	-	-	-	-
+2018	548419	4 Harpur Street	14/09/2018	08/11/2018	14/03/2018	$1,365,000	919m	Full transfer	4	1	1	2	-	$1,365,000	184	-	Combined Record	-	-	-	Single residential dwelling	$745,000	0.55
+2018	558462	59 Brereton Street	15/12/2018	29/04/2019	21/11/2018	$1,300,000	1433m	Full transfer	4	2	-	2	0	$1,300,000	24	-	Combined Record	-	-	-	Single residential dwelling	$838,000	0.64
+2018	539918		30/08/2018	-	09/08/2018	$1,290,000	-	Full transfer	3	1	1	5	-	$1,290,000	21	-	Allhomes Record	198	-	-	-	-	-
+2018	551924	72 Brereton Street	20/12/2018	01/02/2019	18/10/2018	$1,275,000	1041m	Full transfer	4	3	-	4	0	$1,275,000	63	-	Combined Record	-	-	-	Single residential dwelling	$775,000	0.61
+2018	540115		07/09/2018	-	30/08/2018	$1,270,000	-	Full transfer	3	2	-	5	-	$1,270,000	8	-	Allhomes Record	-	-	-	-	-	-
+2018	543764	17 Couvreur Street	28/08/2018	08/10/2018	-	$1,250,000	1171m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511016	105 Kitchener Street	11/01/2018	-	19/10/2017	$1,240,000	977m	Full transfer	5	4	-	-	2	$1,240,000	84	-	Allhomes Record	-	-	-	-	-	-
+2018	561629	3 Harpur Street	07/09/2018	14/01/2019	29/08/2018	$1,200,000	850m	Full transfer	5	2	-	3	0	$1,200,000	9	-	Combined Record	-	-	-	Single residential dwelling	$703,000	0.59
+2018	534900	45 Dennis Street	24/03/2018	12/06/2018	27/02/2018	$1,190,000	957m	Full transfer	5	2	-	2	0	$1,190,000	25	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.48
+2018	536427	4 Hartigan Street	05/05/2018	28/06/2018	12/04/2018	$1,167,000	779m	Full transfer	4	2	-	0	0	$1,167,000	23	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.44
+2018	544529	16 Ingamells Street	28/07/2018	17/10/2018	04/07/2018	$1,162,500	814m	Full transfer	4	2	-	1	0	$1,162,500	24	-	Combined Record	-	-	-	Single residential dwelling	$650,000	0.56
+2018	530168	1/5 Hartigan Street	03/02/2018	12/04/2018	23/11/2017	$1,140,000	3900m	Full transfer	4	1	2	2	-	$1,140,000	72	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534975	5/5 Hartigan Street	17/03/2018	12/06/2018	22/02/2018	$1,130,000	3900m	Full transfer	4	4	-	2	-	$1,130,000	23	-	Combined Record	243	-	-	Multiple unit dwelling	$1,890,000	1.67
+2018	552068	16 Brereton Street	17/11/2018	29/01/2019	25/10/2018	$1,100,000	952m	Full transfer	5	3	-	2	0	$1,100,000	23	-	Combined Record	-	-	-	Single residential dwelling	$689,000	0.63
+2018	533102	4 Fitchett Street	05/06/2018	-	06/04/2018	$1,090,000	-	Full transfer	-	-	-	-	-	$1,090,000	60	-	Allhomes Record	-	-	-	-	$485,000	0.44
+2018	529536	13 Flanagan Street	02/02/2018	08/04/2018	01/12/2017	$1,085,000	882m	Full transfer	4	2	-	-	1	$1,085,000	63	-	Combined Record	-	-	-	Single residential dwelling	$711,000	0.66
+2018	548010	12 Stone Place	11/04/2018	22/10/2018	-	$1,060,000	908m	Full transfer	-	-	-	-	-	$1,060,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525429	17 Rusden Street	01/03/2018	-	23/01/2018	$1,050,000	-	Full transfer	-	-	-	-	-	$1,050,000	37	-	Allhomes Record	-	-	-	-	$900,000	0.86
+2018	533383	17 Rusden Street	21/05/2018	21/05/2018	-	$1,050,000	1020m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532599	14 Sabine Close	27/03/2018	17/05/2018	-	$1,040,000	1034m	Full transfer	-	-	-	-	-	$1,040,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548966	6 Lavater Place	30/10/2018	15/01/2019	-	$1,030,000	944m	Full transfer	-	-	-	-	-	$1,030,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551255	30 Harpur Street	15/09/2018	14/11/2018	23/08/2018	$1,025,000	700m	Full transfer	4	3	-	2	1	$1,025,000	23	-	Combined Record	-	-	-	Single residential dwelling	$644,000	0.63
+2018	553173	74 Fitchett Street	22/11/2018	05/02/2019	13/09/2018	$1,025,000	758m	Full transfer	4	2	-	1	1	$1,025,000	70	-	Combined Record	-	-	-	Single residential dwelling	$656,000	0.64
+2018	550996	            2/10 Gilmore Crescent	23/11/2018	10/01/2019	-	$1,020,000	831m	Full transfer	-	-	-	-	-	$1,020,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551674	1/10 Gilmore Crescent	30/11/2018	10/01/2019	-	$1,000,000	831m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	537146	4 Ogilvie Place	12/04/2018	02/07/2018	29/01/2018	$990,500	665m	Full transfer	4	1	1	-	2	$990,500	73	-	Combined Record	-	-	-	Single residential dwelling	$680,000	0.69
+2018	531381	35 Ingamells Street	15/03/2018	24/04/2018	-	$990,000	694m	Full transfer	-	-	-	-	-	$990,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534629	35 Ingamells Street	03/05/2018	04/06/2018	-	$980,000	694m	Full transfer	-	-	-	-	-	$980,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551588	6 Harpur Street	23/08/2018	13/11/2018	02/08/2018	$965,000	776m	Full transfer	4	2	-	0	2	$965,000	21	-	Combined Record	-	-	-	Single residential dwelling	$688,000	0.71
+2018	558370	5 Henderson Street	16/03/2018	02/05/2019	-	$920,500	910m	Full transfer	-	-	-	-	-	$920,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551591	11 Savery Street	01/06/2018	13/11/2018	15/02/2018	$900,000	906m	Full transfer	3	2	-	2	0	$900,000	106	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.57
+2018	536320	9 Dennis Street	07/05/2018	28/06/2018	15/02/2018	$896,000	888m	Full transfer	4	2	-	2	1	$896,000	81	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.64
+2018	551543	4 Stephens Place	02/06/2018	14/11/2018	03/05/2018	$882,000	821m	Full transfer	3	1	0	2	0	$882,000	30	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.59
+2018	545856	25 Flanagan Street	17/12/2018	-	01/11/2017	$870,000	771m	Full transfer	-	-	-	-	-	$870,000	411	-	Allhomes Record	-	-	-	-	$581,000	0.67
+2018	531367	8 Brady Place	13/02/2018	23/04/2018	01/11/2017	$860,000	826m	Full transfer	5	1	1	1	-	$860,000	104	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.53
+2018	540429	8 Becke Place	08/06/2018	21/08/2018	23/05/2018	$854,000	815m	Full transfer	5	2	-	1	-	$854,000	16	-	Combined Record	198	-	-	Single residential dwelling	$594,000	0.7
+2018	542649	45 Ingamells Street	28/07/2018	28/09/2018	04/07/2018	$850,000	706m	Full transfer	3	1	-	1	0	$850,000	24	-	Combined Record	-	-	-	Single residential dwelling	$660,000	0.78
+2018	560809	20 Henderson Street	08/12/2018	18/02/2019	14/11/2018	$845,000	794m	Full transfer	4	1	1	1	1	$845,000	24	-	Combined Record	132	-	-	Single residential dwelling	$703,000	0.83
+2018	553060	73 Fitchett Street	21/12/2018	04/02/2019	08/11/2018	$842,500	845m	Full transfer	4	2	-	2	1	$842,500	43	-	Combined Record	-	-	-	Single residential dwelling	$743,000	0.88
+2018	534797	117 Gilmore Crescent	15/06/2018	-	27/04/2018	$840,000	0m	Full transfer	3	1	-	1	0	$840,000	49	-	Allhomes Record	-	-	-	-	$484,000	0.58
+2018	527258	81 Fitchett Street	21/02/2018	-	01/11/2017	$835,000	872m	Full transfer	-	-	-	-	-	$835,000	112	-	Allhomes Record	-	-	-	-	$800,000	0.96
+2018	539094	29 Neilson Street	13/06/2018	02/08/2018	-	$835,000	716m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533674	81 Fitchett Street	21/05/2018	21/05/2018	-	$835,000	875m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534177	3 Savery Street	24/03/2018	29/05/2018	20/02/2018	$792,000	743m	Full transfer	3	1	-	0	1	$792,000	32	-	Combined Record	-	-	-	Single residential dwelling	$510,000	0.64
+2018	550153	43/2 Eldridge Crescent	16/08/2018	12/12/2018	-	$785,000	10798m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	554422	33/10 Hopegood Place	17/11/2018	04/03/2019	25/10/2018	$640,000	7344m	Full transfer	2	3	-	2	-	$640,000	23	-	Combined Record	114	-	-	Multiple unit dwelling	$3,694,000	5.77
+2018	538065	9/10 Robson Street	21/05/2018	18/07/2018	-	$631,555	2045m	Full transfer	-	-	-	-	-	$631,555	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532100	9/8-10 Robson Street	21/05/2018	-	26/04/2018	$631,555	-	Full transfer	2	2	-	1	-	$631,555	25	-	Allhomes Record	87	-	-	-	$2,040,000	3.23
+2018	544382	17 Boothby Place	31/08/2018	19/10/2018	05/06/2018	$630,000	208m	Full transfer	3	2	-	1	-	$630,000	87	-	Combined Record	124	-	-	Medium density dwelling	$330,000	0.52
+2018	547372	34/10 Hopegood Place	08/09/2018	22/11/2018	16/08/2018	$627,500	7344m	Full transfer	3	2	-	2	0	$627,500	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	549533	13/7 Eldridge Crescent	15/09/2018	30/10/2018	23/08/2018	$625,000	5618m	Full transfer	3	2	-	2	0	$625,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	548584	19/15 Eldridge Crescent	07/11/2018	17/12/2018	14/09/2018	$620,000	8387m	Full transfer	3	1	1	2	-	$620,000	54	-	Combined Record	120	-	-	Multiple unit dwelling	-	-
+2018	550898	4/2 Hopegood Place	26/11/2018	10/01/2019	-	$618,000	8239m	Full transfer	-	-	-	-	-	$618,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548427	2/2 Eldridge Crescent	21/09/2018	08/11/2018	24/08/2018	$610,000	10798m	Full transfer	3	1	1	2	-	$610,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534654	2/15 Eldridge Crescent	02/03/2018	05/06/2018	14/02/2018	$610,000	8387m	Full transfer	3	1	1	2	-	$610,000	16	-	Combined Record	124	-	-	Multiple unit dwelling	-	-
+2018	547753	20/7 Hopegood Place	09/09/2018	25/10/2018	26/07/2018	$602,000	6188m	Full transfer	3	1	1	2	-	$602,000	45	-	Combined Record	134	-	-	Multiple unit dwelling	$2,921,000	4.85
+2018	542407	20/7 Eldridge Crescent	27/07/2018	17/09/2018	02/07/2018	$595,000	5618m	Full transfer	3	1	1	2	-	$595,000	25	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	528670	1/7 Eldridge Crescent	10/01/2018	22/03/2018	14/12/2017	$590,000	5618m	Full transfer	3	2	-	2	0	$590,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	549863	21/15 Eldridge Crescent	02/11/2018	21/12/2018	08/10/2018	$585,000	8387m	Full transfer	3	2	-	2	-	$585,000	25	-	Combined Record	120	-	-	Multiple unit dwelling	-	-
+2018	538404	18/7 Hopegood Place	20/06/2018	24/07/2018	12/06/2018	$585,000	6188m	Full transfer	3	2	-	2	0	$585,000	8	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	532067	19 Boothby Place	21/05/2018	-	02/05/2018	$582,000	322m	Full transfer	3	2	-	0	1	$582,000	19	-	Allhomes Record	-	-	-	-	$347,000	0.6
+2018	550319	27/10 Hopegood Place	18/10/2018	10/12/2018	28/08/2018	$580,000	7344m	Full transfer	3	2	-	2	-	$580,000	51	-	Combined Record	124	-	-	Multiple unit dwelling	$3,694,000	6.37
+2018	534501	4/2 Eldridge Crescent	19/03/2018	04/06/2018	30/01/2018	$580,000	10798m	Full transfer	3	1	1	2	-	$580,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	529143	15/10 Hopegood Place	06/02/2018	27/03/2018	11/10/2017	$550,000	7344m	Full transfer	3	2	-	2	-	$550,000	118	-	Combined Record	122	-	-	Multiple unit dwelling	$3,694,000	6.72
+2018	541895	10/1 Eldridge Crescent	23/07/2018	10/09/2018	12/07/2018	$538,000	9616m	Full transfer	2	2	-	1	1	$538,000	11	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	537383	6/39 Fitchett Street	18/04/2018	10/07/2018	15/03/2018	$535,000	4120m	Full transfer	2	1	-	-	1	$535,000	34	-	Combined Record	113	-	-	Multiple unit dwelling	-	-
+2018	534338	3/15 Eldridge Crescent	08/03/2018	07/06/2018	23/01/2018	$517,000	8387m	Full transfer	2	2	-	1	0	$517,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	528994	37/7 Eldridge Crescent	01/02/2018	29/03/2018	05/10/2017	$505,000	5618m	Full transfer	2	2	-	1	0	$505,000	119	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	546838	21/2 Eldridge Crescent	01/11/2018	02/01/2019	27/09/2016	$498,000	10798m	Full transfer	2	-	2	1	-	$498,000	765	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	529475	24/15 Eldridge Crescent	20/02/2018	05/04/2018	05/10/2017	$490,000	8387m	Full transfer	2	2	-	1	0	$490,000	138	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	539621	5/2 Eldridge Crescent	02/07/2018	09/08/2018	01/09/2017	$485,000	10798m	Full transfer	2	-	2	1	-	$485,000	304	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	542190	22/15 Eldridge Crescent	25/07/2018	17/09/2018	12/06/2018	$482,500	8387m	Full transfer	2	1	1	1	-	$482,500	43	-	Combined Record	100	-	-	Multiple unit dwelling	-	-
+2018	547738	2/5 Garran Place	06/09/2018	22/10/2018	19/07/2018	$365,000	1201m	Full transfer	1	1	-	1	0	$365,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551553	3/5 Dann Close	05/10/2018	12/11/2018	-	$330,000	3704m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	National association office	-	-
+2018	553034	8/5 Garran Place	11/12/2018	05/02/2019	07/08/2018	$315,000	1201m	Full transfer	1	1	-	-	1	$315,000	126	-	Combined Record	67	-	-	Multiple unit dwelling	-	-
+2018	526221	16/7 Hopegood Place	26/02/2018	28/02/2018	-	$183,333	6188m	Full transfer	-	-	-	-	-	$183,333	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	556685	13/5 Dann Close	20/12/2018	04/04/2019	-	$0	3704m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	National association office	-	-
+2018	547897	24/2 Hopegood Place	04/05/2018	22/10/2018	-	$0	8239m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543486	            3/7 Sabine Close	25/07/2018	02/10/2018	-	$0	1303m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	566286	1 Curlewis Crescent	04/09/2018	02/08/2019	-	$0	948m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536488	9 Dennis Street	29/03/2018	28/06/2018	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	567493	31 Brereton Street	08/10/2018	23/08/2019	-	$0	944m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	553127	28 Flanagan Street	04/12/2018	05/02/2019	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551919	6 Becke Place	14/11/2018	29/01/2019	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551575	4 Stephens Place	22/06/2018	14/11/2018	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	555399	17 Flanagan Street	18/11/2018	14/03/2019	-	$0	816m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533590	3 Henderson Street	20/04/2018	24/05/2018	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539002	64 Brereton Street	19/05/2018	31/07/2018	27/04/2018	$0	1007m	Full transfer	4	2	-	2	0	$0	22	-	Combined Record	-	-	-	Single residential dwelling	$767,000	6.72
+2018	546977	52 Curlewis Crescent	13/09/2018	27/11/2018	-	$0	801m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548551	115 Kitchener Street	19/09/2018	19/12/2018	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	558841	103 Fitchett Street	13/11/2018	06/05/2019	-	$0	821m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	560020	18/10 Hopegood Place	17/01/2018	20/05/2019	-	$0	7344m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	560961	5 Foott Street	25/06/2018	21/02/2019	-	$0	613m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549615	17 Dennis Street	25/08/2018	30/10/2018	-	$0	1003m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536307	36/7 Eldridge Crescent	18/03/2018	25/06/2018	-	$0	5618m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	555761	9 Bonwick Place	20/12/2018	19/03/2019	-	$0	1080m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541769	117 Gilmore Crescent	08/06/2018	10/09/2018	-	$0	775m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560833	3 Neilson Street	06/04/2019	31/05/2019	14/03/2019	$1,860,000	882m	Full transfer	5	4	-	2	0	$1,860,000	23	-	Combined Record	-	-	-	Single residential dwelling	$772,000	0.42
+2019	574601	17 Maurice Place	21/10/2019	22/11/2019	15/10/2019	$1,700,000	1014m	Full transfer	4	1	2	2	0	$1,700,000	6	-	Combined Record	-	-	-	Single residential dwelling	$803,000	0.47
+2019	564109	9 Bonwick Place	20/05/2019	04/07/2019	14/03/2019	$1,525,000	1080m	Full transfer	5	4	-	2	0	$1,525,000	67	-	Combined Record	-	-	-	Single residential dwelling	$889,000	0.58
+2019	555166	34 Flanagan Street	01/02/2019	13/03/2019	08/01/2019	$1,500,000	1041m	Full transfer	6	3	-	2	0	$1,500,000	24	-	Combined Record	-	-	-	Single residential dwelling	$873,000	0.58
+2019	567373	4 Bonwick Place	01/06/2019	12/08/2019	09/05/2019	$1,390,000	1029m	Full transfer	4	3	-	2	0	$1,390,000	23	-	Combined Record	-	-	-	Single residential dwelling	$804,000	0.58
+2019	573648	9 Ogilvie Place	16/07/2019	08/11/2019	18/04/2019	$1,385,000	1052m	Full transfer	3	2	-	2	0	$1,385,000	89	-	Combined Record	-	-	-	Single residential dwelling	$803,000	0.58
+2019	567672	52 Brereton Street	25/03/2019	19/08/2019	20/12/2018	$1,325,000	1041m	Full transfer	4	2	-	2	0	$1,325,000	95	-	Combined Record	-	-	-	Single residential dwelling	$750,000	0.57
+2019	560111		28/05/2019	-	04/06/2019	$1,240,000	-	Full transfer	3	2	-	5	-	$1,240,000	-	-	Allhomes Record	-	-	-	-	-	-
+2019	568024	10 Curlewis Crescent	07/09/2019	-	15/08/2019	$1,196,000	786m	Full transfer	4	3	-	2	0	$1,196,000	23	-	Allhomes Record	-	-	-	-	$664,000	0.56
+2019	560597	            1/7 Sabine Close	25/01/2019	18/02/2019	-	$1,170,000	1303m	Full transfer	-	-	-	-	-	$1,170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	546417	1/7 Sabine Close	24/01/2019	-	02/08/2018	$1,170,000	0m	Full transfer	4	3	-	2	0	$1,170,000	175	-	Allhomes Record	-	-	-	-	$1,140,000	0.97
+2019	565697	            2/56A Curlewis Crescent	18/06/2019	26/07/2019	-	$1,150,000	912m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	576451	5/14 Hartigan Street	24/10/2019	10/12/2019	-	$1,150,000	5305m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556397	24 Brereton Street	23/02/2019	28/03/2019	29/01/2019	$1,137,000	820m	Full transfer	3	1	1	2	-	$1,137,000	25	-	Combined Record	-	-	-	Single residential dwelling	$664,000	0.58
+2019	569291	24 Brereton Street	02/08/2019	09/09/2019	-	$1,130,000	820m	Full transfer	-	-	-	-	-	$1,130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574152	17 Flanagan Street	07/12/2019	-	14/11/2019	$1,100,000	816m	Full transfer	4	2	-	2	0	$1,100,000	23	-	Allhomes Record	-	-	-	-	$691,000	0.63
+2019	563723	15B Curlewis Crescent	11/07/2019	-	10/09/2018	$1,100,000	430m	Full transfer	3	1	1	2	-	$1,100,000	304	-	Allhomes Record	167	-	-	-	$899,000	0.82
+2019	573465	5 Ingamells Street	23/11/2019	-	29/10/2019	$1,075,000	815m	Full transfer	4	1	1	2	-	$1,075,000	25	-	Allhomes Record	161	-	-	-	$582,000	0.54
+2019	564974	            1/15 Curlewis Crescent	12/03/2019	10/07/2019	-	$1,068,000	860m	Full transfer	-	-	-	-	-	$1,068,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	568871	            2/15 Curlewis Crescent	07/08/2019	02/09/2019	-	$1,035,000	860m	Full transfer	-	-	-	-	-	$1,035,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	546450	26B Robson Street	24/01/2019	-	17/12/2018	$1,013,500	0m	Full transfer	4	2	-	2	0	$1,013,500	38	-	Allhomes Record	-	-	-	-	$628,000	0.62
+2019	555641	            2/26 Robson Street	24/01/2019	19/03/2019	-	$1,013,500	990m	Full transfer	-	-	-	-	-	$1,013,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571167	2/7 Sabine Close	04/10/2019	-	31/01/2019	$1,010,000	0m	Full transfer	4	3	-	2	0	$1,010,000	246	-	Allhomes Record	-	-	-	-	$1,140,000	1.13
+2019	574921	            2/7 Sabine Close	11/10/2019	20/11/2019	-	$1,010,000	1303m	Full transfer	-	-	-	-	-	$1,010,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574122	9 Harpur Street	07/12/2019	-	14/11/2019	$1,000,000	0m	Full transfer	4	2	-	2	0	$1,000,000	23	-	Allhomes Record	-	-	-	-	$675,000	0.68
+2019	565986	3 Ham Place	11/06/2019	30/07/2019	27/03/2019	$1,000,000	788m	Full transfer	4	2	-	4	0	$1,000,000	76	-	Combined Record	-	-	-	Single residential dwelling	$641,000	0.64
+2019	573437	26 Gilmore Crescent	23/11/2019	-	30/10/2019	$995,000	0m	Full transfer	4	2	-	2	0	$995,000	24	-	Allhomes Record	-	-	-	-	$581,000	0.58
+2019	575749	56 Fitchett Street	26/09/2019	07/12/2019	05/09/2019	$987,000	725m	Full transfer	3	2	-	0	2	$987,000	21	-	Combined Record	-	-	-	Single residential dwelling	$606,000	0.61
+2019	565620	47 Dennis Street	11/05/2019	23/07/2019	18/04/2019	$960,000	846m	Full transfer	4	2	-	1	1	$960,000	23	-	Combined Record	-	-	-	Single residential dwelling	$570,000	0.59
+2019	560471	115 Kitchener Street	20/03/2019	17/05/2019	27/02/2019	$952,000	880m	Full transfer	4	2	-	2	-	$952,000	21	-	Combined Record	184	-	-	Single residential dwelling	$460,000	0.48
+2019	575745	7 Palmer Street	24/10/2019	07/12/2019	-	$950,000	967m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554699	5 Henderson Street	16/03/2019	-	18/02/2019	$920,500	909m	Full transfer	3	1	1	1	-	$920,500	26	-	Allhomes Record	140	-	-	-	$632,000	0.69
+2019	565363	7 Maurice Place	07/08/2019	-	08/02/2019	$920,000	840m	Full transfer	-	-	-	-	-	$920,000	180	-	Allhomes Record	-	-	-	-	$693,000	0.75
+2019	576756	            2/91 Gilmore Crescent	02/11/2019	09/12/2019	-	$889,000	950m	Full transfer	-	-	-	-	-	$889,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	571548	91B Gilmore Crescent	02/11/2019	-	10/10/2019	$889,000	0m	Full transfer	3	2	-	2	0	$889,000	23	-	Allhomes Record	-	-	-	-	$740,000	0.83
+2019	566253	16 Sabine Close	05/07/2019	01/08/2019	06/03/2019	$885,000	790m	Full transfer	4	2	-	-	-	$885,000	121	-	Combined Record	790	-	-	Single residential dwelling	$546,000	0.62
+2019	570236	49 Ingamells Street	12/10/2019	-	19/09/2019	$885,000	0m	Full transfer	4	1	-	1	1	$885,000	23	-	Allhomes Record	-	-	-	-	$660,000	0.75
+2019	571291	25 Flanagan Street	16/10/2019	-	18/04/2019	$870,000	771m	Full transfer	-	-	-	-	-	$870,000	181	-	Allhomes Record	-	-	-	-	$581,000	0.67
+2019	555887	26 Neilson Street	07/02/2019	19/03/2019	22/11/2018	$845,000	769m	Full transfer	3	1	-	1	0	$845,000	77	-	Combined Record	-	-	-	Single residential dwelling	$511,000	0.6
+2019	575446	11 McCrae Street	10/12/2019	-	10/10/2019	$835,000	0m	Full transfer	4	2	-	0	2	$835,000	61	-	Allhomes Record	-	-	-	-	$452,000	0.54
+2019	559441	68 Fitchett Street	10/04/2019	16/05/2019	06/12/2018	$810,000	705m	Full transfer	3	1	-	4	-	$810,000	125	-	Combined Record	144	-	-	Single residential dwelling	$656,000	0.81
+2019	575511	91A Gilmore Crescent	14/12/2019	-	28/11/2019	$762,000	913m	Full transfer	3	1	-	0	2	$762,000	16	-	Allhomes Record	-	-	-	-	$740,000	0.97
+2019	554401	33/2 Hopegood Place	13/03/2019	-	05/02/2019	$750,000	8239m	Full transfer	3	1	1	2	-	$750,000	36	-	Allhomes Record	-	-	-	-	-	-
+2019	564176	5 Foott Street	28/05/2019	01/07/2019	07/03/2019	$737,000	613m	Full transfer	3	1	-	2	0	$737,000	82	-	Combined Record	-	-	-	Single residential dwelling	$505,000	0.69
+2019	568166	15 Boothby Place	17/07/2019	27/08/2019	17/01/2019	$650,000	260m	Full transfer	3	2	-	2	-	$650,000	181	-	Combined Record	-	-	-	Medium density dwelling	$346,000	0.53
+2019	575109	            1/7 Eldridge	11/12/2019	-	21/11/2019	$630,500	-	Full transfer	3	1	1	2	-	$630,500	20	-	Allhomes Record	-	-	-	-	-	-
+2019	566398	            9/2 Eldridge St	15/08/2019	-	25/07/2019	$620,000	0m	Full transfer	3	2	-	2	-	$620,000	21	-	Allhomes Record	-	-	-	-	-	-
+2019	564138	20/2 Eldridge Crescent	30/04/2019	01/07/2019	03/04/2019	$620,000	10798m	Full transfer	3	2	-	2	0	$620,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	573801	9/2 Eldridge Crescent	15/08/2019	05/11/2019	-	$620,000	10798m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572390	10/7 Eldridge Crescent	14/11/2019	-	03/10/2019	$620,000	0m	Full transfer	3	2	-	2	0	$620,000	42	-	Allhomes Record	-	-	-	-	-	-
+2019	573910	11/7 Eldridge Crescent	29/11/2019	-	12/07/2019	$618,000	0m	Full transfer	3	2	-	2	0	$618,000	140	-	Allhomes Record	-	-	-	-	-	-
+2019	576700	3/10 Hopegood Place	30/10/2019	09/12/2019	24/06/2019	$618,000	7344m	Full transfer	3	2	-	0	2	$618,000	128	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	575495	38/1 Eldridge Crescent	13/12/2019	-	10/10/2019	$615,000	0m	Full transfer	3	2	-	2	0	$615,000	64	-	Allhomes Record	-	-	-	-	-	-
+2019	557968	41/17 Eldridge Crescent	08/05/2019	-	07/03/2019	$613,000	8387m	Full transfer	3	1	1	-	2	$613,000	62	-	Allhomes Record	-	-	-	-	$2,767,000	4.51
+2019	563177	            41/15 Eldridge Crescent	08/05/2019	17/06/2019	-	$613,000	8387m	Full transfer	-	-	-	-	-	$613,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567898	14 Mackaness Place	08/07/2019	23/08/2019	-	$610,000	270m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	559378	22/7 Hopegood Place	16/04/2019	17/05/2019	-	$598,000	6188m	Full transfer	-	-	-	-	-	$598,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	565109	22/7 Eldridge Crescent	07/05/2019	08/07/2019	-	$595,000	5618m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562482	20/7 Eldridge Crescent	05/04/2019	12/06/2019	07/03/2019	$595,000	5618m	Full transfer	3	2	-	2	2	$595,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	576990	3/39 Fitchett Street	20/12/2019	-	14/11/2019	$550,000	0m	Full transfer	2	1	-	0	1	$550,000	36	-	Allhomes Record	-	-	-	-	-	-
+2019	574200	14/10 Hopegood Place	10/12/2019	-	13/11/2019	$540,000	7344m	Full transfer	2	-	2	2	-	$540,000	27	-	Allhomes Record	107	-	-	-	-	-
+2019	568650	3/2 Eldridge Crescent	19/09/2019	-	22/08/2019	$520,000	0m	Full transfer	2	2	-	1	0	$520,000	28	-	Allhomes Record	-	-	-	-	-	-
+2019	568198	29/7 Eldridge Crescent	04/07/2019	30/08/2019	14/05/2019	$520,000	5618m	Full transfer	2	1	1	1	-	$520,000	51	-	Combined Record	113	-	-	Multiple unit dwelling	-	-
+2019	568851	1/15 Eldridge Crescent	08/08/2019	05/09/2019	24/06/2019	$510,000	8387m	Full transfer	2	1	1	1	-	$510,000	45	-	Combined Record	104	-	-	Multiple unit dwelling	-	-
+2019	561567	12 Sabine Close	14/02/2019	22/02/2019	-	$500,000	1062m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566133	39/2 Eldridge Crescent	14/06/2019	29/07/2019	19/03/2019	$500,000	10798m	Full transfer	2	-	2	1	-	$500,000	87	-	Combined Record	114	-	-	Multiple unit dwelling	-	-
+2019	556758	7/1 Garran Place	20/03/2019	04/04/2019	15/10/2018	$315,000	1612m	Full transfer	1	1	-	-	-	$315,000	156	-	Combined Record	55	-	-	Multiple unit dwelling	-	-
+2019	575218	16 Sabine Close	15/11/2019	29/11/2019	-	$221,250	790m	Partial transfer	-	-	-	-	-	$221,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557427	 Garren Place	01/05/2019	-	25/10/2018	$170,000	-	Full transfer	-	-	-	-	-	$170,000	188	-	Allhomes Record	-	-	-	-	$135,500	0.8
+2019	563878	3 Henderson Street	16/05/2019	01/07/2019	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559400	23 Fitchett Street	16/04/2019	15/05/2019	-	$0	732m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557810	            25/15 Eldridge Crescent	15/01/2019	16/04/2019	-	$0	8387m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558213	33/2 Hopegood Place	21/02/2019	02/05/2019	-	$0	8239m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	559447	48 Dennis Street	15/01/2019	16/05/2019	-	$0	799m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564963	105 Fitchett Street	28/04/2019	09/07/2019	-	$0	923m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572636	106 Kitchener Street	19/06/2019	22/10/2019	-	$0	839m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572154	14/7 Hopegood Place	24/06/2019	18/10/2019	-	$0	6188m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	575715	12/10 Hopegood Place	28/08/2019	03/12/2019	-	$0	7344m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
