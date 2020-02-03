@@ -1,0 +1,79 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	237367	189 Narrabundah Lane	11/08/2006	18/08/2008	-	$2,050,000	93792m	Full transfer	-	-	-	-	-	$2,050,000	-	-	Government Record	-	-	-	Caravan park,camping ground	-	-
+2006	226816	189 Narrabundah Lane	31/03/2006	26/05/2006	-	$2,000,000	93792m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Caravan park,camping ground	-	-
+2006	169123	250 Narrabundah Lane	14/10/2006	09/02/2007	-	$1,150,000	44102m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	21544	            10494 Monaro Highway	08/12/2006	-	07/12/2005	$1,100,000	-	Full transfer	4	1	1	2	-	$1,100,000	366	-	Allhomes Record	-	-	-	-	-	-
+2006	169788	4 Taubman Street	13/10/2006	11/12/2006	-	$200,000	2123m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Advanced technology develop...	-	-
+2006	230124	22 Wormald Street	11/01/2006	30/01/2008	-	-	5066m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2006	261460	11 Faulding Street	01/03/2006	18/02/2010	-	-	3494m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2006	254116	19 Wormald Street	01/03/2006	11/02/2010	-	-	7360m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2006	34990	45 Mugga Lane	21/08/2006	21/08/2006	-	-	357906m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2007	236268	14 Wormald Street	27/11/2007	23/05/2008	-	$10,000,000	6435m	Full transfer	-	-	-	-	-	$10,000,000	-	-	Government Record	-	-	-	Light industry	-	-
+2007	101114	57/189 Narrabundah Lane	17/05/2007	-	10/04/2007	$35,000	-	Full transfer	2	1	-	-	-	$35,000	37	-	Allhomes Record	-	-	-	-	-	-
+2007	120658	101 Jerrabomberra Avenue	11/01/2007	15/05/2007	-	$0	160378m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Cafe	-	-
+2008	261461	150 Narrabundah Lane	27/10/2008	03/02/2010	-	$3,220,000	30996m	Full transfer	-	-	-	-	-	$3,220,000	-	-	Government Record	-	-	-	Scientific research establi...	-	-
+2008	232006	9 Faulding Street	28/03/2008	02/07/2008	-	$2,875,000	2724m	Full transfer	-	-	-	-	-	$2,875,000	-	-	Government Record	-	-	-	Shop	-	-
+2009	251613	150 Narrabundah Lane	20/05/2009	22/12/2009	-	$3,220,000	30996m	Full transfer	-	-	-	-	-	$3,220,000	-	-	Government Record	-	-	-	Scientific research establi...	-	-
+2009	23843	            82 Banksia Avenue	08/10/2009	-	09/01/2009	$185,000	92899m	Full transfer	2	1	-	-	1	$185,000	272	-	Allhomes Record	-	-	-	-	-	-
+2009	247151	            30 Longstay Park, 189 Narrabundah Lane	09/12/2009	-	16/07/2009	$60,000	-	Full transfer	3	1	-	-	-	$60,000	146	-	Allhomes Record	-	-	-	-	-	-
+2009	23632	            60 Long Stay Park, 180 Narrbundah Lane	01/08/2009	-	29/06/2009	$56,000	-	Full transfer	1	1	-	-	-	$56,000	33	-	Allhomes Record	-	-	-	-	-	-
+2009	23231	            70/199 Narrabundah Lane	05/03/2009	-	26/02/2009	$50,000	-	Full transfer	1	1	-	1	-	$50,000	7	-	Allhomes Record	-	-	-	-	-	-
+2009	23652	            99 Longstay Park, 189 Narrabundah Lane	12/08/2009	-	16/07/2009	$45,000	-	Full transfer	1	1	-	-	-	$45,000	27	-	Allhomes Record	-	-	-	-	-	-
+2009	128827	189 Narrabundah Lane	30/07/2009	-	20/07/2009	$35,000	93792m	Full transfer	1	0	1	-	3	$35,000	10	-	Allhomes Record	-	-	-	-	-	-
+2010	264584	3/189 Narrabundah Lane	16/07/2010	-	10/06/2010	$91,000	93792m	Full transfer	2	1	-	-	-	$91,000	36	-	Allhomes Record	-	-	-	-	-	-
+2010	264210	            38 189 Narrabundah Lane	29/06/2010	-	06/04/2010	$87,500	93792m	Full transfer	2	1	-	-	1	$87,500	84	-	Allhomes Record	-	-	-	-	$1,581,000	18.07
+2010	264302	            2 The Pines Avenue	03/07/2010	-	07/04/2010	$70,000	92899m	Full transfer	1	1	-	-	1	$70,000	87	-	Allhomes Record	-	-	-	-	-	-
+2010	266147	2/189 Narrabundah Lane	21/09/2010	-	23/08/2010	$67,000	93792m	Full transfer	2	1	-	-	-	$67,000	29	-	Allhomes Record	-	-	-	-	$1,581,000	23.6
+2010	272200	97/189 Narrabundah Lane	10/12/2010	-	14/09/2010	$62,000	93792m	Full transfer	2	1	-	1	-	$62,000	87	-	Allhomes Record	-	-	-	-	$1,581,000	25.5
+2011	275205	            35 Narrabundah Lane	18/01/2011	-	10/02/2010	$110,000	93792m	Full transfer	2	1	-	-	1	$110,000	342	-	Allhomes Record	-	-	-	-	-	-
+2011	289301	            2 The Pines Avenue	12/05/2011	-	04/05/2011	$79,500	92899m	Full transfer	1	1	-	-	1	$79,500	8	-	Allhomes Record	-	-	-	-	-	-
+2012	381874	89 Banksia Drive	29/11/2012	-	10/08/2012	$175,000	-	Full transfer	2	1	-	-	1	$175,000	111	-	Allhomes Record	-	-	-	-	-	-
+2012	380003	98/189 Narrabundah Lane	24/10/2012	-	04/02/2011	$86,000	93792m	Full transfer	2	1	-	-	1	$86,000	628	-	Allhomes Record	-	-	-	-	$1,502,000	17.47
+2012	380341	42/189 Narrabundah Lane	01/11/2012	-	06/03/2012	$75,000	93792m	Full transfer	2	1	-	-	-	$75,000	240	-	Allhomes Record	-	-	-	-	$1,502,000	20.03
+2012	352511	            257 1st Avenue	03/02/2012	-	10/11/2011	$55,000	-	Full transfer	1	1	-	-	-	$55,000	85	-	Allhomes Record	-	-	-	-	-	-
+2012	352661	            SITE41 6th Avenue	06/02/2012	-	16/11/2011	$35,000	-	Full transfer	1	1	-	-	2	$35,000	82	-	Allhomes Record	-	-	-	-	-	-
+2013	412563	81 Banksia Drive	27/11/2013	-	14/12/2012	$175,000	-	Full transfer	2	1	-	-	1	$175,000	348	-	Allhomes Record	-	-	-	-	-	-
+2013	414351	77 Banksia Drive	13/12/2013	-	10/04/2013	$172,500	-	Full transfer	2	1	-	-	1	$172,500	247	-	Allhomes Record	-	-	-	-	-	-
+2013	398674	38 Horizon Avenue	11/06/2013	-	09/04/2013	$160,000	-	Full transfer	2	1	-	-	1	$160,000	63	-	Allhomes Record	-	-	-	-	-	-
+2013	397821	44 Horizon Avenue	31/05/2013	-	19/12/2012	$155,000	-	Full transfer	2	1	-	-	1	$155,000	163	-	Allhomes Record	-	-	-	-	-	-
+2013	389336	8 Conifer Avenue	14/02/2013	-	06/09/2012	$135,000	0m	Full transfer	2	1	0	0	1	$135,000	161	-	Allhomes Record	-	-	-	-	-	-
+2013	408153	8 Conifer Avenue	16/02/2013	-	04/10/2013	$135,000	0m	Full transfer	2	1	0	0	1	$135,000	-	-	Allhomes Record	-	-	-	-	-	-
+2013	409972	            186 Nolan Avenue	30/10/2013	-	03/10/2013	$82,000	-	Full transfer	2	1	-	-	-	$82,000	27	-	Allhomes Record	-	-	-	-	-	-
+2014	426950	2 Taubman Street	24/03/2014	12/05/2014	-	$1,580,000	2055m	Full transfer	-	-	-	-	-	$1,580,000	-	-	Government Record	-	-	-	Shop	-	-
+2014	435263	52 Banksia Drive	09/10/2014	-	31/07/2014	$235,000	-	Full transfer	3	1	-	-	2	$235,000	70	-	Allhomes Record	-	-	-	-	-	-
+2014	434704	33 Horizon Avenue	26/09/2014	-	30/06/2014	$200,000	-	Full transfer	2	1	-	-	2	$200,000	88	-	Allhomes Record	-	-	-	-	-	-
+2014	426124	42 Horizon Avenue	30/06/2014	-	05/03/2014	$197,000	-	Full transfer	2	1	-	-	1	$197,000	117	-	Allhomes Record	-	-	-	-	-	-
+2014	434736	23 Horizon Avenue	01/09/2014	-	11/06/2014	$174,000	-	Full transfer	2	1	-	-	1	$174,000	82	-	Allhomes Record	-	-	-	-	-	-
+2014	429369	87/189 Narrabundah Lane	18/07/2014	-	25/06/2014	$127,500	-	Full transfer	2	1	-	1	-	$127,500	23	-	Allhomes Record	-	-	-	-	-	-
+2014	420323	6 Conifer Avenue	07/03/2014	-	04/10/2013	$85,000	0m	Full transfer	1	1	0	1	0	$85,000	154	-	Allhomes Record	-	-	-	-	-	-
+2014	441424	4 Taubman Street	30/08/2014	12/12/2014	-	$75,000	2123m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Advanced technology develop...	-	-
+2014	442687	189 Narrabundah Lane	03/12/2014	-	15/10/2013	$65,000	93792m	Full transfer	2	1	-	-	2	$65,000	414	-	Allhomes Record	-	-	-	-	$1,502,000	23.11
+2014	446596	88 Mugga Lane	18/07/2014	11/02/2015	-	$0	10034m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460086	250 Canberra Avenue	01/07/2015	28/08/2015	-	$14,200,000	103129m	Full transfer	-	-	-	-	-	$14,200,000	-	-	Government Record	-	-	-	Retail	-	-
+2015	452371	88 Mugga Lane	19/03/2015	21/05/2015	12/02/2015	$1,600,000	10034m	Full transfer	-	-	-	-	-	$1,600,000	35	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.23
+2015	460493	47 Horizon Avenue	07/09/2015	-	15/12/2014	$150,000	-	Full transfer	2	1	-	-	2	$150,000	266	-	Allhomes Record	-	-	-	-	-	-
+2015	441949	189 Narrabundah Lane	14/01/2015	-	24/08/2014	$120,000	93792m	Full transfer	1	1	-	-	-	$120,000	143	-	Allhomes Record	-	-	-	-	$1,502,000	12.52
+2015	446959	            004 Canberra Avenue	16/03/2015	-	08/02/2015	$80,000	-	Full transfer	1	-	-	-	-	$80,000	36	-	Allhomes Record	65	-	-	-	-	-
+2016	469914	27 Horizon Avenue	23/01/2016	-	27/10/2015	$185,000	0m	Full transfer	3	1	-	0	1	$185,000	88	-	Allhomes Record	-	-	-	-	-	-
+2016	487748	75/189 Narrabundah Lane	21/10/2016	-	21/09/2016	$86,000	93792m	Full transfer	2	1	-	-	2	$86,000	30	-	Allhomes Record	-	-	-	-	-	-
+2017	513483	189 Narrabundah Lane	05/04/2017	02/06/2017	-	$14,450,000	92899m	Full transfer	-	-	-	-	-	$14,450,000	-	-	Government Record	-	-	-	Residential	-	-
+2017	506024	60 Banksia Drive	15/06/2017	-	30/03/2017	$255,000	0m	Full transfer	3	1	-	0	1	$255,000	77	-	Allhomes Record	-	-	-	-	-	-
+2017	510747	            76 Banksia Drive Sundown Village	19/12/2017	-	07/11/2017	$235,000	0m	Full transfer	3	1	-	0	1	$235,000	42	-	Allhomes Record	-	-	-	-	-	-
+2017	510780	17 The Pines Avenue	17/12/2017	-	28/09/2017	$230,000	0m	Full transfer	3	2	-	0	1	$230,000	80	-	Allhomes Record	-	-	-	-	-	-
+2017	504158	42 Horizon Avenue	03/05/2017	-	13/02/2017	$228,000	92899m	Full transfer	2	1	-	-	-	$228,000	79	-	Allhomes Record	-	-	-	-	$415,000	1.82
+2017	507888	11 The Pines Avenue	11/09/2017	-	08/05/2017	$215,000	-	Full transfer	2	1	1	-	1	$215,000	126	-	Allhomes Record	-	-	-	-	-	-
+2017	493433	17 The Pines Avenue	03/01/2017	-	08/12/2016	$199,000	0m	Full transfer	3	2	-	0	0	$199,000	26	-	Allhomes Record	-	-	-	-	-	-
+2017	494667	44 Horizon Avenue	16/02/2017	-	04/10/2016	$199,000	-	Full transfer	2	1	-	-	1	$199,000	135	-	Allhomes Record	-	-	-	-	-	-
+2018	541158	19 Wormald Street	26/06/2018	07/09/2018	-	$15,000,000	7360m	Full transfer	-	-	-	-	-	$15,000,000	-	-	Government Record	-	-	-	Shop	-	-
+2018	536378	45 Mugga Lane	16/02/2018	27/06/2018	-	$8,600,000	357906m	Full transfer	-	-	-	-	-	$8,600,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2018	512031	            385 Mugga Lane	15/02/2018	-	26/09/2017	$3,600,000	-	Full transfer	-	-	-	-	-	$3,600,000	142	-	Allhomes Record	-	-	-	-	-	-
+2018	532344	2 Taubman Street	09/02/2018	07/05/2018	-	$1,966,250	2055m	Full transfer	-	-	-	-	-	$1,966,250	-	-	Government Record	-	-	-	Shop	-	-
+2018	543100	13 The Pines Avenue	18/10/2018	-	03/10/2018	$275,000	0m	Full transfer	3	1	-	1	1	$275,000	15	-	Allhomes Record	-	-	-	-	-	-
+2018	540018	85 Banksia Drive	27/08/2018	-	02/07/2018	$225,000	-	Full transfer	2	1	-	-	1	$225,000	56	-	Allhomes Record	-	-	-	-	-	-
+2018	535308	24 Horizon Avenue	02/07/2018	-	09/04/2018	$149,950	0m	Full transfer	2	1	-	0	1	$149,950	84	-	Allhomes Record	-	-	-	-	-	-
+2018	511565	3 The Pines Avenue	05/02/2018	-	26/10/2017	$148,000	0m	Full transfer	1	1	-	0	1	$148,000	102	-	Allhomes Record	-	-	-	-	-	-
+2018	536680	030/250 Canberra Avenue	07/07/2018	-	15/02/2018	$145,000	0m	Full transfer	2	1	-	1	0	$145,000	142	-	Allhomes Record	-	-	-	-	-	-
+2018	537018	150 Narrabundah Lane	20/03/2018	06/07/2018	-	$0	30996m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Scientific research establi...	-	-
+2019	555921	24 Wormald Street	12/03/2019	20/03/2019	-	$29,750,000	5186m	Full transfer	-	-	-	-	-	$29,750,000	-	-	Government Record	-	-	-	Shop	-	-
+2019	577019	14 The Pines Avenue	22/05/2019	-	16/01/2019	$130,000	0m	Full transfer	2	1	-	1	0	$130,000	126	-	Allhomes Record	-	-	-	-	-	-
+2019	573867	            49 Banksia Dr	28/11/2019	-	03/04/2019	-	0m	Full transfer	2	1	-	1	-	-	239	-	Allhomes Record	-	-	-	-	-	-
