@@ -1,0 +1,813 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2014	518111	10 Bliss Terrace	07/11/2014	28/08/2017	-	$217,000	377m	Full transfer	-	-	-	-	-	$217,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	451605	            69 Slim Dusty Circuit	15/05/2015	-	24/09/2014	$735,000	655m	Full transfer	4	3	-	2	-	$735,000	233	-	Allhomes Record	218	-	-	-	$278,000	0.38
+2015	467486	45 Bronhill Street	23/12/2015	-	22/09/2015	$691,500	673m	Full transfer	4	1	1	2	-	$691,500	92	-	Allhomes Record	-	-	-	-	$280,000	0.4
+2015	467219	109 Slim Dusty Circuit	17/12/2015	-	17/11/2015	$665,000	527m	Full transfer	4	2	-	2	-	$665,000	30	-	Allhomes Record	184	-	-	-	$280,000	0.42
+2015	461836	1 Harold Blair Crescent	08/10/2015	-	13/03/2015	$569,000	525m	Full transfer	4	2	-	2	-	$569,000	209	-	Allhomes Record	161	-	-	-	$280,000	0.49
+2015	459431		24/08/2015	-	27/03/2015	$569,000	-	Full transfer	4	1	1	2	-	$569,000	150	-	Allhomes Record	164	-	-	-	-	-
+2015	467416	            46 Cracka Jack Way	24/12/2015	-	31/08/2015	$565,000	450m	Full transfer	4	1	1	2	-	$565,000	115	-	Allhomes Record	161	-	-	-	-	-
+2015	467355		23/12/2015	-	20/06/2015	$521,000	450m	Full transfer	4	1	1	2	-	$521,000	186	-	Allhomes Record	206	-	-	-	-	-
+2015	453653	            1 Pikler Rise	15/06/2015	-	05/06/2015	$425,000	633m	Full transfer	4	3	-	2	-	$425,000	10	-	Allhomes Record	210	-	-	-	$263,000	0.62
+2015	467354	             Rochelle Street	18/12/2015	-	27/07/2015	$410,000	175m	Full transfer	3	1	1	1	-	$410,000	144	-	Allhomes Record	-	-	-	-	-	-
+2015	467610		31/12/2015	-	17/06/2015	$410,000	522m	Full transfer	4	1	1	2	-	$410,000	197	-	Allhomes Record	173	-	-	-	$256,000	0.62
+2015	451708	            1 Rochelle Street	18/05/2015	-	11/05/2015	$400,000	670m	Full transfer	4	3	-	2	-	$400,000	7	-	Allhomes Record	195	-	-	-	-	-
+2015	453100	            12 Lester Terrace	04/06/2015	-	19/05/2015	$385,000	556m	Full transfer	4	3	-	2	-	$385,000	16	-	Allhomes Record	187	-	-	-	$253,000	0.66
+2015	512725	16 Beulah Close	22/12/2015	26/05/2017	-	$380,000	237m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	487903	7 Spouse Place	11/09/2015	11/10/2016	-	$355,000	651m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464435		19/11/2015	-	04/06/2015	$349,000	483m	Full transfer	4	1	1	2	-	$349,000	168	-	Allhomes Record	156	-	-	-	-	-
+2015	462523	            BLOCK8 Section 2	21/10/2015	-	11/07/2015	$341,000	0m	Full transfer	4	2	-	2	0	$341,000	102	-	Allhomes Record	-	-	-	-	-	-
+2015	467444	            BLOCK27 Section 2	24/12/2015	-	30/09/2015	$341,000	0m	Full transfer	4	2	-	2	0	$341,000	85	-	Allhomes Record	-	-	-	-	-	-
+2015	467148	21 Dorrie Crescent	14/12/2015	-	23/09/2015	$340,000	475m	Full transfer	4	1	1	2	-	$340,000	82	-	Allhomes Record	177	-	-	-	$253,000	0.74
+2015	461820		08/10/2015	-	01/04/2015	$339,000	480m	Full transfer	4	1	1	2	-	$339,000	190	-	Allhomes Record	158	-	-	-	-	-
+2015	466085		02/11/2015	-	19/08/2014	$330,000	-	Full transfer	4	1	1	2	-	$330,000	440	-	Allhomes Record	170	-	-	-	-	-
+2015	460792	            24 Lester Terrace	17/09/2015	-	10/07/2015	$290,000	439m	Full transfer	3	2	-	2	-	$290,000	69	-	Allhomes Record	134	-	-	-	$231,000	0.8
+2015	467408	9 Bronhill Street	24/12/2015	-	24/08/2015	$290,000	426m	Full transfer	3	2	-	2	-	$290,000	122	-	Allhomes Record	134	-	-	-	$242,000	0.83
+2015	467287		21/12/2015	-	11/03/2015	$288,000	450m	Full transfer	4	1	1	2	-	$288,000	285	-	Allhomes Record	186	-	-	-	-	-
+2015	464395		17/11/2015	-	28/04/2014	$285,000	416m	Full transfer	3	1	1	2	-	$285,000	568	-	Allhomes Record	126	-	-	-	-	-
+2015	467319	             Rochelle Street	22/12/2015	-	09/06/2015	$270,000	0m	Full transfer	3	2	-	1	0	$270,000	196	-	Allhomes Record	-	-	-	-	-	-
+2015	464381	             Blocks Ae & Af, Section Ai	02/11/2015	-	10/03/2015	$1	-	Full transfer	3	1	1	2	-	$1	237	-	Allhomes Record	-	-	-	-	-	-
+2015	462494	             Block H - L Section Ag	21/10/2015	-	04/11/2014	$1	-	Full transfer	4	1	1	1	-	$1	351	-	Allhomes Record	-	-	-	-	-	-
+2016	521413	73 Limb Circuit	08/12/2016	21/12/2017	-	$1,524,000	375m	Full transfer	-	-	-	-	-	$1,524,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479707	110 Slim Dusty Circuit	24/06/2016	-	20/01/2016	$869,250	693m	Full transfer	5	1	2	2	-	$869,250	156	-	Allhomes Record	221	-	-	-	$280,000	0.32
+2016	557855	40 Toppano Street	19/02/2016	15/04/2019	-	$860,000	534m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501468	4 Silvabelles Street	20/12/2016	21/03/2017	18/11/2016	$850,000	710m	Full transfer	5	2	1	2	0	$850,000	32	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.36
+2016	480451	108 Slim Dusty Circuit	13/07/2016	-	11/01/2016	$842,950	693m	Full transfer	5	1	2	2	-	$842,950	184	-	Allhomes Record	224	-	-	-	$280,000	0.33
+2016	483693	26 Slim Dusty Circuit	02/09/2016	-	06/02/2016	$835,000	732m	Full transfer	4	1	1	2	-	$835,000	209	-	Allhomes Record	274	-	-	-	$291,000	0.35
+2016	477940	52 Mummery Terrace	02/06/2016	-	17/03/2016	$828,939	706m	Full transfer	4	2	-	2	-	$828,939	77	-	Allhomes Record	-	-	-	-	$302,000	0.36
+2016	497648	67 Slim Dusty Circuit	11/11/2016	20/02/2017	28/07/2016	$818,000	663m	Full transfer	4	2	-	2	-	$818,000	106	-	Combined Record	222	-	-	Single residential dwelling	$296,000	0.36
+2016	497727	6 Bronhill Street	25/10/2016	24/02/2017	17/03/2016	$790,000	476m	Full transfer	4	3	-	2	-	$790,000	222	-	Combined Record	215	-	-	Single residential dwelling	$253,000	0.32
+2016	495466	11 Amicus Street	31/10/2016	01/02/2017	25/02/2016	$750,000	540m	Full transfer	-	-	-	-	-	$750,000	249	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.37
+2016	501372	79 Slim Dusty Circuit	28/11/2016	21/03/2017	09/09/2016	$750,000	689m	Full transfer	4	2	-	2	0	$750,000	80	-	Combined Record	-	-	-	Single residential dwelling	$296,000	0.39
+2016	497487	3 Helmrich Street	22/12/2016	22/02/2017	19/10/2016	$745,000	540m	Full transfer	5	2	1	2	-	$745,000	64	-	Combined Record	233	-	-	Single residential dwelling	$280,000	0.38
+2016	478505	43 Mummery Terrace	26/02/2016	-	24/08/2015	$740,500	0m	Full transfer	4	2	-	2	0	$740,500	186	-	Allhomes Record	-	-	-	-	$280,000	0.38
+2016	489275	2 Gell Street	16/08/2016	20/10/2016	-	$732,000	463m	Full transfer	-	-	-	-	-	$732,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499767	8 Dorrie Crescent	03/12/2016	08/03/2017	08/11/2016	$730,000	540m	Full transfer	4	2	-	3	0	$730,000	25	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.38
+2016	495375	135 Slim Dusty Circuit	22/11/2016	30/01/2017	24/02/2016	$730,000	493m	Full transfer	4	3	-	2	-	$730,000	272	-	Combined Record	196	-	-	Single residential dwelling	$264,000	0.36
+2016	473923	             Block 9 Section 61	07/04/2016	-	02/12/2015	$705,315	0m	Full transfer	4	2	-	2	0	$705,315	127	-	Allhomes Record	-	-	-	-	-	-
+2016	498494	10 Spouse Place	25/11/2016	03/03/2017	05/09/2016	$690,000	542m	Full transfer	4	1	1	2	-	$690,000	81	-	Combined Record	206	-	-	Single residential dwelling	$280,000	0.41
+2016	495477	14 Yamma Way	05/10/2016	30/01/2017	20/10/2015	$690,000	462m	Full transfer	4	3	-	2	-	$690,000	351	-	Combined Record	185	-	-	Single residential dwelling	$253,000	0.37
+2016	499723	            7 Lumsdaine Street	08/09/2016	08/03/2017	-	$680,000	487m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495518	5 Slim Dusty Circuit	11/10/2016	01/02/2017	09/09/2015	$675,000	458m	Full transfer	4	3	-	2	-	$675,000	398	-	Combined Record	185	-	-	Single residential dwelling	$253,000	0.37
+2016	490216	49 Mummery Terrace	30/09/2016	01/11/2016	05/04/2016	$670,000	451m	Full transfer	4	2	1	2	-	$670,000	178	-	Combined Record	172	-	-	Single residential dwelling	$253,000	0.38
+2016	495672	6 Helmrich Street	01/12/2016	03/02/2017	-	$670,000	547m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495583	4 Spouse Place	18/11/2016	03/02/2017	-	$669,620	457m	Full transfer	-	-	-	-	-	$669,620	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478642	18 Pogson Street	15/06/2016	-	09/08/2015	$667,000	450m	Full transfer	4	1	1	2	-	$667,000	311	-	Allhomes Record	193	-	-	-	$253,000	0.38
+2016	513649	28 Amicus Street	27/06/2016	02/06/2017	-	$665,000	450m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488931	5 Bellhouse Crescent	13/09/2016	24/10/2016	-	$660,000	473m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491495	18 Pogson Street	22/03/2016	22/11/2016	-	$659,750	450m	Full transfer	-	-	-	-	-	$659,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500922	31 Bronhill Street	11/11/2016	29/03/2017	27/09/2016	$659,000	428m	Full transfer	4	1	1	2	-	$659,000	45	-	Combined Record	182	-	-	Single residential dwelling	$242,000	0.37
+2016	498169	            9 Warup Street	23/12/2016	14/02/2017	-	$658,000	425m	Full transfer	-	-	-	-	-	$658,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489743	5 Dorrie Crescent	18/11/2016	-	05/09/2016	$643,000	468m	Full transfer	4	1	1	2	-	$643,000	74	-	Allhomes Record	168	-	-	-	$253,000	0.39
+2016	486849	            TBC Harold Blair Crescent	01/08/2016	-	11/11/2015	$637,000	483m	Full transfer	4	1	1	2	-	$637,000	264	-	Allhomes Record	175	-	-	-	-	-
+2016	470361	            59 Malton Way	22/02/2016	-	25/08/2015	$630,000	471m	Full transfer	4	1	1	2	-	$630,000	181	-	Allhomes Record	176	-	-	-	-	-
+2016	479737		29/06/2016	-	11/08/2014	$630,000	562m	Full transfer	4	1	1	2	-	$630,000	688	-	Allhomes Record	167	-	-	-	-	-
+2016	513084	8 Dengate Crescent	22/07/2016	07/06/2017	-	$626,500	533m	Full transfer	-	-	-	-	-	$626,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501755	11 Bliss Terrace	21/12/2016	22/03/2017	-	$618,000	397m	Full transfer	-	-	-	-	-	$618,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492967	3 Colgan Street	15/10/2016	07/12/2016	21/09/2016	$616,000	405m	Full transfer	4	2	-	2	0	$616,000	24	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.39
+2016	469648	20 Bronhill Street	05/02/2016	-	02/11/2015	$614,000	475m	Full transfer	4	3	-	2	-	$614,000	95	-	Allhomes Record	220	-	-	-	$253,000	0.41
+2016	490388	            BLOCK4 Section 71	01/12/2016	-	05/05/2016	$613,000	0m	Full transfer	0	0	-	0	0	$613,000	210	-	Allhomes Record	-	-	-	-	-	-
+2016	488395	8 Bellhouse Crescent	30/09/2016	-	16/11/2015	$610,000	463m	Full transfer	4	1	1	2	-	$610,000	319	-	Allhomes Record	172	-	-	-	$305,000	0.5
+2016	473967	            61 Malton Way	08/04/2016	-	27/08/2015	$610,000	475m	Full transfer	4	1	1	2	-	$610,000	225	-	Allhomes Record	228	-	-	-	-	-
+2016	477862	16 Ruby Hunter Rise	09/05/2016	-	02/12/2015	$606,475	0m	Full transfer	3	2	-	0	2	$606,475	159	-	Allhomes Record	-	-	-	-	$253,000	0.42
+2016	490987	13 Dargin Crescent	09/12/2016	-	23/03/2016	$605,000	420m	Full transfer	4	1	1	2	-	$605,000	261	-	Allhomes Record	-	-	-	-	$242,000	0.4
+2016	474342	12 Slim Dusty Circuit	15/04/2016	-	14/09/2015	$598,000	-	Full transfer	4	1	1	2	-	$598,000	214	-	Allhomes Record	-	-	-	-	$269,000	0.45
+2016	472069	65 Bronhill Street	16/03/2016	-	06/11/2015	$595,000	464m	Full transfer	4	1	1	2	-	$595,000	131	-	Allhomes Record	-	-	-	-	$253,000	0.43
+2016	468472	11 Bronhill Street	27/01/2016	-	24/08/2015	$590,000	-	Full transfer	4	2	-	2	-	$590,000	156	-	Allhomes Record	-	-	-	-	$280,000	0.47
+2016	473950	51 Mummery Terrace	08/04/2016	-	12/02/2016	$584,950	460m	Full transfer	4	1	1	2	-	$584,950	56	-	Allhomes Record	164	-	-	-	$253,000	0.43
+2016	485836	70 Bellhouse Crescent	16/09/2016	-	30/05/2016	$583,850	464m	Full transfer	3	1	1	2	-	$583,850	109	-	Allhomes Record	149	-	-	-	$253,000	0.43
+2016	474316		22/04/2016	-	21/12/2015	$580,000	496m	Full transfer	4	1	1	2	-	$580,000	123	-	Allhomes Record	176	-	-	-	-	-
+2016	513842	6 Jorgensen Street	28/07/2016	23/06/2017	-	$579,900	405m	Full transfer	-	-	-	-	-	$579,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474816		29/04/2016	-	21/12/2015	$579,000	497m	Full transfer	4	1	1	2	-	$579,000	130	-	Allhomes Record	167	-	-	-	-	-
+2016	472086	             Block V- Q Section Ai	01/03/2016	-	03/02/2015	$571,000	-	Full transfer	3	1	1	1	-	$571,000	392	-	Allhomes Record	-	-	-	-	-	-
+2016	486429	66 Bellhouse Crescent	29/09/2016	-	09/05/2016	$560,625	450m	Full transfer	3	1	1	2	-	$560,625	143	-	Allhomes Record	134	-	-	-	$253,000	0.45
+2016	513892	2 Jorgensen Street	23/08/2016	21/06/2017	-	$555,000	367m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479704	42 Bellhouse Crescent	24/06/2016	-	05/01/2016	$547,920	350m	Full transfer	4	1	1	2	-	$547,920	171	-	Allhomes Record	133	-	-	-	$231,000	0.42
+2016	526337	105 Limb Circuit	21/12/2016	26/02/2018	-	$541,000	440m	Full transfer	-	-	-	-	-	$541,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478607		15/06/2016	-	20/11/2013	$536,000	429m	Full transfer	4	1	2	2	-	$536,000	938	-	Allhomes Record	148	-	-	-	-	-
+2016	470442		25/02/2016	-	09/09/2015	$535,000	450m	Full transfer	3	1	1	2	-	$535,000	169	-	Allhomes Record	128	-	-	-	-	-
+2016	470607		02/02/2016	-	22/12/2014	$535,000	450m	Full transfer	4	1	1	2	-	$535,000	407	-	Allhomes Record	156	-	-	-	-	-
+2016	516706	23 Ketterer Street	23/12/2016	04/08/2017	-	$525,000	306m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	473684		05/04/2016	-	24/08/2015	$523,000	-	Full transfer	4	2	-	2	-	$523,000	225	-	Allhomes Record	-	-	-	-	-	-
+2016	477878		31/05/2016	-	18/03/2015	$512,000	420m	Full transfer	3	1	1	2	-	$512,000	440	-	Allhomes Record	130	-	-	-	-	-
+2016	485843	            4/42 Dengate Crescent	29/09/2016	-	20/07/2016	$510,000	-	Full transfer	3	2	-	2	-	$510,000	71	-	Allhomes Record	156	-	-	-	$950,000	1.86
+2016	529142	89 Limb Circuit	08/12/2016	27/03/2018	-	$508,000	299m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	528941	78 Bernard Heinze Avenue	08/12/2016	27/03/2018	-	$508,000	297m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478989		21/06/2016	-	27/04/2015	$502,000	353m	Full transfer	3	1	1	2	-	$502,000	421	-	Allhomes Record	128	-	-	-	-	-
+2016	515435	4 Jorgensen Street	22/08/2016	11/07/2017	-	$500,000	405m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479714	31 Shearston Street	27/06/2016	-	17/02/2016	$495,000	-	Full transfer	3	2	-	1	-	$495,000	131	-	Allhomes Record	129	-	-	-	$225,000	0.45
+2016	519908	62 Bronhill Street	21/12/2016	20/10/2017	-	$494,000	153m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520168	66 Bronhill Street	22/11/2016	31/10/2017	-	$490,000	153m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490491	42 Tycho Street	05/12/2016	-	02/12/2015	$469,000	249m	Full transfer	3	1	1	1	-	$469,000	369	-	Allhomes Record	-	-	-	-	$189,000	0.4
+2016	478538	69 Dorrie Crescent	03/06/2016	-	09/12/2015	$463,000	612m	Full transfer	4	1	1	2	-	$463,000	177	-	Allhomes Record	207	-	-	-	$291,000	0.63
+2016	481519		03/08/2016	-	28/10/2015	$459,000	-	Full transfer	4	1	2	2	-	$459,000	280	-	Allhomes Record	145	-	-	-	-	-
+2016	467586	84 Slim Dusty Circuit	11/01/2016	-	11/08/2015	$455,000	778m	Full transfer	4	3	-	3	-	$455,000	153	-	Allhomes Record	210	-	-	-	$296,000	0.65
+2016	514284	43 Ketterer Street	09/12/2016	30/06/2017	-	$448,900	311m	Full transfer	-	-	-	-	-	$448,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474355	40 Bronhill Street	19/02/2016	-	15/12/2015	$428,000	543m	Full transfer	4	1	1	2	-	$428,000	66	-	Allhomes Record	158	-	-	-	$255,000	0.6
+2016	476151	10 Bronhill Street	13/05/2016	-	27/01/2016	$425,000	-	Full transfer	3	1	1	1	-	$425,000	107	-	Allhomes Record	117	-	-	-	$253,000	0.6
+2016	499687	            34 Rochelle	22/12/2016	09/03/2017	-	$425,000	176m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475833	            22-27 Bronhill Street	13/05/2016	-	26/09/2015	$425,000	153m	Full transfer	3	1	1	1	-	$425,000	230	-	Allhomes Record	-	-	-	-	-	-
+2016	481660	61 Limb Circuit	01/08/2016	-	21/01/2016	$425,000	200m	Full transfer	3	2	-	1	-	$425,000	193	-	Allhomes Record	102	-	-	-	$160,000	0.38
+2016	492298	34 Rochelle Street	23/12/2016	-	17/03/2016	$425,000	173m	Full transfer	2	1	-	1	-	$425,000	281	-	Allhomes Record	-	-	-	-	$168,000	0.4
+2016	490060	             Bernard Heinze Avenue	17/11/2016	-	15/07/2016	$420,900	-	Full transfer	3	2	-	2	-	$420,900	125	-	Allhomes Record	-	-	-	-	-	-
+2016	483864	             Bernard Heinze Avenue	05/09/2016	-	14/07/2016	$418,900	-	Full transfer	3	2	-	2	-	$418,900	53	-	Allhomes Record	-	-	-	-	-	-
+2016	481684	             Bernard Heinze Avenue	04/08/2016	-	11/07/2016	$417,900	-	Full transfer	3	1	1	2	-	$417,900	24	-	Allhomes Record	-	-	-	-	-	-
+2016	474059	            1 Myra Law Cres	13/04/2016	-	01/02/2016	$415,000	492m	Full transfer	4	3	-	2	-	$415,000	72	-	Allhomes Record	-	-	-	-	-	-
+2016	493981	5 Dengate Crescent	19/10/2016	23/12/2016	08/09/2016	$410,000	713m	Full transfer	0	0	-	0	0	$410,000	41	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.74
+2016	485374	            T/H23CARRAMAR Bernard Heinze Avenue	13/08/2016	-	20/07/2016	$409,900	-	Full transfer	3	1	1	2	-	$409,900	24	-	Allhomes Record	-	-	-	-	-	-
+2016	481666		10/08/2016	-	10/02/2016	$409,000	-	Full transfer	3	1	1	2	-	$409,000	182	-	Allhomes Record	120	-	-	-	-	-
+2016	473685		29/03/2016	-	01/10/2015	$400,000	442m	Full transfer	3	2	-	2	-	$400,000	180	-	Allhomes Record	134	-	-	-	$233,000	0.58
+2016	474087	            3 Myra Law Crescent	14/04/2016	-	09/10/2015	$400,000	457m	Full transfer	4	3	-	2	-	$400,000	188	-	Allhomes Record	-	-	-	-	$235,000	0.59
+2016	526049	87 Limb Circuit	28/11/2016	14/02/2018	-	$382,000	243m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	519020	31 Ketterer Street	17/10/2016	03/10/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526241	81 Limb Circuit	22/12/2016	26/02/2018	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513943	120 Bernard Heinze Avenue	20/12/2016	23/06/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526037	91 Limb Circuit	15/12/2016	15/02/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526272	103 Limb Circuit	21/12/2016	26/02/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	524622	101 Limb Circuit	21/12/2016	30/01/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	523015	30 Shearston Street	07/11/2016	10/01/2018	-	$382,000	218m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515897	126 Bernard Heinze Avenue	28/11/2016	26/07/2017	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	514810	116 Bernard Heinze Avenue	16/12/2016	05/07/2017	-	$382,000	179m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	516656	33 Ketterer Street	22/12/2016	10/08/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	522927	32 Shearston Street	03/11/2016	09/01/2018	-	$382,000	218m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	522624	62 Gussey Street	24/10/2016	11/01/2018	-	$382,000	250m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526983	85 Limb Circuit	24/11/2016	07/03/2018	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	517217	37 Ketterer Street	22/12/2016	15/08/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	528387	76 Bernard Heinze Avenue	01/12/2016	21/03/2018	-	$382,000	241m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526336	83 Limb Circuit	06/12/2016	26/02/2018	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	523464	80 Bernard Heinze Avenue	22/12/2016	21/01/2018	-	$382,000	190m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	519163	27 Ketterer Street	16/12/2016	10/10/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	524502	84 Bernard Heinze Avenue	21/12/2016	01/02/2018	-	$382,000	190m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	521681	26 Shearston Street	27/10/2016	19/12/2017	-	$382,000	218m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	524529	97 Limb Circuit	19/12/2016	30/01/2018	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	523202	24 Shearston Street	05/12/2016	15/01/2018	04/10/2016	$382,000	249m	Full transfer	3	1	1	1	-	$382,000	62	-	Combined Record	-	-	-	Single residential dwelling	$189,000	0.49
+2016	523091	28 Shearston Street	11/11/2016	11/01/2018	-	$382,000	218m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	526043	92 Bernard Heinze Avenue	28/11/2016	13/02/2018	-	$382,000	192m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	528101	99 Limb Circuit	15/12/2016	21/03/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	517357	39 Ketterer Street	24/08/2016	14/08/2017	-	$380,000	180m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	520661	35 Ketterer Street	22/09/2016	10/11/2017	-	$380,000	180m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515134	122 Bernard Heinze Avenue	30/08/2016	10/07/2017	-	$380,000	180m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495702	101 Slim Dusty Circuit	23/11/2016	31/01/2017	-	$380,000	695m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483909	6 Ketterer Street	09/09/2016	-	08/12/2015	$380,000	153m	Full transfer	3	1	1	1	-	$380,000	276	-	Allhomes Record	105	-	-	-	$159,000	0.42
+2016	489588	39 Tycho Street	01/11/2016	-	17/02/2016	$380,000	153m	Full transfer	3	1	1	1	-	$380,000	258	-	Allhomes Record	-	-	-	-	$159,000	0.42
+2016	481611		08/08/2016	-	24/09/2015	$369,000	-	Full transfer	3	1	1	-	2	$369,000	319	-	Allhomes Record	110	-	-	-	-	-
+2016	467620	51 Mummery Terrace	15/01/2016	-	15/09/2015	$365,000	465m	Full transfer	4	1	1	2	-	$365,000	122	-	Allhomes Record	163	-	-	-	$253,000	0.69
+2016	499800	            13 Myra Law Crescent	21/12/2016	06/03/2017	-	$365,000	591m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	468508	             Dorrie Crescent	27/01/2016	-	16/09/2015	$361,180	450m	Full transfer	4	1	1	2	-	$361,180	133	-	Allhomes Record	-	-	-	-	-	-
+2016	498327	19 Raisbeck Rise	19/10/2016	14/02/2017	-	$360,000	581m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491207	25 Amicus Street	12/10/2016	23/11/2016	-	$358,000	663m	Full transfer	-	-	-	-	-	$358,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	515759	40 Dengate Crescent	19/12/2016	20/07/2017	-	$350,000	504m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486774	26 Slim Dusty Circuit	06/07/2016	14/09/2016	-	$350,000	732m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499834	5 Gaston Way	14/12/2016	09/03/2017	-	$350,000	687m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487174	65 Dorrie Crescent	17/08/2016	20/09/2016	28/07/2016	$350,000	630m	Full transfer	-	-	-	-	-	$350,000	20	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.83
+2016	483865	             Bernard Heinze Avenue	29/07/2016	-	14/07/2016	$349,900	-	Full transfer	2	2	-	1	-	$349,900	15	-	Allhomes Record	-	-	-	-	-	-
+2016	493155	19 Amicus Street	15/08/2016	06/12/2016	-	$346,500	540m	Full transfer	-	-	-	-	-	$346,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487642		18/10/2016	-	24/09/2015	$346,000	-	Full transfer	2	1	-	-	1	$346,000	390	-	Allhomes Record	-	-	-	-	-	-
+2016	486750	25 Malton View	17/06/2016	12/09/2016	08/03/2016	$345,000	450m	Full transfer	-	-	-	-	-	$345,000	101	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.73
+2016	467482	            48 Cracka Jack Way	07/01/2016	-	27/08/2015	$345,000	450m	Full transfer	4	1	1	2	-	$345,000	133	-	Allhomes Record	170	-	-	-	-	-
+2016	492489	24 Ruby Hunter Rise	27/09/2016	16/12/2016	-	$340,000	564m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496959	2 Silvabelles Street	14/12/2016	08/02/2017	-	$340,000	498m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	469917		17/02/2016	-	17/03/2015	$339,000	680m	Full transfer	4	1	1	2	-	$339,000	337	-	Allhomes Record	208	-	-	-	-	-
+2016	488169	3 Gaston Way	28/07/2016	04/10/2016	-	$339,000	666m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488894	9 Bliss Terrace	09/09/2016	27/10/2016	-	$335,000	468m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488842	20 Toppano Street	22/08/2016	27/10/2016	09/06/2016	$330,000	476m	Full transfer	4	3	-	2	-	$330,000	74	-	Combined Record	192	-	-	Single residential dwelling	$253,000	0.77
+2016	477436	11 Limb Circuit	26/05/2016	-	17/03/2015	$330,000	495m	Full transfer	-	-	-	-	-	$330,000	436	-	Allhomes Record	-	-	-	-	$253,000	0.77
+2016	488898	6 Toppano Street	24/08/2016	27/10/2016	-	$330,000	481m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486848	6 Toppano Street	12/10/2016	-	21/09/2016	$330,000	481m	Full transfer	-	-	-	-	-	$330,000	21	-	Allhomes Record	-	-	-	-	$264,000	0.8
+2016	484401	76 Bronhill Street	25/05/2016	16/08/2016	-	$330,000	491m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496021	35 Lester Terrace	27/09/2016	24/01/2017	-	$330,000	497m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497304	33 Jorgensen Street	04/11/2016	07/02/2017	-	$330,000	412m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	483862	             Bernard Heinze Avenue	24/08/2016	-	11/07/2016	$329,900	-	Full transfer	2	-	2	-	1	$329,900	44	-	Allhomes Record	-	-	-	-	-	-
+2016	495623	20 Limb Circuit	22/09/2016	30/01/2017	-	$328,000	459m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478971	16 Jorgensen Street	17/06/2016	-	29/03/2016	$326,000	450m	Full transfer	-	-	-	-	-	$326,000	80	-	Allhomes Record	-	-	-	-	$253,000	0.78
+2016	501576	            13 Bandstand Street	17/09/2016	24/03/2017	-	$325,000	405m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486670	23 Ruby Hunter Rise	27/07/2016	15/09/2016	-	$325,000	619m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494818	24 Gussey Street	04/11/2016	11/01/2017	-	$325,000	498m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486896	             Bernard Heinze Avenue	12/10/2016	-	15/07/2016	$324,900	-	Full transfer	2	2	-	2	-	$324,900	89	-	Allhomes Record	-	-	-	-	-	-
+2016	492415	6 Colgan Street	29/09/2016	16/12/2016	-	$320,000	393m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493843	7 Colgan Street	06/10/2016	20/12/2016	-	$320,000	427m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498022	7 Silvabelles Street	30/11/2016	16/02/2017	-	$320,000	450m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485977	28 Limb Circuit	15/07/2016	19/08/2016	29/03/2016	$318,000	432m	Full transfer	-	-	-	-	-	$318,000	108	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.76
+2016	488847	10 Raisbeck Rise	29/07/2016	26/10/2016	-	$316,000	410m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487474	4 Toppano Street	21/07/2016	27/09/2016	-	$316,000	433m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486844	4 Toppano Street	12/10/2016	-	21/09/2016	$316,000	433m	Full transfer	-	-	-	-	-	$316,000	21	-	Allhomes Record	-	-	-	-	$242,000	0.77
+2016	498344	111 Limb Circuit	08/11/2016	14/02/2017	24/10/2016	$315,000	412m	Full transfer	-	-	-	-	-	$315,000	15	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.77
+2016	486227	12 Raisbeck Rise	26/07/2016	07/09/2016	-	$315,000	410m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497985	11 Limb Circuit	25/11/2016	15/02/2017	-	$313,000	456m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496980	22 Gussey Street	18/11/2016	06/02/2017	-	$310,000	465m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498416	            5 Myra Law Crescent	19/12/2016	14/02/2017	-	$310,000	465m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484811	2 Silvabelles Street	14/07/2016	26/08/2016	-	$310,000	498m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488216	42 Crackajack Way	31/08/2016	07/10/2016	10/06/2016	$310,000	405m	Full transfer	4	2	-	2	-	$310,000	82	-	Combined Record	168	-	-	Single residential dwelling	$242,000	0.78
+2016	501076	8 Colgan Street	09/09/2016	27/03/2017	-	$302,000	393m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485757	108 Slim Dusty Circuit	29/06/2016	30/08/2016	-	$300,000	694m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	472110		17/03/2016	-	01/04/2015	$300,000	632m	Full transfer	3	1	1	2	-	$300,000	351	-	Allhomes Record	135	-	-	-	-	-
+2016	484749	110 Slim Dusty Circuit	10/06/2016	24/08/2016	-	$300,000	694m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487042	112 Slim Dusty Circuit	17/08/2016	22/09/2016	-	$300,000	507m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485893	            0 Section Aa	03/10/2016	-	21/04/2015	$299,950	344m	Full transfer	4	1	1	2	0	$299,950	531	-	Allhomes Record	-	-	-	-	-	-
+2016	494133	            13 Warup Street	18/08/2016	19/12/2016	-	$299,000	405m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495028	38 Jorgensen Street	21/10/2016	11/01/2017	-	$295,000	393m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	470453		18/02/2016	-	03/10/2015	$290,000	467m	Full transfer	3	1	1	2	-	$290,000	138	-	Allhomes Record	130	-	-	-	-	-
+2016	501226	5 Dorrie Crescent	23/11/2016	30/03/2017	-	$290,000	469m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485336	40 Limb Circuit	24/06/2016	18/08/2016	-	$290,000	493m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493385	8 Dival Street	18/10/2016	05/12/2016	-	$289,000	483m	Full transfer	-	-	-	-	-	$289,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489268	106 Slim Dusty Circuit	18/08/2016	17/10/2016	-	$285,000	507m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486763	11 Lester Terrace	18/08/2016	16/09/2016	-	$285,000	439m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494902	70 Slim Dusty Circuit	10/11/2016	11/01/2017	-	$284,000	548m	Full transfer	-	-	-	-	-	$284,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489460	30 Ruby Hunter Rise	09/08/2016	20/10/2016	-	$282,000	457m	Full transfer	-	-	-	-	-	$282,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492917	40 Jorgensen Street	07/10/2016	13/12/2016	-	$280,000	393m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503133	46 Bellhouse Crescent	05/12/2016	06/04/2017	-	$280,000	362m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	499006	70 Bellhouse Crescent	05/09/2016	01/03/2017	-	$272,000	464m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501406	10 Gaston Way	14/11/2016	20/03/2017	-	$272,000	561m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501407	76 Bellhouse Crescent	06/12/2016	20/03/2017	-	$272,000	516m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493184	7 Dulcie Holland Crescent	06/10/2016	07/12/2016	-	$270,000	440m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485644	            9 Lumsdaine Street	04/07/2016	30/08/2016	-	$270,000	475m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497876	            1 Rochelle	25/10/2016	24/02/2017	-	$270,000	670m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479001		20/06/2016	-	10/08/2014	$270,000	525m	Full transfer	-	-	-	-	-	$270,000	680	-	Allhomes Record	-	-	-	-	-	-
+2016	512597	12 Dengate Crescent	23/12/2016	10/05/2017	-	$270,000	608m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488949	4 Colgan Street	01/07/2016	27/10/2016	-	$270,000	381m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487497	9 Yamma Way	16/06/2016	29/09/2016	-	$265,000	603m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488100	66 Bellhouse Crescent	10/08/2016	12/10/2016	-	$265,000	451m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493183	15 Dorrie Crescent	29/06/2016	08/12/2016	-	$265,000	563m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496818	74 Bellhouse Crescent	24/11/2016	07/02/2017	-	$265,000	450m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492381	68 Bellhouse Crescent	11/10/2016	14/12/2016	-	$265,000	449m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	529560	30 Bellhouse Crescent	19/05/2016	05/04/2018	-	$260,000	422m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485217	13 Dargin Crescent	22/06/2016	19/08/2016	-	$260,000	420m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488259	12 Tycho Street	16/08/2016	07/10/2016	-	$260,000	400m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486123	3 Ruby Hunter Rise	26/07/2016	07/09/2016	-	$260,000	457m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493279	18 Bronhill Street	23/08/2016	07/12/2016	-	$255,000	478m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486009	38 Limb Circuit	02/03/2016	01/09/2016	16/11/2015	$254,000	503m	Full transfer	4	2	-	2	-	$254,000	107	-	Combined Record	-	-	-	Single residential dwelling	$269,000	1.06
+2016	493242	66 Bernard Heinze Avenue	11/10/2016	05/12/2016	-	$253,000	577m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486597	42 Bellhouse Crescent	10/06/2016	15/09/2016	-	$250,000	350m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489297	2 Harold Blair Crescent	03/08/2016	18/10/2016	-	$250,000	476m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491704	27 Malton View	26/08/2016	28/11/2016	12/05/2016	$250,000	450m	Full transfer	4	2	-	2	-	$250,000	106	-	Combined Record	180	-	-	Single residential dwelling	$253,000	1.01
+2016	493172	17 Malton View	27/10/2016	08/12/2016	-	$247,000	488m	Full transfer	-	-	-	-	-	$247,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488050	81 Slim Dusty Circuit	26/08/2016	12/10/2016	-	$243,000	503m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498473	5 Jimmy Little Street	19/10/2016	14/02/2017	31/08/2016	$240,000	495m	Full transfer	4	3	-	2	-	$240,000	49	-	Combined Record	186	-	-	Single residential dwelling	$264,000	1.1
+2016	485799	31 Shearston Street	28/06/2016	30/08/2016	-	$235,000	330m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	489220	            10 Lumsdaine Street	04/08/2016	21/10/2016	-	$235,000	491m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487492	22 Crackajack Way	23/08/2016	30/09/2016	-	$225,000	462m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501040	44 Bellhouse Crescent	22/09/2016	29/03/2017	-	$208,000	350m	Full transfer	-	-	-	-	-	$208,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497320	73 O'Keefe Avenue	02/11/2016	09/02/2017	-	$206,000	236m	Full transfer	-	-	-	-	-	$206,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503203	46 Bellhouse Crescent	22/09/2016	06/04/2017	-	$205,000	362m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494008	4 Ketterer Street	11/08/2016	21/12/2016	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497000	8 Ketterer Street	03/06/2016	09/02/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495089	20 Ketterer Street	12/08/2016	10/01/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495277	22 Ketterer Street	07/07/2016	17/01/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498336	24 Ketterer Street	14/06/2016	14/02/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497861	6 Ketterer Street	24/08/2016	24/02/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495726	            41 Tycho Street	14/10/2016	31/01/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503796	10 Ketterer Street	28/06/2016	24/04/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495984	16 Ketterer Street	27/06/2016	24/01/2017	-	$170,000	191m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495826	26 Ketterer Street	08/09/2016	05/01/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498168	28 Ketterer Street	03/06/2016	14/02/2017	-	$170,000	230m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504952	14 Ketterer Street	20/06/2016	01/05/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495132	18 Ketterer Street	31/03/2016	09/01/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490346	4 Limb Circuit	09/08/2016	02/11/2016	-	$160,000	174m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485077	            39 Tycho Street	05/07/2016	16/08/2016	-	$160,000	153m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485153	6 Limb Circuit	20/06/2016	18/08/2016	-	$160,000	179m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487342	8 Limb Circuit	28/06/2016	20/09/2016	-	$160,000	251m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500731	34 Helmrich Street	30/11/2016	15/03/2017	-	$157,000	153m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495918	75 O'Keefe Avenue	06/05/2016	04/01/2017	-	$146,000	490m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485694	            43 Tycho Street	06/05/2016	30/08/2016	-	$140,000	185m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485593	5 Jimmy Little Street	15/06/2016	04/09/2016	-	$30,000	495m	Full transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491196	15 Silvabelles Street	04/10/2016	24/11/2016	-	$3,000	450m	Full transfer	-	-	-	-	-	$3,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501739	            22 Rochelle	20/01/2016	23/03/2017	-	$0	222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494118	            26 Rochelle	20/01/2016	19/12/2016	-	$0	222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501538	            20 Rochelle	20/01/2016	23/03/2017	-	$0	176m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504957	15 Malton View	12/12/2016	01/05/2017	-	$0	703m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485175	10 Amphlett Street	25/05/2016	17/08/2016	-	$0	558m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501367	            14 Rochelle	20/01/2016	23/03/2017	-	$0	176m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486130	50 Dorrie Crescent	20/06/2016	06/09/2016	-	$0	525m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	493856	            36 Rochelle	20/01/2016	19/12/2016	-	$0	222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	490311	            6 Myra Law Crescent	16/08/2016	02/11/2016	-	$0	371m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491655	10 Helmrich Street	15/09/2016	29/11/2016	14/04/2016	$0	469m	Full transfer	4	3	-	2	-	$0	154	-	Combined Record	187	-	-	Single residential dwelling	$253,000	1.1
+2016	500171	11 Dorrie Crescent	07/11/2016	09/03/2017	-	$0	469m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501586	            12 Rochelle	20/01/2016	23/03/2017	-	$0	222m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501366	            16 Rochelle	20/01/2016	23/03/2017	-	$0	176m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488813	            58 Rochelle	20/01/2016	26/10/2016	-	$0	153m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501489	            18 Rochelle	20/01/2016	23/03/2017	-	$0	176m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	512369	49 Jorgensen Street	01/12/2016	08/05/2017	-	$0	433m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503588	            1 Bon Scott	27/05/2017	-	30/03/2017	$3,200,000	4725m	Full transfer	-	-	-	-	-	$3,200,000	58	-	Allhomes Record	-	-	-	-	-	-
+2017	526056	94 Slim Dusty Circuit	01/11/2017	14/02/2018	10/10/2017	$932,000	779m	Full transfer	4	3	-	2	0	$932,000	22	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.36
+2017	513851	7 Bellhouse Crescent	26/04/2017	23/06/2017	-	$885,000	460m	Full transfer	-	-	-	-	-	$885,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515966	28 Slim Dusty Circuit	08/06/2017	27/07/2017	14/09/2016	$880,000	507m	Full transfer	6	1	2	2	-	$880,000	267	-	Combined Record	262	-	-	Single residential dwelling	$269,000	0.31
+2017	502535	24 Slim Dusty Circuit	21/02/2017	20/04/2017	-	$870,000	729m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500403	24 Slim Dusty Circuit	07/04/2017	-	13/09/2016	$870,000	729m	Full transfer	4	1	1	3	-	$870,000	206	-	Allhomes Record	297	-	-	-	$290,000	0.33
+2017	515553	41 Ruby Hunter Rise	24/01/2017	20/07/2017	-	$870,000	634m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503841	22 Slim Dusty Circuit	16/03/2017	26/04/2017	13/09/2016	$860,000	511m	Full transfer	5	1	2	2	-	$860,000	184	-	Combined Record	255	-	-	Single residential dwelling	$269,000	0.31
+2017	519179	1 Malton View	05/09/2017	13/10/2017	17/03/2017	$860,000	616m	Full transfer	4	2	-	2	-	$860,000	172	-	Combined Record	227	-	-	Single residential dwelling	$291,000	0.34
+2017	527085	9 Yamma Way	20/12/2017	05/03/2018	02/11/2017	$856,000	603m	Full transfer	5	1	1	2	0	$856,000	48	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.34
+2017	531560	6 Gell Street	11/09/2017	23/04/2018	-	$847,990	487m	Full transfer	-	-	-	-	-	$847,990	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523437	49 Malton View	31/10/2017	16/01/2018	18/07/2017	$840,000	552m	Full transfer	4	1	1	2	-	$840,000	105	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.34
+2017	523762	19 Raisbeck Rise	29/09/2017	15/01/2018	04/11/2016	$829,950	581m	Full transfer	4	1	1	2	-	$829,950	329	-	Combined Record	205	-	-	Single residential dwelling	$285,000	0.34
+2017	528263	5 Spouse Place	07/12/2017	23/03/2018	15/11/2017	$828,000	515m	Full transfer	4	2	-	2	0	$828,000	22	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.32
+2017	525672	10 Crackajack Way	10/11/2017	15/02/2018	18/10/2017	$820,000	495m	Full transfer	4	3	-	2	-	$820,000	23	-	Combined Record	186	-	-	Single residential dwelling	$264,000	0.32
+2017	524462	19 Mummery Terrace	16/11/2017	29/01/2018	-	$820,000	540m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510268	11 Bellhouse Crescent	21/11/2017	-	01/08/2017	$810,000	498m	Full transfer	4	1	1	2	-	$810,000	112	-	Allhomes Record	184	-	-	-	$264,000	0.33
+2017	527587	14 Harold Blair Crescent	19/09/2017	15/03/2018	03/02/2016	$810,000	497m	Full transfer	4	1	1	2	-	$810,000	594	-	Combined Record	-	-	-	Single residential dwelling	$264,000	0.33
+2017	521682	22 Dorrie Crescent	25/08/2017	19/12/2017	15/03/2017	$800,000	450m	Full transfer	4	2	-	2	-	$800,000	163	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.32
+2017	515972	            10 Myra Law Crescent	26/05/2017	25/07/2017	-	$799,950	620m	Full transfer	-	-	-	-	-	$799,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504695	8 Gell Street	21/02/2017	02/05/2017	14/10/2016	$795,000	459m	Full transfer	4	2	-	2	-	$795,000	130	-	Combined Record	178	-	-	Single residential dwelling	$253,000	0.32
+2017	522161	3 Dargin Crescent	27/09/2017	12/12/2017	05/05/2017	$795,000	486m	Full transfer	4	2	-	2	-	$795,000	145	-	Combined Record	202	-	-	Single residential dwelling	$264,000	0.33
+2017	525862	61 Dorrie Crescent	12/12/2017	14/02/2018	09/11/2017	$790,000	570m	Full transfer	4	2	-	2	0	$790,000	33	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.36
+2017	514473	71 Dorrie Crescent	15/05/2017	04/07/2017	05/04/2017	$785,000	540m	Full transfer	4	2	1	2	-	$785,000	40	-	Combined Record	194	-	-	Single residential dwelling	$280,000	0.36
+2017	517742	26 Bellhouse Crescent	06/06/2017	28/08/2017	-	$780,000	548m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514731	15 Ruby Hunter Rise	12/05/2017	04/07/2017	16/03/2017	$775,000	438m	Full transfer	5	3	-	2	-	$775,000	57	-	Combined Record	229	-	-	Single residential dwelling	$242,000	0.31
+2017	523461	41 Bronhill Street	30/10/2017	15/01/2018	24/08/2017	$765,000	437m	Full transfer	4	2	-	2	0	$765,000	67	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.32
+2017	523877	92 O'Keefe Avenue	17/11/2017	24/01/2018	21/07/2017	$760,000	491m	Full transfer	4	3	-	2	-	$760,000	119	-	Combined Record	-	-	-	Single residential dwelling	$264,000	0.35
+2017	524387	44 Slim Dusty Circuit	09/11/2017	22/01/2018	-	$755,000	507m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523111	68 Limb Circuit	18/09/2017	09/01/2018	20/07/2017	$752,500	464m	Full transfer	4	2	-	2	0	$752,500	60	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.34
+2017	511713	14 Silvabelles Street	28/07/2017	-	08/02/2018	$752,000	0m	Full transfer	4	2	-	2	0	$752,000	-	-	Allhomes Record	-	-	-	-	$253,000	0.34
+2017	510173	            11 Warup Street	01/12/2017	-	07/06/2016	$750,000	405m	Full transfer	4	3	-	2	-	$750,000	542	-	Allhomes Record	-	-	-	-	$253,000	0.34
+2017	515008	4 Dengate Crescent	18/04/2017	05/07/2017	-	$750,000	512m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523633	111 Limb Circuit	06/11/2017	16/01/2018	17/11/2016	$750,000	412m	Full transfer	4	1	1	2	-	$750,000	354	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.32
+2017	515162	24 Bronhill Street	27/04/2017	12/07/2017	21/02/2017	$747,000	474m	Full transfer	4	3	1	2	-	$747,000	65	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.34
+2017	514625	3 Malton View	26/05/2017	05/07/2017	-	$745,000	543m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518281	35 Ruby Hunter Rise	04/08/2017	09/09/2017	04/04/2017	$740,000	450m	Full transfer	4	3	-	2	-	$740,000	122	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.34
+2017	505735	25 Bronhill Street	19/06/2017	-	04/04/2017	$740,000	429m	Full transfer	4	2	-	2	-	$740,000	76	-	Allhomes Record	-	-	-	-	$242,000	0.33
+2017	519837	4 Gell Street	01/06/2017	16/10/2017	-	$740,000	498m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524953	4 Pikler Rise	30/06/2017	01/02/2018	-	$735,000	419m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515556	6 Pikler Rise	02/06/2017	21/07/2017	03/04/2017	$734,000	419m	Full transfer	4	1	1	2	-	$734,000	60	-	Combined Record	173	-	-	Single residential dwelling	$242,000	0.33
+2017	501599	9 Silvabelles Street	27/01/2017	22/03/2017	-	$729,000	450m	Full transfer	-	-	-	-	-	$729,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528053	18 Pogson Street	14/11/2017	25/03/2018	-	$720,000	450m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521600	36 Jorgensen Street	06/09/2017	21/12/2017	20/07/2017	$718,000	393m	Full transfer	4	1	1	2	-	$718,000	48	-	Combined Record	159	-	-	Single residential dwelling	$231,000	0.32
+2017	514902	26 Amicus Street	31/05/2017	05/07/2017	-	$715,000	497m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517563	15 Helmrich Street	28/06/2017	25/08/2017	-	$715,000	450m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503005	11 Helmrich Street	01/03/2017	12/04/2017	-	$710,000	450m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501554	15 Dulcie Holland Crescent	02/02/2017	22/03/2017	23/05/2016	$710,000	450m	Full transfer	4	1	1	2	-	$710,000	255	-	Combined Record	196	-	-	Single residential dwelling	$253,000	0.36
+2017	514434	30 Amicus Street	31/05/2017	05/07/2017	03/05/2017	$700,000	450m	Full transfer	4	2	-	2	-	$700,000	28	-	Combined Record	165	-	-	Single residential dwelling	$253,000	0.36
+2017	513403	51 Malton View	03/05/2017	30/05/2017	-	$700,000	580m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523033	            15 Bandstand Street	04/10/2017	14/01/2018	-	$700,000	405m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499613	27 Bronhill Street	13/01/2017	09/03/2017	27/09/2016	$695,000	682m	Full transfer	4	1	1	2	-	$695,000	108	-	Combined Record	169	-	-	Single residential dwelling	$280,000	0.4
+2017	518052	49 Mummery Terrace	30/06/2017	31/08/2017	29/05/2017	$690,000	451m	Full transfer	4	1	1	2	-	$690,000	32	-	Combined Record	172	-	-	Single residential dwelling	$253,000	0.37
+2017	524919	29 Bronhill Street	15/11/2017	30/01/2018	20/09/2017	$688,000	676m	Full transfer	4	2	0	2	0	$688,000	56	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.41
+2017	504914	4 Toppano Street	01/03/2017	02/05/2017	31/01/2017	$685,000	433m	Full transfer	4	1	1	2	-	$685,000	29	-	Combined Record	164	-	-	Single residential dwelling	$242,000	0.35
+2017	506823	68 Bernard Heinze Avenue	18/07/2017	-	16/03/2017	$680,000	474m	Full transfer	4	1	1	2	-	$680,000	124	-	Allhomes Record	162	-	-	-	$253,000	0.37
+2017	526055	40 Gussey Street	30/11/2017	14/02/2018	-	$680,000	390m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503377	3 Bellhouse Crescent	25/01/2017	06/04/2017	-	$675,000	387m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514840	10 Dival Street	12/05/2017	04/07/2017	-	$670,000	483m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523723	15 Mendoza Street	26/09/2017	16/01/2018	-	$660,000	405m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	526864	5 Dival Street	15/12/2017	05/03/2018	-	$660,000	449m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525689	7 Dival Street	11/12/2017	14/02/2018	-	$655,000	472m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529227	1 Dival Street	19/12/2017	26/03/2018	-	$655,000	501m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514492	5 Mendoza Street	12/04/2017	03/07/2017	-	$655,000	405m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516923	7 Mendoza Street	10/05/2017	03/08/2017	-	$650,000	405m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513364	10 Mendoza Street	19/04/2017	01/06/2017	-	$650,000	400m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508488	4 Gell Street	06/10/2017	-	13/05/2016	$630,000	-	Full transfer	4	1	1	2	-	$630,000	511	-	Allhomes Record	-	-	-	-	$264,000	0.42
+2017	523220	71 Limb Circuit	06/10/2017	15/01/2018	-	$630,000	480m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524572	14 Bellhouse Crescent	22/11/2017	01/02/2018	-	$628,000	451m	Full transfer	-	-	-	-	-	$628,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510937	14 Bellhouse Crescent	19/12/2017	-	18/10/2017	$627,000	450m	Full transfer	3	1	1	2	-	$627,000	62	-	Allhomes Record	133	-	-	-	$242,000	0.39
+2017	524169	132 Bernard Heinze Avenue	16/11/2017	22/01/2018	04/09/2017	$621,000	359m	Full transfer	3	2	-	2	-	$621,000	73	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.37
+2017	499438		19/02/2017	-	30/10/2015	$620,000	665m	Full transfer	4	1	1	2	-	$620,000	478	-	Allhomes Record	189	-	-	-	-	-
+2017	518283	10 Jorgensen Street	31/05/2017	09/09/2017	-	$618,000	466m	Full transfer	-	-	-	-	-	$618,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500373	            76-78 Bellhouse Crescent	13/03/2017	-	15/07/2016	$617,500	499m	Full transfer	4	2	1	2	-	$617,500	241	-	Allhomes Record	197	-	-	-	-	-
+2017	492288	38 Jorgensen Street	05/01/2017	-	28/07/2016	$605,000	392m	Full transfer	4	1	1	2	-	$605,000	161	-	Allhomes Record	-	-	-	-	$231,000	0.38
+2017	501568	42 Dargin Crescent	20/01/2017	20/03/2017	17/10/2016	$597,000	355m	Full transfer	4	1	1	2	-	$597,000	95	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.39
+2017	510046	            BLOCK4 Section 50	24/11/2017	-	02/03/2017	$595,500	400m	Full transfer	-	-	-	-	-	$595,500	267	-	Allhomes Record	-	-	-	-	-	-
+2017	496404	11 Tycho Street	03/03/2017	-	04/10/2016	$595,000	-	Full transfer	4	1	1	2	0	$595,000	150	-	Allhomes Record	-	-	-	-	$231,000	0.39
+2017	507594	            2 Shearston Street	04/09/2017	-	16/06/2017	$587,400	-	Full transfer	4	2	-	2	-	$587,400	80	-	Allhomes Record	-	-	-	-	-	-
+2017	523689	79 Limb Circuit	10/08/2017	21/01/2018	-	$585,000	516m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507271	            2-4 Shearston Street	17/08/2017	-	01/06/2017	$584,100	-	Full transfer	4	2	1	2	-	$584,100	77	-	Allhomes Record	135	-	-	-	$960,000	1.64
+2017	515269	114 Bernard Heinze Avenue	20/04/2017	10/07/2017	-	$580,000	362m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500370	72 Bellhouse Crescent	25/02/2017	-	17/11/2016	$579,900	-	Full transfer	3	1	1	2	-	$579,900	100	-	Allhomes Record	-	-	-	-	$242,000	0.42
+2017	516370	132 Bernard Heinze Avenue	04/04/2017	09/08/2017	-	$558,900	359m	Full transfer	-	-	-	-	-	$558,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499327		22/03/2017	-	02/12/2016	$544,900	-	Full transfer	4	1	1	2	-	$544,900	110	-	Allhomes Record	130	-	-	-	-	-
+2017	513786	            3 Bandstand Street	07/04/2017	29/05/2017	-	$541,112	250m	Full transfer	-	-	-	-	-	$541,112	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	496730	            3/42 Dengate Crescent	15/03/2017	-	02/11/2016	$540,000	284m	Full transfer	3	2	-	2	-	$540,000	133	-	Allhomes Record	156	-	-	-	$950,000	1.76
+2017	514573	124 Bernard Heinze Avenue	27/04/2017	03/07/2017	-	$532,500	315m	Full transfer	-	-	-	-	-	$532,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517267	25 Ketterer Street	26/04/2017	16/08/2017	-	$532,000	315m	Full transfer	-	-	-	-	-	$532,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506811		03/08/2017	-	10/07/2017	$525,000	-	Full transfer	3	2	-	2	-	$525,000	24	-	Allhomes Record	-	-	-	-	-	-
+2017	528113	72 Bernard Heinze Avenue	31/03/2017	19/03/2018	-	$522,000	292m	Full transfer	-	-	-	-	-	$522,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518892	34 Mummery Terrace	01/06/2017	12/09/2017	-	$520,000	692m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519544	68 Bronhill Street	28/04/2017	12/10/2017	-	$516,000	211m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501987	62 Bronhill Street	19/04/2017	-	18/08/2016	$516,000	212m	Full transfer	3	1	1	1	-	$516,000	244	-	Allhomes Record	-	-	-	-	$157,000	0.3
+2017	518470	58 Bronhill Street	19/04/2017	04/09/2017	-	$516,000	213m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506042		28/06/2017	-	21/02/2017	$509,900	-	Full transfer	4	1	1	2	-	$509,900	127	-	Allhomes Record	-	-	-	-	-	-
+2017	508629		12/10/2017	-	06/06/2017	$509,900	-	Full transfer	3	1	1	2	-	$509,900	128	-	Allhomes Record	-	-	-	-	-	-
+2017	508337	            77 Bernard Heinze Avenue	29/09/2017	-	30/06/2016	$508,000	0m	Full transfer	3	2	-	2	0	$508,000	456	-	Allhomes Record	-	-	-	-	-	-
+2017	509254		06/11/2017	-	14/08/2017	$499,000	-	Full transfer	3	2	-	2	-	$499,000	84	-	Allhomes Record	-	-	-	-	-	-
+2017	507629		05/09/2017	-	14/08/2017	$495,000	-	Full transfer	3	2	-	2	-	$495,000	22	-	Allhomes Record	-	-	-	-	-	-
+2017	507104		14/08/2017	-	10/08/2017	$495,000	-	Full transfer	3	2	-	2	-	$495,000	4	-	Allhomes Record	-	-	-	-	-	-
+2017	510480		11/12/2017	-	06/06/2017	$494,900	-	Full transfer	3	1	1	2	-	$494,900	188	-	Allhomes Record	-	-	-	-	-	-
+2017	509132		02/11/2017	-	06/06/2017	$494,900	-	Full transfer	3	1	1	2	-	$494,900	149	-	Allhomes Record	-	-	-	-	-	-
+2017	518394	64 Bronhill Street	04/04/2017	05/09/2017	-	$494,000	153m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499319	            1 Gussey Street	24/03/2017	-	02/11/2015	$493,000	-	Full transfer	3	2	1	2	-	$493,000	508	-	Allhomes Record	-	-	-	-	-	-
+2017	496477	            1 Gussey Street	07/03/2017	-	26/11/2015	$492,000	-	Full transfer	3	1	1	2	-	$492,000	467	-	Allhomes Record	130	-	-	-	-	-
+2017	519439	60 Bronhill Street	10/02/2017	13/10/2017	-	$490,000	153m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508699		18/10/2017	-	06/06/2017	$489,900	-	Full transfer	4	1	1	2	-	$489,900	134	-	Allhomes Record	-	-	-	-	-	-
+2017	512231	28 Pogson Street	05/04/2017	19/05/2017	15/03/2017	$471,000	153m	Full transfer	3	1	1	1	0	$471,000	21	-	Combined Record	-	-	-	Single residential dwelling	$157,000	0.33
+2017	538366	30 Dorrie Crescent	08/12/2017	24/07/2018	-	$470,000	153m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507987		19/09/2017	-	02/08/2017	$470,000	-	Full transfer	3	2	-	2	-	$470,000	48	-	Allhomes Record	-	-	-	-	-	-
+2017	507425		27/08/2017	-	10/08/2017	$470,000	-	Full transfer	3	2	-	2	-	$470,000	17	-	Allhomes Record	-	-	-	-	-	-
+2017	531490	            15 Warup Street	06/12/2017	23/04/2018	-	$460,000	575m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	507911		15/09/2017	-	07/08/2017	$460,000	-	Full transfer	3	2	-	2	-	$460,000	39	-	Allhomes Record	-	-	-	-	-	-
+2017	510370	             Jimmy Little Street	01/09/2017	-	08/03/2016	$459,000	-	Full transfer	3	1	1	2	-	$459,000	542	-	Allhomes Record	120	-	-	-	-	-
+2017	510358		01/11/2017	-	28/10/2015	$459,000	-	Full transfer	4	1	2	2	-	$459,000	735	-	Allhomes Record	145	-	-	-	-	-
+2017	508548	             Jimmy Little Street	11/10/2017	-	08/03/2016	$459,000	-	Full transfer	3	1	1	2	-	$459,000	582	-	Allhomes Record	120	-	-	-	-	-
+2017	506489	             Cnr O'Keefe Ave And Bon Scott Cres	20/07/2017	-	25/08/2016	$449,900	-	Full transfer	3	1	1	2	-	$449,900	329	-	Allhomes Record	113	-	-	-	-	-
+2017	506459	             Cnr O'Keefe Ave And Bon Scott Cres	19/07/2017	-	25/08/2016	$445,900	-	Full transfer	3	1	1	2	-	$445,900	328	-	Allhomes Record	160	-	-	-	-	-
+2017	526826	101 Slim Dusty Circuit	11/12/2017	05/03/2018	-	$445,000	695m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520475	15 Malton View	15/08/2017	07/11/2017	08/05/2017	$443,000	703m	Full transfer	-	-	-	-	-	$443,000	99	-	Combined Record	-	-	-	Single residential dwelling	$302,000	0.68
+2017	518978	38 Ruby Hunter Rise	27/06/2017	06/10/2017	-	$430,000	673m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	508542		11/10/2017	-	30/03/2016	$429,000	-	Full transfer	-	-	-	-	-	$429,000	560	-	Allhomes Record	-	-	-	-	-	-
+2017	508623		16/10/2017	-	30/03/2016	$429,000	-	Full transfer	-	-	-	-	-	$429,000	565	-	Allhomes Record	-	-	-	-	-	-
+2017	508654		17/10/2017	-	30/03/2016	$429,000	-	Full transfer	-	-	-	-	-	$429,000	566	-	Allhomes Record	-	-	-	-	-	-
+2017	502144		02/05/2017	-	27/02/2017	$420,000	-	Full transfer	3	1	1	2	-	$420,000	64	-	Allhomes Record	-	-	-	-	-	-
+2017	502094		18/04/2017	-	27/02/2017	$411,900	-	Full transfer	3	2	1	2	-	$411,900	50	-	Allhomes Record	-	-	-	-	-	-
+2017	502095		06/04/2017	-	27/02/2017	$409,900	-	Full transfer	-	-	-	-	-	$409,900	38	-	Allhomes Record	-	-	-	-	-	-
+2017	513871	44 Dargin Crescent	08/02/2017	19/06/2017	-	$402,000	766m	Full transfer	-	-	-	-	-	$402,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	494769	             Bernard Heinze Avenue	20/02/2017	-	14/07/2016	$401,900	-	Full transfer	3	1	1	2	-	$401,900	221	-	Allhomes Record	-	-	-	-	-	-
+2017	494393	             Bernard Heinze Avenue	09/02/2017	-	11/07/2016	$399,900	-	Full transfer	3	1	1	2	-	$399,900	213	-	Allhomes Record	-	-	-	-	-	-
+2017	506834	             Jimmy Little Street	23/06/2017	-	19/08/2016	$399,000	-	Full transfer	2	1	-	-	-	$399,000	308	-	Allhomes Record	100	-	-	-	-	-
+2017	507141		12/08/2017	-	08/08/2017	$395,000	-	Full transfer	2	2	-	2	-	$395,000	4	-	Allhomes Record	-	-	-	-	-	-
+2017	503361	17 Amicus Street	24/02/2017	04/04/2017	-	$395,000	615m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504663	42 Slim Dusty Circuit	01/06/2017	-	12/04/2017	$395,000	737m	Full transfer	0	0	0	0	0	$395,000	50	-	Allhomes Record	-	-	-	-	$291,000	0.74
+2017	506950		08/08/2017	-	07/08/2017	$395,000	-	Full transfer	2	2	-	2	-	$395,000	1	-	Allhomes Record	-	-	-	-	-	-
+2017	518031	26 Ruby Hunter Rise	19/06/2017	28/08/2017	-	$390,000	450m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501009	17 Mummery Terrace	19/01/2017	27/03/2017	-	$385,000	611m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506881	12 Fretwell Street	15/07/2017	-	06/06/2017	$385,000	0m	Full transfer	-	-	-	-	-	$385,000	39	-	Allhomes Record	-	-	-	-	$269,000	0.7
+2017	514861	9 Yamma Way	12/05/2017	03/07/2017	-	$385,000	603m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525041	82 Bernard Heinze Avenue	12/04/2017	30/01/2018	-	$382,000	184m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523539	86 Bernard Heinze Avenue	27/02/2017	15/01/2018	-	$382,000	183m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523892	93 Limb Circuit	08/05/2017	23/01/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528205	74 Bernard Heinze Avenue	30/03/2017	19/03/2018	-	$382,000	239m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515735	128 Bernard Heinze Avenue	02/03/2017	20/07/2017	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523607	88 Bernard Heinze Avenue	27/02/2017	18/01/2018	-	$382,000	190m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518438	29 Ketterer Street	17/03/2017	07/09/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514688	118 Bernard Heinze Avenue	10/02/2017	05/07/2017	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528333	95 Limb Circuit	28/03/2017	23/03/2018	-	$382,000	180m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516109	130 Bernard Heinze Avenue	24/03/2017	28/07/2017	-	$382,000	240m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529153	90 Bernard Heinze Avenue	31/03/2017	27/03/2018	-	$382,000	184m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517769	6 Beulah Close	28/04/2017	28/08/2017	-	$380,000	153m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514973	4 Fretwell Street	09/05/2017	06/07/2017	-	$380,000	537m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518274	12 Beulah Close	26/04/2017	28/08/2017	-	$380,000	153m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517528	4 Beulah Close	19/06/2017	21/08/2017	-	$380,000	153m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	499548	4 Beulah Close	01/04/2017	-	28/03/2017	$380,000	-	Full transfer	3	1	-	1	-	$380,000	4	-	Allhomes Record	107	-	-	-	$159,000	0.42
+2017	501436	42 Gussey Street	04/01/2017	22/03/2017	24/08/2016	$380,000	805m	Full transfer	4	2	-	2	0	$380,000	133	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.82
+2017	520754	18 Fretwell Street	21/09/2017	24/11/2017	06/06/2017	$380,000	501m	Full transfer	-	-	-	-	-	$380,000	107	-	Combined Record	-	-	-	Single residential dwelling	$269,000	0.71
+2017	523090	14 Beulah Close	01/11/2017	11/01/2018	-	$380,000	192m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506051	             Jimmy Little Street	29/06/2017	-	08/03/2016	$379,000	-	Full transfer	2	1	-	-	1	$379,000	478	-	Allhomes Record	86	-	-	-	-	-
+2017	521944	36 Bellhouse Crescent	26/09/2017	02/01/2018	22/08/2017	$379,000	488m	Full transfer	0	0	-	0	0	$379,000	35	-	Combined Record	-	-	-	Single residential dwelling	$264,000	0.7
+2017	518724	10 Beulah Close	04/05/2017	25/09/2017	-	$377,500	153m	Full transfer	-	-	-	-	-	$377,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524617	2 Beulah Close	16/06/2017	30/01/2018	-	$376,740	249m	Full transfer	-	-	-	-	-	$376,740	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519484	            3 Warup Street	09/08/2017	13/10/2017	-	$370,000	489m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	504838	107 Limb Circuit	29/03/2017	04/05/2017	27/10/2016	$370,000	578m	Full transfer	0	0	-	0	0	$370,000	153	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.77
+2017	514285	23 Raisbeck Rise	24/03/2017	27/06/2017	16/02/2017	$368,000	476m	Full transfer	-	-	-	-	-	$368,000	36	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.69
+2017	514719	38 Tycho Street	10/04/2017	05/07/2017	16/03/2017	$365,000	450m	Full transfer	0	0	-	0	0	$365,000	25	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.69
+2017	501024	            13 Myra Law Crescent	14/02/2017	28/03/2017	-	$365,000	591m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	493447	            13 Myra Law Crescent	12/01/2017	-	21/12/2016	$365,000	591m	Full transfer	-	-	-	-	-	$365,000	22	-	Allhomes Record	-	-	-	-	$291,000	0.8
+2017	502710	73 Bernard Heinze Avenue	31/01/2017	10/04/2017	-	$364,000	530m	Full transfer	-	-	-	-	-	$364,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514580	7 Spouse Place	11/04/2017	03/07/2017	-	$361,000	651m	Full transfer	-	-	-	-	-	$361,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521482	8 Tycho Street	29/09/2017	21/12/2017	20/06/2017	$360,000	473m	Full transfer	4	2	-	2	-	$360,000	101	-	Combined Record	187	-	-	Single residential dwelling	$253,000	0.7
+2017	501264	9 Pogson Street	06/02/2017	31/03/2017	-	$360,000	450m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518767	8 Bliss Terrace	30/06/2017	27/09/2017	20/02/2017	$360,000	454m	Full transfer	-	-	-	-	-	$360,000	130	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.7
+2017	519809	60 Dorrie Crescent	28/04/2017	17/10/2017	05/04/2017	$360,000	540m	Full transfer	0	0	0	0	0	$360,000	23	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.78
+2017	517536	28 Gussey Street	16/05/2017	25/08/2017	28/02/2017	$356,000	543m	Full transfer	-	-	-	-	-	$356,000	77	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.79
+2017	498708	             Bernard Heinze Avenue	14/03/2017	-	07/11/2016	$355,900	-	Full transfer	2	1	1	1	-	$355,900	127	-	Allhomes Record	-	-	-	-	-	-
+2017	503869	32 Dengate Crescent	17/01/2017	28/04/2017	-	$355,000	504m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501580	1 Dulcie Holland Crescent	24/01/2017	23/03/2017	29/10/2016	$354,000	586m	Full transfer	-	-	-	-	-	$354,000	87	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.81
+2017	550714	32 Dargin Crescent	24/08/2017	07/01/2019	-	$351,452	330m	Full transfer	-	-	-	-	-	$351,452	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	546745	26 Dargin Crescent	01/08/2017	02/01/2019	-	$350,850	301m	Full transfer	-	-	-	-	-	$350,850	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516636	1 Gaston Way	29/06/2017	07/08/2017	-	$350,000	669m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519337	6 Silvabelles Street	30/06/2017	11/10/2017	-	$350,000	468m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515980	9 Amicus Street	28/03/2017	25/07/2017	-	$350,000	618m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517606	23 Dorrie Crescent	09/06/2017	22/08/2017	27/07/2016	$350,000	477m	Full transfer	4	1	1	2	-	$350,000	317	-	Combined Record	142	-	-	Single residential dwelling	$253,000	0.72
+2017	524721	14 Limb Circuit	23/09/2017	29/01/2018	-	$350,000	389m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521497	17 Slim Dusty Circuit	14/06/2017	20/12/2017	-	$350,000	457m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512444	14 Ruby Hunter Rise	22/03/2017	12/05/2017	-	$350,000	500m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513874	32 Jorgensen Street	06/03/2017	23/06/2017	-	$350,000	499m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513675	7 Gaston Way	10/01/2017	02/06/2017	-	$350,000	708m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510860	14 Limb Circuit	21/12/2017	-	01/08/2017	$350,000	388m	Full transfer	-	-	-	-	-	$350,000	142	-	Allhomes Record	-	-	-	-	$231,000	0.66
+2017	510042		28/11/2017	-	13/10/2017	$348,000	-	Full transfer	4	1	1	2	-	$348,000	46	-	Allhomes Record	158	-	-	-	-	-
+2017	504450	             Bon Scott Crescent, Moncrieff	11/05/2017	-	15/03/2017	$348,000	-	Full transfer	2	2	-	1	-	$348,000	57	-	Allhomes Record	88	-	-	-	-	-
+2017	504139		19/05/2017	-	11/11/2016	$348,000	-	Full transfer	2	1	1	-	1	$348,000	189	-	Allhomes Record	87	-	-	-	-	-
+2017	548514	4 Dargin Crescent	04/08/2017	21/12/2018	-	$346,750	240m	Full transfer	-	-	-	-	-	$346,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	546690	28 Dargin Crescent	28/07/2017	02/01/2019	-	$346,750	240m	Full transfer	-	-	-	-	-	$346,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	551195	22 Dargin Crescent	24/08/2017	09/01/2019	-	$344,500	240m	Full transfer	-	-	-	-	-	$344,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	547247	10 Dargin Crescent	03/08/2017	02/01/2019	-	$342,650	240m	Full transfer	-	-	-	-	-	$342,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503391	20 Limb Circuit	14/02/2017	05/04/2017	22/10/2016	$342,100	459m	Full transfer	4	1	1	2	-	$342,100	115	-	Combined Record	154	-	-	Single residential dwelling	$253,000	0.74
+2017	501756	28 Limb Circuit	18/01/2017	21/03/2017	-	$340,000	432m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	550792	6 Dargin Crescent	21/07/2017	09/01/2019	-	$337,900	240m	Full transfer	-	-	-	-	-	$337,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	550876	8 Dargin Crescent	01/08/2017	10/01/2019	-	$337,900	240m	Full transfer	-	-	-	-	-	$337,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523302	44 Crackajack Way	03/11/2017	18/01/2018	25/05/2017	$335,000	450m	Full transfer	4	1	1	2	-	$335,000	162	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.76
+2017	520088	44 Crackajack Way	23/08/2017	26/10/2017	-	$335,000	450m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513390	1 Lester Terrace	30/03/2017	01/06/2017	-	$335,000	497m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	494383	             Bernard Heinze Avenue	08/02/2017	-	11/07/2016	$334,900	-	Full transfer	2	1	1	1	-	$334,900	212	-	Allhomes Record	-	-	-	-	-	-
+2017	494335	             Bernard Heinze Avenue	03/02/2017	-	15/07/2016	$330,900	-	Full transfer	2	1	1	1	-	$330,900	203	-	Allhomes Record	-	-	-	-	-	-
+2017	514500	54 Bellhouse Crescent	11/04/2017	03/07/2017	-	$330,000	420m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514044	8 Tycho Street	01/03/2017	16/06/2017	-	$330,000	473m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501118	10 Amicus Street	23/01/2017	28/03/2017	-	$330,000	587m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518150	            11 Myra Law Crescent	29/06/2017	29/08/2017	-	$330,000	462m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520901	34 Dengate Crescent	13/09/2017	01/12/2017	-	$330,000	504m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515277	8 Pikler Rise	17/03/2017	10/07/2017	-	$325,000	420m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517452	44 Jorgensen Street	31/05/2017	24/08/2017	-	$325,000	356m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513106	17 Dulcie Holland Crescent	31/03/2017	07/06/2017	-	$322,800	450m	Full transfer	-	-	-	-	-	$322,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520031	26 Harold Blair Crescent	05/07/2017	27/10/2017	-	$320,000	534m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513485	36 Toppano Street	06/04/2017	29/05/2017	-	$320,000	445m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515486	4 Amphlett Street	17/03/2017	14/07/2017	26/09/2016	$320,000	530m	Full transfer	5	1	1	2	-	$320,000	172	-	Combined Record	179	-	-	Single residential dwelling	$280,000	0.88
+2017	523948	71 Crackajack Way	24/10/2017	22/01/2018	-	$315,000	566m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	547277	20 Dargin Crescent	25/08/2017	02/01/2019	-	$311,650	180m	Full transfer	-	-	-	-	-	$311,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	510062	            UNIT23 Maison Second Edition	28/11/2017	-	12/10/2017	$310,000	0m	Full transfer	2	1	-	0	0	$310,000	47	-	Allhomes Record	-	-	-	-	-	-
+2017	523590	            18 Bandstand Street	30/10/2017	18/01/2018	-	$310,000	397m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519897	9 Limb Circuit	24/07/2017	22/10/2017	-	$310,000	410m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519197	78 Bronhill Street	27/06/2017	11/10/2017	10/01/2017	$310,000	488m	Full transfer	4	1	1	2	-	$310,000	168	-	Combined Record	183	-	-	Single residential dwelling	$264,000	0.85
+2017	502818	20 Tycho Street	01/03/2017	10/04/2017	-	$300,000	498m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	550548	12 Dargin Crescent	27/07/2017	07/01/2019	-	$299,900	180m	Full transfer	-	-	-	-	-	$299,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506771		02/08/2017	-	10/07/2017	$299,000	-	Full transfer	2	1	-	1	-	$299,000	23	-	Allhomes Record	-	-	-	-	-	-
+2017	506856		07/08/2017	-	02/08/2017	$299,000	-	Full transfer	2	1	-	1	-	$299,000	5	-	Allhomes Record	-	-	-	-	-	-
+2017	507213		18/08/2017	-	02/08/2017	$299,000	-	Full transfer	2	1	-	1	-	$299,000	16	-	Allhomes Record	-	-	-	-	-	-
+2017	507331		23/08/2017	-	17/08/2017	$299,000	-	Full transfer	2	1	-	1	-	$299,000	6	-	Allhomes Record	-	-	-	-	-	-
+2017	507401		28/08/2017	-	24/08/2017	$299,000	-	Full transfer	2	1	-	1	-	$299,000	4	-	Allhomes Record	-	-	-	-	-	-
+2017	519901	13 Slim Dusty Circuit	08/06/2017	18/10/2017	-	$290,000	462m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518681	31 Toppano Street	21/06/2017	18/09/2017	-	$290,000	402m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517546	10 Crackajack Way	23/06/2017	25/08/2017	-	$270,000	495m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513585	78 Bellhouse Crescent	20/03/2017	30/05/2017	-	$265,000	499m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514807	72 Bellhouse Crescent	25/01/2017	05/07/2017	-	$265,000	419m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	555190	109 Bernard Heinze Avenue	01/08/2017	12/03/2019	-	$259,900	340m	Full transfer	-	-	-	-	-	$259,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	505103	11 Tycho Street	02/03/2017	02/05/2017	-	$250,000	357m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	546764	123 Bernard Heinze Avenue	14/07/2017	04/01/2019	-	$246,000	315m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501399	8 Gaston Way	07/02/2017	21/03/2017	-	$246,000	666m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514047	11 Dival Street	22/05/2017	15/06/2017	-	$245,000	496m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548487	129 Bernard Heinze Avenue	05/09/2017	19/12/2018	-	$244,452	186m	Full transfer	-	-	-	-	-	$244,452	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548480	131 Bernard Heinze Avenue	08/09/2017	19/12/2018	-	$244,452	186m	Full transfer	-	-	-	-	-	$244,452	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	546826	127 Bernard Heinze Avenue	13/09/2017	02/01/2019	-	$244,452	185m	Full transfer	-	-	-	-	-	$244,452	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	551725	143 Bernard Heinze Avenue	13/12/2017	07/01/2019	-	$242,900	245m	Full transfer	-	-	-	-	-	$242,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515974	8 Pogson Street	05/05/2017	24/07/2017	-	$238,000	450m	Full transfer	-	-	-	-	-	$238,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548888	133 Bernard Heinze Avenue	06/09/2017	16/01/2019	-	$236,650	247m	Full transfer	-	-	-	-	-	$236,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	549028	125 Bernard Heinze Avenue	19/09/2017	19/12/2018	-	$235,000	243m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515233	            23 Bandstand Street	10/03/2017	10/07/2017	-	$234,000	450m	Full transfer	-	-	-	-	-	$234,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	501435	57 Dorrie Crescent	11/01/2017	23/03/2017	-	$233,000	465m	Full transfer	-	-	-	-	-	$233,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	547000	113 Bernard Heinze Avenue	19/07/2017	28/11/2018	-	$229,900	180m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	552365	119 Bernard Heinze Avenue	26/07/2017	21/01/2019	-	$229,900	180m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548611	141 Bernard Heinze Avenue	28/09/2017	16/01/2019	-	$229,450	187m	Full transfer	-	-	-	-	-	$229,450	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522428	            11 Warup Street	05/06/2017	11/12/2017	-	$228,000	405m	Full transfer	-	-	-	-	-	$228,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	547266	115 Bernard Heinze Avenue	03/08/2017	02/01/2019	-	$223,900	180m	Full transfer	-	-	-	-	-	$223,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	550889	117 Bernard Heinze Avenue	17/07/2017	10/01/2019	-	$222,900	180m	Full transfer	-	-	-	-	-	$222,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548474	111 Bernard Heinze Avenue	01/08/2017	19/12/2018	-	$222,850	181m	Full transfer	-	-	-	-	-	$222,850	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521721	12 Ketterer Street	03/08/2017	21/12/2017	-	$170,000	153m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500635	28 Dorrie Crescent	10/01/2017	17/03/2017	-	$153,000	192m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517855	11 Mummery Terrace	07/06/2017	29/08/2017	-	$141,500	665m	Full transfer	-	-	-	-	-	$141,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518231	9 Mummery Terrace	07/06/2017	29/08/2017	-	$126,000	561m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	509899	             Bon Scott Crescent, Moncrieff	24/11/2017	-	15/03/2017	$100,000	-	Full transfer	2	2	-	1	1	$100,000	254	-	Allhomes Record	1000	-	-	-	-	-
+2017	517526	10 Tycho Street	22/08/2017	22/08/2017	-	$0	400m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503525	4 Lester Terrace	25/01/2017	03/04/2017	-	$0	533m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529013	5 Ruby Hunter Rise	01/12/2017	28/03/2018	02/11/2017	$0	457m	Full transfer	4	3	-	2	-	$0	29	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.85
+2017	547225	137 Bernard Heinze Avenue	04/10/2017	03/01/2019	-	$0	189m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523196	17 Mendoza Street	15/09/2017	16/01/2018	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520384	2 Fretwell Street	02/08/2017	02/11/2017	-	$0	497m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516838	8 Toppano Street	02/03/2017	04/08/2017	-	$0	457m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	543168	16 Dorrie Crescent	24/10/2017	05/10/2018	-	$0	630m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	550715	2 Dargin Crescent	26/09/2017	07/01/2019	-	$0	382m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517258	41 Ketterer Street	27/04/2017	16/08/2017	-	$0	240m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548915	18 Dargin Crescent	02/08/2017	14/01/2019	-	$0	180m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513665	9 Dival Street	04/04/2017	02/06/2017	02/02/2017	$0	498m	Full transfer	4	1	1	2	-	$0	61	-	Combined Record	168	-	-	Single residential dwelling	$264,000	0.85
+2017	549091	145 Bernard Heinze Avenue	25/07/2017	21/12/2018	-	$0	337m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518745	131 Slim Dusty Circuit	15/06/2017	27/09/2017	-	$0	559m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533141	            61 Bellhouse Crescent	07/06/2018	-	22/03/2018	$4,800,000	0m	Full transfer	-	-	-	-	-	$4,800,000	77	-	Allhomes Record	-	-	-	-	$2,750,000	0.57
+2018	534451	1 Toppano Street	15/03/2018	10/06/2018	31/01/2018	$935,000	675m	Full transfer	4	2	-	2	-	$935,000	43	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.36
+2018	537194	20 Slim Dusty Circuit	22/05/2018	02/07/2018	20/01/2018	$930,000	507m	Full transfer	4	2	1	4	-	$930,000	122	-	Combined Record	-	-	-	Single residential dwelling	$313,000	0.34
+2018	538944	50 Slim Dusty Circuit	21/03/2018	30/07/2018	-	$929,000	612m	Full transfer	-	-	-	-	-	$929,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533732	48 Slim Dusty Circuit	15/06/2018	-	04/04/2018	$920,000	-	Full transfer	4	1	2	2	-	$920,000	72	-	Allhomes Record	300	-	-	-	$333,000	0.36
+2018	550025	61 Malton View	28/09/2018	10/12/2018	10/05/2018	$880,000	475m	Full transfer	4	2	-	2	0	$880,000	141	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.35
+2018	560818	35 Mummery Terrace	21/12/2018	13/02/2019	17/10/2018	$872,500	648m	Full transfer	4	2	-	2	-	$872,500	65	-	Combined Record	222	-	-	Single residential dwelling	$335,000	0.38
+2018	544462	16 Dorrie Crescent	30/07/2018	18/10/2018	-	$860,000	630m	Full transfer	-	-	-	-	-	$860,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551472	5 Bellhouse Crescent	03/05/2018	14/11/2018	-	$855,000	473m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535103	23 Raisbeck Rise	14/04/2018	14/06/2018	14/02/2018	$855,000	476m	Full transfer	4	3	-	2	0	$855,000	59	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.36
+2018	542842	41 Toppano Street	09/08/2018	27/09/2018	19/07/2018	$850,000	450m	Full transfer	4	2	-	2	0	$850,000	21	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.35
+2018	545157	10 Helmrich Street	01/11/2018	-	28/08/2018	$836,000	468m	Full transfer	4	1	1	2	-	$836,000	65	-	Allhomes Record	228	-	-	-	$305,000	0.36
+2018	541886	15 Crackajack Way	18/07/2018	10/09/2018	-	$835,000	500m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540405	19 Amicus Street	29/06/2018	21/08/2018	12/01/2018	$835,000	540m	Full transfer	4	3	-	2	-	$835,000	168	-	Combined Record	213	-	-	Single residential dwelling	$320,000	0.38
+2018	549870	36 Limb Circuit	14/11/2018	21/12/2018	07/10/2018	$825,000	497m	Full transfer	4	1	1	2	-	$825,000	38	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.38
+2018	534430	41 Malton View	06/04/2018	05/06/2018	-	$820,000	479m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561669	3 Limb Circuit	20/09/2018	10/12/2018	22/08/2018	$815,000	498m	Full transfer	4	2	-	2	0	$815,000	29	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.38
+2018	528505	10 Gell Street	17/01/2018	25/03/2018	-	$810,000	490m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528651	141 Slim Dusty Circuit	19/01/2018	23/03/2018	18/09/2017	$807,000	521m	Full transfer	4	1	1	2	-	$807,000	123	-	Combined Record	190	-	-	Single residential dwelling	$318,000	0.39
+2018	538984	39 Ruby Hunter Rise	23/02/2018	01/08/2018	25/10/2017	$800,000	482m	Full transfer	4	2	-	2	-	$800,000	121	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.39
+2018	551891	7 Ruby Hunter Rise	26/11/2018	29/01/2019	31/07/2018	$780,000	457m	Full transfer	4	3	-	0	2	$780,000	118	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.39
+2018	535034	54 Bellhouse Crescent	12/04/2018	12/06/2018	17/11/2017	$780,000	420m	Full transfer	4	2	-	0	2	$780,000	146	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.37
+2018	539568	21 Dorrie Crescent	20/06/2018	07/08/2018	07/02/2018	$780,000	477m	Full transfer	4	2	-	2	-	$780,000	133	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.39
+2018	537168	37 Ruby Hunter Rise	14/05/2018	05/07/2018	21/03/2018	$775,000	450m	Full transfer	4	2	-	2	0	$775,000	54	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.38
+2018	540630	68 Limb Circuit	28/06/2018	21/08/2018	23/05/2018	$775,000	464m	Full transfer	4	2	-	2	0	$775,000	36	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.39
+2018	550507	82 Slim Dusty Circuit	29/10/2018	09/01/2019	-	$765,000	545m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531385	11 Silvabelles Street	05/03/2018	24/04/2018	08/10/2017	$765,000	450m	Full transfer	5	1	1	2	-	$765,000	148	-	Combined Record	190	-	-	Single residential dwelling	$295,000	0.39
+2018	550764	13 Silvabelles Street	19/10/2018	10/01/2019	20/08/2018	$765,000	450m	Full transfer	5	1	1	-	-	$765,000	60	-	Combined Record	190	-	-	Single residential dwelling	$298,000	0.39
+2018	536316	17 Dengate Crescent	04/05/2018	27/06/2018	22/03/2018	$765,000	525m	Full transfer	5	3	-	2	0	$765,000	43	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.42
+2018	549788	            7 Warup Street	08/08/2018	21/12/2018	-	$760,000	471m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551111	12 Toppano Street	22/11/2018	11/01/2019	20/09/2018	$755,000	421m	Full transfer	4	2	-	2	0	$755,000	63	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.38
+2018	538932	17 Helmrich Street	15/06/2018	31/07/2018	01/03/2018	$755,000	450m	Full transfer	4	2	-	2	-	$755,000	106	-	Combined Record	-	-	-	Single residential dwelling	$297,500	0.39
+2018	511147	44 Slim Dusty Circuit	01/01/2018	-	09/06/2017	$755,000	506m	Full transfer	4	2	1	2	-	$755,000	206	-	Allhomes Record	204	-	-	-	$313,000	0.41
+2018	538525	33 Ruby Hunter Rise	25/05/2018	23/07/2018	20/11/2017	$755,000	434m	Full transfer	4	3	-	2	-	$755,000	186	-	Combined Record	188	-	-	Single residential dwelling	$290,000	0.38
+2018	533501	6 Amphlett Street	21/03/2018	27/05/2018	06/02/2018	$750,000	542m	Full transfer	4	2	-	2	0	$750,000	43	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.43
+2018	532732	36 Dargin Crescent	08/03/2018	14/05/2018	15/01/2018	$750,000	752m	Full transfer	4	1	1	2	-	$750,000	52	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.47
+2018	540128	17 Slim Dusty Circuit	03/09/2018	-	07/04/2017	$745,000	450m	Full transfer	4	2	2	2	-	$745,000	514	-	Allhomes Record	260	-	-	-	$303,000	0.41
+2018	533763	            16 Warup Street	18/05/2018	-	21/03/2018	$744,000	485m	Full transfer	4	2	-	2	-	$744,000	58	-	Allhomes Record	-	-	-	-	-	-
+2018	534616	9 Mummery Terrace	13/04/2018	04/06/2018	19/12/2017	$740,000	561m	Full transfer	4	2	-	2	-	$740,000	115	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.44
+2018	537985	6 Toppano Street	01/08/2018	-	26/01/2018	$735,000	481m	Full transfer	4	2	1	2	-	$735,000	187	-	Allhomes Record	-	-	-	-	$309,000	0.42
+2018	538011	24 Gussey Street	01/08/2018	-	05/05/2017	$735,000	497m	Full transfer	4	2	2	2	-	$735,000	453	-	Allhomes Record	196	-	-	-	$310,000	0.42
+2018	541912	1 Amphlett Street	22/06/2018	11/09/2018	-	$733,666	645m	Full transfer	-	-	-	-	-	$733,666	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529499	19 Toppano Street	01/02/2018	05/04/2018	04/12/2017	$725,000	421m	Full transfer	4	1	1	2	-	$725,000	59	-	Combined Record	179	-	-	Single residential dwelling	$285,000	0.39
+2018	547389	21 Malton View	27/09/2018	20/11/2018	25/06/2018	$725,000	450m	Full transfer	4	2	-	2	0	$725,000	94	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.41
+2018	551625	6 Gaston Way	15/10/2018	13/11/2018	28/06/2018	$720,000	666m	Full transfer	4	2	-	2	0	$720,000	109	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.45
+2018	557262	3 Bronhill Street	21/09/2018	12/04/2019	-	$710,000	612m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550466	2 Harold Blair Crescent	19/11/2018	10/01/2019	23/05/2018	$710,000	476m	Full transfer	4	2	-	2	-	$710,000	180	-	Combined Record	174	-	-	Single residential dwelling	$308,000	0.43
+2018	538394	13 Crackajack Way	17/05/2018	23/07/2018	-	$710,000	455m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548236	42 Jorgensen Street	18/09/2018	06/11/2018	16/08/2018	$700,000	393m	Full transfer	4	2	-	2	0	$700,000	33	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.4
+2018	559759	            30 Myra Law Crescent	08/10/2018	22/05/2019	-	$700,000	497m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540415	57 Malton View	22/06/2018	21/08/2018	19/04/2018	$695,000	433m	Full transfer	4	2	-	2	-	$695,000	64	-	Combined Record	231	-	-	Single residential dwelling	$290,000	0.42
+2018	530570	            1 Yidaki Way	15/04/2018	-	22/02/2018	$685,000	6196m	Full transfer	4	1	1	2	-	$685,000	52	-	Allhomes Record	198	-	-	-	-	-
+2018	525469		02/03/2018	-	26/10/2017	$685,000	-	Full transfer	4	1	1	2	-	$685,000	127	-	Allhomes Record	233	-	-	-	-	-
+2018	528072	30 Gussey Street	31/01/2018	22/03/2018	-	$680,000	390m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534835	21 Mendoza Street	26/04/2018	13/06/2018	-	$675,000	467m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529528	8 Dengate Crescent	31/01/2018	03/04/2018	-	$665,000	533m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529727	70 Limb Circuit	30/01/2018	03/04/2018	-	$660,000	389m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532699	33 Shearston Street	06/02/2018	16/05/2018	-	$660,000	426m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561835	68 Bellhouse Crescent	04/10/2018	14/01/2019	04/07/2018	$655,000	449m	Full transfer	3	2	-	2	0	$655,000	92	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.45
+2018	530734	19 Mendoza Street	27/02/2018	18/04/2018	-	$645,000	405m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530289	105 Limb Circuit	12/02/2018	13/04/2018	13/10/2017	$633,000	440m	Full transfer	3	2	-	2	-	$633,000	122	-	Combined Record	138	-	-	Single residential dwelling	$293,000	0.46
+2018	538744		10/08/2018	-	03/06/2016	$625,000	-	Full transfer	4	1	2	1	-	$625,000	798	-	Allhomes Record	-	-	-	-	-	-
+2018	537856		25/07/2018	-	25/05/2018	$619,000	-	Full transfer	4	1	2	1	-	$619,000	61	-	Allhomes Record	180	-	-	-	-	-
+2018	539263		16/08/2018	-	28/04/2016	$619,000	-	Full transfer	2	1	-	-	-	$619,000	840	-	Allhomes Record	-	-	-	-	-	-
+2018	535352	            1 Yidaki Way	05/07/2018	-	22/02/2018	$610,000	6196m	Full transfer	4	1	1	2	-	$610,000	133	-	Allhomes Record	195	-	-	-	-	-
+2018	542134	77 Limb Circuit	19/07/2018	18/09/2018	-	$605,000	375m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537255	75 Limb Circuit	18/05/2018	06/07/2018	-	$605,000	375m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	536710	42 Limb Circuit	07/07/2018	-	13/06/2018	$605,000	337m	Full transfer	3	2	-	2	0	$605,000	24	-	Allhomes Record	-	-	-	-	$259,000	0.43
+2018	540518	73 Limb Circuit	19/06/2018	22/08/2018	-	$605,000	375m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530558	            1 Yidaki Way	20/04/2018	-	22/02/2018	$599,000	6196m	Full transfer	4	1	1	2	-	$599,000	57	-	Allhomes Record	176	-	-	-	-	-
+2018	532978	            12/75 Bellhouse Crescent	01/06/2018	-	30/04/2018	$585,000	8886m	Full transfer	4	2	-	2	-	$585,000	32	-	Allhomes Record	133	-	-	-	-	-
+2018	545562		04/12/2018	-	20/06/2018	$583,800	-	Full transfer	3	1	1	2	-	$583,800	167	-	Allhomes Record	-	-	-	-	-	-
+2018	537385	34 Limb Circuit	28/03/2018	10/07/2018	-	$580,000	486m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551282	78 Bernard Heinze Avenue	07/11/2018	10/01/2019	-	$570,000	297m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544852		26/10/2018	-	05/10/2018	$550,000	-	Full transfer	4	1	1	2	-	$550,000	21	-	Allhomes Record	139	-	-	-	-	-
+2018	533690	            34 Bernard Heinz Avenue	14/06/2018	-	31/01/2018	$540,000	0m	Full transfer	3	2	-	0	2	$540,000	134	-	Allhomes Record	-	-	-	-	-	-
+2018	533846	            51/1 Bon Scott Crescent	20/06/2018	-	24/05/2018	$530,000	0m	Full transfer	3	2	-	2	0	$530,000	27	-	Allhomes Record	-	-	-	-	-	-
+2018	538696	            1 Yidaki Way	08/08/2018	-	24/04/2018	$529,900	6196m	Full transfer	3	1	1	2	-	$529,900	106	-	Allhomes Record	-	-	-	-	-	-
+2018	538273	            30/1-26 O'Keefe Avenue	03/08/2018	-	11/07/2018	$529,900	0m	Full transfer	3	2	-	2	0	$529,900	23	-	Allhomes Record	-	-	-	-	-	-
+2018	529752	44 Tycho Street	25/01/2018	05/04/2018	06/12/2017	$527,500	279m	Full transfer	3	1	1	2	-	$527,500	50	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.44
+2018	546004	            12/1 Hoffmann Street	12/12/2018	-	23/11/2018	$525,000	0m	Full transfer	3	2	-	2	0	$525,000	19	-	Allhomes Record	-	-	-	-	-	-
+2018	531141	            8/22 Dulcie Holland Crescent	02/05/2018	-	08/11/2017	$520,000	0m	Full transfer	4	3	-	2	0	$520,000	175	-	Allhomes Record	-	-	-	-	-	-
+2018	540487	51 Limb Circuit	22/06/2018	21/08/2018	10/05/2018	$515,000	240m	Full transfer	3	2	-	1	0	$515,000	43	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.42
+2018	511141		22/01/2018	-	10/07/2017	$510,000	-	Full transfer	3	2	-	2	-	$510,000	196	-	Allhomes Record	-	-	-	-	-	-
+2018	525314		24/02/2018	-	30/01/2018	$510,000	-	Full transfer	3	2	-	2	-	$510,000	25	-	Allhomes Record	-	-	-	-	-	-
+2018	547462	59 Limb Circuit	13/09/2018	23/11/2018	21/08/2018	$500,000	200m	Full transfer	3	2	-	1	0	$500,000	23	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.36
+2018	512047		16/02/2018	-	07/11/2017	$499,000	-	Full transfer	3	2	-	2	-	$499,000	101	-	Allhomes Record	-	-	-	-	-	-
+2018	526470	             Jimmy Little Street	09/03/2018	-	19/08/2016	$499,000	-	Full transfer	3	1	1	2	-	$499,000	567	-	Allhomes Record	128	-	-	-	-	-
+2018	533082		06/06/2018	-	19/08/2016	$499,000	-	Full transfer	2	1	-	1	-	$499,000	656	-	Allhomes Record	100	-	-	-	-	-
+2018	532530		29/05/2018	-	03/06/2016	$499,000	-	Full transfer	3	1	1	1	-	$499,000	725	-	Allhomes Record	143	-	-	-	-	-
+2018	531198	            14/22 Dulcie Holland Crescent	03/05/2018	-	12/04/2018	$497,500	0m	Full transfer	3	2	-	2	0	$497,500	21	-	Allhomes Record	-	-	-	-	-	-
+2018	531933	            25/1 Hoffmann Street	17/05/2018	-	24/04/2018	$497,000	7807m	Full transfer	3	1	1	2	-	$497,000	23	-	Allhomes Record	118	-	-	-	-	-
+2018	525312		26/02/2018	-	04/09/2017	$490,000	-	Full transfer	3	2	-	2	-	$490,000	175	-	Allhomes Record	-	-	-	-	-	-
+2018	525596		06/03/2018	-	26/02/2018	$490,000	-	Full transfer	3	2	-	2	-	$490,000	8	-	Allhomes Record	-	-	-	-	-	-
+2018	529351	101 Slim Dusty Circuit	15/03/2018	-	05/09/2017	$445,000	694m	Full transfer	-	-	-	-	-	$445,000	191	-	Allhomes Record	-	-	-	-	$345,000	0.78
+2018	542681	28 Harold Blair Crescent	20/07/2018	28/09/2018	-	$435,500	534m	Full transfer	-	-	-	-	-	$435,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	511455		20/01/2018	-	28/11/2017	$429,000	-	Full transfer	2	2	-	2	-	$429,000	53	-	Allhomes Record	188	-	-	-	-	-
+2018	511993		15/02/2018	-	30/01/2018	$425,000	-	Full transfer	2	1	1	2	-	$425,000	16	-	Allhomes Record	101	-	-	-	-	-
+2018	525587	            1 Yidaki Way	06/03/2018	-	22/02/2018	$424,000	6196m	Full transfer	4	1	1	2	-	$424,000	12	-	Allhomes Record	197	-	-	-	-	-
+2018	535219	16 Gaston Way	28/06/2018	-	17/01/2018	$420,000	764m	Full transfer	-	-	-	-	-	$420,000	162	-	Allhomes Record	-	-	-	-	$350,000	0.83
+2018	539158	1 Ruby Hunter Rise	07/06/2018	02/08/2018	30/05/2018	$417,500	538m	Full transfer	-	-	-	-	-	$417,500	8	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.77
+2018	535459	50 Gussey Street	16/04/2018	20/06/2018	24/01/2018	$415,000	616m	Full transfer	-	-	-	-	-	$415,000	82	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.8
+2018	511744		08/02/2018	-	30/01/2018	$408,000	-	Full transfer	2	1	1	1	-	$408,000	9	-	Allhomes Record	101	-	-	-	-	-
+2018	542489		08/10/2018	-	19/08/2016	$400,000	-	Full transfer	2	1	-	-	-	$400,000	780	-	Allhomes Record	-	-	-	-	-	-
+2018	541137	            22/30 Bon Scott Crescent	21/08/2018	-	21/08/2017	$400,000	4725m	Full transfer	2	1	1	-	2	$400,000	365	-	Allhomes Record	86	-	-	-	$3,200,000	8.0
+2018	542022	            1/29 Jimmy Little Street	02/09/2018	-	06/06/2018	$399,000	0m	Full transfer	2	1	-	0	-	$399,000	88	-	Allhomes Record	-	-	-	-	-	-
+2018	530300	17 Malton View	08/02/2018	11/04/2018	20/12/2017	$385,000	488m	Full transfer	0	0	-	0	0	$385,000	50	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.81
+2018	536288	2 Bliss Terrace	13/03/2018	26/06/2018	31/01/2018	$380,000	420m	Full transfer	-	-	-	-	-	$380,000	41	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.74
+2018	535759	94 O'Keefe Avenue	15/03/2018	20/06/2018	01/03/2018	$375,000	499m	Full transfer	-	-	-	-	-	$375,000	14	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.83
+2018	511445		01/02/2018	-	28/11/2017	$374,000	-	Full transfer	2	2	-	1	-	$374,000	65	-	Allhomes Record	125	-	-	-	-	-
+2018	511443		02/02/2018	-	26/10/2017	$374,000	-	Full transfer	2	2	0	1	-	$374,000	99	-	Allhomes Record	134	-	-	-	-	-
+2018	536124	16 Silvabelles Street	09/03/2018	18/06/2018	01/03/2018	$355,000	441m	Full transfer	-	-	-	-	-	$355,000	8	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.83
+2018	529188	15 Dengate Crescent	05/02/2018	29/03/2018	13/11/2017	$352,000	540m	Full transfer	3	1	1	2	-	$352,000	84	-	Combined Record	120	-	-	Single residential dwelling	$320,000	0.91
+2018	535927	18 Silvabelles Street	06/03/2018	24/06/2018	01/03/2018	$350,000	415m	Full transfer	-	-	-	-	-	$350,000	5	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.81
+2018	542260	72 Slim Dusty Circuit	06/07/2018	18/09/2018	-	$329,000	576m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528526	8 Toppano Street	11/01/2018	23/03/2018	-	$325,000	457m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529132	11 Lester Terrace	24/01/2018	28/03/2018	-	$320,000	439m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542779	            17 Bandstand Street	02/08/2018	27/09/2018	-	$315,000	405m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	548417	35 Lester Terrace	23/08/2018	08/11/2018	-	$310,000	497m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	534931	            13 Lumsdaine Street	16/04/2018	17/06/2018	-	$300,000	420m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532264	27 Slim Dusty Circuit	07/03/2018	08/05/2018	-	$300,000	459m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	540831	51 Jorgensen Street	24/05/2018	29/08/2018	-	$296,000	668m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	550564	51 Jorgensen Street	05/09/2018	29/10/2018	-	$296,000	668m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	532273	40 Toppano Street	13/04/2018	07/05/2018	-	$280,000	534m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549876	135 Bernard Heinze Avenue	13/07/2018	20/12/2018	-	$245,000	250m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541213	            19 Bandstand Street	13/03/2018	05/09/2018	-	$242,000	405m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	549169	139 Bernard Heinze Avenue	04/04/2018	24/12/2018	-	$239,450	188m	Full transfer	-	-	-	-	-	$239,450	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546722	121 Bernard Heinze Avenue	21/08/2018	02/01/2019	-	$233,000	180m	Full transfer	-	-	-	-	-	$233,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547621	10 Helmrich Street	21/09/2018	29/11/2018	-	$0	469m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	529684	38 Gussey Street	19/12/2018	08/04/2018	-	$0	390m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528624	12 Dival Street	11/01/2018	25/03/2018	09/11/2017	$0	559m	Full transfer	4	2	1	2	0	$0	63	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.81
+2018	530144	6 Gaston Way	20/02/2018	13/04/2018	-	$0	666m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542402	5 Silvabelles Street	24/07/2018	17/09/2018	-	$0	375m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542778	            59 Bellhouse Crescent	07/06/2018	27/09/2018	-	$0	8251m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547335	94 O'Keefe Avenue	27/09/2018	23/11/2018	04/07/2018	$0	499m	Full transfer	5	2	2	2	-	$0	85	-	Combined Record	340	-	-	Single residential dwelling	$310,000	0.81
+2018	540649	            16 Warup Street	18/06/2018	21/08/2018	-	$0	485m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	543688	10 Harold Blair Crescent	17/08/2018	12/10/2018	27/03/2018	$0	565m	Full transfer	4	3	-	2	-	$0	143	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.81
+2018	511362	5 Ruby Hunter Rise	31/01/2018	-	31/01/2018	-	0m	Full transfer	4	3	-	2	-	-	-	-	Allhomes Record	-	-	-	-	$303,000	-
+2019	568958	30 Slim Dusty Circuit	14/08/2019	05/09/2019	07/05/2019	$1,010,000	510m	Full transfer	4	2	-	6	0	$1,010,000	99	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.31
+2019	571463	16 Slim Dusty Circuit	31/10/2019	-	13/06/2019	$970,000	0m	Full transfer	4	3	-	2	-	$970,000	140	-	Allhomes Record	-	-	-	-	$353,000	0.36
+2019	571881	75 Bernard Heinze Avenue	12/11/2019	-	17/07/2019	$960,000	0m	Full transfer	4	2	-	2	0	$960,000	118	-	Allhomes Record	-	-	-	-	$346,000	0.36
+2019	565627	23 Malton View	10/05/2019	23/07/2019	-	$950,000	450m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	572144	3 Jimmy Little Street	25/06/2019	14/10/2019	31/10/2018	$950,000	498m	Full transfer	6	4	-	2	0	$950,000	237	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.33
+2019	571671	18 Silvabelles Street	07/11/2019	-	27/04/2018	$935,000	441m	Full transfer	4	3	-	2	-	$935,000	559	-	Allhomes Record	229	-	-	-	$298,000	0.32
+2019	573390	45 Mummery Terrace	21/11/2019	-	12/09/2019	$915,000	0m	Full transfer	5	3	-	0	2	$915,000	70	-	Allhomes Record	-	-	-	-	$328,000	0.36
+2019	564659	86 Slim Dusty Circuit	08/06/2019	18/07/2019	15/05/2019	$900,000	779m	Full transfer	4	3	-	3	0	$900,000	24	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.37
+2019	576744	21 Mummery Terrace	02/10/2019	10/12/2019	04/04/2019	$880,000	608m	Full transfer	4	2	-	2	0	$880,000	181	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.39
+2019	555996	7 Fretwell Street	05/04/2019	-	22/02/2019	$865,000	0m	Full transfer	4	2	-	2	-	$865,000	42	-	Allhomes Record	-	-	-	-	$338,000	0.39
+2019	571963	32 Jorgensen Street	23/04/2019	09/10/2019	-	$855,000	499m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566929	32 Jorgensen Street	26/08/2019	-	29/05/2019	$855,000	-	Full transfer	5	3	-	2	-	$855,000	89	-	Allhomes Record	213	-	-	-	$310,000	0.36
+2019	566304	6 Spouse Place	14/06/2019	29/07/2019	08/05/2019	$850,000	404m	Full transfer	4	3	-	2	0	$850,000	37	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.33
+2019	560876	34 Limb Circuit	21/03/2019	21/05/2019	28/02/2019	$826,000	486m	Full transfer	4	2	-	2	0	$826,000	21	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.38
+2019	573836	12 Myra Law Crescent	27/11/2019	-	13/09/2019	$815,000	524m	Full transfer	4	2	-	2	0	$815,000	75	-	Allhomes Record	-	-	-	-	$325,000	0.4
+2019	573708	30 Bronhill Street	11/09/2019	05/11/2019	08/04/2019	$815,000	542m	Full transfer	4	2	-	2	0	$815,000	156	-	Combined Record	-	-	-	Single residential dwelling	$320,000	0.39
+2019	575970	6 Dival Street	27/08/2019	07/12/2019	29/05/2019	$810,000	483m	Full transfer	5	2	-	2	0	$810,000	90	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.38
+2019	560453	12 Fretwell Street	07/03/2019	28/05/2019	23/08/2018	$805,000	519m	Full transfer	4	2	-	2	0	$805,000	196	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.39
+2019	558665	36 Bellhouse Crescent	05/02/2019	10/05/2019	17/10/2018	$800,000	488m	Full transfer	4	2	-	2	0	$800,000	111	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.39
+2019	574827	3 Helmrich Street	17/09/2019	15/11/2019	08/07/2019	$790,000	540m	Full transfer	5	3	-	2	0	$790,000	71	-	Combined Record	-	-	-	Single residential dwelling	$337,000	0.43
+2019	575420	27 Ruby Hunter Rise	27/09/2019	26/11/2019	21/08/2019	$788,000	450m	Full transfer	4	2	-	2	-	$788,000	37	-	Combined Record	195	-	-	Single residential dwelling	$305,000	0.39
+2019	562364	36 Slim Dusty Circuit	02/05/2019	06/06/2019	13/03/2019	$780,000	511m	Full transfer	4	2	-	2	-	$780,000	50	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.4
+2019	565102	11 Pogson Street	13/06/2019	08/07/2019	28/03/2019	$770,000	450m	Full transfer	4	2	-	2	0	$770,000	77	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.38
+2019	568162	4 Dulcie Holland Crescent	19/07/2019	28/08/2019	21/05/2019	$765,000	453m	Full transfer	4	2	-	2	-	$765,000	59	-	Combined Record	177	-	-	Single residential dwelling	$300,000	0.39
+2019	561555	34 Tycho Street	16/01/2019	22/02/2019	31/10/2018	$765,000	405m	Full transfer	4	2	-	2	0	$765,000	77	-	Combined Record	-	-	-	Single residential dwelling	$280,000	0.37
+2019	565848	22 Helmrich Street	29/05/2019	23/07/2019	01/05/2019	$762,000	477m	Full transfer	4	2	-	2	-	$762,000	28	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.4
+2019	575880	            13 Lumsdaine Street	12/10/2019	07/12/2019	-	$760,000	420m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	577086	76 Slim Dusty Circuit	05/11/2019	16/12/2019	12/12/2019	$760,000	663m	Full transfer	4	2	-	-	1	$760,000	-	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.45
+2019	563441	8 Slim Dusty Circuit	11/04/2019	26/06/2019	20/02/2019	$750,000	733m	Full transfer	4	2	-	2	0	$750,000	50	-	Combined Record	-	-	-	Single residential dwelling	$335,000	0.45
+2019	569854	75 O'Keefe Avenue	05/08/2019	19/09/2019	-	$750,000	490m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564223	            9 Myra Law Crescent	21/05/2019	02/07/2019	-	$747,500	418m	Full transfer	-	-	-	-	-	$747,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	553789	16 Yamma Way	25/02/2019	-	18/04/2016	$739,000	457m	Full transfer	4	2	-	2	-	$739,000	1043	-	Allhomes Record	191	-	-	-	$303,000	0.41
+2019	574606	6 Pikler Rise	27/09/2019	21/11/2019	17/01/2019	$737,500	419m	Full transfer	4	2	-	2	0	$737,500	253	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.39
+2019	572620	18 Toppano Street	22/08/2019	25/10/2019	03/05/2019	$730,000	445m	Full transfer	4	4	-	2	-	$730,000	111	-	Combined Record	240	-	-	Single residential dwelling	$295,000	0.4
+2019	575398	29 Ruby Hunter Rise	10/10/2019	25/11/2019	02/04/2019	$730,000	430m	Full transfer	4	2	-	2	-	$730,000	191	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.41
+2019	570008	31 Ruby Hunter Rise	20/08/2019	20/09/2019	02/04/2019	$730,000	454m	Full transfer	4	2	-	2	-	$730,000	140	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.42
+2019	565020	13 Ruby Hunter Rise	08/05/2019	08/07/2019	02/08/2018	$720,000	443m	Full transfer	4	2	-	2	0	$720,000	279	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.41
+2019	568928	35 Jorgensen Street	23/07/2019	05/09/2019	14/05/2019	$720,000	412m	Full transfer	4	2	-	2	0	$720,000	70	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.39
+2019	560527	109 Slim Dusty Circuit	16/04/2019	14/05/2019	22/11/2018	$718,000	528m	Full transfer	4	3	-	2	0	$718,000	145	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.44
+2019	575469	7 Malton View	14/12/2019	-	20/11/2019	$710,000	451m	Full transfer	3	2	-	2	0	$710,000	24	-	Allhomes Record	-	-	-	-	$307,000	0.43
+2019	565426	13 Crackajack Way	20/06/2019	23/07/2019	14/02/2019	$710,000	455m	Full transfer	4	2	-	0	0	$710,000	126	-	Combined Record	-	-	-	Single residential dwelling	$303,000	0.43
+2019	563272	43 Bronhill Street	10/05/2019	24/06/2019	21/03/2019	$705,000	669m	Full transfer	4	2	-	2	0	$705,000	50	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.46
+2019	546418	9 Limb Circuit	01/01/2019	-	30/08/2015	$700,000	410m	Full transfer	4	1	1	2	-	$700,000	1220	-	Allhomes Record	202	-	-	-	$283,000	0.4
+2019	565667	33 Tycho Street	13/05/2019	24/07/2019	05/02/2019	$680,000	433m	Full transfer	4	2	-	2	0	$680,000	97	-	Combined Record	-	-	-	Single residential dwelling	$290,000	0.43
+2019	572000	3 Pogson Street	24/08/2019	09/10/2019	31/01/2019	$675,000	450m	Full transfer	4	2	-	2	-	$675,000	205	-	Combined Record	168	-	-	Single residential dwelling	$297,500	0.44
+2019	573195	18 Mendoza Street	02/10/2019	28/10/2019	21/08/2018	$672,500	375m	Full transfer	3	1	1	2	-	$672,500	407	-	Combined Record	149	-	-	Single residential dwelling	$276,000	0.41
+2019	558455	94 Bernard Heinze Avenue	07/03/2019	03/05/2019	-	$642,000	467m	Full transfer	-	-	-	-	-	$642,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	554647	            94 Bernard Heinze Ave	07/03/2019	-	21/11/2018	$642,000	-	Full transfer	4	3	-	2	-	$642,000	106	-	Allhomes Record	170	-	-	-	$305,000	0.48
+2019	567334	16 Dargin Crescent	19/07/2019	13/08/2019	-	$630,000	240m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565402	            3 Bandstand Street	14/01/2019	26/07/2019	-	$603,000	250m	Full transfer	-	-	-	-	-	$603,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574362	42 Dargin Crescent	13/08/2019	15/11/2019	05/07/2018	$590,000	355m	Full transfer	4	2	-	2	0	$590,000	404	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.45
+2019	574072	44 Limb Circuit	04/12/2019	-	06/09/2019	$585,000	250m	Full transfer	4	2	-	2	0	$585,000	89	-	Allhomes Record	-	-	-	-	$222,000	0.38
+2019	552636	            5/75 Bellhouse Crescent	14/02/2019	-	15/11/2018	$572,950	0m	Full transfer	4	2	-	2	0	$572,950	91	-	Allhomes Record	-	-	-	-	-	-
+2019	566538	89 Limb Circuit	04/07/2019	09/08/2019	-	$572,500	299m	Full transfer	-	-	-	-	-	$572,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	565059	62 Limb Circuit	30/05/2019	09/07/2019	-	$554,900	187m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567337	52 Limb Circuit	03/07/2019	13/08/2019	-	$554,900	193m	Full transfer	-	-	-	-	-	$554,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567707	60 Bronhill Street	29/07/2019	22/08/2019	-	$550,000	153m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	546622	            34/1 Bon Scott Crescent	30/01/2019	-	13/12/2018	$550,000	0m	Full transfer	3	2	-	2	-	$550,000	48	-	Allhomes Record	-	-	-	-	-	-
+2019	562141	26 Helmrich Street	01/05/2019	06/06/2019	14/03/2019	$542,500	213m	Full transfer	4	3	-	1	0	$542,500	48	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.37
+2019	565148	60 Limb Circuit	05/04/2019	09/07/2019	-	$540,615	153m	Full transfer	-	-	-	-	-	$540,615	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	567524	54 Limb Circuit	26/06/2019	23/08/2019	-	$539,900	153m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569004	56 Limb Circuit	24/07/2019	04/09/2019	-	$539,900	153m	Full transfer	-	-	-	-	-	$539,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564057	58 Limb Circuit	18/02/2019	05/07/2019	-	$529,900	153m	Full transfer	-	-	-	-	-	$529,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558074	            36 Bernard Heinze Avenue	13/05/2019	-	14/03/2019	$520,000	0m	Full transfer	3	2	-	2	-	$520,000	60	-	Allhomes Record	-	-	-	-	-	-
+2019	554448	18 Shearston Street	17/01/2019	04/03/2019	-	$515,000	227m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571524	11/22 Dulcie Holland Crescent	04/11/2019	-	18/06/2019	$512,000	0m	Full transfer	4	3	-	1	0	$512,000	139	-	Allhomes Record	-	-	-	-	-	-
+2019	554386	            3/22 Dulcie Holland Crescent	08/03/2019	-	05/10/2018	$512,000	6861m	Full transfer	4	3	-	2	-	$512,000	154	-	Allhomes Record	-	-	-	-	$4,320,000	8.44
+2019	554754	            1 Bon Scott Crescent	18/03/2019	-	29/11/2018	$510,000	0m	Full transfer	3	2	-	2	0	$510,000	109	-	Allhomes Record	-	-	-	-	-	-
+2019	562986	26/12 Dulcie Holland Crescent	05/07/2019	-	27/02/2019	$490,000	5802m	Full transfer	3	1	1	2	-	$490,000	128	-	Allhomes Record	-	-	-	-	$3,060,000	6.24
+2019	574952	8 Beulah Close	21/10/2019	22/11/2019	05/02/2019	$485,000	153m	Full transfer	3	2	-	1	-	$485,000	258	-	Combined Record	-	-	-	Single residential dwelling	$164,000	0.34
+2019	572518	31/363 Mirrabei Drive	19/11/2019	-	03/09/2019	$484,000	0m	Full transfer	3	2	-	2	0	$484,000	77	-	Allhomes Record	-	-	-	-	-	-
+2019	575190	15 Malton View	04/10/2019	27/11/2019	01/03/2019	$480,000	703m	Full transfer	-	-	-	-	-	$480,000	217	-	Combined Record	-	-	-	Single residential dwelling	$355,000	0.74
+2019	563858	85 Limb Circuit	17/05/2019	01/07/2019	21/01/2019	$480,000	240m	Full transfer	3	1	1	2	0	$480,000	116	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.45
+2019	571481	37/351 Mirrabei Drive	01/11/2019	-	02/10/2019	$480,000	-	Full transfer	3	1	1	-	2	$480,000	30	-	Allhomes Record	-	-	-	-	-	-
+2019	565223	27 Ketterer Street	10/07/2019	-	26/04/2016	$475,000	250m	Full transfer	3	2	-	2	-	$475,000	1170	-	Allhomes Record	130	-	-	-	$170,000	0.36
+2019	564662	7 Tycho Street	12/06/2019	15/07/2019	22/10/2018	$470,000	213m	Full transfer	-	-	-	-	-	$470,000	233	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.43
+2019	552693	            14/30 Bon Scott Crescent	18/02/2019	-	14/09/2017	$470,000	4725m	Full transfer	3	1	1	1	-	$470,000	522	-	Allhomes Record	-	-	-	-	$3,200,000	6.81
+2019	565222	27/351 Mirrabei Drive	01/08/2019	-	10/07/2019	$470,000	-	Full transfer	3	2	-	2	-	$470,000	22	-	Allhomes Record	96	-	-	-	-	-
+2019	546127	            9/22 Dulcie Holland Crescent	07/01/2019	-	25/10/2018	$468,000	0m	Full transfer	3	2	-	2	0	$468,000	74	-	Allhomes Record	-	-	-	-	-	-
+2019	561566	97 Limb Circuit	14/01/2019	21/02/2019	22/11/2018	$467,500	240m	Full transfer	3	1	-	0	2	$467,500	53	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.46
+2019	571737	            27/1 Hoffman Street	05/11/2019	-	28/03/2019	$463,000	0m	Full transfer	3	2	-	2	0	$463,000	222	-	Allhomes Record	-	-	-	-	-	-
+2019	565915	            41/1 Hoffman Street	12/08/2019	-	04/07/2019	$462,000	0m	Full transfer	3	2	-	2	0	$462,000	39	-	Allhomes Record	-	-	-	-	-	-
+2019	561043	15 Dargin Crescent	25/01/2019	18/04/2019	08/11/2018	$459,000	609m	Full transfer	-	-	-	-	-	$459,000	78	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.73
+2019	571779	54/36 Dulcie Holland Crescent	11/11/2019	-	25/09/2019	$455,100	12465m	Full transfer	3	2	-	2	0	$455,100	47	-	Allhomes Record	-	-	-	-	-	-
+2019	574001	21 Bandstand Street	03/12/2019	-	30/10/2019	$455,000	450m	Full transfer	4	3	-	2	0	$455,000	34	-	Allhomes Record	-	-	-	-	$302,000	0.66
+2019	564324	51/36 Dulcie Holland Crescent	23/07/2019	-	13/03/2019	$450,000	0m	Full transfer	3	2	-	2	0	$450,000	132	-	Allhomes Record	-	-	-	-	-	-
+2019	557164	            53/36 Dulcie Holland Crescent	29/04/2019	-	14/03/2019	$450,000	0m	Full transfer	3	2	-	2	0	$450,000	46	-	Allhomes Record	-	-	-	-	-	-
+2019	557064	            65/36 Dulcie Holland Crescent	17/04/2019	-	26/03/2019	$450,000	-	Full transfer	3	2	-	2	-	$450,000	22	-	Allhomes Record	94	-	-	-	$5,600,000	12.44
+2019	569557	61/36 Dulcie Holland Crescent	29/09/2019	-	07/06/2019	$449,000	138m	Full transfer	3	2	1	2	0	$449,000	114	-	Allhomes Record	-	-	-	-	-	-
+2019	577038	10/6 Bon Scott Crescent	20/12/2019	-	22/10/2019	$448,000	4363m	Full transfer	2	2	-	-	1	$448,000	59	-	Allhomes Record	-	-	-	-	-	-
+2019	576935	13 Toppano Street	17/12/2019	-	25/09/2019	$440,000	487m	Full transfer	3	2	-	2	0	$440,000	83	-	Allhomes Record	-	-	-	-	$317,000	0.72
+2019	571980	12 Yamma Way	05/09/2019	09/10/2019	-	$430,000	561m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566152	41 Ketterer Street	16/05/2019	01/08/2019	31/10/2018	$422,000	240m	Full transfer	2	1	-	1	0	$422,000	197	-	Combined Record	-	-	-	Single residential dwelling	$214,000	0.51
+2019	573410	7/1 Bon Scott Crescent	08/11/2019	-	24/10/2019	$410,000	0m	Full transfer	2	2	-	2	0	$410,000	15	-	Allhomes Record	-	-	-	-	-	-
+2019	556236	33 Ketterer Street	07/02/2019	25/03/2019	07/11/2018	$408,000	180m	Full transfer	2	1	-	1	-	$408,000	92	-	Combined Record	105	-	-	Single residential dwelling	$175,000	0.43
+2019	573978	27/30 Bon Scott Crescent	27/11/2019	-	17/10/2019	$405,000	0m	Full transfer	2	2	-	2	0	$405,000	41	-	Allhomes Record	-	-	-	-	-	-
+2019	567043	            17/2 Hoffmann Street	01/09/2019	-	04/07/2019	$399,950	6470m	Full transfer	2	2	-	2	-	$399,950	59	-	Allhomes Record	-	-	-	-	-	-
+2019	562044	1/12 Dulcie Holland Crescent	13/06/2019	-	11/04/2019	$390,000	0m	Full transfer	2	2	-	1	0	$390,000	63	-	Allhomes Record	-	-	-	-	-	-
+2019	555496	16 Silvabelles Street	05/02/2019	20/03/2019	-	$390,000	441m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575903	17 Malton View	31/10/2019	07/12/2019	08/07/2019	$387,000	488m	Full transfer	-	-	-	-	-	$387,000	115	-	Combined Record	-	-	-	Single residential dwelling	$317,000	0.82
+2019	576176	            38/2 Hoffmann Street	17/12/2019	-	27/11/2019	$380,000	6470m	Full transfer	2	1	-	1	-	$380,000	20	-	Allhomes Record	-	-	-	-	-	-
+2019	556546	            23/351 Mirrabei Drive	12/04/2019	-	31/01/2019	$376,000	0m	Full transfer	2	1	-	0	1	$376,000	71	-	Allhomes Record	-	-	-	-	-	-
+2019	569589	3/29 Jimmy Little Street	30/09/2019	-	09/01/2019	$370,000	12603m	Full transfer	2	1	-	0	-	$370,000	264	-	Allhomes Record	-	-	-	-	-	-
+2019	562437	24 Dargin Crescent	05/04/2019	03/06/2019	-	$366,500	240m	Full transfer	-	-	-	-	-	$366,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	562406	30 Dargin Crescent	11/04/2019	03/06/2019	-	$365,000	240m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566306	47 Jorgensen Street	29/03/2019	02/08/2019	06/03/2019	$345,000	418m	Full transfer	-	-	-	-	-	$345,000	23	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.85
+2019	565657	137 Bernard Heinze Avenue	31/05/2019	24/07/2019	28/03/2019	$305,000	189m	Full transfer	3	2	-	2	-	$305,000	64	-	Combined Record	95	-	-	Single residential dwelling	$175,000	0.57
+2019	577095	35 Toppano Street	05/03/2019	20/12/2019	-	$295,000	446m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558575	90 Slim Dusty Circuit	15/03/2019	02/05/2019	28/06/2018	$0	545m	Full transfer	4	1	1	2	-	$0	260	-	Combined Record	180	-	-	Single residential dwelling	$320,000	0.57
+2019	554493	16 Yamma Way	04/02/2019	05/03/2019	-	$0	458m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	553597	40 Toppano Street	19/02/2019	-	22/11/2018	-	0m	Full transfer	4	3	-	2	0	-	89	-	Allhomes Record	-	-	-	-	$320,000	-
