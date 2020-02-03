@@ -1,0 +1,995 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	89618	10 Baracchi Crescent	02/11/2006	-	04/10/2006	$650,000	1180m	Full transfer	6	2	1	2	-	$650,000	29	-	Allhomes Record	-	-	-	-	$211,000	0.32
+2006	37316	26 Lenehan Street	14/08/2006	20/09/2006	-	$570,000	1113m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119731	20 Lenehan Street	21/09/2006	31/10/2006	23/08/2006	$567,500	1089m	Full transfer	4	1	1	2	-	$567,500	29	-	Combined Record	-	-	-	Single residential dwelling	$243,000	0.43
+2006	203608	12 Munga Place	22/06/2006	29/08/2006	02/05/2006	$510,000	896m	Full transfer	5	2	1	3	-	$510,000	51	-	Combined Record	-	-	-	Single residential dwelling	$229,000	0.45
+2006	213736	3 Kinalung Place	03/03/2006	26/05/2006	09/02/2006	$492,000	754m	Full transfer	4	2	1	4	2	$492,000	22	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.36
+2006	213844	8 Nangle Place	18/01/2006	08/03/2006	08/11/2005	$447,000	786m	Full transfer	4	1	2	2	1	$447,000	71	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.42
+2006	34739	4 Lenehan Street	26/06/2006	21/08/2006	-	$442,500	1020m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33246	6 Merfield Place	20/12/2006	28/02/2007	-	$435,000	923m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119732	18 Castor Place	25/09/2006	31/10/2006	-	$427,000	1063m	Full transfer	-	-	-	-	-	$427,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164333	3 Balanu Place	04/12/2006	13/03/2007	-	$425,000	959m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169522	37 Centaurus Street	04/10/2006	14/11/2006	-	$420,000	785m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165681	62 Baracchi Crescent	13/10/2006	22/11/2006	-	$410,000	873m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229520	94 Baracchi Crescent	14/09/2006	23/10/2006	23/08/2006	$405,000	782m	Full transfer	4	1	1	2	-	$405,000	22	-	Combined Record	-	-	-	Single residential dwelling	$197,000	0.49
+2006	169521	30 Chuculba Crescent	04/10/2006	13/11/2006	07/09/2006	$405,000	906m	Full transfer	3	1	-	1	-	$405,000	27	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.44
+2006	203056	2 Bindiri Place	30/11/2006	05/01/2007	04/10/2006	$402,000	769m	Full transfer	3	1	-	1	-	$402,000	57	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.44
+2006	165237	35 Baracchi Crescent	06/11/2006	16/02/2007	12/10/2006	$401,000	1137m	Full transfer	3	1	-	-	2	$401,000	25	-	Combined Record	-	-	-	Single residential dwelling	$211,000	0.53
+2006	164863	63 Smalley Circuit	19/07/2006	09/10/2006	-	$400,000	651m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165460	10 Nangle Place	06/12/2006	31/01/2007	-	$400,000	815m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	36128	23 Lenehan Street	28/09/2006	04/07/2007	29/08/2006	$395,000	722m	Full transfer	3	1	1	-	1	$395,000	30	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.47
+2006	213843	62 Antares Crescent	09/02/2006	30/03/2006	09/12/2005	$395,000	746m	Full transfer	3	1	1	1	-	$395,000	62	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.45
+2006	34736	14 Canopus Crescent	26/07/2006	21/08/2006	10/02/2006	$394,500	808m	Full transfer	4	2	-	1	1	$394,500	166	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.45
+2006	32133	16 Centaurus Street	03/11/2006	21/12/2006	-	$393,500	787m	Full transfer	-	-	-	-	-	$393,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168684	30 Centaurus Street	22/08/2006	04/10/2006	-	$383,000	848m	Full transfer	-	-	-	-	-	$383,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165683	16 Baracchi Crescent	25/08/2006	20/11/2006	-	$381,000	1072m	Full transfer	-	-	-	-	-	$381,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213799	4 Kurria Place	14/03/2006	20/04/2006	25/01/2006	$379,950	890m	Full transfer	3	1	1	-	1	$379,950	48	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.47
+2006	213914	2/29 Smalley Circuit	31/03/2006	11/05/2006	-	$372,000	7804m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	33150	111 Chuculba Crescent	30/10/2006	06/12/2006	-	$371,000	842m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	119622	4 Mooyi Place	22/09/2006	01/11/2006	-	$371,000	825m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165188	4 Bindiri Place	21/12/2006	13/02/2007	06/11/2006	$362,500	677m	Full transfer	3	1	-	1	-	$362,500	45	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.54
+2006	164862	4 Mana Place	04/09/2006	10/10/2006	-	$359,990	806m	Full transfer	-	-	-	-	-	$359,990	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165685	159 Chuculba Crescent	10/10/2006	23/11/2006	-	$359,950	820m	Full transfer	-	-	-	-	-	$359,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169519	7 Munga Place	29/09/2006	14/11/2006	-	$355,000	971m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213909	14 Smalley Circuit	13/04/2006	25/05/2006	18/03/2006	$350,000	875m	Full transfer	3	1	-	1	-	$350,000	26	-	Combined Record	-	-	-	Single residential dwelling	$181,000	0.52
+2006	203100	49 Mirrabucca Crescent	11/11/2006	05/01/2007	-	$350,000	914m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169520	6 Yalgan Place	05/10/2006	14/11/2006	08/09/2006	$346,000	1082m	Full transfer	3	1	-	2	-	$346,000	27	-	Combined Record	-	-	-	Single residential dwelling	$177,000	0.51
+2006	213764	2/22 Chuculba Crescent	11/05/2006	03/07/2006	-	$345,000	854m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168241	13 Balamara Street	16/05/2006	08/08/2006	24/02/2006	$340,500	720m	Full transfer	4	1	-	-	1	$340,500	81	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.52
+2006	164507	14 Centaurus Street	08/06/2006	13/07/2007	-	$340,000	709m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213731	26 Mirrabucca Crescent	07/06/2006	18/07/2006	-	$328,000	893m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169430	5 Galan Place	18/12/2006	20/02/2007	11/08/2006	$325,000	843m	Full transfer	3	1	-	-	1	$325,000	129	-	Combined Record	-	-	-	Single residential dwelling	$159,000	0.49
+2006	213855	116 Chuculba Crescent	18/06/2006	30/06/2006	-	$325,000	895m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169290	93 Chuculba Crescent	21/04/2006	22/02/2007	08/02/2006	$320,000	984m	Full transfer	4	1	-	-	1	$320,000	72	-	Combined Record	-	-	-	Single residential dwelling...	$178,000	0.56
+2006	34472	21 Lenehan Street	18/07/2006	28/09/2006	-	$320,000	706m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34737	17 Fornax Street	30/06/2006	22/08/2006	-	$320,000	741m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213798	2 Kurria Place	11/01/2006	22/02/2006	-	$320,000	902m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213800	4 Fornax Street	06/04/2006	15/06/2006	21/02/2006	$315,000	760m	Full transfer	3	1	-	2	-	$315,000	44	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.57
+2006	213733	6 Phoenix Place	07/02/2006	06/07/2006	-	$312,000	745m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164159	13 Lubuma Place	22/07/2006	17/08/2006	30/06/2006	$310,000	879m	Full transfer	3	1	-	2	-	$310,000	22	-	Combined Record	-	-	-	Single residential dwelling	$46,500	0.15
+2006	203022	3 Alinda Place	30/11/2006	05/01/2007	04/10/2006	$310,000	755m	Full transfer	3	1	-	2	-	$310,000	57	-	Combined Record	-	-	-	Single residential dwelling	$187,000	0.6
+2006	213807	27 Fornax Street	06/03/2006	10/04/2006	03/01/2006	$310,000	850m	Full transfer	3	1	-	-	1	$310,000	62	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.57
+2006	213730	24 Mirrabucca Crescent	19/12/2006	08/02/2006	-	$307,500	835m	Full transfer	-	-	-	-	-	$307,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213540	32 Centaurus Street	24/03/2006	03/05/2006	02/03/2006	$307,000	909m	Full transfer	3	1	-	2	-	$307,000	22	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.58
+2006	190	            2/5 Neworra Place	20/09/2006	04/12/2006	-	$300,000	10653m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213863	41 Spica Street	27/04/2006	26/06/2006	-	$300,000	827m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169733	7 Balamara Street	06/11/2006	12/12/2006	-	$297,500	733m	Full transfer	-	-	-	-	-	$297,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213745	11 Chuculba Crescent	13/03/2006	11/05/2006	11/01/2006	$292,600	848m	Full transfer	3	1	-	2	-	$292,600	61	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.61
+2006	213750	1/4 Gidjili Place	07/03/2006	11/04/2006	-	$286,000	1040m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168683	36 Chuculba Crescent	28/08/2006	05/10/2006	-	$285,000	959m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	213854	1 Derrilin Place	24/02/2006	16/03/2006	-	$270,000	943m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213869	5 Buned Place	25/01/2006	23/02/2006	-	$266,000	775m	Full transfer	-	-	-	-	-	$266,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	17498	            21/51 Kootingal Street	26/09/2006	23/10/2006	-	$260,000	11559m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	87213	39 Kootingal Street	26/09/2006	-	25/08/2006	$260,000	401m	Full transfer	2	1	-	1	-	$260,000	32	-	Allhomes Record	-	-	-	-	$2,039,000	7.84
+2006	86133	14 Warring Place	18/12/2006	-	10/08/2006	$248,000	-	Full transfer	2	1	-	1	-	$248,000	130	-	Allhomes Record	-	-	-	-	$2,039,000	8.22
+2006	10230	            20/51 Kootingal Street	18/12/2006	22/01/2007	-	$248,000	11559m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	79508	55 Canopus Crescent	06/07/2006	-	17/04/2006	$216,000	365m	Full transfer	1	1	-	1	-	$216,000	80	-	Allhomes Record	-	-	-	-	$1,964,000	9.09
+2006	13409	            15/5 Neworra Place	03/08/2006	29/08/2006	-	$216,000	10653m	Full transfer	-	-	-	-	-	$216,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	13408	            25/51 Kootingal Street	01/07/2006	28/08/2006	-	$125,000	11559m	Partial transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34025	80 Antares Crescent	13/12/2006	19/12/2006	-	$105,000	876m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	33444	53 Smalley Circuit	13/09/2006	02/03/2007	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2006	167947	15 Canopus Crescent	28/08/2006	18/09/2007	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	239764	6 Rigel Place	02/02/2006	30/09/2008	-	-	1065m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213755	50 Baracchi Crescent	02/03/2006	31/03/2006	-	-	838m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	4136	             Neworra Place	20/09/2006	-	23/08/2006	-	-	Full transfer	3	1	-	1	-	-	28	-	Allhomes Record	-	-	-	-	-	-
+2006	3712	            4 Mooyi Street	22/09/2006	-	01/08/2006	-	825m	Full transfer	4	1	1	2	-	-	52	-	Allhomes Record	-	-	-	-	-	-
+2006	34119	10 Alphard Place	11/10/2006	28/11/2006	-	-	791m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34235	9 Spigl Street	17/07/2006	01/12/2006	-	-	815m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229560	6 Yalgan Place	24/10/2006	24/10/2006	-	-	1082m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165682	64 Baracchi Crescent	08/06/2006	22/11/2006	-	-	1199m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213754	6 Chuculba Crescent	18/01/2006	29/05/2006	-	-	1024m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213891	14 Maraar Place	18/04/2006	27/06/2006	-	-	960m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	213734	7 Phoenix Place	12/04/2006	08/05/2006	-	-	702m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	165684	39 Spica Street	12/09/2006	21/11/2006	-	-	936m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34740	1/200 Baldwin Drive	14/06/2006	22/08/2006	-	-	8787m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	213839	4 Tanda Place	21/03/2006	12/07/2006	-	-	770m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	237063	10 Lubuma Place	13/12/2006	08/01/2009	-	-	685m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	25193	3 Sculptor Street	23/11/2007	-	25/10/2007	$580,000	968m	Full transfer	3	1	1	1	-	$580,000	29	-	Allhomes Record	-	-	-	-	$252,000	0.43
+2007	120794	13 Achernar Close	28/03/2007	16/05/2007	18/01/2007	$570,000	1073m	Full transfer	4	2	-	2	2	$570,000	69	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.36
+2007	166025	7 Merfield Place	22/06/2007	25/07/2007	20/04/2007	$556,000	918m	Full transfer	4	2	1	2	-	$556,000	63	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.37
+2007	120711	2 Dudi Place	05/04/2007	18/05/2007	-	$520,000	1197m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167352	53 Smalley Circuit	27/03/2007	07/05/2007	-	$505,000	913m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	167839	6 Mirrabucca Crescent	01/06/2007	18/09/2007	09/03/2007	$500,000	897m	Full transfer	4	1	1	2	-	$500,000	84	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.39
+2007	232622	101 Chuculba Crescent	11/10/2007	29/11/2007	-	$480,000	1072m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121077	3 Warrambool Close	04/08/2007	14/09/2007	11/07/2007	$475,000	740m	Full transfer	4	1	1	-	-	$475,000	24	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.45
+2007	230863	4 Mana Place	01/09/2007	04/12/2007	08/08/2007	$472,000	806m	Full transfer	4	1	-	1	-	$472,000	24	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.41
+2007	32431	158 Chuculba Crescent	01/02/2007	29/03/2007	06/12/2006	$469,000	1018m	Full transfer	4	2	-	2	-	$469,000	57	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.42
+2007	121305	104 Baracchi Crescent	13/07/2007	13/09/2007	21/06/2007	$455,500	993m	Full transfer	3	1	-	2	-	$455,500	22	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.45
+2007	35132	3 Lupus Place	16/03/2007	04/06/2007	24/01/2007	$455,000	642m	Full transfer	4	1	1	2	-	$455,000	51	-	Combined Record	-	-	-	Single residential dwelling	$216,000	0.47
+2007	168070	149 Chuculba Crescent	12/09/2007	17/10/2007	-	$450,000	802m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167452	9 Altair Place	20/07/2007	09/09/2007	21/06/2007	$442,000	742m	Full transfer	4	2	-	2	-	$442,000	29	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.44
+2007	99732	2 Galan Place	04/04/2007	-	14/03/2007	$437,500	735m	Full transfer	5	1	1	2	-	$437,500	21	-	Allhomes Record	-	-	-	-	$178,000	0.41
+2007	164766	35 Centaurus Street	04/04/2007	10/07/2007	-	$437,500	735m	Full transfer	-	-	-	-	-	$437,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	353491	26 Chuculba Crescent	15/10/2007	13/01/2012	-	$430,000	785m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	231344	1 Wayal Place	24/10/2007	27/11/2007	18/09/2007	$428,000	1010m	Full transfer	4	1	1	2	-	$428,000	36	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.48
+2007	235080	83 Canopus Crescent	13/09/2007	07/02/2008	29/08/2007	$426,000	858m	Full transfer	4	1	1	-	2	$426,000	15	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.43
+2007	230964	7 Mirrabucca Crescent	20/10/2007	02/12/2007	26/09/2007	$425,000	931m	Full transfer	3	1	-	2	-	$425,000	24	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.46
+2007	230784	3 Spica Street	19/11/2007	04/01/2008	01/11/2007	$425,000	801m	Full transfer	3	1	-	2	2	$425,000	18	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.44
+2007	120694	58 Chuculba Crescent	24/03/2007	16/05/2007	28/02/2007	$421,500	1023m	Full transfer	3	1	1	-	1	$421,500	24	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.49
+2007	33829	156 Chuculba Crescent	17/04/2007	25/05/2007	02/03/2007	$415,000	1016m	Full transfer	4	1	1	4	-	$415,000	46	-	Combined Record	-	-	-	Single residential dwelling	$196,000	0.47
+2007	166911	71 Antares Crescent	03/07/2007	10/08/2007	-	$415,000	1013m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235079	6 Spica Street	21/12/2007	05/02/2008	29/11/2007	$413,000	707m	Full transfer	3	1	-	-	2	$413,000	22	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.45
+2007	236662	8 Nakala Place	19/10/2007	17/04/2008	19/09/2007	$410,000	903m	Full transfer	3	1	-	-	2	$410,000	30	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.48
+2007	36214	7 Mooyi Place	22/05/2007	06/07/2007	03/05/2007	$408,000	841m	Full transfer	3	1	-	4	1	$408,000	19	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.48
+2007	167740	11 Nakala Place	21/08/2007	03/10/2007	23/02/2007	$405,000	1033m	Full transfer	3	1	-	2	-	$405,000	179	-	Combined Record	-	-	-	Single residential dwelling...	$205,000	0.51
+2007	235077	84 Chuculba Crescent	15/12/2007	07/02/2008	22/11/2007	$400,000	701m	Full transfer	3	1	-	-	2	$400,000	23	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.49
+2007	120361	20 Castor Place	16/03/2007	15/05/2007	-	$399,950	978m	Full transfer	-	-	-	-	-	$399,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232233	4 Octans Close	10/01/2007	12/03/2008	-	$395,000	973m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164656	6 Gidjili Place	30/03/2007	13/07/2007	08/03/2007	$394,000	863m	Full transfer	3	1	-	-	3	$394,000	22	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.49
+2007	167755	50 Smalley Circuit	18/08/2007	04/10/2007	-	$390,000	845m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202797	1 Wanaga Place	16/08/2007	08/10/2007	-	$388,000	774m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32673	7 Bindiri Place	19/02/2007	29/03/2007	28/11/2006	$388,000	964m	Full transfer	3	2	-	2	-	$388,000	83	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.5
+2007	121529	5 Lenehan Street	18/07/2007	30/08/2007	-	$388,000	773m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166617	6 Centaurus Street	27/06/2007	06/08/2007	25/05/2007	$385,000	706m	Full transfer	3	1	1	2	-	$385,000	33	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.51
+2007	203239	20 Kootingal Street	15/02/2007	31/05/2007	10/01/2007	$385,000	733m	Full transfer	4	1	-	-	1	$385,000	36	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.51
+2007	167139	5 Womba Place	01/03/2007	12/04/2007	21/02/2007	$385,000	693m	Full transfer	3	1	-	1	-	$385,000	8	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.51
+2007	121124	3 Avior Place	30/07/2007	12/09/2007	11/05/2007	$375,000	800m	Full transfer	3	1	-	2	-	$375,000	80	-	Combined Record	-	-	-	Single residential dwelling	$199,000	0.53
+2007	202734	12 Kootingal Street	31/08/2007	10/10/2007	03/07/2007	$370,000	770m	Full transfer	3	1	-	1	-	$370,000	59	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.53
+2007	519	            4/29 Smalley Circuit	06/07/2007	06/07/2007	-	$365,000	7804m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35069	45 Centaurus Street	18/04/2007	06/06/2007	29/03/2007	$365,000	718m	Full transfer	3	1	-	-	1	$365,000	20	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.53
+2007	121132	64 Chuculba Crescent	08/08/2007	13/09/2007	01/06/2007	$365,000	728m	Full transfer	3	1	-	-	1	$365,000	68	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.53
+2007	230873	70 Antares Crescent	26/09/2007	02/12/2007	23/08/2007	$365,000	750m	Full transfer	3	1	-	-	1	$365,000	34	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.53
+2007	120375	106 Chuculba Crescent	12/04/2007	16/05/2007	-	$355,000	743m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120338	140 Chuculba Crescent	16/03/2007	20/04/2007	-	$353,000	846m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203260	79 Chuculba Crescent	17/04/2007	31/05/2007	-	$353,000	782m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202814	14 Antares Crescent	04/04/2007	13/06/2007	05/03/2007	$350,000	727m	Full transfer	3	1	-	1	-	$350,000	30	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.56
+2007	121412	8 Phoenix Place	25/01/2007	30/04/2007	-	$350,000	802m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232130	6 Balamara Street	17/10/2007	02/12/2007	-	$350,000	818m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	37030	26 Spica Street	19/03/2007	17/07/2007	-	$348,000	740m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235078	103 Chuculba Crescent	13/11/2007	08/02/2008	-	$345,000	1066m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	35934	29 Fornax Street	08/05/2007	04/07/2007	-	$340,000	733m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33498	76 Chuculba Crescent	23/03/2007	22/05/2007	-	$335,000	732m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166536	6 Mooyi Place	11/07/2007	23/08/2007	-	$330,000	847m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167234	1/7A Malindi Place	12/02/2007	12/04/2007	-	$326,000	945m	Full transfer	-	-	-	-	-	$326,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	90243	7 Malindi Place	12/02/2007	-	12/10/2006	$326,000	945m	Full transfer	3	1	-	1	-	$326,000	123	-	Allhomes Record	-	-	-	-	-	-
+2007	36497	3 Canopus Crescent	15/05/2007	06/07/2007	-	$315,000	1042m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	167639	6 Lubuma Place	24/08/2007	04/10/2007	-	$312,000	703m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2007	168791	90 Chuculba Crescent	01/02/2007	20/03/2007	-	$300,000	797m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232603	2 Nyawi Place	25/09/2007	18/11/2007	-	$300,000	992m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	33683	1 Nakala Place	02/04/2007	22/05/2007	-	$287,500	1077m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	94024	7/71 Canopus Crescent	18/01/2007	-	29/11/2006	$270,000	-	Full transfer	2	1	-	1	-	$270,000	50	-	Allhomes Record	-	-	-	-	-	-
+2007	10471	            7/5 Neworra Place	18/01/2007	22/02/2007	-	$270,000	10653m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	81	            18/5 Neworra Place	16/02/2007	28/03/2007	-	$269,500	10653m	Full transfer	-	-	-	-	-	$269,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	95953	18/75 Canopus Crescent	16/02/2007	-	17/01/2007	$269,250	-	Full transfer	2	1	-	1	-	$269,250	30	-	Allhomes Record	-	-	-	-	-	-
+2007	121500	67 Smalley Circuit	16/07/2007	30/08/2007	-	$260,000	973m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	10262	            16/51 Kootingal Street	25/01/2007	08/03/2007	-	$243,000	11559m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36883	24 Chuculba Crescent	16/03/2007	17/07/2007	-	$220,000	806m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121043	16 Maraar Place	13/08/2007	12/09/2007	-	$210,000	994m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	203231	68 Baracchi Crescent	15/03/2007	30/05/2007	-	$110,000	851m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	105997	1 Wanaga Place	31/08/2007	-	12/07/2007	$38,800	774m	Full transfer	3	1	-	1	-	$38,800	50	-	Allhomes Record	-	-	-	-	$185,000	4.77
+2007	166146	53 Smalley Circuit	05/07/2007	25/07/2007	-	$36,800	913m	Full transfer	-	-	-	-	-	$36,800	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	121624	4 Phoenix Place	07/06/2007	28/08/2007	-	$0	695m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232381	8 Nakala Place	22/06/2007	11/12/2007	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164430	3 Warrambool Close	12/02/2007	13/03/2007	-	$0	740m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166728	3 Tucana Street	18/06/2007	02/08/2007	-	$0	788m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	167709	44 Chuculba Crescent	04/07/2007	02/10/2007	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33372	53 Smalley Circuit	22/02/2007	02/03/2007	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	203241	12 Canopus Crescent	21/02/2007	29/05/2007	-	$0	806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230123	1 Lenehan Street	03/12/2007	30/01/2008	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	244167	5 Dawar Place	23/12/2007	09/06/2009	-	-	935m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	229719	24 Sculptor Street	17/12/2007	29/07/2008	-	-	738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230466	29 Capella Crescent	27/12/2007	13/08/2008	-	-	655m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230322	160 Chuculba Crescent	19/05/2007	05/08/2008	-	-	1011m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21912	            149 Chuculba Street	12/09/2007	-	14/08/2007	-	801m	Full transfer	3	2	-	2	-	-	29	-	Allhomes Record	-	-	-	-	-	-
+2008	240888	46 Baracchi Crescent	21/11/2008	17/12/2008	17/07/2008	$645,000	910m	Full transfer	4	1	1	2	-	$645,000	127	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.4
+2008	233755	4 Avior Place	28/03/2008	04/07/2008	-	$605,000	905m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233631	167 Chuculba Crescent	20/03/2008	29/04/2008	-	$550,000	870m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237325	12 Ankaa Place	16/07/2008	22/08/2008	23/05/2008	$493,000	1053m	Full transfer	4	2	1	-	2	$493,000	54	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.47
+2008	237159	13 Kootingal Street	29/08/2008	11/12/2008	11/03/2008	$490,000	826m	Full transfer	5	2	-	2	-	$490,000	171	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.47
+2008	238670	20 Buriga Street	19/10/2008	24/04/2009	-	$490,000	812m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234140	7 Birubi Place	07/03/2008	13/06/2008	11/02/2008	$488,000	837m	Full transfer	4	1	1	-	2	$488,000	25	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.47
+2008	234278	1 Avior Place	16/01/2008	06/05/2008	-	$480,000	917m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239961	10 Nakala Place	12/09/2008	15/10/2008	14/08/2008	$431,000	1214m	Full transfer	3	1	-	2	2	$431,000	29	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.56
+2008	237324	27 Fornax Street	01/03/2008	20/08/2008	07/02/2008	$430,000	850m	Full transfer	3	1	-	-	2	$430,000	23	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.53
+2008	240073	97 Baracchi Crescent	03/09/2008	23/10/2008	27/08/2008	$429,000	866m	Full transfer	3	1	-	-	2	$429,000	7	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.56
+2008	240671	7 Birubi Place	17/09/2008	01/12/2008	29/08/2008	$429,000	837m	Full transfer	4	1	1	-	2	$429,000	19	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.54
+2008	239763	14 Womba Place	12/08/2008	29/09/2008	-	$428,500	883m	Full transfer	-	-	-	-	-	$428,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	154661	105 Chuculba Crescent	06/03/2008	10/04/2008	17/01/2008	$420,000	826m	Full transfer	4	1	1	2	-	$420,000	49	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.55
+2008	236231	47 Baracchi Crescent	24/04/2008	20/05/2008	14/02/2008	$415,000	1110m	Full transfer	3	1	-	2	-	$415,000	70	-	Combined Record	-	-	-	Single residential dwelling	$238,000	0.57
+2008	239262	3 Chuculba Crescent	14/10/2008	10/11/2008	05/08/2008	$415,000	1706m	Full transfer	3	1	-	1	-	$415,000	70	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.58
+2008	234280	42 Smalley Circuit	08/04/2008	08/05/2008	13/03/2008	$411,000	707m	Full transfer	3	1	-	2	-	$411,000	26	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.57
+2008	243439	28 Kootingal Street	21/11/2008	23/03/2009	23/09/2008	$408,000	885m	Full transfer	4	1	-	2	-	$408,000	59	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.56
+2008	238057	2 Maraar Place	03/07/2008	11/09/2008	-	$407,000	878m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234279	40 Smalley Circuit	30/01/2008	06/05/2008	-	$405,750	760m	Full transfer	-	-	-	-	-	$405,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	154170	6 Wayal Place	27/02/2008	08/04/2008	31/03/2008	$405,000	731m	Full transfer	3	1	0	2	0	$405,000	-	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.57
+2008	230616	11 Ankaa Place	05/03/2008	21/04/2008	15/02/2008	$401,000	834m	Full transfer	3	1	-	-	-	$401,000	19	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.54
+2008	230464	45 Centaurus Street	18/07/2008	15/08/2008	05/06/2008	$395,000	718m	Full transfer	3	1	-	-	1	$395,000	43	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.58
+2008	230641	14 Kootingal Street	08/02/2008	16/04/2008	01/02/2008	$395,000	775m	Full transfer	3	1	-	2	-	$395,000	7	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.58
+2008	229720	12 Maraar Place	28/04/2008	30/07/2008	09/04/2008	$392,000	917m	Full transfer	3	1	-	4	-	$392,000	19	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.56
+2008	24243	4 Alphard Place	07/05/2008	-	09/04/2008	$390,000	925m	Full transfer	3	1	-	-	-	$390,000	28	-	Allhomes Record	-	-	-	-	$230,000	0.59
+2008	239384	30 Centaurus Street	11/09/2008	19/11/2008	12/08/2008	$387,000	848m	Full transfer	3	1	0	2	0	$387,000	30	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.59
+2008	242407	5 Birubi Place	18/12/2008	10/02/2009	08/10/2008	$386,000	676m	Full transfer	3	1	0	2	2	$386,000	71	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.6
+2008	229718	4 Yalgan Place	01/06/2008	01/08/2008	28/05/2008	$385,000	993m	Full transfer	3	1	-	-	-	$385,000	4	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.6
+2008	229851	8 Dodwell Street	05/06/2008	21/07/2008	-	$380,000	850m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238054	3 Munga Place	04/07/2008	11/09/2008	21/04/2008	$380,000	765m	Full transfer	3	1	0	1	1	$380,000	74	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.67
+2008	242807	4 Wayal Place	11/12/2008	05/03/2009	16/07/2008	$379,500	742m	Full transfer	3	1	-	-	1	$379,500	148	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.61
+2008	235624	8 Wayal Place	18/01/2008	27/02/2008	07/09/2007	$378,000	1002m	Full transfer	3	1	-	-	1	$378,000	133	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.54
+2008	243563	4 Antares Crescent	22/12/2008	01/04/2009	11/12/2008	$375,000	716m	Full transfer	3	1	-	-	1	$375,000	11	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.61
+2008	230463	25 Centaurus Street	11/07/2008	13/08/2008	-	$375,000	986m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237936	12 Fornax Street	09/08/2008	19/09/2008	10/07/2008	$370,000	792m	Full transfer	3	1	-	-	1	$370,000	30	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.65
+2008	239175	19 Antares Crescent	29/09/2008	05/11/2008	24/06/2008	$370,000	974m	Full transfer	3	1	-	-	1	$370,000	97	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.62
+2008	230465	93 Chuculba Crescent	10/06/2008	14/08/2008	-	$370,000	984m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	242140	6 Ankaa Place	22/12/2008	29/01/2009	-	$360,000	725m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	231316	11 Gundulu Place	07/05/2008	03/06/2008	-	$353,000	781m	Full transfer	-	-	-	-	-	$353,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	233825	1/22 Chuculba Crescent	06/05/2008	13/06/2008	-	$347,000	854m	Full transfer	-	-	-	-	-	$347,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239174	32 Centaurus Street	20/09/2008	05/11/2008	12/06/2008	$346,000	909m	Full transfer	3	1	-	2	-	$346,000	100	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.66
+2008	237719	10 Lubuma Place	17/12/2008	16/02/2009	08/10/2008	$338,000	685m	Full transfer	3	1	-	2	-	$338,000	70	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.68
+2008	154184	4 Lubuma Place	12/02/2008	10/04/2008	-	$325,000	710m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2008	242406	41 Baracchi Crescent	09/12/2008	09/02/2009	-	$205,000	866m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230640	37 Baracchi Crescent	17/02/2008	16/04/2008	-	$205,000	1105m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234277	11 Wanaga Place	22/01/2008	06/05/2008	-	$192,500	880m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240161	13 Bindiri Place	28/07/2008	27/10/2008	-	$100,000	983m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	25456	4 Octans Close	10/01/2008	-	15/11/2007	$0	973m	Full transfer	3	1	-	2	1	$0	56	-	Allhomes Record	-	-	-	-	$230,000	0.68
+2008	229941	14 Phoenix Place	02/06/2008	18/07/2008	-	-	831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238055	3 Kurria Place	28/07/2008	09/09/2008	-	-	812m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	249194	12 Sculptor Street	19/03/2008	06/10/2009	-	-	774m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238056	60 Chuculba Crescent	31/05/2008	09/09/2008	-	-	711m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242405	3 Yalgan Place	01/12/2008	09/02/2009	-	-	856m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243440	91 Canopus Crescent	12/12/2008	23/03/2009	-	-	882m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2008	270388	14 Buriga Street	16/01/2008	13/09/2010	-	-	753m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239385	3 Merfield Place	24/10/2008	19/11/2008	-	-	1093m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	261698	154 Chuculba Crescent	13/11/2008	21/04/2010	-	-	1079m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229942	13 Maraar Place	04/06/2008	15/07/2008	-	-	1089m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242404	10 Buriga Street	23/11/2008	09/02/2009	-	-	751m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239383	2 Mirrabucca Crescent	16/10/2008	17/11/2008	-	-	1006m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18664	            13/51 Kootingal Street	14/08/2008	09/09/2008	-	-	11559m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237062	12 Munga Place	02/09/2008	07/01/2009	-	-	896m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242408	9 Hirst Place	06/05/2008	09/02/2009	-	-	887m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237064	7 Spica Street	11/12/2008	06/01/2009	-	-	773m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260940	9 Sculptor Street	11/12/2009	10/02/2010	-	$680,000	1356m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248445	8 Nangle Place	15/07/2009	16/12/2009	28/05/2009	$665,000	786m	Full transfer	5	2	1	3	-	$665,000	48	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.36
+2009	262630	4 Avior Place	16/12/2009	04/03/2010	26/11/2009	$655,000	905m	Full transfer	4	1	1	2	-	$655,000	20	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2009	260941	6 Rigel Place	16/10/2009	10/01/2010	-	$600,000	1065m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	130387	8 Rigel Place	10/10/2009	-	17/09/2009	$600,000	1064m	Full transfer	4	1	1	2	-	$600,000	23	-	Allhomes Record	-	-	-	-	$252,000	0.42
+2009	262627	167 Chuculba Crescent	15/12/2009	03/02/2010	27/10/2009	$545,100	870m	Full transfer	4	1	1	1	-	$545,100	49	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.44
+2009	118293	193 Chuculba Crescent	28/03/2009	-	17/09/2008	$540,000	790m	Full transfer	5	1	2	3	-	$540,000	192	-	Allhomes Record	-	-	-	-	$242,000	0.45
+2009	244940	5 Shain Place	01/06/2009	14/07/2009	22/04/2009	$530,000	937m	Full transfer	4	1	1	2	-	$530,000	40	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.44
+2009	262628	187 Chuculba Crescent	14/11/2009	02/02/2010	14/10/2009	$525,000	875m	Full transfer	4	2	-	-	2	$525,000	31	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.46
+2009	243024	88 Baracchi Crescent	14/01/2009	10/03/2009	-	$502,000	959m	Full transfer	-	-	-	-	-	$502,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	262629	16 Maraar Place	03/09/2009	25/03/2010	03/06/2009	$498,000	994m	Full transfer	4	1	1	2	-	$498,000	92	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.44
+2009	249812	71 Antares Crescent	01/08/2009	10/11/2009	30/07/2009	$488,000	1013m	Full transfer	4	1	-	2	2	$488,000	2	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2009	244547	2 Womba Place	14/05/2009	02/07/2009	02/04/2009	$480,000	801m	Full transfer	3	1	1	2	1	$480,000	42	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.48
+2009	254033	8 Balanu Place	02/12/2009	08/02/2010	12/11/2009	$475,000	912m	Full transfer	3	1	-	-	2	$475,000	20	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.48
+2009	249917	136 Chuculba Crescent	01/10/2009	20/11/2009	04/08/2009	$474,000	831m	Full transfer	4	1	-	8	-	$474,000	58	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.46
+2009	254658	1 Mana Place	07/12/2009	11/03/2010	-	$468,000	878m	Full transfer	-	-	-	-	-	$468,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251723	            13 Balanu Place	12/11/2009	12/01/2010	-	$460,000	691m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	138427	            15 Balanu	12/11/2009	-	14/09/2009	$460,000	691m	Full transfer	3	1	-	-	-	$460,000	59	-	Allhomes Record	-	-	-	-	$123,000	0.27
+2009	248443	39 Baracchi Crescent	06/07/2009	15/12/2009	12/05/2009	$455,000	1181m	Full transfer	3	1	-	2	1	$455,000	55	-	Combined Record	-	-	-	Single residential dwelling	$238,000	0.52
+2009	245809	5 Capella Crescent	26/06/2009	12/08/2009	-	$455,000	1134m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250640	29 Capella Crescent	28/09/2009	30/11/2009	11/09/2009	$437,500	655m	Full transfer	3	1	-	-	1	$437,500	17	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.54
+2009	253838	            15/51 Kootingal Street	23/12/2009	23/02/2010	-	$436,100	11559m	Full transfer	-	-	-	-	-	$436,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247417	24 Warring Place	23/12/2009	-	09/12/2009	$436,100	11559m	Full transfer	3	1	-	-	2	$436,100	14	-	Allhomes Record	-	-	-	-	$2,636,000	6.04
+2009	271109	14 Buriga Street	02/03/2009	13/09/2010	23/01/2009	$430,000	753m	Full transfer	4	1	1	2	-	$430,000	38	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.53
+2009	241699	138 Chuculba Crescent	08/04/2009	20/05/2009	11/03/2009	$427,500	952m	Full transfer	3	1	-	2	-	$427,500	28	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.51
+2009	243938	14 Phoenix Place	16/04/2009	31/05/2009	25/03/2009	$425,000	831m	Full transfer	3	1	-	-	1	$425,000	22	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.54
+2009	244168	5 Dawar Place	24/04/2009	09/06/2009	25/03/2009	$421,999	935m	Full transfer	4	1	-	-	-	$421,999	30	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.55
+2009	245808	10 Altair Place	24/04/2009	11/08/2009	-	$420,000	979m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247840	16 Malindi Place	18/08/2009	16/10/2009	05/02/2008	$420,000	916m	Full transfer	3	1	-	2	-	$420,000	560	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.55
+2009	245408	78 Chuculba Crescent	07/04/2009	05/08/2009	13/03/2009	$420,000	708m	Full transfer	3	1	-	-	2	$420,000	25	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.55
+2009	246138	103 Chuculba Crescent	24/07/2009	25/08/2009	08/07/2009	$420,000	1066m	Full transfer	-	-	-	-	-	$420,000	16	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.46
+2009	260935	1 Kootingal Street	22/09/2009	29/01/2010	-	$415,000	777m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249614	47 Mirrabucca Crescent	13/08/2009	30/10/2009	18/06/2009	$413,000	949m	Full transfer	3	1	-	2	-	$413,000	56	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.56
+2009	238773	42 Smalley Circuit	12/03/2009	28/04/2009	17/02/2009	$412,000	707m	Full transfer	3	1	-	2	-	$412,000	23	-	Combined Record	-	-	-	Single residential dwelling	$235,000	0.57
+2009	245893	7 Musca Place	03/07/2009	17/08/2009	18/05/2009	$410,000	917m	Full transfer	3	1	-	2	-	$410,000	46	-	Combined Record	-	-	-	Single residential dwelling	$231,000	0.56
+2009	243940	5 Merfield Place	19/01/2009	27/05/2009	05/11/2008	$410,000	1092m	Full transfer	3	1	1	2	-	$410,000	75	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.65
+2009	245407	5 Pinterry Place	12/06/2009	04/08/2009	09/04/2009	$405,000	693m	Full transfer	3	1	-	1	1	$405,000	64	-	Combined Record	-	-	-	For residential purposes only	$230,000	0.57
+2009	262626	142 Chuculba Crescent	24/12/2009	23/02/2010	15/10/2009	$405,000	762m	Full transfer	3	1	-	2	-	$405,000	70	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.54
+2009	243317	19 Balamara Street	17/02/2009	18/03/2009	-	$401,550	744m	Full transfer	-	-	-	-	-	$401,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244059	161 Chuculba Crescent	26/02/2009	01/06/2009	10/12/2008	$401,500	820m	Full transfer	3	1	-	1	-	$401,500	78	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.6
+2009	325444	7 Balamara Street	12/12/2009	16/02/2010	-	$400,200	733m	Full transfer	-	-	-	-	-	$400,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243153	11 Wanaga Place	02/03/2009	17/03/2009	-	$400,000	880m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247841	8 Lubuma Place	07/05/2009	16/10/2009	24/03/2009	$391,500	683m	Full transfer	3	1	-	1	-	$391,500	44	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.59
+2009	246356	35 Canopus Crescent	17/07/2009	31/08/2009	-	$391,000	727m	Full transfer	-	-	-	-	-	$391,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245409	14 Maraar Place	16/06/2009	08/08/2009	22/04/2009	$390,000	960m	Full transfer	-	-	-	-	-	$390,000	55	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.56
+2009	250639	80 Chuculba Crescent	16/10/2009	30/11/2009	28/07/2009	$385,000	706m	Full transfer	3	1	-	-	1	$385,000	80	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.6
+2009	248444	7 Kurria Place	07/10/2009	15/12/2009	03/08/2009	$370,000	779m	Full transfer	3	1	0	2	0	$370,000	65	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.62
+2009	125783	16 Canopus Crescent	01/05/2009	-	16/04/2009	$370,000	849m	Full transfer	3	1	-	2	-	$370,000	15	-	Allhomes Record	-	-	-	-	$230,000	0.62
+2009	324187	135 Chuculba Crescent	14/07/2009	09/09/2009	-	$365,000	836m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	250564	            8/5 Neworra Place	02/10/2009	08/12/2009	-	$357,500	10653m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248573	            6/51 Kootingal Street	28/08/2009	02/10/2009	-	$350,000	11559m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	128272	6/2 Warring Place	28/08/2009	-	01/07/2009	$350,000	477m	Full transfer	2	1	-	1	-	$350,000	58	-	Allhomes Record	-	-	-	-	$920,000	2.63
+2009	244058	93 Antares Crescent	16/02/2009	06/06/2009	-	$344,000	1053m	Full transfer	-	-	-	-	-	$344,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2009	242686	110 Chuculba Crescent	06/01/2009	25/02/2009	14/10/2008	$342,500	755m	Full transfer	3	1	-	-	2	$342,500	84	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.64
+2009	244939	10 Capella Crescent	06/04/2009	13/07/2009	-	$340,000	779m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246233	1/85 Canopus Crescent	08/07/2009	24/08/2009	-	$339,950	1050m	Full transfer	-	-	-	-	-	$339,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19644	            19/51 Kootingal Street	26/06/2009	17/08/2009	-	$334,950	11559m	Full transfer	-	-	-	-	-	$334,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247015	61 Canopus Crescent	07/12/2009	-	28/10/2009	$301,500	365m	Full transfer	1	1	-	1	-	$301,500	40	-	Allhomes Record	-	-	-	-	$2,538,000	8.42
+2009	253908	            12/5 Neworra Place	07/12/2009	03/03/2010	-	$301,500	10653m	Full transfer	-	-	-	-	-	$301,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245406	13 Mirrabucca Crescent	29/06/2009	05/08/2009	-	$300,000	941m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	287323	16 Capella Crescent	05/05/2009	28/03/2011	-	$113,750	720m	Full transfer	-	-	-	-	-	$113,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	274075	80 Antares Crescent	05/05/2009	15/11/2010	-	$65,834	876m	Full transfer	-	-	-	-	-	$65,834	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	365711	6 Nakala Place	23/11/2009	24/02/2012	-	$0	825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	381119	5 Galan Place	22/07/2009	07/10/2012	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241534	193 Chuculba Crescent	27/03/2009	11/05/2009	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19455	            6/51 Kootingal Street	21/04/2009	17/07/2009	-	-	11559m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	267622	22 Kootingal Street	15/08/2009	25/06/2010	-	-	762m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	238671	26 Spica Street	01/03/2009	25/04/2009	-	-	740m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250092	14 Achernar Close	19/08/2009	26/11/2009	-	-	826m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260939	16 Spica Street	16/03/2009	28/01/2010	-	-	700m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	261697	32 Baracchi Crescent	21/02/2009	27/04/2010	-	-	811m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	248359	5/200 Baldwin Drive	29/07/2009	16/12/2009	-	-	8787m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243939	16 Mirrabucca Crescent	28/01/2009	25/05/2009	-	-	892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	247842	31 Sculptor Street	29/09/2009	14/10/2009	-	-	790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	260933	48 Chuculba Crescent	01/12/2009	07/02/2010	-	-	960m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249918	3 Musca Place	14/08/2009	20/11/2009	-	-	857m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254213	97 Baracchi Crescent	14/12/2009	21/02/2010	-	-	866m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	269347	4 Dudi Place	21/05/2010	08/07/2010	24/03/2010	$687,500	1041m	Full transfer	3	1	1	2	-	$687,500	58	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.53
+2010	256896	3 Orion Place	03/05/2010	-	17/03/2010	$630,000	787m	Full transfer	5	2	1	2	1	$630,000	47	-	Allhomes Record	-	-	-	-	$265,000	0.42
+2010	280327	2 Tanda Place	09/10/2010	22/12/2010	15/09/2010	$625,000	919m	Full transfer	5	1	1	2	-	$625,000	24	-	Combined Record	202	-	-	Single residential dwelling	$265,000	0.42
+2010	267624	3 Orion Place	30/04/2010	23/06/2010	-	$625,000	787m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280344	5 Shain Place	23/10/2010	16/12/2010	22/09/2010	$620,000	937m	Full transfer	4	1	1	2	-	$620,000	31	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.44
+2010	276777	22 Sculptor Street	21/06/2010	23/07/2010	06/05/2010	$620,000	720m	Full transfer	4	1	1	-	1	$620,000	46	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.55
+2010	270902	4 Nangle Place	30/06/2010	26/08/2010	22/12/2009	$617,500	687m	Full transfer	4	2	1	2	-	$617,500	190	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.45
+2010	261933	20 Baracchi Crescent	24/03/2010	17/05/2010	-	$600,000	896m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	256863	2 Lupus Place	05/05/2010	-	14/04/2010	$600,000	796m	Full transfer	4	1	1	-	2	$600,000	21	-	Allhomes Record	166	-	-	-	$294,000	0.49
+2010	265713	27 Mirrabucca Crescent	31/08/2010	-	20/07/2010	$596,000	776m	Full transfer	3	1	1	2	-	$596,000	42	-	Allhomes Record	-	-	-	-	$294,000	0.49
+2010	273511	2 Musca Place	28/07/2010	26/10/2010	23/06/2010	$595,000	837m	Full transfer	4	1	1	-	-	$595,000	35	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.47
+2010	266639	183 Chuculba Crescent	12/10/2010	-	20/07/2010	$590,000	698m	Full transfer	4	2	1	2	-	$590,000	84	-	Allhomes Record	-	-	-	-	$279,000	0.47
+2010	257583	15 Capella Crescent	22/05/2010	-	27/04/2010	$583,000	841m	Full transfer	4	1	1	2	-	$583,000	25	-	Allhomes Record	-	-	-	-	$270,000	0.46
+2010	269346	32 Baracchi Crescent	29/05/2010	06/07/2010	06/05/2010	$580,000	811m	Full transfer	4	1	1	-	2	$580,000	23	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.55
+2010	279179	183 Chuculba Crescent	07/10/2010	01/02/2011	-	$580,000	698m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270981	9 Hirst Place	02/07/2010	03/09/2010	29/06/2010	$565,000	887m	Full transfer	4	1	1	2	2	$565,000	3	-	Combined Record	133	-	-	Single residential dwelling	$251,000	0.44
+2010	270980	100 Baracchi Crescent	29/05/2010	02/09/2010	06/05/2010	$563,250	881m	Full transfer	3	1	1	2	-	$563,250	23	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.5
+2010	270903	9 Spigl Street	14/07/2010	26/08/2010	13/05/2010	$555,000	815m	Full transfer	4	1	1	1	1	$555,000	62	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.5
+2010	270263	1 Balanu Place	25/06/2010	03/09/2010	-	$535,000	1027m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263991	11 Baracchi Crescent	24/03/2010	10/06/2010	05/03/2010	$530,000	908m	Full transfer	4	1	1	-	2	$530,000	19	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.55
+2010	280326	141 Chuculba Crescent	05/11/2010	22/12/2010	23/09/2010	$530,000	785m	Full transfer	4	1	1	2	-	$530,000	43	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.53
+2010	269129	17 Lenehan Street	05/05/2010	25/06/2010	07/04/2010	$525,000	724m	Full transfer	4	1	-	1	-	$525,000	28	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.53
+2010	271174	47 Baracchi Crescent	06/08/2010	20/09/2010	14/07/2010	$520,000	1110m	Full transfer	3	1	-	2	-	$520,000	23	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.53
+2010	270904	1 Spica Street	25/05/2010	27/08/2010	05/05/2010	$511,000	1089m	Full transfer	3	1	-	2	-	$511,000	20	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.52
+2010	276778	9 Baracchi Crescent	18/06/2010	22/07/2010	12/05/2010	$502,000	952m	Full transfer	3	1	-	-	2	$502,000	37	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.59
+2010	263990	6 Guguru Place	29/04/2010	10/06/2010	04/03/2010	$500,000	881m	Full transfer	3	1	-	1	-	$500,000	56	-	Combined Record	-	-	-	Single residential dwelling	$279,000	0.56
+2010	269128	22 Kootingal Street	01/05/2010	25/06/2010	07/04/2010	$495,000	762m	Full transfer	3	1	-	2	-	$495,000	24	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2010	263992	4 Palana Place	29/04/2010	07/06/2010	05/11/2009	$490,000	740m	Full transfer	4	1	1	4	-	$490,000	175	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2010	280345	5 Orion Place	25/10/2010	16/12/2010	07/10/2010	$487,500	677m	Full transfer	3	1	-	1	-	$487,500	18	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.54
+2010	269127	54 Baracchi Crescent	01/05/2010	25/06/2010	01/04/2010	$483,000	1119m	Full transfer	3	1	1	2	-	$483,000	30	-	Combined Record	-	-	-	Single residential dwelling	$274,000	0.57
+2010	258471	12 Kinalung Place	12/02/2010	27/04/2010	08/12/2009	$480,000	828m	Full transfer	4	1	1	-	-	$480,000	66	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.55
+2010	329850	7 Lenehan Street	20/11/2010	31/01/2011	-	$478,000	817m	Full transfer	-	-	-	-	-	$478,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270979	6 Vela Place	30/07/2010	03/09/2010	09/06/2010	$475,000	978m	Full transfer	3	1	-	-	1	$475,000	51	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.56
+2010	270905	3 Wanaga Place	05/07/2010	23/08/2010	19/05/2010	$472,000	656m	Full transfer	3	1	0	1	1	$472,000	47	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.53
+2010	262625	6 Orion Place	17/02/2010	26/03/2010	09/12/2009	$470,000	705m	Full transfer	3	1	-	-	2	$470,000	70	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.56
+2010	263993	13 Lubuma Place	01/05/2010	08/06/2010	07/04/2010	$467,000	879m	Full transfer	3	1	-	2	-	$467,000	24	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.57
+2010	265914	7 Dodwell Street	10/09/2010	-	11/08/2010	$460,000	7804m	Full transfer	3	1	1	2	-	$460,000	30	-	Allhomes Record	-	-	-	-	$1,590,000	3.46
+2010	273035	            6/29 Smalley Circuit	10/09/2010	22/10/2010	-	$460,000	7804m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271175	11 Kootingal Street	24/07/2010	20/09/2010	29/06/2010	$460,000	821m	Full transfer	3	1	-	2	-	$460,000	25	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.58
+2010	270978	4 Buriga Street	24/06/2010	03/09/2010	08/06/2010	$460,000	826m	Full transfer	3	1	-	-	2	$460,000	16	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.58
+2010	273544	104 Chuculba Crescent	31/07/2010	18/10/2010	09/07/2010	$457,000	763m	Full transfer	3	1	-	-	2	$457,000	22	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.55
+2010	269379	143 Chuculba Crescent	24/06/2010	29/07/2010	-	$450,477	807m	Full transfer	-	-	-	-	-	$450,477	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	265011	143 Chuculba Crescent	25/06/2010	30/07/2010	-	$450,475	807m	Full transfer	-	-	-	-	-	$450,475	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	256500	1 Nunki Place	26/02/2010	16/04/2010	25/01/2010	$450,000	916m	Full transfer	3	1	-	2	1	$450,000	32	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.56
+2010	283856	34 Spica Street	05/11/2010	04/03/2011	24/08/2010	$445,000	732m	Full transfer	3	1	-	2	-	$445,000	73	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.56
+2010	275898	5 Birubi Place	29/10/2010	12/01/2011	06/09/2010	$445,000	676m	Full transfer	3	1	-	-	-	$445,000	53	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.6
+2010	280346	10 Lubuma Place	09/11/2010	16/12/2010	29/09/2010	$444,000	685m	Full transfer	3	1	-	-	2	$444,000	41	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.6
+2010	273615	115 Chuculba Crescent	24/08/2010	04/11/2010	08/07/2010	$439,999	870m	Full transfer	3	1	-	-	1	$439,999	47	-	Combined Record	-	-	-	Single residential dwelling...	$265,000	0.6
+2010	258269	4 Nyawi Place	11/03/2010	04/05/2010	17/02/2010	$435,000	736m	Full transfer	3	1	-	2	-	$435,000	22	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.61
+2010	254212	11 Altair Place	06/01/2010	21/02/2010	28/10/2009	$435,000	946m	Full transfer	4	1	-	2	1	$435,000	70	-	Combined Record	-	-	-	Single residential dwelling	$236,000	0.54
+2010	284099	11 Bindiri Place	15/12/2010	22/02/2011	23/06/2010	$425,000	1116m	Full transfer	3	1	-	2	-	$425,000	175	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.59
+2010	255606	1 Wargila Place	01/02/2010	23/03/2010	-	$408,000	1030m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273652	2 Nyawi Place	20/08/2010	14/10/2010	29/07/2010	$405,000	992m	Full transfer	3	1	-	-	-	$405,000	22	-	Combined Record	-	-	-	Single residential dwelling...	$265,000	0.65
+2010	260119	2/5 Lelta Place	29/01/2010	10/05/2010	-	$392,000	853m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270020	145 Chuculba Crescent	17/05/2010	27/07/2010	-	$374,000	778m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	279087	            3/51 Kootingal Street	18/11/2010	02/02/2011	-	$369,000	11559m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271671	3/35 Kootingal Street	18/11/2010	-	22/10/2010	$369,000	11559m	Full transfer	2	1	-	1	-	$369,000	27	-	Allhomes Record	-	-	-	-	$3,031,000	8.21
+2010	266853	3/1 Neworra Place	21/10/2010	-	22/09/2010	$360,000	10653m	Full transfer	2	1	-	1	-	$360,000	29	-	Allhomes Record	-	-	-	-	$886,000	2.46
+2010	275858	52 Chuculba Crescent	22/10/2010	05/01/2011	-	$350,000	732m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	275644	            3/5 Neworra Place	21/10/2010	12/01/2011	-	$349,000	10653m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	291369	88 Chuculba Crescent	22/10/2010	10/05/2011	-	$255,000	724m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	254717	116 Chuculba Crescent	18/02/2010	19/03/2010	-	$230,000	895m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258129	29 Balamara Street	08/02/2010	05/05/2010	-	$215,000	768m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287322	16 Capella Crescent	25/06/2010	28/03/2011	-	$127,500	720m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	401748	            6/5 Neworra Place	20/09/2010	21/05/2013	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270017	6 Chuculba Crescent	15/07/2010	27/07/2010	-	-	1024m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272824	5 Birubi Place	05/07/2010	22/10/2010	-	-	676m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270089	9 Castor Place	17/05/2010	09/08/2010	-	-	990m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270389	9 Womba Place	19/02/2010	16/09/2010	-	-	720m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258130	24 Gundulu Place	01/02/2010	03/05/2010	-	-	940m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283434	6 Gidjili Place	24/02/2010	07/02/2011	-	-	863m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283433	2 Neworra Place	19/11/2010	11/02/2011	-	-	830m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	267623	7 Bindiri Place	03/05/2010	23/06/2010	-	-	964m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270183	21 Chuculba Crescent	11/06/2010	25/08/2010	-	-	832m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270018	36 Chuculba Crescent	08/06/2010	29/07/2010	-	-	959m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2010	280693	3 Castor Place	06/12/2010	22/12/2010	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	380026	             Gari Place	18/05/2011	-	26/10/2012	$733,000	0m	Full transfer	-	-	-	-	-	$733,000	-	-	Allhomes Record	-	-	-	-	-	-
+2011	333286	19 Mirrabucca Crescent	10/06/2011	28/07/2011	17/05/2011	$640,000	931m	Full transfer	4	1	1	-	2	$640,000	24	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.59
+2011	337021	5 Tanda Place	13/07/2011	15/08/2011	03/05/2011	$630,000	768m	Full transfer	4	1	1	2	-	$630,000	71	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.46
+2011	296982	104 Baracchi Crescent	15/04/2011	07/06/2011	24/03/2011	$627,000	993m	Full transfer	4	1	1	2	-	$627,000	22	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.49
+2011	340800	12 Buriga Street	15/07/2011	23/09/2011	24/05/2011	$618,000	729m	Full transfer	4	1	1	2	-	$618,000	52	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.47
+2011	331088	8 Tucana Street	21/03/2011	10/05/2011	-	$610,000	1008m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	301281	13 Kinalung Place	21/09/2011	-	23/06/2011	$595,000	711m	Full transfer	4	2	1	2	1	$595,000	90	-	Allhomes Record	-	-	-	-	$292,000	0.49
+2011	332796	13/200 Baldwin Drive	17/06/2011	25/07/2011	-	$592,000	8787m	Full transfer	-	-	-	-	-	$592,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	297151	13/200 Baldwin Drive	06/07/2011	-	16/05/2011	$592,000	8787m	Full transfer	4	1	1	2	-	$592,000	51	-	Allhomes Record	-	-	-	-	-	-
+2011	340390	13 Kinalung Place	04/08/2011	21/09/2011	-	$590,100	711m	Full transfer	-	-	-	-	-	$590,100	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346775	10 Gidjili Place	29/08/2011	19/11/2011	19/07/2011	$580,000	1237m	Full transfer	4	2	-	10	-	$580,000	41	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.51
+2011	331399	1 Kinalung Place	09/04/2011	30/05/2011	-	$578,000	856m	Full transfer	-	-	-	-	-	$578,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	336219	33 Capella Crescent	01/08/2011	10/08/2011	-	$568,400	1025m	Full transfer	-	-	-	-	-	$568,400	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346771	1 Capella Crescent	19/08/2011	15/11/2011	06/04/2011	$565,000	895m	Full transfer	4	1	1	2	1	$565,000	135	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.53
+2011	359793	4 Canopus Crescent	05/12/2011	30/01/2012	14/11/2011	$555,000	1076m	Full transfer	4	1	1	2	-	$555,000	21	-	Combined Record	186	-	-	Single residential dwelling	$291,000	0.52
+2011	337017	10 Lupus Place	15/07/2011	17/08/2011	18/05/2011	$550,000	1077m	Full transfer	3	1	1	-	2	$550,000	58	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.63
+2011	296759	6 Musca Place	13/05/2011	20/06/2011	02/09/2010	$550,000	751m	Full transfer	4	1	1	2	-	$550,000	253	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.56
+2011	300757	10 Centaurus Street	25/02/2011	20/07/2011	27/04/2011	$550,000	735m	Full transfer	4	1	1	1	1	$550,000	-	-	Combined Record	130	-	-	Single residential dwelling	$292,000	0.53
+2011	353822	26 Antares Crescent	28/11/2011	16/01/2012	28/09/2011	$550,000	898m	Full transfer	4	1	1	1	-	$550,000	61	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.47
+2011	365371	2 Agena Place	20/10/2011	07/03/2012	19/08/2011	$540,000	896m	Full transfer	4	1	1	2	-	$540,000	62	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.55
+2011	354309	94 Chuculba Crescent	07/10/2011	19/12/2011	-	$530,000	872m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	359789	42 Spica Street	11/11/2011	02/02/2012	26/08/2011	$527,500	746m	Full transfer	3	1	-	4	-	$527,500	77	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.53
+2011	296983	5 Wayal Place	06/05/2011	08/06/2011	11/04/2011	$525,000	847m	Full transfer	4	2	-	-	-	$525,000	25	-	Combined Record	180	-	-	Single residential dwelling	$292,000	0.56
+2011	359971	22 Baracchi Crescent	19/11/2011	24/01/2012	09/09/2011	$522,000	951m	Full transfer	3	1	-	2	-	$522,000	71	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.59
+2011	353489	26 Chuculba Crescent	22/11/2011	13/01/2012	16/06/2011	$520,000	785m	Full transfer	4	1	1	2	1	$520,000	159	-	Combined Record	163	-	-	Single residential dwelling	$292,000	0.56
+2011	347985	14 Baracchi Crescent	02/09/2011	27/10/2011	21/06/2011	$520,000	868m	Full transfer	4	1	1	-	2	$520,000	73	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.62
+2011	336939	8 Musca Place	21/07/2011	05/09/2011	17/06/2011	$515,000	756m	Full transfer	3	1	-	2	-	$515,000	34	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.63
+2011	292189	17 Capella Crescent	05/04/2011	17/05/2011	23/05/2011	$505,000	1061m	Full transfer	3	2	-	2	0	$505,000	-	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.59
+2011	300787	9 Musca Place	16/05/2011	13/07/2011	27/04/2011	$505,000	832m	Full transfer	3	1	-	3	-	$505,000	19	-	Combined Record	-	-	-	Single residential dwelling	$324,000	0.64
+2011	292306	179 Chuculba Crescent	01/03/2011	13/05/2011	11/08/2008	$500,000	743m	Full transfer	4	1	1	2	0	$500,000	932	-	Combined Record	-	-	-	Single residential dwelling	$242,000	0.48
+2011	331398	28 Chuculba Crescent	20/04/2011	01/06/2011	-	$494,000	897m	Full transfer	-	-	-	-	-	$494,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353487	12 Maraar Place	15/11/2011	12/01/2012	14/11/2011	$485,555	917m	Full transfer	3	1	-	0	4	$485,555	1	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.57
+2011	368045	12 Maraar Place	17/11/2011	-	31/05/2012	$485,555	0m	Full transfer	3	1	-	0	4	$485,555	-	-	Allhomes Record	-	-	-	-	$277,000	0.57
+2011	347196	8 Kinalung Place	24/09/2011	10/11/2011	01/09/2011	$485,000	832m	Full transfer	3	1	-	4	-	$485,000	23	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.6
+2011	349790	12 Wanaga Place	18/11/2011	12/12/2011	05/10/2011	$480,000	744m	Full transfer	4	1	1	2	-	$480,000	44	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.58
+2011	482645	8 Malindi Place	10/02/2011	-	20/08/2016	$477,000	0m	Full transfer	3	1	-	4	0	$477,000	-	-	Allhomes Record	-	-	-	-	$292,000	0.61
+2011	287847	8 Malindi Place	08/02/2011	30/03/2011	15/09/2010	$477,000	700m	Full transfer	3	1	-	2	2	$477,000	146	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.61
+2011	336775	26 Mirrabucca Crescent	24/06/2011	29/08/2011	-	$460,000	893m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	359791	7 Spigl Street	01/12/2011	03/02/2012	11/10/2011	$455,000	820m	Full transfer	3	1	-	1	1	$455,000	51	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.67
+2011	395697	13 Ankaa Place	07/09/2011	-	06/05/2013	$450,000	0m	Full transfer	4	2	1	1	0	$450,000	-	-	Allhomes Record	-	-	-	-	$277,000	0.62
+2011	344135	13 Ankaa Place	01/09/2011	18/10/2011	20/06/2011	$450,000	846m	Full transfer	4	1	1	1	-	$450,000	73	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.62
+2011	287767	4 Fornax Street	11/02/2011	08/04/2011	27/01/2011	$440,000	760m	Full transfer	3	1	-	2	-	$440,000	15	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.66
+2011	338447	8 Lupus Place	23/06/2011	13/09/2011	-	$430,000	985m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	337019	7 Palana Place	24/05/2011	16/08/2011	12/04/2011	$427,000	816m	Full transfer	3	1	-	2	2	$427,000	42	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.68
+2011	359969	10 Hirst Place	13/12/2011	27/01/2012	10/11/2011	$425,000	800m	Full transfer	3	1	-	2	-	$425,000	33	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.65
+2011	359973	47 Canopus Crescent	20/12/2011	24/01/2012	07/11/2011	$420,000	787m	Full transfer	3	1	-	-	4	$420,000	43	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.7
+2011	331090	6 Buriga Street	15/03/2011	10/05/2011	-	$418,500	822m	Full transfer	-	-	-	-	-	$418,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	331155	3 Dawar Place	15/03/2011	04/05/2011	-	$418,000	970m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	297760	7 Antares Crescent	14/05/2011	27/06/2011	14/04/2011	$417,000	841m	Full transfer	3	1	-	1	-	$417,000	30	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.7
+2011	359975	5 Balamara Street	05/12/2011	24/01/2012	28/09/2011	$410,000	698m	Full transfer	3	1	-	-	1	$410,000	68	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.71
+2011	336776	16 Phoenix Place	01/08/2011	29/08/2011	20/05/2011	$410,000	811m	Full transfer	3	1	0	1	1	$410,000	73	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.71
+2011	346774	5 Antares Crescent	16/09/2011	21/11/2011	-	$406,500	875m	Full transfer	-	-	-	-	-	$406,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	342177	88 Baracchi Crescent	25/08/2011	13/10/2011	-	$400,000	959m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291269	61 Baracchi Crescent	18/04/2011	19/05/2011	-	$395,000	834m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296087	13 Malindi Place	11/05/2011	02/06/2011	-	$345,000	936m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	341531	             Canopus Crescent	26/10/2011	-	31/08/2011	$275,000	365m	Full transfer	1	1	-	-	1	$275,000	56	-	Allhomes Record	-	-	-	-	$100,122	0.36
+2011	296474	4 Ara Place	21/04/2011	24/05/2011	-	$265,000	991m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347586	36 Chuculba Crescent	30/09/2011	31/10/2011	-	$207,500	959m	Full transfer	-	-	-	-	-	$207,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	296455	6 Birubi Place	20/02/2011	15/06/2011	-	$195,000	880m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347984	            21/51 Kootingal Street	28/09/2011	27/10/2011	-	$175,000	11559m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291198	12 Ankaa Place	01/02/2011	29/04/2011	-	$160,000	1053m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	404050	4 Warrambool Close	15/06/2011	12/07/2013	-	$116,250	665m	Full transfer	-	-	-	-	-	$116,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	353492	5 Balamara Street	28/01/2011	09/01/2012	-	$0	698m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	468191	11 Gundulu Place	24/02/2011	14/12/2015	-	$0	781m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	353824	2 Wayal Place	29/06/2011	19/01/2012	-	$0	984m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	394364	205 Chuculba Crescent	02/03/2011	26/03/2013	-	$0	1003m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347585	12 Centaurus Street	21/08/2011	01/11/2011	-	$0	735m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	429789	11 Munga Place	24/06/2011	29/06/2014	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	346773	12 Wanaga Place	21/07/2011	15/11/2011	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338373	            6/51 Kootingal Street	05/05/2011	13/09/2011	-	-	11559m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340318	22 Antares Crescent	24/07/2011	28/09/2011	-	-	854m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	291575	81 Canopus Crescent	15/01/2011	15/04/2011	-	-	850m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300205	33 Capella Crescent	30/06/2011	07/07/2011	-	-	1025m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300483	88 Baracchi Crescent	15/02/2011	15/07/2011	-	-	959m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	338448	10 Bindiri Place	21/01/2011	14/09/2011	-	-	720m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296473	5 Gundulu Place	22/03/2011	25/05/2011	-	-	904m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340389	30 Baracchi Crescent	17/05/2011	21/09/2011	-	-	930m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333285	87 Canopus Crescent	07/06/2011	28/07/2011	-	-	979m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388574	30 Baracchi Crescent	21/11/2012	17/01/2013	22/10/2012	$716,000	930m	Full transfer	5	2	1	2	1	$716,000	30	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.49
+2012	386011	20 Smalley Circuit	27/09/2012	11/12/2012	21/06/2012	$675,500	752m	Full transfer	4	1	2	2	3	$675,500	98	-	Combined Record	-	-	-	Single residential dwelling...	$298,000	0.44
+2012	372719	2 Mirrabucca Crescent	20/02/2012	13/04/2012	19/10/2011	$662,500	1006m	Full transfer	4	1	1	2	-	$662,500	124	-	Combined Record	330	-	-	Single residential dwelling	$293,000	0.44
+2012	360341	105 Baracchi Crescent	18/01/2012	17/02/2012	-	$635,000	1099m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386811	1 Shain Place	03/10/2012	18/12/2012	05/09/2012	$625,000	915m	Full transfer	4	1	1	2	1	$625,000	28	-	Combined Record	-	-	-	Single residential dwelling	$298,000	0.48
+2012	371594	76 Baracchi Crescent	26/04/2012	04/06/2012	02/02/2012	$625,000	1003m	Full transfer	4	1	1	2	-	$625,000	84	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.55
+2012	372717	21 Mirrabucca Crescent	20/02/2012	13/04/2012	09/09/2011	$620,000	822m	Full transfer	4	1	1	2	-	$620,000	164	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.56
+2012	371334	167 Chuculba Crescent	06/07/2012	-	02/02/2012	$612,000	870m	Full transfer	4	1	1	1	-	$612,000	155	-	Allhomes Record	-	-	-	-	$307,000	0.5
+2012	379897	6 Shain Place	06/07/2012	13/09/2012	09/05/2012	$610,000	1147m	Full transfer	4	1	1	2	-	$610,000	58	-	Combined Record	168	-	-	Single residential dwelling	$320,000	0.52
+2012	372716	5 Ankaa Place	27/02/2012	12/04/2012	-	$610,000	824m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	384644	10 Octans Close	17/02/2012	10/05/2012	09/11/2011	$610,000	931m	Full transfer	4	1	2	2	2	$610,000	100	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.48
+2012	392058	18 Buriga Street	05/07/2012	05/03/2013	07/06/2012	$608,000	737m	Full transfer	4	1	1	0	2	$608,000	28	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.48
+2012	389510	3 Merfield Place	12/12/2012	21/01/2013	30/08/2012	$575,000	1093m	Full transfer	4	1	1	2	-	$575,000	104	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.58
+2012	374062	9 Wayal Place	19/03/2012	19/06/2012	06/12/2011	$575,000	874m	Full transfer	4	1	1	2	-	$575,000	104	-	Combined Record	152	-	-	Single residential dwelling	$292,000	0.51
+2012	374539	4 Centaurus Street	08/05/2012	25/06/2012	27/01/2012	$575,000	740m	Full transfer	4	1	1	-	2	$575,000	102	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.51
+2012	386219	6 Munga Place	18/10/2012	05/12/2012	-	$565,000	892m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376574	48 Chuculba Crescent	05/06/2012	06/08/2012	03/05/2012	$560,000	960m	Full transfer	4	1	-	2	-	$560,000	33	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.52
+2012	369812	2 Galan Place	31/05/2012	-	10/05/2012	$559,000	-	Full transfer	5	1	1	-	2	$559,000	21	-	Allhomes Record	173	-	-	-	-	-
+2012	394363	205 Chuculba Crescent	05/12/2012	26/03/2013	-	$550,000	1003m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	383895	4 Ara Place	29/08/2012	06/11/2012	19/07/2012	$538,000	991m	Full transfer	4	2	-	2	0	$538,000	41	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.57
+2012	349421	96 Canopus Crescent	03/01/2012	-	28/09/2011	$520,000	986m	Full transfer	4	1	1	2	-	$520,000	97	-	Allhomes Record	-	-	-	-	$277,000	0.53
+2012	365069	114 Baracchi Crescent	08/02/2012	16/03/2012	01/12/2011	$520,000	883m	Full transfer	3	1	-	3	-	$520,000	69	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.59
+2012	386852	1 Kurria Place	15/11/2012	11/01/2013	12/09/2012	$519,000	984m	Full transfer	4	1	1	2	-	$519,000	64	-	Combined Record	143	-	-	Single residential dwelling	$292,000	0.56
+2012	366034	1 Wayal Place	03/02/2012	01/03/2012	15/12/2011	$510,000	1010m	Full transfer	4	1	1	2	-	$510,000	50	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.6
+2012	379169	4/200 Baldwin Drive	06/07/2012	06/09/2012	13/03/2012	$505,000	8787m	Full transfer	3	1	1	2	-	$505,000	115	-	Combined Record	-	-	-	Multiple unit dwelling	$2,063,000	4.09
+2012	374058	9 Lenehan Street	14/05/2012	18/06/2012	03/04/2012	$482,500	700m	Full transfer	3	1	-	2	-	$482,500	41	-	Combined Record	-	-	-	Single residential dwelling	$350,000	0.73
+2012	383414	3 Lelta Place	20/09/2012	12/11/2012	03/08/2012	$473,000	1076m	Full transfer	3	1	-	-	1	$473,000	48	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.65
+2012	391956	19 Antares Crescent	21/12/2012	06/02/2013	24/08/2012	$470,000	974m	Full transfer	3	1	-	-	2	$470,000	119	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.64
+2012	389939	32 Centaurus Street	30/11/2012	01/02/2013	26/10/2012	$465,000	909m	Full transfer	3	1	-	2	-	$465,000	35	-	Combined Record	110	-	-	Single residential dwelling	$292,000	0.63
+2012	374060	5 Nunki Place	27/04/2012	18/06/2012	28/03/2012	$455,000	926m	Full transfer	3	1	-	2	-	$455,000	30	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.61
+2012	385102	4 Guguru Place	19/12/2012	-	22/05/2012	$450,000	757m	Full transfer	3	1	-	2	-	$450,000	211	-	Allhomes Record	-	-	-	-	$307,000	0.68
+2012	370042	15 Canopus Crescent	12/01/2012	30/03/2012	-	$441,000	880m	Full transfer	-	-	-	-	-	$441,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376571	3 Alinda Place	25/05/2012	09/08/2012	22/03/2012	$435,000	755m	Full transfer	3	1	-	2	-	$435,000	64	-	Combined Record	107	-	-	Single residential dwelling	$307,000	0.71
+2012	384909	137 Chuculba Crescent	16/04/2012	15/05/2012	-	$430,000	828m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382611	54 Chuculba Crescent	12/10/2012	27/11/2012	-	$420,000	794m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	411062	6 Phoenix Place	28/09/2012	13/09/2013	06/08/2012	$420,000	745m	Full transfer	3	1	-	2	-	$420,000	53	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.7
+2012	379698	7 Palana Place	19/07/2012	29/08/2012	06/06/2012	$420,000	816m	Full transfer	3	1	-	2	2	$420,000	43	-	Combined Record	-	-	-	Single residential dwelling	$292,000	0.7
+2012	374999	2/3 Neworra Place	07/08/2012	-	16/07/2012	$415,000	-	Full transfer	3	1	-	1	-	$415,000	22	-	Allhomes Record	-	-	-	-	-	-
+2012	376906	4 Balamara Street	31/05/2012	01/08/2012	-	$415,000	806m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2012	385138	21 Neworra Place	20/12/2012	-	15/10/2012	$410,000	-	Full transfer	3	1	-	-	2	$410,000	66	-	Allhomes Record	-	-	-	-	$3,502,000	8.54
+2012	391854	            5/5 Neworra Place	20/12/2012	13/02/2013	-	$410,000	10653m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	389512	3 Pinterry Place	21/12/2012	24/01/2013	-	$400,000	780m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2012	388576	5 Gidjili Place	22/08/2012	18/01/2013	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	406783	69 Chuculba Crescent	26/05/2012	02/09/2013	-	$0	706m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382580	5 Warrambool Close	14/08/2012	30/11/2012	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	365710	50 Smalley Circuit	20/01/2012	21/02/2012	-	$0	845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	388573	            5/5 Neworra Place	06/06/2012	18/01/2013	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	368570	141 Chuculba Crescent	18/01/2012	23/03/2012	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376635	            5/29 Smalley Circuit	28/05/2012	24/07/2012	-	$0	7804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	402296	38 Smalley Circuit	09/08/2012	28/06/2013	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	564088	3 Agena Place	17/07/2012	01/07/2019	-	$0	1120m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	382723	22 Mirrabucca Crescent	05/11/2012	23/11/2012	-	$0	804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371737	3 Tucana Street	24/01/2012	22/05/2012	-	$0	788m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394517	5 Dudi Place	13/11/2012	19/03/2013	-	$0	965m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	376573	1 Kurria Place	03/04/2012	09/08/2012	-	$0	984m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386813	16 Gundulu Place	12/11/2012	17/12/2012	02/10/2012	$0	686m	Full transfer	3	1	-	1	1	$0	41	-	Combined Record	-	-	-	Single residential dwelling	$277,000	8.54
+2012	396485	30 Spica Street	18/04/2012	23/04/2013	-	$0	740m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391592	10 Nangle Place	12/12/2012	21/02/2013	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	398254	104 Canopus Crescent	29/04/2012	17/05/2013	-	$0	1034m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411058	13 Bindiri Place	10/08/2013	13/09/2013	15/07/2013	$675,000	983m	Full transfer	4	1	1	2	-	$675,000	26	-	Combined Record	195	-	-	Single residential dwelling	$300,000	0.44
+2013	411404	4 Gidja Place	07/09/2013	24/10/2013	31/07/2013	$650,000	1293m	Full transfer	4	1	1	2	-	$650,000	38	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.53
+2013	404216	34 Smalley Circuit	14/05/2013	04/07/2013	10/04/2013	$625,000	819m	Full transfer	4	2	1	2	0	$625,000	34	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.5
+2013	405920	2 Rigel Place	04/09/2013	-	20/08/2013	$620,000	925m	Full transfer	4	1	2	2	1	$620,000	15	-	Allhomes Record	178	-	-	-	$310,000	0.5
+2013	419439	92 Canopus Crescent	31/10/2013	12/02/2014	09/10/2013	$605,000	764m	Full transfer	6	2	1	2	-	$605,000	22	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.47
+2013	417800	193 Chuculba Crescent	22/11/2013	16/01/2014	01/11/2013	$590,000	790m	Full transfer	5	2	0	3	0	$590,000	21	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.53
+2013	422833	26 Canopus Crescent	05/12/2013	27/03/2014	13/11/2013	$585,000	999m	Full transfer	4	1	1	4	-	$585,000	22	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.51
+2013	415647	26 Antares Crescent	18/10/2013	10/12/2013	19/09/2013	$575,000	898m	Full transfer	4	1	1	1	-	$575,000	29	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.46
+2013	413349	16 Capella Crescent	23/09/2013	07/11/2013	12/06/2013	$572,000	720m	Full transfer	4	1	1	2	-	$572,000	103	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.54
+2013	400204	50 Baracchi Crescent	11/04/2013	04/06/2013	14/03/2013	$571,000	838m	Full transfer	3	2	1	2	0	$571,000	28	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.58
+2013	411818	28 Mirrabucca Crescent	01/08/2013	17/09/2013	10/07/2013	$570,000	932m	Full transfer	4	1	1	3	-	$570,000	22	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.53
+2013	404935	61 Smalley Circuit	25/06/2013	07/08/2013	06/05/2013	$566,000	717m	Full transfer	4	1	1	1	-	$566,000	50	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.55
+2013	402564	187 Chuculba Crescent	09/05/2013	21/06/2013	16/10/2012	$563,500	875m	Full transfer	4	1	1	2	-	$563,500	205	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.56
+2013	411622	157 Chuculba Crescent	29/08/2013	18/10/2013	10/07/2013	$562,500	902m	Full transfer	4	1	1	1	-	$562,500	50	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.56
+2013	398255	9 Orion Place	20/03/2013	15/05/2013	13/02/2013	$550,000	722m	Full transfer	3	2	1	2	0	$550,000	35	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.55
+2013	407263	16 Phoenix Place	10/07/2013	26/08/2013	13/06/2013	$530,000	811m	Full transfer	3	1	1	1	1	$530,000	27	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.57
+2013	417802	1 Lenehan Street	21/11/2013	16/01/2014	29/08/2013	$530,000	892m	Full transfer	4	1	0	2	2	$530,000	84	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.59
+2013	411816	5 Phoenix Place	14/08/2013	19/09/2013	23/07/2013	$520,000	736m	Full transfer	3	1	1	-	2	$520,000	22	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.58
+2013	404220	10 Ara Place	29/05/2013	04/07/2013	10/04/2013	$515,000	1037m	Full transfer	5	2	1	2	0	$515,000	49	-	Combined Record	-	-	-	Single residential dwelling	$345,000	0.67
+2013	421774	30 Chuculba Crescent	06/11/2013	19/02/2014	31/10/2013	$515,000	906m	Full transfer	3	1	0	1	1	$515,000	6	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.58
+2013	418166	8 Castor Place	19/11/2013	22/01/2014	-	$506,000	796m	Full transfer	-	-	-	-	-	$506,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396486	12 Malindi Place	01/03/2013	22/04/2013	22/11/2012	$503,000	740m	Full transfer	4	1	1	2	-	$503,000	99	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.6
+2013	408035	3 Munga Place	19/06/2013	14/08/2013	21/08/2013	$502,000	765m	Full transfer	3	1	0	1	1	$502,000	-	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.66
+2013	405288	18 Canopus Crescent	06/06/2013	24/07/2013	15/01/2013	$495,000	830m	Full transfer	4	2	-	1	1	$495,000	142	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.61
+2013	411054	4 Dodwell Street	14/06/2013	09/09/2013	16/05/2013	$493,000	816m	Full transfer	3	1	1	2	-	$493,000	29	-	Combined Record	-	-	-	Single residential dwelling	$310,000	0.63
+2013	414484	69 Chuculba Crescent	14/10/2013	25/11/2013	30/04/2013	$490,000	706m	Full transfer	3	2	1	2	0	$490,000	167	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.61
+2013	413072	83 Canopus Crescent	19/09/2013	31/10/2013	07/08/2013	$486,000	858m	Full transfer	4	1	1	-	2	$486,000	43	-	Combined Record	148	-	-	Single residential dwelling	$285,000	0.59
+2013	396488	5 Dawar Place	20/02/2013	22/04/2013	25/02/2013	$476,000	935m	Full transfer	4	1	0	0	0	$476,000	-	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.63
+2013	394365	12 Antares Crescent	14/02/2013	28/03/2013	16/01/2013	$473,000	726m	Full transfer	3	1	-	2	-	$473,000	29	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.63
+2013	391591	3 Gidja Place	10/01/2013	20/02/2013	-	$470,000	956m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411060	9 Balamara Street	08/08/2013	09/09/2013	16/07/2013	$465,500	796m	Full transfer	3	1	-	2	-	$465,500	23	-	Combined Record	109	-	-	Single residential dwelling	$300,000	0.64
+2013	414072	9 Altair Place	27/09/2013	19/11/2013	06/08/2013	$465,000	742m	Full transfer	4	1	1	2	-	$465,000	52	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.65
+2013	408031	8 Hirst Place	01/07/2013	14/08/2013	16/04/2013	$462,000	880m	Full transfer	3	1	0	2	0	$462,000	76	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.62
+2013	424579	6 Dawar Place	20/12/2013	14/04/2014	12/11/2013	$460,000	957m	Full transfer	3	1	-	2	-	$460,000	38	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.65
+2013	417798	1 Wilari Place	23/11/2013	15/01/2014	25/10/2013	$456,750	852m	Full transfer	3	1	-	-	1	$456,750	29	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.69
+2013	400208	16 Kinalung Place	18/04/2013	04/06/2013	02/04/2013	$453,000	818m	Full transfer	3	1	-	-	1	$453,000	16	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.66
+2013	406653	9 Maraar Place	15/07/2013	21/08/2013	20/06/2013	$452,500	761m	Full transfer	3	1	-	2	-	$452,500	25	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.63
+2013	400708	49 Spica Street	13/03/2013	28/05/2013	-	$452,000	802m	Full transfer	-	-	-	-	-	$452,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	422830	102 Chuculba Crescent	20/12/2013	28/03/2014	22/11/2013	$450,000	784m	Full transfer	3	2	-	1	2	$450,000	28	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.63
+2013	406781	9 Lubuma Place	29/07/2013	04/09/2013	22/04/2013	$450,000	725m	Full transfer	3	1	0	2	2	$450,000	98	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.67
+2013	411814	7 Derrilin Place	26/07/2013	16/09/2013	09/05/2013	$450,000	796m	Full transfer	3	1	0	2	0	$450,000	78	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.67
+2013	411625	6 Kurria Place	02/09/2013	18/10/2013	-	$450,000	894m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	396211	49 Spica Street	03/05/2013	-	24/10/2012	$450,000	802m	Full transfer	3	1	-	6	-	$450,000	191	-	Allhomes Record	-	-	-	-	$285,000	0.63
+2013	413351	3 Lubuma Place	11/09/2013	07/11/2013	31/07/2013	$445,000	680m	Full transfer	3	1	-	1	-	$445,000	42	-	Combined Record	102	-	-	Single residential dwelling	$300,000	0.67
+2013	411056	117 Chuculba Crescent	31/07/2013	10/09/2013	14/06/2013	$445,000	862m	Full transfer	3	1	-	2	2	$445,000	47	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.67
+2013	404218	34 Spica Street	26/05/2013	03/07/2013	08/04/2013	$442,000	732m	Full transfer	3	1	-	2	-	$442,000	48	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.64
+2013	402566	1 Buned Place	13/05/2013	19/06/2013	20/03/2013	$440,000	876m	Full transfer	3	1	-	2	-	$440,000	54	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.65
+2013	416916	3 Wayal Place	08/11/2013	16/12/2013	19/09/2013	$440,000	834m	Full transfer	3	1	0	2	0	$440,000	50	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.68
+2013	400206	5 Gidjili Place	11/04/2013	05/06/2013	05/02/2013	$440,000	892m	Full transfer	3	1	-	2	2	$440,000	65	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.68
+2013	421308	91 Chuculba Crescent	09/12/2013	26/02/2014	12/11/2013	$432,000	937m	Full transfer	3	1	-	-	2	$432,000	27	-	Combined Record	-	-	-	Single residential dwelling	$267,000	0.62
+2013	392784	119 Chuculba Crescent	06/02/2013	14/03/2013	31/01/2012	$430,000	776m	Full transfer	3	1	-	4	-	$430,000	372	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.7
+2013	394968	21 Balamara Street	23/02/2013	12/04/2013	24/01/2013	$418,500	821m	Full transfer	3	1	-	-	2	$418,500	30	-	Combined Record	110	-	-	Single residential dwelling...	$300,000	0.72
+2013	391224	            4B Agena Place	22/03/2013	-	13/11/2012	$418,000	-	Full transfer	3	1	-	1	-	$418,000	129	-	Allhomes Record	-	-	-	-	-	-
+2013	397682	            2/4 Agena Place	21/03/2013	08/05/2013	-	$418,000	1217m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413074	43 Spica Street	30/08/2013	29/10/2013	-	$400,000	927m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	392057	1 Nyawi Place	22/01/2013	06/03/2013	-	$400,000	915m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	395372	14 Malindi Place	08/02/2013	16/04/2013	21/11/2012	$400,000	1100m	Full transfer	3	1	-	-	1	$400,000	79	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.64
+2013	404937	1/5 Lelta Place	21/06/2013	09/08/2013	-	$380,000	853m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394967	1 Wanaga Place	06/03/2013	11/04/2013	-	$357,000	774m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	391855	            26/51 Kootingal Street	08/01/2013	14/02/2013	-	$325,000	11559m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	406779	            17/51 Kootingal Street	05/07/2013	05/09/2013	-	$196,000	11559m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	419438	            25/5 Neworra Place	11/12/2013	11/02/2014	-	$180,000	10653m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	424581	4 Warrambool Close	30/06/2013	14/04/2014	-	$97,000	665m	Full transfer	-	-	-	-	-	$97,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	385405	49 Kootingal Street	08/01/2013	-	02/10/2012	$1	-	Full transfer	2	1	-	1	-	$1	98	-	Allhomes Record	-	-	-	-	$3,820,000	3820000.0
+2013	430726	53 Smalley Circuit	23/11/2013	04/07/2014	-	$0	913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2013	416915	1 Wilari Place	07/10/2013	20/12/2013	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	408030	20 Castor Place	17/02/2013	16/08/2013	-	$0	978m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421307	114 Chuculba Crescent	05/10/2013	28/02/2014	-	$0	803m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	401749	159 Chuculba Crescent	19/03/2013	21/05/2013	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	479535	101 Baracchi Crescent	02/10/2013	06/06/2016	-	$0	959m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413076	34 Chuculba Crescent	06/09/2013	29/10/2013	-	$0	1096m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394518	8 Womba Place	14/02/2013	21/03/2013	-	$0	946m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411406	3 Womba Place	27/08/2013	23/10/2013	13/08/2013	$0	693m	Full transfer	3	1	-	-	1	$0	14	-	Combined Record	114	-	-	Single residential dwelling	$300,000	3820000.0
+2013	408033	15 Balamara Street	12/07/2013	16/08/2013	-	$0	738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394367	8 Achernar Close	05/02/2013	26/03/2013	-	$0	829m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	408034	19 Chuculba Crescent	19/06/2013	13/08/2013	-	$0	874m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418167	13 Altair Place	10/12/2013	23/01/2014	-	$0	994m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413075	8 Octans Close	02/07/2013	28/10/2013	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411624	7 Nyawi Place	18/02/2013	15/10/2013	-	$0	960m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	406780	13 Tucana Street	12/06/2013	03/09/2013	-	$0	1099m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	468190	14 Wanaga Place	14/08/2013	17/12/2015	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	432991	            2/4 Gidjili Place	24/10/2013	12/08/2014	-	$0	1040m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	402297	9 Balamara Street	21/05/2013	28/06/2013	-	$0	796m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438636	20 Buriga Street	03/09/2014	30/10/2014	07/08/2014	$735,000	812m	Full transfer	4	3	-	2	2	$735,000	27	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.43
+2014	437902	14 Lenehan Street	21/02/2014	22/10/2014	12/02/2014	$685,000	920m	Full transfer	5	1	2	2	-	$685,000	9	-	Combined Record	-	-	-	Single residential dwelling	$496,000	0.72
+2014	440351	8 Mana Place	27/09/2014	21/11/2014	04/09/2014	$670,000	841m	Full transfer	4	2	-	0	5	$670,000	23	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.45
+2014	426509	2 Mirrabucca Crescent	29/03/2014	06/05/2014	06/03/2014	$662,500	1006m	Full transfer	4	1	1	2	0	$662,500	23	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.45
+2014	427643	5 Rigel Place	08/03/2014	01/05/2014	12/02/2014	$660,000	1004m	Full transfer	4	1	1	2	-	$660,000	24	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.52
+2014	435728	3 Musca Place	31/07/2014	17/09/2014	09/07/2014	$650,500	857m	Full transfer	4	1	1	1	1	$650,500	22	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.48
+2014	417559	2/73 Antares Crescent	11/02/2014	-	17/10/2013	$640,000	749m	Full transfer	4	1	1	2	0	$640,000	117	-	Allhomes Record	-	-	-	-	$404,000	0.63
+2014	448795	            5/29 Smalley Circuit	13/12/2014	27/03/2015	-	$612,000	7804m	Full transfer	-	-	-	-	-	$612,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	424333	21 Capella Crescent	11/02/2014	10/04/2014	17/01/2014	$610,000	1070m	Full transfer	5	1	1	2	-	$610,000	25	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.48
+2014	447211	4 Achernar Close	13/12/2014	26/02/2015	18/11/2014	$601,500	1126m	Full transfer	4	1	1	2	-	$601,500	25	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.52
+2014	427176	4 Mana Place	27/03/2014	12/05/2014	26/02/2014	$575,000	806m	Full transfer	4	1	-	2	-	$575,000	29	-	Combined Record	125	-	-	Single residential dwelling	$300,000	0.52
+2014	438634	7 Mana Place	21/08/2014	28/10/2014	31/07/2014	$572,500	757m	Full transfer	4	2	-	4	1	$572,500	21	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.52
+2014	433598	25 Capella Crescent	18/07/2014	19/08/2014	05/05/2014	$567,000	898m	Full transfer	5	1	1	-	1	$567,000	74	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.57
+2014	445111	3 Lupus Place	11/11/2014	06/02/2015	03/06/2014	$565,000	642m	Full transfer	4	1	1	2	-	$565,000	161	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.59
+2014	433600	10 Sculptor Street	24/07/2014	18/08/2014	-	$560,000	774m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429026	17 Lenehan Street	08/05/2014	12/06/2014	01/05/2014	$556,000	724m	Full transfer	4	1	-	0	1	$556,000	7	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.57
+2014	446395	10 Tanda Place	19/09/2014	18/02/2015	29/07/2014	$555,000	986m	Full transfer	4	2	1	2	0	$555,000	52	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.54
+2014	446393	14/200 Baldwin Drive	21/11/2014	16/02/2015	22/10/2014	$540,000	8787m	Full transfer	4	1	1	2	-	$540,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	$2,063,000	3.82
+2014	423594	48 Baracchi Crescent	26/04/2014	-	02/04/2014	$530,000	877m	Full transfer	4	1	1	2	0	$530,000	24	-	Allhomes Record	-	-	-	-	$333,000	0.63
+2014	442200	3 Malindi Place	25/10/2014	15/12/2014	01/10/2014	$522,500	735m	Full transfer	4	1	1	1	1	$522,500	24	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.57
+2014	447754	8 Nyawi Place	05/11/2014	10/03/2015	19/01/2015	$522,000	789m	Full transfer	4	2	-	2	0	$522,000	-	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.57
+2014	428242	3 Kurria Place	09/04/2014	20/05/2014	19/03/2014	$521,000	812m	Full transfer	4	1	-	2	-	$521,000	21	-	Combined Record	118	-	-	Single residential dwelling	$300,000	0.58
+2014	448319	19 Fornax Street	20/11/2014	03/03/2015	-	$520,000	741m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	431113	42 Smalley Circuit	22/05/2014	15/07/2014	09/05/2014	$510,000	707m	Full transfer	3	1	-	2	0	$510,000	13	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.63
+2014	421071	8 Malindi Place	06/02/2014	12/03/2014	07/01/2014	$505,000	700m	Full transfer	3	1	-	2	2	$505,000	30	-	Combined Record	122	-	-	Single residential dwelling	$300,000	0.59
+2014	429787	7 Spigl Street	12/05/2014	24/06/2014	08/04/2014	$495,088	820m	Full transfer	3	1	-	2	-	$495,088	34	-	Combined Record	125	-	-	Single residential dwelling	$315,000	0.64
+2014	435730	2 Guguru Place	28/07/2014	15/09/2014	30/04/2014	$495,000	846m	Full transfer	4	2	-	2	-	$495,000	89	-	Combined Record	-	-	-	Single residential dwelling	$333,000	0.67
+2014	426511	17 Phoenix Place	08/04/2014	08/05/2014	21/11/2013	$495,000	786m	Full transfer	4	2	-	-	2	$495,000	138	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.61
+2014	432466	141 Chuculba Crescent	27/06/2014	04/08/2014	12/05/2014	$490,000	785m	Full transfer	4	1	1	2	0	$490,000	46	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.64
+2014	442926	27 Balamara Street	12/12/2014	09/01/2015	28/11/2014	$480,000	775m	Full transfer	3	1	-	2	-	$480,000	14	-	Combined Record	138	-	-	Single residential dwelling	$300,000	0.63
+2014	429028	7 Vela Place	07/05/2014	11/06/2014	09/04/2014	$480,000	776m	Full transfer	3	1	-	-	2	$480,000	28	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.63
+2014	439543	159 Chuculba Crescent	01/10/2014	10/11/2014	05/09/2014	$477,500	820m	Full transfer	3	2	-	1	0	$477,500	26	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.66
+2014	440497	7 Dodwell Street	10/12/2014	-	22/10/2014	$475,000	0m	Full transfer	3	2	-	2	0	$475,000	49	-	Allhomes Record	129	-	-	-	$2,004,000	4.22
+2014	442198	5 Tucana Street	14/11/2014	16/12/2014	06/11/2014	$470,000	737m	Full transfer	3	1	-	2	0	$470,000	8	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.61
+2014	434378	31 Balamara Street	31/07/2014	03/09/2014	02/07/2014	$468,150	831m	Full transfer	3	1	1	1	-	$468,150	29	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.64
+2014	426506	14 Smalley Circuit	21/03/2014	07/05/2014	29/01/2014	$467,000	875m	Full transfer	3	1	-	1	-	$467,000	51	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.69
+2014	442924	11 Kootingal Street	03/12/2014	06/01/2015	15/10/2014	$465,000	821m	Full transfer	3	1	-	2	0	$465,000	49	-	Combined Record	156	-	-	Single residential dwelling	$300,000	0.65
+2014	421772	5 Gundulu Place	17/01/2014	19/02/2014	26/11/2013	$458,000	904m	Full transfer	3	1	-	-	1	$458,000	52	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.62
+2014	423262	38 Spica Street	09/01/2014	20/03/2014	14/11/2013	$457,000	801m	Full transfer	3	1	-	2	-	$457,000	56	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.62
+2014	421312	10 Guguru Place	21/01/2014	24/02/2014	31/10/2013	$455,000	963m	Full transfer	3	1	-	2	-	$455,000	82	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.69
+2014	447756	78 Chuculba Crescent	05/12/2014	09/03/2015	05/09/2014	$450,000	708m	Full transfer	4	1	-	-	2	$450,000	91	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.67
+2014	431115	19 Chuculba Crescent	20/06/2014	17/07/2014	07/05/2014	$441,000	874m	Full transfer	3	1	-	2	-	$441,000	44	-	Combined Record	135	-	-	Single residential dwelling	$300,000	0.68
+2014	421310	3 Alinda Place	22/01/2014	24/02/2014	25/10/2013	$437,000	755m	Full transfer	3	1	0	2	0	$437,000	89	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.72
+2014	441671	29 Fornax Street	17/10/2014	10/12/2014	09/10/2014	$425,000	733m	Full transfer	3	1	0	2	0	$425,000	8	-	Combined Record	-	-	-	Single residential dwelling	$300,000	0.71
+2014	424336	1/22 Chuculba Crescent	21/02/2014	07/04/2014	10/01/2014	$420,000	854m	Full transfer	3	1	0	0	1	$420,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	$354,000	0.84
+2014	430727	14 Maraar Place	29/05/2014	03/07/2014	18/03/2014	$420,000	960m	Full transfer	3	1	-	1	0	$420,000	72	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.68
+2014	430729	24 Gundulu Place	05/06/2014	03/07/2014	12/05/2014	$414,750	940m	Full transfer	3	1	-	-	1	$414,750	24	-	Combined Record	-	-	-	Single residential dwelling	$255,000	0.61
+2014	432670	53 Kootingal Street	23/08/2014	-	20/06/2014	$410,500	-	Full transfer	3	1	1	2	-	$410,500	64	-	Allhomes Record	-	-	-	-	$3,820,000	9.31
+2014	436184	            2/51 Kootingal Street	22/09/2014	25/09/2014	-	$410,500	11559m	Full transfer	-	-	-	-	-	$410,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	417364	53 Canopus Crescent	03/01/2014	-	04/12/2013	$307,500	10653m	Full transfer	1	1	-	-	1	$307,500	30	-	Allhomes Record	52	-	-	-	$3,677,000	11.96
+2014	424335	            16/5 Neworra Place	29/01/2014	07/04/2014	-	$307,500	10653m	Full transfer	-	-	-	-	-	$307,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	422832	8 Altair Place	06/03/2014	26/03/2014	-	$225,000	727m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427178	11 Fornax Street	15/04/2014	12/05/2014	-	$0	811m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443802	11 Canopus Crescent	13/10/2014	16/01/2015	-	$0	912m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	474637	17A Smalley Circuit	07/10/2014	06/04/2016	-	$0	1024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2014	421695	7 Rigel Place	22/01/2014	06/03/2014	-	$0	1291m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441669	5 Lupus Place	17/10/2014	09/12/2014	-	$0	1018m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	445110	            6/29 Smalley Circuit	10/12/2014	06/02/2015	-	$0	7804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441670	5 Lupus Place	12/08/2014	09/12/2014	-	$0	1018m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	426508	4 Orion Place	14/03/2014	09/05/2014	-	$0	794m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429785	3 Spica Street	11/04/2014	29/06/2014	18/03/2014	$0	801m	Full transfer	3	1	-	1	2	$0	24	-	Combined Record	-	-	-	Single residential dwelling	$285,000	11.96
+2014	474638	94 Chuculba Crescent	07/10/2014	06/04/2016	-	$0	872m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	464853	6 Birubi Place	01/02/2014	23/10/2015	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443780	10 Orion Place	24/11/2014	21/01/2015	08/09/2014	$0	782m	Full transfer	3	1	-	2	-	$0	77	-	Combined Record	-	-	-	Single residential dwelling	$300,000	11.96
+2014	429544	            2/51 Kootingal Street	20/02/2014	16/06/2014	-	$0	11559m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457463	135 Chuculba Crescent	20/05/2015	06/07/2015	05/03/2015	$920,000	836m	Full transfer	4	3	-	4	0	$920,000	76	-	Combined Record	-	-	-	Single residential dwelling...	$323,000	0.35
+2015	457395	154 Chuculba Crescent	18/04/2015	30/06/2015	25/03/2015	$902,000	1079m	Full transfer	6	2	1	2	0	$902,000	24	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.34
+2015	453013	19 Mirrabucca Crescent	30/05/2015	-	30/04/2015	$705,000	931m	Full transfer	4	1	1	-	2	$705,000	30	-	Allhomes Record	-	-	-	-	$396,000	0.56
+2015	478263	2 Wayal Place	31/03/2015	19/05/2016	-	$700,000	984m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2015	458472	3 Mooyi Place	27/05/2015	27/07/2015	18/05/2015	$660,000	774m	Full transfer	4	1	1	1	1	$660,000	9	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.47
+2015	457455	8 Merfield Place	01/06/2015	10/07/2015	14/05/2015	$650,500	849m	Full transfer	4	2	-	0	2	$650,500	18	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.5
+2015	473114	5 Baracchi Crescent	08/12/2015	02/03/2016	13/08/2015	$650,000	749m	Full transfer	3	3	-	1	0	$650,000	117	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.53
+2015	461691	104 Baracchi Crescent	23/07/2015	15/09/2015	21/05/2015	$640,000	993m	Full transfer	4	1	1	2	0	$640,000	63	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.5
+2015	467825	27 Mirrabucca Crescent	11/11/2015	23/12/2015	15/10/2015	$640,000	776m	Full transfer	3	1	1	2	1	$640,000	27	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.53
+2015	452853	60 Baracchi Crescent	27/03/2015	13/05/2015	11/03/2015	$640,000	1057m	Full transfer	4	1	1	2	-	$640,000	16	-	Combined Record	147	-	-	Single residential dwelling	$363,000	0.57
+2015	468752	99 Baracchi Crescent	12/11/2015	04/01/2016	09/10/2015	$625,000	915m	Full transfer	4	2	-	2	-	$625,000	34	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.55
+2015	451062	32 Mirrabucca Crescent	03/03/2015	28/04/2015	10/09/2014	$620,000	765m	Full transfer	3	2	-	4	0	$620,000	174	-	Combined Record	113	-	-	Single residential dwelling	$308,000	0.5
+2015	472350	23 Lenehan Street	14/11/2015	25/02/2016	20/10/2015	$601,500	722m	Full transfer	4	1	1	1	1	$601,500	25	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.54
+2015	460407	3 Kootingal Street	04/07/2015	18/08/2015	10/06/2015	$592,500	1111m	Full transfer	4	1	1	0	2	$592,500	24	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.55
+2015	470078	5 Avior Place	06/10/2015	03/02/2016	11/08/2015	$591,000	829m	Full transfer	3	1	-	3	-	$591,000	56	-	Combined Record	-	-	-	Residential	$330,000	0.56
+2015	462137	138 Chuculba Crescent	21/07/2015	23/09/2015	14/05/2015	$582,550	952m	Full transfer	4	2	-	2	0	$582,550	68	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.5
+2015	471648	9 Maraar Place	12/12/2015	17/02/2016	19/11/2015	$570,000	761m	Full transfer	4	3	-	1	-	$570,000	23	-	Combined Record	153	-	-	Single residential dwelling	$293,000	0.51
+2015	466701	4 Vela Place	20/07/2015	24/11/2015	-	$558,600	943m	Full transfer	-	-	-	-	-	$558,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472342	2 Lelta Place	21/12/2015	26/02/2016	10/12/2015	$542,500	1076m	Full transfer	3	1	-	4	3	$542,500	11	-	Combined Record	124	-	-	Single residential dwelling	$323,000	0.6
+2015	462508	28 Spica Street	21/10/2015	-	09/07/2015	$540,000	740m	Full transfer	3	1	-	-	-	$540,000	104	-	Allhomes Record	-	-	-	-	$293,000	0.54
+2015	468195	42 Spica Street	29/10/2015	15/12/2015	08/10/2015	$530,500	746m	Full transfer	3	1	-	4	0	$530,500	21	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.55
+2015	465347	1 Mana Place	23/07/2015	03/11/2015	02/07/2015	$530,000	878m	Full transfer	4	1	-	1	0	$530,000	21	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.58
+2015	457885	40 Smalley Circuit	08/05/2015	13/07/2015	30/04/2015	$520,000	760m	Full transfer	3	1	-	1	0	$520,000	8	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.63
+2015	475412	140 Chuculba Crescent	12/12/2015	14/04/2016	19/11/2015	$520,000	846m	Full transfer	3	1	-	2	0	$520,000	23	-	Combined Record	-	-	-	Single residential dwelling	$293,000	0.56
+2015	457459	15 Chuculba Crescent	29/05/2015	09/07/2015	06/05/2015	$480,000	908m	Full transfer	3	1	-	0	2	$480,000	23	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.64
+2015	455220	4 Fornax Street	23/04/2015	16/06/2015	27/02/2015	$470,000	760m	Full transfer	3	1	-	2	0	$470,000	55	-	Combined Record	-	-	-	Single residential dwelling	$308,000	0.66
+2015	462509	142 Chuculba Crescent	21/10/2015	-	01/10/2015	$461,000	761m	Full transfer	3	1	0	2	0	$461,000	20	-	Allhomes Record	-	-	-	-	$293,000	0.64
+2015	460415	10/29 Smalley Circuit	30/06/2015	18/08/2015	13/04/2015	$455,000	7804m	Full transfer	3	1	-	2	0	$455,000	78	-	Combined Record	-	-	-	Multiple unit dwelling	$2,004,000	4.4
+2015	470839	14 Wanaga Place	16/11/2015	10/02/2016	-	$450,000	733m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	445843	3/35 Kootingal Street	03/03/2015	-	06/01/2015	$392,000	11559m	Full transfer	2	1	-	-	2	$392,000	56	-	Allhomes Record	70	-	-	-	$3,820,000	9.74
+2015	457394	            3/51 Kootingal Street	27/02/2015	01/07/2015	-	$392,000	11559m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	442556	4/37 Kootingal Street	23/01/2015	-	24/10/2014	$370,000	-	Full transfer	2	1	-	-	1	$370,000	91	-	Allhomes Record	-	-	-	-	-	-
+2015	469321	26 Chuculba Crescent	09/11/2015	11/01/2016	-	$359,640	785m	Full transfer	-	-	-	-	-	$359,640	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468763	            26/51 Kootingal Street	16/11/2015	04/01/2016	-	$336,000	11559m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464452	26/49 Kootingal Street	16/11/2015	-	17/09/2015	$336,000	11559m	Full transfer	2	1	-	1	-	$336,000	60	-	Allhomes Record	82	-	-	-	$3,820,000	11.37
+2015	467213	7/71 Canopus Crescent	10/12/2015	-	22/01/2015	$315,000	0m	Full transfer	2	1	-	1	0	$315,000	322	-	Allhomes Record	-	-	-	-	-	-
+2015	472341	            7/5 Neworra Place	11/12/2015	23/02/2016	-	$315,000	10653m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467820	7 Birubi Place	03/09/2015	21/12/2015	-	$300,000	837m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471656	            17/5 Neworra Place	17/12/2015	15/02/2016	-	$275,000	10653m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	467218	51 Canopus Crescent	17/12/2015	-	01/09/2015	$275,000	10653m	Full transfer	1	1	-	-	1	$275,000	107	-	Allhomes Record	-	-	-	-	$3,677,000	13.37
+2015	468192	9 Womba Place	07/10/2015	15/12/2015	-	$225,000	720m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460244	3 Nunki Place	28/05/2015	28/08/2015	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461703	7 Alphard Place	12/03/2015	15/09/2015	-	$0	941m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473799	            4/29 Smalley Circuit	27/09/2015	22/03/2016	-	$0	7804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	457457	5 Balamara Street	21/04/2015	09/07/2015	20/03/2015	$0	698m	Full transfer	3	1	-	-	1	$0	32	-	Combined Record	-	-	-	Single residential dwelling	$308,000	13.37
+2015	452844	15 Canopus Crescent	05/02/2015	13/05/2015	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	488933	            13/5 Neworra Place	29/11/2015	24/10/2016	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	475419	6 Lelta Place	17/12/2015	15/04/2016	17/11/2015	$0	766m	Full transfer	3	1	-	-	1	$0	30	-	Combined Record	-	-	-	Single residential dwelling...	$308,000	13.37
+2015	475426	4 Lelta Place	31/08/2015	15/04/2016	-	$0	846m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464842	6 Nyawi Place	23/08/2015	19/10/2015	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	497025	15 Centaurus Street	18/10/2015	08/02/2017	-	$0	1055m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	478815	30 Smalley Circuit	27/10/2015	23/05/2016	-	$0	726m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	473809	3 Alphard Place	26/05/2015	21/03/2016	-	$0	838m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475421	4 Lelta Place	17/12/2015	15/04/2016	23/11/2015	$0	846m	Full transfer	3	1	-	-	1	$0	24	-	Combined Record	-	-	-	Single residential dwelling	$293,000	13.37
+2015	469334	20 Gundulu Place	12/08/2015	13/01/2016	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	498023	3 Gari Place	15/09/2016	17/02/2017	-	$1,815,000	2274m	Full transfer	-	-	-	-	-	$1,815,000	-	-	Government Record	-	-	-	Residential care accommodation	-	-
+2016	478275	69 Baracchi Crescent	19/03/2016	17/05/2016	23/02/2016	$879,000	893m	Full transfer	4	2	1	2	-	$879,000	25	-	Combined Record	-	-	-	Single residential dwelling...	$359,000	0.41
+2016	488905	10 Mooyi Place	15/09/2016	26/10/2016	-	$820,000	999m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500585	152 Chuculba Crescent	20/12/2016	14/03/2017	-	$765,000	1079m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	479269	66 Baracchi Crescent	14/04/2016	01/06/2016	-	$710,000	1149m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474649	3 Orion Place	22/01/2016	05/04/2016	22/10/2015	$700,000	787m	Full transfer	6	2	-	-	2	$700,000	92	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.46
+2016	476683	21 Mirrabucca Crescent	12/02/2016	27/04/2016	14/01/2016	$695,000	822m	Full transfer	5	2	-	2	0	$695,000	29	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.56
+2016	492712	5 Ankaa Place	13/08/2016	13/12/2016	21/07/2016	$680,500	824m	Full transfer	5	3	-	1	0	$680,500	23	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.45
+2016	488970	8 Womba Place	27/08/2016	28/10/2016	04/08/2016	$680,500	946m	Full transfer	4	2	-	2	0	$680,500	23	-	Combined Record	-	-	-	Single residential dwelling	$287,000	0.42
+2016	497200	1 Tanda Place	22/10/2016	07/02/2017	-	$680,000	1157m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488059	5 Bindiri Place	27/08/2016	12/10/2016	03/08/2016	$675,000	903m	Full transfer	4	2	-	2	0	$675,000	24	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.48
+2016	495352	88 Chuculba Crescent	24/11/2016	03/02/2017	18/11/2016	$650,450	724m	Full transfer	4	2	-	2	0	$650,450	6	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.5
+2016	494976	34 Smalley Circuit	05/09/2016	13/01/2017	19/07/2016	$645,000	819m	Full transfer	4	1	1	2	0	$645,000	48	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.54
+2016	481913	10 Lupus Place	21/03/2016	21/07/2016	-	$640,000	1077m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494984	20 Spica Street	12/11/2016	13/01/2017	20/10/2016	$640,000	994m	Full transfer	3	1	0	4	0	$640,000	23	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.48
+2016	490802	4 Rigel Place	22/09/2016	16/11/2016	04/08/2016	$635,000	929m	Full transfer	4	2	-	1	2	$635,000	49	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.55
+2016	475424	9 Spigl Street	12/02/2016	15/04/2016	05/02/2016	$625,000	815m	Full transfer	4	2	-	2	0	$625,000	7	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.54
+2016	488305	3 Chuculba Crescent	02/08/2016	05/10/2016	-	$615,000	1706m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486738	6 Musca Place	02/08/2016	13/09/2016	21/07/2016	$615,000	751m	Full transfer	4	2	-	2	0	$615,000	12	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.55
+2016	477660	6 Merfield Place	27/02/2016	13/05/2016	02/02/2016	$612,000	923m	Full transfer	4	1	1	-	2	$612,000	25	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.55
+2016	493660	22 Antares Crescent	26/10/2016	22/12/2016	20/10/2016	$610,000	854m	Full transfer	4	2	-	1	0	$610,000	6	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.53
+2016	501691	5 Nakala Place	14/10/2016	24/03/2017	01/09/2016	$600,000	848m	Full transfer	4	2	-	2	0	$600,000	43	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.54
+2016	477159	7 Orion Place	11/03/2016	04/05/2016	17/02/2016	$595,000	764m	Full transfer	6	2	1	2	2	$595,000	23	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.54
+2016	475990	4 Dodwell Street	15/01/2016	18/04/2016	-	$590,000	816m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487268	            1/73 Antares Crescent	30/07/2016	19/09/2016	-	$589,000	1363m	Full transfer	-	-	-	-	-	$589,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	480952	1 Nangle Place	30/07/2016	-	01/07/2016	$589,000	613m	Full transfer	4	1	1	-	2	$589,000	29	-	Allhomes Record	-	-	-	-	$435,000	0.74
+2016	491420	11 Wargila Place	06/09/2016	23/11/2016	16/08/2016	$580,000	906m	Full transfer	4	1	1	2	-	$580,000	21	-	Combined Record	-	-	-	Single residential dwelling	$307,000	0.53
+2016	488942	4 Palana Place	25/08/2016	26/10/2016	14/07/2016	$570,000	740m	Full transfer	4	1	1	2	0	$570,000	42	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.57
+2016	493759	5 Vela Place	31/10/2016	21/12/2016	19/08/2016	$550,000	1021m	Full transfer	5	2	-	0	2	$550,000	73	-	Combined Record	-	-	-	Single residential dwelling	$275,000	0.5
+2016	495333	16 Buriga Street	03/11/2016	02/02/2017	06/10/2016	$526,000	708m	Full transfer	3	1	-	1	1	$526,000	28	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.61
+2016	481871	7 Mirrabucca Crescent	18/05/2016	21/07/2016	-	$525,000	931m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	474647	21 Lenehan Street	09/02/2016	07/04/2016	19/11/2015	$525,000	706m	Full transfer	3	1	-	0	2	$525,000	82	-	Combined Record	-	-	-	Single residential dwelling	$339,000	0.65
+2016	478264	32 Centaurus Street	17/03/2016	18/05/2016	-	$515,000	909m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486783	9/29 Smalley Circuit	30/07/2016	13/09/2016	07/07/2016	$512,000	7804m	Full transfer	3	1	-	2	0	$512,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	483190	101 Baracchi Crescent	27/05/2016	10/08/2016	-	$500,000	959m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475418	4 Galan Place	25/02/2016	13/04/2016	-	$500,000	767m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484821	50 Chuculba Crescent	24/06/2016	25/08/2016	-	$500,000	659m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	473808	3 Nunki Place	25/01/2016	22/03/2016	-	$492,000	817m	Full transfer	-	-	-	-	-	$492,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477333	14 Buriga Street	26/05/2016	-	28/04/2016	$487,000	752m	Full transfer	-	-	-	-	-	$487,000	28	-	Allhomes Record	-	-	-	-	$300,000	0.62
+2016	478251	11 Gundulu Place	02/03/2016	17/05/2016	05/11/2015	$480,000	781m	Full transfer	3	1	0	2	0	$480,000	118	-	Combined Record	-	-	-	Single residential dwelling...	$307,000	0.64
+2016	498226	145 Chuculba Crescent	07/12/2016	16/02/2017	16/11/2016	$475,000	778m	Full transfer	3	1	-	2	-	$475,000	21	-	Combined Record	119	-	-	Single residential dwelling	$339,000	0.71
+2016	473111	3 Wanaga Place	18/01/2016	02/03/2016	22/10/2015	$475,000	656m	Full transfer	3	1	-	1	1	$475,000	88	-	Combined Record	-	-	-	Single residential dwelling	$40,000	0.08
+2016	478273	26 Balamara Street	03/03/2016	17/05/2016	11/02/2016	$468,000	1096m	Full transfer	4	2	-	2	0	$468,000	21	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.69
+2016	484445	100 Chuculba Crescent	04/07/2016	19/08/2016	-	$412,000	791m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	476661	7 Kootingal Street	17/02/2016	26/04/2016	22/01/2016	$410,000	680m	Full transfer	3	1	-	2	0	$410,000	26	-	Combined Record	-	-	-	Single residential dwelling	$323,000	0.79
+2016	481294	76 Chuculba Crescent	23/03/2016	14/07/2016	-	$357,000	732m	Full transfer	-	-	-	-	-	$357,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	496810	            13/5 Neworra Place	02/11/2016	07/02/2017	-	$293,000	10653m	Full transfer	-	-	-	-	-	$293,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	488523	13/59 Canopus Crescent	02/11/2016	-	05/10/2016	$293,000	-	Full transfer	1	1	-	-	1	$293,000	28	-	Allhomes Record	53	-	-	-	$3,677,000	12.55
+2016	540404	11/200 Baldwin Drive	08/08/2016	21/08/2018	-	$0	8787m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	557862	191 Chuculba Crescent	16/12/2016	15/04/2019	-	$0	1034m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504958	7 Warring Place	22/11/2016	05/05/2017	-	$0	1116m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	488240	11 Wargila Place	26/03/2016	04/10/2016	-	$0	906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477158	16 Smalley Circuit	18/02/2016	05/05/2016	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	487425	3 Antares Crescent	08/07/2016	29/09/2016	-	$0	935m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502587	1 Lubuma Place	19/09/2016	13/04/2017	-	$0	1016m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478816	31 Sculptor Street	17/03/2016	24/05/2016	-	$0	790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	518057	8 Maraar Place	11/03/2016	31/08/2017	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	521562	96 Baracchi Crescent	28/08/2016	19/12/2017	-	$0	807m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482143	20 Baracchi Crescent	20/04/2016	21/07/2016	-	$0	896m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	494082	10 Baracchi Crescent	15/10/2016	21/12/2016	-	$0	1183m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	484574	160 Chuculba Crescent	05/03/2016	19/08/2016	-	$0	1011m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	516929	14 Achernar Close	14/06/2016	01/08/2017	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	482542	100 Chuculba Crescent	01/01/2016	26/07/2016	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500991	4 Birubi Place	05/10/2016	30/03/2017	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478817	8 Nangle Place	20/01/2016	27/05/2016	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503128	10 Alinda Place	01/12/2016	03/04/2017	-	$0	882m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	485731	109 Chuculba Crescent	25/07/2016	01/09/2016	-	$0	1113m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	486212	9 Wargila Place	30/06/2016	06/09/2016	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492526	199 Chuculba Crescent	30/05/2016	13/12/2016	-	$0	1060m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495998	6/200 Baldwin Drive	17/11/2016	23/01/2017	-	$0	8787m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497086	4 Gidja Place	01/12/2016	10/02/2017	-	$0	1293m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	513360	            5/29 Smalley Circuit	07/06/2016	02/06/2017	-	$0	7804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522050	18 Lenehan Street	21/10/2017	05/01/2018	28/09/2017	$912,000	1078m	Full transfer	4	3	-	2	0	$912,000	23	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.52
+2017	528909	93 Chuculba Crescent	15/12/2017	27/03/2018	26/07/2017	$900,000	984m	Full transfer	7	4	-	3	0	$900,000	142	-	Combined Record	-	-	-	Single residential dwelling...	$347,000	0.39
+2017	526177	2 Munga Place	27/11/2017	27/02/2018	21/11/2017	$820,000	1120m	Full transfer	5	2	1	2	0	$820,000	6	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.54
+2017	515019	58 Baracchi Crescent	12/05/2017	05/07/2017	26/04/2017	$795,000	1034m	Full transfer	4	2	-	2	0	$795,000	16	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.52
+2017	529173	96 Baracchi Crescent	09/12/2017	26/03/2018	16/11/2017	$782,000	807m	Full transfer	3	2	-	5	0	$782,000	23	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.49
+2017	517268	67 Baracchi Crescent	10/05/2017	15/08/2017	27/04/2017	$761,500	878m	Full transfer	4	2	-	2	0	$761,500	13	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.51
+2017	517917	14 Achernar Close	10/06/2017	31/08/2017	25/05/2017	$760,000	826m	Full transfer	3	2	-	2	0	$760,000	16	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.46
+2017	522112	2 Dudi Place	21/09/2017	14/12/2017	-	$750,000	1197m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522147	49 Baracchi Crescent	14/09/2017	12/12/2017	06/09/2017	$745,000	934m	Full transfer	4	1	-	0	1	$745,000	8	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.52
+2017	506202	2/29 Smalley Circuit	06/07/2017	-	14/06/2017	$745,000	0m	Full transfer	3	2	-	2	0	$745,000	22	-	Allhomes Record	-	-	-	-	-	-
+2017	514595	6 Gidja Place	14/02/2017	03/07/2017	02/02/2017	$742,050	953m	Full transfer	4	2	-	2	0	$742,050	12	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.49
+2017	505167	8 Tucana Street	11/03/2017	01/05/2017	13/02/2017	$710,000	1008m	Full transfer	4	2	-	2	-	$710,000	26	-	Combined Record	193	-	-	Single residential dwelling	$348,000	0.49
+2017	504404	96 Canopus Crescent	25/05/2017	-	10/04/2017	$680,000	985m	Full transfer	-	-	-	-	-	$680,000	45	-	Allhomes Record	-	-	-	-	$297,000	0.44
+2017	528133	83 Canopus Crescent	25/11/2017	19/03/2018	01/11/2017	$675,000	858m	Full transfer	4	2	-	2	-	$675,000	24	-	Combined Record	148	-	-	Single residential dwelling	$330,000	0.49
+2017	524312	50 Smalley Circuit	14/11/2017	24/01/2018	02/11/2017	$673,000	845m	Full transfer	3	2	-	1	1	$673,000	12	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.54
+2017	523471	207 Chuculba Crescent	01/11/2017	18/01/2018	06/10/2017	$651,000	951m	Full transfer	3	2	-	0	2	$651,000	26	-	Combined Record	-	-	-	Single residential dwelling	$348,000	0.53
+2017	501178	22 Canopus Crescent	20/01/2017	27/03/2017	12/01/2017	$650,100	758m	Full transfer	4	3	-	4	0	$650,100	8	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.53
+2017	516852	7 Warrambool Close	08/05/2017	02/08/2017	21/04/2017	$640,000	915m	Full transfer	3	2	-	0	2	$640,000	17	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.6
+2017	522743	5 Kinalung Place	14/10/2017	08/01/2018	21/09/2017	$635,000	689m	Full transfer	4	1	-	0	4	$635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.55
+2017	522276	9 Womba Place	16/08/2017	12/12/2017	20/07/2017	$620,000	720m	Full transfer	3	1	-	2	0	$620,000	27	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.56
+2017	505890	8 Maraar Place	24/06/2017	-	31/05/2017	$615,000	-	Full transfer	3	2	-	2	-	$615,000	24	-	Allhomes Record	-	-	-	-	$330,000	0.54
+2017	516304	11 Altair Place	17/06/2017	08/08/2017	25/05/2017	$610,500	946m	Full transfer	4	2	-	2	1	$610,500	23	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.51
+2017	500589	94 Chuculba Crescent	23/01/2017	15/03/2017	10/11/2016	$600,000	872m	Full transfer	5	2	-	-	2	$600,000	74	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.58
+2017	514551	6 Centaurus Street	13/05/2017	05/07/2017	19/04/2017	$590,000	706m	Full transfer	3	2	-	2	-	$590,000	24	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.59
+2017	513738	5 Warrambool Close	18/04/2017	31/05/2017	29/03/2017	$587,559	867m	Full transfer	3	1	-	1	0	$587,559	20	-	Combined Record	-	-	-	Single residential dwelling	$386,000	0.66
+2017	524688	3 Lelta Place	03/10/2017	30/01/2018	26/07/2017	$580,000	1076m	Full transfer	3	1	-	0	0	$580,000	69	-	Combined Record	-	-	-	Single residential dwelling	$364,000	0.63
+2017	527627	89 Chuculba Crescent	28/10/2017	13/03/2018	05/10/2017	$577,500	742m	Full transfer	3	1	-	2	2	$577,500	23	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.6
+2017	520485	5 Birubi Place	18/08/2017	07/11/2017	12/07/2017	$570,000	676m	Full transfer	3	1	-	2	3	$570,000	37	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.61
+2017	514201	110 Baracchi Crescent	26/06/2017	26/06/2017	12/04/2017	$570,000	1019m	Full transfer	-	-	-	-	-	$570,000	75	-	Combined Record	-	-	-	Single residential dwelling	$515,000	0.9
+2017	555252	84 Chuculba Crescent	20/12/2017	13/03/2019	-	$560,000	701m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	500165	12 Tucana Street	23/01/2017	09/03/2017	-	$560,000	1081m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524723	2/22 Chuculba Crescent	28/11/2017	29/01/2018	05/10/2017	$530,000	854m	Full transfer	3	2	-	1	0	$530,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	502389	4 Wilari Place	08/03/2017	18/04/2017	07/02/2017	$521,000	737m	Full transfer	3	1	-	-	-	$521,000	29	-	Combined Record	108	-	-	Single residential dwelling...	$386,000	0.74
+2017	514493	9 Gundulu Place	04/05/2017	03/07/2017	06/04/2017	$521,000	806m	Full transfer	3	1	-	2	0	$521,000	28	-	Combined Record	-	-	-	Single residential dwelling	$330,000	0.63
+2017	507029	41 Baracchi Crescent	10/08/2017	-	23/06/2017	$520,000	865m	Full transfer	-	-	-	-	-	$520,000	48	-	Allhomes Record	-	-	-	-	$333,000	0.64
+2017	519573	41 Baracchi Crescent	12/10/2017	12/10/2017	-	$520,000	866m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503418	            2/51 Kootingal Street	18/02/2017	07/04/2017	-	$515,000	11559m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	496137	53 Kootingal Street	18/02/2017	-	24/01/2017	$515,000	-	Full transfer	3	2	-	2	-	$515,000	25	-	Allhomes Record	134	-	-	-	$3,820,000	7.42
+2017	506470	7 Kinalung Place	14/07/2017	-	22/02/2017	$490,000	822m	Full transfer	-	-	-	-	-	$490,000	142	-	Allhomes Record	-	-	-	-	$297,000	0.61
+2017	512974	7 Spigl Street	23/05/2017	23/05/2017	-	$490,000	820m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	494182	7A Malindi Place	30/01/2017	-	27/06/2016	$490,000	-	Full transfer	3	1	-	1	-	$490,000	217	-	Allhomes Record	109	-	-	-	$399,000	0.81
+2017	502377	1/7A Malindi Place	30/01/2017	18/04/2017	-	$490,000	945m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	499272	7 Spigl Street	23/03/2017	-	24/02/2017	$490,000	876m	Full transfer	-	-	-	-	-	$490,000	27	-	Allhomes Record	-	-	-	-	$440,000	0.9
+2017	499271	13 Fornax Street	23/03/2017	-	21/02/2017	$470,000	735m	Full transfer	-	-	-	-	-	$470,000	30	-	Allhomes Record	-	-	-	-	$425,000	0.9
+2017	512717	13 Fornax Street	22/05/2017	22/05/2017	-	$470,000	735m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522809	116 Chuculba Crescent	16/11/2017	11/01/2018	-	$400,000	895m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520443	            18/51 Kootingal Street	21/08/2017	10/11/2017	-	$391,500	11559m	Full transfer	-	-	-	-	-	$391,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507280	18 Warring Place	21/08/2017	-	14/07/2017	$391,500	0m	Full transfer	2	1	-	1	0	$391,500	38	-	Allhomes Record	-	-	-	-	$3,820,000	9.76
+2017	526261	            8/51 Kootingal Street	21/12/2017	27/02/2018	-	$385,000	11559m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510846	30 Warring Place	21/12/2017	-	19/10/2017	$385,000	0m	Full transfer	2	1	-	0	1	$385,000	63	-	Allhomes Record	-	-	-	-	$3,820,000	9.92
+2017	508418	39 Kootingal Street	28/08/2017	-	06/10/2017	$385,000	0m	Full transfer	2	1	-	1	0	$385,000	-	-	Allhomes Record	-	-	-	-	$3,820,000	9.92
+2017	524558	            18/5 Neworra Place	26/10/2017	30/01/2018	-	$375,000	10653m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	508885	18/75 Canopus Crescent	26/10/2017	-	24/08/2017	$375,000	-	Full transfer	2	1	-	1	-	$375,000	63	-	Allhomes Record	80	-	-	-	$3,677,000	9.81
+2017	524853	            3/5 Neworra Place	04/12/2017	01/02/2018	-	$360,000	10653m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510242	3/1 Neworra Place	04/12/2017	-	28/06/2017	$360,000	10653m	Full transfer	2	1	-	1	-	$360,000	159	-	Allhomes Record	-	-	-	-	-	-
+2017	528595	            13/51 Kootingal Street	20/12/2017	19/03/2018	-	$352,000	11559m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510874	12 Warring Place	20/12/2017	-	01/11/2017	$352,000	0m	Full transfer	2	1	-	1	-	$352,000	49	-	Allhomes Record	-	-	-	-	$3,820,000	10.85
+2017	501461	160 Chuculba Crescent	03/02/2017	24/03/2017	-	$200,000	1011m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	548864	64 Baracchi Crescent	03/09/2017	14/01/2019	-	$0	1199m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	575171	16 Womba Place	17/03/2017	26/11/2019	-	$0	852m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524858	6 Birubi Place	27/09/2017	02/02/2018	-	$0	880m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	515988	10 Merfield Place	15/05/2017	25/07/2017	-	$0	810m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519706	14 Lubuma Place	07/07/2017	20/10/2017	-	$0	843m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	554147	51 Baracchi Crescent	14/07/2017	26/02/2019	-	$0	1075m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522532	56 Baracchi Crescent	30/04/2017	08/01/2018	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530373	            9/5 Neworra Place	01/10/2017	11/04/2018	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	528814	25 Chuculba Crescent	22/12/2017	23/03/2018	-	$0	851m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521730	15 Achernar Close	24/07/2017	22/12/2017	-	$0	1096m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	518359	6 Rigel Place	06/06/2017	06/09/2017	-	$0	1065m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	529578	33 Canopus Crescent	14/12/2017	03/04/2018	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528198	            12/5 Neworra Place	06/11/2017	22/03/2018	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519248	6 Nyawi Place	22/05/2017	10/10/2017	-	$0	894m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514685	4 Lubuma Place	31/05/2017	06/07/2017	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2018	573518	7 Spigl Street	01/09/2018	-	06/06/2018	$1,205,000	819m	Full transfer	4	3	1	2	0	$1,205,000	87	-	Allhomes Record	-	-	-	-	$469,000	0.39
+2018	549347	6 Dodwell Street	17/08/2018	08/11/2018	10/07/2018	$867,700	816m	Full transfer	4	1	2	2	0	$867,700	38	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.44
+2018	529232	16 Canopus Crescent	01/02/2018	08/04/2018	13/09/2017	$860,000	850m	Full transfer	6	2	1	1	1	$860,000	141	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.43
+2018	549649	101 Baracchi Crescent	17/09/2018	01/11/2018	21/08/2018	$810,000	959m	Full transfer	4	3	-	2	-	$810,000	27	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.48
+2018	541417	13 Capella Crescent	19/05/2018	06/09/2018	26/04/2018	$806,000	842m	Full transfer	4	2	-	2	0	$806,000	23	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.47
+2018	535041	7 Rigel Place	05/04/2018	14/06/2018	15/03/2018	$803,000	1291m	Full transfer	3	2	-	2	0	$803,000	21	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.55
+2018	529736	12 Achernar Close	12/02/2018	05/04/2018	23/01/2018	$800,000	1145m	Full transfer	4	2	-	2	0	$800,000	20	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.49
+2018	553501	38 Smalley Circuit	15/11/2018	05/02/2019	01/11/2018	$770,000	731m	Full transfer	4	2	-	0	2	$770,000	14	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.49
+2018	561122	3 Lenehan Street	09/11/2018	04/01/2019	03/10/2018	$765,000	757m	Full transfer	4	2	-	0	1	$765,000	37	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.58
+2018	543287	18 Sculptor Street	28/07/2018	04/10/2018	05/07/2018	$765,000	738m	Full transfer	4	2	-	0	2	$765,000	23	-	Combined Record	-	-	-	Single residential dwelling	$477,000	0.62
+2018	567099	10 Alinda Place	29/11/2018	16/08/2019	-	$760,000	882m	Partial transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561400	6 Pinterry Place	31/10/2018	14/01/2019	10/10/2018	$760,000	698m	Full transfer	4	2	-	2	-	$760,000	21	-	Combined Record	159	-	-	Single residential dwelling	$370,000	0.49
+2018	525516	7 Birubi Place	24/02/2018	-	30/01/2018	$756,000	-	Full transfer	4	2	-	2	-	$756,000	25	-	Allhomes Record	159	-	-	-	$370,000	0.49
+2018	551580	26 Spica Street	22/09/2018	13/11/2018	08/06/2018	$755,000	740m	Full transfer	3	2	-	0	2	$755,000	106	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.47
+2018	531006	107 Chuculba Crescent	24/02/2018	22/04/2018	01/02/2018	$735,000	797m	Full transfer	4	2	-	2	0	$735,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.5
+2018	547917	4 Rigel Place	07/09/2018	25/10/2018	-	$735,000	929m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541241	12 Baracchi Crescent	30/05/2018	03/09/2018	04/05/2018	$730,000	833m	Full transfer	4	2	-	1	2	$730,000	26	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.56
+2018	533390	7 Avior Place	04/04/2018	27/05/2018	21/02/2018	$730,000	1079m	Full transfer	3	2	-	2	0	$730,000	42	-	Combined Record	131	-	-	Single residential dwelling	$409,000	0.56
+2018	544301	4 Orion Place	25/08/2018	17/10/2018	08/08/2018	$715,000	794m	Full transfer	3	3	-	2	0	$715,000	17	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.52
+2018	537573	9 Lenehan Street	05/05/2018	09/07/2018	12/04/2018	$707,000	700m	Full transfer	3	1	-	2	0	$707,000	23	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.63
+2018	538231	11 Phoenix Place	26/05/2018	16/07/2018	03/05/2018	$705,000	727m	Full transfer	5	3	-	0	2	$705,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.52
+2018	532088	111 Canopus Crescent	22/05/2018	-	17/05/2018	$687,000	0m	Full transfer	4	2	-	0	2	$687,000	5	-	Allhomes Record	-	-	-	-	$352,000	0.51
+2018	548222	6 Achernar Close	30/08/2018	06/11/2018	23/08/2018	$685,750	1070m	Full transfer	3	2	-	2	-	$685,750	7	-	Combined Record	150	-	-	Single residential dwelling	$388,000	0.57
+2018	532332	1 Mana Place	24/02/2018	07/05/2018	31/01/2018	$685,000	878m	Full transfer	4	2	-	1	0	$685,000	24	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.54
+2018	549385	16 Buriga Street	04/09/2018	08/11/2018	22/08/2018	$680,000	708m	Full transfer	3	1	-	1	1	$680,000	13	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.54
+2018	548337	12 Womba Place	14/09/2018	06/11/2018	02/08/2018	$680,000	722m	Full transfer	4	2	-	1	0	$680,000	43	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.54
+2018	551727	16 Gundulu Place	13/10/2018	09/01/2019	21/09/2018	$670,000	686m	Full transfer	3	1	-	2	1	$670,000	22	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.53
+2018	536908	3 Spica Street	19/05/2018	05/07/2018	26/04/2018	$650,000	801m	Full transfer	3	1	-	2	2	$650,000	23	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.54
+2018	552149	109 Chuculba Crescent	14/11/2018	22/01/2019	24/10/2018	$648,000	1113m	Full transfer	4	2	-	-	3	$648,000	21	-	Combined Record	182	-	-	Single residential dwelling	$316,000	0.49
+2018	529567	103 Chuculba Crescent	06/02/2018	04/04/2018	-	$640,000	1066m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531865	36 Chuculba Crescent	15/05/2018	-	27/03/2018	$640,000	959m	Full transfer	3	1	-	-	1	$640,000	49	-	Allhomes Record	-	-	-	-	$370,000	0.58
+2018	538178	36 Chuculba Crescent	15/03/2018	17/07/2018	-	$640,000	959m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2018	535100	142 Chuculba Crescent	24/03/2018	14/06/2018	22/02/2018	$637,500	762m	Full transfer	3	1	-	2	0	$637,500	30	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.55
+2018	533048	13 Mirrabucca Crescent	30/05/2018	-	23/06/2017	$630,000	941m	Full transfer	-	-	-	-	-	$630,000	341	-	Allhomes Record	-	-	-	-	$335,000	0.53
+2018	541040	13 Mirrabucca Crescent	28/08/2018	28/08/2018	-	$630,000	941m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	546950	6 Ankaa Place	10/10/2018	27/11/2018	09/08/2018	$626,000	725m	Full transfer	3	1	0	0	2	$626,000	62	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.56
+2018	533546	6 Wayal Place	28/02/2018	22/05/2018	01/02/2018	$620,000	731m	Full transfer	3	1	-	2	0	$620,000	27	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.6
+2018	535126	10 Altair Place	17/03/2018	12/06/2018	22/02/2018	$610,000	979m	Full transfer	3	1	-	0	3	$610,000	23	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.61
+2018	535148	5 Altair Place	12/04/2018	17/06/2018	05/04/2018	$605,000	797m	Full transfer	3	1	-	0	2	$605,000	7	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.61
+2018	534522	7 Wayal Place	06/04/2018	07/06/2018	10/01/2018	$600,000	693m	Full transfer	3	1	-	0	1	$600,000	86	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.62
+2018	548145	1 Tucana Street	22/09/2018	08/11/2018	04/09/2018	$590,000	927m	Full transfer	3	1	-	0	1	$590,000	18	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.6
+2018	552855	7 Lupus Place	30/11/2018	08/02/2019	11/10/2018	$575,000	712m	Full transfer	2	1	-	0	2	$575,000	50	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.72
+2018	549537	            17/51 Kootingal Street	17/08/2018	01/11/2018	-	$575,000	11559m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	533324	21 Fornax Street	07/03/2018	23/05/2018	08/02/2018	$542,000	741m	Full transfer	3	1	-	1	0	$542,000	27	-	Combined Record	-	-	-	Single residential dwelling...	$370,000	0.68
+2018	536987	12 Bindiri Place	10/05/2018	04/07/2018	19/04/2018	$535,000	821m	Full transfer	3	1	-	1	0	$535,000	21	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.69
+2018	533883	10 Hirst Place	14/02/2018	03/06/2018	-	$505,000	800m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	526097	67 Canopus Crescent	02/03/2018	-	14/02/2018	$400,000	0m	Full transfer	3	1	-	2	0	$400,000	16	-	Allhomes Record	-	-	-	-	$3,677,000	9.19
+2018	534679	            9/5 Neworra Place	02/03/2018	05/06/2018	-	$400,000	10653m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536626	            14/5 Neworra Place	06/06/2018	25/06/2018	-	$300,000	10653m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	544525	17 Lenehan Street	08/08/2018	16/10/2018	-	$34,000	724m	Full transfer	-	-	-	-	-	$34,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552379	109 Chuculba Crescent	09/03/2018	22/01/2019	-	$0	1113m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541184	12 Tanda Place	16/05/2018	07/09/2018	29/03/2018	$0	1142m	Full transfer	4	3	-	2	2	$0	48	-	Combined Record	-	-	-	Single residential dwelling	$352,000	9.19
+2018	551315	7 Lupus Place	20/05/2018	09/01/2019	-	$0	712m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	575423	109 Canopus Crescent	02/06/2018	26/11/2019	-	$0	752m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	577236	11 Merfield Place	05/11/2018	16/12/2019	-	$0	931m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528336	14 Smalley Circuit	16/01/2018	22/03/2018	-	$0	875m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	551454	7 Spigl Street	30/08/2018	16/11/2018	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573461	17 Sculptor Street	25/11/2019	-	31/10/2019	$1,130,000	0m	Full transfer	6	3	-	3	0	$1,130,000	25	-	Allhomes Record	-	-	-	-	$548,000	0.48
+2019	553759	5 Sculptor Street	27/02/2019	-	31/01/2019	$1,110,000	2060m	Full transfer	6	3	-	2	0	$1,110,000	27	-	Allhomes Record	-	-	-	-	$477,000	0.43
+2019	562631	5 Sculptor Street	27/07/2019	13/06/2019	-	$1,110,000	2060m	Full transfer	-	-	-	-	-	$1,110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576919	1 Smalley Circuit	20/12/2019	-	12/11/2019	$880,000	976m	Full transfer	5	3	-	2	0	$880,000	38	-	Allhomes Record	-	-	-	-	$335,000	0.38
+2019	576225	96 Canopus Crescent	17/12/2019	-	01/10/2019	$866,100	0m	Full transfer	4	2	-	2	0	$866,100	77	-	Allhomes Record	-	-	-	-	$610,000	0.7
+2019	576058	20 Sculptor Street	08/10/2019	07/12/2019	-	$858,500	735m	Full transfer	-	-	-	-	-	$858,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566154	7 Merfield Place	27/06/2019	01/08/2019	29/04/2019	$840,000	918m	Full transfer	5	3	-	2	-	$840,000	59	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.46
+2019	574897	9 Spigl Street	14/09/2019	22/11/2019	22/08/2019	$835,000	815m	Full transfer	4	2	-	1	1	$835,000	23	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.46
+2019	573298	56 Baracchi Crescent	03/07/2019	29/10/2019	24/04/2019	$830,000	903m	Full transfer	4	3	-	3	-	$830,000	70	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.5
+2019	574326	53 Baracchi Crescent	21/08/2019	15/11/2019	30/07/2019	$805,000	1102m	Full transfer	5	3	-	3	0	$805,000	22	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.47
+2019	567816	3 Rigel Place	29/06/2019	22/08/2019	04/06/2019	$785,000	850m	Full transfer	4	3	-	2	0	$785,000	25	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.52
+2019	575520	11 Merfield Place	14/12/2019	-	24/09/2019	$780,000	0m	Full transfer	4	2	-	2	0	$780,000	81	-	Allhomes Record	-	-	-	-	$448,000	0.57
+2019	565162	3 Gidja Place	01/06/2019	08/07/2019	08/05/2019	$775,000	956m	Full transfer	3	2	-	-	2	$775,000	24	-	Combined Record	148	-	-	Single residential dwelling	$409,000	0.53
+2019	576204	25 Centaurus Street	18/12/2019	-	27/11/2019	$765,000	986m	Full transfer	5	2	-	2	0	$765,000	21	-	Allhomes Record	-	-	-	-	$347,000	0.45
+2019	567258	32 Baracchi Crescent	13/06/2019	15/08/2019	06/06/2019	$762,600	811m	Full transfer	4	2	-	2	0	$762,600	7	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.58
+2019	574536	1 Tanda Place	28/09/2019	22/11/2019	05/09/2019	$755,000	1157m	Full transfer	4	1	-	1	1	$755,000	23	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.54
+2019	569322	33 Capella Crescent	29/06/2019	11/09/2019	03/06/2019	$743,600	1025m	Full transfer	5	3	-	2	0	$743,600	26	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.55
+2019	568161	7 Capella Crescent	22/08/2019	28/08/2019	-	$720,000	1107m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	575814	9 Wayal Place	23/10/2019	07/12/2019	13/06/2019	$707,000	874m	Full transfer	4	2	-	2	0	$707,000	132	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.55
+2019	567499	30 Mirrabucca Crescent	18/07/2019	22/08/2019	06/06/2019	$702,500	852m	Full transfer	4	2	-	2	0	$702,500	42	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.53
+2019	559174	5 Alphard Place	01/04/2019	13/05/2019	28/02/2019	$700,000	866m	Full transfer	4	2	-	2	0	$700,000	32	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.53
+2019	558471	26 Chuculba Crescent	15/03/2019	29/04/2019	18/02/2019	$700,000	785m	Full transfer	4	1	1	2	1	$700,000	25	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.53
+2019	575954	12 Ankaa Place	09/09/2019	07/12/2019	-	$700,000	1053m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	566070	            2/3 Lelta Place	01/07/2019	01/08/2019	-	$695,000	1076m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564734	1 Capella Crescent	06/04/2019	12/07/2019	13/03/2019	$692,000	895m	Full transfer	4	2	-	2	1	$692,000	24	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.55
+2019	571442	38 Spica Street	01/11/2019	-	17/10/2019	$685,000	801m	Full transfer	3	1	-	2	1	$685,000	15	-	Allhomes Record	-	-	-	-	$371,000	0.54
+2019	569962	5 Mirrabucca Crescent	03/07/2019	19/09/2019	13/06/2019	$675,000	769m	Full transfer	3	1	-	1	0	$675,000	20	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.55
+2019	572836	4 Kurria Place	03/09/2019	25/10/2019	15/08/2019	$675,000	890m	Full transfer	3	2	-	2	0	$675,000	19	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.55
+2019	556333	10 Chuculba Crescent	19/01/2019	29/03/2019	11/12/2018	$665,000	1095m	Full transfer	3	1	-	0	2	$665,000	39	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.55
+2019	557692	191 Chuculba Crescent	27/02/2019	15/04/2019	31/01/2019	$662,000	1034m	Partial transfer	4	2	-	2	0	$662,000	27	-	Combined Record	-	-	-	Single residential dwelling	$382,000	0.58
+2019	562157	12 Kinalung Place	26/04/2019	04/06/2019	21/02/2019	$660,000	828m	Full transfer	4	2	-	0	0	$660,000	64	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.56
+2019	562795	            14A Buriga Street	22/05/2019	-	12/12/2018	$658,500	0m	Full transfer	3	2	-	0	1	$658,500	161	-	Allhomes Record	-	-	-	-	-	-
+2019	567617	            2/14A Buriga Street	09/07/2019	19/08/2019	-	$658,500	753m	Full transfer	-	-	-	-	-	$658,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569229	            1/14A Buriga Street	22/05/2019	11/09/2019	-	$655,000	753m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570890	137 Chuculba Crescent	16/08/2019	01/10/2019	29/05/2019	$643,000	828m	Full transfer	3	1	-	2	-	$643,000	79	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.6
+2019	567429	14 Wanaga Place	20/07/2019	23/08/2019	27/06/2019	$635,000	733m	Full transfer	3	1	-	2	0	$635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.55
+2019	569370	94 Canopus Crescent	30/07/2019	10/09/2019	03/04/2019	$620,000	790m	Full transfer	3	1	-	2	1	$620,000	118	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.57
+2019	572381	1/29 Smalley Circuit	14/11/2019	-	23/10/2019	$615,000	-	Full transfer	3	1	-	2	-	$615,000	22	-	Allhomes Record	-	-	-	-	-	-
+2019	558244	111 Chuculba Crescent	19/03/2019	03/05/2019	20/02/2019	$610,000	842m	Full transfer	3	2	-	2	1	$610,000	27	-	Combined Record	132	-	-	Single residential dwelling	$370,000	0.61
+2019	569354	70 Antares Crescent	09/08/2019	12/09/2019	13/06/2019	$610,000	750m	Full transfer	3	1	-	0	1	$610,000	57	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.61
+2019	568916	125 Baracchi Crescent	26/07/2019	05/09/2019	21/03/2019	$610,000	933m	Full transfer	3	1	-	2	-	$610,000	127	-	Combined Record	-	-	-	Single residential dwelling	$412,000	0.68
+2019	574854	8 Nakala Place	09/05/2019	11/11/2019	-	$605,000	903m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563888	79 Chuculba Crescent	29/05/2019	04/07/2019	20/03/2019	$595,000	782m	Full transfer	3	1	-	-	2	$595,000	70	-	Combined Record	106	-	-	Single residential dwelling	$370,000	0.62
+2019	575424	16 Womba Place	24/09/2019	26/11/2019	-	$589,032	852m	Full transfer	-	-	-	-	-	$589,032	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563180	72 Chuculba Crescent	06/05/2019	17/06/2019	13/03/2019	$582,000	744m	Full transfer	3	1	-	1	0	$582,000	54	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.64
+2019	576371	            15/51 Kootingal Street	12/10/2019	12/12/2019	-	$526,000	11559m	Full transfer	-	-	-	-	-	$526,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570197	24 Warring Place	12/10/2019	-	19/09/2019	$526,000	0m	Full transfer	3	1	-	2	0	$526,000	23	-	Allhomes Record	-	-	-	-	$3,820,000	7.26
+2019	574057	29 Balamara Street	04/12/2019	-	14/11/2019	$520,000	0m	Full transfer	3	1	-	1	0	$520,000	20	-	Allhomes Record	-	-	-	-	$390,000	0.75
+2019	573317	3/1 Neworra Place	19/11/2019	-	31/10/2019	$405,000	0m	Full transfer	2	1	-	1	0	$405,000	19	-	Allhomes Record	-	-	-	-	-	-
+2019	573854	12 Warring Place	28/11/2019	-	22/11/2019	$402,500	0m	Full transfer	2	1	-	1	0	$402,500	6	-	Allhomes Record	-	-	-	-	$3,820,000	9.49
+2019	568506	16 Warring Place	16/09/2019	-	13/06/2019	$387,700	0m	Full transfer	2	1	-	1	0	$387,700	95	-	Allhomes Record	-	-	-	-	$3,820,000	9.85
+2019	564514	55 Canopus Crescent	31/07/2019	-	27/06/2019	$330,000	365m	Full transfer	1	1	-	1	0	$330,000	34	-	Allhomes Record	-	-	-	-	$3,677,000	11.14
+2019	569287	            15/5 Neworra Place	31/07/2019	10/09/2019	-	$330,000	10653m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558026	63 Canopus Crescent	09/05/2019	-	23/04/2019	$327,258	189m	Full transfer	1	1	-	0	1	$327,258	16	-	Allhomes Record	-	-	-	-	$3,677,000	11.24
+2019	564713	            11/5 Neworra Place	09/05/2019	15/07/2019	-	$327,258	10653m	Full transfer	-	-	-	-	-	$327,258	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	546605	12/61 Canopus Crescent	04/02/2019	-	18/01/2019	$325,000	0m	Full transfer	1	1	-	0	1	$325,000	17	-	Allhomes Record	-	-	-	-	-	-
+2019	565050	64 Baracchi Crescent	17/06/2019	08/07/2019	-	$171,166	1199m	Full transfer	-	-	-	-	-	$171,166	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570556	2/22 Chuculba Crescent	09/08/2019	23/09/2019	-	$54,568	854m	Full transfer	-	-	-	-	-	$54,568	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569041	13 Sculptor Street	20/03/2019	05/09/2019	-	$0	1304m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	555732	            12/5 Neworra Place	04/02/2019	21/03/2019	-	$0	10653m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	563070	9 Phoenix Place	31/05/2019	19/06/2019	-	$0	718m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	575763	14 Smalley Circuit	21/10/2019	07/12/2019	09/10/2019	$0	875m	Full transfer	3	1	-	1	0	$0	12	-	Combined Record	-	-	-	Single residential dwelling	$400,000	11.24
