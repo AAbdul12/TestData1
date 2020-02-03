@@ -1,0 +1,1203 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	167220	27 Parkhill Street	11/12/2006	10/04/2007	-	$900,000	1174m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225371	36 Beasley Street	01/04/2006	19/07/2006	09/03/2006	$642,000	1046m	Full transfer	4	1	1	2	1	$642,000	23	-	Combined Record	-	-	-	Single residential dwelling	$224,000	0.35
+2006	165510	21 Parkhill Street	07/12/2006	02/02/2007	18/10/2006	$620,000	805m	Full transfer	5	1	1	2	-	$620,000	50	-	Combined Record	-	-	-	Single residential dwelling	$260,000	0.42
+2006	37450	1/68 Collings Street	24/08/2006	22/09/2006	-	$610,000	976m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34975	76 Parkhill Street	22/05/2006	21/08/2006	13/10/2005	$605,000	1043m	Full transfer	4	1	1	-	2	$605,000	221	-	Combined Record	-	-	-	Single residential dwelling	$285,000	0.47
+2006	225386	41 Parkhill Street	16/01/2006	22/02/2006	01/11/2005	$600,000	798m	Full transfer	4	1	1	2	-	$600,000	76	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.5
+2006	119658	43 Parkhill Street	22/09/2006	30/10/2006	-	$567,000	774m	Full transfer	-	-	-	-	-	$567,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169796	7 Low Place	14/07/2006	13/12/2006	-	$562,500	1004m	Full transfer	-	-	-	-	-	$562,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	85847	10 Hodgson Crescent	08/09/2006	-	08/08/2006	$560,000	570m	Full transfer	4	1	1	2	-	$560,000	31	-	Allhomes Record	-	-	-	-	$219,000	0.39
+2006	165815	20 Coleman Street	29/09/2006	21/11/2006	-	$530,000	984m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	168936	19 Leighton Street	02/11/2006	22/03/2007	-	$510,000	885m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34606	13 Coleman Street	16/08/2006	28/09/2006	-	$510,000	837m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225311	6 Collings Street	12/05/2006	04/07/2006	-	$485,000	815m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	408715	6/79 Collings Street	14/12/2006	07/02/2007	17/10/2006	$485,000	13790m	Full transfer	3	-	1	2	-	$485,000	58	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	225391	9 Clarkson Street	30/01/2006	21/02/2006	23/12/2005	$465,000	967m	Full transfer	4	2	-	-	-	$465,000	38	-	Combined Record	-	-	-	Single residential dwelling	$278,000	0.6
+2006	34607	8/80 Marr Street	25/08/2006	27/09/2006	-	$447,500	5626m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165816	9/2 Marr Street	11/10/2006	20/11/2006	-	$433,000	5211m	Full transfer	-	-	-	-	-	$433,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	120160	8 Low Place	24/06/2006	19/04/2007	-	$425,000	1192m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	77103	26/30 Marr Street	24/04/2006	-	10/03/2006	$425,000	-	Full transfer	3	1	1	-	2	$425,000	45	-	Allhomes Record	-	-	-	-	-	-
+2006	16558	            26/21 Pethebridge Street	24/04/2006	04/07/2006	-	$425,000	24499m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	37626	1/70 Hodgson Crescent	24/07/2006	16/10/2006	-	$420,000	4632m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2006	225324	32 Blackburn Street	03/02/2006	02/03/2006	-	$411,000	780m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	16579	            13/40 Marr Street	07/04/2006	23/05/2006	-	$405,000	13764m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	74211	13/47 Pethebridge Street	07/04/2006	-	26/01/2006	$405,000	463m	Full transfer	3	1	1	2	-	$405,000	71	-	Allhomes Record	-	-	-	-	-	-
+2006	32376	3 Besant Street	21/09/2006	07/11/2006	30/08/2006	$395,000	748m	Full transfer	3	1	-	2	1	$395,000	22	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.61
+2006	225286	18 Trumble Street	06/04/2006	26/05/2006	16/02/2006	$390,000	757m	Full transfer	4	1	-	2	2	$390,000	49	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.64
+2006	225284	14 Trumble Street	02/06/2006	06/07/2006	-	$390,000	755m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	319776	32 Trumble Street	09/05/2006	06/07/2006	-	$380,000	768m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225420	15 McNamara Street	01/03/2006	04/07/2006	10/02/2006	$375,100	821m	Full transfer	2	1	-	-	2	$375,100	19	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.67
+2006	225416	24 Julius Street	22/05/2006	21/06/2006	10/12/2005	$375,000	819m	Full transfer	3	1	1	-	2	$375,000	163	-	Combined Record	-	-	-	Single residential dwelling	$241,000	0.64
+2006	225306	6/3 Shepherd Street	28/04/2006	15/06/2006	-	$370,000	2639m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	313576	11 Givens Street	14/03/2006	13/04/2006	-	$362,000	676m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	91673	31/14 Marr Street	08/12/2006	-	27/10/2006	$339,000	12806m	Full transfer	2	1	-	1	-	$339,000	42	-	Allhomes Record	-	-	-	-	-	-
+2006	9621	            31/1 Biddlecombe Street	07/12/2006	29/01/2007	-	$339,000	12806m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	16556	            24/21 Pethebridge Street	07/03/2006	30/03/2006	-	$336,000	24499m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225375	5 Givens Street	28/03/2006	15/05/2006	-	$330,000	734m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	301788	            27/1 Biddlecombe Street	21/12/2006	22/02/2007	-	$329,000	12806m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	94058	27/14 Marr Street	21/12/2006	-	01/12/2006	$329,000	12806m	Full transfer	2	1	-	1	-	$329,000	20	-	Allhomes Record	-	-	-	-	-	-
+2006	569	            29/1 Biddlecombe Street	17/10/2006	05/07/2007	-	$319,000	12806m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	16577	9/59 Pethebridge Street	15/02/2006	10/03/2006	24/11/2005	$315,000	10478m	Full transfer	2	1	-	1	-	$315,000	83	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	76015	7/14 Marr Street	16/03/2006	-	21/02/2006	$313,000	12806m	Full transfer	2	1	-	1	-	$313,000	23	-	Allhomes Record	-	-	-	-	-	-
+2006	16573	            7/1 Biddlecombe Street	14/03/2006	23/05/2006	-	$313,000	12806m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	344	            23/23 McNamara Street	31/07/2006	24/08/2006	-	$305,000	9622m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165414	6/4 Hodgson Place	17/07/2006	15/02/2007	-	$300,000	3916m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	76105	21 McNamara Street	01/03/2006	-	23/02/2006	$300,000	9622m	Full transfer	2	1	-	-	1	$300,000	6	-	Allhomes Record	-	-	-	-	$2,032,000	6.77
+2006	16582	            1/23 McNamara Street	01/03/2006	06/04/2006	-	$300,000	9622m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	9582	            30/1 Biddlecombe Street	28/11/2006	15/02/2007	-	$299,950	12806m	Full transfer	-	-	-	-	-	$299,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225348	7/78 Hodgson Crescent	07/03/2006	04/04/2006	-	$225,000	3983m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225343	3/1 McGee Place	24/02/2006	10/04/2006	-	$220,000	722m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165235	24/78 Hodgson Crescent	24/11/2006	16/02/2007	25/10/2006	$215,000	3983m	Full transfer	2	1	-	1	-	$215,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	168764	8/7 McGee Place	30/08/2006	03/10/2006	30/05/2006	$212,500	1680m	Full transfer	2	1	-	-	1	$212,500	92	-	Combined Record	-	-	-	Multiple unit dwelling	$80,920	0.38
+2006	225345	7/7 McGee Place	31/03/2006	16/05/2006	-	$205,000	1680m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	38383	3/92 Hodgson Crescent	28/08/2006	24/10/2006	-	$196,500	1619m	Full transfer	-	-	-	-	-	$196,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225337	5/92 Hodgson Crescent	10/04/2006	12/05/2006	-	$152,000	1619m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	225428	3/79 Collings Street	06/01/2006	02/02/2006	-	$100,000	13790m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	92292	27 Parkhill Street	08/12/2006	-	03/11/2006	$10,000	1173m	Full transfer	5	2	1	1	-	$10,000	35	-	Allhomes Record	-	-	-	-	$301,000	30.1
+2006	202043	4 Collings Street	30/05/2006	14/06/2007	-	$0	849m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	408716	39 Parkhill Street	23/04/2006	30/10/2007	-	$0	814m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	229479	16/79 Collings Street	12/07/2006	26/10/2006	-	-	13790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165814	4 Cumberlege Crescent	26/10/2006	23/11/2006	-	-	930m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	237357	95 MacFarland Crescent	12/10/2006	20/08/2008	-	-	1013m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34086	1/70 Collings Street	01/08/2006	22/12/2006	-	-	1060m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	119640	124 Hodgson Crescent	12/06/2006	31/10/2006	-	-	878m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37451	108 Hodgson Crescent	03/08/2006	19/09/2006	-	-	815m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	164277	20 Coleman Street	07/02/2006	15/08/2006	-	-	984m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225292	30 Collings Street	06/04/2006	24/04/2006	-	-	797m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	225422	53 Collings Street	17/01/2006	21/02/2006	-	-	1132m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	9648	            2/70 Collings Street	08/09/2006	24/11/2006	-	-	1060m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	202578	6/79 Collings Street	31/05/2006	02/08/2006	-	-	13790m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	283361	35 Parkhill Street	17/10/2006	15/02/2011	-	-	866m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	37598	6/59 Hodgson Crescent	17/02/2006	16/10/2006	-	-	3252m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Day centre,creche	-	-
+2006	164944	62 Pethebridge Street	13/05/2006	09/10/2006	-	-	679m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	16557	            26/21 Pethebridge Street	09/03/2006	02/06/2006	-	-	24499m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	167464	34 Sheehan Street	18/06/2007	03/09/2007	-	$1,275,000	2350m	Full transfer	-	-	-	-	-	$1,275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166752	28 Sheehan Street	18/05/2007	02/08/2007	23/03/2007	$1,075,000	2555m	Full transfer	5	1	2	2	-	$1,075,000	56	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.53
+2007	231681	69 Parkhill Street	20/10/2007	08/01/2008	20/09/2007	$961,000	1446m	Full transfer	4	1	2	3	-	$961,000	30	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.41
+2007	229732	10 Anstey Street	17/07/2007	29/01/2008	12/06/2007	$920,000	1190m	Full transfer	4	1	1	2	-	$920,000	35	-	Combined Record	-	-	-	Single residential dwelling	$374,000	0.41
+2007	36015	43 Sheehan Street	10/05/2007	06/07/2007	-	$890,000	1066m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	126918	65 Parkhill Street	29/10/2007	08/04/2008	-	$882,500	1060m	Full transfer	-	-	-	-	-	$882,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	109008	6 Sheehan Street	20/10/2007	-	19/09/2007	$850,000	2232m	Full transfer	3	1	-	1	1	$850,000	31	-	Allhomes Record	-	-	-	-	$437,000	0.51
+2007	165854	15 Parkhill Street	02/04/2007	25/07/2007	23/03/2007	$810,000	1103m	Full transfer	3	2	-	2	-	$810,000	10	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.37
+2007	231564	3 Sheehan Street	21/07/2007	18/11/2007	21/06/2007	$800,000	1072m	Full transfer	5	2	1	2	-	$800,000	30	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.37
+2007	110309	16 Clarkson Street	24/11/2007	-	25/10/2007	$783,000	793m	Full transfer	4	1	1	1	1	$783,000	30	-	Allhomes Record	-	-	-	-	$307,000	0.39
+2007	231091	12 Anstey Street	18/10/2007	13/12/2007	03/10/2007	$750,000	1275m	Full transfer	4	1	1	2	-	$750,000	15	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.52
+2007	307081	1 Clarkson Street	02/06/2007	22/08/2007	-	$730,000	1018m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	232281	14 McLaren Crescent	14/11/2007	21/01/2008	-	$728,000	1376m	Full transfer	-	-	-	-	-	$728,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230956	57 Parkhill Street	13/12/2007	23/01/2008	16/10/2007	$655,000	859m	Full transfer	3	1	1	-	1	$655,000	58	-	Combined Record	-	-	-	Single residential dwelling	$351,000	0.54
+2007	234039	10 Whitelaw Street	19/04/2007	27/06/2008	12/03/2008	$620,000	725m	Full transfer	3	2	0	-	2	$620,000	-	-	Combined Record	-	-	-	For residential purposes only	$316,000	0.51
+2007	235121	19 Julius Street	21/11/2007	04/02/2008	-	$612,500	862m	Full transfer	-	-	-	-	-	$612,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	164546	32 Beasley Street	30/05/2007	13/07/2007	-	$600,000	862m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	235780	78 Parkhill Street	15/12/2007	30/03/2008	14/11/2007	$587,500	881m	Full transfer	3	1	1	-	-	$587,500	31	-	Combined Record	-	-	-	Single residential dwelling	$301,000	0.51
+2007	33506	7 Brinsmead Street	16/02/2007	24/05/2007	05/02/2007	$560,000	760m	Full transfer	4	1	1	2	-	$560,000	11	-	Combined Record	-	-	-	Single residential dwelling	$275,000	0.49
+2007	33677	29 Blackburn Street	02/03/2007	22/05/2007	-	$550,000	1611m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408718	6/59 Hodgson Crescent	30/01/2007	26/02/2007	29/09/2006	$550,000	3252m	Full transfer	3	1	1	2	-	$550,000	123	-	Combined Record	-	-	-	Day centre,creche	-	-
+2007	235183	2 Whitham Place	17/10/2007	04/02/2008	-	$545,000	1060m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	108211	2 Whitham Place	12/10/2007	-	31/08/2007	$540,000	1060m	Full transfer	4	1	1	-	2	$540,000	42	-	Allhomes Record	-	-	-	-	$297,000	0.55
+2007	122029	31 Julius Street	08/06/2007	28/09/2007	01/05/2007	$535,000	725m	Full transfer	4	1	1	-	1	$535,000	38	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.52
+2007	168961	7 Blackburn Street	06/02/2007	22/03/2007	-	$525,000	1105m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166622	33 McLaren Crescent	27/06/2007	06/08/2007	-	$520,000	915m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	32440	15 McLaren Crescent	28/02/2007	29/03/2007	06/12/2006	$505,000	936m	Full transfer	4	2	-	1	1	$505,000	84	-	Combined Record	-	-	-	Single residential dwelling	$297,000	0.59
+2007	231660	17 Pendred Street	19/11/2007	08/01/2008	24/08/2007	$500,000	746m	Full transfer	3	1	1	-	2	$500,000	87	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.55
+2007	166831	2 Biddlecombe Street	23/02/2007	24/07/2007	-	$485,000	971m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	230069	17 Murphy Street	12/09/2007	30/01/2008	-	$470,000	677m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121146	14 Biddlecombe Street	26/04/2007	10/09/2007	09/03/2007	$465,000	872m	Full transfer	4	1	-	2	-	$465,000	48	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.57
+2007	121260	23 Hodgson Crescent	08/06/2007	10/09/2007	-	$455,000	902m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2007	119860	25 Charlton Street	06/03/2007	02/04/2007	08/02/2007	$453,000	784m	Full transfer	3	1	-	1	1	$453,000	26	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.59
+2007	35242	72 Pethebridge Street	03/04/2007	06/06/2007	-	$450,000	819m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18472	            6/21 Pethebridge Street	22/11/2007	08/01/2008	-	$440,000	24499m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33652	13 Hodgson Place	16/03/2007	22/05/2007	09/03/2007	$430,000	341m	Full transfer	3	1	1	-	2	$430,000	7	-	Combined Record	-	-	-	Medium density dwelling	$247,000	0.57
+2007	97776	5 Charlton Street	19/04/2007	-	14/02/2007	$427,500	712m	Full transfer	3	1	-	-	2	$427,500	64	-	Allhomes Record	-	-	-	-	$276,000	0.65
+2007	202744	3 Pendred Street	07/06/2007	08/10/2007	-	$425,000	678m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	36822	60 Pethebridge Street	31/05/2007	18/07/2007	25/05/2007	$420,000	633m	Full transfer	3	1	-	-	1	$420,000	6	-	Combined Record	-	-	-	Single residential dwelling	$247,000	0.59
+2007	167158	11 Julius Street	05/03/2007	11/04/2007	03/09/2006	$410,000	788m	Full transfer	-	-	-	-	-	$410,000	183	-	Combined Record	-	-	-	Single residential dwelling...	$276,000	0.67
+2007	18070	            41/21 Pethebridge Street	20/12/2007	06/05/2008	-	$400,000	24499m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33819	8/40 Marr Street	02/05/2007	24/05/2007	20/02/2007	$400,000	13764m	Full transfer	3	1	-	1	-	$400,000	71	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	33690	6 Besant Street	31/03/2007	22/05/2007	01/03/2007	$392,000	742m	Full transfer	2	1	-	-	-	$392,000	30	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.7
+2007	18213	            32/21 Pethebridge Street	26/10/2007	08/02/2008	-	$365,000	24499m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	589	            19/1 Biddlecombe Street	02/04/2007	06/07/2007	-	$339,000	12806m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	5470	            29/21 Pethebridge Street	04/04/2007	04/05/2007	-	$300,000	24499m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166884	3/1 McGee Place	15/06/2007	02/08/2007	24/05/2007	$285,000	722m	Full transfer	2	1	-	-	-	$285,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	230102	15/78 Hodgson Crescent	18/12/2007	30/01/2008	-	$279,950	3983m	Full transfer	-	-	-	-	-	$279,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	202683	7/92 Hodgson Crescent	19/07/2007	09/10/2007	-	$273,000	1619m	Full transfer	-	-	-	-	-	$273,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	233067	14/78 Hodgson Crescent	29/10/2007	02/12/2007	-	$269,950	3983m	Full transfer	-	-	-	-	-	$269,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36421	9/92 Hodgson Crescent	10/05/2007	04/07/2007	-	$265,000	1619m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	37005	8/78 Hodgson Crescent	30/04/2007	18/07/2007	-	$255,000	3983m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	35122	12/92 Hodgson Crescent	23/04/2007	08/06/2007	-	$250,000	1619m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	36996	12 McLaren Crescent	12/03/2007	16/07/2007	-	$222,500	1552m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	33519	85 MacFarland Place	28/02/2007	22/05/2007	-	$140,000	1017m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18480	            8/23 McNamara Street	01/07/2007	16/12/2007	-	$137,000	9622m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	408720	16 Shepherd Street	31/07/2007	25/10/2007	-	$0	733m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	408719	19 Anstey Street	03/06/2007	25/10/2007	-	$0	946m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166523	5 Cumberlege Crescent	25/04/2007	20/08/2007	-	$0	1023m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121533	2 Whitham Place	09/03/2007	30/08/2007	-	$0	1060m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	120674	3 Besant Street	16/02/2007	15/05/2007	-	$0	748m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	202044	32 Beasley Street	13/02/2007	15/06/2007	-	$0	862m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	37141	62 Collings Street	05/04/2007	18/07/2007	-	$0	799m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	599	            52/21 Pethebridge Street	01/01/2007	06/07/2007	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	203189	9/92 Hodgson Crescent	31/01/2007	01/06/2007	-	$0	1619m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166416	53 Collings Street	08/01/2007	25/07/2007	-	$0	1132m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	18088	            2/59 Pethebridge Street	17/11/2007	10/12/2007	-	$0	10478m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	21744	            9/92 Hodgson Street	03/05/2007	-	11/04/2007	-	-	Full transfer	2	1	-	-	-	-	22	-	Allhomes Record	-	-	-	-	-	-
+2007	54202	31 McLaren Crescent	08/11/2007	10/04/2008	-	-	936m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	47977	91 MacFarland Place	14/12/2007	11/04/2008	-	-	961m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230170	38 Parkhill Street	03/10/2007	31/01/2008	-	-	1924m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	236331	7/70 Hodgson Crescent	20/06/2007	02/04/2008	-	-	4632m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2007	233264	19 McLaren Crescent	28/06/2007	08/05/2008	-	-	959m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	21756	            33 McLaren Street	27/06/2007	-	16/04/2007	-	915m	Full transfer	3	2	-	-	-	-	72	-	Allhomes Record	-	-	-	-	$253,000	-
+2007	21785	            PEA34SHE A Residential Jewel	22/06/2007	-	03/05/2007	-	2350m	Full transfer	5	2	1	4	4	-	50	-	Allhomes Record	-	-	-	-	-	-
+2007	236550	5 Hodgson Place	22/12/2007	16/04/2008	-	-	384m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	234737	38 Parkhill Street	30/07/2008	18/09/2008	08/02/2008	$885,000	1924m	Full transfer	3	1	1	-	2	$885,000	173	-	Combined Record	-	-	-	Single residential dwelling	$589,000	0.67
+2008	239919	35 Sheehan Street	23/07/2008	09/10/2008	12/06/2008	$885,000	1592m	Full transfer	4	1	1	2	-	$885,000	41	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.56
+2008	242327	48 Sheehan Street	17/09/2008	03/02/2009	27/08/2008	$860,000	2171m	Full transfer	3	1	1	2	-	$860,000	21	-	Combined Record	-	-	-	Single residential dwelling	$645,000	0.75
+2008	233979	19 Anstey Street	06/05/2008	11/06/2008	03/12/2007	$792,000	946m	Full transfer	5	1	1	-	-	$792,000	155	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.5
+2008	130635	39 Parkhill Street	04/03/2008	09/04/2008	14/12/2007	$750,000	814m	Full transfer	3	2	-	2	-	$750,000	81	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.51
+2008	243491	76 Parkhill Street	22/12/2008	26/03/2009	23/08/2008	$695,000	1043m	Full transfer	3	1	1	-	2	$695,000	121	-	Combined Record	-	-	-	Single residential dwelling	$362,000	0.52
+2008	240022	26 Murphy Street	18/08/2008	14/10/2008	29/07/2008	$680,000	895m	Full transfer	4	1	1	2	-	$680,000	20	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.46
+2008	238749	2/2 Biddlecombe Street	12/09/2008	09/10/2008	-	$660,000	971m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18916	            1/2 Biddlecombe Street	11/07/2008	27/10/2008	-	$652,500	971m	Full transfer	-	-	-	-	-	$652,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	320351	19 Leighton Street	01/03/2008	14/05/2008	-	$650,000	885m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233772	4 Cumberlege Crescent	28/03/2008	30/06/2008	04/03/2008	$630,000	930m	Full transfer	5	1	1	1	0	$630,000	24	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.58
+2008	234736	19 McLaren Crescent	16/06/2008	18/09/2008	08/05/2008	$620,000	959m	Full transfer	4	1	1	-	2	$620,000	39	-	Combined Record	-	-	-	Single residential dwelling	$342,000	0.55
+2008	321745	1/23 Hodgson Crescent	16/06/2008	05/11/2008	-	$611,000	902m	Full transfer	-	-	-	-	-	$611,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239918	30 McLaren Crescent	04/09/2008	07/10/2008	-	$595,000	1045m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234038	15 Hodgson Crescent	03/05/2008	24/06/2008	03/04/2008	$595,000	793m	Full transfer	4	1	1	-	2	$595,000	30	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.47
+2008	240313	2/23 Hodgson Crescent	19/02/2008	28/11/2008	-	$580,000	902m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237873	10 Biddlecombe Street	24/07/2008	11/09/2008	30/06/2008	$569,000	818m	Full transfer	4	1	1	1	2	$569,000	24	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.52
+2008	239811	20 Clarkson Street	01/08/2008	29/09/2008	19/05/2008	$555,000	793m	Full transfer	4	1	1	1	0	$555,000	74	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.61
+2008	236191	91 MacFarland Place	27/03/2008	13/05/2008	27/02/2008	$540,000	961m	Full transfer	3	1	-	1	1	$540,000	29	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.68
+2008	238751	11 McNamara Street	27/05/2008	08/10/2008	31/03/2008	$535,000	776m	Full transfer	3	1	-	1	-	$535,000	57	-	Combined Record	-	-	-	Single residential dwelling	$276,000	0.52
+2008	237874	10 Givens Street	16/07/2008	08/09/2008	02/06/2008	$527,000	729m	Full transfer	3	1	1	1	1	$527,000	44	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.58
+2008	24033	5/80 Marr Street	24/02/2008	-	31/03/2008	$523,000	5626m	Full transfer	3	1	1	2	0	$523,000	-	-	Allhomes Record	-	-	-	-	$839,000	1.6
+2008	242746	13 Charlton Street	13/12/2008	23/02/2009	17/11/2008	$513,000	921m	Full transfer	3	1	0	1	0	$513,000	26	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.64
+2008	240228	72 Pethebridge Street	19/09/2008	30/10/2008	-	$510,000	819m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	22417	            72 Petherbridge Street	19/09/2008	-	23/05/2008	$510,000	819m	Full transfer	4	1	1	-	1	$510,000	119	-	Allhomes Record	-	-	-	-	$294,000	0.58
+2008	234389	21 Cumberlege Crescent	08/02/2008	06/05/2008	-	$510,000	917m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236062	1/3 Pethebridge Street	05/04/2008	14/05/2008	-	$508,000	852m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242847	15 McNamara Street	23/12/2008	05/03/2009	09/09/2008	$500,000	821m	Full transfer	2	1	-	-	2	$500,000	105	-	Combined Record	-	-	-	Single residential dwelling	$316,000	0.63
+2008	234037	27 Hodgson Crescent	15/04/2008	27/06/2008	-	$500,000	945m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243371	28 Shepherd Street	18/12/2008	19/03/2009	31/01/2008	$499,000	694m	Full transfer	4	1	-	2	-	$499,000	322	-	Combined Record	-	-	-	Single residential dwelling	$305,000	0.61
+2008	242464	9 McNamara Street	30/05/2008	10/02/2009	-	$495,000	754m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239810	8 Biddlecombe Street	23/07/2008	29/09/2008	27/03/2008	$491,000	791m	Full transfer	3	1	-	-	-	$491,000	118	-	Combined Record	-	-	-	Single residential dwelling	$294,000	0.6
+2008	239031	11/79 Collings Street	25/09/2008	05/11/2008	-	$485,000	13790m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236429	4 Low Place	05/02/2008	03/04/2008	31/03/2008	$480,000	847m	Full transfer	3	1	0	-	0	$480,000	-	-	Combined Record	-	-	-	Single residential dwelling	$368,000	0.77
+2008	229830	64 Collings Street	02/06/2008	21/07/2008	-	$470,000	770m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18434	            56/21 Pethebridge Street	12/03/2008	14/05/2008	-	$469,000	24499m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	25427	56/21 Biddlecombe Street	12/03/2008	-	14/11/2007	$469,000	24499m	Full transfer	3	1	1	1	-	$469,000	119	-	Allhomes Record	-	-	-	-	$4,468,000	9.53
+2008	229930	97 Hodgson Crescent	17/06/2008	17/07/2008	24/04/2008	$455,000	839m	Full transfer	3	1	1	1	-	$455,000	54	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.72
+2008	237469	18 McNamara Street	12/11/2008	08/12/2008	-	$450,000	920m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	236941	9 Charlton Street	31/07/2008	02/09/2008	12/05/2008	$450,000	718m	Full transfer	3	1	0	-	0	$450,000	80	-	Combined Record	-	-	-	Single residential dwelling	$75,500	0.17
+2008	18338	            14/40 Marr Street	01/02/2008	30/03/2008	-	$440,000	13764m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	17913	            45/21 Pethebridge Street	13/05/2008	20/06/2008	-	$430,000	24499m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	24226	19/26 Marr Street	11/07/2008	-	08/04/2008	$424,750	24499m	Full transfer	3	1	-	-	1	$424,750	94	-	Allhomes Record	-	-	-	-	$4,468,000	10.52
+2008	17657	            19/21 Pethebridge Street	11/07/2008	05/08/2008	-	$424,750	24499m	Full transfer	-	-	-	-	-	$424,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	237100	1/3 Shepherd Street	05/11/2008	12/12/2008	-	$410,000	2639m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	245864	10 Murphy Street	01/11/2008	12/08/2009	-	$410,000	665m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	119343	1/3 Shepherd Street	06/11/2008	-	14/10/2008	$410,000	2639m	Full transfer	3	1	1	2	-	$410,000	23	-	Allhomes Record	-	-	-	-	$1,246,000	3.04
+2008	243653	36 Trumble Street	17/12/2008	01/04/2009	24/09/2009	$406,000	796m	Full transfer	3	1	-	2	-	$406,000	-	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.9
+2008	18433	            14/21 Pethebridge Street	05/04/2008	15/05/2008	-	$395,000	24499m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	22672	            14/18 Marr Street Sold $395,000	05/04/2008	-	06/03/2008	$395,000	24499m	Full transfer	2	1	-	1	-	$395,000	30	-	Allhomes Record	-	-	-	-	$53,616	0.14
+2008	18505	            38/21 Pethebridge Street	13/06/2008	02/09/2008	-	$392,100	24499m	Full transfer	-	-	-	-	-	$392,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240957	15 Hodgson Place	08/11/2008	16/12/2008	09/10/2008	$360,000	334m	Full transfer	3	1	-	-	2	$360,000	30	-	Combined Record	-	-	-	Single residential dwelling	$283,000	0.79
+2008	23900	3/25 McNamara Street	11/04/2008	-	26/03/2008	$356,000	9622m	Full transfer	2	1	-	-	1	$356,000	16	-	Allhomes Record	-	-	-	-	$2,235,000	6.28
+2008	17568	            3/23 McNamara Street	11/04/2008	13/06/2008	-	$356,000	9622m	Full transfer	-	-	-	-	-	$356,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	18583	            2/59 Pethebridge Street	14/10/2008	09/12/2008	-	$351,000	10478m	Full transfer	-	-	-	-	-	$351,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	116373	2/60 Marr Street	15/10/2008	-	29/07/2008	$351,000	10478m	Full transfer	2	1	-	1	-	$351,000	78	-	Allhomes Record	-	-	-	-	$1,610,000	4.59
+2008	233698	12/78 Hodgson Crescent	12/03/2008	01/05/2008	-	$277,500	3983m	Full transfer	-	-	-	-	-	$277,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	232429	5/92 Hodgson Crescent	04/06/2008	27/06/2008	-	$265,000	1619m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241189	10/92 Hodgson Crescent	08/11/2008	12/01/2009	-	$240,000	1619m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	263733	46 Hodgson Crescent	05/06/2008	07/06/2010	-	$225,000	801m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239434	6 Trumble Street	15/09/2008	17/11/2008	-	$215,000	727m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	230351	19 Murphy Street	30/07/2008	07/08/2008	-	-	746m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238822	2 Sheehan Street	18/03/2008	29/04/2009	-	-	1269m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	18609	            2/59 Pethebridge Street	26/05/2008	25/08/2008	-	-	10478m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	50153	8 Collings Street	06/03/2008	11/04/2008	-	-	976m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	242745	36 Trumble Street	07/08/2008	23/02/2009	-	-	796m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237358	14 Parkhill Street	22/07/2008	22/08/2008	-	-	1087m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	19651	            32/21 Pethebridge Street	07/10/2008	19/08/2009	-	-	24499m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242747	7 Shout Place	11/11/2008	23/02/2009	-	-	827m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	283662	14/59 Pethebridge Street	30/08/2008	10/02/2011	-	-	10478m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240709	17 Collings Street	19/07/2008	05/12/2008	-	-	784m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229617	9 McNamara Street	11/04/2008	30/07/2008	-	-	754m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	241033	16/79 Collings Street	24/11/2008	22/12/2008	-	-	13790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241240	2 Besant Street	05/11/2008	18/01/2009	-	-	805m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	238750	15 Whitelaw Street	26/06/2008	09/10/2008	-	-	841m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	232076	1/3 Shepherd Street	05/02/2008	05/05/2008	-	-	2639m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	261800	40 Trumble Street	30/04/2008	08/04/2010	-	-	990m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	237468	8 Murphy Street	06/05/2008	12/12/2008	-	-	772m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239921	15 Hodgson Place	04/07/2008	09/10/2008	-	-	334m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239920	5 Cherry Street	13/09/2008	07/10/2008	-	-	953m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	19154	            7/23 McNamara Street	02/12/2008	13/02/2009	-	-	9622m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263068	12 Clarkson Street	14/11/2009	28/01/2010	14/10/2009	$1,290,000	1376m	Full transfer	5	-	2	2	-	$1,290,000	31	-	Combined Record	-	-	-	Single residential dwelling	$489,000	0.38
+2009	248377	8 Anstey Street	26/10/2009	15/12/2009	12/09/2009	$883,000	1014m	Full transfer	3	2	1	-	2	$883,000	44	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.57
+2009	249500	4 Parkhill Street	22/06/2009	19/10/2009	29/04/2009	$852,000	1168m	Full transfer	5	1	2	3	-	$852,000	54	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.45
+2009	254298	26 Parkhill Street	21/12/2009	18/02/2010	22/10/2009	$820,000	999m	Full transfer	4	1	1	2	-	$820,000	60	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.59
+2009	244635	3 Murphy Street	20/05/2009	01/07/2009	08/04/2009	$785,000	942m	Full transfer	5	1	1	3	-	$785,000	42	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.46
+2009	248614	1/120 Hodgson Crescent	31/07/2009	02/10/2009	16/04/2009	$785,000	1085m	Full transfer	4	1	1	2	0	$785,000	106	-	Combined Record	-	-	-	Multiple unit dwelling	$94,000	0.12
+2009	247907	8 Collings Street	04/09/2009	16/10/2009	21/08/2009	$750,000	976m	Full transfer	3	1	1	1	-	$750,000	14	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.56
+2009	247905	62 Collings Street	27/08/2009	13/10/2009	20/08/2009	$745,000	799m	Full transfer	4	2	1	1	1	$745,000	7	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.47
+2009	249764	10 Tubb Place	26/09/2009	02/11/2009	27/08/2009	$745,000	804m	Full transfer	4	1	1	2	0	$745,000	30	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.57
+2009	263069	7 Clarkson Street	12/11/2009	08/02/2010	21/09/2009	$735,000	974m	Full transfer	5	1	1	2	-	$735,000	52	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.6
+2009	263064	7 Low Place	15/09/2009	07/01/2010	03/09/2009	$730,000	1004m	Full transfer	4	1	1	4	0	$730,000	12	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.64
+2009	243490	96 Hodgson Crescent	07/02/2009	23/03/2009	08/01/2009	$715,000	1115m	Full transfer	4	1	1	1	-	$715,000	30	-	Combined Record	-	-	-	Single residential dwelling	$360,000	0.5
+2009	248133	36 Hodgson Crescent	09/07/2009	16/09/2009	08/06/2009	$710,000	835m	Full transfer	5	2	1	2	2	$710,000	31	-	Combined Record	-	-	-	Single residential dwelling	$331,000	0.47
+2009	263063	12 Collings Street	27/11/2009	10/01/2010	07/09/2009	$685,000	943m	Full transfer	3	1	2	3	-	$685,000	81	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.6
+2009	238711	7 Brinsmead Street	27/02/2009	23/04/2009	27/01/2009	$665,000	760m	Full transfer	4	1	1	2	-	$665,000	31	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.57
+2009	248906	1/79 Collings Street	23/10/2009	11/11/2009	-	$650,000	13790m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243372	78 Parkhill Street	28/01/2009	16/03/2009	-	$645,000	881m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	256197	88 MacFarland Crescent	11/12/2009	23/03/2010	17/11/2009	$640,000	973m	Full transfer	3	1	1	2	-	$640,000	24	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.53
+2009	263062	26 Shepherd Street	24/12/2009	23/02/2010	01/12/2009	$635,000	708m	Full transfer	3	1	1	1	2	$635,000	23	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.6
+2009	249998	18 Collings Street	22/05/2009	20/11/2009	-	$620,000	758m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	324005	45 Blackburn Street	21/05/2009	17/08/2009	-	$616,000	790m	Full transfer	-	-	-	-	-	$616,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	283314	20 Biddlecombe Street	01/12/2009	21/02/2011	-	$600,000	1210m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249297	13 Coleman Street	22/06/2009	28/09/2009	11/02/2009	$587,000	837m	Full transfer	4	1	1	2	-	$587,000	131	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.7
+2009	245480	82 MacFarland Crescent	14/04/2009	07/08/2009	02/04/2009	$575,000	980m	Full transfer	4	1	-	1	1	$575,000	12	-	Combined Record	-	-	-	Single residential dwelling	$336,000	0.58
+2009	248502	13 Charlton Street	11/11/2009	17/12/2009	09/10/2009	$565,000	921m	Full transfer	3	1	0	1	-	$565,000	33	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.69
+2009	249659	6 Biddlecombe Street	28/09/2009	28/10/2009	-	$560,000	762m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249843	32 Trumble Street	28/08/2009	09/11/2009	04/08/2009	$557,000	768m	Full transfer	3	1	1	2	-	$557,000	24	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.66
+2009	243988	18 Biddlecombe Street	15/04/2009	25/05/2009	-	$550,000	1028m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244634	14 Blackburn Street	16/05/2009	02/07/2009	20/04/2009	$547,000	805m	Full transfer	3	1	0	1	0	$547,000	26	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.77
+2009	238823	17 Collings Street	05/03/2009	28/04/2009	-	$540,000	784m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244633	31 McLaren Crescent	27/03/2009	02/07/2009	26/02/2009	$540,000	936m	Full transfer	6	1	2	1	-	$540,000	29	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.71
+2009	249499	14 Cumberlege Crescent	02/09/2009	22/10/2009	12/08/2009	$530,000	896m	Full transfer	3	1	-	-	1	$530,000	21	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.83
+2009	324718	38 Collings Street	07/07/2009	30/10/2009	-	$525,000	856m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241605	8 Whitelaw Street	04/04/2009	13/05/2009	05/03/2009	$517,000	725m	Full transfer	3	1	-	-	4	$517,000	30	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.73
+2009	324554	81 MacFarland Place	11/06/2009	06/10/2009	-	$510,000	933m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249844	12 Trumble Street	06/10/2009	13/11/2009	09/09/2009	$500,000	754m	Full transfer	3	1	-	-	1	$500,000	27	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.76
+2009	269770	4/9 McNamara Street	17/04/2009	02/09/2010	-	$499,950	1531m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244107	4 Givens Street	06/05/2009	03/06/2009	26/02/2009	$490,000	747m	Full transfer	3	1	1	1	-	$490,000	69	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.74
+2009	246410	9 Trumble Street	16/06/2009	31/08/2009	02/04/2009	$488,500	800m	Full transfer	3	1	0	1	1	$488,500	75	-	Combined Record	-	-	-	Single residential dwelling	$378,000	0.77
+2009	245479	14 Trumble Street	24/06/2009	05/08/2009	07/05/2009	$486,000	755m	Full transfer	4	1	0	2	0	$486,000	48	-	Combined Record	-	-	-	Single residential dwelling	$365,000	0.75
+2009	19270	            9/21 Pethebridge Street	14/02/2009	24/03/2009	-	$485,000	24499m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	124418	3 Low Place	14/05/2009	-	13/03/2009	$477,500	749m	Full transfer	3	1	1	1	1	$477,500	62	-	Allhomes Record	-	-	-	-	$421,000	0.88
+2009	263061	5 Charlton Street	10/12/2009	04/02/2010	-	$474,000	712m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259722	1/3 Shepherd Street	04/12/2009	07/02/2010	-	$474,000	2639m	Full transfer	-	-	-	-	-	$474,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	322589	5 Givens Street	08/04/2009	13/05/2009	-	$460,000	734m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	136412	4/60 Marr Street	04/11/2009	-	06/10/2009	$458,000	10478m	Full transfer	3	1	-	1	-	$458,000	29	-	Allhomes Record	-	-	-	-	$1,610,000	3.52
+2009	247754	2/18 McNamara Street	25/09/2009	13/10/2009	-	$450,000	920m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245283	60 Pethebridge Street	19/06/2009	30/07/2009	-	$450,000	633m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	23481	            60 Petherbridge Street	19/06/2009	-	13/03/2009	$450,000	-	Full transfer	3	1	0	-	1	$450,000	98	-	Allhomes Record	-	-	-	-	-	-
+2009	244632	3 Low Place	12/05/2009	01/07/2009	-	$447,500	749m	Full transfer	-	-	-	-	-	$447,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	242630	12/3 Shepherd Street	13/02/2009	05/03/2009	-	$432,500	2639m	Full transfer	-	-	-	-	-	$432,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23156	            12/3 Shepherd St	13/02/2009	-	19/12/2008	$432,500	2639m	Full transfer	3	1	1	-	2	$432,500	56	-	Allhomes Record	-	-	-	-	$1,246,000	2.88
+2009	23076	            10 Hodgson Place	03/02/2009	-	11/11/2008	$425,000	5240m	Full transfer	3	1	-	2	-	$425,000	84	-	Allhomes Record	-	-	-	-	$1,315,000	3.09
+2009	243553	10/2 Hodgson Place	03/02/2009	01/04/2009	-	$425,000	5240m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248708	13/6 Kemsley Place	02/09/2009	21/10/2009	-	$425,000	14610m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248905	9/6 Kemsley Place	25/09/2009	12/11/2009	-	$422,000	14610m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247752	32/6 Kemsley Place	26/08/2009	16/10/2009	-	$422,000	14610m	Full transfer	-	-	-	-	-	$422,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247050	4/2 Hodgson Place	04/12/2009	-	29/09/2009	$415,000	5240m	Full transfer	2	1	-	2	-	$415,000	66	-	Allhomes Record	-	-	-	-	$1,315,000	3.17
+2009	259724	4/2 Hodgson Place	02/12/2009	28/01/2010	-	$415,000	5240m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	253717	3/1 Biddlecombe Street	22/09/2009	10/02/2010	-	$413,000	12806m	Full transfer	-	-	-	-	-	$413,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	255490	            1/23 McNamara Street	13/11/2009	23/03/2010	-	$398,500	9622m	Full transfer	-	-	-	-	-	$398,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	138385	21 McNamara Street	18/11/2009	-	28/10/2009	$398,500	9622m	Full transfer	2	1	-	1	-	$398,500	21	-	Allhomes Record	-	-	-	-	$2,626,000	6.59
+2009	249022	5/6 Kemsley Place	23/09/2009	16/11/2009	-	$395,000	14610m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248861	11/6 Kemsley Place	15/09/2009	04/11/2009	-	$395,000	14610m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249090	8/6 Kemsley Place	08/09/2009	29/11/2009	-	$392,000	14610m	Full transfer	-	-	-	-	-	$392,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23508	            29 Pethebridge St	01/07/2009	-	29/04/2009	$390,000	-	Full transfer	2	1	-	-	1	$390,000	63	-	Allhomes Record	-	-	-	-	-	-
+2009	247748	12/6 Kemsley Place	26/08/2009	16/10/2009	-	$390,000	14610m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250536	6/6 Kemsley Place	29/10/2009	01/12/2009	-	$390,000	14610m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259729	35/6 Kemsley Place	11/09/2009	29/01/2010	-	$387,000	14610m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249021	4/6 Kemsley Place	02/09/2009	19/11/2009	-	$386,000	14610m	Full transfer	-	-	-	-	-	$386,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248904	36/6 Kemsley Place	21/09/2009	10/11/2009	-	$385,000	14610m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249088	37/6 Kemsley Place	21/09/2009	24/11/2009	-	$384,000	14610m	Full transfer	-	-	-	-	-	$384,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259727	19/6 Kemsley Place	04/11/2009	10/01/2010	-	$382,000	14610m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249020	3/6 Kemsley Place	30/09/2009	17/11/2009	-	$382,000	14610m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248709	20/6 Kemsley Place	04/09/2009	21/10/2009	-	$382,000	14610m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248903	18/6 Kemsley Place	30/10/2009	12/11/2009	-	$379,000	14610m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248712	34/6 Kemsley Place	21/08/2009	25/10/2009	-	$378,000	14610m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249089	38/6 Kemsley Place	02/09/2009	29/11/2009	-	$377,000	14610m	Full transfer	-	-	-	-	-	$377,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249087	28/6 Kemsley Place	25/09/2009	24/11/2009	-	$375,000	14610m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	255533	1/6 Kemsley Place	15/09/2009	30/03/2010	-	$375,000	14610m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248902	14/6 Kemsley Place	06/10/2009	10/11/2009	-	$375,000	14610m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248710	26/6 Kemsley Place	04/09/2009	19/10/2009	-	$375,000	14610m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248862	7/6 Kemsley Place	30/09/2009	04/11/2009	-	$374,300	14610m	Full transfer	-	-	-	-	-	$374,300	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247753	33/6 Kemsley Place	04/09/2009	13/10/2009	-	$374,000	14610m	Full transfer	-	-	-	-	-	$374,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	138162	            39/21-67 McNamara Street	06/11/2009	-	08/10/2009	$372,000	-	Full transfer	2	1	-	1	-	$372,000	29	-	Allhomes Record	-	-	-	-	-	-
+2009	247751	31/6 Kemsley Place	01/09/2009	15/10/2009	-	$372,000	14610m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	250588	            8/23 McNamara Street	06/11/2009	10/12/2009	-	$372,000	9622m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247749	23/6 Kemsley Place	04/09/2009	16/10/2009	-	$372,000	14610m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247750	27/6 Kemsley Place	04/09/2009	16/10/2009	-	$370,000	14610m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249086	25/6 Kemsley Place	10/10/2009	29/11/2009	-	$369,000	14610m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249085	17/6 Kemsley Place	28/10/2009	23/11/2009	-	$369,000	14610m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248801	30/6 Kemsley Place	18/09/2009	27/10/2009	-	$369,000	14610m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259726	15/6 Kemsley Place	14/09/2009	19/01/2010	-	$369,000	14610m	Full transfer	-	-	-	-	-	$369,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249084	16/6 Kemsley Place	04/09/2009	29/11/2009	-	$368,000	14610m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248711	29/6 Kemsley Place	23/09/2009	25/10/2009	-	$359,525	14610m	Full transfer	-	-	-	-	-	$359,525	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248376	22/6 Kemsley Place	22/09/2009	17/12/2009	-	$359,525	14610m	Full transfer	-	-	-	-	-	$359,525	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	18724	            7/23 McNamara Street	23/02/2009	28/04/2009	-	$355,000	9622m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	122484	37 McNamara Street	23/02/2009	-	22/01/2009	$355,000	-	Full transfer	2	1	-	-	1	$355,000	32	-	Allhomes Record	-	-	-	-	$2,626,000	7.4
+2009	128893	6/78 Hodgson Crescent	28/08/2009	-	27/07/2009	$340,000	3983m	Full transfer	2	1	-	-	1	$340,000	32	-	Allhomes Record	-	-	-	-	-	-
+2009	248860	6/78 Hodgson Crescent	26/08/2009	04/11/2009	-	$340,000	3983m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23816	            1/112 MacFarland St	30/09/2009	-	17/09/2009	$296,000	1770m	Full transfer	2	1	-	-	1	$296,000	13	-	Allhomes Record	-	-	-	-	-	-
+2009	241469	11/7 McGee Place	01/04/2009	13/05/2009	-	$281,000	1680m	Full transfer	-	-	-	-	-	$281,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19652	            20/1 Biddlecombe Street	16/01/2009	19/08/2009	-	-	12806m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	263552	10/79 Collings Street	30/12/2009	02/06/2010	-	-	13790m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	19653	            22/1 Biddlecombe Street	16/01/2009	19/08/2009	-	-	12806m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249999	72 Pethebridge Street	23/10/2009	19/11/2009	-	-	819m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241745	88 MacFarland Crescent	19/05/2009	21/05/2009	-	-	973m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259728	24/6 Kemsley Place	02/11/2009	25/01/2010	-	-	14610m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	247906	38 Collings Street	26/03/2009	13/10/2009	-	-	856m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	272926	6/70 Hodgson Crescent	25/11/2009	25/10/2010	-	-	4632m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2009	272928	4/70 Hodgson Crescent	25/11/2009	25/10/2010	-	-	4632m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2009	254446	25 Collings Street	11/03/2009	25/02/2010	-	-	882m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	251549	29 Shepherd Street	19/09/2009	10/01/2010	-	-	970m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	296123	27 Collings Street	11/05/2009	25/05/2011	-	-	667m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	246411	38 Beasley Street	07/08/2009	03/09/2009	-	-	750m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250000	45 Collings Street	23/06/2009	17/11/2009	-	-	688m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243987	81 MacFarland Place	24/02/2009	25/05/2009	-	-	933m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	272927	5/70 Hodgson Crescent	25/11/2009	25/10/2010	-	-	4632m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2010	280677	38 Sheehan Street	30/09/2010	22/12/2010	02/09/2010	$1,205,000	2078m	Full transfer	6	1	2	2	-	$1,205,000	28	-	Combined Record	-	-	-	Single residential dwelling	$707,000	0.59
+2010	284043	4 Anstey Street	04/09/2010	09/02/2011	13/08/2010	$1,001,000	1245m	Full transfer	4	1	1	2	-	$1,001,000	22	-	Combined Record	-	-	-	Single residential dwelling	$567,000	0.57
+2010	267789	48 Sheehan Street	30/04/2010	08/07/2010	-	$970,000	2171m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	252254	48 Sheehan Street	13/02/2010	-	21/09/2009	$950,000	2171m	Full transfer	4	1	1	2	2	$950,000	145	-	Allhomes Record	-	-	-	-	$739,000	0.78
+2010	292436	3 Anstey Street	10/12/2010	12/04/2011	21/09/2010	$935,000	1682m	Full transfer	3	1	-	1	-	$935,000	80	-	Combined Record	-	-	-	Single residential dwelling	$593,000	0.63
+2010	273675	15 McLaren Crescent	31/07/2010	22/10/2010	26/05/2010	$820,000	936m	Full transfer	4	1	1	2	-	$820,000	66	-	Combined Record	-	-	-	Single residential dwelling	$451,000	0.55
+2010	277810	18 Coleman Street	19/10/2010	19/01/2011	28/09/2010	$780,000	1028m	Full transfer	4	1	1	2	-	$780,000	21	-	Combined Record	-	-	-	Single residential dwelling	$508,000	0.65
+2010	283904	3 Leighton Street	14/12/2010	25/02/2011	09/09/2010	$760,000	1037m	Full transfer	5	1	1	2	-	$760,000	96	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.51
+2010	258570	4 Leighton Street	01/02/2010	14/04/2010	-	$755,000	761m	Full transfer	-	-	-	-	-	$755,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	271211	25 Collings Street	16/07/2010	20/09/2010	16/06/2010	$750,000	882m	Full transfer	5	1	1	1	-	$750,000	30	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.55
+2010	269316	61 Parkhill Street	05/05/2010	02/07/2010	08/02/2010	$745,000	949m	Full transfer	4	1	1	2	-	$745,000	86	-	Combined Record	-	-	-	Single residential dwelling	$551,000	0.74
+2010	287893	26 McLaren Crescent	12/11/2010	22/03/2011	28/10/2010	$720,000	1046m	Full transfer	4	1	-	1	1	$720,000	15	-	Combined Record	-	-	-	Single residential dwelling	$508,000	0.71
+2010	275810	61 Collings Street	03/11/2010	06/01/2011	14/09/2010	$708,000	1022m	Full transfer	3	1	1	2	2	$708,000	50	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.58
+2010	269228	5 Brinsmead Street	09/04/2010	23/06/2010	19/11/2009	$697,000	798m	Full transfer	4	1	1	2	1	$697,000	141	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.58
+2010	283963	1 Blackburn Street	23/12/2010	14/02/2011	13/10/2010	$670,000	1105m	Full transfer	3	1	1	2	-	$670,000	71	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.67
+2010	280676	11 Leighton Street	03/08/2010	22/12/2010	24/06/2010	$650,000	833m	Full transfer	3	1	1	-	2	$650,000	40	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.62
+2010	268169	7 McLaren Crescent	04/05/2010	25/06/2010	-	$645,000	920m	Full transfer	-	-	-	-	-	$645,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	286046	7 Collings Street	23/12/2010	09/03/2011	26/10/2010	$640,000	1069m	Full transfer	4	1	1	2	-	$640,000	58	-	Combined Record	170	-	-	Single residential dwelling	$482,000	0.75
+2010	270802	7 Whitelaw Street	05/06/2010	11/08/2010	13/05/2010	$639,000	883m	Full transfer	3	1	-	1	-	$639,000	23	-	Combined Record	-	-	-	Single residential dwelling	$482,000	0.75
+2010	283544	1/3 Pethebridge Street	26/11/2010	23/02/2011	-	$632,500	852m	Full transfer	-	-	-	-	-	$632,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280385	38 Trumble Street	23/10/2010	16/12/2010	30/09/2010	$632,000	875m	Full transfer	4	1	1	2	1	$632,000	23	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.66
+2010	268170	100 Hodgson Crescent	11/05/2010	25/06/2010	06/02/2010	$626,000	716m	Full transfer	4	1	1	1	1	$626,000	94	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.59
+2010	267421	2/59 Hodgson Crescent	25/05/2010	25/06/2010	-	$620,000	3252m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Day centre,creche	-	-
+2010	275820	44 Beasley Street	15/08/2010	13/01/2011	-	$588,000	929m	Full transfer	-	-	-	-	-	$588,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	329624	99 Hodgson Crescent	23/10/2010	19/01/2011	-	$588,000	1147m	Full transfer	-	-	-	-	-	$588,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263949	41 Blackburn Street	17/04/2010	02/06/2010	22/03/2010	$576,000	765m	Full transfer	3	1	-	2	-	$576,000	26	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.78
+2010	279364	97 Hodgson Crescent	19/11/2010	31/01/2011	09/09/2010	$560,000	839m	Full transfer	3	1	1	1	-	$560,000	71	-	Combined Record	-	-	-	Single residential dwelling	$428,000	0.76
+2010	256741	55/21 Biddlecombe Street	30/04/2010	-	06/04/2010	$554,000	24499m	Full transfer	3	1	1	1	-	$554,000	24	-	Allhomes Record	-	-	-	-	$5,250,000	9.48
+2010	267422	            55/21 Pethebridge Street	30/04/2010	25/06/2010	-	$554,000	24499m	Full transfer	-	-	-	-	-	$554,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	279114	            22/21 Pethebridge Street	07/12/2010	02/02/2011	-	$550,000	24499m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	279365	25 Shepherd Street	04/12/2010	02/02/2011	09/11/2010	$550,000	941m	Full transfer	3	1	-	1	-	$550,000	25	-	Combined Record	-	-	-	Single residential dwelling	$447,000	0.81
+2010	272118	22/26 Marr Street	08/12/2010	-	24/09/2010	$550,000	24499m	Full transfer	3	1	-	1	-	$550,000	75	-	Allhomes Record	-	-	-	-	$5,775,000	10.5
+2010	255489	1/80 Marr Street	11/02/2010	24/03/2010	-	$550,000	5626m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272925	5/9 McNamara Street	25/06/2010	25/10/2010	-	$549,950	1531m	Full transfer	-	-	-	-	-	$549,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256196	11 Cumberlege Crescent	12/02/2010	24/03/2010	14/01/2010	$540,000	867m	Full transfer	3	1	-	-	1	$540,000	29	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.78
+2010	269625	3/2 Marr Street	19/06/2010	23/08/2010	-	$540,000	5211m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264058	8/18 Marr Street	23/06/2010	-	04/06/2010	$535,000	24499m	Full transfer	3	1	1	1	-	$535,000	19	-	Allhomes Record	102	-	-	-	$5,250,000	9.81
+2010	269499	            8/21 Pethebridge Street	23/06/2010	10/08/2010	-	$535,000	24499m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260139	5/80 Marr Street	19/02/2010	11/05/2010	-	$530,000	5626m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252459	5/80 Marr Street	23/02/2010	-	10/12/2009	$530,000	5626m	Full transfer	3	1	1	2	-	$530,000	75	-	Allhomes Record	-	-	-	-	$986,000	1.86
+2010	251062	            3/80 Marr St	21/01/2010	-	13/03/2009	$530,000	5626m	Full transfer	3	1	1	2	-	$530,000	314	-	Allhomes Record	-	-	-	-	$986,000	1.86
+2010	258569	8 Besant Street	27/02/2010	14/04/2010	25/01/2010	$525,000	741m	Full transfer	3	1	-	-	1	$525,000	33	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.79
+2010	267424	8/79 Collings Street	22/05/2010	27/06/2010	-	$520,500	13790m	Full transfer	-	-	-	-	-	$520,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	268489	10/79 Collings Street	15/05/2010	25/06/2010	-	$520,100	13790m	Full transfer	-	-	-	-	-	$520,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272529	23/26 Marr Street	21/12/2010	-	25/08/2010	$497,000	24499m	Full transfer	3	1	-	-	1	$497,000	118	-	Allhomes Record	-	-	-	-	$5,775,000	11.62
+2010	283609	            23/21 Pethebridge Street	21/12/2010	14/02/2011	-	$497,000	24499m	Full transfer	-	-	-	-	-	$497,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280457	2/4 Hodgson Place	30/07/2010	07/12/2010	-	$495,000	3916m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256318	6/40 Marr Street	21/04/2010	-	04/02/2010	$495,000	13764m	Full transfer	3	1	1	2	-	$495,000	76	-	Allhomes Record	-	-	-	-	$604,000	1.22
+2010	263596	6/40 Marr Street	20/04/2010	11/06/2010	-	$495,000	13764m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	280668	            43/21 Pethebridge Street	15/10/2010	22/12/2010	-	$485,000	24499m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266752	43/29 Pethebridge Street	15/10/2010	-	14/09/2010	$485,000	24499m	Full transfer	3	1	-	-	1	$485,000	31	-	Allhomes Record	-	-	-	-	$5,775,000	11.91
+2010	259723	5/4 Hodgson Place	20/02/2010	29/03/2010	-	$421,500	3916m	Full transfer	-	-	-	-	-	$421,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271431	67 McNamara Street	10/11/2010	-	24/09/2010	$415,000	9622m	Full transfer	2	1	-	-	1	$415,000	47	-	Allhomes Record	-	-	-	-	$2,889,000	6.96
+2010	283610	2/2 Hodgson Place	10/12/2010	16/02/2011	-	$415,000	5240m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277576	            22/23 McNamara Street	10/11/2010	19/01/2011	-	$415,000	9622m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257216	            1/59 Pethebridge Street	05/02/2010	23/04/2010	-	$412,000	10478m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	251346	1/60 Marr Street	05/02/2010	-	07/01/2010	$412,000	10478m	Full transfer	2	1	-	1	-	$412,000	29	-	Allhomes Record	-	-	-	-	$1,610,000	3.91
+2010	271723	            33/67 McNamara Street	24/11/2010	-	28/10/2010	$410,000	9622m	Full transfer	2	1	-	1	-	$410,000	27	-	Allhomes Record	-	-	-	-	$2,889,000	7.05
+2010	296368	            23/23 McNamara Street	24/11/2010	23/05/2011	-	$410,000	9622m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269832	            33/21 Pethebridge Street	02/07/2010	06/09/2010	-	$403,000	24499m	Full transfer	-	-	-	-	-	$403,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260055	            32/21 Pethebridge Street	03/03/2010	21/04/2010	-	$402,500	24499m	Full transfer	-	-	-	-	-	$402,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	252712	            32/29 Pethebridge  Street	04/03/2010	-	07/12/2009	$402,500	-	Full transfer	2	1	-	-	1	$402,500	87	-	Allhomes Record	-	-	-	-	-	-
+2010	273115	28/6 Kemsley Place	30/07/2010	12/10/2010	-	$402,000	14610m	Full transfer	-	-	-	-	-	$402,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	250967	14/59 Pethebridge Street	13/01/2010	-	17/11/2009	$395,000	10478m	Full transfer	3	1	-	1	-	$395,000	57	-	Allhomes Record	-	-	-	-	$1,610,000	4.08
+2010	283661	14/59 Pethebridge Street	12/01/2010	10/02/2011	-	$395,000	10478m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256830	2/6 Kemsley Place	03/04/2010	-	24/11/2009	$390,900	14610m	Full transfer	2	1	-	1	-	$390,900	130	-	Allhomes Record	-	-	-	-	$3,527,000	9.02
+2010	256831	10/6 Kemsley Place	03/04/2010	-	24/11/2009	$387,000	14610m	Full transfer	2	1	-	1	-	$387,000	130	-	Allhomes Record	-	-	-	-	$3,527,000	9.11
+2010	267498	10/6 Kemsley Place	23/04/2010	02/07/2010	-	$380,000	14610m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257213	2/6 Kemsley Place	25/02/2010	22/04/2010	-	$380,000	14610m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	257214	21/6 Kemsley Place	11/03/2010	21/04/2010	-	$379,000	14610m	Full transfer	-	-	-	-	-	$379,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	256834	            21/6 Kemsley	03/04/2010	-	05/02/2010	$379,000	14610m	Full transfer	2	1	-	1	-	$379,000	57	-	Allhomes Record	-	-	-	-	$3,527,000	9.31
+2010	256953	9/92 Hodgson Crescent	07/05/2010	-	08/04/2010	$350,000	1619m	Full transfer	2	1	-	-	-	$350,000	29	-	Allhomes Record	-	-	-	-	-	-
+2010	267420	11/92 Hodgson Crescent	30/04/2010	22/06/2010	-	$302,000	1619m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	266793	1/1 McGee Place	20/10/2010	-	30/06/2010	$300,000	722m	Full transfer	2	1	-	-	-	$300,000	112	-	Allhomes Record	-	-	-	-	$354,000	1.18
+2010	280669	1/1 McGee Place	19/10/2010	22/12/2010	-	$300,000	722m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260137	1/36 Collings Street	29/01/2010	13/05/2010	-	$260,000	956m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	260138	2/36 Collings Street	29/01/2010	13/05/2010	-	$260,000	956m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	347367	            11/23 McNamara Street	01/06/2010	04/11/2011	-	$0	9622m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	347368	18 Brinsmead Street	24/09/2010	04/11/2011	-	$0	828m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273078	22 Cherry Street	31/08/2010	20/10/2010	-	-	934m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	296057	14 Parkhill Street	26/11/2010	30/05/2011	-	-	1087m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	285807	3 Coleman Street	19/11/2010	07/03/2011	-	-	1130m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263684	13 Brinsmead Street	14/05/2010	31/05/2010	-	-	1003m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	276690	70 MacFarland Crescent	31/05/2010	19/07/2010	-	-	1086m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	280458	2/4 Hodgson Place	15/06/2010	07/12/2010	-	-	3916m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	287243	8 Murphy Street	21/10/2010	06/04/2011	-	-	772m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270104	20 Cherry Place	04/04/2010	10/08/2010	-	-	841m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	335926	22 Brinsmead Street	24/09/2010	18/08/2011	-	-	1024m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287369	54 Parkhill Street	05/05/2010	21/03/2011	-	-	1642m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	263683	2 Parkhill Street	14/04/2010	01/06/2010	-	-	1133m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	283256	37 Blackburn Street	23/09/2010	01/03/2011	-	-	767m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	274054	87 MacFarland Place	05/10/2010	18/11/2010	-	-	972m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273079	3 Anstey Street	25/03/2010	19/10/2010	-	-	1682m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	261885	72 Parkhill Street	09/04/2010	13/05/2010	-	-	835m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270353	1 McNeil Place	22/07/2010	09/09/2010	-	-	958m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	273077	61 Collings Street	03/09/2010	18/10/2010	-	-	1022m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270148	26 McLaren Crescent	29/07/2010	16/08/2010	-	-	1046m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	359672	40 Sheehan Street	16/11/2011	03/02/2012	19/10/2011	$1,080,000	1942m	Full transfer	4	1	1	2	-	$1,080,000	28	-	Combined Record	1942	-	-	Single residential dwelling	$745,000	0.69
+2011	346992	78 MacFarland Crescent	15/09/2011	08/11/2011	21/07/2011	$839,000	945m	Full transfer	4	2	1	4	-	$839,000	56	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.46
+2011	333174	4 Pendred Street	21/04/2011	26/07/2011	02/02/2011	$825,000	802m	Full transfer	4	1	1	2	-	$825,000	78	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.53
+2011	291427	11 Anstey Street	19/01/2011	10/05/2011	-	$825,000	1054m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292386	26 Murphy Street	19/03/2011	10/05/2011	21/02/2011	$820,000	895m	Full transfer	4	1	1	2	-	$820,000	26	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.53
+2011	347108	14 McLaren Crescent	08/09/2011	21/11/2011	03/08/2011	$808,000	1376m	Full transfer	3	1	1	-	2	$808,000	36	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.71
+2011	292059	42 Beasley Street	23/02/2011	17/05/2011	11/01/2011	$725,000	743m	Full transfer	4	1	1	1	1	$725,000	43	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.51
+2011	287498	12/79 Collings Street	05/02/2011	25/03/2011	-	$690,000	13790m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354877	7 Shout Place	05/11/2011	09/01/2012	11/10/2011	$680,000	827m	Full transfer	4	1	1	1	-	$680,000	25	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.75
+2011	280841	5/59 Hodgson Crescent	08/03/2011	-	04/11/2010	$667,000	3252m	Full transfer	3	1	1	2	-	$667,000	124	-	Allhomes Record	-	-	-	-	$1,054,000	1.58
+2011	291650	5/59 Hodgson Crescent	07/03/2011	10/05/2011	-	$667,000	3252m	Full transfer	-	-	-	-	-	$667,000	-	-	Government Record	-	-	-	Day centre,creche	-	-
+2011	283463	7/59 Hodgson Crescent	17/01/2011	04/03/2011	-	$655,000	3252m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Day centre,creche	-	-
+2011	300636	10 Blackburn Street	15/04/2011	07/07/2011	10/03/2011	$625,000	991m	Full transfer	3	1	-	2	-	$625,000	36	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.81
+2011	347844	14 Biddlecombe Street	13/09/2011	27/10/2011	15/11/2011	$617,500	872m	Full transfer	4	1	-	1	0	$617,500	-	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.68
+2011	337833	14 Biddlecombe Street	26/09/2011	-	16/05/2011	$617,500	872m	Full transfer	4	1	-	1	-	$617,500	133	-	Allhomes Record	-	-	-	-	$422,000	0.68
+2011	353946	82 MacFarland Crescent	02/09/2011	19/12/2011	16/06/2011	$617,000	980m	Full transfer	4	1	-	1	1	$617,000	78	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.63
+2011	346994	9 Blackburn Street	04/10/2011	08/11/2011	-	$585,000	860m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	296774	8 Shepherd Street	08/04/2011	31/05/2011	24/02/2011	$584,750	1045m	Full transfer	3	1	1	2	-	$584,750	43	-	Combined Record	-	-	-	Single residential dwelling	$341,000	0.58
+2011	288421	28 Julius Street	29/04/2011	-	07/03/2011	$568,200	-	Full transfer	3	1	-	1	-	$568,200	53	-	Allhomes Record	-	-	-	-	$472,000	0.83
+2011	291155	28 Julius Street	06/04/2011	19/05/2011	-	$568,000	839m	Full transfer	-	-	-	-	-	$568,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	286045	39 Collings Street	28/01/2011	10/03/2011	30/11/2010	$567,000	751m	Full transfer	3	1	-	1	-	$567,000	59	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.72
+2011	296942	116 Hodgson Crescent	09/05/2011	08/06/2011	17/03/2011	$565,000	1141m	Full transfer	3	1	-	2	-	$565,000	53	-	Combined Record	-	-	-	Single residential dwelling	$391,000	0.69
+2011	296943	37 Blackburn Street	16/04/2011	07/06/2011	07/03/2011	$560,000	767m	Full transfer	3	1	-	1	-	$560,000	40	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.84
+2011	292473	12 Charlton Street	16/03/2011	03/05/2011	08/02/2011	$545,000	715m	Full transfer	3	1	-	-	2	$545,000	36	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.75
+2011	345821	25 Pethebridge Street	30/11/2011	-	02/08/2011	$540,000	24499m	Full transfer	3	1	1	2	-	$540,000	120	-	Allhomes Record	-	-	-	-	$7,245,000	13.42
+2011	365930	36 Trumble Street	10/11/2011	01/03/2012	01/06/2011	$530,000	796m	Full transfer	3	1	-	2	-	$530,000	162	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.8
+2011	275997	            2/9-11 McNamara Street	09/02/2011	-	22/09/2010	$525,000	-	Full transfer	2	2	-	2	-	$525,000	140	-	Allhomes Record	-	-	-	-	-	-
+2011	287443	2/9 McNamara Street	09/02/2011	28/03/2011	-	$525,000	1531m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	343073	17/26 Marr Street	07/11/2011	-	06/01/2011	$490,000	24499m	Full transfer	3	1	-	-	1	$490,000	305	-	Allhomes Record	-	-	-	-	$7,245,000	14.79
+2011	350453	            17/21 Pethebridge Street	07/11/2011	16/12/2011	-	$490,000	24499m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287499	1/9 McNamara Street	31/01/2011	25/03/2011	-	$488,000	1531m	Full transfer	-	-	-	-	-	$488,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291649	            4/59 Pethebridge Street	30/03/2011	10/05/2011	-	$473,000	10478m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	283062	4/60 Marr Street	30/03/2011	-	22/01/2011	$473,000	10478m	Full transfer	3	1	-	1	-	$473,000	67	-	Allhomes Record	-	-	-	-	$1,771,000	3.74
+2011	347103	14/59 Pethebridge Street	20/10/2011	18/11/2011	17/08/2011	$460,000	10478m	Full transfer	3	1	-	1	-	$460,000	64	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	335927	            23/1 Biddlecombe Street	01/07/2011	17/08/2011	-	$443,000	12806m	Full transfer	-	-	-	-	-	$443,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	341943	            24-26 Marr Street	28/10/2011	-	25/07/2011	$436,000	-	Full transfer	3	1	-	-	1	$436,000	95	-	Allhomes Record	-	-	-	-	-	-
+2011	360177	            24/21 Pethebridge Street	07/11/2011	02/02/2012	-	$436,000	24499m	Full transfer	-	-	-	-	-	$436,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	297321	23/14 Marr Street	07/07/2011	-	18/05/2011	$434,000	12806m	Full transfer	2	1	-	1	-	$434,000	50	-	Allhomes Record	-	-	-	-	$3,609,000	8.32
+2011	350198	20/6 Kemsley Place	18/10/2011	01/12/2011	-	$423,000	14610m	Full transfer	-	-	-	-	-	$423,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354872	23/6 Kemsley Place	10/11/2011	09/01/2012	-	$418,000	14610m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	350454	25/6 Kemsley Place	06/10/2011	13/12/2011	07/07/2011	$417,000	14610m	Full transfer	2	1	-	1	-	$417,000	91	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	347843	            29/1 Biddlecombe Street	22/09/2011	26/10/2011	-	$412,000	12806m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	337564	29/14 Marr Street	23/09/2011	-	26/07/2011	$412,000	12806m	Full transfer	2	1	-	1	-	$412,000	59	-	Allhomes Record	-	-	-	-	$3,609,000	8.76
+2011	333049	5/1 Biddlecombe Street	10/06/2011	27/07/2011	-	$380,000	12806m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	294096	5/1 Biddlecombe Street	16/06/2011	-	12/05/2011	$380,000	12806m	Full transfer	2	1	-	1	-	$380,000	35	-	Allhomes Record	-	-	-	-	$3,609,000	9.5
+2011	277981	20/14 Marr Street	22/02/2011	-	04/02/2011	$378,000	12806m	Full transfer	2	1	-	1	-	$378,000	18	-	Allhomes Record	-	-	-	-	$3,609,000	9.55
+2011	287571	            20/1 Biddlecombe Street	22/02/2011	07/04/2011	-	$378,000	12806m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	287500	3/78 Hodgson Crescent	21/01/2011	22/03/2011	-	$355,000	3983m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	354874	1/4 Hodgson Place	01/12/2011	11/01/2012	-	$350,000	3916m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	346988	22/78 Hodgson Crescent	16/09/2011	08/11/2011	27/07/2011	$330,000	3983m	Full transfer	2	1	-	-	1	$330,000	51	-	Combined Record	-	-	-	Multiple unit dwelling	$2,076,000	6.29
+2011	346990	8/92 Hodgson Crescent	19/09/2011	08/11/2011	27/06/2011	$325,000	1619m	Full transfer	2	1	-	-	-	$325,000	84	-	Combined Record	-	-	-	Multiple unit dwelling	$1,447,000	4.45
+2011	360539	9/78 Hodgson Crescent	02/12/2011	24/01/2012	15/11/2011	$324,000	3983m	Full transfer	2	1	-	-	1	$324,000	17	-	Combined Record	-	-	-	Multiple unit dwelling	$2,604,000	8.04
+2011	294132	7/92 Hodgson Crescent	16/06/2011	-	25/02/2011	$305,000	1619m	Full transfer	2	1	-	-	-	$305,000	111	-	Allhomes Record	-	-	-	-	$1,447,000	4.74
+2011	300467	7/92 Hodgson Crescent	17/05/2011	13/07/2011	-	$305,000	1619m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	360176	18 Cherry Place	15/12/2011	30/01/2012	-	$300,000	911m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	354875	3/1 McGee Place	05/10/2011	12/01/2012	08/09/2011	$298,000	722m	Full transfer	2	1	-	-	-	$298,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	$645,000	2.16
+2011	347106	2/1 McGee Place	14/09/2011	24/11/2011	18/04/2011	$290,000	722m	Full transfer	2	1	-	-	-	$290,000	149	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	347369	4/7 McGee Place	30/09/2011	03/11/2011	30/08/2011	$284,500	1680m	Full transfer	2	1	-	-	1	$284,500	31	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2011	296056	14 Parkhill Street	03/05/2011	30/05/2011	-	$187,500	1087m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	297697	10/78 Hodgson Crescent	31/03/2011	01/07/2011	-	$170,000	3983m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	335900	4/70 Hodgson Crescent	14/04/2011	17/08/2011	-	$97,500	4632m	Full transfer	-	-	-	-	-	$97,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	335929	5/70 Hodgson Crescent	14/04/2011	17/08/2011	-	$68,750	4632m	Full transfer	-	-	-	-	-	$68,750	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	335928	6/70 Hodgson Crescent	14/04/2011	17/08/2011	-	$67,750	4632m	Full transfer	-	-	-	-	-	$67,750	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2011	389409	6 Gepp Place	11/05/2011	24/01/2013	-	$0	1499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	365601	8 Cherry Place	20/10/2011	21/02/2012	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	350199	3/3 Shepherd Street	21/10/2011	28/11/2011	-	$0	2639m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	393090	23 Cumberlege Crescent	11/06/2011	15/02/2013	-	$0	786m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	427946	20 Brinsmead Street	22/11/2011	21/05/2014	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	347105	            27/1 Biddlecombe Street	12/10/2011	15/11/2011	-	$0	12806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	368475	            15/23 McNamara Street	22/10/2011	19/03/2012	-	$0	9622m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	371488	4/9 McNamara Street	11/07/2011	06/06/2012	-	$0	1531m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	365599	1 McNamara Street	19/06/2011	24/02/2012	-	$0	903m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	430141	9 Tubb Place	19/11/2011	11/07/2014	-	$0	1257m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	360215	7/112 MacFarland Crescent	29/11/2011	14/02/2012	-	$0	1770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	382644	6 Tubb Place	24/01/2011	12/11/2012	-	$0	731m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	333379	16 Leighton Street	05/05/2011	04/08/2011	-	-	929m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340353	10 Parkhill Street	02/09/2011	21/09/2011	-	-	1029m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	340412	2/2 Marr Street	25/03/2011	30/09/2011	-	-	5211m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	291759	32/6 Kemsley Place	18/01/2011	11/04/2011	-	-	14610m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336341	31 Julius Street	20/07/2011	22/08/2011	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392940	44 Parkhill Street	10/11/2012	08/02/2013	11/10/2012	$1,195,000	1924m	Full transfer	4	1	1	4	-	$1,195,000	30	-	Combined Record	-	-	-	Single residential dwelling	$711,000	0.59
+2012	372345	18 Whitelaw Street	20/07/2012	-	10/05/2012	$1,100,000	805m	Full transfer	4	1	2	2	-	$1,100,000	71	-	Allhomes Record	-	-	-	-	$452,000	0.41
+2012	383641	4 Coleman Street	27/09/2012	07/11/2012	15/05/2012	$929,000	1028m	Full transfer	5	1	2	2	-	$929,000	135	-	Combined Record	-	-	-	Single residential dwelling	$598,000	0.64
+2012	351102	120 Hodgson Crescent	18/01/2012	-	11/10/2011	$800,000	-	Full transfer	4	1	1	2	-	$800,000	99	-	Allhomes Record	185	-	-	-	$547,000	0.68
+2012	378413	13 Hodgson Crescent	13/10/2012	-	30/07/2012	$800,000	341m	Full transfer	3	1	1	2	-	$800,000	75	-	Allhomes Record	-	-	-	-	$646,000	0.81
+2012	392666	            1/2 Biddlecombe Street	12/10/2012	26/02/2013	-	$800,000	971m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	365600	1/120 Hodgson Crescent	18/01/2012	24/02/2012	-	$800,000	1085m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	377867	8 Anstey Street	23/09/2012	-	29/08/2012	$792,500	1014m	Full transfer	4	1	1	-	2	$792,500	25	-	Allhomes Record	-	-	-	-	$581,000	0.73
+2012	389411	36 Beasley Street	01/12/2012	24/01/2013	04/11/2012	$790,000	1046m	Full transfer	4	1	1	2	1	$790,000	27	-	Combined Record	196	-	-	Single residential dwelling	$392,000	0.5
+2012	380605	17 Collings Street	25/08/2012	10/10/2012	02/08/2012	$772,000	784m	Full transfer	4	1	1	3	-	$772,000	23	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.59
+2012	372242	9 Collings Street	11/07/2012	-	24/01/2012	$765,000	1100m	Full transfer	4	2	-	1	1	$765,000	169	-	Allhomes Record	200	-	-	-	$509,000	0.67
+2012	370840	89 MacFarland Place	26/03/2012	23/04/2012	17/01/2012	$760,000	967m	Full transfer	4	1	1	-	2	$760,000	69	-	Combined Record	967	-	-	Single residential dwelling	$509,000	0.67
+2012	387083	3 Tubb Place	03/11/2012	19/12/2012	04/10/2012	$755,000	980m	Full transfer	4	1	2	2	-	$755,000	30	-	Combined Record	-	-	-	Single residential dwelling	$561,000	0.74
+2012	386129	9 Brinsmead Street	04/10/2012	03/12/2012	13/09/2012	$755,000	923m	Full transfer	4	1	1	2	-	$755,000	21	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.63
+2012	370951	6 McCay Place	11/02/2012	01/05/2012	20/01/2012	$750,000	923m	Full transfer	6	1	2	2	-	$750,000	22	-	Combined Record	-	-	-	Single residential dwelling	$488,000	0.65
+2012	363871	12 Parkhill Street	27/04/2012	-	15/09/2011	$747,500	1087m	Full transfer	4	1	1	2	2	$747,500	225	-	Allhomes Record	-	-	-	-	$488,000	0.65
+2012	369399	12 Parkhill Street	29/02/2012	16/04/2012	-	$747,500	1087m	Full transfer	-	-	-	-	-	$747,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	380604	            2/120 Hodgson Crescent	25/08/2012	10/10/2012	-	$730,000	1085m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	375565	2/1 Leighton Street	25/08/2012	-	02/08/2012	$730,000	521m	Full transfer	4	1	1	2	-	$730,000	23	-	Allhomes Record	-	-	-	-	$246,000	0.34
+2012	368476	1 McNamara Street	16/02/2012	22/03/2012	28/10/2011	$706,000	903m	Full transfer	4	1	1	2	-	$706,000	111	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.6
+2012	382648	52 Hodgson Crescent	06/09/2012	12/11/2012	08/08/2012	$695,000	827m	Full transfer	3	1	2	1	-	$695,000	29	-	Combined Record	-	-	-	Single residential dwelling	$392,000	0.56
+2012	388441	5 Whitelaw Street	30/10/2012	15/01/2013	03/10/2012	$655,000	926m	Full transfer	3	1	-	1	-	$655,000	27	-	Combined Record	152	-	-	Single residential dwelling	$509,000	0.78
+2012	393402	38 Trumble Street	06/12/2012	06/03/2013	24/10/2012	$655,000	875m	Full transfer	4	1	1	2	1	$655,000	43	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.67
+2012	387085	29 Sheehan Street	17/09/2012	21/12/2012	-	$650,000	1164m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392268	6 Tubb Place	23/11/2012	14/03/2013	23/08/2012	$610,000	731m	Full transfer	4	1	1	1	1	$610,000	92	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.78
+2012	387082	2 Whitham Place	01/11/2012	19/12/2012	-	$605,000	1060m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	374359	38 Hodgson Crescent	27/04/2012	28/06/2012	21/03/2012	$605,000	801m	Full transfer	5	1	1	2	-	$605,000	37	-	Combined Record	-	-	-	Single residential dwelling	$383,000	0.63
+2012	376811	34 Julius Street	05/06/2012	30/07/2012	26/04/2012	$580,000	791m	Full transfer	3	1	-	1	1	$580,000	40	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.81
+2012	397539	36 Julius Street	19/12/2012	09/05/2013	29/11/2012	$575,000	725m	Full transfer	3	1	-	2	-	$575,000	20	-	Combined Record	95	-	-	Single residential dwelling	$452,000	0.79
+2012	371856	4 Trumble Street	23/04/2012	29/05/2012	26/02/2012	$573,000	942m	Full transfer	4	2	-	2	-	$573,000	57	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.79
+2012	379070	106 Hodgson Crescent	31/07/2012	03/09/2012	15/06/2012	$549,000	885m	Full transfer	4	1	1	1	-	$549,000	46	-	Combined Record	-	-	-	Single residential dwelling	$389,000	0.71
+2012	387525	2/80 Marr Street	13/11/2012	10/01/2013	31/08/2012	$542,000	5626m	Full transfer	3	1	1	2	-	$542,000	74	-	Combined Record	158	-	-	Multiple unit dwelling	$1,361,000	2.51
+2012	365241	            49/21 Pethebridge Street	30/11/2012	09/03/2012	-	$540,000	24499m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382975	            58/21 Pethebridge Street	23/10/2012	27/11/2012	-	$535,000	24499m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379985	58/21 Biddlecombe Street	24/10/2012	-	25/06/2012	$535,000	24499m	Full transfer	4	1	1	2	-	$535,000	121	-	Allhomes Record	145	-	-	-	$7,245,000	13.54
+2012	376439	8 Murphy Street	05/05/2012	07/08/2012	12/04/2012	$527,000	772m	Full transfer	4	1	-	2	-	$527,000	23	-	Combined Record	-	-	-	Single residential dwelling	$407,000	0.77
+2012	373900	4/9 McNamara Street	11/05/2012	18/06/2012	-	$522,000	1531m	Full transfer	-	-	-	-	-	$522,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	366241	            4/9-11 McNamara Street	11/05/2012	-	03/05/2012	$522,000	1531m	Full transfer	2	1	1	2	-	$522,000	8	-	Allhomes Record	-	-	-	-	$1,380,000	2.64
+2012	384000	55 Collings Street	12/10/2012	23/11/2012	07/03/2012	$520,000	805m	Full transfer	3	1	-	-	-	$520,000	219	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.81
+2012	397541	2/40 Marr Street	23/08/2012	09/05/2013	22/08/2012	$508,000	13764m	Full transfer	3	2	-	2	0	$508,000	1	-	Combined Record	-	-	-	Multiple unit dwelling	$604,000	1.19
+2012	377310	10 Murphy Street	06/09/2012	-	26/06/2012	$505,000	665m	Full transfer	3	1	-	1	-	$505,000	72	-	Allhomes Record	-	-	-	-	$392,000	0.78
+2012	376442	6/4 Hodgson Place	18/06/2012	10/08/2012	-	$480,000	3916m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	374901	28/29 Pethebridge Street	04/08/2012	-	13/06/2012	$466,000	-	Full transfer	2	1	-	-	1	$466,000	52	-	Allhomes Record	71	-	-	-	-	-
+2012	379072	            28/21 Pethebridge Street	03/08/2012	06/09/2012	-	$466,000	24499m	Full transfer	-	-	-	-	-	$466,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	357422	18/14 Marr Street	06/03/2012	-	22/11/2011	$450,000	12806m	Full transfer	2	1	-	1	-	$450,000	105	-	Allhomes Record	-	-	-	-	$4,528,000	10.06
+2012	369952	            18/1 Biddlecombe Street	02/03/2012	26/03/2012	-	$450,000	12806m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	361382	27/14 Marr Street	04/04/2012	-	08/03/2012	$445,000	12806m	Full transfer	2	1	-	1	-	$445,000	27	-	Allhomes Record	-	-	-	-	$4,528,000	10.18
+2012	384498	            27/1 Biddlecombe Street	04/04/2012	07/05/2012	-	$445,000	12806m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	369953	            31/21 Pethebridge Street	24/02/2012	28/03/2012	-	$435,000	24499m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	356571	31/29 Pethebridge Street	24/02/2012	-	01/02/2012	$435,000	-	Full transfer	2	1	-	-	1	$435,000	23	-	Allhomes Record	-	-	-	-	-	-
+2012	379528	3/6 Kemsley Place	27/07/2012	27/08/2012	31/05/2012	$425,000	14610m	Full transfer	2	1	-	1	-	$425,000	57	-	Combined Record	-	-	-	Multiple unit dwelling	$4,867,000	11.45
+2012	368478	7/6 Kemsley Place	20/02/2012	21/03/2012	09/11/2011	$425,000	14610m	Full transfer	2	1	-	1	-	$425,000	103	-	Combined Record	-	-	-	Multiple unit dwelling	$4,867,000	11.45
+2012	391568	16/6 Kemsley Place	30/11/2012	20/02/2013	08/11/2012	$419,000	14610m	Full transfer	2	1	-	1	-	$419,000	22	-	Combined Record	-	-	-	Multiple unit dwelling	$4,867,000	11.62
+2012	382646	19/6 Kemsley Place	27/08/2012	16/11/2012	26/06/2012	$410,000	14610m	Full transfer	2	1	-	1	-	$410,000	62	-	Combined Record	-	-	-	Multiple unit dwelling	$4,867,000	11.87
+2012	379379	26/6 Kemsley Place	10/08/2012	19/09/2012	-	$400,000	14610m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	373901	8 Cherry Place	16/05/2012	19/06/2012	-	$390,000	914m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372689	2/23 McNamara Street	02/03/2012	12/04/2012	-	$387,000	9622m	Full transfer	-	-	-	-	-	$387,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	356981	            23/21-67 McNamara Street	02/03/2012	-	16/02/2012	$387,000	9622m	Full transfer	2	1	-	-	1	$387,000	15	-	Allhomes Record	-	-	-	-	$3,624,000	9.36
+2012	375524	7/5 Parkhill Street	24/08/2012	-	13/04/2012	$300,000	1770m	Full transfer	2	1	-	-	1	$300,000	133	-	Allhomes Record	-	-	-	-	$1,472,000	4.91
+2012	392943	11/78 Hodgson Crescent	13/12/2012	05/02/2013	10/10/2012	$295,000	3983m	Full transfer	2	1	-	-	1	$295,000	64	-	Combined Record	66	-	-	Multiple unit dwelling	$2,604,000	8.83
+2012	396685	23 Cumberlege Crescent	30/11/2012	23/04/2013	-	$290,000	786m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	370839	4 Biddlecombe Street	20/02/2012	24/04/2012	-	$285,000	831m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	377144	29 Collings Street	06/06/2012	26/07/2012	-	$205,000	891m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	389852	54 Hodgson Crescent	10/10/2012	30/01/2013	-	$125,000	856m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394472	19 Hodgson Crescent	25/12/2012	21/03/2013	-	$0	820m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	371487	16/79 Collings Street	23/04/2012	06/06/2012	-	$0	13790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	372690	            27/1 Biddlecombe Street	05/01/2012	12/04/2012	-	$0	12806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	382645	15 Collings Street	13/07/2012	15/11/2012	-	$0	944m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393401	11 Hodgson Place	29/11/2012	05/03/2013	-	$0	383m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	371855	9/79 Collings Street	19/01/2012	28/05/2012	-	$0	13790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	379068	16 McNamara Street	18/06/2012	03/09/2012	23/05/2012	$0	791m	Full transfer	3	1	-	1	-	$0	26	-	Combined Record	120	-	-	Single residential dwelling	$407,000	8.83
+2012	389410	6 Gepp Place	04/12/2012	24/01/2013	-	$0	1499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	404008	            31/1 Biddlecombe Street	22/08/2012	11/07/2013	-	$0	12806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	393838	8 McCay Place	27/09/2012	28/03/2013	-	$0	1129m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386131	11/2 Hodgson Place	19/11/2012	03/12/2012	-	$0	5240m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	387527	33 Blackburn Street	30/11/2012	10/01/2013	11/10/2012	$0	767m	Full transfer	3	1	-	-	1	$0	50	-	Combined Record	-	-	-	Single residential dwelling	$472,000	8.83
+2012	384778	4 Shepherd Street	26/03/2012	18/05/2012	-	$0	792m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	375182	18/14 Marr Street	02/03/2012	-	13/08/2012	-	12806m	Full transfer	2	1	0	0	1	-	-	-	Allhomes Record	-	-	-	-	-	-
+2013	401564	10 Sheehan Street	16/03/2013	21/05/2013	15/02/2013	$1,476,000	2308m	Full transfer	4	2	1	3	-	$1,476,000	29	-	Combined Record	-	-	-	Single residential dwelling	$617,000	0.42
+2013	397544	12 Sheehan Street	14/03/2013	09/05/2013	-	$1,200,000	2935m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418355	1 Trumble Street	09/11/2013	10/01/2014	15/10/2013	$850,000	885m	Full transfer	4	1	2	-	2	$850,000	25	-	Combined Record	-	-	-	Single residential dwelling	$452,000	0.53
+2013	398177	50 Hodgson Crescent	28/03/2013	15/05/2013	06/03/2013	$835,000	810m	Full transfer	4	1	1	2	-	$835,000	22	-	Combined Record	211	-	-	Single residential dwelling	$392,000	0.47
+2013	424500	13 McCay Place	07/12/2013	31/03/2014	05/11/2013	$810,000	1064m	Full transfer	5	2	1	-	-	$810,000	32	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.46
+2013	407475	22 Brinsmead Street	20/07/2013	02/09/2013	13/06/2013	$747,000	1024m	Full transfer	4	2	1	2	-	$747,000	37	-	Combined Record	170	-	-	Single residential dwelling	$625,000	0.84
+2013	413957	30 McLaren Crescent	25/10/2013	22/11/2013	13/10/2013	$740,000	1045m	Full transfer	4	1	-	2	-	$740,000	12	-	Combined Record	-	-	-	Single residential dwelling	$481,000	0.65
+2013	402638	20 Clarkson Street	13/04/2013	26/06/2013	21/03/2013	$737,500	793m	Full transfer	4	1	1	1	-	$737,500	23	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.64
+2013	407479	5 Cumberlege Crescent	15/03/2013	02/09/2013	04/02/2013	$718,000	1023m	Full transfer	5	2	1	1	1	$718,000	39	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.71
+2013	412920	87 MacFarland Place	26/07/2013	30/10/2013	23/05/2013	$717,000	972m	Full transfer	4	1	1	2	-	$717,000	64	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.68
+2013	405541	54 Collings Street	10/07/2013	07/08/2013	19/03/2013	$675,000	958m	Full transfer	5	2	1	1	-	$675,000	113	-	Combined Record	157	-	-	Single residential dwelling	$422,000	0.63
+2013	419909	53 Collings Street	14/12/2013	07/02/2014	14/11/2013	$655,000	1132m	Full transfer	3	2	0	1	0	$655,000	30	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.67
+2013	404009	3 Shout Place	10/05/2013	09/07/2013	06/02/2013	$640,000	917m	Full transfer	4	1	1	1	-	$640,000	93	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.8
+2013	407967	34 Blackburn Street	29/06/2013	12/08/2013	-	$615,000	780m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417670	3 Gepp Place	23/11/2013	15/01/2014	15/01/2014	$607,000	1256m	Full transfer	4	1	1	0	2	$607,000	-	-	Combined Record	-	-	-	Single residential dwelling	$417,000	0.69
+2013	421188	24 Shepherd Street	24/12/2013	25/02/2014	18/02/2014	$602,000	713m	Full transfer	4	1	-	0	2	$602,000	-	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.73
+2013	415938	64 Collings Street	28/10/2013	11/12/2013	-	$600,000	770m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	409938	1/64 Collings  Street	28/10/2013	-	22/08/2013	$600,000	770m	Full transfer	3	2	0	0	0	$600,000	67	-	Allhomes Record	-	-	-	-	$396,000	0.66
+2013	419915	18 Blackburn Street	26/09/2013	07/02/2014	29/08/2013	$585,000	780m	Full transfer	3	1	0	1	-	$585,000	28	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.83
+2013	419913	19 Collings Street	17/12/2013	03/02/2014	04/10/2013	$585,000	987m	Full transfer	3	1	1	2	-	$585,000	74	-	Combined Record	-	-	-	Single residential dwelling	$472,000	0.81
+2013	410719	32 Trumble Street	10/08/2013	24/10/2013	24/07/2013	$577,500	768m	Full transfer	3	2	-	-	2	$577,500	17	-	Combined Record	92	-	-	Single residential dwelling	$422,000	0.73
+2013	400143	11 Cumberlege Crescent	27/04/2013	04/06/2013	04/04/2013	$566,000	867m	Full transfer	3	1	-	-	2	$566,000	23	-	Combined Record	-	-	-	Single residential dwelling	$486,000	0.86
+2013	407965	11 Hodgson Place	12/07/2013	16/08/2013	-	$550,000	383m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	400583	8/40 Marr Street	19/04/2013	28/05/2013	-	$550,000	13764m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414383	29 Julius Street	11/10/2013	28/11/2013	30/07/2013	$550,000	707m	Full transfer	3	1	-	1	-	$550,000	73	-	Combined Record	101	-	-	Single residential dwelling	$437,000	0.79
+2013	407473	4/79 Collings Street	25/07/2013	03/09/2013	-	$545,000	13790m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410866	8 Besant Street	14/08/2013	20/09/2013	13/05/2013	$524,999	741m	Full transfer	3	1	-	-	1	$524,999	93	-	Combined Record	-	-	-	Single residential dwelling	$437,000	0.83
+2013	418352	6/80 Marr Street	16/08/2013	08/01/2014	-	$520,123	5626m	Full transfer	-	-	-	-	-	$520,123	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	417673	8/80 Marr Street	24/09/2013	17/01/2014	-	$515,000	5626m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400140	2/2 Marr Street	25/03/2013	04/06/2013	-	$510,000	5211m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	390923	            2/12 Marr Street	26/03/2013	-	19/02/2013	$510,000	0m	Full transfer	3	2	-	1	0	$510,000	35	-	Allhomes Record	-	-	-	-	-	-
+2013	386360	1/18 Marr Street	15/01/2013	-	21/09/2012	$505,000	-	Full transfer	3	1	1	-	2	$505,000	116	-	Allhomes Record	-	-	-	-	-	-
+2013	392665	            1/21 Pethebridge Street	15/01/2013	25/02/2013	-	$505,000	24499m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405540	19 Hodgson Crescent	17/04/2013	07/08/2013	-	$499,000	820m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416326	            13/21 Pethebridge Street	04/10/2013	17/12/2013	-	$480,000	24499m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	408149	13/18 Marr Street	04/10/2013	-	27/08/2013	$480,000	-	Full transfer	2	1	-	1	-	$480,000	38	-	Allhomes Record	62	-	-	-	-	-
+2013	407477	7 Hodgson Place	22/06/2013	03/09/2013	22/05/2013	$476,000	384m	Full transfer	3	1	1	-	2	$476,000	31	-	Combined Record	146	-	-	Medium density dwelling	$392,000	0.82
+2013	410869	5/3 Shepherd Street	22/08/2013	18/09/2013	14/02/2013	$450,000	2639m	Full transfer	3	1	1	2	-	$450,000	189	-	Combined Record	-	-	-	Multiple unit dwelling	$1,719,000	3.82
+2013	405952	14/18 Marr Street	02/09/2013	-	16/07/2013	$428,000	-	Full transfer	2	1	-	1	-	$428,000	48	-	Allhomes Record	-	-	-	-	-	-
+2013	398175	1/1 Biddlecombe Street	14/03/2013	13/05/2013	26/09/2012	$428,000	12806m	Full transfer	2	1	-	1	-	$428,000	169	-	Combined Record	-	-	-	Multiple unit dwelling	$4,528,000	10.58
+2013	411266	            14/21 Pethebridge Street	28/08/2013	14/10/2013	-	$428,000	24499m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	417675	            32/21 Pethebridge Street	22/11/2013	13/01/2014	-	$420,000	24499m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	405148	            50/21 Pethebridge Street	10/04/2013	22/07/2013	-	$420,000	24499m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	412382	            8 Kemsley Place	15/11/2013	-	11/09/2013	$416,500	-	Full transfer	2	1	-	1	-	$416,500	65	-	Allhomes Record	84	-	-	-	-	-
+2013	421493	8/6 Kemsley Place	15/11/2013	18/02/2014	-	$416,500	14610m	Full transfer	-	-	-	-	-	$416,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	408804	23/14 Marr Street	16/10/2013	-	22/05/2013	$412,000	0m	Full transfer	2	1	0	1	0	$412,000	147	-	Allhomes Record	-	-	-	-	$4,754,000	11.54
+2013	416327	27/6 Kemsley Place	01/11/2013	19/12/2013	18/09/2013	$410,000	14610m	Full transfer	2	1	0	1	0	$410,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	$5,110,000	12.46
+2013	416142	            36/6 Kemsley  Place	20/09/2013	-	21/01/2014	$396,000	0m	Full transfer	2	1	0	1	0	$396,000	-	-	Allhomes Record	-	-	-	-	$5,110,000	12.9
+2013	418353	36/6 Kemsley Place	19/09/2013	10/01/2014	02/05/2013	$396,000	14610m	Full transfer	2	1	0	1	0	$396,000	140	-	Combined Record	-	-	-	Multiple unit dwelling	$5,110,000	12.9
+2013	410868	            10/1 Biddlecombe Street	15/08/2013	20/09/2013	-	$390,000	12806m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	404434	10/14 Marr Street	15/08/2013	-	03/07/2013	$390,000	12806m	Full transfer	2	1	-	1	-	$390,000	43	-	Allhomes Record	-	-	-	-	$4,528,000	11.61
+2013	406226	24/14 Marr Street	17/09/2013	-	07/06/2013	$390,000	12806m	Full transfer	2	1	-	1	-	$390,000	102	-	Allhomes Record	93	-	-	-	$4,528,000	11.61
+2013	417674	            24/1 Biddlecombe Street	17/09/2013	14/01/2014	-	$390,000	12806m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	395648	53 McNamara Street	03/05/2013	-	21/03/2013	$380,000	0m	Full transfer	2	1	-	0	1	$380,000	43	-	Allhomes Record	-	-	-	-	$3,805,000	10.01
+2013	400139	            15/23 McNamara Street	03/05/2013	04/06/2013	-	$380,000	9622m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	407474	            6/23 McNamara Street	22/07/2013	03/09/2013	-	$364,500	9622m	Full transfer	-	-	-	-	-	$364,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	401956	35 McNamara Street	22/07/2013	-	26/04/2013	$364,500	-	Full transfer	2	1	-	-	1	$364,500	87	-	Allhomes Record	-	-	-	-	$3,805,000	10.44
+2013	410258	2/1 McGee Place	25/06/2013	11/09/2013	-	$310,000	722m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	388266	12/92 Hodgson Crescent	09/02/2013	-	23/11/2012	$305,000	1619m	Full transfer	2	1	-	1	-	$305,000	78	-	Allhomes Record	65	-	-	-	$1,815,000	5.95
+2013	392271	24/78 Hodgson Crescent	11/02/2013	15/03/2013	-	$295,000	3983m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	399901	2/5 Parkhill Street	09/07/2013	-	13/06/2013	$285,000	1770m	Full transfer	2	1	-	-	1	$285,000	26	-	Allhomes Record	-	-	-	-	$1,472,000	5.16
+2013	407660	2/112 MacFarland Crescent	09/07/2013	21/08/2013	-	$285,000	1770m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394473	27 Hodgson Crescent	24/01/2013	20/03/2013	-	$270,000	945m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	403487	36 Murphy Street	14/06/2013	01/07/2013	-	$6,200	849m	Full transfer	-	-	-	-	-	$6,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	401566	85 MacFarland Place	18/02/2013	21/05/2013	-	$0	1017m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	397543	            18/1 Biddlecombe Street	15/02/2013	10/05/2013	-	$0	12806m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400141	2/2 Marr Street	23/01/2013	04/06/2013	-	$0	5211m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400138	4/79 Collings Street	20/02/2013	04/06/2013	-	$0	13790m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	400142	7 Hodgson Place	17/03/2013	04/06/2013	-	$0	384m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	432882	12 Coleman Street	26/05/2013	12/08/2014	-	$0	1028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	447159	14 Clarkson Street	01/11/2013	25/02/2015	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	430144	14 Hodgson Crescent	03/07/2013	08/07/2014	-	$0	1190m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	412922	12 Hodgson Crescent	06/06/2013	29/10/2013	-	$0	991m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413959	9 Cumberlege Crescent	03/10/2013	20/11/2013	-	$0	892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419912	3 Whitham Place	21/06/2013	04/02/2014	-	$0	860m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417672	            9/59 Pethebridge Street	03/10/2013	15/01/2014	-	$0	10478m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	410718	14 Clarkson Street	31/07/2013	24/10/2013	-	$0	888m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	419911	11 Leighton Street	06/12/2013	07/02/2014	-	$0	833m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	392942	            52/21 Pethebridge Street	04/02/2013	07/02/2013	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	441465	            57/21 Pethebridge Street	10/07/2013	12/12/2014	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	401567	            2/70 Collings Street	10/01/2013	21/05/2013	-	$0	1060m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	460115	58 Hodgson Crescent	15/06/2013	27/08/2015	-	$0	1100m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411267	15 Sheehan Street	15/06/2013	18/10/2013	-	$0	1376m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	430468	3/40 Marr Street	16/10/2013	04/07/2014	-	$0	13764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	413423	81 MacFarland Place	17/10/2013	13/11/2013	-	$0	933m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429688	22 Sheehan Street	15/03/2014	24/06/2014	07/02/2014	$2,300,000	2786m	Full transfer	5	5	-	3	-	$2,300,000	36	-	Combined Record	-	-	-	Single residential dwelling	$754,000	0.33
+2014	438508	32 Sheehan Street	01/03/2014	27/10/2014	05/02/2014	$1,300,000	2487m	Full transfer	4	2	1	4	-	$1,300,000	24	-	Combined Record	-	-	-	Single residential dwelling	$754,000	0.58
+2014	448660	91 MacFarland Place	05/12/2014	27/03/2015	19/06/2014	$1,180,000	961m	Full transfer	4	2	0	0	2	$1,180,000	169	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.43
+2014	426296	20 Whitelaw Street	21/03/2014	08/05/2014	12/03/2014	$1,100,000	816m	Full transfer	4	2	1	2	-	$1,100,000	9	-	Combined Record	356	-	-	Single residential dwelling	$450,000	0.41
+2014	426301	5 Anstey Street	20/03/2014	07/05/2014	-	$1,050,000	1138m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443231	31 Sheehan Street	21/11/2014	15/01/2015	29/10/2014	$930,000	1261m	Full transfer	5	1	1	1	2	$930,000	23	-	Combined Record	-	-	-	Single residential dwelling	$633,000	0.68
+2014	436061	79 Parkhill Street	16/08/2014	23/09/2014	24/07/2014	$895,000	1290m	Full transfer	4	1	1	0	2	$895,000	23	-	Combined Record	-	-	-	Single residential dwelling	$559,000	0.62
+2014	453880	27 McLaren Crescent	20/12/2014	02/06/2015	03/12/2014	$825,000	959m	Full transfer	4	2	1	2	-	$825,000	17	-	Combined Record	271	-	-	Single residential dwelling	$454,000	0.55
+2014	451331	5 Charlton Street	06/12/2014	21/04/2015	12/11/2014	$810,000	712m	Full transfer	4	1	1	1	-	$810,000	24	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.54
+2014	430469	11 Anstey Street	10/05/2014	02/07/2014	02/04/2014	$795,000	1054m	Full transfer	4	1	-	1	1	$795,000	38	-	Combined Record	-	-	-	Single residential dwelling	$544,000	0.68
+2014	426974	7 Sheehan Street	21/02/2014	13/05/2014	08/08/2013	$775,000	1163m	Full transfer	4	2	-	2	-	$775,000	197	-	Combined Record	-	-	-	Single residential dwelling	$526,000	0.68
+2014	444935	12 Hodgson Crescent	25/10/2014	03/02/2015	01/10/2014	$736,000	991m	Full transfer	5	2	1	3	-	$736,000	24	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.53
+2014	426884	14 Trumble Street	05/03/2014	08/05/2014	18/02/2014	$730,000	755m	Full transfer	3	1	1	2	-	$730,000	15	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.58
+2014	426972	13 Brinsmead Street	05/04/2014	12/05/2014	12/03/2014	$729,500	1003m	Full transfer	4	1	1	2	-	$729,500	24	-	Combined Record	-	-	-	Single residential dwelling	$506,000	0.69
+2014	432010	33 McLaren Crescent	22/05/2014	31/07/2014	26/06/2013	$725,000	915m	Full transfer	3	2	-	-	-	$725,000	330	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.61
+2014	440880	4B Biddlecombe Street	19/12/2014	-	16/10/2014	$710,000	-	Full transfer	4	1	1	1	-	$710,000	64	-	Allhomes Record	-	-	-	-	$293,000	0.41
+2014	446636	1/23 Hodgson Crescent	03/09/2014	10/02/2015	07/08/2014	$696,000	902m	Full transfer	3	1	1	1	1	$696,000	27	-	Combined Record	-	-	-	Multiple unit dwelling	$304,300	0.44
+2014	440059	4 Clarkson Street	06/09/2014	26/11/2014	14/08/2014	$665,000	928m	Full transfer	4	2	0	2	1	$665,000	23	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.76
+2014	428189	3 Whitham Place	22/02/2014	29/04/2014	17/01/2014	$650,000	860m	Full transfer	3	1	1	2	-	$650,000	36	-	Combined Record	-	-	-	Single residential dwelling	$479,000	0.74
+2014	438510	38 Hodgson Crescent	25/09/2014	29/10/2014	28/08/2014	$647,500	801m	Full transfer	4	1	1	2	-	$647,500	28	-	Combined Record	-	-	-	Single residential dwelling	$381,000	0.59
+2014	432879	14 McNamara Street	04/07/2014	15/08/2014	26/03/2014	$635,000	956m	Full transfer	3	1	1	-	2	$635,000	100	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.69
+2014	440038	36/29 Pethebridge Street	11/12/2014	-	10/11/2014	$613,500	-	Full transfer	3	1	1	2	-	$613,500	31	-	Allhomes Record	138	-	-	-	$7,607,000	12.4
+2014	454256	            36/21 Pethebridge Street	11/12/2014	12/06/2015	-	$613,500	24499m	Full transfer	-	-	-	-	-	$613,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	449616	4 Collings Street	15/12/2014	-	21/04/2015	$605,000	0m	Full transfer	3	1	-	0	1	$605,000	-	-	Allhomes Record	-	-	-	-	$470,000	0.78
+2014	443409	3 Whitelaw Street	05/11/2014	07/01/2015	12/09/2014	$575,000	972m	Full transfer	3	1	-	1	-	$575,000	54	-	Combined Record	140	-	-	Single residential dwelling	$484,000	0.84
+2014	424502	97 MacFarland Crescent	18/02/2014	02/04/2014	30/10/2013	$557,000	1052m	Full transfer	3	1	0	1	0	$557,000	111	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.78
+2014	426298	8 Whitham Place	29/03/2014	07/05/2014	06/03/2014	$555,000	929m	Full transfer	3	1	1	-	1	$555,000	23	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.82
+2014	426886	20 Hodgson Crescent	27/02/2014	08/05/2014	06/11/2013	$555,000	759m	Full transfer	3	1	-	2	1	$555,000	113	-	Combined Record	118	-	-	Single residential dwelling	$370,000	0.67
+2014	435519	40 Beasley Street	24/07/2014	15/09/2014	26/06/2014	$552,000	747m	Full transfer	3	1	0	0	2	$552,000	28	-	Combined Record	-	-	-	Single residential dwelling	$370,000	0.67
+2014	441468	23 Trumble Street	02/10/2014	10/12/2014	28/08/2014	$550,500	821m	Full transfer	3	1	-	1	-	$550,500	35	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.76
+2014	424740	            48/21 Pethebridge Street	17/02/2014	08/04/2014	-	$550,000	24499m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435521	19 Givens Street	30/06/2014	17/09/2014	-	$550,000	793m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446638	22 Blackburn Street	13/12/2014	10/02/2015	24/11/2014	$533,000	799m	Full transfer	3	1	-	-	2	$533,000	19	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.95
+2014	446634	60 Pethebridge Street	12/12/2014	10/02/2015	09/10/2014	$520,000	633m	Full transfer	3	1	0	0	1	$520,000	64	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.75
+2014	441462	5/2 Marr Street	22/09/2014	09/12/2014	07/08/2014	$510,000	5211m	Full transfer	3	1	1	2	-	$510,000	46	-	Combined Record	148	-	-	Multiple unit dwelling	$1,762,000	3.45
+2014	420149	19/26 Marr Street	05/03/2014	-	30/10/2013	$465,000	173m	Full transfer	3	1	0	0	1	$465,000	126	-	Allhomes Record	-	-	-	-	$121,712	0.26
+2014	426300	            19/21 Pethebridge Street	05/03/2014	09/05/2014	-	$465,000	24499m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	431315	45/29 Pethebridge Street	01/08/2014	-	29/05/2014	$455,000	127m	Full transfer	3	1	0	1	0	$455,000	64	-	Allhomes Record	-	-	-	-	-	-
+2014	434816	            45/21 Pethebridge Street	01/08/2014	09/09/2014	-	$455,000	24499m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	441127	            46/21 Pethebridge Street	28/10/2014	04/12/2014	-	$447,000	24499m	Full transfer	-	-	-	-	-	$447,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436911	46/29 Pethebridge Street	28/10/2014	-	02/10/2014	$447,000	-	Full transfer	3	1	-	1	-	$447,000	26	-	Allhomes Record	-	-	-	-	-	-
+2014	441466	7/4 Hodgson Place	25/09/2014	10/12/2014	19/06/2014	$440,000	3916m	Full transfer	3	1	-	2	-	$440,000	98	-	Combined Record	-	-	-	Multiple unit dwelling	$1,381,000	3.14
+2014	429684	7/40 Marr Street	27/05/2014	29/06/2014	29/04/2014	$420,000	13764m	Full transfer	3	1	-	1	-	$420,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2014	419280	            29/21 Pethebridge Street	15/01/2014	12/02/2014	-	$405,000	24499m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	416107	29/29 Pethebridge Street	20/01/2014	-	10/10/2013	$405,000	-	Full transfer	2	1	-	-	1	$405,000	102	-	Allhomes Record	-	-	-	-	-	-
+2014	443229	6/6 Kemsley Place	28/11/2014	16/01/2015	17/07/2014	$400,000	14610m	Full transfer	2	1	0	1	0	$400,000	134	-	Combined Record	-	-	-	Multiple unit dwelling	$123,700	0.31
+2014	440238	            3/23 McNamara Street	10/10/2014	18/11/2014	-	$395,000	9622m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	435294	25 McNamara Street	10/10/2014	-	12/08/2014	$395,000	-	Full transfer	2	1	-	-	1	$395,000	59	-	Allhomes Record	-	-	-	-	$3,805,000	9.63
+2014	444934	            9/59 Pethebridge Street	14/11/2014	03/02/2015	-	$382,000	10478m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	438232	9/60 Marr Street	14/11/2014	-	17/04/2014	$382,000	10478m	Full transfer	2	1	-	1	-	$382,000	211	-	Allhomes Record	92	-	-	-	$2,333,000	6.11
+2014	432384	2/2 Biddlecombe Street	08/06/2014	05/08/2014	-	$375,000	971m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	437177	21/14 Marr Street	05/11/2014	-	09/09/2014	$375,000	12806m	Full transfer	2	1	-	1	-	$375,000	57	-	Allhomes Record	-	-	-	-	$4,754,000	12.68
+2014	441464	            21/1 Biddlecombe Street	05/11/2014	12/12/2014	-	$375,000	12806m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	428407	9/92 Hodgson Crescent	02/05/2014	05/06/2014	05/03/2014	$318,000	1619m	Full transfer	2	1	-	-	-	$318,000	58	-	Combined Record	-	-	-	Multiple unit dwelling	$1,906,000	5.99
+2014	429686	1/78 Hodgson Crescent	17/04/2014	29/06/2014	07/01/2014	$295,000	3983m	Full transfer	2	1	-	-	1	$295,000	100	-	Combined Record	65	-	-	Multiple unit dwelling	$2,734,000	9.27
+2014	433464	11/112 MacFarland Crescent	27/05/2014	22/08/2014	-	$266,000	1770m	Full transfer	-	-	-	-	-	$266,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440239	17 Brinsmead Street	20/09/2014	20/11/2014	25/07/2014	$0	718m	Full transfer	5	1	1	2	-	$0	57	-	Combined Record	-	-	-	Single residential dwelling	$479,000	9.27
+2014	430143	7 Charlton Street	14/05/2014	07/07/2014	-	$0	713m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	433867	7/4 Hodgson Place	31/05/2014	25/08/2014	-	$0	3916m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	430142	15/78 Hodgson Crescent	03/04/2014	11/07/2014	-	$0	3983m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	446633	61 Parkhill Street	01/10/2014	10/02/2015	-	$0	949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	438839	3 Whitelaw Street	09/03/2014	06/11/2014	-	$0	972m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424455	8 Whitham Place	07/03/2014	24/04/2014	-	$0	929m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432881	40 Beasley Street	19/05/2014	11/08/2014	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446237	92 MacFarland Crescent	25/10/2014	18/02/2015	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443228	4 McNeil Place	21/09/2014	16/01/2015	-	$0	761m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	439401	85 Parkhill Street	01/09/2014	13/11/2014	-	$0	1625m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	430471	22 Hodgson Crescent	21/02/2014	03/07/2014	-	$0	758m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	441126	            12/40 Marr Street	25/07/2014	01/12/2014	-	$0	13764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	439402	4 Clarkson Street	16/04/2014	10/11/2014	-	$0	928m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	478046	10 Charlton Street	15/09/2014	16/05/2016	-	$0	708m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2014	432009	4 Whitelaw Street	16/06/2014	29/07/2014	-	$0	725m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	448251	10/2 Marr Street	18/12/2014	05/03/2015	-	$0	5211m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	445452	17 Anstey Street	28/02/2015	-	02/02/2015	$1,500,000	1044m	Full transfer	5	2	1	2	-	$1,500,000	26	-	Allhomes Record	-	-	-	-	$544,000	0.36
+2015	456029	44 Parkhill Street	16/05/2015	06/07/2015	21/04/2015	$1,360,000	1924m	Full transfer	4	1	1	4	-	$1,360,000	25	-	Combined Record	-	-	-	Single residential dwelling	$703,000	0.52
+2015	466253	18 Whitelaw Street	05/09/2015	19/11/2015	13/08/2015	$1,150,000	805m	Full transfer	4	1	2	2	-	$1,150,000	23	-	Combined Record	242	-	-	Single residential dwelling	$450,000	0.39
+2015	465190	4 Anstey Street	05/09/2015	06/11/2015	12/08/2015	$1,070,000	1245m	Full transfer	4	1	1	2	-	$1,070,000	24	-	Combined Record	233	-	-	Single residential dwelling	$596,000	0.56
+2015	461160	24 Parkhill Street	19/06/2015	02/09/2015	03/06/2015	$936,000	1087m	Full transfer	5	1	2	3	-	$936,000	16	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.59
+2015	458885	18 Parkhill Street	16/06/2015	06/08/2015	26/05/2015	$900,000	1087m	Full transfer	4	1	1	2	-	$900,000	21	-	Combined Record	-	-	-	Single residential dwelling	$506,000	0.56
+2015	471126	4 Pendred Street	02/12/2015	15/02/2016	12/11/2015	$890,000	802m	Full transfer	4	1	1	2	-	$890,000	20	-	Combined Record	211	-	-	Single residential dwelling	$435,000	0.49
+2015	456501	16 Parkhill Street	28/04/2015	30/06/2015	07/04/2015	$890,000	1087m	Full transfer	4	1	1	2	1	$890,000	21	-	Combined Record	-	-	-	Single residential dwelling	$506,000	0.57
+2015	459647	14 McLaren Crescent	28/03/2015	18/08/2015	05/03/2015	$881,000	1376m	Full transfer	5	2	1	0	2	$881,000	23	-	Combined Record	-	-	-	Single residential dwelling	$571,000	0.65
+2015	484654	            3/53 Collings Street	20/11/2015	15/08/2016	-	$880,000	1132m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469120	40 Blackburn Street	07/11/2015	14/01/2016	12/10/2015	$855,000	1050m	Full transfer	4	2	1	2	-	$855,000	26	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.59
+2015	452701	1 Whitham Place	07/02/2015	11/05/2015	14/01/2015	$852,000	1181m	Full transfer	4	1	1	1	1	$852,000	24	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.59
+2015	447894	26 Clarkson Street	30/01/2015	16/03/2015	30/12/2014	$845,000	1078m	Full transfer	5	2	1	2	1	$845,000	31	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.6
+2015	465200	2 McCay Place	22/08/2015	02/11/2015	30/07/2015	$830,000	1051m	Full transfer	3	1	1	0	2	$830,000	23	-	Combined Record	-	-	-	Single residential dwelling	$439,000	0.53
+2015	467718	1/114 Hodgson Crescent	30/10/2015	21/12/2015	-	$820,000	1054m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464234	114 Hodgson Crescent	09/11/2015	-	25/09/2015	$820,000	513m	Full transfer	4	2	-	2	0	$820,000	45	-	Allhomes Record	-	-	-	-	$630,000	0.77
+2015	447598	26 Trumble Street	26/03/2015	-	04/02/2015	$810,000	791m	Full transfer	4	1	1	2	-	$810,000	50	-	Allhomes Record	-	-	-	-	$435,000	0.54
+2015	456506	25 Shepherd Street	11/05/2015	30/06/2015	23/01/2015	$765,000	941m	Full transfer	4	1	-	2	-	$765,000	108	-	Combined Record	130	-	-	Single residential dwelling	$470,000	0.61
+2015	460891	16 Julius Street	19/09/2015	-	25/08/2015	$765,000	926m	Full transfer	4	1	1	2	-	$765,000	25	-	Allhomes Record	202	-	-	-	$450,000	0.59
+2015	468590	12 Coleman Street	04/11/2015	06/01/2016	-	$750,000	1028m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	460106	10 Biddlecombe Street	30/05/2015	25/08/2015	13/05/2015	$747,000	818m	Full transfer	4	1	1	1	2	$747,000	17	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.54
+2015	450531	9/18 Marr Street	02/05/2015	-	01/04/2015	$705,000	24499m	Full transfer	3	1	1	2	0	$705,000	31	-	Allhomes Record	-	-	-	-	$159,747	0.23
+2015	458042	            9/21 Pethebridge Street	02/05/2015	23/07/2015	-	$705,000	24499m	Full transfer	-	-	-	-	-	$705,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	472902	8 McCay Place	22/09/2015	02/03/2016	-	$700,000	1129m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452713	97 Hodgson Crescent	16/02/2015	11/05/2015	16/02/2015	$690,000	839m	Full transfer	3	1	1	-	-	$690,000	-	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.65
+2015	461419	34 Blackburn Street	27/07/2015	10/09/2015	06/07/2015	$685,000	780m	Full transfer	3	1	-	1	1	$685,000	21	-	Combined Record	120	-	-	Single residential dwelling	$484,000	0.71
+2015	464653	6 Leighton Street	22/08/2015	21/10/2015	30/07/2015	$675,000	759m	Full transfer	3	1	1	0	1	$675,000	23	-	Combined Record	-	-	-	Single residential dwelling	$408,000	0.6
+2015	450181	6 Givens Street	19/02/2015	16/04/2015	-	$673,500	896m	Full transfer	-	-	-	-	-	$673,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462934	58 Hodgson Crescent	26/06/2015	06/10/2015	04/06/2015	$650,000	1100m	Full transfer	2	1	0	0	0	$650,000	22	-	Combined Record	-	-	-	Single residential dwelling	$540,000	0.83
+2015	462019	94 MacFarland Crescent	25/07/2015	24/09/2015	07/07/2015	$645,000	955m	Full transfer	3	1	-	1	1	$645,000	18	-	Combined Record	-	-	-	Single residential dwelling	$388,000	0.6
+2015	471133	58 Pethebridge Street	22/12/2015	17/02/2016	05/11/2015	$645,000	667m	Full transfer	4	1	1	2	0	$645,000	47	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.6
+2015	456914	66 Collings Street	09/05/2015	23/06/2015	11/04/2015	$640,000	741m	Full transfer	4	1	-	1	1	$640,000	28	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.61
+2015	456035	22 Clarkson Street	19/05/2015	09/07/2015	24/04/2015	$637,000	804m	Full transfer	3	1	-	1	-	$637,000	25	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.74
+2015	455088	10/79 Collings Street	28/02/2015	19/06/2015	07/01/2015	$631,000	13790m	Full transfer	2	1	1	2	-	$631,000	52	-	Combined Record	-	-	-	Multiple unit dwelling	$2,617,000	4.15
+2015	468588	24 Julius Street	11/11/2015	06/01/2016	29/10/2015	$630,000	819m	Full transfer	3	1	1	-	2	$630,000	13	-	Combined Record	133	-	-	Single residential dwelling	$420,000	0.67
+2015	471130	20 Shepherd Street	14/12/2015	17/02/2016	-	$627,500	723m	Full transfer	-	-	-	-	-	$627,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	450714	1 Whitelaw Street	09/05/2015	-	15/04/2015	$624,000	910m	Full transfer	3	1	-	-	1	$624,000	24	-	Allhomes Record	-	-	-	-	$450,000	0.72
+2015	466256	60 Collings Street	25/07/2015	16/11/2015	26/10/2015	$616,000	761m	Full transfer	3	1	-	2	1	$616,000	-	-	Combined Record	101	-	-	Single residential dwelling	$390,000	0.63
+2015	456911	65 MacFarland Crescent	09/05/2015	25/06/2015	16/04/2015	$602,000	802m	Full transfer	3	1	-	2	0	$602,000	23	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.72
+2015	455095	20 Besant Street	02/05/2015	17/06/2015	08/04/2015	$585,000	801m	Full transfer	3	1	0	0	1	$585,000	24	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.77
+2015	466245	6/4 Hodgson Place	12/10/2015	18/11/2015	16/09/2015	$575,000	3916m	Full transfer	3	1	-	1	-	$575,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	$1,381,000	2.4
+2015	464655	18 Trumble Street	05/09/2015	21/10/2015	12/08/2015	$575,000	757m	Full transfer	4	1	-	2	2	$575,000	24	-	Combined Record	133	-	-	Single residential dwelling	$435,000	0.76
+2015	452723	            1/21 Pethebridge Street	23/03/2015	13/05/2015	-	$545,000	24499m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450193	4 McNeil Place	21/02/2015	14/04/2015	10/12/2014	$542,500	761m	Full transfer	3	1	-	1	-	$542,500	73	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.8
+2015	449153	24/26 Marr Street	10/04/2015	-	18/02/2015	$542,500	24499m	Full transfer	3	1	0	1	0	$542,500	51	-	Allhomes Record	-	-	-	-	$121,712	0.22
+2015	452389	            24/21 Pethebridge Street	10/04/2015	21/05/2015	-	$542,500	24499m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456901	            28/21 Pethebridge Street	01/05/2015	23/06/2015	-	$532,000	24499m	Full transfer	-	-	-	-	-	$532,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450503	28/29 Pethebridge Street	01/05/2015	-	14/04/2015	$532,000	-	Full transfer	2	1	-	-	1	$532,000	17	-	Allhomes Record	-	-	-	-	$7,607,000	14.3
+2015	442559	12/41 Pethebridge Street	28/01/2015	-	15/01/2015	$530,000	13764m	Full transfer	3	1	1	2	0	$530,000	13	-	Allhomes Record	-	-	-	-	$2,497,000	4.71
+2015	471128	            43/21 Pethebridge Street	21/10/2015	17/02/2016	-	$530,000	24499m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462534	43/29 Pethebridge Street	22/10/2015	-	29/09/2015	$530,000	-	Full transfer	3	1	-	-	1	$530,000	23	-	Allhomes Record	-	-	-	-	-	-
+2015	454435	6/18 Marr Street	20/06/2015	-	11/05/2015	$520,000	-	Full transfer	3	1	1	1	-	$520,000	40	-	Allhomes Record	109	-	-	-	-	-
+2015	459646	            6/21 Pethebridge Street	20/06/2015	18/08/2015	-	$520,000	24499m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462023	12/3 Shepherd Street	27/07/2015	25/09/2015	11/05/2015	$512,500	2639m	Full transfer	3	1	1	-	1	$512,500	77	-	Combined Record	149	-	-	Multiple unit dwelling	$1,805,000	3.52
+2015	448658	2/3 Pethebridge Street	03/02/2015	27/03/2015	16/10/2014	$510,000	852m	Full transfer	3	1	1	1	1	$510,000	110	-	Combined Record	-	-	-	Multiple unit dwelling	$584,000	1.15
+2015	452715	6/40 Marr Street	31/03/2015	17/05/2015	12/11/2014	$507,500	13764m	Full transfer	3	1	1	2	-	$507,500	139	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2015	456908	            44/21 Pethebridge Street	18/05/2015	23/06/2015	-	$465,000	24499m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461700	31/29 Pethebridge Street	15/04/2015	-	08/10/2015	$460,000	0m	Full transfer	2	1	-	0	1	$460,000	-	-	Allhomes Record	-	-	-	-	-	-
+2015	456503	            31/21 Pethebridge Street	15/04/2015	03/07/2015	-	$460,000	24499m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458058	10/6 Kemsley Place	22/04/2015	20/07/2015	-	$418,000	14610m	Full transfer	-	-	-	-	-	$418,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461823	10/6 Kemsley Place	23/04/2015	-	08/10/2015	$418,000	0m	Full transfer	2	1	-	1	0	$418,000	-	-	Allhomes Record	-	-	-	-	$5,110,000	12.22
+2015	460491	30/29 Pethebridge Street	07/09/2015	-	18/05/2015	$410,000	-	Full transfer	2	1	-	-	1	$410,000	112	-	Allhomes Record	-	-	-	-	$7,607,000	18.55
+2015	464639	            30/21 Pethebridge Street	03/09/2015	23/10/2015	-	$410,000	24499m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468593	17/6 Kemsley Place	28/10/2015	06/01/2016	22/05/2015	$407,500	14610m	Full transfer	2	1	-	1	-	$407,500	159	-	Combined Record	-	-	-	Multiple unit dwelling	$5,110,000	12.54
+2015	452717	24/6 Kemsley Place	03/03/2015	13/05/2015	-	$405,000	14610m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	456902	38/6 Kemsley Place	23/04/2015	23/06/2015	26/02/2015	$400,000	14610m	Full transfer	2	1	-	1	-	$400,000	56	-	Combined Record	-	-	-	Multiple unit dwelling	$5,110,000	12.78
+2015	448648	7/2 Hodgson Place	18/02/2015	26/03/2015	-	$400,000	5240m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	468595	15/6 Kemsley Place	30/10/2015	07/01/2016	15/09/2015	$385,000	14610m	Full transfer	2	1	-	1	-	$385,000	45	-	Combined Record	-	-	-	Multiple unit dwelling	$5,110,000	13.27
+2015	471129	1/1 McGee Place	15/10/2015	17/02/2016	-	$318,000	722m	Full transfer	-	-	-	-	-	$318,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462423	1/1-5 McGee Place	16/10/2015	-	01/04/2015	$318,000	-	Full transfer	2	1	-	-	-	$318,000	198	-	Allhomes Record	-	-	-	-	$809,000	2.54
+2015	471125	28 Julius Street	15/09/2015	18/02/2016	-	$300,000	839m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	456909	11/78 Hodgson Crescent	05/05/2015	23/06/2015	27/01/2015	$295,000	3983m	Full transfer	2	1	-	-	1	$295,000	98	-	Combined Record	-	-	-	Multiple unit dwelling	$2,734,000	9.27
+2015	471135	11/2 Hodgson Place	24/11/2015	15/02/2016	-	$10,000	5240m	Full transfer	-	-	-	-	-	$10,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	521332	            2/5 Leighton Street	17/06/2015	06/12/2017	-	$0	1124m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	448647	            12/40 Marr Street	28/01/2015	23/03/2015	-	$0	13764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	462922	2 McCay Place	20/05/2015	08/10/2015	-	$0	1051m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458388	68 MacFarland Crescent	26/05/2015	28/07/2015	-	$0	1137m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	471405	50 Parkhill Street	26/10/2015	09/02/2016	-	$0	1642m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	477006	6 Whitham Place	07/10/2015	03/05/2016	-	$0	839m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	521183	1/5 Leighton Street	17/06/2015	06/12/2017	-	$0	1124m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	479948	11 Leighton Street	06/02/2015	24/06/2016	-	$0	833m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	497355	16 McNamara Street	02/03/2015	07/02/2017	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466255	9 Sheehan Street	21/05/2015	19/11/2015	-	$0	1142m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464479	9 McLaren Crescent	20/09/2015	29/10/2015	-	$0	936m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	462933	18 Leighton Street	13/07/2015	09/10/2015	-	$0	1045m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461401	18 Clarkson Street	11/05/2015	10/09/2015	-	$0	793m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	475134	26 Cherry Street	29/08/2015	15/04/2016	-	$0	868m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	461179	68 MacFarland Crescent	24/06/2015	31/08/2015	05/05/2015	$0	1137m	Full transfer	3	2	-	2	0	$0	50	-	Combined Record	-	-	-	Single residential dwelling	$422,000	9.27
+2015	492358	            5/21 Pethebridge Street	24/11/2015	15/12/2016	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497544	18 Besant Street	16/11/2016	23/02/2017	01/08/2016	$1,440,000	1147m	Full transfer	5	1	1	2	-	$1,440,000	107	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.33
+2016	498418	20 Blackburn Street	02/12/2016	14/02/2017	23/11/2016	$1,305,000	770m	Full transfer	4	2	1	1	-	$1,305,000	9	-	Combined Record	272	-	-	Single residential dwelling	$484,000	0.37
+2016	482112	46 Parkhill Street	14/05/2016	21/07/2016	02/12/2015	$1,160,000	1756m	Full transfer	5	2	1	2	-	$1,160,000	164	-	Combined Record	250	-	-	Single residential dwelling	$703,000	0.61
+2016	484241	79 Parkhill Street	24/06/2016	18/08/2016	-	$1,070,000	1290m	Full transfer	-	-	-	-	-	$1,070,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491230	85 Parkhill Street	17/09/2016	22/11/2016	24/08/2016	$1,000,000	1625m	Full transfer	5	2	-	2	0	$1,000,000	24	-	Combined Record	-	-	-	Single residential dwelling	$612,000	0.61
+2016	486301	            1/33 McLaren Crescent	25/06/2016	06/09/2016	-	$950,000	915m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479688	33A McLaren Crescent	25/06/2016	-	31/05/2016	$950,000	-	Full transfer	4	1	2	2	-	$950,000	25	-	Allhomes Record	205	-	-	-	$640,000	0.67
+2016	481090	50 Hodgson Crescent	06/05/2016	05/07/2016	-	$935,000	810m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479687	33B McLaren Crescent	25/06/2016	-	01/06/2016	$925,000	-	Full transfer	3	2	1	2	-	$925,000	24	-	Allhomes Record	195	-	-	-	$640,000	0.69
+2016	492862	            2/33 McLaren Crescent	25/06/2016	16/12/2016	-	$925,000	915m	Full transfer	-	-	-	-	-	$925,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497789	78 Parkhill Street	10/12/2016	24/02/2017	16/11/2016	$920,000	881m	Full transfer	3	1	1	2	-	$920,000	24	-	Combined Record	150	-	-	Single residential dwelling	$492,000	0.53
+2016	482538	7 Clarkson Street	12/05/2016	27/07/2016	15/04/2016	$908,000	974m	Full transfer	5	1	1	2	-	$908,000	27	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.56
+2016	485425	53 Collings Street	27/09/2016	-	15/07/2015	$868,500	1132m	Full transfer	3	1	1	2	-	$868,500	440	-	Allhomes Record	-	-	-	-	$435,000	0.5
+2016	491237	            2/53 Collings Street	09/09/2016	22/11/2016	-	$868,500	1132m	Full transfer	-	-	-	-	-	$868,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479446	35 McLaren Crescent	22/04/2016	08/06/2016	30/03/2016	$820,000	898m	Full transfer	5	1	-	0	2	$820,000	23	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.55
+2016	475136	2 Parkhill Street	02/03/2016	13/04/2016	12/02/2016	$785,000	1133m	Full transfer	3	1	1	2	-	$785,000	19	-	Combined Record	-	-	-	Single residential dwelling	$369,000	0.47
+2016	495034	22 Trumble Street	29/10/2016	11/01/2017	06/10/2016	$770,000	823m	Full transfer	3	1	1	-	2	$770,000	23	-	Combined Record	130	-	-	Single residential dwelling	$435,000	0.56
+2016	480683	14 Blackburn Street	19/03/2016	27/06/2016	25/02/2016	$770,000	805m	Full transfer	3	1	0	1	0	$770,000	23	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.63
+2016	475035	2 Trumble Street	07/05/2016	-	29/02/2016	$750,000	-	Full transfer	-	-	-	-	-	$750,000	68	-	Allhomes Record	-	-	-	-	$440,000	0.59
+2016	481438	8 Shepherd Street	07/05/2016	12/07/2016	-	$750,000	1045m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475145	9 Cumberlege Crescent	13/02/2016	15/04/2016	18/01/2016	$740,000	892m	Full transfer	3	2	-	1	1	$740,000	26	-	Combined Record	129	-	-	Single residential dwelling	$484,000	0.65
+2016	531827	12 McCay Place	02/04/2016	12/07/2016	09/03/2016	$730,000	919m	Full transfer	3	1	-	0	1	$730,000	24	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.7
+2016	479155	8 Whitham Place	19/03/2016	31/05/2016	24/02/2016	$727,000	929m	Full transfer	3	1	1	-	1	$727,000	24	-	Combined Record	134	-	-	Single residential dwelling	$466,000	0.64
+2016	495891	2/23 Hodgson Crescent	22/10/2016	04/01/2017	24/09/2016	$710,000	902m	Full transfer	3	2	-	1	1	$710,000	28	-	Combined Record	133	-	-	Multiple unit dwelling	$607,000	0.85
+2016	479956	11 Leighton Street	02/04/2016	24/06/2016	01/03/2016	$710,000	833m	Full transfer	3	1	1	-	2	$710,000	32	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.61
+2016	489352	14 Cumberlege Crescent	23/08/2016	18/10/2016	-	$695,000	896m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475893	14 Julius Street	26/02/2016	18/04/2016	18/02/2016	$685,000	827m	Full transfer	3	1	-	4	-	$685,000	8	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.64
+2016	482355	6 Whitham Place	22/06/2016	26/07/2016	09/03/2016	$681,000	839m	Full transfer	4	1	1	-	1	$681,000	105	-	Combined Record	-	-	-	Single residential dwelling	$454,000	0.67
+2016	475021	53/21 Biddlecombe Street	07/05/2016	-	13/04/2016	$660,000	-	Full transfer	3	1	1	2	-	$660,000	24	-	Allhomes Record	-	-	-	-	-	-
+2016	489621	            13/47 Petherbridge Street	12/11/2016	-	20/10/2016	$624,000	-	Full transfer	3	1	1	2	-	$624,000	23	-	Allhomes Record	142	-	-	-	$2,497,000	4.0
+2016	494916	            13/40 Marr Street	12/11/2016	11/01/2017	-	$624,000	13764m	Full transfer	-	-	-	-	-	$624,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	474043	52 Collings Street	12/04/2016	-	08/03/2016	$605,000	729m	Full transfer	-	-	-	-	-	$605,000	35	-	Allhomes Record	-	-	-	-	$394,000	0.65
+2016	499080	68 Pethebridge Street	07/12/2016	28/02/2017	-	$603,000	808m	Full transfer	-	-	-	-	-	$603,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2016	479144	4 Whitelaw Street	05/03/2016	31/05/2016	12/02/2016	$600,000	725m	Full transfer	5	2	-	0	0	$600,000	22	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.73
+2016	488824	3 Hodgson Place	10/08/2016	26/10/2016	24/06/2016	$585,000	412m	Full transfer	3	1	1	-	2	$585,000	47	-	Combined Record	-	-	-	Medium density dwelling	$390,000	0.67
+2016	492522	            5/21 Pethebridge Street	30/09/2016	12/12/2016	-	$560,000	24499m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	485873	5/18 Marr Street	30/09/2016	-	26/08/2016	$560,000	24498m	Full transfer	3	1	1	1	-	$560,000	35	-	Allhomes Record	-	-	-	-	-	-
+2016	487664	54/21 Biddlecombe Street	19/10/2016	-	02/05/2016	$555,000	0m	Full transfer	3	2	-	2	0	$555,000	170	-	Allhomes Record	-	-	-	-	-	-
+2016	495504	            54/21 Pethebridge Street	19/10/2016	02/02/2017	-	$555,000	24499m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	476441	13/59 Pethebridge Street	08/03/2016	27/04/2016	18/02/2016	$551,000	10478m	Full transfer	3	1	-	1	-	$551,000	19	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	475135	            8/21 Pethebridge Street	25/02/2016	15/04/2016	-	$540,000	24499m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	470463	8/18 Marr Street	25/02/2016	-	02/02/2016	$540,000	24498m	Full transfer	3	1	1	1	-	$540,000	23	-	Allhomes Record	-	-	-	-	-	-
+2016	491628	1/2 Marr Street	15/09/2016	29/11/2016	-	$520,000	5211m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	489636	42/29 Pethebridge Street	14/11/2016	-	19/10/2016	$490,000	24498m	Full transfer	3	1	-	-	1	$490,000	26	-	Allhomes Record	98	-	-	-	-	-
+2016	497241	            42/21 Pethebridge Street	14/11/2016	09/02/2017	-	$490,000	24499m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495317	1/6 Kemsley Place	03/11/2016	02/02/2017	21/09/2016	$489,000	14610m	Full transfer	2	1	-	1	0	$489,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	493014	            1/59 Pethebridge Street	06/09/2016	08/12/2016	-	$470,000	10478m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	483790	1/60 Marr Street	06/09/2016	-	23/06/2016	$470,000	-	Full transfer	2	1	-	1	-	$470,000	75	-	Allhomes Record	-	-	-	-	$157,910	0.34
+2016	479958	            30/1 Biddlecombe Street	16/05/2016	24/06/2016	-	$445,000	12806m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	477357	2/1 Biddlecombe Street	28/05/2016	-	12/05/2016	$415,000	0m	Full transfer	2	1	-	1	0	$415,000	16	-	Allhomes Record	-	-	-	-	-	-
+2016	474058	23/6 Kemsley Place	13/04/2016	-	17/03/2016	$410,000	0m	Full transfer	2	1	-	1	0	$410,000	27	-	Allhomes Record	-	-	-	-	-	-
+2016	467648	35 McNamara Street	19/01/2016	-	05/11/2015	$385,000	0m	Full transfer	2	1	-	0	1	$385,000	75	-	Allhomes Record	-	-	-	-	$3,805,000	9.88
+2016	501520	28 Julius Street	24/11/2016	20/03/2017	-	$325,000	839m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	477534	8/78 Hodgson Crescent	24/03/2016	13/05/2016	13/08/2015	$260,500	3983m	Full transfer	2	1	-	-	1	$260,500	224	-	Combined Record	-	-	-	Multiple unit dwelling	$2,734,000	10.5
+2016	495820	16/78 Hodgson Crescent	02/11/2016	04/01/2017	08/09/2016	$260,000	3983m	Full transfer	2	1	-	1	-	$260,000	55	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	485939	6/78 Hodgson Crescent	30/05/2016	16/08/2016	29/09/2015	$259,000	3983m	Full transfer	2	1	-	-	1	$259,000	244	-	Combined Record	-	-	-	Multiple unit dwelling	$2,734,000	10.56
+2016	476463	1/92 Hodgson Crescent	08/03/2016	26/04/2016	22/09/2015	$230,000	1619m	Full transfer	2	1	-	-	-	$230,000	168	-	Combined Record	-	-	-	Multiple unit dwelling	$1,906,000	8.29
+2016	487103	32 Hodgson Crescent	18/05/2016	21/09/2016	-	$0	779m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492637	86 MacFarland Crescent	23/08/2016	15/12/2016	-	$0	942m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	501408	7/79 Collings Street	14/10/2016	20/03/2017	27/04/2016	$0	13790m	Full transfer	3	2	-	2	0	$0	170	-	Combined Record	177	-	-	Multiple unit dwelling	-	-
+2016	514260	15 Cumberlege Crescent	06/12/2016	30/06/2017	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	481826	48 Parkhill Street	10/02/2016	19/07/2016	-	$0	1728m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	472835	2/23 Hodgson Crescent	15/01/2016	09/03/2016	-	$0	902m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	501615	            17/23 McNamara Street	13/10/2016	21/03/2017	-	$0	9622m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	475885	81 MacFarland Place	02/03/2016	21/04/2016	-	$0	933m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	502588	21 Hodgson Crescent	23/10/2016	13/04/2017	-	$0	861m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	504697	            13/23 McNamara Street	26/10/2016	02/05/2017	-	$0	9622m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	481997	8 McLaren Crescent	05/05/2016	22/07/2016	-	$0	1639m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	479146	3 Blackburn Street	22/01/2016	03/06/2016	-	$0	930m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495792	34 Murphy Street	21/11/2016	03/01/2017	-	$0	914m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	478040	8 Besant Street	19/02/2016	16/05/2016	-	$0	741m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	542277	16 Collings Street	31/12/2016	17/09/2018	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	503081	            15/21 Pethebridge Street	07/10/2016	04/04/2017	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	554060	            14B McNamara Street	22/12/2016	27/02/2019	-	$0	491m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525860	16 Sheehan Street	11/11/2017	14/02/2018	19/10/2017	$1,536,000	3490m	Full transfer	5	3	-	2	0	$1,536,000	23	-	Combined Record	-	-	-	Single residential dwelling	$816,000	0.53
+2017	514986	89 Parkhill Street	29/04/2017	07/07/2017	06/04/2017	$1,360,000	1068m	Full transfer	4	2	1	2	3	$1,360,000	23	-	Combined Record	269	-	-	Single residential dwelling	$570,000	0.42
+2017	523469	13 McLaren Crescent	21/10/2017	18/01/2018	28/09/2017	$1,090,000	959m	Full transfer	4	1	1	2	0	$1,090,000	23	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.48
+2017	525730	65 Parkhill Street	14/12/2017	15/02/2018	23/11/2017	$1,075,000	1060m	Full transfer	5	2	-	4	0	$1,075,000	21	-	Combined Record	-	-	-	Single residential dwelling	$646,000	0.6
+2017	515737	61 Parkhill Street	20/05/2017	19/07/2017	27/04/2017	$1,055,000	949m	Full transfer	4	2	-	2	0	$1,055,000	23	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.59
+2017	503827	31 Parkhill Street	04/02/2017	28/04/2017	12/01/2017	$1,050,000	892m	Full transfer	5	3	0	2	0	$1,050,000	23	-	Combined Record	-	-	-	Single residential dwelling	$568,000	0.54
+2017	524493	8 McLaren Crescent	04/11/2017	01/02/2018	12/10/2017	$1,030,000	1639m	Full transfer	4	2	-	1	1	$1,030,000	23	-	Combined Record	-	-	-	Single residential dwelling	$627,000	0.61
+2017	506988	1 Sheehan Street	08/08/2017	-	07/07/2017	$1,000,000	0m	Full transfer	-	-	-	-	-	$1,000,000	32	-	Allhomes Record	-	-	-	-	$391,000	0.39
+2017	519167	1 Sheehan Street	09/10/2017	09/10/2017	-	$1,000,000	1270m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519144	6 Gepp Place	09/10/2017	09/10/2017	-	$1,000,000	1499m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506901	6 Gepp Place	08/08/2017	-	07/07/2017	$1,000,000	1498m	Full transfer	-	-	-	-	-	$1,000,000	32	-	Allhomes Record	-	-	-	-	$409,000	0.41
+2017	519541	12 Cherry Place	05/08/2017	13/10/2017	13/07/2017	$997,500	1374m	Full transfer	4	3	-	2	-	$997,500	23	-	Combined Record	231	-	-	Single residential dwelling	$568,000	0.57
+2017	518455	82 Parkhill Street	24/06/2017	04/09/2017	01/06/2017	$997,000	1027m	Full transfer	4	2	-	0	2	$997,000	23	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.49
+2017	506941	95 MacFarland Crescent	08/08/2017	-	07/07/2017	$985,000	1013m	Full transfer	-	-	-	-	-	$985,000	32	-	Allhomes Record	-	-	-	-	$409,000	0.42
+2017	511082	            92 MacFarland Place	19/12/2017	-	21/04/2017	$985,000	935m	Full transfer	-	-	-	-	-	$985,000	242	-	Allhomes Record	-	-	-	-	-	-
+2017	519206	95 MacFarland Crescent	10/10/2017	10/10/2017	-	$985,000	1013m	Full transfer	-	-	-	-	-	$985,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503231	81 Parkhill Street	25/02/2017	05/04/2017	01/02/2017	$970,000	1245m	Full transfer	4	1	1	2	-	$970,000	24	-	Combined Record	154	-	-	Single residential dwelling	$606,000	0.62
+2017	523304	20 Leighton Street	04/11/2017	18/01/2018	19/10/2017	$956,000	874m	Full transfer	4	1	1	2	0	$956,000	16	-	Combined Record	-	-	-	Single residential dwelling	$527,000	0.55
+2017	500761	19 Parkhill Street	24/01/2017	15/03/2017	16/06/2016	$910,000	1031m	Full transfer	6	3	-	2	0	$910,000	222	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.56
+2017	516280	6 Biddlecombe Street	08/04/2017	07/08/2017	09/03/2017	$900,000	762m	Full transfer	4	2	-	2	0	$900,000	30	-	Combined Record	-	-	-	Single residential dwelling	$413,000	0.46
+2017	505186	31 McLaren Crescent	03/06/2017	-	11/05/2017	$871,000	0m	Full transfer	5	2	-	1	0	$871,000	23	-	Allhomes Record	-	-	-	-	$479,000	0.55
+2017	519044	4 Shepherd Street	24/07/2017	04/10/2017	04/05/2017	$860,000	792m	Full transfer	5	3	-	2	0	$860,000	81	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.53
+2017	510169	61 Pethebridge Street	02/12/2017	-	08/11/2017	$850,000	1151m	Full transfer	4	2	0	1	0	$850,000	24	-	Allhomes Record	-	-	-	-	$440,000	0.52
+2017	501572	            2/66 Collings Street	31/01/2017	20/03/2017	-	$845,000	741m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	519296	3 Collings Street	09/10/2017	09/10/2017	-	$840,000	943m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506989	3 Collings Street	08/08/2017	-	07/07/2017	$840,000	0m	Full transfer	-	-	-	-	-	$840,000	32	-	Allhomes Record	-	-	-	-	$461,000	0.55
+2017	512837	21 Charlton Street	08/04/2017	26/05/2017	22/03/2017	$835,000	758m	Full transfer	4	2	-	1	-	$835,000	17	-	Combined Record	168	-	-	Single residential dwelling	$440,000	0.53
+2017	512443	            1/2 Biddlecombe Street	31/03/2017	08/05/2017	-	$835,000	971m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	553966	13 Hodgson Crescent	03/04/2017	-	07/03/2019	$835,000	0m	Full transfer	3	2	1	2	-	$835,000	-	-	Allhomes Record	-	-	-	-	$674,000	0.81
+2017	506926	14 Clarkson Street	08/08/2017	-	07/07/2017	$825,000	888m	Full transfer	-	-	-	-	-	$825,000	32	-	Allhomes Record	-	-	-	-	$500,000	0.61
+2017	504805	82 MacFarland Crescent	15/03/2017	02/05/2017	25/01/2017	$825,000	980m	Full transfer	4	1	-	1	1	$825,000	49	-	Combined Record	-	-	-	Single residential dwelling	$420,000	0.51
+2017	519360	14 Clarkson Street	09/10/2017	09/10/2017	-	$825,000	888m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	512365	29 McLaren Crescent	09/03/2017	09/05/2017	16/02/2017	$820,000	959m	Full transfer	4	1	0	2	2	$820,000	21	-	Combined Record	-	-	-	Single residential dwelling	$492,000	0.6
+2017	499676	31 Julius Street	17/01/2017	10/03/2017	30/11/2016	$817,000	725m	Full transfer	4	2	-	1	2	$817,000	48	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.56
+2017	519426	16 Leighton Street	09/10/2017	09/10/2017	-	$815,000	929m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506925	16 Leighton Street	08/08/2017	-	07/07/2017	$815,000	928m	Full transfer	-	-	-	-	-	$815,000	32	-	Allhomes Record	-	-	-	-	$476,000	0.58
+2017	513488	81 MacFarland Place	25/03/2017	29/05/2017	23/02/2017	$810,000	933m	Full transfer	3	1	-	2	0	$810,000	30	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.63
+2017	519567	27 Cumberlege Crescent	11/10/2017	11/10/2017	-	$805,000	828m	Full transfer	-	-	-	-	-	$805,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506916	27 Cumberlege Crescent	08/08/2017	-	07/07/2017	$805,000	827m	Full transfer	-	-	-	-	-	$805,000	32	-	Allhomes Record	-	-	-	-	$360,000	0.45
+2017	506915	4 Cumberlege Crescent	08/08/2017	-	07/07/2017	$800,000	929m	Full transfer	-	-	-	-	-	$800,000	32	-	Allhomes Record	-	-	-	-	$507,000	0.63
+2017	520788	4 Cumberlege Crescent	21/11/2017	21/11/2017	-	$800,000	930m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516067	10 Whitelaw Street	27/05/2017	24/07/2017	19/01/2017	$785,000	725m	Full transfer	3	2	-	-	2	$785,000	128	-	Combined Record	137	-	-	For residential purposes only	$456,000	0.58
+2017	516774	            1/66 Collings Street	26/05/2017	03/08/2017	-	$780,000	741m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505184	66A Collings Street	27/05/2017	-	10/11/2016	$780,000	-	Full transfer	4	1	1	2	-	$780,000	198	-	Allhomes Record	140	-	-	-	$620,000	0.79
+2017	503766	60 Pethebridge Street	25/02/2017	28/04/2017	01/02/2017	$770,000	633m	Full transfer	3	1	-	0	1	$770,000	24	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.53
+2017	507411	24 Blackburn Street	25/08/2017	-	07/07/2017	$745,000	0m	Full transfer	-	-	-	-	-	$745,000	49	-	Allhomes Record	-	-	-	-	$507,000	0.68
+2017	509127	30 Hodgson Crescent	02/11/2017	-	12/10/2017	$742,500	822m	Full transfer	-	-	-	-	-	$742,500	21	-	Allhomes Record	-	-	-	-	$381,000	0.51
+2017	510252	53/21 Biddlecombe Street	04/12/2017	-	08/11/2017	$740,000	-	Full transfer	3	2	-	2	-	$740,000	26	-	Allhomes Record	126	-	-	-	-	-
+2017	526282	            53/21 Pethebridge Street	02/12/2017	26/02/2018	-	$740,000	24499m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506928	32 Julius Street	08/08/2017	-	07/07/2017	$735,000	801m	Full transfer	-	-	-	-	-	$735,000	32	-	Allhomes Record	-	-	-	-	$470,000	0.64
+2017	520695	32 Julius Street	06/11/2017	06/11/2017	-	$735,000	802m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525959	10 Givens Street	21/12/2017	16/02/2018	05/10/2017	$725,000	729m	Full transfer	3	2	-	0	1	$725,000	77	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.61
+2017	524715	7/80 Marr Street	20/10/2017	30/01/2018	05/10/2017	$720,000	5626m	Full transfer	3	2	-	2	-	$720,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	530302	32 Hodgson Crescent	21/11/2017	11/04/2018	22/05/2017	$720,000	779m	Full transfer	3	1	-	2	2	$720,000	183	-	Combined Record	-	-	-	Single residential dwelling	$399,000	0.55
+2017	519985	32 Trumble Street	28/07/2017	17/10/2017	18/05/2017	$720,000	768m	Full transfer	3	1	-	0	2	$720,000	71	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.61
+2017	523880	20 Besant Street	11/11/2017	24/01/2018	29/09/2017	$720,000	801m	Full transfer	3	1	-	2	1	$720,000	43	-	Combined Record	-	-	-	Single residential dwelling	$471,000	0.65
+2017	513856	7 Murphy Street	29/04/2017	23/06/2017	30/03/2017	$710,000	872m	Full transfer	3	1	-	4	0	$710,000	30	-	Combined Record	-	-	-	Single residential dwelling	$440,000	0.62
+2017	514288	92 MacFarland Crescent	30/06/2017	30/06/2017	-	$710,000	939m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514241	15 Cumberlege Crescent	13/04/2017	30/06/2017	16/03/2017	$701,000	867m	Full transfer	4	1	0	1	2	$701,000	28	-	Combined Record	-	-	-	Single residential dwelling	$507,000	0.72
+2017	508224	62 Beasley Street	27/09/2017	-	07/07/2017	$700,000	0m	Full transfer	-	-	-	-	-	$700,000	82	-	Allhomes Record	-	-	-	-	$337,000	0.48
+2017	520677	            16/21 Pethebridge Street	26/08/2017	10/11/2017	-	$680,000	24499m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507391	16/26 Marr Street	26/08/2017	-	03/08/2017	$680,000	0m	Full transfer	3	2	-	0	2	$680,000	23	-	Allhomes Record	-	-	-	-	-	-
+2017	514033	21 Hodgson Crescent	08/04/2017	13/06/2017	17/03/2017	$670,000	861m	Full transfer	3	1	-	1	1	$670,000	22	-	Combined Record	-	-	-	Single residential dwelling	$409,000	0.61
+2017	519229	25 Julius Street	09/10/2017	09/10/2017	-	$665,000	702m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	506917	25 Julius Street	08/08/2017	-	07/07/2017	$665,000	701m	Full transfer	-	-	-	-	-	$665,000	32	-	Allhomes Record	-	-	-	-	$424,000	0.64
+2017	507668	21 Julius Street	05/09/2017	-	07/07/2017	$665,000	0m	Full transfer	-	-	-	-	-	$665,000	60	-	Allhomes Record	-	-	-	-	$435,000	0.65
+2017	521272	21 Julius Street	04/12/2017	04/12/2017	-	$665,000	702m	Full transfer	-	-	-	-	-	$665,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514272	            2/60A Collings Street	01/05/2017	27/06/2017	-	$650,000	761m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504576	15/18 Marr Street	30/05/2017	-	21/03/2017	$640,000	24498m	Full transfer	3	1	1	1	0	$640,000	70	-	Allhomes Record	-	-	-	-	$7,607,000	11.89
+2017	515996	            15/21 Pethebridge Street	30/05/2017	24/07/2017	-	$640,000	24499m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505888	50/23 Pethebridge Street	24/06/2017	-	31/05/2017	$625,000	24498m	Full transfer	3	1	1	2	-	$625,000	24	-	Allhomes Record	-	-	-	-	-	-
+2017	522437	8/4 Hodgson Place	21/06/2017	12/12/2017	-	$610,000	3916m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	494196	68 Pethebridge Street	31/01/2017	-	10/11/2016	$603,000	-	Full transfer	3	1	-	-	-	$603,000	82	-	Allhomes Record	-	-	-	-	$424,000	0.7
+2017	508676	56/21 Biddlecombe Street	17/10/2017	-	11/08/2017	$590,000	-	Full transfer	3	1	1	1	-	$590,000	67	-	Allhomes Record	-	-	-	-	-	-
+2017	521939	            56/21 Pethebridge Street	17/10/2017	05/01/2018	-	$590,000	24499m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	514232	            3/64 Collings Street	22/04/2017	29/06/2017	-	$588,000	770m	Full transfer	-	-	-	-	-	$588,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515165	2/64 Collings Street	22/04/2017	10/07/2017	-	$585,000	770m	Full transfer	-	-	-	-	-	$585,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501926	64 Collings Street	22/04/2017	-	30/03/2017	$585,000	770m	Full transfer	2	1	2	1	-	$585,000	23	-	Allhomes Record	122	-	-	-	$413,000	0.71
+2017	522765	2/9 McNamara Street	06/10/2017	09/01/2018	24/08/2017	$570,000	1531m	Full transfer	2	2	-	2	0	$570,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	515747	            1/60A Collings Street	13/06/2017	21/07/2017	-	$569,702	761m	Full transfer	-	-	-	-	-	$569,702	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	501056	9 Hodgson Place	27/02/2017	30/03/2017	-	$532,500	389m	Full transfer	-	-	-	-	-	$532,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	522418	3/4 Hodgson Place	02/09/2017	11/12/2017	17/08/2017	$490,000	3916m	Full transfer	2	1	-	2	0	$490,000	16	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	577409	11/18 Marr Street	28/11/2017	-	15/01/2020	$480,000	0m	Full transfer	2	1	-	1	-	$480,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	503602	57 McNamara Street	06/05/2017	-	13/04/2017	$475,000	-	Full transfer	2	1	-	-	1	$475,000	23	-	Allhomes Record	-	-	-	-	$3,805,000	8.01
+2017	513032	            13/23 McNamara Street	20/04/2017	05/06/2017	-	$475,000	9622m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520964	            17/23 McNamara Street	06/05/2017	30/11/2017	-	$475,000	9622m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517665	11/6 Kemsley Place	30/06/2017	21/08/2017	-	$465,000	14610m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	506853	3/6 Kemsley Place	05/08/2017	-	13/07/2017	$455,000	0m	Full transfer	2	1	-	0	0	$455,000	23	-	Allhomes Record	-	-	-	-	-	-
+2017	517581	15/6 Kemsley Place	27/06/2017	22/08/2017	07/06/2017	$455,000	14610m	Full transfer	2	1	-	1	0	$455,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	524163	            29/1 Biddlecombe Street	15/11/2017	25/01/2018	-	$450,000	12806m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509596	29/14 Marr Street	15/11/2017	-	17/08/2017	$450,000	0m	Full transfer	2	1	-	1	0	$450,000	90	-	Allhomes Record	-	-	-	-	-	-
+2017	496373	29/29 Pethebridge Street	03/03/2017	-	17/01/2017	$450,000	-	Full transfer	2	1	-	-	1	$450,000	45	-	Allhomes Record	70	-	-	-	$7,607,000	16.9
+2017	513347	            29/21 Pethebridge Street	03/03/2017	01/06/2017	-	$450,000	24499m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515065	1/64 Collings Street	02/05/2017	03/07/2017	-	$450,000	770m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	516570	37/6 Kemsley Place	13/06/2017	08/08/2017	-	$445,000	14610m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	512362	2/23 McNamara Street	18/03/2017	08/05/2017	-	$435,000	9622m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	498639	23/21-67 McNamara Street	19/03/2017	-	07/03/2017	$435,000	-	Full transfer	2	1	0	1	0	$435,000	12	-	Allhomes Record	-	-	-	-	$3,805,000	8.75
+2017	528483	19/6 Kemsley Place	06/12/2017	21/03/2018	09/02/2017	$400,000	14610m	Full transfer	2	1	-	1	0	$400,000	300	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	523624	2/1 McGee Place	11/10/2017	16/01/2018	07/12/2016	$325,000	722m	Full transfer	2	1	-	-	-	$325,000	308	-	Combined Record	52	-	-	Multiple unit dwelling	-	-
+2017	507442	24/78 Hodgson Crescent	29/08/2017	-	01/06/2016	$290,000	0m	Full transfer	2	1	-	0	1	$290,000	454	-	Allhomes Record	-	-	-	-	-	-
+2017	514964	14/78 Hodgson Crescent	10/04/2017	03/07/2017	23/03/2017	$258,000	3983m	Full transfer	2	1	-	0	1	$258,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	518065	23 Givens Street	05/03/2017	28/08/2017	-	$0	1899m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530352	65 MacFarland Crescent	05/10/2017	12/04/2018	-	$0	802m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	534368	3 Trumble Street	24/12/2017	05/06/2018	-	$0	737m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521687	16 Sheehan Street	20/06/2017	20/12/2017	-	$0	3490m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	540435	28 McLaren Crescent	14/12/2017	23/08/2018	-	$0	1040m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	516012	10 McCay Place	24/06/2017	27/07/2017	-	$0	909m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522136	            2/5 Leighton Street	24/04/2017	12/12/2017	-	$0	1124m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	522365	1/5 Leighton Street	24/04/2017	12/12/2017	-	$0	1124m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	518958	25 Parkhill Street	31/08/2017	04/10/2017	-	$0	858m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520679	18 McLaren Crescent	30/08/2017	07/11/2017	-	$0	1135m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520716	5/92 Hodgson Crescent	24/07/2017	07/11/2017	-	$0	1619m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	534562	4/92 Hodgson Crescent	01/04/2017	07/06/2018	-	$0	1619m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521053	20 Sheehan Street	07/08/2017	05/12/2017	-	$0	2913m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519332	            50/21 Pethebridge Street	24/06/2017	11/10/2017	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	520998	38 McLaren Crescent	03/08/2017	29/11/2017	-	$0	1221m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	528780	9/40 Marr Street	28/08/2017	21/03/2018	-	$0	13764m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	521677	            11/21 Pethebridge Street	26/08/2017	20/12/2017	-	$0	24499m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	523297	3 McNamara Street	06/12/2017	21/01/2018	-	$0	848m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	514515	14 Coleman Street	02/01/2017	03/07/2017	-	$0	1028m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	534731	21 Shepherd Street	31/12/2017	06/06/2018	-	$0	866m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	519980	37 Parkhill Street	18/04/2017	17/10/2017	-	$0	1027m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542783	10 Whitham Place	06/07/2018	26/09/2018	04/05/2018	$1,375,000	1288m	Full transfer	5	3	-	2	0	$1,375,000	63	-	Combined Record	-	-	-	Single residential dwelling	$563,000	0.41
+2018	544042	3 Anstey Street	20/07/2018	09/10/2018	12/06/2018	$1,340,000	1682m	Full transfer	3	1	-	1	-	$1,340,000	38	-	Combined Record	-	-	-	Single residential dwelling	$816,000	0.61
+2018	528549	10 Cherry Place	17/01/2018	23/03/2018	-	$1,270,000	1187m	Full transfer	-	-	-	-	-	$1,270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	533850	1 Anstey Street	31/05/2018	31/05/2018	-	$1,080,000	1249m	Full transfer	-	-	-	-	-	$1,080,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	525452	1 Anstey Street	01/03/2018	-	23/01/2018	$1,080,000	-	Full transfer	-	-	-	-	-	$1,080,000	37	-	Allhomes Record	-	-	-	-	$880,000	0.81
+2018	539164	8 Blackburn Street	09/04/2018	01/08/2018	22/02/2018	$1,015,000	1025m	Full transfer	4	2	-	1	0	$1,015,000	46	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.57
+2018	537188	4 Besant Street	17/05/2018	03/07/2018	17/01/2018	$1,010,000	857m	Full transfer	4	2	-	3	0	$1,010,000	120	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.49
+2018	549685	8 Coleman Street	26/10/2018	17/12/2018	03/07/2018	$998,000	1028m	Full transfer	5	3	-	2	0	$998,000	115	-	Combined Record	-	-	-	Single residential dwelling	$657,000	0.66
+2018	551978	20 Coleman Street	29/11/2018	29/01/2019	22/11/2018	$975,000	984m	Full transfer	3	2	-	2	0	$975,000	7	-	Combined Record	-	-	-	Single residential dwelling	$578,000	0.59
+2018	535636	22 Shepherd Street	24/04/2018	24/06/2018	04/04/2018	$950,000	718m	Full transfer	4	3	-	1	-	$950,000	20	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.52
+2018	551596	15 McCay Place	17/09/2018	16/11/2018	29/08/2018	$920,000	1069m	Full transfer	4	2	-	2	-	$920,000	19	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.59
+2018	544237	34 Beasley Street	24/09/2018	15/10/2018	-	$900,000	1169m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531452	37 Parkhill Street	29/04/2018	29/04/2018	20/12/2017	$900,000	1027m	Full transfer	5	2	-	2	-	$900,000	130	-	Combined Record	-	-	-	Single residential dwelling	$569,000	0.63
+2018	552097	8 Collings Street	01/12/2018	31/01/2019	08/11/2018	$890,000	976m	Full transfer	3	2	-	1	0	$890,000	23	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.62
+2018	534277	2 McCay Place	19/04/2018	10/06/2018	24/01/2018	$870,000	1051m	Full transfer	5	2	-	0	2	$870,000	85	-	Combined Record	-	-	-	Single residential dwelling	$522,000	0.6
+2018	545623	2/52 Collings Street	29/11/2018	-	30/08/2018	$842,800	0m	Full transfer	3	2	-	1	1	$842,800	91	-	Allhomes Record	-	-	-	-	$451,000	0.54
+2018	552267	            2/52 Collings Street	05/12/2018	21/01/2019	-	$840,800	729m	Full transfer	-	-	-	-	-	$840,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	568302	            2/58 Collings Street	05/06/2018	30/08/2019	-	$840,000	880m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	534497	3 Whitelaw Street	03/03/2018	05/06/2018	07/02/2018	$827,000	972m	Full transfer	3	2	-	1	0	$827,000	24	-	Combined Record	-	-	-	Single residential dwelling	$553,000	0.67
+2018	543740	56 Hodgson Crescent	17/07/2018	11/10/2018	11/07/2018	$825,000	840m	Full transfer	4	2	-	-	1	$825,000	6	-	Combined Record	158	-	-	Single residential dwelling	$446,000	0.54
+2018	526263	11 Brinsmead Street	27/02/2018	27/02/2018	12/10/2017	$815,000	914m	Full transfer	-	-	-	-	-	$815,000	138	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.56
+2018	542833	3 Julius Street	24/09/2018	24/09/2018	-	$814,000	1096m	Full transfer	-	-	-	-	-	$814,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535244	3 Julius Street	26/06/2018	-	07/07/2017	$814,000	1093m	Full transfer	-	-	-	-	-	$814,000	354	-	Allhomes Record	-	-	-	-	$450,000	0.55
+2018	532821	9 Blackburn Street	14/05/2018	14/05/2018	-	$800,000	860m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	512016	9 Blackburn Street	13/02/2018	-	12/10/2017	$800,000	853m	Full transfer	-	-	-	-	-	$800,000	124	-	Allhomes Record	-	-	-	-	$700,000	0.88
+2018	552907	            2/114 Hodgson Crescent	21/12/2018	06/02/2019	-	$780,000	1054m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	546019	1 Brinsmead Street	21/12/2018	-	26/07/2018	$780,000	542m	Full transfer	4	2	-	2	0	$780,000	148	-	Allhomes Record	-	-	-	-	$749,000	0.96
+2018	526285	30 Hodgson Crescent	26/02/2018	26/02/2018	-	$742,500	825m	Full transfer	-	-	-	-	-	$742,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537541	21 Shepherd Street	07/05/2018	11/07/2018	19/04/2018	$720,000	866m	Full transfer	3	2	-	0	-	$720,000	18	-	Combined Record	-	-	-	Single residential dwelling	$537,000	0.75
+2018	531842	28 Beasley Street	11/05/2018	-	12/10/2017	$715,000	866m	Full transfer	-	-	-	-	-	$715,000	211	-	Allhomes Record	-	-	-	-	$401,000	0.56
+2018	531843	4 Tubb Place	11/05/2018	-	12/10/2017	$700,000	695m	Full transfer	-	-	-	-	-	$700,000	211	-	Allhomes Record	-	-	-	-	$490,000	0.7
+2018	522849	62 Beasley Street	09/01/2018	09/01/2018	-	$700,000	904m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	537397	4 Tubb Place	10/07/2018	10/07/2018	-	$700,000	699m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530311	108 Hodgson Crescent	09/02/2018	11/04/2018	25/10/2017	$698,000	815m	Full transfer	3	1	-	1	1	$698,000	107	-	Combined Record	-	-	-	Single residential dwelling	$463,000	0.66
+2018	550082	3/80 Marr Street	11/10/2018	10/12/2018	12/09/2018	$697,500	5626m	Full transfer	3	2	-	2	-	$697,500	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	527692	29 Julius Street	14/03/2018	14/03/2018	07/07/2017	$665,000	707m	Full transfer	-	-	-	-	-	$665,000	250	-	Combined Record	-	-	-	Single residential dwelling	$655,000	0.98
+2018	560929	30 Trumble Street	15/11/2018	22/02/2019	-	$650,000	732m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	544320	3 Pendred Street	19/10/2018	19/10/2018	-	$650,000	678m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	542709	34 Julius Street	28/08/2018	26/09/2018	-	$650,000	791m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539681	3 Pendred Street	20/08/2018	-	07/07/2017	$650,000	676m	Full transfer	-	-	-	-	-	$650,000	409	-	Allhomes Record	-	-	-	-	$390,000	0.6
+2018	532973	14/59 Pethebridge Street	01/06/2018	-	19/04/2018	$635,000	0m	Full transfer	3	1	-	1	0	$635,000	43	-	Allhomes Record	-	-	-	-	-	-
+2018	543338	            14/60 Marr Street	01/06/2018	04/10/2018	-	$635,000	10478m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	548450	7/60 Marr Street	19/10/2018	21/12/2018	04/10/2018	$550,000	10478m	Full transfer	3	1	-	1	0	$550,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	547173	8/3 Shepherd Street	24/09/2018	23/11/2018	-	$550,000	2639m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549623	5/3 Shepherd Street	14/09/2018	30/10/2018	01/03/2018	$547,500	2639m	Full transfer	3	2	-	-	2	$547,500	197	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	538459	9/40 Marr Street	31/05/2018	26/07/2018	21/02/2018	$525,000	13764m	Full transfer	3	1	-	1	-	$525,000	99	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	530836	11/6 Kemsley Place	05/02/2018	17/04/2018	18/01/2018	$505,000	14610m	Full transfer	2	1	-	2	0	$505,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	541902	13/14 Marr Street	11/07/2018	13/09/2018	-	$500,000	12806m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549575	6/60 Marr Street	15/09/2018	01/11/2018	22/08/2018	$496,000	10478m	Full transfer	3	1	-	1	0	$496,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	511031	11/18 Marr Street	12/01/2018	-	10/10/2017	$480,000	24498m	Full transfer	2	1	-	1	-	$480,000	94	-	Allhomes Record	66	-	-	-	-	-
+2018	526809	            11/21 Pethebridge Street	11/01/2018	07/03/2018	-	$480,000	24499m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	525353	39 McNamara Street	27/02/2018	-	14/02/2018	$475,000	574m	Full transfer	2	1	-	0	1	$475,000	13	-	Allhomes Record	-	-	-	-	$3,805,000	8.01
+2018	540844	            8/23 McNamara Street	27/02/2018	27/08/2018	-	$475,000	9622m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	552347	6/6 Kemsley Place	23/11/2018	21/01/2019	08/11/2018	$470,000	14610m	Full transfer	2	1	-	1	0	$470,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	539924	43 McNamara Street	01/09/2018	-	11/07/2018	$456,750	9622m	Full transfer	2	1	-	-	1	$456,750	52	-	Allhomes Record	75	-	-	-	$3,805,000	8.33
+2018	547798	            10/23 McNamara Street	01/09/2018	22/10/2018	-	$456,750	9622m	Full transfer	-	-	-	-	-	$456,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532617	24/14 Marr Street	15/03/2018	14/05/2018	22/02/2018	$440,500	12806m	Full transfer	2	1	-	1	-	$440,500	21	-	Combined Record	-	-	-	Multiple unit dwelling	$4,754,000	10.79
+2018	554479	36/6 Kemsley Place	14/11/2018	05/03/2019	07/09/2018	$440,000	14610m	Full transfer	2	1	-	1	0	$440,000	68	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	527932	61 McNamara Street	07/04/2018	-	14/02/2018	$435,500	-	Full transfer	2	1	-	-	1	$435,500	52	-	Allhomes Record	72	-	-	-	$3,805,000	8.74
+2018	534380	            19/23 McNamara Street	07/04/2018	10/06/2018	-	$435,500	9622m	Full transfer	-	-	-	-	-	$435,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	540407	3/60 Marr Street	29/06/2018	21/08/2018	14/06/2018	$415,000	10478m	Full transfer	2	1	-	1	0	$415,000	15	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	535510	3/92 Hodgson Crescent	23/03/2018	18/06/2018	-	$360,000	1619m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551951	4/92 Hodgson Crescent	20/12/2018	31/01/2019	14/11/2018	$305,000	1619m	Full transfer	2	1	-	-	-	$305,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551705	11/92 Hodgson Crescent	15/11/2018	09/01/2019	11/09/2018	$300,000	1619m	Full transfer	2	1	-	-	-	$300,000	65	-	Combined Record	57	-	-	Multiple unit dwelling	-	-
+2018	547434	7/7 McGee Place	18/09/2018	22/11/2018	05/04/2018	$260,000	1680m	Full transfer	2	1	-	0	1	$260,000	166	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	551294	15/78 Hodgson Crescent	05/12/2018	10/01/2019	18/09/2018	$250,000	3983m	Full transfer	2	1	-	-	1	$250,000	78	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	540908	12 McNamara Street	02/06/2018	27/08/2018	-	$0	948m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	539080	9/2 Marr Street	30/07/2018	30/07/2018	-	$0	5211m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547091	12 Brinsmead Street	23/07/2018	21/11/2018	-	$0	979m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	528029	            13/23 McNamara Street	06/01/2018	25/03/2018	-	$0	9622m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	547492	5/6 Kemsley Place	16/10/2018	22/11/2018	-	$0	14610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	551879	3 Cumberlege Crescent	28/05/2018	30/01/2019	-	$0	783m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	530835	90 MacFarland Crescent	18/01/2018	18/04/2018	-	$0	960m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552241	36/6 Kemsley Place	20/04/2018	23/01/2019	-	$0	14610m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	549382	9 McCay Place	24/09/2018	05/11/2018	-	$0	759m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552874	30 Beasley Street	03/07/2018	08/02/2019	-	$0	826m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	564033	13 Hodgson Place	26/04/2019	01/07/2019	-	$6,000,000	341m	Full transfer	-	-	-	-	-	$6,000,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	568708	20 Sheehan Street	07/09/2019	-	16/08/2019	$1,818,000	2913m	Full transfer	5	3	1	3	-	$1,818,000	22	-	Allhomes Record	-	-	-	-	$898,000	0.49
+2019	573718	4 McCay Place	08/10/2019	08/11/2019	-	$1,295,000	993m	Full transfer	-	-	-	-	-	$1,295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571918	100 MacFarland Crescent	04/09/2019	09/10/2019	07/08/2019	$1,270,000	943m	Full transfer	6	2	1	2	-	$1,270,000	28	-	Combined Record	275	-	-	Single residential dwelling	$441,000	0.35
+2019	567149	3 Tubb Place	03/06/2019	15/08/2019	04/04/2019	$1,210,000	980m	Full transfer	4	4	-	2	0	$1,210,000	60	-	Combined Record	-	-	-	Single residential dwelling	$664,000	0.55
+2019	574196	28 Blackburn Street	06/12/2019	-	12/09/2019	$1,180,000	0m	Full transfer	5	2	-	2	0	$1,180,000	85	-	Allhomes Record	-	-	-	-	$582,000	0.49
+2019	572213	4 Shout Place	31/08/2019	18/10/2019	08/08/2019	$1,120,000	990m	Full transfer	4	2	-	0	2	$1,120,000	23	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.52
+2019	575117	3 Murphy Street	12/12/2019	-	05/09/2019	$1,100,000	0m	Full transfer	5	2	-	3	0	$1,100,000	98	-	Allhomes Record	-	-	-	-	$505,000	0.46
+2019	552612	26 Trumble Street	11/02/2019	-	22/11/2018	$1,050,000	-	Full transfer	4	2	-	2	-	$1,050,000	81	-	Allhomes Record	175	-	-	-	$497,000	0.47
+2019	575404	21 Parkhill Street	15/08/2019	28/11/2019	-	$970,000	805m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	576153	40 Trumble Street	18/11/2019	13/12/2019	-	$960,000	990m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	571385	20 McLaren Crescent	30/10/2019	-	25/09/2019	$925,000	1062m	Full transfer	-	-	-	-	-	$925,000	35	-	Allhomes Record	-	-	-	-	$525,000	0.57
+2019	572004	16 Cherry Place	24/08/2019	11/10/2019	25/07/2019	$914,000	1117m	Full transfer	4	1	-	2	0	$914,000	30	-	Combined Record	-	-	-	Single residential dwelling	$569,000	0.62
+2019	573924	1/92 MacFarland Crescent	30/11/2019	-	18/10/2019	$905,000	0m	Full transfer	3	2	-	2	0	$905,000	43	-	Allhomes Record	-	-	-	-	$702,000	0.78
+2019	574307	76 Beasley Street	08/10/2019	13/11/2019	-	$900,000	864m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	570568	7 Clarkson Street	10/08/2019	25/09/2019	25/07/2019	$900,000	974m	Full transfer	5	2	-	2	0	$900,000	16	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.64
+2019	569181	7 Collings Street	30/07/2019	13/09/2019	04/07/2019	$888,000	1069m	Full transfer	3	2	-	2	0	$888,000	26	-	Combined Record	-	-	-	Single residential dwelling	$579,000	0.65
+2019	567899	            1/58 Collings Street	24/06/2019	23/08/2019	-	$875,000	880m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573723	7 Hodgson Place	23/07/2019	05/11/2019	28/05/2019	$825,000	384m	Full transfer	3	2	-	2	-	$825,000	56	-	Combined Record	-	-	-	Medium density dwelling	$446,000	0.54
+2019	565478	35 Julius Street	11/06/2019	25/07/2019	06/02/2019	$777,500	725m	Full transfer	4	1	-	2	-	$777,500	125	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.62
+2019	571392	27 Julius Street	30/10/2019	-	25/09/2019	$775,000	710m	Full transfer	-	-	-	-	-	$775,000	35	-	Allhomes Record	-	-	-	-	$435,000	0.56
+2019	576158	            1/52 Collings Street	13/12/2019	-	11/11/2019	$770,000	400m	Full transfer	3	2	-	1	1	$770,000	32	-	Allhomes Record	150	-	-	-	$610,000	0.79
+2019	573003	22 Whitelaw Street	30/08/2019	29/10/2019	11/02/2019	$770,000	897m	Full transfer	-	-	-	-	-	$770,000	200	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.58
+2019	563988	1/70 Hodgson Crescent	22/05/2019	04/07/2019	-	$770,000	4632m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	555801	1/18 McNamara Street	08/02/2019	21/03/2019	07/03/2018	$765,000	920m	Full transfer	3	2	-	1	-	$765,000	338	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563176	            34/18 Marr Street	11/04/2019	28/06/2019	-	$761,000	24499m	Full transfer	-	-	-	-	-	$761,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	556547	35 Pethebridge Street	12/04/2019	-	26/03/2019	$761,000	0m	Full transfer	3	2	-	2	0	$761,000	17	-	Allhomes Record	-	-	-	-	$7,607,000	10.0
+2019	575529	28 Collings Street	16/12/2019	-	28/11/2019	$750,500	852m	Full transfer	3	1	-	1	0	$750,500	18	-	Allhomes Record	-	-	-	-	$523,000	0.7
+2019	572059	30 Julius Street	12/11/2019	-	11/02/2019	$745,000	796m	Full transfer	-	-	-	2	-	$745,000	274	-	Allhomes Record	-	-	-	-	$440,000	0.59
+2019	565693	32 Collings Street	19/06/2019	25/07/2019	06/02/2019	$740,000	900m	Full transfer	5	2	-	2	0	$740,000	133	-	Combined Record	-	-	-	Single residential dwelling	$514,000	0.69
+2019	558628	24 Julius Street	18/03/2019	10/05/2019	30/01/2019	$740,000	819m	Full transfer	3	2	-	0	2	$740,000	47	-	Combined Record	-	-	-	Single residential dwelling	$480,000	0.65
+2019	554048	9 Besant Street	14/01/2019	01/03/2019	-	$720,000	692m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569285	4/18 Marr Street	04/07/2019	09/09/2019	28/11/2018	$715,000	24499m	Full transfer	3	2	-	2	0	$715,000	218	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	558394	6 Whitelaw Street	16/03/2019	03/05/2019	14/02/2019	$690,500	725m	Full transfer	3	1	-	0	0	$690,500	30	-	Combined Record	-	-	-	Single residential dwelling	$497,000	0.72
+2019	562375	16 McNamara Street	14/03/2019	03/06/2019	21/02/2019	$690,000	791m	Full transfer	3	1	-	1	-	$690,000	21	-	Combined Record	114	-	-	Single residential dwelling	$463,000	0.67
+2019	573255	7/2 Marr Street	16/09/2019	01/11/2019	-	$680,000	5211m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569778	28 Shepherd Street	02/10/2019	-	11/02/2019	$665,000	689m	Full transfer	-	-	-	-	-	$665,000	233	-	Allhomes Record	-	-	-	-	$420,000	0.63
+2019	573695	3/2 Marr Street	06/09/2019	05/11/2019	26/03/2019	$665,000	5211m	Full transfer	3	2	-	2	-	$665,000	164	-	Combined Record	149	-	-	Multiple unit dwelling	-	-
+2019	573901	11/79 Collings Street	28/11/2019	-	09/10/2019	$655,000	0m	Full transfer	3	2	-	2	0	$655,000	50	-	Allhomes Record	-	-	-	-	-	-
+2019	570439	            51/18 Marr Street	22/07/2019	25/09/2019	-	$650,000	24499m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558508	2/2 Marr Street	15/04/2019	02/05/2019	-	$650,000	5211m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	564350	51/21 Pethebridge Street	22/07/2019	-	17/04/2019	$650,000	0m	Full transfer	3	2	-	2	0	$650,000	96	-	Allhomes Record	-	-	-	-	-	-
+2019	566011	3 Low Place	22/05/2019	02/08/2019	11/04/2019	$650,000	749m	Full transfer	3	2	-	1	2	$650,000	41	-	Combined Record	127	-	-	Single residential dwelling	$553,000	0.85
+2019	563341	3/9 McNamara Street	05/04/2019	24/06/2019	21/02/2019	$627,500	1531m	Full transfer	3	1	1	2	-	$627,500	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	556556	13/59 Pethebridge Street	12/04/2019	-	24/01/2019	$625,000	0m	Full transfer	3	1	-	1	0	$625,000	78	-	Allhomes Record	-	-	-	-	-	-
+2019	555812	1/64 Collings Street	07/02/2019	20/03/2019	30/11/2018	$610,000	770m	Full transfer	2	2	-	1	-	$610,000	69	-	Combined Record	115	-	-	Multiple unit dwelling	$451,000	0.74
+2019	573769	5/40 Marr Street	26/09/2019	08/11/2019	03/07/2019	$580,000	13764m	Full transfer	3	2	-	0	2	$580,000	85	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	565429	6/40 Marr Street	14/05/2019	24/07/2019	-	$572,000	13764m	Full transfer	-	-	-	-	-	$572,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	570082	11/3 Shepherd Street	12/08/2019	20/09/2019	07/03/2019	$551,000	2639m	Full transfer	3	2	-	0	2	$551,000	158	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	572232	3/3 Shepherd Street	20/08/2019	18/10/2019	30/05/2019	$540,000	2639m	Full transfer	3	2	-	2	-	$540,000	82	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	577157	87 MacFarland Place	03/08/2019	16/12/2019	-	$500,000	972m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	573237	12/6 Kemsley Place	19/09/2019	31/10/2019	18/07/2019	$499,000	14610m	Full transfer	2	1	-	2	0	$499,000	63	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	572408	5/1 Biddlecombe Street	31/10/2019	-	24/10/2019	$492,000	0m	Full transfer	2	1	-	1	0	$492,000	7	-	Allhomes Record	-	-	-	-	-	-
+2019	573737	1/6 Kemsley Place	17/09/2019	04/11/2019	21/08/2019	$480,000	14610m	Full transfer	2	1	-	1	-	$480,000	27	-	Combined Record	86	-	-	Multiple unit dwelling	-	-
+2019	576972	16/6 Kemsley Place	20/12/2019	-	10/10/2019	$475,000	0m	Full transfer	2	1	-	1	0	$475,000	71	-	Allhomes Record	-	-	-	-	-	-
+2019	555837	8/2 Hodgson Place	08/02/2019	19/03/2019	20/12/2018	$475,000	5240m	Full transfer	2	1	-	2	0	$475,000	50	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563331	24/6 Kemsley Place	23/05/2019	27/06/2019	15/01/2019	$455,000	14610m	Full transfer	2	1	-	1	-	$455,000	128	-	Combined Record	84	-	-	Multiple unit dwelling	-	-
+2019	553695	59 McNamara Street	26/02/2019	-	04/01/2019	$450,000	272m	Full transfer	2	1	-	-	1	$450,000	53	-	Allhomes Record	-	-	-	-	$3,805,000	8.46
+2019	555674	            18/23 McNamara Street	26/02/2019	21/03/2019	-	$450,000	9622m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558236	34/6 Kemsley Place	19/03/2019	30/04/2019	11/12/2018	$450,000	14610m	Full transfer	2	1	-	1	-	$450,000	98	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	575017	6/70 Hodgson Crescent	26/09/2019	21/11/2019	-	$382,000	4632m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	574913	5/70 Hodgson Crescent	26/09/2019	21/11/2019	-	$382,000	4632m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2019	573350	             Hodgson Crescent	13/11/2019	-	24/06/2019	$382,000	0m	Full transfer	-	-	-	-	-	$382,000	142	-	Allhomes Record	-	-	-	-	-	-
+2019	562626	1/112 MacFarland Crescent	13/03/2019	13/06/2019	13/11/2018	$285,000	1770m	Full transfer	2	1	-	0	1	$285,000	120	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	575541	6/7 McGee Place	13/12/2019	-	24/10/2019	$268,000	0m	Full transfer	2	1	-	0	1	$268,000	50	-	Allhomes Record	-	-	-	-	-	-
+2019	565489	8/112 MacFarland Crescent	05/07/2019	25/07/2019	06/05/2019	$268,000	1770m	Full transfer	2	1	-	1	-	$268,000	60	-	Combined Record	75	-	-	Multiple unit dwelling	-	-
+2019	558777	22/78 Hodgson Crescent	08/04/2019	08/05/2019	16/11/2018	$265,000	3983m	Full transfer	2	1	-	-	1	$265,000	143	-	Combined Record	63	-	-	Multiple unit dwelling	-	-
+2019	562186	18/78 Hodgson Crescent	30/04/2019	06/06/2019	28/02/2019	$260,000	3983m	Full transfer	2	1	-	0	1	$260,000	61	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	566686	33 Blackburn Street	17/04/2019	08/08/2019	-	$125,000	767m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	558267	4 Pendred Street	25/02/2019	02/05/2019	-	$10,500	802m	Full transfer	-	-	-	-	-	$10,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	563042	5/112 MacFarland Crescent	01/04/2019	20/06/2019	-	$0	1770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	560452	            13/60 Marr Street	12/04/2019	28/05/2019	-	$0	10478m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	569972	8 Trumble Street	16/03/2019	19/09/2019	-	$0	743m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	557308	11 McLaren Crescent	11/03/2019	12/04/2019	-	$0	959m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	559770	3/1 McGee Place	04/04/2019	21/05/2019	10/01/2019	$0	722m	Full transfer	2	1	-	0	0	$0	84	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563066	9/112 MacFarland Crescent	01/04/2019	20/06/2019	-	$0	1770m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	560423	3/3 Shepherd Street	13/01/2019	31/05/2019	-	$0	2639m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	572227	74 Parkhill Street	02/07/2019	18/10/2019	-	$0	939m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	569321	6 McNeil Place	16/03/2019	11/09/2019	-	$0	925m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	560297	2/9 McNamara Street	16/04/2019	28/05/2019	06/03/2019	$0	1531m	Full transfer	2	2	-	2	-	$0	41	-	Combined Record	94	-	-	Multiple unit dwelling	$1,380,000	8.46
