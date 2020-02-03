@@ -1,0 +1,20 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	225634	7 Beltana Road	04/01/2006	09/03/2006	-	$1,300,000	34322m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	342135	9 Beltana Road	09/08/2006	13/10/2011	-	-	39287m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail plant nursery	-	-
+2007	166905	18 Beltana Road	22/07/2007	08/08/2007	-	$0	24218m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	235322	20 Beltana Road	09/01/2008	11/03/2008	11/10/2007	$2,137,500	31386m	Full transfer	5	1	2	2	-	$2,137,500	90	-	Combined Record	-	-	-	Residential	-	-
+2008	240023	4 Beltana Road	12/05/2008	14/10/2008	-	-	19808m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254610	20 Kallaroo Road	21/10/2009	04/03/2010	-	-	51910m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	272734	            Kallaroo Road	13/08/2010	04/11/2010	-	$3,300,000	197250m	Full transfer	-	-	-	-	-	$3,300,000	-	-	Government Record	-	-	-	Dwelling	-	-
+2010	270214	            Pialligo Avenue	30/06/2010	23/08/2010	-	$1,400,000	29931m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Produce market	-	-
+2011	346987	20 Kallaroo Road	05/09/2011	10/11/2011	-	$2,000,000	51910m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	383881	11 Beltana Road	01/08/2011	14/11/2012	22/06/2011	$1,740,000	35476m	Full transfer	3	-	-	2	-	$1,740,000	40	-	Combined Record	-	-	-	Residential	-	-
+2012	392656	8 Beltana Road	06/12/2012	01/03/2013	-	$3,500,000	27555m	Full transfer	-	-	-	-	-	$3,500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395222	14 Beltana Road	04/10/2012	17/04/2013	-	$2,650,000	34038m	Full transfer	-	-	-	-	-	$2,650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	372681	22 Beltana Road	24/02/2012	10/04/2012	-	$2,000,000	20240m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	387071	18 Beltana Road	18/09/2012	19/12/2012	-	$0	24218m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421026	12 Beltana Road	29/11/2013	13/03/2014	-	$3,495,900	37560m	Full transfer	-	-	-	-	-	$3,495,900	-	-	Government Record	-	-	-	Residential	-	-
+2014	429680	16 Kallaroo Road	18/02/2014	26/06/2014	-	$1,700,000	25647m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Residential	-	-
+2016	503814	13 Beltana Road	14/12/2016	27/04/2017	-	$0	36845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	505002	13 Beltana Road	19/12/2016	01/05/2017	-	$0	36845m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	530057	9 Beltana Road	21/12/2017	09/04/2018	-	$4,600,000	39287m	Full transfer	-	-	-	-	-	$4,600,000	-	-	Government Record	-	-	-	Retail plant nursery	-	-
