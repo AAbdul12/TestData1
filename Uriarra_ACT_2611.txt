@@ -1,0 +1,6 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2014	429979	221 Two Sticks Road	24/07/2014	-	02/07/2014	$720,000	876504m	Full transfer	4	3	1	2	0	$720,000	22	-	Allhomes Record	-	-	-	-	$34,500	0.05
+2014	438367	            3 Shirley Taylor Place	16/08/2014	-	21/11/2014	$505,000	2000m	Full transfer	5	2	1	0	0	$505,000	-	-	Allhomes Record	-	-	-	-	-	-
+2017	505768	41 Jim Bradley Crescent	21/06/2017	-	24/05/2017	$817,500	2252m	Full transfer	4	2	-	3	0	$817,500	28	-	Allhomes Record	-	-	-	-	$337,000	0.41
+2017	503576	3 Sue Watt Place	31/03/2017	-	24/11/2016	$705,000	0m	Full transfer	4	2	-	2	0	$705,000	127	-	Allhomes Record	-	-	-	-	$306,000	0.43
+2017	505844	7 Ray Donnelly Street	23/06/2017	-	27/04/2017	$638,000	1860m	Full transfer	3	2	-	2	0	$638,000	57	-	Allhomes Record	-	-	-	-	$247,000	0.39
