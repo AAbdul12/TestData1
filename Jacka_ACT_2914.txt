@@ -1,0 +1,106 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2012	395592	            BLOCK11 Section 8	26/11/2012	-	15/01/2013	$500,000	0m	Full transfer	4	2	-	0	2	$500,000	-	-	Allhomes Record	-	-	-	-	-	-
+2012	381485	             Block 18 Section 9	16/11/2012	-	13/08/2012	$373,000	-	Full transfer	3	1	-	1	-	$373,000	95	-	Allhomes Record	125	-	-	-	-	-
+2012	382545	             Block 19 Section 9	14/12/2012	-	15/08/2012	$373,000	-	Full transfer	3	1	-	1	-	$373,000	121	-	Allhomes Record	125	-	-	-	-	-
+2012	381486	             Block 2 Section 9	16/11/2012	-	15/08/2012	$373,000	-	Full transfer	3	1	-	1	-	$373,000	93	-	Allhomes Record	125	-	-	-	-	-
+2012	385212	             Block 3 Section 9	21/12/2012	-	15/08/2012	$373,000	-	Full transfer	3	1	-	1	-	$373,000	128	-	Allhomes Record	125	-	-	-	-	-
+2012	393462	            46 Lawrenson Circuit	20/12/2012	05/03/2013	-	$226,300	418m	Full transfer	-	-	-	-	-	$226,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391713	            64 Lawrenson Circuit	13/11/2012	25/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393461	            17 Ouaida Street	06/11/2012	05/03/2013	-	$183,000	251m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	393463	            14 Ouaida Street	02/11/2012	06/03/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392510	            62 Lawrenson Circuit	06/12/2012	18/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391717	            54 Lawrenson Circuit	14/12/2012	25/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	394139	            19 Ouaida Street	21/12/2012	03/04/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391715	            58 Lawrenson Circuit	20/11/2012	25/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391716	            56 Lawrenson Circuit	16/11/2012	25/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395313	            21 Ouaida Street	27/11/2012	16/04/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391719	            16 Ouaida Street	20/11/2012	28/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391718	            52 Lawrenson Circuit	19/10/2012	25/02/2013	-	$183,000	248m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	391714	            60 Lawrenson Circuit	13/11/2012	27/02/2013	-	$183,000	250m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	386862	            74 Lawrenson Circuit	19/09/2012	04/01/2013	-	$0	363m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	395033	            32 Lawrenson Circuit	29/04/2013	-	13/12/2012	$563,000	458m	Full transfer	4	2	-	2	-	$563,000	137	-	Allhomes Record	171	-	-	-	$240,000	0.43
+2013	413680	            12 Starcevich Street	28/11/2013	-	16/08/2013	$538,000	0m	Full transfer	4	2	-	2	0	$538,000	104	-	Allhomes Record	-	-	-	-	-	-
+2013	423202	12 Starcevich Crescent	25/11/2013	21/03/2014	-	$538,000	405m	Full transfer	-	-	-	-	-	$538,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416486	48 Lawrenson Circuit	20/03/2013	16/12/2013	-	$325,000	464m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	416487	32 Starcevich Crescent	20/11/2013	17/12/2013	-	$315,000	450m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	417205	27 Starcevich Crescent	21/12/2013	-	06/05/2013	$275,000	405m	Full transfer	3	1	1	2	-	$275,000	229	-	Allhomes Record	135	-	-	-	$233,000	0.85
+2013	413279	18 Ouaida Street	13/06/2013	07/11/2013	-	$205,200	363m	Full transfer	-	-	-	-	-	$205,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	414037	80 Lawrenson Circuit	24/09/2013	21/11/2013	-	$200,000	330m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	399333		25/06/2013	-	19/06/2013	$198,000	330m	Full transfer	-	-	-	-	-	$198,000	6	-	Allhomes Record	-	-	-	-	-	-
+2013	410397	27 Starcevich Crescent	24/06/2013	10/09/2013	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	427585	66 Lawrenson Circuit	28/05/2013	30/04/2014	-	$0	363m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421566	2 Bittermann Street	20/08/2013	21/02/2014	-	$0	438m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	392319	            3 Ouaida Street	05/02/2013	12/03/2013	-	$0	341m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	428544	16 Starcevich Crescent	23/12/2013	06/06/2014	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	418417	36 Starcevich Crescent	23/09/2013	08/01/2014	-	$0	744m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	432748	1 Appleford Avenue	25/08/2014	-	28/02/2014	$615,000	547m	Full transfer	5	1	1	3	0	$615,000	178	-	Allhomes Record	-	-	-	-	$275,000	0.45
+2014	425957	            1/85 Appleford Avenue	20/06/2014	-	22/08/2013	$389,000	0m	Full transfer	3	1	-	0	1	$389,000	302	-	Allhomes Record	-	-	-	-	-	-
+2014	435242	            1/85 Appleford Avenue	04/07/2014	-	11/10/2014	$389,000	0m	Full transfer	3	1	-	0	1	$389,000	-	-	Allhomes Record	-	-	-	-	$360,000	0.93
+2014	433795	26 Starcevich Crescent	11/09/2014	-	11/04/2014	$385,000	450m	Full transfer	4	3	-	2	-	$385,000	153	-	Allhomes Record	183	-	-	-	$263,000	0.68
+2014	425717	            3/85 Appleford Avenue	13/06/2014	-	07/03/2014	$340,000	0m	Full transfer	2	1	-	0	1	$340,000	98	-	Allhomes Record	-	-	-	-	-	-
+2014	435202	32 Starcevich Crescent	09/10/2014	-	16/10/2013	$315,000	450m	Full transfer	4	1	1	2	-	$315,000	358	-	Allhomes Record	171	-	-	-	$263,000	0.83
+2014	431531	15 Appleford Avenue	29/05/2014	25/07/2014	-	$299,000	618m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	434109	9 Ouaida Street	01/09/2014	-	18/11/2013	$275,000	340m	Full transfer	3	2	1	1	-	$275,000	287	-	Allhomes Record	125	-	-	-	$220,000	0.8
+2014	432627		20/08/2014	-	13/11/2012	$220,000	-	Full transfer	3	1	1	2	-	$220,000	645	-	Allhomes Record	-	-	-	-	-	-
+2014	434001	34 Starcevich Crescent	18/03/2014	28/08/2014	-	$0	451m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	424220	5 Appleford Avenue	17/02/2014	14/04/2014	-	$0	540m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	429501	33 Starcevich Crescent	06/04/2014	16/06/2014	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427103	12 Lawrenson Circuit	21/02/2014	16/05/2014	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423203	4 Starcevich Crescent	22/01/2014	21/03/2014	-	$0	678m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	455403	12 Ouaida Street	20/07/2015	-	27/05/2015	$725,500	0m	Full transfer	4	3	-	0	2	$725,500	54	-	Allhomes Record	-	-	-	-	$283,000	0.39
+2015	460616	33 Starcevich Crescent	11/09/2015	-	22/06/2015	$588,000	0m	Full transfer	4	2	-	0	2	$588,000	81	-	Allhomes Record	-	-	-	-	$259,000	0.44
+2015	455713	21 Ouaida Street	28/07/2015	-	25/06/2015	$415,000	0m	Full transfer	3	2	-	1	0	$415,000	33	-	Allhomes Record	-	-	-	-	$186,000	0.45
+2015	444517	73 Appleford Avenue	17/02/2015	-	05/03/2014	$350,000	540m	Full transfer	4	2	-	0	2	$350,000	349	-	Allhomes Record	-	-	-	-	$275,000	0.79
+2015	453077	24 Lawrenson Circuit	14/05/2015	-	31/07/2014	$315,000	524m	Full transfer	3	1	1	2	-	$315,000	287	-	Allhomes Record	135	-	-	-	$261,000	0.83
+2016	467491	11 Bittermann Street	12/01/2016	-	27/02/2015	$749,000	618m	Full transfer	4	1	2	3	-	$749,000	319	-	Allhomes Record	227	-	-	-	$300,000	0.4
+2016	489695	29/11 Starcevich Crescent	15/11/2016	-	27/10/2016	$440,000	-	Full transfer	3	2	-	2	-	$440,000	19	-	Allhomes Record	50	-	-	-	$2,450,000	5.57
+2016	482789	33/11 Starcevich Crescent	22/08/2016	-	31/05/2016	$438,000	9823m	Full transfer	3	1	1	1	-	$438,000	83	-	Allhomes Record	-	-	-	-	$2,450,000	5.59
+2016	487692	29 Starcevich Crescent	17/10/2016	-	30/06/2010	$425,000	436m	Full transfer	4	1	1	2	-	$425,000	2301	-	Allhomes Record	168	-	-	-	$214,000	0.5
+2016	501654	50 Lawrenson Circuit	20/12/2016	24/03/2017	05/01/2017	$375,000	586m	Full transfer	-	-	-	-	-	$375,000	-	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.74
+2016	479059	1/71 Lawrenson Circuit	22/06/2016	-	29/03/2016	$360,000	6199m	Full transfer	2	1	1	2	-	$360,000	85	-	Allhomes Record	-	-	-	-	-	-
+2016	489724	21/71 Lawrenson Circuit	17/11/2016	-	20/10/2016	$350,000	267m	Full transfer	2	1	-	1	0	$350,000	28	-	Allhomes Record	-	-	-	-	$1,700,000	4.86
+2016	497473	12 Starcevich Crescent	29/06/2016	22/02/2017	-	$0	405m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497950	16 Ouaida Street	08/10/2016	16/02/2017	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484670	14 Ouaida Street	30/06/2016	19/08/2016	-	$0	250m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	517576	15 Lawrenson Circuit	20/06/2017	25/08/2017	24/05/2017	$700,000	405m	Full transfer	4	2	-	2	0	$700,000	27	-	Combined Record	-	-	-	Single residential dwelling	$236,000	0.34
+2017	528809	3 Ouaida Street	19/10/2017	19/03/2018	29/08/2017	$530,500	341m	Full transfer	3	2	1	1	-	$530,500	51	-	Combined Record	127	-	-	Single residential dwelling	$230,000	0.43
+2017	503132	9 Lawrenson Circuit	20/01/2017	06/04/2017	25/10/2016	$460,500	330m	Full transfer	3	1	-	1	-	$460,500	87	-	Combined Record	105	-	-	Single residential dwelling	$214,000	0.46
+2017	504639	1/4 Lawrenson Circuit	24/04/2017	-	31/01/2017	$442,000	5737m	Full transfer	3	2	1	1	-	$442,000	83	-	Allhomes Record	-	-	-	-	$1,640,000	3.71
+2017	501828	21/11 Starcevich Crescent	13/04/2017	-	27/03/2017	$430,000	250m	Full transfer	3	1	1	1	-	$430,000	17	-	Allhomes Record	-	-	-	-	-	-
+2017	506130	8/4 Lawrenson Circuit	03/07/2017	-	01/06/2017	$415,000	0m	Full transfer	3	1	1	1	0	$415,000	32	-	Allhomes Record	-	-	-	-	-	-
+2017	511030	11/71 Lawrenson Circuit	21/12/2017	-	15/11/2017	$385,000	6199m	Full transfer	2	1	-	1	-	$385,000	36	-	Allhomes Record	82	-	-	-	-	-
+2017	506685	19/71 Lawrenson Circuit	28/07/2017	-	13/07/2017	$370,000	200m	Full transfer	2	1	-	1	0	$370,000	15	-	Allhomes Record	-	-	-	-	-	-
+2017	508315	4/41 Lawrenson Circuit	28/09/2017	-	26/07/2017	$370,000	0m	Full transfer	2	2	-	1	0	$370,000	64	-	Allhomes Record	-	-	-	-	-	-
+2017	496353	14/71 Lawrenson Circuit	02/03/2017	-	27/01/2017	$350,000	145m	Full transfer	2	1	-	1	0	$350,000	34	-	Allhomes Record	-	-	-	-	-	-
+2017	501895	23/11 Starcevich Crescent	21/04/2017	-	24/01/2017	$350,000	9823m	Full transfer	2	1	2	-	1	$350,000	87	-	Allhomes Record	-	-	-	-	-	-
+2017	505274	13/4 Lawrenson Circuit	02/06/2017	-	02/05/2017	$340,000	0m	Full transfer	2	1	-	1	0	$340,000	31	-	Allhomes Record	-	-	-	-	-	-
+2017	508619	35/41 Lawrenson Circuit	04/09/2017	-	30/07/2017	$257,500	11194m	Full transfer	1	1	-	-	1	$257,500	36	-	Allhomes Record	54	-	-	-	-	-
+2017	496693	35/41 Lawrenson Circuit	14/03/2017	-	17/02/2017	$245,000	11194m	Full transfer	1	1	-	-	1	$245,000	25	-	Allhomes Record	-	-	-	-	$3,190,000	13.02
+2017	510935	34/41 Lawrenson Circuit	27/11/2017	-	14/09/2017	$239,900	11194m	Full transfer	1	1	-	-	1	$239,900	74	-	Allhomes Record	54	-	-	-	-	-
+2017	515784	7 Lawrenson Circuit	11/05/2017	25/07/2017	-	$0	330m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	521648	7 Appleford Avenue	06/07/2017	19/12/2017	-	$0	540m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	547602	43 Starcevich Crescent	25/09/2018	28/11/2018	01/08/2018	$915,000	648m	Full transfer	5	3	-	2	0	$915,000	55	-	Combined Record	-	-	-	Single residential dwelling	$322,000	0.35
+2018	547035	17 Lawrenson Circuit	19/09/2018	21/11/2018	01/06/2018	$765,000	450m	Full transfer	4	1	1	2	-	$765,000	110	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.37
+2018	550500	5 Ouaida Street	08/11/2018	09/01/2019	17/10/2018	$600,000	341m	Full transfer	4	2	-	1	0	$600,000	22	-	Combined Record	-	-	-	Single residential dwelling	$250,000	0.42
+2018	541817	14 Ouaida Street	27/06/2018	11/09/2018	31/05/2018	$485,000	250m	Partial transfer	3	1	-	0	1	$485,000	27	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.42
+2018	560766	17 Ouaida Street	20/12/2018	20/02/2019	01/11/2018	$477,500	251m	Full transfer	3	1	-	1	-	$477,500	49	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.42
+2018	526398	34/11 Starcevich Crescent	07/03/2018	-	14/12/2017	$450,000	9823m	Full transfer	3	2	-	1	-	$450,000	83	-	Allhomes Record	110	-	-	-	-	-
+2018	537869	12/41 Lawrenson Circuit	27/07/2018	-	22/06/2018	$446,500	11194m	Full transfer	3	1	1	1	-	$446,500	35	-	Allhomes Record	-	-	-	-	-	-
+2018	536862	1/11 Starcevich Crescent	27/06/2018	-	01/05/2018	$445,000	9823m	Full transfer	3	2	-	1	-	$445,000	57	-	Allhomes Record	-	-	-	-	-	-
+2018	538005	12/4 Lawrenson Circuit	02/08/2018	-	04/06/2018	$442,000	5737m	Full transfer	3	1	1	1	-	$442,000	59	-	Allhomes Record	-	-	-	-	-	-
+2018	543605	31/41 Lawrenson Circuit	24/10/2018	-	27/09/2018	$407,500	11193m	Full transfer	2	2	-	0	0	$407,500	27	-	Allhomes Record	-	-	-	-	-	-
+2018	537979	20/4 Lawrenson Circuit	01/08/2018	-	04/04/2018	$385,000	5737m	Full transfer	2	1	-	1	-	$385,000	119	-	Allhomes Record	-	-	-	-	-	-
+2018	535342	20/11 Starcevich Crescent	04/07/2018	-	05/06/2018	$385,000	0m	Full transfer	2	2	-	0	2	$385,000	29	-	Allhomes Record	-	-	-	-	-	-
+2018	531292	3/41 Lawrenson Circuit	07/05/2018	-	22/02/2018	$383,000	0m	Full transfer	2	2	-	0	1	$383,000	74	-	Allhomes Record	-	-	-	-	-	-
+2018	511121	12/71 Lawrenson Circuit	19/01/2018	-	20/12/2017	$380,000	0m	Full transfer	2	1	-	1	0	$380,000	30	-	Allhomes Record	-	-	-	-	-	-
+2018	532581	16/4 Lawrenson Circuit	15/05/2018	-	26/02/2018	$375,000	5737m	Full transfer	2	1	-	1	-	$375,000	78	-	Allhomes Record	-	-	-	-	-	-
+2018	511248	14/4 Lawrenson Circuit	25/01/2018	-	11/01/2018	$362,000	0m	Full transfer	2	1	-	0	1	$362,000	14	-	Allhomes Record	-	-	-	-	-	-
+2018	546168	33/41 Lawrenson Circuit	07/12/2018	-	19/10/2018	$272,000	11194m	Full transfer	1	1	-	-	1	$272,000	49	-	Allhomes Record	54	-	-	-	-	-
+2019	569915	11 Lawrenson Circuit	23/07/2019	19/09/2019	04/07/2019	$611,000	330m	Full transfer	3	2	-	1	0	$611,000	19	-	Combined Record	-	-	-	Single residential dwelling	$233,000	0.38
+2019	569399	52 Lawrenson Circuit	23/07/2019	13/09/2019	20/06/2019	$524,000	248m	Partial transfer	3	1	-	1	1	$524,000	33	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.39
+2019	555470	54 Lawrenson Circuit	19/02/2019	22/03/2019	30/01/2019	$500,000	250m	Full transfer	3	1	0	1	0	$500,000	20	-	Combined Record	-	-	-	Single residential dwelling	$202,000	0.4
+2019	564449	31/11 Starcevich Crescent	26/07/2019	-	29/04/2019	$475,000	0m	Full transfer	3	2	-	1	0	$475,000	88	-	Allhomes Record	-	-	-	-	-	-
+2019	563668	27/41 Lawrenson Circuit	09/07/2019	-	30/05/2019	$411,000	0m	Full transfer	2	2	-	0	1	$411,000	40	-	Allhomes Record	-	-	-	-	-	-
+2019	568741	16/11 Starcevich Crescent	20/09/2019	-	21/08/2019	$408,000	0m	Full transfer	2	2	-	2	0	$408,000	30	-	Allhomes Record	-	-	-	-	-	-
+2019	562042	27/11 Starcevich Crescent	20/06/2019	-	23/05/2019	$405,000	-	Full transfer	2	2	-	2	-	$405,000	28	-	Allhomes Record	96	-	-	-	$2,450,000	6.05
+2019	568458	4/11 Starcevich Crescent	02/09/2019	-	21/08/2019	$385,000	0m	Full transfer	2	1	-	1	0	$385,000	12	-	Allhomes Record	-	-	-	-	-	-
