@@ -1,0 +1,855 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2006	10463	            40 Ringrose Crescent	27/06/2006	22/02/2007	-	$1,625,295	2935m	Full transfer	-	-	-	-	-	$1,625,295	-	-	Government Record	-	-	-	Childcare centre (commercial)	-	-
+2006	218205	16 Alanson Place	21/04/2006	07/07/2006	03/04/2006	$1,150,000	1506m	Full transfer	5	2	1	2	-	$1,150,000	18	-	Combined Record	-	-	-	Single residential dwelling	$270,000	0.23
+2006	218266	41 Buntine Crescent	12/03/2006	25/05/2006	23/02/2006	$1,120,000	1095m	Full transfer	5	3	1	2	1	$1,120,000	17	-	Combined Record	-	-	-	Single residential dwelling	$318,000	0.28
+2006	81392	11 Broinowski Place	13/07/2006	-	18/05/2006	$1,000,000	-	Full transfer	6	3	3	3	-	$1,000,000	56	-	Allhomes Record	-	-	-	-	$1,066,000	1.07
+2006	338	            7/5 Broinowski Place	13/07/2006	21/08/2006	-	$1,000,000	9779m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	83889	12 Whitty Crescent	02/11/2006	-	23/08/2006	$839,000	775m	Full transfer	5	1	1	2	-	$839,000	71	-	Allhomes Record	-	-	-	-	$299,000	0.36
+2006	164405	27 Buntine Crescent	22/12/2006	12/03/2007	26/10/2006	$835,000	1012m	Full transfer	5	2	1	2	1	$835,000	57	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.42
+2006	32924	11 Taber Place	15/09/2006	06/12/2006	10/08/2006	$830,000	940m	Full transfer	3	1	1	2	-	$830,000	36	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.42
+2006	35722	12 Whitty Crescent	08/10/2006	08/01/2007	-	$820,000	776m	Full transfer	-	-	-	-	-	$820,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	35903	59 Julia Flynn Avenue	01/11/2006	11/01/2007	-	$690,000	1008m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	202514	3 Huffer Close	16/05/2006	03/08/2006	30/08/2005	$687,500	943m	Full transfer	4	1	1	2	-	$687,500	259	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.5
+2006	218196	29 William Wilkins Crescent	22/05/2006	05/07/2006	13/01/2006	$687,500	838m	Full transfer	5	3	-	2	-	$687,500	129	-	Combined Record	-	-	-	Single residential dwelling	$265,000	0.39
+2006	203001	77 William Wilkins Crescent	30/09/2006	05/01/2007	-	$680,000	1296m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218263	7 Reddall Close	27/01/2006	10/04/2006	26/10/2005	$675,000	1033m	Full transfer	4	2	2	2	-	$675,000	93	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.44
+2006	218295	5 Alexander Mackie Circuit	21/04/2006	15/06/2006	03/04/2006	$675,000	927m	Full transfer	4	2	1	2	-	$675,000	18	-	Combined Record	-	-	-	Single residential dwelling	$277,000	0.41
+2006	37368	18 Ngunawal Drive	14/08/2006	18/09/2006	-	$655,000	1187m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	34519	31 Alexander Mackie Circuit	03/06/2006	26/09/2006	11/05/2006	$645,000	889m	Full transfer	4	1	2	2	-	$645,000	23	-	Combined Record	-	-	-	Single residential dwelling	$266,000	0.41
+2006	33125	1 Venables Place	14/10/2006	07/12/2006	20/09/2006	$640,000	1040m	Full transfer	4	2	1	2	-	$640,000	24	-	Combined Record	-	-	-	Single residential dwelling	$286,000	0.45
+2006	169566	29 Walton Street	25/09/2006	17/11/2006	-	$629,000	734m	Full transfer	-	-	-	-	-	$629,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	91250	3/70 William Wilkins Crescent	09/11/2006	-	25/10/2006	$615,000	5688m	Full transfer	3	1	1	2	-	$615,000	15	-	Allhomes Record	-	-	-	-	-	-
+2006	32302	7/23 Shepherdson Place	03/10/2006	06/11/2006	-	$602,500	6454m	Full transfer	-	-	-	-	-	$602,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	35831	25 Walton Street	30/10/2006	08/01/2007	26/09/2006	$600,000	696m	Full transfer	4	1	1	2	-	$600,000	34	-	Combined Record	-	-	-	Single residential dwelling	$262,000	0.44
+2006	203676	32 Rowntree Crescent	21/07/2006	28/08/2006	08/06/2006	$595,000	953m	Full transfer	4	1	1	2	-	$595,000	43	-	Combined Record	-	-	-	Single residential dwelling	$251,000	0.42
+2006	218280	26 Rowntree Crescent	01/05/2006	12/07/2006	-	$593,586	978m	Full transfer	-	-	-	-	-	$593,586	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218212	19 Adkinson Close	26/05/2006	05/07/2006	30/03/2006	$588,000	726m	Full transfer	4	1	1	2	-	$588,000	57	-	Combined Record	-	-	-	Single residential dwelling	$248,000	0.42
+2006	218294	11 Alexander Mackie Circuit	06/03/2006	16/05/2006	-	$580,000	1278m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218302	2/52 Hansen Circuit	14/03/2006	30/05/2006	-	$559,000	15572m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218301	17/52 Hansen Circuit	03/07/2006	28/07/2006	-	$550,000	15572m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	83443	20/110 Julia Flynn Avenue	13/07/2006	-	23/06/2006	$520,000	-	Full transfer	3	1	1	2	-	$520,000	20	-	Allhomes Record	-	-	-	-	-	-
+2006	339	            20/2 Walton Street	14/07/2006	24/08/2006	-	$520,000	12436m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203454	5 Kane Place	23/06/2006	12/09/2006	-	$518,000	613m	Full transfer	-	-	-	-	-	$518,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	34536	6 Bee Place	31/08/2006	27/09/2006	10/08/2006	$510,000	591m	Full transfer	3	1	1	2	-	$510,000	21	-	Combined Record	-	-	-	Medium density dwelling	$227,000	0.45
+2006	36735	2/4 Kilgour Place	14/06/2006	08/09/2006	-	$505,000	1356m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	232340	45 Julia Flynn Avenue	14/11/2006	13/12/2007	-	$500,000	1725m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	10444	            5/41 Alexander Mackie Circuit	08/12/2006	20/02/2007	-	$499,000	11956m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34535	13 William Wilkins Crescent	24/06/2006	28/09/2006	-	$495,000	1327m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203333	3 Kane Place	22/11/2006	18/01/2007	08/09/2006	$490,000	615m	Full transfer	3	1	1	2	-	$490,000	75	-	Combined Record	-	-	-	Medium density dwelling	$231,000	0.47
+2006	164900	7/92 Julia Flynn Avenue	16/08/2006	10/10/2006	02/08/2006	$490,000	4631m	Full transfer	3	1	1	2	-	$490,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	318799	1/6 Bromby Street	11/07/2006	30/08/2006	-	$490,000	1084m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218307	14 Walton Street	05/05/2006	01/08/2006	27/04/2006	$489,000	462m	Full transfer	3	2	-	2	-	$489,000	8	-	Combined Record	-	-	-	Medium density dwelling	$208,000	0.43
+2006	218277	6 Edney Place	08/05/2006	28/07/2006	19/04/2006	$485,000	488m	Full transfer	3	1	1	2	-	$485,000	19	-	Combined Record	-	-	-	Medium density dwelling	$214,000	0.44
+2006	218247	11 Ringrose Crescent	18/01/2006	21/02/2006	-	$485,000	531m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	58	            2/28B Hansen Circuit	29/06/2006	08/11/2006	-	$480,000	1204m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218259	25 Rule Street	20/04/2006	23/05/2006	-	$455,000	381m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	34537	17 Rule Street	24/08/2006	27/09/2006	10/06/2006	$405,000	432m	Full transfer	3	1	1	2	-	$405,000	75	-	Combined Record	-	-	-	Medium density dwelling	$224,000	0.55
+2006	165759	21 Rule Street	20/10/2006	20/11/2006	08/09/2006	$405,000	288m	Full transfer	3	1	1	2	-	$405,000	42	-	Combined Record	-	-	-	Medium density dwelling	$214,000	0.53
+2006	15467	            13/3 Shepherdson Place	17/01/2006	15/02/2006	-	$399,000	16449m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	168300	1 Boehm Close	07/07/2006	08/08/2006	02/06/2006	$389,000	402m	Full transfer	3	1	-	-	2	$389,000	35	-	Combined Record	-	-	-	Medium density dwelling	$196,000	0.5
+2006	165758	9 Gratton Place	18/08/2006	24/11/2006	-	$380,000	572m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	79428	9/3 Shepherdson Place	09/05/2006	-	12/04/2006	$378,500	16449m	Full transfer	3	1	1	2	-	$378,500	27	-	Allhomes Record	-	-	-	-	-	-
+2006	218284	9/3 Shepherdson Place	10/05/2006	14/07/2006	-	$378,500	16449m	Full transfer	-	-	-	-	-	$378,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	34813	6 Gratton Place	17/07/2006	21/08/2006	30/06/2006	$375,000	375m	Full transfer	3	1	1	-	1	$375,000	17	-	Combined Record	-	-	-	Medium density dwelling	$219,000	0.58
+2006	218235	32/28 Ringrose Crescent	21/03/2006	28/04/2006	-	$357,500	19263m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218253	8/92 Julia Flynn Avenue	10/03/2006	04/04/2006	-	$350,000	4631m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	10495	            5/2 Gladman Close	07/08/2006	14/11/2006	-	$340,500	6093m	Full transfer	-	-	-	-	-	$340,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	82364	5/2 Adkinson Close	07/08/2006	-	02/06/2006	$340,500	-	Full transfer	2	1	-	1	-	$340,500	66	-	Allhomes Record	-	-	-	-	-	-
+2006	165228	8/3 Shepherdson Place	15/12/2006	16/02/2007	11/05/2006	$340,000	16449m	Full transfer	3	1	-	1	-	$340,000	218	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	13326	            2/7 Bee Place	07/07/2006	11/09/2006	-	$333,000	2816m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203455	3/7 Bee Place	07/07/2006	11/09/2006	-	$333,000	2816m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218231	22/28 Ringrose Crescent	03/06/2006	21/07/2006	11/05/2006	$330,000	19263m	Full transfer	3	1	1	1	-	$330,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2006	169327	27 Walton Street	18/10/2006	22/02/2007	-	$287,500	670m	Full transfer	-	-	-	-	-	$287,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	218241	22 Julia Flynn Avenue	17/02/2006	30/03/2006	-	$277,000	504m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	169286	11 Gladman Close	08/11/2006	22/02/2007	-	$0	791m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	409047	37 Shepherdson Place	25/11/2006	11/02/2007	-	$0	1341m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Residential	-	-
+2006	168926	33/28 Ringrose Crescent	16/10/2006	22/03/2007	-	$0	19263m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	203456	7/23 Shepherdson Place	13/09/2006	14/09/2006	-	-	6454m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	218276	6 Edney Place	06/03/2006	13/07/2006	-	-	488m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	34812	5/28 Ringrose Crescent	23/08/2006	23/08/2006	-	-	19263m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	165760	6 Whinham Place	09/08/2006	22/11/2006	-	-	396m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2006	218243	12 Gratton Place	03/03/2006	21/04/2006	-	-	375m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203457	2/14A Hansen Circuit	29/05/2006	11/09/2006	-	-	1108m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2006	1909		08/08/2006	-	02/08/2006	-	-	Full transfer	3	1	1	2	-	-	6	-	Allhomes Record	-	-	-	-	-	-
+2006	164212	40 Rowntree Crescent	23/03/2006	16/08/2006	-	-	757m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	169565	6 Hughson Place	04/04/2006	16/11/2006	-	-	1011m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	82482	4A Kilgour Place	14/06/2006	-	08/06/2006	-	1355m	Full transfer	3	2	-	2	-	-	6	-	Allhomes Record	-	-	-	-	$394,000	-
+2006	218245	52 Julia Flynn Avenue	02/05/2006	01/06/2006	-	-	806m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2006	203453	3/70 William Wilkins Crescent	01/06/2006	14/09/2006	-	-	5689m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235164	2 Reddall Close	09/11/2007	08/02/2008	-	$1,075,000	1059m	Full transfer	-	-	-	-	-	$1,075,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	302696	21 Whitty Crescent	21/04/2007	16/07/2007	-	$1,062,500	1033m	Full transfer	-	-	-	-	-	$1,062,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	100202	2 Story Place	21/04/2007	-	22/03/2007	$1,062,500	1033m	Full transfer	5	1	3	3	-	$1,062,500	30	-	Allhomes Record	-	-	-	-	$420,000	0.4
+2007	235429	56 Ngunawal Drive	21/12/2007	12/03/2008	10/10/2007	$980,000	945m	Full transfer	4	2	1	3	-	$980,000	72	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.42
+2007	231164	2 MacLagan Street	09/11/2007	18/01/2008	04/10/2007	$965,000	954m	Full transfer	4	2	1	3	-	$965,000	36	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.32
+2007	409102	10 Story Place	27/03/2007	09/10/2007	07/12/2006	$961,500	1092m	Full transfer	4	1	2	3	-	$961,500	110	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.52
+2007	25279	7 Whitty Crescent	01/12/2007	-	02/11/2007	$898,000	949m	Full transfer	5	2	1	2	1	$898,000	29	-	Allhomes Record	-	-	-	-	$328,000	0.37
+2007	236738	77 William Wilkins Crescent	17/11/2007	16/04/2008	-	$870,000	1296m	Full transfer	-	-	-	-	-	$870,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230930	16 Buntine Crescent	05/10/2007	22/01/2008	17/08/2007	$835,000	1017m	Full transfer	5	2	1	2	-	$835,000	49	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.37
+2007	122050	2 Taber Place	23/06/2007	25/09/2007	31/05/2007	$830,000	935m	Full transfer	4	2	1	2	-	$830,000	23	-	Combined Record	-	-	-	Single residential dwelling	$326,000	0.39
+2007	166159	26 Corrigan Place	09/03/2007	25/07/2007	17/10/2006	$821,000	1280m	Full transfer	6	2	1	2	-	$821,000	143	-	Combined Record	-	-	-	Single residential dwelling	$444,000	0.54
+2007	166151	38 Shepherdson Place	19/05/2007	25/07/2007	26/04/2007	$785,000	1264m	Full transfer	4	1	1	2	-	$785,000	23	-	Combined Record	-	-	-	Residential	$353,000	0.45
+2007	240186	12 Kaeppel Place	31/08/2007	27/10/2008	-	$780,000	1078m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	166661	12A Hansen Circuit	16/06/2007	20/08/2007	-	$772,000	869m	Full transfer	-	-	-	-	-	$772,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2007	202045	21 Buntine Crescent	28/02/2007	15/06/2007	22/02/2007	$760,000	1090m	Full transfer	4	1	1	2	-	$760,000	6	-	Combined Record	-	-	-	Single residential dwelling	$309,000	0.41
+2007	33531	6 Buntine Crescent	31/01/2007	22/05/2007	-	$745,000	1027m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121313	26 Whitty Crescent	07/03/2007	01/05/2007	14/02/2007	$735,000	704m	Full transfer	5	1	1	2	-	$735,000	21	-	Combined Record	-	-	-	Single residential dwelling	$361,000	0.49
+2007	164704	7 Venables Place	24/05/2007	13/07/2007	-	$720,000	838m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230949	38 William Wilkins Crescent	20/09/2007	21/01/2008	06/09/2007	$705,000	842m	Full transfer	5	1	1	2	-	$705,000	14	-	Combined Record	-	-	-	Single residential dwelling	$312,000	0.44
+2007	164585	12 MacLagan Street	17/04/2007	09/07/2007	29/03/2007	$700,000	957m	Full transfer	4	1	1	2	-	$700,000	19	-	Combined Record	-	-	-	Single residential dwelling	$295,000	0.42
+2007	409101	23 Adkinson Close	19/04/2007	31/05/2007	31/01/2007	$675,000	984m	Full transfer	4	1	1	2	-	$675,000	78	-	Combined Record	-	-	-	Single residential dwelling	$271,000	0.4
+2007	318103	6 Boehm Close	02/06/2007	27/07/2007	-	$650,000	637m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	307414	7 Walton Street	07/08/2007	17/10/2007	-	$635,000	615m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	36294	42 Julia Flynn Avenue	31/03/2007	06/07/2007	-	$630,000	820m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	105548	14/52 Hansen Circuit	30/07/2007	-	04/07/2007	$600,000	15572m	Full transfer	3	1	1	2	-	$600,000	26	-	Allhomes Record	-	-	-	-	-	-
+2007	236008	1/1 Coburn Place	06/08/2007	20/11/2007	-	$600,000	3663m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	165877	21 Alexander Mackie Circuit	19/06/2007	27/07/2007	-	$590,000	940m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	230157	10 Whinham Place	11/09/2007	30/01/2008	-	$575,000	458m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	235597	2/10B Hansen Circuit	02/11/2007	19/03/2008	04/10/2007	$570,000	870m	Full transfer	3	1	1	1	1	$570,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	$299,000	0.52
+2007	36229	8 Rule Street	26/04/2007	04/07/2007	-	$565,000	607m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	202661	25 William Wilkins Crescent	29/08/2007	10/10/2007	26/05/2007	$565,000	820m	Full transfer	4	1	1	2	-	$565,000	95	-	Combined Record	-	-	-	Single residential dwelling	$291,000	0.52
+2007	9567	            1/2 Braim Place	10/04/2007	25/06/2007	-	$560,000	1096m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	231438	39 Hansen Circuit	14/09/2007	27/11/2007	23/08/2007	$550,000	539m	Full transfer	3	1	1	2	-	$550,000	22	-	Combined Record	-	-	-	Medium density dwelling	$234,000	0.43
+2007	5365	            1/8 Hansen Circuit	29/03/2007	15/05/2007	-	$550,000	1500m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	100190	16/60 Hansen Circuit	30/04/2007	-	22/03/2007	$545,000	15808m	Full transfer	3	1	1	2	-	$545,000	39	-	Allhomes Record	-	-	-	-	-	-
+2007	592	            16/3 Hansen Circuit	30/04/2007	06/07/2007	-	$545,000	15808m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	33680	8 Davitt Close	16/02/2007	22/05/2007	29/01/2007	$520,000	441m	Full transfer	3	1	1	2	-	$520,000	18	-	Combined Record	-	-	-	Medium density dwelling	$232,000	0.45
+2007	5490	            1/2 Walton Street	04/04/2007	03/05/2007	-	$515,000	12436m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	307257	11 Ringrose Crescent	17/03/2007	09/05/2007	-	$510,000	531m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	235430	8 Edney Place	15/12/2007	16/03/2008	31/03/2008	$507,000	515m	Full transfer	3	1	1	2	0	$507,000	-	-	Combined Record	-	-	-	Medium density dwelling	$247,000	0.49
+2007	409048	9/92 Julia Flynn Avenue	30/08/2007	16/10/2007	01/08/2007	$505,000	4631m	Full transfer	3	1	1	2	-	$505,000	29	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	120463	21 Hansen Circuit	08/03/2007	15/05/2007	18/01/2007	$501,000	680m	Full transfer	3	1	1	2	-	$501,000	49	-	Combined Record	-	-	-	Medium density dwelling	$247,000	0.49
+2007	409049	16 Gratton Place	11/09/2007	24/10/2007	04/10/2007	$500,000	592m	Full transfer	3	1	1	2	-	$500,000	-	-	Combined Record	-	-	-	Medium density dwelling	$248,000	0.5
+2007	231134	9 Boehm Close	05/12/2007	18/01/2008	-	$500,000	561m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	32713	27 Ringrose Crescent	22/02/2007	29/03/2007	11/01/2007	$499,000	455m	Full transfer	3	1	1	2	-	$499,000	42	-	Combined Record	-	-	-	Medium density dwelling	$234,000	0.47
+2007	96570	17/60 Hansen Circuit	03/03/2007	-	29/01/2007	$487,500	15808m	Full transfer	3	1	1	2	-	$487,500	33	-	Allhomes Record	-	-	-	-	-	-
+2007	246	            17/3 Hansen Circuit	03/03/2007	24/05/2007	-	$487,500	15808m	Full transfer	-	-	-	-	-	$487,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	121137	7/3 Hansen Circuit	18/07/2007	10/09/2007	16/04/2007	$480,000	15808m	Full transfer	3	1	1	2	-	$480,000	93	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2007	234972	11/92 Julia Flynn Avenue	10/12/2007	05/02/2008	-	$475,000	4631m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166541	7 Satchell Place	23/05/2007	23/07/2007	-	$427,500	421m	Full transfer	-	-	-	-	-	$427,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	164376	8 Dettmann Close	07/02/2007	14/03/2007	-	$425,000	450m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	268237	3 Boehm Close	15/06/2007	02/07/2010	-	$420,000	515m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	32806	3/84 Julia Flynn Avenue	05/02/2007	29/03/2007	-	$388,000	3669m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	37026	22 Ellwood Crescent	22/05/2007	20/07/2007	-	$342,000	602m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	202731	14/52 Hansen Circuit	01/08/2007	09/10/2007	-	$0	15572m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	95146	6 Edney Place	11/11/2007	02/12/2007	-	$0	488m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	165584	7 Adkinson Close	07/01/2007	02/02/2007	-	$0	792m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	5491	            9/2 Walton Street	27/04/2007	04/05/2007	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	10397	            16/3 Hansen Circuit	23/01/2007	22/03/2007	-	$0	15808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	166228	19 Julia Flynn Avenue	02/02/2007	14/08/2007	-	$0	330m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	35048	5 Buntine Crescent	17/04/2007	07/06/2007	-	$0	458m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	232810	5 Gratton Place	17/08/2007	07/11/2007	-	$0	504m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	166741	9 Ringrose Crescent	19/07/2007	02/08/2007	-	$0	949m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	121007	4 Seitz Place	02/08/2007	10/09/2007	-	$0	831m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	96677	2 Davitt Close	19/11/2007	04/12/2007	-	$0	607m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	166090	19 Julia Flynn Avenue	23/05/2007	14/08/2007	-	$0	330m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	21220	             Hansen Circuit	16/06/2007	-	24/05/2007	-	869m	Full transfer	6	2	2	2	-	-	23	-	Allhomes Record	-	-	-	-	$266,000	-
+2007	235163	36 Julia Flynn Avenue	07/11/2007	08/02/2008	-	-	936m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	237339	4 Boehm Close	31/12/2007	20/08/2008	-	-	592m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	21638	            1/98-110 Julia Flynn Avenue	05/04/2007	-	24/01/2007	-	-	Full transfer	3	1	1	2	-	-	71	-	Allhomes Record	-	-	-	-	-	-
+2007	99157	8A Hansen Circuit	30/03/2007	-	05/03/2007	-	-	Full transfer	4	1	1	2	-	-	25	-	Allhomes Record	-	-	-	-	$346,000	-
+2007	233006	12/92 Julia Flynn Avenue	19/11/2007	02/01/2008	-	-	4631m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2007	235952	127 Julia Flynn Avenue	31/08/2007	31/03/2008	-	-	793m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2007	239983	23 Rule Street	09/09/2007	17/10/2008	-	-	313m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2007	5670	            8 Dettman Close	07/02/2007	-	10/11/2006	-	450m	Full transfer	3	1	1	2	-	-	89	-	Allhomes Record	-	-	-	-	-	-
+2008	146493	4 Muecke Place	23/02/2008	09/04/2008	23/01/2008	$1,000,000	977m	Full transfer	5	2	1	3	-	$1,000,000	31	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.42
+2008	235196	1 Rooney Place	16/01/2008	09/05/2008	-	$834,300	1004m	Full transfer	-	-	-	-	-	$834,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	239186	51 Julia Flynn Avenue	30/07/2008	06/11/2008	01/04/2008	$785,000	809m	Full transfer	5	2	1	2	0	$785,000	120	-	Combined Record	-	-	-	Single residential dwelling	$359,000	0.46
+2008	240185	5 Taplin Place	20/09/2008	29/10/2008	19/08/2008	$660,000	832m	Full transfer	4	1	1	2	-	$660,000	32	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.53
+2008	236781	1/5 Broinowski Place	15/10/2008	09/12/2008	14/08/2008	$655,000	9779m	Full transfer	4	1	1	2	-	$655,000	62	-	Combined Record	-	-	-	Multiple unit dwelling	$1,378,000	2.1
+2008	239567	3/52 Hansen Circuit	04/07/2008	02/10/2008	-	$650,000	15572m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236785	37 MacLagan Street	04/12/2008	09/12/2008	13/08/2008	$620,000	705m	Full transfer	4	1	1	2	2	$620,000	113	-	Combined Record	-	-	-	Single residential dwelling	$327,000	0.53
+2008	111316	16/110 Julia Flynn Avenue	04/02/2008	-	23/01/2008	$620,000	-	Full transfer	4	1	1	2	-	$620,000	12	-	Allhomes Record	-	-	-	-	-	-
+2008	18943	            12/2 Walton Street	26/08/2008	23/09/2008	-	$608,000	12436m	Full transfer	-	-	-	-	-	$608,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236321	1 Gratton Place	08/02/2008	03/04/2008	-	$580,000	609m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	229690	16 Walton Street	12/06/2008	30/07/2008	-	$570,000	686m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	236243	127 Julia Flynn Avenue	22/02/2008	19/05/2008	-	$559,000	793m	Full transfer	-	-	-	-	-	$559,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240690	12 Ringrose Crescent	31/10/2008	03/12/2008	30/07/2008	$544,000	478m	Full transfer	4	1	1	2	-	$544,000	93	-	Combined Record	-	-	-	Medium density dwelling	$269,000	0.49
+2008	238139	3/3 Hansen Circuit	30/07/2008	12/09/2008	-	$540,000	15808m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230117	2/14A Hansen Circuit	07/05/2008	21/07/2008	14/03/2008	$500,000	1108m	Full transfer	3	1	-	2	-	$500,000	54	-	Combined Record	-	-	-	Multiple unit dwelling	$380,000	0.76
+2008	233300	5 Satchell Place	20/03/2008	19/06/2008	28/02/2008	$490,000	521m	Full transfer	3	1	-	1	-	$490,000	21	-	Combined Record	-	-	-	Medium density dwelling	$279,000	0.57
+2008	243188	3/88 Julia Flynn Avenue	28/05/2008	18/03/2009	-	$485,500	2495m	Full transfer	-	-	-	-	-	$485,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	236157	3 Davitt Close	16/04/2008	13/05/2008	31/03/2008	$478,000	624m	Full transfer	3	2	0	1	1	$478,000	16	-	Combined Record	-	-	-	Medium density dwelling	$277,000	0.58
+2008	237952	4 Boehm Close	19/07/2008	19/09/2008	28/05/2008	$450,500	592m	Full transfer	3	1	1	2	0	$450,500	52	-	Combined Record	-	-	-	Medium density dwelling	$249,000	0.55
+2008	240299	34/28 Ringrose Crescent	16/10/2008	24/11/2008	-	$440,000	19263m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	230075	7/3 Shepherdson Place	27/05/2008	21/07/2008	-	$420,000	16449m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240804	9/3 Shepherdson Place	11/11/2008	17/12/2008	-	$420,000	16449m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	242043	6/92 Julia Flynn Avenue	01/12/2008	02/02/2009	-	$409,000	4631m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	241454	17/3 Shepherdson Place	20/12/2008	11/05/2009	-	$395,000	16449m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	238272	19 Ringrose Crescent	20/11/2008	09/04/2009	-	$255,000	595m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	233189	10/28 Ringrose Crescent	22/04/2008	16/06/2008	-	$175,000	19263m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	454009	30 Walton Street	18/07/2008	05/06/2015	-	$0	722m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	240187	10 Walton Street	30/09/2008	29/10/2008	-	-	676m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	239890	33 Hansen Circuit	20/06/2008	07/10/2008	-	-	518m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	18994	            9/2 Walton Street	30/09/2008	22/12/2008	-	-	12436m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	229806	5 Rooney Place	29/06/2008	22/07/2008	-	-	1556m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	243542	4/3 Shepherdson Place	14/11/2008	01/04/2009	-	-	16449m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	239778	19 Ringrose Crescent	01/05/2008	02/10/2008	-	-	595m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	233190	5/23 Shepherdson Place	08/05/2008	16/06/2008	-	-	6454m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	19149	            2/34 Hansen Circuit	22/07/2008	10/02/2009	-	-	1046m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240360	22 Whitty Crescent	24/07/2008	24/11/2008	-	-	709m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233890	2 Gratton Place	18/04/2008	27/06/2008	-	-	849m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	234000	2/14A Hansen Circuit	28/01/2008	27/06/2008	-	-	1108m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2008	240910	14 MacLagan Street	03/11/2008	17/12/2008	-	-	970m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2008	233759	19 Ringrose Crescent	12/02/2008	03/07/2008	-	-	595m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2008	242044	9/52 Hansen Circuit	06/11/2008	04/02/2009	-	-	15572m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249224	3 Braim Place	17/06/2009	06/10/2009	-	$1,150,000	884m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	259468	            2/1 Hoy Place	28/11/2009	17/02/2010	-	$994,000	3409m	Full transfer	-	-	-	-	-	$994,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	252091	2 Chapple Close	09/09/2009	17/01/2010	-	$982,500	952m	Full transfer	-	-	-	-	-	$982,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	130137	47 Buntine Crescent	23/10/2009	-	10/09/2009	$945,000	879m	Full transfer	6	2	1	3	-	$945,000	43	-	Allhomes Record	-	-	-	-	$387,000	0.41
+2009	128038	25 Rowntree Crescent	15/08/2009	-	22/06/2009	$935,000	1300m	Full transfer	4	1	1	3	-	$935,000	54	-	Allhomes Record	-	-	-	-	$423,000	0.45
+2009	250791	2 Kilgour Place	15/09/2009	08/12/2009	-	$935,000	1300m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	241716	54 William Wilkins Crescent	04/03/2009	19/05/2009	25/02/2009	$825,000	878m	Full transfer	4	1	1	2	-	$825,000	7	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.41
+2009	246161	37 Rowntree Crescent	16/07/2009	24/08/2009	-	$760,000	977m	Full transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243951	60 Julia Flynn Avenue	20/04/2009	25/05/2009	14/02/2009	$750,000	841m	Full transfer	5	2	1	2	0	$750,000	65	-	Combined Record	-	-	-	Single residential dwelling	$347,000	0.46
+2009	245135	24 Whitty Crescent	03/04/2009	16/06/2009	05/08/2008	$735,000	701m	Full transfer	5	1	1	2	-	$735,000	241	-	Combined Record	-	-	-	Single residential dwelling	$416,000	0.57
+2009	245914	35 Alexander Mackie Circuit	04/05/2009	17/08/2009	23/02/2009	$730,000	1023m	Full transfer	4	1	1	2	2	$730,000	70	-	Combined Record	-	-	-	Single residential dwelling	$338,000	0.46
+2009	127093	1 Hoy Place	22/05/2009	-	20/05/2009	$710,000	3409m	Full transfer	4	1	1	2	-	$710,000	2	-	Allhomes Record	-	-	-	-	$1,265,000	1.78
+2009	237737	19 Alexander Mackie Circuit	06/01/2009	20/02/2009	23/09/2008	$707,500	962m	Full transfer	4	1	1	2	0	$707,500	105	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.46
+2009	249227	1 Treacy Place	15/05/2009	28/09/2009	14/04/2009	$692,500	828m	Full transfer	4	1	1	3	-	$692,500	31	-	Combined Record	-	-	-	Single residential dwelling	$343,000	0.5
+2009	254244	6 MacLagan Street	18/11/2009	21/02/2010	25/09/2009	$675,000	938m	Full transfer	4	1	1	2	-	$675,000	54	-	Combined Record	180	-	-	Single residential dwelling	$340,000	0.5
+2009	117527	30 Whitty Crescent	11/02/2009	-	28/08/2008	$675,000	752m	Full transfer	4	1	1	2	-	$675,000	167	-	Allhomes Record	-	-	-	-	$416,000	0.62
+2009	243049	30 Whitty Crescent	10/02/2009	12/03/2009	-	$670,000	752m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249523	16 Rowntree Crescent	04/09/2009	28/10/2009	11/08/2009	$670,000	992m	Full transfer	4	1	1	2	-	$670,000	24	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.52
+2009	247728	8/52 Hansen Circuit	17/08/2009	16/10/2009	-	$670,000	15572m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246162	44 Hansen Circuit	25/06/2009	25/08/2009	06/05/2009	$670,000	1041m	Full transfer	4	1	1	2	-	$670,000	50	-	Combined Record	-	-	-	Single residential dwelling	$325,000	0.49
+2009	248230	20 Adkinson Close	22/07/2009	25/09/2009	-	$650,000	990m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249445	8 Taplin Place	29/07/2009	19/10/2009	14/07/2008	$645,000	910m	Full transfer	4	1	1	2	-	$645,000	380	-	Combined Record	-	-	-	Single residential dwelling	$393,000	0.61
+2009	19089	            10/2 Walton Street	16/04/2009	22/05/2009	-	$635,700	12436m	Full transfer	-	-	-	-	-	$635,700	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241645	9/52 Hansen Circuit	08/04/2009	20/05/2009	-	$630,000	15572m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	327076	6 Leeper Place	19/12/2009	31/03/2010	-	$630,000	554m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	252092	41 Rule Street	28/11/2009	12/01/2010	06/11/2009	$626,000	424m	Full transfer	3	1	1	2	-	$626,000	22	-	Combined Record	171	-	-	Medium density dwelling	$290,000	0.46
+2009	249225	2 Edney Place	02/09/2009	02/10/2009	24/07/2009	$625,000	582m	Full transfer	3	1	1	2	0	$625,000	40	-	Combined Record	-	-	-	Medium density dwelling	$282,000	0.45
+2009	241717	37 Hansen Circuit	07/04/2009	21/05/2009	17/03/2009	$625,000	532m	Full transfer	3	1	1	2	-	$625,000	21	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.41
+2009	249946	5B Buntine Crescent	09/07/2009	17/11/2009	13/05/2009	$595,000	458m	Full transfer	-	-	-	-	-	$595,000	57	-	Combined Record	-	-	-	Medium density dwelling	$294,000	0.49
+2009	247857	33 MacLagan Street	07/08/2009	13/10/2009	07/05/2009	$590,000	850m	Full transfer	3	1	1	1	1	$590,000	92	-	Combined Record	-	-	-	Single residential dwelling	$253,000	0.43
+2009	249226	41 Hansen Circuit	25/07/2009	02/10/2009	29/06/2009	$560,000	546m	Full transfer	3	1	1	2	0	$560,000	26	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.46
+2009	258289	14 Dettmann Close	18/12/2009	06/05/2010	30/11/2009	$548,000	450m	Full transfer	3	1	1	-	1	$548,000	18	-	Combined Record	-	-	-	Medium density dwelling	$282,000	0.51
+2009	19458	            5/2 Walton Street	22/05/2009	14/07/2009	-	$525,000	12436m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	23401	            5/102 Julia Flynn Drive	22/05/2009	-	13/03/2009	$525,000	12436m	Full transfer	-	-	-	-	-	$525,000	70	-	Allhomes Record	-	-	-	-	$1,058,000	2.02
+2009	249447	4 Davitt Close	17/09/2009	19/10/2009	08/07/2009	$519,950	447m	Full transfer	3	1	1	2	-	$519,950	71	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.49
+2009	259469	1/47 Buntine Crescent	23/11/2009	07/01/2010	-	$519,750	879m	Full transfer	-	-	-	-	-	$519,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	243600	33 Hansen Circuit	26/02/2009	30/03/2009	01/10/2008	$490,000	518m	Full transfer	3	1	1	2	-	$490,000	148	-	Combined Record	-	-	-	Medium density dwelling	$257,000	0.52
+2009	245912	6 Gratton Place	12/06/2009	17/08/2009	26/05/2009	$487,000	375m	Full transfer	3	1	1	-	1	$487,000	17	-	Combined Record	-	-	-	Medium density dwelling	$278,000	0.57
+2009	125854	5 Gratton Place	27/07/2009	-	20/04/2009	$480,000	504m	Full transfer	3	1	-	-	1	$480,000	98	-	Allhomes Record	-	-	-	-	$278,000	0.58
+2009	245323	13 William Wilkins Crescent	29/05/2009	29/07/2009	-	$480,000	1327m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245913	5 Gratton Place	14/07/2009	17/08/2009	-	$475,000	504m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	247965	5/84 Julia Flynn Avenue	15/07/2009	18/09/2009	-	$465,100	3669m	Full transfer	-	-	-	-	-	$465,100	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	244795	2/88 Julia Flynn Avenue	23/05/2009	01/07/2009	-	$465,000	2495m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	248014	            2/34 Hansen Circuit	17/08/2009	22/09/2009	-	$460,000	1046m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241296	4/3 Shepherdson Place	18/03/2009	06/05/2009	-	$429,000	16449m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	259470	2/47 Buntine Crescent	23/10/2009	06/01/2010	-	$425,250	879m	Full transfer	-	-	-	-	-	$425,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	249945	22 Julia Flynn Avenue	01/07/2009	17/11/2009	-	$410,000	504m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	127043	2 Ellwood Crescent	01/07/2009	-	19/05/2009	$410,000	503m	Full transfer	2	1	-	-	1	$410,000	43	-	Allhomes Record	-	-	-	-	-	-
+2009	261094	28 Rowntree Crescent	29/11/2009	29/01/2010	-	-	919m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	250667	12 Dettmann Close	26/03/2009	30/11/2009	-	-	450m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	249947	3 Dettmann Close	05/08/2009	19/11/2009	-	-	500m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	244194	3 Edney Place	17/03/2009	12/06/2009	-	-	472m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	19548	            8/41 Alexander Mackie Circuit	20/06/2009	05/08/2009	-	-	11956m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	261724	18 Reddall Close	09/10/2009	12/04/2010	-	-	923m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254245	8 Leeper Place	24/11/2009	18/02/2010	-	-	542m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	254058	3 Reddall Close	07/11/2009	08/02/2010	-	-	809m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	254243	69 William Wilkins Crescent	18/12/2009	16/02/2010	-	-	964m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	249446	9 Rowntree Crescent	03/08/2009	19/10/2009	-	-	1144m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	245732	1/1 Hoy Place	22/05/2009	21/08/2009	-	-	3409m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	241372	16 Hansen Circuit	09/01/2009	07/05/2009	-	-	1244m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	19432	            13/41 Alexander Mackie Circuit	09/05/2009	01/07/2009	-	-	11956m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	245433	4 Bee Place	05/06/2009	03/08/2009	-	-	592m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	244572	6 Byatt Place	28/05/2009	03/07/2009	-	-	1259m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244193	60 William Wilkins Crescent	11/02/2009	09/06/2009	-	-	766m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	255527	1/2A Hansen Circuit	05/12/2009	31/03/2010	-	-	1085m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	246160	14 Rowntree Crescent	20/02/2009	24/08/2009	-	-	891m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244776	33 MacLagan Street	20/04/2009	24/07/2009	-	-	850m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	270338	18 Ngunawal Drive	15/12/2009	06/09/2010	-	-	1187m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	244075	15 Shepherdson Place	24/04/2009	01/06/2009	-	-	1074m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	340379	1B Buntine Crescent	03/10/2009	20/09/2011	-	-	458m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	246376	5B Buntine Crescent	11/01/2009	01/09/2009	-	-	458m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2009	19340	            2/41 Alexander Mackie Circuit	08/05/2009	05/06/2009	-	-	11956m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2009	261725	138 Julia Flynn Avenue	21/12/2009	13/04/2010	-	-	820m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2009	243882	40/28 Ringrose Crescent	06/05/2009	11/06/2009	-	-	19263m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	276768	49 Buntine Crescent	17/04/2010	21/07/2010	17/03/2010	$1,510,000	1310m	Full transfer	6	2	2	3	-	$1,510,000	31	-	Combined Record	-	-	-	Single residential dwelling	$445,000	0.29
+2010	328167	41 Buntine Crescent	26/03/2010	27/06/2010	-	$1,400,000	1095m	Full transfer	-	-	-	-	-	$1,400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	287755	12 Rooney Place	11/12/2010	08/04/2011	19/11/2010	$1,250,000	1374m	Full transfer	4	1	1	2	-	$1,250,000	22	-	Combined Record	-	-	-	Single residential dwelling	$513,000	0.41
+2010	277723	65 William Wilkins Crescent	30/11/2010	24/01/2011	19/08/2010	$1,075,000	1054m	Full transfer	5	1	2	3	-	$1,075,000	103	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.49
+2010	280358	16 Whitty Crescent	20/10/2010	06/12/2010	12/08/2010	$1,050,000	1113m	Full transfer	4	1	3	-	4	$1,050,000	69	-	Combined Record	242	-	-	Single residential dwelling	$495,000	0.47
+2010	279101	52 William Wilkins Crescent	20/09/2010	02/02/2011	24/08/2010	$940,000	1032m	Full transfer	4	1	1	2	-	$940,000	27	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.43
+2010	274067	26 Whitty Crescent	08/10/2010	15/11/2010	-	$890,000	704m	Full transfer	-	-	-	-	-	$890,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	326561	8 Whitty Crescent	06/04/2010	19/05/2010	-	$875,000	836m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	284056	10 Broinowski Place	21/12/2010	10/02/2011	17/06/2010	$860,000	811m	Full transfer	5	2	1	2	-	$860,000	187	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.55
+2010	262794	39 Rowntree Crescent	13/01/2010	28/02/2010	23/11/2009	$850,000	991m	Full transfer	4	1	1	2	-	$850,000	51	-	Combined Record	-	-	-	Single residential dwelling	$455,000	0.54
+2010	256515	1 Gladman Close	16/02/2010	14/04/2010	12/02/2010	$850,000	811m	Full transfer	5	2	1	2	-	$850,000	4	-	Combined Record	-	-	-	Single residential dwelling	$346,000	0.41
+2010	279100	16 Alexander Mackie Circuit	01/12/2010	04/02/2011	18/10/2010	$820,000	659m	Full transfer	4	1	2	2	-	$820,000	44	-	Combined Record	-	-	-	Single residential dwelling	$377,000	0.46
+2010	275833	12 Rowntree Crescent	18/10/2010	12/01/2011	-	$775,000	710m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	258661	4 Rowntree Crescent	24/03/2010	14/05/2010	17/02/2010	$770,000	900m	Full transfer	4	1	1	2	-	$770,000	35	-	Combined Record	-	-	-	Single residential dwelling	$390,000	0.51
+2010	274676	163 Julia Flynn Avenue	29/09/2010	24/11/2010	27/07/2010	$749,000	894m	Full transfer	4	2	1	2	1	$749,000	64	-	Combined Record	245	-	-	Single residential dwelling	$327,000	0.44
+2010	258510	8 Kaeppel Place	20/02/2010	14/04/2010	18/01/2010	$720,000	835m	Full transfer	4	1	1	2	-	$720,000	33	-	Combined Record	-	-	-	Single residential dwelling	$376,000	0.52
+2010	258288	3 Reddall Close	24/02/2010	07/05/2010	12/02/2010	$720,000	809m	Full transfer	4	1	1	2	-	$720,000	12	-	Combined Record	-	-	-	Single residential dwelling	$380,000	0.53
+2010	255468	4/23 Shepherdson Place	22/01/2010	23/03/2010	-	$685,000	6454m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	286065	1 Edney Place	07/12/2010	09/03/2011	29/09/2010	$674,000	692m	Full transfer	4	1	1	2	-	$674,000	69	-	Combined Record	-	-	-	Medium density dwelling	$327,000	0.49
+2010	262793	22 Buntine Crescent	15/02/2010	22/03/2010	16/12/2009	$665,000	801m	Full transfer	4	1	1	2	-	$665,000	61	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.63
+2010	325944	15 Walton Street	12/01/2010	21/04/2010	-	$648,500	524m	Full transfer	-	-	-	-	-	$648,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	265034	10/60 Hansen Circuit	04/08/2010	-	15/07/2010	$630,000	15808m	Full transfer	3	1	1	2	-	$630,000	20	-	Allhomes Record	-	-	-	-	$3,281,000	5.21
+2010	258290	3 Edney Place	13/02/2010	03/05/2010	12/01/2010	$620,500	472m	Full transfer	3	1	1	2	-	$620,500	32	-	Combined Record	-	-	-	Medium density dwelling	$312,000	0.5
+2010	255269	            2A Hansen Circuit	13/04/2010	-	28/01/2010	$620,000	1085m	Full transfer	3	1	1	2	-	$620,000	75	-	Allhomes Record	-	-	-	-	$349,000	0.56
+2010	262796	14 Walton Street	18/01/2010	21/02/2010	27/10/2009	$615,000	462m	Full transfer	3	1	1	2	-	$615,000	83	-	Combined Record	-	-	-	Medium density dwelling	$295,000	0.48
+2010	256365	5/70 William Wilkins Crescent	13/02/2010	13/04/2010	-	$595,000	5689m	Full transfer	-	-	-	-	-	$595,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	262795	1 Rosson Place	13/02/2010	30/03/2010	16/01/2010	$585,000	467m	Full transfer	3	1	1	2	-	$585,000	28	-	Combined Record	-	-	-	Medium density dwelling	$289,000	0.49
+2010	258512	11 Buntine Crescent	12/03/2010	15/04/2010	12/02/2010	$585,000	437m	Full transfer	3	1	1	2	-	$585,000	28	-	Combined Record	-	-	-	Medium density dwelling	$338,000	0.58
+2010	258511	5 Kane Place	13/02/2010	22/04/2010	22/12/2009	$575,000	613m	Full transfer	3	1	1	2	-	$575,000	53	-	Combined Record	-	-	-	Medium density dwelling	$328,000	0.57
+2010	277847	6 Edney Place	09/09/2010	19/01/2011	29/07/2010	$575,000	488m	Full transfer	3	1	1	2	-	$575,000	42	-	Combined Record	-	-	-	Medium density dwelling	$312,000	0.54
+2010	252314	4/51 Alexander Mackie Circuit	17/02/2010	-	23/12/2009	$566,500	11956m	Full transfer	4	1	1	2	-	$566,500	56	-	Allhomes Record	-	-	-	-	$2,463,000	4.35
+2010	257192	            4/41 Alexander Mackie Circuit	17/02/2010	19/04/2010	-	$566,500	11956m	Full transfer	-	-	-	-	-	$566,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	331281	10 William Wilkins Crescent	04/12/2010	15/04/2011	-	$555,000	695m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	329663	1 Boehm Close	13/11/2010	19/01/2011	-	$526,500	402m	Full transfer	-	-	-	-	-	$526,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	264775	5/92 Julia Flynn Avenue	24/07/2010	-	30/06/2010	$526,000	4631m	Full transfer	3	1	1	2	-	$526,000	24	-	Allhomes Record	-	-	-	-	$1,772,000	3.37
+2010	273026	39/28 Ringrose Crescent	08/09/2010	18/10/2010	-	$520,500	19263m	Full transfer	-	-	-	-	-	$520,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	265984	39/28 Ringrose Crescent	13/09/2010	-	24/08/2010	$520,500	19263m	Full transfer	3	1	1	1	-	$520,500	20	-	Allhomes Record	-	-	-	-	$5,136,000	9.87
+2010	274013	35/28 Ringrose Crescent	10/09/2010	17/11/2010	-	$520,000	19263m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	264440	4/3 Shepherdson Place	08/07/2010	-	17/06/2010	$517,000	16449m	Full transfer	3	1	1	2	-	$517,000	21	-	Allhomes Record	-	-	-	-	$3,021,000	5.84
+2010	269817	4/3 Shepherdson Place	09/07/2010	10/09/2010	-	$517,000	16449m	Full transfer	-	-	-	-	-	$517,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	272949	6/88 Julia Flynn Avenue	17/04/2010	27/10/2010	-	$516,000	2495m	Full transfer	-	-	-	-	-	$516,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	277848	5 Dettmann Close	24/11/2010	19/01/2011	30/09/2010	$515,000	500m	Full transfer	3	1	-	-	1	$515,000	55	-	Combined Record	-	-	-	Medium density dwelling	$322,000	0.63
+2010	328348	14 Gratton Place	03/06/2010	08/07/2010	-	$508,000	375m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	269546	22/28 Ringrose Crescent	08/06/2010	19/08/2010	-	$500,000	19263m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	271981	9 Shepherdson Place	04/12/2010	-	10/11/2010	$490,000	16449m	Full transfer	3	1	1	2	-	$490,000	24	-	Allhomes Record	110	-	-	-	$3,323,000	6.78
+2010	283476	            13/3 Shepherdson Place	04/12/2010	02/03/2011	-	$490,000	16449m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	269547	4/28 Ringrose Crescent	14/07/2010	18/08/2010	-	$476,425	19263m	Full transfer	-	-	-	-	-	$476,425	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	263534	30/28 Ringrose Crescent	14/04/2010	31/05/2010	-	$470,000	19263m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	261723	29 Rule Street	03/03/2010	21/04/2010	-	$450,000	390m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	285972	3/2 Farr Place	30/08/2010	15/03/2011	-	$300,000	350m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office	-	-
+2010	277471	5/2 Farr Place	07/04/2010	19/01/2011	-	$273,480	350m	Full transfer	-	-	-	-	-	$273,480	-	-	Government Record	-	-	-	Office	-	-
+2010	275657	4/2 Farr Place	05/10/2010	12/01/2011	-	$250,000	350m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Office	-	-
+2010	402710	12 Boehm Close	20/09/2010	28/06/2013	-	$0	613m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	410407	21 Whitty Crescent	13/08/2010	11/09/2013	-	$0	1033m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	365325	7/3 Hansen Circuit	09/11/2010	06/03/2012	-	$0	15808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	346712	4 Rule Street	05/07/2010	25/11/2011	-	$0	563m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2010	275834	50 Julia Flynn Avenue	08/08/2010	10/01/2011	-	-	847m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291565	4/23 Shepherdson Place	31/08/2010	04/05/2011	-	-	6454m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	270447	3 Gladman Close	13/08/2010	22/09/2010	-	-	710m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	291673	            14/2 Walton Street	02/12/2010	10/05/2011	-	-	12436m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2010	291343	15 Kaeppel Place	09/09/2010	10/05/2011	-	-	1709m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2010	270031	4 Alanson Place	28/04/2010	26/07/2010	-	-	887m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	300651	5 Rooney Place	26/03/2011	05/07/2011	03/03/2011	$1,275,000	1556m	Full transfer	4	1	2	3	-	$1,275,000	23	-	Combined Record	-	-	-	Single residential dwelling	$581,000	0.46
+2011	340768	45 Buntine Crescent	18/06/2011	20/09/2011	03/03/2011	$1,200,000	1099m	Full transfer	3	1	1	2	-	$1,200,000	107	-	Combined Record	-	-	-	Single residential dwelling	$573,000	0.48
+2011	299711	63 William Wilkins Crescent	31/07/2011	-	07/07/2011	$1,050,000	1054m	Full transfer	5	2	1	2	-	$1,050,000	24	-	Allhomes Record	-	-	-	-	-	-
+2011	347146	2 Muecke Place	30/07/2011	08/11/2011	-	$1,050,000	1044m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2011	292272	22 Whitty Crescent	19/03/2011	10/05/2011	16/02/2011	$982,000	709m	Full transfer	4	1	1	2	-	$982,000	31	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.53
+2011	355062	6 Muecke Place	17/11/2011	12/01/2012	04/11/2011	$960,000	902m	Full transfer	5	2	1	2	-	$960,000	13	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.52
+2011	360305	4 Buntine Crescent	24/11/2011	15/02/2012	11/01/2011	$960,000	1247m	Full transfer	5	2	1	3	-	$960,000	317	-	Combined Record	-	-	-	Single residential dwelling	$461,000	0.48
+2011	366002	3 Rooney Place	02/12/2011	01/03/2012	05/10/2011	$950,000	1290m	Full transfer	4	3	-	2	-	$950,000	58	-	Combined Record	-	-	-	Single residential dwelling	$558,000	0.59
+2011	340644	2 Taber Place	18/08/2011	26/09/2011	10/05/2011	$860,000	935m	Full transfer	4	1	1	2	1	$860,000	100	-	Combined Record	203	-	-	Single residential dwelling	$452,000	0.53
+2011	296805	6 Treacy Place	19/02/2011	31/05/2011	16/01/2011	$855,000	963m	Full transfer	4	1	1	2	-	$855,000	34	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.51
+2011	360303	1 Byatt Place	26/11/2011	15/02/2012	25/10/2011	$852,000	1053m	Full transfer	4	1	1	2	-	$852,000	32	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.47
+2011	296752	3 Taber Place	29/03/2011	26/06/2011	01/03/2011	$820,000	898m	Full transfer	4	2	1	2	-	$820,000	28	-	Combined Record	-	-	-	Single residential dwelling	$414,000	0.5
+2011	300689	17 Adkinson Close	27/05/2011	19/07/2011	02/02/2011	$817,000	772m	Full transfer	4	1	1	2	-	$817,000	114	-	Combined Record	-	-	-	Single residential dwelling	$398,000	0.49
+2011	366000	15 Shepherdson Place	06/12/2011	27/02/2012	10/11/2011	$815,000	1074m	Full transfer	4	2	1	2	-	$815,000	26	-	Combined Record	-	-	-	Single residential dwelling	$424,000	0.52
+2011	354673	154 Julia Flynn Avenue	10/11/2011	04/01/2012	14/10/2011	$781,000	914m	Full transfer	4	1	1	2	-	$781,000	27	-	Combined Record	-	-	-	Single residential dwelling	$434,000	0.56
+2011	346708	16 Corrigan Place	29/06/2011	15/11/2011	07/06/2011	$779,000	881m	Full transfer	4	1	1	2	-	$779,000	22	-	Combined Record	-	-	-	Single residential dwelling	$372,000	0.48
+2011	354082	28 Rowntree Crescent	01/10/2011	20/12/2011	-	$777,000	919m	Full transfer	-	-	-	-	-	$777,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	331694	11 Gladman Close	13/05/2011	01/07/2011	-	$730,000	791m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	292902	12/52 Hansen Circuit	02/06/2011	-	12/05/2011	$730,000	15572m	Full transfer	4	1	1	2	-	$730,000	21	-	Allhomes Record	-	-	-	-	$3,050,000	4.18
+2011	336255	12/52 Hansen Circuit	15/05/2011	07/09/2011	-	$730,000	15572m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	340770	9 Taplin Place	15/07/2011	21/09/2011	15/06/2011	$720,000	837m	Full transfer	3	1	1	2	-	$720,000	30	-	Combined Record	-	-	-	Single residential dwelling	$498,000	0.69
+2011	354083	6 Boehm Close	14/11/2011	21/12/2011	15/09/2011	$675,000	637m	Full transfer	3	1	1	2	-	$675,000	60	-	Combined Record	-	-	-	Single residential dwelling	$315,000	0.47
+2011	330516	21 Alexander Mackie Circuit	08/03/2011	06/04/2011	-	$667,000	940m	Full transfer	-	-	-	-	-	$667,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	369134	37 Hansen Circuit	29/11/2011	02/04/2012	10/11/2011	$650,000	532m	Full transfer	3	2	-	2	-	$650,000	19	-	Combined Record	-	-	-	Medium density dwelling	$325,000	0.5
+2011	333443	35 Hansen Circuit	22/06/2011	01/08/2011	01/06/2011	$643,000	525m	Full transfer	3	1	1	2	-	$643,000	21	-	Combined Record	-	-	-	Medium density dwelling	$325,000	0.51
+2011	371874	21/3 Hansen Circuit	21/12/2011	29/05/2012	27/10/2011	$620,000	15808m	Full transfer	3	1	1	2	-	$620,000	55	-	Combined Record	-	-	-	Multiple unit dwelling	$4,528,000	7.3
+2011	344692	4 Rule Street	18/11/2011	-	06/10/2011	$595,000	563m	Full transfer	2	1	1	2	-	$595,000	43	-	Allhomes Record	157	-	-	-	$355,000	0.6
+2011	342412	19 Ringrose Crescent	05/08/2011	07/10/2011	31/05/2011	$587,000	595m	Full transfer	3	1	1	2	-	$587,000	66	-	Combined Record	144	-	-	Medium density dwelling	$349,000	0.59
+2011	355059	27 Hansen Circuit	01/12/2011	13/01/2012	10/11/2011	$580,000	665m	Full transfer	3	1	1	2	-	$580,000	21	-	Combined Record	-	-	-	Medium density dwelling	$343,000	0.59
+2011	287846	15 Ringrose Crescent	08/02/2011	28/03/2011	27/01/2011	$560,000	450m	Full transfer	4	1	1	2	-	$560,000	12	-	Combined Record	-	-	-	Medium density dwelling	$340,000	0.61
+2011	346711	8 Edney Place	20/09/2011	24/11/2011	-	$551,000	515m	Full transfer	-	-	-	-	-	$551,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	300783	4/2 Gladman Close	19/05/2011	13/07/2011	07/04/2011	$529,950	6093m	Full transfer	3	1	1	2	-	$529,950	42	-	Combined Record	-	-	-	Multiple unit dwelling	$1,949,000	3.68
+2011	343371	6/84 Julia Flynn Avenue	10/11/2011	-	18/10/2011	$524,950	3669m	Full transfer	3	1	1	2	-	$524,950	23	-	Allhomes Record	-	-	-	-	$2,129,000	4.06
+2011	287515	            4/7 Bee Place	10/01/2011	25/03/2011	-	$522,500	2816m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	274706	10 Leeper Place	10/01/2011	-	09/11/2010	$522,500	2816m	Full transfer	3	1	1	2	-	$522,500	62	-	Allhomes Record	-	-	-	-	$1,746,000	3.34
+2011	365328	6 Gratton Place	19/12/2011	05/03/2012	11/09/2011	$515,000	375m	Full transfer	3	1	1	-	1	$515,000	99	-	Combined Record	120	-	-	Medium density dwelling	$352,000	0.68
+2011	291342	25 Hansen Circuit	04/03/2011	10/05/2011	-	$510,000	682m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	291714	11/28 Ringrose Crescent	24/02/2011	03/05/2011	-	$490,000	19263m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	278453	11/28 Ringrose Crescent	11/02/2011	-	11/01/2011	$490,000	19263m	Full transfer	3	1	1	1	-	$490,000	31	-	Allhomes Record	-	-	-	-	$5,650,000	11.53
+2011	287462	            8/2 Gladman Close	28/02/2011	29/03/2011	-	$425,000	6093m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	278822	8/2 Adkinson Close	28/02/2011	-	27/01/2011	$425,000	6093m	Full transfer	2	1	-	1	-	$425,000	32	-	Allhomes Record	-	-	-	-	$1,553,000	3.65
+2011	342118	            6/2 Walton Street	29/09/2011	13/10/2011	-	$350,000	12436m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	355061	40 Julia Flynn Avenue	08/08/2011	09/01/2012	-	$0	747m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	348112	            4/12 Reddall Close	19/07/2011	31/10/2011	-	$0	1906m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	353762	7/70 William Wilkins Crescent	18/10/2011	20/01/2012	-	$0	5689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	384599	            9/2 Walton Street	30/12/2011	07/05/2012	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	418426	6 Rowntree Crescent	06/12/2011	10/01/2014	-	$0	834m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2011	355058	21/3 Hansen Circuit	30/08/2011	13/01/2012	-	$0	15808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	374000	            3/2 Gladman Close	20/10/2011	20/06/2012	-	$0	6093m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	347145	27 Hansen Circuit	25/07/2011	08/11/2011	-	$0	665m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	368535	10 Rule Street	31/03/2011	21/03/2012	-	$0	646m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	336271	16 Gratton Place	28/03/2011	18/08/2011	-	-	592m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2011	336384	7/52 Hansen Circuit	20/06/2011	08/08/2011	-	-	15572m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336385	28/28 Ringrose Crescent	25/05/2011	14/08/2011	-	-	19263m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2011	336154	            9/41 Alexander Mackie Circuit	06/08/2011	29/08/2011	-	-	11956m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	381081	45 Julia Flynn Avenue	21/08/2012	02/10/2012	20/06/2012	$1,000,000	1725m	Full transfer	6	2	1	3	-	$1,000,000	62	-	Combined Record	509	-	-	Single residential dwelling	$539,000	0.54
+2012	376526	48 Ngunawal Drive	17/04/2012	09/08/2012	23/02/2012	$937,500	1168m	Full transfer	5	2	1	3	-	$937,500	54	-	Combined Record	-	-	-	Single residential dwelling	$596,000	0.64
+2012	375464	43 Shepherdson Place	23/08/2012	-	06/06/2012	$930,000	1272m	Full transfer	5	3	1	4	-	$930,000	78	-	Allhomes Record	-	-	-	-	$532,000	0.57
+2012	376238	7 Reddall Close	22/05/2012	17/07/2012	12/04/2012	$847,000	1033m	Full transfer	5	2	2	2	-	$847,000	40	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.58
+2012	376524	125 Julia Flynn Avenue	30/06/2012	07/08/2012	07/06/2012	$818,000	1003m	Full transfer	4	1	1	2	-	$818,000	23	-	Combined Record	-	-	-	Single residential dwelling	$484,000	0.59
+2012	369612	37 Rowntree Crescent	05/06/2012	-	25/03/2011	$785,000	977m	Full transfer	4	2	1	2	-	$785,000	438	-	Allhomes Record	-	-	-	-	$435,000	0.55
+2012	373708	5 Whitty Crescent	27/04/2012	14/06/2012	14/02/2012	$775,000	855m	Full transfer	4	1	1	2	-	$775,000	73	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.63
+2012	372527	17 Alexander Mackie Circuit	22/06/2012	-	30/04/2012	$770,000	1052m	Full transfer	4	1	1	2	-	$770,000	53	-	Allhomes Record	213	-	-	-	$456,000	0.59
+2012	376600	12 Buntine Crescent	05/05/2012	23/07/2012	-	$765,000	987m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392513	41 William Wilkins Crescent	18/12/2012	20/02/2013	29/08/2012	$760,000	867m	Full transfer	3	1	1	2	-	$760,000	111	-	Combined Record	254	-	-	Single residential dwelling	$490,000	0.64
+2012	370735	39 Hansen Circuit	16/03/2012	30/04/2012	01/03/2012	$750,000	539m	Full transfer	3	1	1	2	-	$750,000	15	-	Combined Record	-	-	-	Medium density dwelling	$342,000	0.46
+2012	385877	35 Shepherdson Place	03/11/2012	11/12/2012	11/10/2012	$725,000	1145m	Full transfer	4	1	1	1	1	$725,000	23	-	Combined Record	-	-	-	Residential	$484,000	0.67
+2012	371731	7/52 Hansen Circuit	17/03/2012	25/05/2012	15/02/2012	$715,000	15572m	Full transfer	4	1	1	2	-	$715,000	31	-	Combined Record	-	-	-	Multiple unit dwelling	$3,827,000	5.35
+2012	376863	7/52 Hansen Circuit	26/06/2012	03/08/2012	06/06/2012	$710,000	15572m	Full transfer	4	1	1	2	-	$710,000	20	-	Combined Record	-	-	-	Multiple unit dwelling	$3,827,000	5.39
+2012	374469	43 MacLagan Street	07/05/2012	28/06/2012	12/04/2012	$695,000	872m	Full transfer	4	1	1	2	-	$695,000	25	-	Combined Record	-	-	-	Single residential dwelling	$328,000	0.47
+2012	370003	10 William Wilkins Crescent	21/02/2012	28/03/2012	17/11/2011	$640,000	695m	Full transfer	3	1	1	2	-	$640,000	96	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.56
+2012	387196	5/23 Shepherdson Place	05/11/2012	18/12/2012	27/09/2012	$632,000	6454m	Full transfer	4	1	1	2	-	$632,000	39	-	Combined Record	171	-	-	Multiple unit dwelling	$1,499,000	2.37
+2012	393868	33 Walton Street	22/09/2012	25/03/2013	30/08/2012	$630,000	817m	Full transfer	4	1	1	2	-	$630,000	23	-	Combined Record	-	-	-	Single residential dwelling	$456,000	0.72
+2012	376603	15 Gladman Close	01/06/2012	26/07/2012	19/03/2012	$605,000	727m	Full transfer	4	1	1	2	-	$605,000	74	-	Combined Record	-	-	-	Single residential dwelling	$417,000	0.69
+2012	374467	2 Leeper Place	19/04/2012	26/06/2012	23/02/2012	$579,000	568m	Full transfer	3	1	1	2	-	$579,000	56	-	Combined Record	-	-	-	Medium density dwelling	$380,000	0.66
+2012	365676	11 Rule Street	16/01/2012	22/02/2012	-	$560,000	368m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	350835	2 Kane Place	16/01/2012	-	07/12/2011	$560,000	368m	Full transfer	3	1	1	2	-	$560,000	40	-	Allhomes Record	-	-	-	-	$352,000	0.63
+2012	379871	9/92 Julia Flynn Avenue	01/06/2012	12/09/2012	27/04/2012	$560,000	4631m	Full transfer	3	1	1	2	-	$560,000	35	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2012	367123	4 Gladman Close	21/05/2012	-	30/04/2012	$510,000	-	Full transfer	3	1	1	2	-	$510,000	21	-	Allhomes Record	-	-	-	-	$1,949,000	3.82
+2012	365326	2/3 Shepherdson Place	03/02/2012	08/03/2012	02/11/2011	$509,000	16449m	Full transfer	3	1	1	2	-	$509,000	93	-	Combined Record	-	-	-	Multiple unit dwelling	$4,169,000	8.19
+2012	376601	12/92 Julia Flynn Avenue	13/06/2012	26/07/2012	05/04/2012	$462,000	4631m	Full transfer	3	1	1	2	-	$462,000	69	-	Combined Record	-	-	-	Multiple unit dwelling	$2,445,000	5.29
+2012	376865	33 Rule Street	04/07/2012	02/08/2012	-	$445,000	409m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	373998	21/28 Ringrose Crescent	29/05/2012	21/06/2012	07/05/2012	$442,000	19263m	Full transfer	3	1	1	1	-	$442,000	22	-	Combined Record	106	-	-	Multiple unit dwelling	$7,088,000	16.04
+2012	373997	5/2 Farr Place	22/03/2012	21/06/2012	-	$300,000	350m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office	-	-
+2012	366004	            8/2 Gladman Close	17/01/2012	01/03/2012	-	$0	6093m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	392322	38 Julia Flynn Avenue	08/10/2012	14/03/2013	-	$0	741m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	392512	33 Walton Street	28/06/2012	20/02/2013	-	$0	817m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	397316	8 Venables Place	28/10/2012	10/05/2013	-	$0	1272m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	395317	37 Shepherdson Place	29/11/2012	19/04/2013	-	$0	1341m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Residential	-	-
+2012	380879	21 Ringrose Crescent	09/07/2012	27/09/2012	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2012	410406	13/52 Hansen Circuit	16/03/2012	12/09/2013	-	$0	15572m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	406944	16 Hansen Circuit	05/12/2012	13/08/2013	-	$0	1244m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	373285	37 Rowntree Crescent	27/04/2012	21/05/2012	-	$0	977m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2012	533957	            9/2 Gladman Close	21/09/2012	30/05/2018	-	$0	6093m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2012	383368	49 Julia Flynn Avenue	29/09/2012	12/11/2012	15/08/2012	$0	945m	Full transfer	4	1	2	-	2	$0	45	-	Combined Record	-	-	-	Single residential dwelling	$515,000	16.04
+2013	420060	42 Rowntree Crescent	29/11/2013	04/02/2014	-	$1,000,000	989m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	411791	141 Julia Flynn Avenue	24/08/2013	24/10/2013	17/07/2013	$951,000	1218m	Full transfer	4	1	1	2	-	$951,000	38	-	Combined Record	-	-	-	Single residential dwelling	$544,000	0.57
+2013	404181	65 Julia Flynn Avenue	22/04/2013	02/07/2013	07/03/2013	$940,000	822m	Full transfer	4	1	1	2	-	$940,000	46	-	Combined Record	-	-	-	Single residential dwelling	$441,000	0.47
+2013	399925	1 Seitz Place	19/03/2013	22/05/2013	31/01/2013	$890,000	1028m	Full transfer	4	1	1	2	-	$890,000	47	-	Combined Record	-	-	-	Single residential dwelling	$490,000	0.55
+2013	414464	11 Whitty Crescent	03/09/2013	27/11/2013	-	$865,000	930m	Full transfer	-	-	-	-	-	$865,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	391726	64 William Wilkins Crescent	17/01/2013	01/03/2013	18/01/2013	$860,000	770m	Full transfer	6	2	1	2	-	$860,000	-	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.47
+2013	397963	37 Shepherdson Place	08/04/2013	15/05/2013	11/02/2013	$840,000	1341m	Full transfer	4	2	-	2	-	$840,000	56	-	Combined Record	220	-	-	Residential	$526,000	0.63
+2013	415571	4 Bromby Street	18/10/2013	12/12/2013	15/05/2013	$830,000	991m	Full transfer	4	2	1	2	-	$830,000	156	-	Combined Record	-	-	-	Single residential dwelling	$410,000	0.49
+2013	407874	29 Walton Street	18/06/2013	27/08/2013	-	$800,000	734m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	421279	26 Whitty Crescent	06/09/2013	27/02/2014	25/06/2013	$785,000	704m	Full transfer	6	1	1	2	-	$785,000	73	-	Combined Record	-	-	-	Single residential dwelling	$539,000	0.69
+2013	421570	4 Treacy Place	21/09/2013	18/02/2014	07/08/2013	$785,000	904m	Full transfer	4	1	1	2	-	$785,000	45	-	Combined Record	-	-	-	Single residential dwelling	$450,000	0.57
+2013	420061	43 Julia Flynn Avenue	20/12/2013	05/02/2014	-	$780,000	1484m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413286	31 Shepherdson Place	27/09/2013	07/11/2013	12/09/2013	$765,000	1251m	Full transfer	4	1	1	2	0	$765,000	15	-	Combined Record	-	-	-	Residential	$445,000	0.58
+2013	414039	23 Adkinson Close	17/09/2013	21/11/2013	14/08/2013	$750,000	984m	Full transfer	4	1	1	2	-	$750,000	34	-	Combined Record	198	-	-	Single residential dwelling	$413,000	0.55
+2013	390487	34 Rowntree Crescent	13/03/2013	-	06/09/2012	$730,000	863m	Full transfer	4	1	1	2	1	$730,000	188	-	Allhomes Record	-	-	-	-	$418,000	0.57
+2013	394144	26 Hansen Circuit	16/02/2013	04/04/2013	17/01/2013	$720,000	851m	Full transfer	4	1	1	2	-	$720,000	30	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.57
+2013	402032	38 William Wilkins Crescent	23/07/2013	-	13/03/2013	$720,000	842m	Full transfer	5	1	1	2	-	$720,000	132	-	Allhomes Record	-	-	-	-	$465,000	0.65
+2013	492215	38 William Wilkins Cres	24/07/2013	-	24/12/2016	$720,000	0m	Full transfer	5	2	1	2	0	$720,000	-	-	Allhomes Record	-	-	-	-	$465,000	0.65
+2013	411793	6 Bridges Place	05/09/2013	24/10/2013	30/08/2013	$715,000	724m	Full transfer	4	2	1	2	-	$715,000	6	-	Combined Record	-	-	-	Single residential dwelling	$402,000	0.56
+2013	423208	28 Shepherdson Place	07/11/2013	18/03/2014	11/02/2014	$710,000	1111m	Full transfer	4	2	1	2	0	$710,000	-	-	Combined Record	-	-	-	Residential	$485,000	0.68
+2013	405040	42 Julia Flynn Avenue	14/06/2013	31/07/2013	-	$693,000	820m	Full transfer	-	-	-	-	-	$693,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	388921	9/60 Hansen Circuit	15/02/2013	-	23/01/2013	$688,000	15808m	Full transfer	4	1	1	2	-	$688,000	23	-	Allhomes Record	-	-	-	-	$4,528,000	6.58
+2013	394925	            9/3 Hansen Circuit	15/02/2013	11/04/2013	-	$680,000	15808m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	414461	25 Hansen Circuit	21/10/2013	27/11/2013	26/09/2013	$678,000	682m	Full transfer	4	1	1	2	-	$678,000	25	-	Combined Record	-	-	-	Medium density dwelling	$360,000	0.53
+2013	415139	21/3 Hansen Circuit	21/09/2013	02/12/2013	-	$661,000	15808m	Full transfer	-	-	-	-	-	$661,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	418578	6 Byatt Place	09/12/2013	30/01/2014	14/11/2013	$630,000	1259m	Full transfer	4	1	1	2	-	$630,000	25	-	Combined Record	-	-	-	Single residential dwelling	$432,000	0.69
+2013	417760	            8/41 Alexander Mackie Circuit	23/11/2013	16/01/2014	-	$625,000	11956m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	394146	15 Ringrose Crescent	07/02/2013	03/04/2013	23/01/2013	$605,000	450m	Full transfer	4	1	1	2	-	$605,000	15	-	Combined Record	-	-	-	Medium density dwelling	$356,000	0.59
+2013	406945	6 Boehm Close	27/06/2013	13/08/2013	-	$600,000	637m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	394926	27 Ringrose Crescent	18/02/2013	12/04/2013	17/01/2013	$590,000	455m	Full transfer	3	1	1	2	-	$590,000	32	-	Combined Record	-	-	-	Medium density dwelling	$356,000	0.6
+2013	405232	27 Rule Street	13/06/2013	26/07/2013	12/03/2013	$535,000	309m	Full transfer	3	1	1	2	-	$535,000	93	-	Combined Record	-	-	-	Medium density dwelling	$373,000	0.7
+2013	395318	6/92 Julia Flynn Avenue	07/02/2013	18/04/2013	12/10/2012	$508,000	4631m	Full transfer	3	2	-	2	0	$508,000	118	-	Combined Record	-	-	-	Multiple unit dwelling	$2,445,000	4.81
+2013	404319	5 Boehm Close	05/06/2013	15/07/2013	22/02/2013	$500,000	466m	Full transfer	3	1	-	-	1	$500,000	103	-	Combined Record	-	-	-	Medium density dwelling	$350,000	0.7
+2013	400890	6 Adey Place	30/04/2013	06/06/2013	-	$485,000	513m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	416492	3/28 Ringrose Crescent	18/10/2013	17/12/2013	24/07/2013	$465,000	19263m	Full transfer	3	1	1	1	-	$465,000	86	-	Combined Record	-	-	-	Multiple unit dwelling	$7,088,000	15.24
+2013	394928	20/28 Ringrose Crescent	22/02/2013	10/04/2013	29/10/2012	$455,000	19263m	Full transfer	3	1	1	1	-	$455,000	116	-	Combined Record	106	-	-	Multiple unit dwelling	$7,088,000	15.58
+2013	405234	19 Julia Flynn Avenue	29/05/2013	23/07/2013	08/11/2012	$453,000	330m	Full transfer	2	1	-	1	-	$453,000	202	-	Combined Record	104	-	-	Medium density dwelling	$349,000	0.77
+2013	416496	            7/2 Gladman Close	09/11/2013	16/12/2013	-	$444,000	6093m	Full transfer	-	-	-	-	-	$444,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	412041	"            7/2 ""Pine Vale"" Adkinson Close"	09/11/2013	-	17/10/2013	$444,000	-	Full transfer	2	1	0	1	0	$444,000	23	-	Allhomes Record	-	-	-	-	-	-
+2013	405947	9/2 Adkinson Close	30/08/2013	-	31/07/2013	$442,000	-	Full transfer	2	1	-	1	-	$442,000	30	-	Allhomes Record	-	-	-	-	-	-
+2013	533949	            9/2 Gladman Close	30/08/2013	30/05/2018	-	$442,000	6093m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2013	416494	27/28 Ringrose Crescent	24/10/2013	17/12/2013	11/07/2013	$420,000	19263m	Full transfer	3	1	1	1	-	$420,000	105	-	Combined Record	-	-	-	Multiple unit dwelling	$7,088,000	16.88
+2013	391725	2/2 Farr Place	09/01/2013	27/02/2013	-	$400,000	350m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Office	-	-
+2013	421057	38 Walton Street	07/06/2013	12/03/2014	-	$0	936m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413289	3 Gladman Close	15/08/2013	05/11/2013	-	$0	710m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	424224	5 Rosson Place	20/11/2013	14/04/2014	-	$0	582m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	400888	5 Rule Street	18/04/2013	06/06/2013	-	$0	658m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	421060	7 Gratton Place	08/12/2013	12/03/2014	-	$0	543m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	400889	8 Venables Place	01/03/2013	05/06/2013	-	$0	1272m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	413288	25 Ringrose Crescent	01/07/2013	07/11/2013	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	416491	6 Davitt Close	10/08/2013	17/12/2013	-	$0	443m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	432951	6 Whinham Place	08/09/2013	12/08/2014	-	$0	396m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2013	406946	25 William Wilkins Crescent	29/01/2013	13/08/2013	-	$0	820m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	400666	29 Rowntree Crescent	26/03/2013	27/05/2013	-	$0	1105m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	410998	12 Whitty Crescent	15/07/2013	19/09/2013	-	$0	776m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2013	415140	            13/41 Alexander Mackie Circuit	24/02/2013	02/12/2013	-	$0	11956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432435	6 Farr Place	14/05/2014	06/08/2014	-	$1,640,000	1497m	Full transfer	-	-	-	-	-	$1,640,000	-	-	Government Record	-	-	-	Office	-	-
+2014	440534	2 Story Place	12/12/2014	-	05/06/2013	$1,320,000	1033m	Full transfer	5	1	3	3	-	$1,320,000	555	-	Allhomes Record	-	-	-	-	$611,000	0.46
+2014	445054	21 Whitty Crescent	12/12/2014	03/02/2015	-	$1,320,000	1033m	Full transfer	-	-	-	-	-	$1,320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	445055	9 Story Place	08/12/2014	06/02/2015	-	$1,250,000	1156m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	428019	29 Whitty Crescent	12/04/2014	22/05/2014	06/03/2014	$1,098,000	1109m	Full transfer	5	4	-	3	-	$1,098,000	37	-	Combined Record	-	-	-	Single residential dwelling...	$654,000	0.6
+2014	451023	7 Huffer Close	29/11/2014	30/04/2015	05/11/2014	$951,000	1088m	Full transfer	5	2	1	2	1	$951,000	24	-	Combined Record	-	-	-	Single residential dwelling	$583,000	0.61
+2014	441227	28 Whitty Crescent	27/09/2014	05/12/2014	03/09/2014	$930,000	719m	Full transfer	4	2	1	2	0	$930,000	24	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.56
+2014	443435	6 MacLagan Street	03/12/2014	15/01/2015	30/10/2014	$880,000	938m	Full transfer	4	1	1	2	-	$880,000	34	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.49
+2014	445050	60 Julia Flynn Avenue	26/07/2014	02/02/2015	24/06/2014	$870,000	841m	Full transfer	4	2	1	2	-	$870,000	32	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.51
+2014	427588	2 Coburn Place	24/02/2014	29/04/2014	14/11/2013	$856,000	1164m	Full transfer	5	2	1	2	0	$856,000	102	-	Combined Record	-	-	-	Single residential dwelling	$552,000	0.64
+2014	429001	12 Whitty Crescent	03/05/2014	12/06/2014	02/04/2014	$855,000	776m	Full transfer	5	1	1	2	-	$855,000	31	-	Combined Record	-	-	-	Single residential dwelling	$501,000	0.59
+2014	426447	28 Rowntree Crescent	04/03/2014	05/05/2014	-	$830,000	919m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	443752	29 Rowntree Crescent	19/11/2014	19/01/2015	29/10/2014	$817,000	1105m	Full transfer	4	1	1	2	0	$817,000	21	-	Combined Record	-	-	-	Single residential dwelling	$599,000	0.73
+2014	446745	1/1 Coburn Place	06/12/2014	12/02/2015	-	$815,000	3663m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	439899	1 Coburn Place	06/12/2014	-	12/11/2014	$815,000	3663m	Full transfer	3	1	1	2	0	$815,000	24	-	Allhomes Record	-	-	-	-	$1,242,000	1.52
+2014	440105	3 Story Place	29/10/2014	24/11/2014	-	$800,000	919m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	427115	19 Shepherdson Place	25/03/2014	12/05/2014	05/03/2014	$800,000	994m	Full transfer	4	1	1	2	-	$800,000	20	-	Combined Record	-	-	-	Single residential dwelling	$436,000	0.55
+2014	438339	10/52 Hansen Circuit	20/11/2014	-	04/11/2014	$760,000	15572m	Full transfer	4	1	1	2	-	$760,000	16	-	Allhomes Record	-	-	-	-	$4,018,000	5.29
+2014	445048	7 Walton Street	03/12/2014	06/02/2015	12/11/2014	$735,000	615m	Full transfer	4	1	1	2	0	$735,000	21	-	Combined Record	-	-	-	Medium density dwelling	$392,000	0.53
+2014	443437	38 William Wilkins Crescent	24/12/2014	13/01/2015	-	$720,000	842m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	435269	12/110 Julia Flynn Avenue	11/10/2014	-	18/09/2014	$715,000	-	Full transfer	3	1	1	2	0	$715,000	23	-	Allhomes Record	-	-	-	-	-	-
+2014	441614	            12/2 Walton Street	11/10/2014	10/12/2014	-	$715,000	12436m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427590	13 Adkinson Close	15/03/2014	01/05/2014	17/02/2014	$695,000	764m	Full transfer	4	1	1	2	-	$695,000	26	-	Combined Record	-	-	-	Single residential dwelling	$397,000	0.57
+2014	430615	7 Bridges Place	29/05/2014	03/07/2014	11/04/2014	$670,000	815m	Full transfer	3	1	1	2	-	$670,000	48	-	Combined Record	-	-	-	Single residential dwelling	$453,000	0.68
+2014	439506	5/23 Shepherdson Place	13/09/2014	13/11/2014	-	$652,500	6454m	Full transfer	-	-	-	-	-	$652,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	449304	23 Hansen Circuit	15/12/2014	01/04/2015	26/11/2014	$650,000	591m	Full transfer	3	1	1	2	-	$650,000	19	-	Combined Record	-	-	-	Medium density dwelling	$340,000	0.52
+2014	424560	58 Julia Flynn Avenue	27/02/2014	02/04/2014	05/02/2014	$635,000	795m	Full transfer	4	1	1	2	-	$635,000	22	-	Combined Record	-	-	-	Single residential dwelling	$429,000	0.68
+2014	447198	            1/7 Bee Place	22/12/2014	25/02/2015	-	$625,000	2816m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440855	11 Bee Place	22/12/2014	-	16/10/2014	$625,000	479m	Full transfer	3	2	-	2	0	$625,000	67	-	Allhomes Record	-	-	-	-	$1,833,000	2.93
+2014	434339	            7/41 Alexander Mackie Circuit	02/05/2014	03/09/2014	-	$620,000	11956m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432949	1/3 Hansen Circuit	23/06/2014	13/08/2014	01/05/2014	$618,000	15808m	Full transfer	4	1	1	2	0	$618,000	53	-	Combined Record	-	-	-	Multiple unit dwelling	$229,618	0.37
+2014	445052	15 Gladman Close	10/12/2014	02/02/2015	17/11/2014	$612,000	727m	Full transfer	4	1	1	2	-	$612,000	23	-	Combined Record	-	-	-	Single residential dwelling	$404,000	0.66
+2014	432672	9/102 Julia Flynn Avenue	23/08/2014	-	24/07/2014	$610,000	-	Full transfer	3	1	1	2	-	$610,000	30	-	Allhomes Record	-	-	-	-	-	-
+2014	438111	            9/2 Walton Street	23/08/2014	15/10/2014	-	$610,000	12436m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	427113	19 Hansen Circuit	22/02/2014	12/05/2014	29/01/2014	$600,000	674m	Full transfer	3	1	1	2	-	$600,000	24	-	Combined Record	-	-	-	Medium density dwelling	$349,000	0.58
+2014	428018	41 Buntine Crescent	02/04/2014	22/05/2014	-	$575,000	1095m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	423206	4 Davitt Close	08/02/2014	20/03/2014	13/01/2014	$555,000	447m	Full transfer	3	1	1	2	-	$555,000	26	-	Combined Record	-	-	-	Medium density dwelling	$331,000	0.6
+2014	440301	7 Gratton Place	16/10/2014	20/11/2014	15/08/2014	$525,000	543m	Full transfer	3	1	-	0	1	$525,000	62	-	Combined Record	-	-	-	Medium density dwelling	$357,000	0.68
+2014	434337	6 Davitt Close	05/07/2014	02/09/2014	19/05/2014	$518,000	443m	Full transfer	3	1	1	2	-	$518,000	47	-	Combined Record	-	-	-	Medium density dwelling	$328,000	0.63
+2014	436132	5 Dettmann Close	05/08/2014	22/09/2014	21/03/2014	$517,000	500m	Full transfer	3	1	-	-	1	$517,000	137	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.7
+2014	442163	2/14A Hansen Circuit	08/11/2014	18/12/2014	-	$510,000	1108m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	437283	14A Hansen Circuit	08/11/2014	-	15/10/2014	$510,000	1108m	Full transfer	3	1	0	2	0	$510,000	24	-	Allhomes Record	-	-	-	-	$489,000	0.96
+2014	421058	10/92 Julia Flynn Avenue	05/02/2014	14/03/2014	29/10/2013	$490,000	4631m	Full transfer	3	1	1	2	-	$490,000	99	-	Combined Record	-	-	-	Multiple unit dwelling	$2,567,000	5.24
+2014	446748	14 Gratton Place	19/12/2014	13/02/2015	-	$487,000	375m	Full transfer	-	-	-	-	-	$487,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	422781	7 Satchell Place	20/02/2014	25/03/2014	22/01/2014	$475,000	421m	Full transfer	3	1	0	-	1	$475,000	29	-	Combined Record	-	-	-	Medium density dwelling	$354,000	0.75
+2014	431544	39/28 Ringrose Crescent	17/06/2014	24/07/2014	25/02/2014	$455,000	19263m	Full transfer	3	1	1	1	-	$455,000	112	-	Combined Record	-	-	-	Multiple unit dwelling	$7,442,000	16.36
+2014	446353	            5/2 Gladman Close	17/12/2014	18/02/2015	-	$451,000	6093m	Full transfer	-	-	-	-	-	$451,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	440803	5/2 Adkinson Close	17/12/2014	-	10/10/2014	$451,000	6093m	Full transfer	2	1	-	1	-	$451,000	68	-	Allhomes Record	-	-	-	-	$2,046,000	4.54
+2014	427117	5/28 Ringrose Crescent	03/04/2014	12/05/2014	06/01/2014	$435,000	19263m	Full transfer	3	1	1	1	-	$435,000	87	-	Combined Record	-	-	-	Multiple unit dwelling	$7,442,000	17.11
+2014	428547	19/28 Ringrose Crescent	30/04/2014	05/06/2014	23/04/2013	$420,000	19263m	Full transfer	3	2	-	1	0	$420,000	372	-	Combined Record	-	-	-	Multiple unit dwelling	$7,442,000	17.72
+2014	435656	16 Davitt Close	23/06/2014	19/09/2014	-	$380,000	483m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	424297	21 Ringrose Crescent	07/02/2014	09/04/2014	-	$348,333	450m	Full transfer	-	-	-	-	-	$348,333	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	424459	19 Shepherdson Place	19/01/2014	23/04/2014	-	$0	994m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	446749	22 Ellwood Crescent	18/12/2014	09/02/2015	-	$0	602m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	424562	1/1 Hoy Place	07/02/2014	01/04/2014	-	$0	3409m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	442162	2/3 Hansen Circuit	01/10/2014	19/12/2014	-	$0	15808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	432434	30 Rowntree Crescent	28/06/2014	07/08/2014	-	$0	877m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442426	5 Muecke Place	15/09/2014	02/01/2015	-	$0	1105m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	442287	11/52 Hansen Circuit	08/09/2014	23/12/2014	-	$0	15572m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	426446	21 Hansen Circuit	03/03/2014	07/05/2014	-	$0	680m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	434340	            7/41 Alexander Mackie Circuit	19/04/2014	03/09/2014	-	$0	11956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	436131	            15/2 Walton Street	04/08/2014	23/09/2014	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	439502	3 Walton Street	29/09/2014	12/11/2014	-	$0	544m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	442164	5B Buntine Crescent	04/11/2014	21/12/2014	-	$0	458m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	439503	3 Rosson Place	08/10/2014	14/11/2014	29/08/2014	$0	542m	Full transfer	4	1	1	2	0	$0	40	-	Combined Record	-	-	-	Medium density dwelling	$349,000	17.72
+2014	446746	50 Julia Flynn Avenue	11/09/2014	10/02/2015	-	$0	847m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	440303	22/28 Ringrose Crescent	10/10/2014	18/11/2014	-	$0	19263m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2014	422780	12 Walton Street	18/02/2014	27/03/2014	-	$0	445m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	529406	5 Walton Street	08/11/2014	05/04/2018	-	$0	612m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	428546	10 Davitt Close	13/03/2014	03/06/2014	-	$0	557m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2014	428549	7 Bridges Place	22/04/2014	04/06/2014	-	$0	815m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2014	436602	7 Gratton Place	17/06/2014	30/09/2014	-	$0	543m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	472300	4 Rowntree Crescent	07/11/2015	23/02/2016	06/10/2015	$1,400,000	900m	Full transfer	4	2	1	3	-	$1,400,000	32	-	Combined Record	283	-	-	Single residential dwelling	$436,000	0.31
+2015	457315	7 Kaeppel Place	21/03/2015	02/07/2015	22/07/2015	$1,360,000	1086m	Full transfer	4	3	1	2	0	$1,360,000	-	-	Combined Record	-	-	-	Single residential dwelling	$580,000	0.43
+2015	457006	11 Muecke Place	02/05/2015	22/06/2015	08/04/2015	$1,320,000	954m	Full transfer	4	1	1	3	-	$1,320,000	24	-	Combined Record	-	-	-	Single residential dwelling	$591,000	0.45
+2015	457317	16 Whitty Crescent	28/02/2015	29/06/2015	05/02/2015	$1,210,000	1113m	Full transfer	4	1	3	2	2	$1,210,000	23	-	Combined Record	-	-	-	Single residential dwelling	$545,000	0.45
+2015	465715	5 William Wilkins Crescent	10/07/2015	11/11/2015	04/11/2014	$1,150,000	1079m	Full transfer	4	2	2	2	-	$1,150,000	248	-	Combined Record	-	-	-	Single residential dwelling	$401,000	0.35
+2015	453626	9 Huffer Close	13/06/2015	-	18/05/2015	$1,100,000	982m	Full transfer	5	2	1	2	1	$1,100,000	26	-	Allhomes Record	-	-	-	-	$583,000	0.53
+2015	462322	4 Kaeppel Place	15/10/2015	-	13/08/2015	$1,100,000	1107m	Full transfer	4	3	-	2	0	$1,100,000	63	-	Allhomes Record	-	-	-	-	$416,000	0.38
+2015	458698	6 Hoy Place	22/08/2015	-	30/07/2015	$1,050,000	3197m	Full transfer	4	1	1	2	0	$1,050,000	23	-	Allhomes Record	-	-	-	-	-	-
+2015	463512	            4/1 Hoy Place	22/08/2015	14/10/2015	-	$1,050,000	3409m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	469274	6 Buntine Crescent	29/09/2015	14/01/2016	23/09/2015	$990,000	1027m	Full transfer	4	1	1	2	-	$990,000	6	-	Combined Record	218	-	-	Single residential dwelling	$436,000	0.44
+2015	471305	31 Shepherdson Place	16/12/2015	17/02/2016	19/11/2015	$930,000	1251m	Full transfer	4	1	1	2	-	$930,000	27	-	Combined Record	-	-	-	Residential	$431,000	0.46
+2015	453788	40 Shepherdson Place	18/06/2015	-	08/05/2015	$920,000	1215m	Full transfer	4	2	-	4	0	$920,000	41	-	Allhomes Record	-	-	-	-	$480,000	0.52
+2015	471315	40 Shepherdson Place	16/06/2015	17/02/2016	08/09/2015	$920,000	1215m	Full transfer	4	2	-	4	0	$920,000	-	-	Combined Record	-	-	-	Residential	$480,000	0.52
+2015	468681	37 Shepherdson Place	16/10/2015	04/01/2016	23/09/2015	$915,000	1341m	Full transfer	4	2	-	2	0	$915,000	23	-	Combined Record	-	-	-	Residential	$510,000	0.56
+2015	473780	5 Treacy Place	05/11/2015	22/03/2016	09/11/2015	$851,000	856m	Full transfer	4	1	1	2	0	$851,000	-	-	Combined Record	-	-	-	Single residential dwelling	$460,000	0.54
+2015	464443	9/60 Hansen Circ	05/11/2015	-	14/10/2015	$850,000	0m	Full transfer	4	2	-	2	-	$850,000	22	-	Allhomes Record	-	-	-	-	$4,754,000	5.59
+2015	473063	            9/3 Hansen Circuit	05/11/2015	02/03/2016	-	$850,000	15808m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	465120	19 William Wilkins Crescent	12/09/2015	29/10/2015	18/08/2015	$845,000	791m	Full transfer	4	2	1	2	1	$845,000	25	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.5
+2015	466346	11 Gladman Close	15/09/2015	16/11/2015	24/07/2015	$820,000	791m	Full transfer	4	1	1	-	2	$820,000	53	-	Combined Record	-	-	-	Single residential dwelling	$422,000	0.51
+2015	448731	31 William Wilkins Crescent	03/02/2015	24/03/2015	-	$810,000	972m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	470727	19 Alexander Mackie Circuit	31/10/2015	09/02/2016	21/09/2015	$780,000	962m	Full transfer	4	1	1	2	-	$780,000	40	-	Combined Record	227	-	-	Single residential dwelling	$418,000	0.54
+2015	469283	36 Julia Flynn Avenue	19/09/2015	14/01/2016	10/09/2015	$772,500	936m	Full transfer	4	2	-	2	0	$772,500	9	-	Combined Record	-	-	-	Single residential dwelling	$475,000	0.61
+2015	466687	23 Adkinson Close	08/09/2015	24/11/2015	-	$771,000	984m	Full transfer	-	-	-	-	-	$771,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	464455	23 Adkinson Close	13/11/2015	-	19/06/2015	$771,000	984m	Full transfer	4	1	1	2	-	$771,000	147	-	Allhomes Record	199	-	-	-	$409,000	0.53
+2015	469271	29 Shepherdson Place	08/10/2015	14/01/2016	01/09/2015	$755,000	929m	Full transfer	4	1	1	2	-	$755,000	37	-	Combined Record	-	-	-	Residential	$422,000	0.56
+2015	461942	42 Julia Flynn Avenue	13/10/2015	-	24/09/2015	$735,000	820m	Full transfer	4	2	-	2	-	$735,000	19	-	Allhomes Record	-	-	-	-	$454,000	0.62
+2015	465320	22 Alexander Mackie Circuit	07/09/2015	04/11/2015	01/09/2015	$725,000	660m	Full transfer	4	1	1	0	2	$725,000	6	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.58
+2015	451402	2 Rule Street	05/03/2015	23/04/2015	02/02/2015	$720,000	786m	Full transfer	4	1	1	2	-	$720,000	31	-	Combined Record	-	-	-	Medium density dwelling	$380,000	0.53
+2015	466685	8 Leeper Place	10/10/2015	23/11/2015	10/09/2015	$671,000	542m	Full transfer	3	1	1	2	-	$671,000	30	-	Combined Record	155	-	-	Medium density dwelling	$368,000	0.55
+2015	470039	23 Hansen Circuit	02/12/2015	01/02/2016	20/10/2015	$670,000	591m	Full transfer	3	1	1	2	-	$670,000	43	-	Combined Record	-	-	-	Medium density dwelling	$340,000	0.51
+2015	469262	14 Walton Street	10/11/2015	14/01/2016	20/10/2015	$665,000	462m	Full transfer	3	2	-	2	0	$665,000	21	-	Combined Record	-	-	-	Medium density dwelling	$331,000	0.5
+2015	465119	            3/41 Alexander Mackie Circuit	28/08/2015	30/10/2015	-	$650,000	11956m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458815	3/51 Alexander Mackie Circuit	28/08/2015	-	27/07/2015	$650,000	-	Full transfer	3	1	1	2	-	$650,000	32	-	Allhomes Record	207	-	-	-	-	-
+2015	461907	2/3 Hansen Circuit	10/10/2015	-	08/09/2015	$632,500	-	Full transfer	3	1	1	2	-	$632,500	32	-	Allhomes Record	-	-	-	-	-	-
+2015	458940	10 Davitt Close	13/06/2015	07/08/2015	13/05/2015	$630,000	557m	Full transfer	4	1	1	2	0	$630,000	31	-	Combined Record	-	-	-	Medium density dwelling	$344,000	0.55
+2015	459800	45 Rule Street	25/06/2015	17/08/2015	08/06/2015	$620,000	429m	Full transfer	3	1	1	2	-	$620,000	17	-	Combined Record	172	-	-	Medium density dwelling	$374,000	0.6
+2015	458950	33 Rule Street	13/06/2015	04/08/2015	19/05/2015	$615,000	409m	Full transfer	3	2	-	2	-	$615,000	25	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.59
+2015	446910	8/102 Julia Flynn Avenue	13/03/2015	-	11/12/2014	$610,000	-	Full transfer	4	1	1	2	-	$610,000	92	-	Allhomes Record	-	-	-	-	-	-
+2015	452504	            8/2 Walton Street	13/03/2015	20/05/2015	-	$610,000	12436m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	472299	32 Rowntree Crescent	30/10/2015	25/02/2016	-	$600,000	953m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	452804	17 Walton Street	04/05/2015	12/05/2015	-	$600,000	722m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	455182	3/2 Walton Street	16/04/2015	17/06/2015	-	$550,000	12436m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	464801	27 Rule Street	07/09/2015	25/10/2015	03/08/2015	$535,000	309m	Full transfer	3	2	-	2	-	$535,000	35	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.67
+2015	470736	7/3 Shepherdson Place	20/11/2015	09/02/2016	07/10/2015	$530,000	16449m	Full transfer	3	2	-	1	1	$530,000	44	-	Combined Record	-	-	-	Multiple unit dwelling	$4,377,000	8.26
+2015	452800	16 Dettmann Close	26/03/2015	12/05/2015	20/01/2015	$512,000	450m	Full transfer	3	1	1	-	1	$512,000	65	-	Combined Record	-	-	-	Medium density dwelling	$362,000	0.71
+2015	466354	8/84 Julia Flynn Avenue	30/09/2015	19/11/2015	04/09/2015	$500,000	3669m	Full transfer	3	2	-	2	0	$500,000	26	-	Combined Record	-	-	-	Multiple unit dwelling	$2,235,000	4.47
+2015	466345	20/3 Shepherdson Place	25/09/2015	16/11/2015	-	$465,000	16449m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	463074	10/28 Ringrose Crescent	05/08/2015	08/10/2015	-	$450,000	19263m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	461489	2/28 Ringrose Crescent	23/07/2015	09/09/2015	11/06/2015	$435,000	19263m	Full transfer	3	2	-	1	-	$435,000	42	-	Combined Record	-	-	-	Multiple unit dwelling	$7,442,000	17.11
+2015	468153	3/2 Farr Place	02/10/2015	15/12/2015	-	$370,000	350m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Office	-	-
+2015	500929	10 Kaeppel Place	20/04/2015	29/03/2017	-	$0	866m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	458949	6/3 Shepherdson Place	02/05/2015	07/08/2015	-	$0	16449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	458454	            14/3 Hansen Circuit	16/06/2015	30/07/2015	-	$0	15808m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466353	13 Walton Street	26/08/2015	17/11/2015	-	$0	524m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	475302	14 Kaeppel Place	24/09/2015	15/04/2016	-	$0	774m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	463519	2 Taber Place	21/06/2015	12/10/2015	-	$0	935m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457005	2/4 Kilgour Place	02/04/2015	23/06/2015	-	$0	1356m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	466974	14 William Wilkins Crescent	24/03/2015	03/12/2015	-	$0	921m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	480025	41 William Wilkins Crescent	16/10/2015	21/06/2016	-	$0	867m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	466678	54 Julia Flynn Avenue	15/09/2015	27/11/2015	-	$0	840m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	468151	6/3 Shepherdson Place	07/09/2015	18/12/2015	-	$0	16449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2015	450295	24 Hansen Circuit	16/01/2015	16/04/2015	-	$0	1047m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	457417	10 Davitt Close	20/03/2015	09/07/2015	-	$0	557m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2015	466983	26 Shepherdson Place	22/06/2015	03/12/2015	-	$0	893m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2015	472840	2/3 Shepherdson Place	19/07/2015	07/03/2016	-	$0	16449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	486756	7 Corrigan Place	30/05/2016	12/09/2016	-	$1,320,000	978m	Full transfer	-	-	-	-	-	$1,320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	495977	10 Huffer Close	25/11/2016	24/01/2017	06/10/2016	$1,285,000	1424m	Full transfer	5	2	0	2	0	$1,285,000	50	-	Combined Record	-	-	-	Single residential dwelling	$644,000	0.5
+2016	521434	69 Julia Flynn Avenue	13/12/2016	19/12/2017	23/08/2016	$1,000,000	820m	Full transfer	5	2	1	2	1	$1,000,000	112	-	Combined Record	-	-	-	Single residential dwelling	$449,000	0.45
+2016	495965	19 Alexander Mackie Circuit	12/11/2016	24/01/2017	20/06/2016	$955,000	962m	Full transfer	4	2	-	2	0	$955,000	145	-	Combined Record	-	-	-	Single residential dwelling	$418,000	0.44
+2016	475954	7 Taplin Place	27/02/2016	18/04/2016	07/12/2015	$885,000	750m	Full transfer	5	1	2	2	-	$885,000	82	-	Combined Record	242	-	-	Single residential dwelling	$476,000	0.54
+2016	494086	3 Crook Place	15/10/2016	21/12/2016	22/08/2016	$880,000	733m	Full transfer	4	2	-	2	0	$880,000	54	-	Combined Record	-	-	-	Single residential dwelling	$465,000	0.53
+2016	493042	55 Rowntree Crescent	23/09/2016	09/12/2016	31/08/2016	$835,000	775m	Full transfer	4	1	1	2	-	$835,000	23	-	Combined Record	-	-	-	Single residential dwelling	$405,000	0.49
+2016	499617	11 William Wilkins Crescent	05/11/2016	08/03/2017	12/10/2016	$810,000	1089m	Full transfer	5	3	0	2	0	$810,000	24	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.55
+2016	486595	1 Walton Street	06/08/2016	15/09/2016	13/07/2016	$795,000	918m	Full transfer	4	1	1	2	-	$795,000	24	-	Combined Record	-	-	-	Single residential dwelling	$423,000	0.53
+2016	475952	7/52 Hansen Circuit	09/03/2016	18/04/2016	22/01/2016	$740,000	15572m	Full transfer	4	2	-	2	0	$740,000	47	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	484744	2 Alexander Mackie Circuit	06/07/2016	26/08/2016	16/05/2016	$722,000	1096m	Full transfer	4	1	1	2	-	$722,000	51	-	Combined Record	168	-	-	Single residential dwelling	$428,000	0.59
+2016	472573	28A Hansen Circuit	21/03/2016	-	14/09/2015	$720,000	602m	Full transfer	3	2	-	2	-	$720,000	189	-	Allhomes Record	-	-	-	-	$489,000	0.68
+2016	476602	1/28B Hansen Circuit	21/03/2016	27/04/2016	-	$720,000	1204m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	499882	11 Ringrose Crescent	12/11/2016	06/03/2017	20/10/2016	$715,000	531m	Full transfer	4	2	-	2	0	$715,000	23	-	Combined Record	-	-	-	Medium density dwelling	$354,000	0.5
+2016	475964	8 Whinham Place	13/02/2016	18/04/2016	03/01/2016	$710,000	421m	Full transfer	3	1	1	2	-	$710,000	41	-	Combined Record	190	-	-	Medium density dwelling	$354,000	0.5
+2016	489252	13 Walton Street	29/08/2016	18/10/2016	11/07/2016	$705,000	524m	Full transfer	3	1	1	2	-	$705,000	49	-	Combined Record	-	-	-	Medium density dwelling	$368,000	0.52
+2016	498383	3 Leeper Place	10/12/2016	16/02/2017	17/11/2016	$690,000	521m	Full transfer	3	1	1	2	0	$690,000	23	-	Combined Record	-	-	-	Medium density dwelling	$374,000	0.54
+2016	498985	            15/2 Walton Street	10/12/2016	02/03/2017	-	$690,000	12436m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491017	6 Rosson Place	10/12/2016	-	22/11/2016	$690,000	-	Full transfer	3	1	1	2	-	$690,000	18	-	Allhomes Record	149	-	-	-	$4,377,000	6.34
+2016	479235	4 Bee Place	13/04/2016	31/05/2016	30/03/2016	$669,000	592m	Full transfer	3	2	-	2	0	$669,000	14	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.54
+2016	491034	6/102 Julia Flynn Avenue	07/12/2016	-	10/11/2016	$640,000	12436m	Full transfer	3	2	-	2	-	$640,000	27	-	Allhomes Record	147	-	-	-	-	-
+2016	497804	            6/2 Walton Street	06/12/2016	23/02/2017	-	$640,000	12436m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	475956	10 Boehm Close	10/02/2016	18/04/2016	28/10/2015	$592,000	499m	Full transfer	4	1	1	2	0	$592,000	105	-	Combined Record	-	-	-	Medium density dwelling	$327,000	0.55
+2016	480948	36 Buntine Crescent	26/07/2016	-	19/04/2016	$505,000	891m	Full transfer	3	1	1	-	1	$505,000	98	-	Allhomes Record	145	-	-	-	$475,000	0.94
+2016	485707	2/36 Buntine Crescent	26/07/2016	01/09/2016	-	$505,000	891m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	499015	15/28 Ringrose Crescent	28/11/2016	03/03/2017	26/10/2016	$500,000	19263m	Full transfer	3	2	0	1	0	$500,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	493231	12/92 Julia Flynn Avenue	04/10/2016	06/12/2016	23/08/2016	$497,500	4631m	Full transfer	3	2	-	2	0	$497,500	42	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	495930	2/88 Julia Flynn Avenue	01/11/2016	03/01/2017	-	$495,000	2495m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495815	4/2 Farr Place	20/10/2016	03/01/2017	-	$330,000	350m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Office	-	-
+2016	491098	2 Farr Place	06/09/2016	-	07/06/2016	$330,000	0m	Full transfer	-	-	-	-	-	$330,000	91	-	Allhomes Record	-	-	-	-	$418,000	1.27
+2016	485614	            13/41 Alexander Mackie Circuit	22/02/2016	30/08/2016	-	$320,000	11956m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	491468	20 Ngunawal Drive	06/05/2016	22/11/2016	-	$0	1138m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492822	18/2 Walton Street	03/09/2016	13/12/2016	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	497445	1/2A Hansen Circuit	02/09/2016	21/02/2017	-	$0	1085m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	502506	1 Whitty Crescent	10/10/2016	18/04/2017	-	$0	1059m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475307	6/84 Julia Flynn Avenue	22/02/2016	13/04/2016	23/12/2015	$0	3669m	Full transfer	3	1	1	2	0	$0	61	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2016	555422	17 Davitt Close	06/02/2016	12/03/2019	-	$0	616m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	514080	3 Bee Place	20/09/2016	29/06/2017	-	$0	389m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	491411	7 Treacy Place	26/06/2016	23/11/2016	-	$0	794m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	492852	            8/41 Alexander Mackie Circuit	10/09/2016	16/12/2016	-	$0	11956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	503770	27 MacLagan Street	13/10/2016	26/04/2017	-	$0	825m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	484583	2/70 William Wilkins Crescent	29/03/2016	19/08/2016	-	$0	5689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	495259	            15/2 Walton Street	27/07/2016	17/01/2017	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500893	23 Rule Street	23/11/2016	28/03/2017	-	$0	313m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2016	497535	52 Ngunawal Drive	30/06/2016	23/02/2017	-	$0	1116m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	497992	7 Adkinson Close	18/10/2016	13/02/2017	-	$0	792m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	491461	20 Ngunawal Drive	31/08/2016	22/11/2016	-	$0	1138m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	500204	2/12A Hansen Circuit	11/05/2016	08/03/2017	-	$0	869m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	512412	3/88 Julia Flynn Avenue	13/10/2016	12/05/2017	-	$0	2495m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	479516	16/3 Shepherdson Place	22/01/2016	08/06/2016	-	$0	16449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	500554	6/52 Hansen Circuit	10/04/2016	14/03/2017	-	$0	15572m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2016	481381	14 Kaeppel Place	29/02/2016	12/07/2016	-	$0	774m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2016	475306	2 Davitt Close	01/04/2016	15/04/2016	-	$0	607m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	512398	11 Story Place	02/03/2017	09/05/2017	20/05/2016	$2,350,000	1856m	Full transfer	7	4	4	8	-	$2,350,000	286	-	Combined Record	-	-	-	Single residential dwelling	$760,000	0.32
+2017	517748	33 Whitty Crescent	14/06/2017	29/08/2017	25/11/2016	$1,625,000	1106m	Full transfer	6	4	-	6	0	$1,625,000	201	-	Combined Record	-	-	-	Single residential dwelling	$684,000	0.42
+2017	504778	7 Crook Place	25/03/2017	04/05/2017	01/03/2017	$1,182,000	1019m	Full transfer	5	3	-	3	0	$1,182,000	24	-	Combined Record	-	-	-	Single residential dwelling	$524,000	0.44
+2017	521008	10 Rooney Place	22/09/2017	28/11/2017	13/04/2017	$1,175,000	1436m	Full transfer	4	2	1	2	-	$1,175,000	162	-	Combined Record	248	-	-	Single residential dwelling	$561,000	0.48
+2017	512172	67 Julia Flynn Avenue	20/03/2017	17/05/2017	19/01/2017	$990,000	926m	Full transfer	4	2	0	2	0	$990,000	60	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.48
+2017	522411	37 Alexander Mackie Circuit	16/09/2017	12/12/2017	22/08/2017	$950,000	1078m	Full transfer	4	2	-	2	1	$950,000	25	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.47
+2017	524612	14 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	780m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524539	20 Adkinson Close	23/09/2017	30/01/2018	31/08/2017	$950,000	990m	Full transfer	4	2	-	2	0	$950,000	23	-	Combined Record	-	-	-	Single residential dwelling	$509,000	0.54
+2017	524838	23 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	984m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	525053	16 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	694m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524913	24 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	827m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524698	18 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	1095m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	524719	22 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	830m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503802	10 Kaeppel Place	13/02/2017	26/04/2017	15/11/2016	$950,000	866m	Full transfer	5	1	1	2	-	$950,000	90	-	Combined Record	223	-	-	Single residential dwelling	$435,000	0.46
+2017	524918	25 Adkinson Close	23/09/2017	30/01/2018	-	$950,000	1114m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513178	27 MacLagan Street	08/04/2017	06/06/2017	08/03/2017	$945,000	825m	Full transfer	5	3	-	2	0	$945,000	31	-	Combined Record	-	-	-	Single residential dwelling	$334,000	0.35
+2017	513865	12 Kaeppel Place	27/04/2017	21/06/2017	01/03/2017	$942,500	1078m	Full transfer	4	1	1	2	-	$942,500	57	-	Combined Record	-	-	-	Single residential dwelling	$352,000	0.37
+2017	512506	6 Rowntree Crescent	01/04/2017	11/05/2017	13/01/2017	$940,000	834m	Full transfer	4	3	-	2	0	$940,000	78	-	Combined Record	-	-	-	Single residential dwelling	$495,000	0.53
+2017	516577	49 William Wilkins Crescent	17/05/2017	08/08/2017	15/02/2017	$940,000	1023m	Full transfer	4	2	-	2	0	$940,000	91	-	Combined Record	-	-	-	Single residential dwelling	$524,000	0.56
+2017	513345	6 Kepert Place	21/03/2017	01/06/2017	14/06/2016	$935,000	1320m	Full transfer	4	1	1	2	-	$935,000	280	-	Combined Record	303	-	-	Single residential dwelling	$423,000	0.45
+2017	518708	21 MacLagan Street	07/06/2017	22/09/2017	06/04/2017	$875,000	814m	Full transfer	4	2	-	2	0	$875,000	62	-	Combined Record	-	-	-	Single residential dwelling	$433,000	0.49
+2017	510835	            42 Ngunnawal Drive	21/12/2017	-	10/10/2017	$870,000	0m	Full transfer	4	3	-	2	0	$870,000	72	-	Allhomes Record	-	-	-	-	-	-
+2017	528650	42 Ngunawal Drive	21/12/2017	23/03/2018	-	$867,400	1065m	Full transfer	-	-	-	-	-	$867,400	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	523861	13 Alexander Mackie Circuit	25/10/2017	24/01/2018	24/08/2017	$850,000	1047m	Full transfer	4	2	-	2	0	$850,000	62	-	Combined Record	-	-	-	Single residential dwelling...	$442,000	0.52
+2017	527694	7 Bridges Place	11/11/2017	14/03/2018	19/10/2017	$840,000	815m	Full transfer	3	2	-	2	0	$840,000	23	-	Combined Record	-	-	-	Single residential dwelling	$474,000	0.56
+2017	505163	5/12 Reddall Close	25/03/2017	01/05/2017	-	$825,000	1906m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	499264	12 Reddall Close	25/03/2017	-	28/02/2017	$825,000	0m	Full transfer	4	2	-	4	0	$825,000	25	-	Allhomes Record	-	-	-	-	-	-
+2017	518086	1 Treacy Place	15/07/2017	29/08/2017	22/06/2017	$820,000	828m	Full transfer	4	2	-	3	0	$820,000	23	-	Combined Record	-	-	-	Single residential dwelling	$442,000	0.54
+2017	514539	5 Kane Place	07/04/2017	06/07/2017	30/03/2017	$775,000	613m	Full transfer	3	2	-	2	0	$775,000	8	-	Combined Record	-	-	-	Medium density dwelling	$368,000	0.47
+2017	502933	2 Edney Place	11/02/2017	12/04/2017	19/01/2017	$775,000	582m	Full transfer	3	2	-	2	0	$775,000	23	-	Combined Record	-	-	-	Medium density dwelling	$386,000	0.5
+2017	505626	9 Davitt Close	18/06/2017	-	25/05/2017	$773,000	659m	Full transfer	4	2	-	2	0	$773,000	24	-	Allhomes Record	-	-	-	-	$384,000	0.5
+2017	523426	5/23 Shepherdson Place	26/08/2017	17/01/2018	03/08/2017	$765,000	6454m	Full transfer	4	2	-	2	0	$765,000	23	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	526041	            16/3 Hansen Circuit	04/11/2017	14/02/2018	-	$758,000	15808m	Full transfer	-	-	-	-	-	$758,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509182	"16/60 ""Pine Grove"" Hansen Circuit"	04/11/2017	-	17/10/2017	$758,000	496m	Full transfer	4	2	-	2	-	$758,000	18	-	Allhomes Record	-	-	-	-	$4,754,000	6.27
+2017	512741	6 Boehm Close	17/03/2017	24/05/2017	-	$747,500	637m	Full transfer	-	-	-	-	-	$747,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	522552	127 Julia Flynn Avenue	14/09/2017	11/01/2018	25/07/2017	$746,000	793m	Full transfer	3	1	-	2	-	$746,000	51	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.62
+2017	512500	7 Adkinson Close	11/04/2017	11/05/2017	15/03/2017	$742,000	792m	Full transfer	3	1	1	2	-	$742,000	27	-	Combined Record	-	-	-	Single residential dwelling	$406,000	0.55
+2017	515679	            2/41 Alexander Mackie Circuit	09/06/2017	20/07/2017	-	$730,000	11956m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	505523	2/51 Alexander Mackie Circuit	13/06/2017	-	16/05/2017	$730,000	11956m	Full transfer	4	2	-	2	0	$730,000	28	-	Allhomes Record	-	-	-	-	-	-
+2017	523503	12 Boehm Close	19/08/2017	16/01/2018	27/07/2017	$725,000	613m	Full transfer	3	2	-	2	0	$725,000	23	-	Combined Record	-	-	-	Medium density dwelling	$358,000	0.49
+2017	513129	8 Rowntree Crescent	20/01/2017	07/06/2017	-	$720,000	763m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	503812	3 Boehm Close	09/03/2017	26/04/2017	-	$710,000	515m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	512845	12 Walton Street	08/04/2017	24/05/2017	22/03/2017	$708,500	445m	Full transfer	3	2	-	2	0	$708,500	17	-	Combined Record	-	-	-	Medium density dwelling	$331,000	0.47
+2017	502878	6/52 Hansen Circuit	02/03/2017	10/04/2017	13/01/2017	$705,000	15572m	Full transfer	4	2	-	2	0	$705,000	48	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	516285	3 Bee Place	19/06/2017	08/08/2017	04/05/2017	$699,000	389m	Full transfer	3	1	1	2	-	$699,000	46	-	Combined Record	148	-	-	Medium density dwelling	$361,000	0.52
+2017	528234	            14/3 Hansen Circuit	09/12/2017	25/03/2018	-	$685,000	15808m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	510448	14/60 Hansen Circuit	09/12/2017	-	16/11/2017	$685,000	-	Full transfer	4	1	1	2	-	$685,000	23	-	Allhomes Record	165	-	-	-	-	-
+2017	513288	5 Rule Street	24/04/2017	06/06/2017	-	$685,000	658m	Full transfer	-	-	-	-	-	$685,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	523912	            1/12A Hansen Circuit	21/10/2017	22/01/2018	-	$675,000	869m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	508757	12A Hansen Circuit	21/10/2017	-	28/09/2017	$675,000	0m	Full transfer	3	2	-	1	0	$675,000	23	-	Allhomes Record	-	-	-	-	$488,000	0.72
+2017	514532	2/12A Hansen Circuit	20/05/2017	05/07/2017	-	$630,000	869m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	504209	12B Hansen Circuit	20/05/2017	-	27/04/2017	$630,000	0m	Full transfer	3	2	-	1	0	$630,000	23	-	Allhomes Record	-	-	-	-	$488,000	0.77
+2017	532368	9/84 Julia Flynn Avenue	12/12/2017	10/05/2018	08/08/2017	$620,000	3669m	Full transfer	3	2	-	2	0	$620,000	126	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	526269	7 Dettmann Close	12/12/2017	27/02/2018	21/11/2017	$616,000	487m	Full transfer	3	2	-	2	0	$616,000	21	-	Combined Record	-	-	-	Medium density dwelling	$361,000	0.59
+2017	515528	23 Ringrose Crescent	10/05/2017	10/07/2017	22/03/2017	$600,000	450m	Full transfer	3	2	-	2	0	$600,000	49	-	Combined Record	-	-	-	Medium density dwelling	$352,000	0.59
+2017	516620	1 Davitt Close	07/06/2017	07/08/2017	-	$600,000	700m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	519942	            1/36 Buntine Crescent	29/08/2017	22/10/2017	-	$560,000	891m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	507458	1/129 Julia Flynn Avenue	29/08/2017	-	28/06/2017	$560,000	891m	Full transfer	3	1	1	1	-	$560,000	62	-	Allhomes Record	145	-	-	-	$475,000	0.85
+2017	508723	1/98-110 Julia Flynn Avenue	20/10/2017	-	17/08/2017	$550,000	0m	Full transfer	3	2	-	2	0	$550,000	64	-	Allhomes Record	-	-	-	-	$4,377,000	7.96
+2017	521980	            1/2 Walton Street	19/10/2017	04/01/2018	-	$550,000	12436m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	515107	20/3 Shepherdson Place	26/05/2017	10/07/2017	19/04/2017	$528,000	16449m	Full transfer	3	2	-	2	-	$528,000	37	-	Combined Record	107	-	-	Multiple unit dwelling	-	-
+2017	508349	4/28 Ringrose Crescent	27/09/2017	-	28/08/2017	$512,000	19263m	Full transfer	3	1	1	1	-	$512,000	30	-	Allhomes Record	124	-	-	-	-	-
+2017	512387	31/28 Ringrose Crescent	08/03/2017	10/05/2017	31/01/2017	$495,000	19263m	Full transfer	3	1	1	1	-	$495,000	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2017	519782	            7/2 Gladman Close	01/08/2017	22/10/2017	-	$445,000	6093m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	509560	2 Farr Place	01/10/2017	-	06/09/2017	$410,000	0m	Full transfer	-	-	-	-	-	$410,000	25	-	Allhomes Record	-	-	-	-	$418,000	1.02
+2017	522462	3/2 Farr Place	04/12/2017	14/01/2018	-	$410,000	350m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Office	-	-
+2017	502475	23 Rule Street	08/03/2017	21/04/2017	-	$353,333	313m	Full transfer	-	-	-	-	-	$353,333	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	523684	2 Leeper Place	12/09/2017	18/01/2018	-	$345,000	568m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	540328	4/70 William Wilkins Crescent	31/08/2017	23/08/2018	-	$0	5689m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2017	517603	7 Dettmann Close	28/02/2017	23/08/2017	-	$0	487m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	529121	71 William Wilkins Crescent	09/12/2017	26/03/2018	02/11/2017	$0	1032m	Full transfer	4	2	1	3	-	$0	37	-	Combined Record	-	-	-	Single residential dwelling	$503,000	1.02
+2017	542383	21 Ringrose Crescent	14/07/2017	20/09/2018	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	520859	4 Story Place	09/09/2017	24/11/2017	-	$0	911m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	502585	12 Walton Street	06/02/2017	18/04/2017	-	$0	445m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2017	519881	26 Ngunawal Drive	12/08/2017	16/10/2017	-	$0	962m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	520683	15 Rowntree Crescent	24/05/2017	10/11/2017	-	$0	860m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2017	513204	10 Dettmann Close	26/02/2017	09/06/2017	-	$0	592m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	543996	2 Reddall Close	05/04/2018	08/10/2018	19/02/2018	$1,555,000	1059m	Full transfer	5	2	1	3	-	$1,555,000	45	-	Combined Record	328	-	-	Single residential dwelling	$575,000	0.37
+2018	532442	16 Alanson Place	24/05/2018	-	08/05/2018	$1,550,000	1506m	Full transfer	5	3	-	2	0	$1,550,000	16	-	Allhomes Record	-	-	-	-	$503,000	0.32
+2018	541714	1 Alexander Mackie Circuit	25/07/2018	10/09/2018	22/05/2018	$1,150,000	1106m	Full transfer	4	1	2	2	-	$1,150,000	64	-	Combined Record	-	-	-	Single residential dwelling	$446,000	0.39
+2018	560382	40 William Wilkins Crescent	21/12/2018	13/02/2019	04/10/2018	$1,120,000	967m	Full transfer	5	3	-	4	0	$1,120,000	78	-	Combined Record	-	-	-	Single residential dwelling	$530,000	0.47
+2018	540372	29 William Wilkins Crescent	26/06/2018	22/08/2018	10/05/2018	$1,100,000	838m	Full transfer	5	3	-	2	0	$1,100,000	47	-	Combined Record	-	-	-	Single residential dwelling	$494,000	0.45
+2018	561796	4 Buntine Crescent	15/11/2018	07/02/2019	21/09/2018	$1,085,000	1247m	Full transfer	5	3	-	2	0	$1,085,000	55	-	Combined Record	-	-	-	Single residential dwelling	$529,000	0.49
+2018	525265	17 Whitty Crescent	23/02/2018	-	24/11/2017	$1,085,000	-	Full transfer	4	1	1	2	1	$1,085,000	91	-	Allhomes Record	-	-	-	-	$556,000	0.51
+2018	543992	            5/5 Broinowski Place	11/08/2018	08/10/2018	-	$970,000	9779m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	538766	5/11 Broinowski Place	11/08/2018	-	19/07/2018	$970,000	0m	Full transfer	4	2	-	0	2	$970,000	23	-	Allhomes Record	-	-	-	-	-	-
+2018	550086	15 Rowntree Crescent	16/10/2018	10/12/2018	11/09/2018	$965,000	860m	Full transfer	4	2	-	2	0	$965,000	35	-	Combined Record	-	-	-	Single residential dwelling	$461,000	0.48
+2018	561404	14 Whitty Crescent	27/09/2018	24/12/2018	06/09/2018	$940,000	775m	Full transfer	4	3	-	2	0	$940,000	21	-	Combined Record	-	-	-	Single residential dwelling	$556,000	0.59
+2018	543209	7 Byatt Place	13/07/2018	05/10/2018	-	$915,000	1531m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	541370	123 Julia Flynn Avenue	17/07/2018	07/09/2018	12/06/2018	$900,000	1040m	Full transfer	4	1	1	3	-	$900,000	35	-	Combined Record	-	-	-	Single residential dwelling	$529,000	0.59
+2018	551723	38 Rowntree Crescent	16/09/2018	07/01/2019	27/08/2018	$895,000	698m	Full transfer	4	1	1	2	-	$895,000	20	-	Combined Record	-	-	-	Single residential dwelling	$427,000	0.48
+2018	549046	17 Walton Street	29/09/2018	19/12/2018	06/09/2018	$863,000	722m	Full transfer	3	2	-	2	0	$863,000	23	-	Combined Record	-	-	-	Medium density dwelling	$440,000	0.51
+2018	538860	25 MacLagan Street	06/06/2018	01/08/2018	19/04/2018	$850,000	1096m	Full transfer	4	2	-	2	0	$850,000	48	-	Combined Record	-	-	-	Single residential dwelling	$462,000	0.54
+2018	552219	4/52 Hansen Circuit	16/10/2018	22/01/2019	28/09/2018	$847,000	15572m	Full transfer	4	2	-	2	0	$847,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	552992	56 William Wilkins Crescent	06/10/2018	04/02/2019	11/09/2018	$821,000	849m	Full transfer	3	2	-	2	0	$821,000	25	-	Combined Record	-	-	-	Single residential dwelling	$464,000	0.57
+2018	538573	5B Buntine Crescent	30/04/2018	23/07/2018	23/04/2018	$800,000	458m	Full transfer	4	2	-	2	0	$800,000	7	-	Combined Record	-	-	-	Medium density dwelling	$401,000	0.5
+2018	560847	21 Hansen Circuit	24/10/2018	10/12/2018	07/09/2018	$785,000	680m	Full transfer	3	1	1	2	-	$785,000	47	-	Combined Record	169	-	-	Medium density dwelling	$368,000	0.47
+2018	536195	5 Walton Street	20/04/2018	26/06/2018	17/04/2018	$775,000	612m	Full transfer	3	2	-	2	0	$775,000	3	-	Combined Record	-	-	-	Medium density dwelling	$413,000	0.53
+2018	548621	1/3 Hansen Circuit	27/11/2018	15/01/2019	16/08/2018	$770,000	15808m	Full transfer	4	2	-	2	0	$770,000	103	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	534574	49 Julia Flynn Avenue	31/05/2018	06/06/2018	-	$750,000	945m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	552835	8/3 Hansen Circuit	13/12/2018	06/02/2019	07/11/2018	$722,500	15808m	Full transfer	3	2	-	2	-	$722,500	36	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	536430	22 Ellwood Crescent	12/04/2018	27/06/2018	29/01/2018	$711,000	602m	Full transfer	3	1	-	2	0	$711,000	73	-	Combined Record	-	-	-	Medium density dwelling	$371,000	0.52
+2018	539638	11 Rule Street	05/04/2018	07/08/2018	-	$700,000	368m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	547204	5 Gratton Place	15/09/2018	22/11/2018	30/08/2018	$662,500	504m	Full transfer	3	1	-	-	1	$662,500	16	-	Combined Record	118	-	-	Medium density dwelling	$384,000	0.58
+2018	532958	2 Gladman Close	01/06/2018	-	16/03/2018	$650,000	632m	Full transfer	3	2	-	2	0	$650,000	77	-	Allhomes Record	-	-	-	-	$2,046,000	3.15
+2018	538249	4/2 Gladman Close	01/06/2018	29/07/2018	-	$650,000	6093m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	539256	98 Julia Flynn Avenue	16/08/2018	-	26/07/2018	$640,000	0m	Full transfer	3	2	-	2	0	$640,000	21	-	Allhomes Record	-	-	-	-	$4,377,000	6.84
+2018	547646	1/98 Julia Flynn Avenue	16/08/2018	30/11/2018	-	$640,000	12436m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532616	1 Boehm Close	16/03/2018	14/05/2018	11/01/2018	$640,000	402m	Full transfer	3	1	-	2	0	$640,000	64	-	Combined Record	-	-	-	Medium density dwelling	$344,000	0.54
+2018	538240	2/14A Hansen Circuit	23/05/2018	26/07/2018	-	$615,000	1108m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	532136	14A Hansen Circuit	23/05/2018	-	22/03/2018	$615,000	499m	Full transfer	3	1	-	2	0	$615,000	62	-	Allhomes Record	-	-	-	-	$516,000	0.84
+2018	544489	12 Gratton Place	13/07/2018	16/10/2018	-	$590,000	375m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	531571	19/28 Ringrose Crescent	02/02/2018	29/04/2018	31/10/2017	$545,000	19263m	Full transfer	3	1	1	1	-	$545,000	94	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	549726	11/28 Ringrose Crescent	24/10/2018	20/12/2018	09/08/2018	$522,000	19263m	Full transfer	3	2	-	1	0	$522,000	76	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	527818	9/2 Adkinson Close	03/04/2018	-	01/03/2018	$515,500	0m	Full transfer	2	1	-	1	-	$515,500	33	-	Allhomes Record	-	-	-	-	$2,046,000	3.97
+2018	533903	            9/2 Gladman Close	03/04/2018	30/05/2018	-	$515,500	6093m	Full transfer	-	-	-	-	-	$515,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	536236	1/28 Ringrose Crescent	05/05/2018	25/06/2018	11/04/2018	$445,000	19263m	Full transfer	2	1	-	1	0	$445,000	24	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2018	523313	5/2 Farr Place	16/01/2018	17/01/2018	-	$300,000	350m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office	-	-
+2018	533285	5 Byatt Place	28/03/2018	22/05/2018	-	$0	962m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	535432	8/52 Hansen Circuit	28/01/2018	24/06/2018	-	$0	15572m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543802	4/92 Julia Flynn Avenue	13/01/2018	11/10/2018	-	$0	4631m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	530838	37 Hansen Circuit	09/02/2018	19/04/2018	-	$0	532m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2018	535644	            6/98 Julia Flynn Avenue	23/01/2018	24/06/2018	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2018	543616	64 Julia Flynn Avenue	28/06/2018	11/10/2018	-	$0	1052m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2018	561335	6 Dettmann Close	21/06/2018	20/02/2019	-	$0	450m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	568955	33 Whitty Crescent	22/03/2019	05/09/2019	01/02/2019	$1,600,000	1106m	Full transfer	6	4	-	0	7	$1,600,000	49	-	Combined Record	-	-	-	Single residential dwelling	$726,000	0.45
+2019	576333	4 Rowntree Crescent	14/09/2019	09/12/2019	22/08/2019	$1,500,000	900m	Full transfer	4	3	-	3	0	$1,500,000	23	-	Combined Record	-	-	-	Single residential dwelling	$525,000	0.35
+2019	571743	35 Whitty Crescent	09/11/2019	-	17/10/2019	$1,400,000	1338m	Full transfer	6	4	-	3	0	$1,400,000	23	-	Allhomes Record	-	-	-	-	$793,000	0.57
+2019	571180	2 Chapple Close	19/10/2019	-	26/09/2019	$1,310,000	0m	Full transfer	5	3	-	3	0	$1,310,000	23	-	Allhomes Record	-	-	-	-	$628,000	0.48
+2019	571728	3 Rooney Place	08/11/2019	-	17/10/2019	$1,300,000	1290m	Full transfer	6	4	-	2	0	$1,300,000	22	-	Allhomes Record	-	-	-	-	$682,000	0.52
+2019	556960	5 Braim Place	11/02/2019	02/04/2019	17/10/2018	$1,250,000	951m	Full transfer	4	3	-	4	0	$1,250,000	117	-	Combined Record	-	-	-	Single residential dwelling	$594,000	0.48
+2019	575843	14 Buntine Crescent	09/11/2019	07/12/2019	17/10/2019	$1,127,000	1228m	Full transfer	4	2	-	2	0	$1,127,000	23	-	Combined Record	-	-	-	Single residential dwelling	$564,000	0.5
+2019	571872	8 Whitty Crescent	12/11/2019	-	17/10/2019	$1,100,000	0m	Full transfer	4	2	-	3	0	$1,100,000	26	-	Allhomes Record	-	-	-	-	$566,000	0.51
+2019	561065	4 Alanson Place	17/05/2019	31/05/2019	27/03/2019	$1,040,000	887m	Full transfer	4	2	-	2	-	$1,040,000	51	-	Combined Record	240	-	-	Single residential dwelling	$605,000	0.58
+2019	568614	30 Rowntree Crescent	14/09/2019	-	22/08/2019	$1,015,000	0m	Full transfer	4	2	-	2	0	$1,015,000	23	-	Allhomes Record	-	-	-	-	$464,000	0.46
+2019	571781	12 Buntine Crescent	11/11/2019	-	17/10/2019	$965,000	987m	Full transfer	3	2	-	2	0	$965,000	25	-	Allhomes Record	-	-	-	-	$524,000	0.54
+2019	574500	19 Adkinson Close	08/10/2019	20/11/2019	30/08/2019	$935,000	726m	Full transfer	4	2	-	2	0	$935,000	39	-	Combined Record	-	-	-	Single residential dwelling	$470,000	0.5
+2019	564664	26 Ngunawal Drive	06/04/2019	15/07/2019	14/03/2019	$920,000	962m	Full transfer	5	3	-	2	0	$920,000	23	-	Combined Record	-	-	-	Single residential dwelling	$494,000	0.54
+2019	562473	60 Ngunawal Drive	06/04/2019	12/06/2019	14/03/2019	$917,500	1048m	Full transfer	4	2	-	0	2	$917,500	23	-	Combined Record	-	-	-	Single residential dwelling	$691,000	0.75
+2019	563839	4 Venables Place	28/03/2019	04/07/2019	29/11/2018	$912,000	1076m	Full transfer	5	2	-	2	0	$912,000	119	-	Combined Record	-	-	-	Single residential dwelling	$493,000	0.54
+2019	563178	15 Adkinson Close	03/04/2019	17/06/2019	04/02/2019	$885,000	822m	Full transfer	4	2	-	0	2	$885,000	58	-	Combined Record	-	-	-	Single residential dwelling	$435,000	0.49
+2019	556018	15 Adkinson Close	05/04/2019	-	08/04/2019	$885,000	0m	Full transfer	4	2	-	2	-	$885,000	-	-	Allhomes Record	-	-	-	-	$435,000	0.49
+2019	564095	66 William Wilkins Crescent	26/04/2019	02/07/2019	28/02/2019	$879,000	744m	Full transfer	5	2	-	2	-	$879,000	57	-	Combined Record	-	-	-	Single residential dwelling	$421,000	0.48
+2019	572367	5 Walton Street	15/08/2019	14/10/2019	09/07/2019	$860,000	612m	Full transfer	3	2	-	2	0	$860,000	37	-	Combined Record	-	-	-	Medium density dwelling	$413,000	0.48
+2019	570541	36 Julia Flynn Avenue	03/07/2019	27/09/2019	09/05/2019	$850,000	936m	Full transfer	4	2	-	2	0	$850,000	55	-	Combined Record	-	-	-	Single residential dwelling	$500,000	0.59
+2019	559729	1/10 Reddall Close	26/04/2019	-	31/01/2019	$815,000	0m	Full transfer	4	2	-	2	0	$815,000	85	-	Allhomes Record	-	-	-	-	-	-
+2019	565048	            1/12 Reddall Close	30/05/2019	09/07/2019	-	$815,000	1906m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574095	3 Buntine Crescent	06/12/2019	-	13/11/2019	$815,000	458m	Full transfer	4	2	-	2	0	$815,000	23	-	Allhomes Record	-	-	-	-	$430,000	0.53
+2019	571677	41 Alexander Mackie Circuit	08/11/2019	-	24/10/2019	$810,000	0m	Full transfer	4	2	-	2	0	$810,000	15	-	Allhomes Record	-	-	-	-	$3,569,000	4.41
+2019	576810	            14/51 Alexander Mackie Circuit	07/11/2019	11/12/2019	-	$810,000	11956m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	567793	12 Ringrose Crescent	29/06/2019	20/08/2019	06/06/2019	$805,000	478m	Full transfer	4	2	-	2	0	$805,000	23	-	Combined Record	-	-	-	Medium density dwelling	$401,000	0.5
+2019	575471	1 Gratton Place	14/12/2019	-	21/11/2019	$800,000	0m	Full transfer	4	2	-	2	0	$800,000	23	-	Allhomes Record	-	-	-	-	$426,000	0.53
+2019	568245	5 Edney Place	28/06/2019	29/08/2019	06/06/2019	$800,000	454m	Full transfer	3	2	-	2	0	$800,000	22	-	Combined Record	-	-	-	Single residential dwelling	$419,000	0.52
+2019	560287	2/70 William Wilkins Crescent	21/03/2019	30/05/2019	31/01/2019	$785,000	5689m	Full transfer	3	2	-	2	0	$785,000	49	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	571774	41 Rule Street	08/11/2019	-	31/10/2019	$785,000	0m	Full transfer	3	2	-	2	0	$785,000	8	-	Allhomes Record	-	-	-	-	$422,000	0.54
+2019	574281	5/51 Alexander Mackie Circuit	06/09/2019	15/11/2019	25/07/2019	$775,000	11956m	Full transfer	3	2	1	2	0	$775,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	563545	1/70 William Wilkins Crescent	13/03/2019	24/06/2019	29/01/2019	$750,000	5689m	Full transfer	3	2	-	2	-	$750,000	43	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	566583	2 Boehm Close	15/06/2019	06/08/2019	23/05/2019	$737,000	510m	Full transfer	3	2	-	2	0	$737,000	23	-	Combined Record	-	-	-	Medium density dwelling	$344,000	0.47
+2019	557918	5 Rule Street	21/02/2019	15/04/2019	10/01/2019	$734,000	658m	Full transfer	3	2	-	2	1	$734,000	42	-	Combined Record	-	-	-	Medium density dwelling	$388,000	0.53
+2019	554282	            6/98 Julia Flynn Avenue	18/01/2019	01/03/2019	-	$720,000	12436m	Full transfer	-	-	-	-	-	$720,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	546430	6/102 Julia Flynn Avenue	18/01/2019	-	14/12/2018	$720,000	292m	Full transfer	3	2	-	2	0	$720,000	35	-	Allhomes Record	-	-	-	-	-	-
+2019	569563	2 Kane Place	28/09/2019	-	04/09/2019	$700,000	-	Full transfer	3	2	-	2	-	$700,000	24	-	Allhomes Record	133	-	-	-	$386,000	0.55
+2019	574863	11 Rule Street	28/09/2019	14/11/2019	-	$700,000	368m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	569068	5 Rosson Place	22/06/2019	02/09/2019	28/05/2019	$675,000	582m	Full transfer	4	2	-	2	0	$675,000	25	-	Combined Record	-	-	-	Medium density dwelling	$368,000	0.55
+2019	552837	4/92 Julia Flynn Avenue	05/02/2019	05/02/2019	-	$666,000	4631m	Full transfer	-	-	-	-	-	$666,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573596	3 Davitt Close	30/08/2019	05/11/2019	25/10/2018	$660,000	624m	Full transfer	3	2	-	1	0	$660,000	309	-	Combined Record	-	-	-	Medium density dwelling	$376,000	0.57
+2019	566371	19/110 Julia Flynn Avenue	14/08/2019	-	09/05/2019	$655,000	313m	Full transfer	3	2	-	2	0	$655,000	97	-	Allhomes Record	-	-	-	-	-	-
+2019	570372	            19/98 Julia Flynn Avenue	14/08/2019	27/09/2019	-	$655,000	12436m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	558314	7/92 Julia Flynn Avenue	25/02/2019	02/05/2019	07/02/2019	$631,000	4631m	Full transfer	3	2	-	2	0	$631,000	18	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	574754	5/92 Julia Flynn Avenue	02/08/2019	21/11/2019	09/05/2019	$600,000	4631m	Full transfer	3	2	-	2	0	$600,000	85	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	561568	6/88 Julia Flynn Avenue	21/01/2019	21/02/2019	04/09/2018	$575,000	2495m	Full transfer	3	2	-	2	0	$575,000	139	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	573111	22 Julia Flynn Avenue	01/10/2019	29/10/2019	-	$555,000	504m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	570123	28/28 Ringrose Crescent	21/08/2019	26/09/2019	24/07/2019	$537,000	19263m	Full transfer	3	2	-	1	0	$537,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2019	572423	26/28 Ringrose Crescent	15/11/2019	-	20/03/2019	$527,000	-	Full transfer	3	1	1	1	-	$527,000	240	-	Allhomes Record	106	-	-	-	-	-
+2019	572337	32/28 Ringrose Crescent	08/05/2019	14/10/2019	-	$510,000	19263m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	561516	5 Rosson Place	22/03/2019	28/05/2019	-	$0	582m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2019	563287	30 Hansen Circuit	27/04/2019	27/06/2019	-	$0	1388m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2019	576638	6 Taber Place	07/07/2019	12/12/2019	-	$0	785m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	555599	            14/51 Alexander Mackie Circuit	08/02/2019	21/03/2019	-	$0	11956m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	574457	14 Buntine Crescent	08/09/2019	20/11/2019	-	$0	1228m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	556274	6/23 Shepherdson Place	14/02/2019	26/03/2019	-	$0	6454m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	562418	30 Rowntree Crescent	25/03/2019	05/06/2019	-	$0	877m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2019	574253	            9/98 Julia Flynn Avenue	16/09/2019	13/11/2019	-	$0	12436m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2019	573803	19 Rule Street	09/05/2019	04/11/2019	-	$0	314m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Medium density dwelling	-	-
