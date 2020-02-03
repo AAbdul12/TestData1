@@ -1,0 +1,6 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2007	21900	            9 Ballard Place	17/10/2007	-	28/08/2007	$560,000	822m	Full transfer	5	1	1	2	-	$560,000	50	-	Allhomes Record	-	-	-	-	-	-
+2007	21929	            11/13 Steffanoni Circuit	04/10/2007	-	28/08/2007	$365,000	-	Full transfer	3	1	-	1	-	$365,000	37	-	Allhomes Record	-	-	-	-	-	-
+2008	22816	            11B Scratchley Place	27/10/2008	-	09/09/2008	$445,000	1192m	Full transfer	3	1	1	2	-	$445,000	48	-	Allhomes Record	-	-	-	-	$292,000	0.66
+2009	247566	            1/5 Blakey Close	24/12/2009	-	27/11/2009	$449,000	5605m	Full transfer	3	1	1	2	-	$449,000	27	-	Allhomes Record	-	-	-	-	$942,000	2.1
+2011	278945	            12/30 William Hudson Crescent	24/02/2011	-	20/11/2010	$454,950	8654m	Full transfer	3	1	1	2	-	$454,950	96	-	Allhomes Record	-	-	-	-	$2,842,000	6.25
